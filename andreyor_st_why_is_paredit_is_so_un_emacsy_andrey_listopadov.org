@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9946459f-5b9f-4dd3-92a1-ed0ced4c92b7
+:ROAM_REFS: https://andreyor.st/posts/2021-09-30-why-is-paredit-is-so-un-emacsy/
+:END:
+#+title: (andreyor.st) Why is Paredit is so un-Emacsy? · Andrey Listopadov
+#+filetags: :lisp:programming:software_development:opinion:emacs:blog_post:website:
+
+* Links to
+** [[id:c46dcae5-7607-406b-a794-a1838735e6f6][(github.com) dotfiles/.config/emacs at master · andreyorst/dotfiles]]
+* See Also
+** [[id:6f521908-979f-4f4b-a579-6be014dc476e][Paredit]]

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       6f521908-979f-4f4b-a579-6be014dc476e
+:END:
+#+title: Paredit
+#+filetags: :software_development:software:programming:text_editing:emacs_lisp:lisp:emacs:
+
+[[id:aca1324c-b142-4e34-a121-a8bb0a79ddf8][Emacs]] package that provides a minor mode for editing parenthesis, primarily intended for editing [[id:84ae6e85-a6a2-4133-bc53-274238081c2d][Lisp]] code.  A similar package is [[id:8278042c-72a7-4eac-806f-e369ffdd82c3][Smartparens]].
+* (paredit.org) paredit — parenthetical editing in Emacs            :website:
+:PROPERTIES:
+:ID:       fa9ee46b-81b9-4c6f-a784-f0cca7d74256
+:ROAM_REFS: https://paredit.org/
+:END:
