@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       b5fb5c4b-d10f-4bca-91e1-a5e946ef0c83
+:END:
+#+title: Common Lisp
+
+A [[id:84ae6e85-a6a2-4133-bc53-274238081c2d][Lisp]] [[id:b24601aa-09df-41e1-aa7e-25ead342db34][programming language]] dialect standardized by [[https://www.ansi.org/][ANSI]] in 1994 after initially being developed in 1984.
+* See Also
+ - [[https://en.wikipedia.org/wiki/Common_Lisp][Common Lisp - Wikipedia]]

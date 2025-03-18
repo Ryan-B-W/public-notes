@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       165d540b-70bf-4646-a817-0c5f8c920fa9
+:ROAM_REFS: https://www.cambridge.org/core/books/computational-complexity/3453CAFDEB0B4820B186FE69A64E1086
+:END:
+#+title: (www.cambridge.org) Computational Complexity
+#+filetags: :algorithms:mathematics:computer_science:books:website:
+
+#+begin_quote
+  * Computational Complexity: A Modern Approach
+
+  - [[https://www.cambridge.org/core/search?filters%5BauthorTerms%5D=Sanjeev%20Arora&eventCode=SE-AU][Sanjeev Arora]], Princeton University, New Jersey, [[https://www.cambridge.org/core/search?filters%5BauthorTerms%5D=Boaz%20Barak&eventCode=SE-AU][Boaz Barak]], Princeton University, New Jersey
+
+  - Publisher: Cambridge University Press
+  - Online publication date: June 2012
+  - Print publication year: 2009
+  - Online ISBN: 9780511804090
+  - DOI: [[https://doi.org/10.1017/CBO9780511804090]]
+
+  - Subjects: [[https://www.cambridge.org/core/browse-subjects/computer-science/algorithmics-complexity-computer-algebra-computational-geometry][Algorithmics, Complexity, Computer Algebra, Computational Geometry]], [[https://www.cambridge.org/core/browse-subjects/computer-science][Computer Science]]
+
+  *** Book description
+
+  This beginning graduate textbook describes both recent achievements and classical results of computational complexity theory.  Requiring essentially no background apart from mathematical maturity, the book can be used as a reference for self-study for anyone interested in complexity, including physicists, mathematicians, and other scientists, as well as a textbook for a variety of courses and seminars.  More than 300 exercises are included with a selected hint set.  The book starts with a broad introduction to the field and progresses to advanced results.  Contents include: definition of Turing machines and basic time and space complexity classes, probabilistic algorithms, interactive proofs, cryptography, quantum computation, lower bounds for concrete computational models (decision trees, communication complexity, constant depth, algebraic and monotone circuits, proof complexity), average-case complexity and hardness amplification, derandomization and pseudorandom constructions, and the PCP theorem.
+
+  *** Reviews
+
+  'This book by two leading theoretical computer scientists provides a comprehensive, insightful and mathematically precise overview of computational complexity theory, ranging from early foundational work to emerging areas such as quantum computation and hardness of approximation.  It will serve the needs of a wide audience, ranging from experienced researchers to graduate students and ambitious undergraduates seeking an introduction to the mathematical foundations of computer science.  I will keep it at my side as a useful reference for my own teaching and research.'
+
+  Richard M. Karp - University of California at Berkeley
+
+  'This text is a major achievement that brings together all of the important developments in complexity theory.  Student and researchers alike will find it to be an immensely useful resource.'
+
+  Michael Sipser - author of Introduction to the Theory of Computation
+
+  'Computational complexity theory is at the core of theoretical computer science research.  This book contains essentially all of the (many) exciting developments of the last two decades, with high level intuition and detailed technical proofs.  It is a must for everyone interested in this field.'
+
+  Avi Wigderson - Professor, Institute for Advanced Study, Princeton
+#+end_quote

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       dbdd9131-2ccd-4a7d-a780-2ebd2aceed8c
+:ROAM_REFS: https://www.amazon.com/dp/0262561271
+:END:
+#+title: (www.amazon.com) The Computational Beauty of Nature: Computer Explorations of Fractals, Chaos, Complex Systems, and Adaptation: Flake, Gary William: 9780262561273: Amazon.com: Books
+#+filetags: :algorithms:computer_science:mathematics:books:website:
+
+#+begin_quote
+  * The Computational Beauty of Nature: Computer Explorations of Fractals, Chaos, Complex Systems, and Adaptation
+
+  by [[https://www.amazon.com/Gary-William-Flake/e/B000APLP5Y/ref=dp_byline_cont_book_1][Gary William Flake]] (Author)
+
+  Gary William Flake develops in depth the simple idea that recurrent rules can produce rich and complicated behaviors.
+
+  In this book Gary William Flake develops in depth the simple idea that recurrent rules can produce rich and complicated behaviors.  Distinguishing "agents" (e.g., molecules, cells, animals, and species) from their interactions (e.g., chemical reactions, immune system responses, sexual reproduction, and evolution), Flake argues that it is the computational properties of interactions that account for much of what we think of as "beautiful" and "interesting." From this basic thesis, Flake explores what he considers to be today's four most interesting computational topics: fractals, chaos, complex systems, and adaptation.
+
+  Each of the book's parts can be read independently, enabling even the casual reader to understand and work with the basic equations and programs.  Yet the parts are bound together by the theme of the computer as a laboratory and a metaphor for understanding the universe.  The inspired reader will experiment further with the ideas presented to create fractal landscapes, chaotic systems, artificial life forms, genetic algorithms, and artificial neural networks.
+#+end_quote

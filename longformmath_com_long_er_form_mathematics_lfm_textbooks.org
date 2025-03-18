@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       f813f14e-fa7e-4fdf-bf91-73debeaa4ce9
+:ROAM_REFS: https://longformmath.com/
+:END:
+#+title: (longformmath.com) Long(er)-Form Mathematics – LFM Textbooks
+#+filetags: :mathematics:books:website:
+
+#+begin_quote
+  ** Long(er)-Form Mathematics
+
+  Welcome to the companion website for Jay Cummings' long-form mathematics textbooks!  Click on the links below to navigate to each book's homepage.
+
+  [[https://longformmath.com/math-history-book/][Math History Homepage]]
+
+  [[https://longformmath.com/proofs-book/][Proofs Homepage]]
+
+  [[https://longformmath.com/real-analysis-book/][Real Analysis Homepage]]
+#+end_quote

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       ff760f1c-728c-4df7-a628-948a6a8b6391
+:END:
+#+title: Immutable data allows safe and, relatively, safe multi-processing with IPC
+#+filetags: :software_development:algorithms:data_structures:programming:programming_language:programming_language_design:computer_science:
+
+When a programming language has only immutable data, it means that race conditions cannot occur due to memory contention alone.  That is the biggest source of headaches when writing multi-threaded and/or multi-process code.

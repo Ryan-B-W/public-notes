@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       9d37a76d-1b42-46d2-87da-13d0905b7c99
+:ROAM_REFS: https://tvtropes.org/pmwiki/pmwiki.php/Main/NoodleIncident
+:END:
+#+title: (tvtropes.org) Noodle Incident - TV Tropes
+#+filetags: :tropes:website:
+
+#+begin_quote
+  #+begin_verse
+  *Calvin:* All I can say is, /this/ year Santa had better bring me everything on my list!  I've been extremely good all year.
+  *Hobbes:* What about the noodle incident?
+  *Calvin:* /*No one can prove I did that!*/
+  #+end_verse
+  — /[[https://tvtropes.org/pmwiki/pmwiki.php/ComicStrip/CalvinAndHobbes][Calvin and Hobbes]]/
+
+  The Noodle Incident is something from the past that is referred to but never explained, with the implication that it's just too ludicrous for words—or perhaps too offensive for depiction—and the reality that any explanation would fall short of audience expectations.  Questions about it are often met with [[https://tvtropes.org/pmwiki/pmwiki.php/Main/YouDoNOTWantToKnow]["You Don't Want To Know..."]] or a reminder that they agreed [[https://tvtropes.org/pmwiki/pmwiki.php/Main/LetUsNeverSpeakOfThisAgain][never to talk about it again]].  Persisting is a good way to press a character's [[https://tvtropes.org/pmwiki/pmwiki.php/Main/BerserkButton][Berserk Button]].
+#+end_quote

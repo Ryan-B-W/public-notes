@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       2240b046-b115-42f9-b036-e70df07c1a5a
+:ROAM_REFS: https://www.valerionappi.it/brng-en/
+:END:
+#+title: (www.valerionappi.it) Generating true random numbers from bananas - Valerio Nappi
+#+filetags: :electronics:blog_post:website:
+
+#+begin_quote
+  It was a dreary afternoon in Milan last year when, procrastinating on studying, I was struck by a *flash of genius*. “/What would happen if I made a banana-powered random number generator?/“.  I immediately went to tell my roommate, who was also an electronic engineer.  *He looked me in the face and burst out laughing.  At that moment I realized that I had a great project in my hands.*
+
+  Before being taken for a fool: *it really does make sense*, and this post is here to explain it to you.  Let's start at the root of the problem: *computers are deterministic systems*.  Put in a less complicated way, if we always give them the same input data, *they always return the same output values*.  Which is exactly what we expect from a computer.  It is clear from the start, however, that *determinism and randomness are not great friends*.  In fact, a computer, per se, is not capable of doing anything random.
+#+end_quote

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       6246f8d4-6cd4-489d-b19f-9c1142b51b60
+:END:
+#+title: Scheme
+
+A dialect of the [[id:84ae6e85-a6a2-4133-bc53-274238081c2d][Lisp]] family of [[id:b24601aa-09df-41e1-aa7e-25ead342db34][Programming Language]].  A Lisp-1 with a single symbol namespace.  Various version of Scheme have been published as a series of academic publications starting in 1975.  Features include lexical scope, guaranteed tail-call optimization, and lazy evaluation.  Generally known for being very minimalist.
+* See Also
+ - [[https://en.wikipedia.org/wiki/Scheme_(programming_language)][Scheme (programming language) - Wikipedia]]

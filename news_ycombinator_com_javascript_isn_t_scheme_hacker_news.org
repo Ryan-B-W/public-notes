@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       f82bd36c-04e2-485f-8f99-2f742000031d
+:ROAM_REFS: https://news.ycombinator.com/item?id=6068360
+:END:
+#+title: (news.ycombinator.com) JavaScript Isn't Scheme | Hacker News
+#+filetags: :javascript:scheme:lisp:forums:website:
+
+Links to [[id:22349593-c7e7-430e-8858-1b066f0d4b6e][JavaScript Isn’t Scheme]].  A [[id:54bc44dd-5e3d-42eb-80ac-df3ef2a005df][newer thread on Hacker News]] also exists.

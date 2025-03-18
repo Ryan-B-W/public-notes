@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       ce46e60f-b522-406f-a2a8-85cf65312d8a
+:ROAM_REFS: https://sicp.sourceacademy.org/sicpjs.pdf
+:END:
+#+title: (sicp.sourceacademy.org) Structure and Interpretation of Computer Programs JavaScript Edition (sicpjs.pdf)
+#+filetags: :javascript:computer_science:mime_type_application_pdf:website:
+
+#+begin_quote
+  Structure and Interpretation of Computer Programs JavaScript Edition
+
+  Harold Abelson and Gerald Jay Sussman
+
+  adapted to JavaScript by Martin Henz and Tobias Wrigstad
+
+  with Julie Sussman
+#+end_quote

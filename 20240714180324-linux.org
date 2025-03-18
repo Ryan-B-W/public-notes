@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       bf0bc2d7-17df-413c-823b-93904faffc58
+:END:
+#+title: Linux
+#+filetags: :computer_science:unix:operating_systems:linux:
+
+Linux is an open-source [[id:925a80bf-d4d4-4061-9ac1-2d0224e1590a][kernel]] for building an [[id:412bbcad-6c00-4f13-b748-d1ffde0588e1][operating system]] on top of originally created by Linus Torvalds in 1991.

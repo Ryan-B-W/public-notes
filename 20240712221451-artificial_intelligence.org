@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       b10990c2-d056-42f5-a4e7-145a405d9550
+:END:
+#+title: Artificial Intelligence
+#+filetags: :machine_learning:artificial_intelligence:computer_science:
+
+The science of creating intelligent machines.  In particular, creating stochastic systems capable of tasks that predicate logic struggles with.
+* Sub-disciplines
+** [[id:e0244168-484c-470f-b4e9-906079d4ef80][Machine Learning (ML)]]
+** [[id:d928ffee-5f03-429d-8ad2-1efe8d195472][Natural Language Processing (NLP)]]

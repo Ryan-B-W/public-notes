@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       36cc076e-e5dd-435d-ac6a-f1a9fa4b04b0
+:ROAM_REFS: https://people.eecs.berkeley.edu/~bh/ss-toc2.html
+:END:
+#+title: (people.eecs.berkeley.edu) Simply Scheme: Introducing Computer Science
+#+filetags: :computer_science:education_resource:scheme:lisp:textbooks:books:website:
+
+#+begin_quote
+  * /Simply Scheme: Introducing Computer Science/
+  2/e Copyright (C) 1999 MIT
+  * Table of Contents
+  Brian Harvey
+  University of California, Berkeley
+  Matthew Wright
+  Stanford University
+
+  --------------
+
+  Below this short table of contents is an expanded table of contents including sections within each chapter.  Click on the chapter name to jump down.  You can also download the complete text of each chapter in PDF format for elegant printing, or browse the HTML version.  Part introductions are included in the PDF of the following chapter.  Projects are included in the PDF of the preceding chapter.
+
+  /Note: This book is still in copyright, and in print.  It is posted here for your personal use, not for resale or redistribution.  Thanks!/
+#+end_quote

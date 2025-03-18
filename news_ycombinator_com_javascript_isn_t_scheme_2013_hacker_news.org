@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       54bc44dd-5e3d-42eb-80ac-df3ef2a005df
+:ROAM_REFS: https://news.ycombinator.com/item?id=16924933
+:END:
+#+title: (news.ycombinator.com) JavaScript Isn't Scheme (2013) | Hacker News
+#+filetags: :javascript:scheme:lisp:forums:website:
+
+Links to [[id:22349593-c7e7-430e-8858-1b066f0d4b6e][JavaScript Isn’t Scheme]] and the original [[id:f82bd36c-04e2-485f-8f99-2f742000031d][Hacker News thread]].
+* Comments of note
+** Blog post author's reply to question of if their stance has changed
+[[https://news.ycombinator.com/user?id=munificent][munificent]]:
+#+begin_quote
+  I think I still mostly agree with it.  let was on the way in when I wrote that, but that doesn't mean lexical scoping is a particularly interesting or defining trait of JS.  Most languages today have pretty solid lexical block scoping, so that's more JS playing catch-up than anything else.
+
+  I don't think of promises as being particularly close to continuations, not even one-shot continuations.  I think it's more "If you use promises /you/ have to manually turn your code into continuations." :)
+
+  I wrote about my thoughts on that idea here: [[http://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/][http://journal.stuffwithstuff.com/2015/02/01/what-color-is-y...]]
+
+  One thing that has changed in the past few years is I don't see people comparing JS to Scheme very much anymore.  I don't know if it's because JS got big enough with ES6 that the comparison seems forced, or because Scheme doesn't have the cachet it had a few years ago, or what.
+
+  Today, people who like JS seem to like it because they like /JS/ --- which usually means they like some combination of dynamic typing, JS's syntax, the platforms where JS runs, and the frameworks people built for it.  I think those are all great reasons to prefer JS, much better than comparing it to some other language that it may or may not be similar to.
+
+  (There are also a lot of people who like JS today because it's the only language they know.  I don't think that's a super /informed/ choice, but everyone goes through a first love in their life, and the object of that affection doesn't say much more about its subject than the moment in time that they happened to start programming.  My first love was Apple BASIC, but I think I turned out OK.)
+#+end_quote

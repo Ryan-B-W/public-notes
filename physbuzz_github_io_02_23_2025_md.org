@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       130c4aa4-c318-4a59-904f-e9ebc429c18c
+:ROAM_REFS: https://physbuzz.github.io/sicp/meetings/02-23-2025.html
+:END:
+#+title: (physbuzz.github.io) 02-23-2025.md
+#+filetags: :lisp:notes:blog_post:website:

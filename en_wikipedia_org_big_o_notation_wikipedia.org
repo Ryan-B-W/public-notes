@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       21a8b700-fb6b-4e90-9f17-267f7f4ba53d
+:ROAM_REFS: https://en.wikipedia.org/wiki/Big_O_notation
+:END:
+#+title: (en.wikipedia.org) Big O notation - Wikipedia
+#+filetags: :algorithms:mathematics:computer_science:website:
+
+#+begin_quote
+  *Big /O/ notation* is a mathematical notation that describes the [[https://en.wikipedia.org/wiki/Asymptotic_analysis][limiting behavior]] of a [[https://en.wikipedia.org/wiki/Function_(mathematics)][function]] when the [[https://en.wikipedia.org/wiki/Argument_of_a_function][argument]] tends towards a particular value or infinity.  Big O is a member of a [[https://en.wikipedia.org/wiki/Big_O_notation#Related_asymptotic_notations][family of notations]] invented by German mathematicians [[https://en.wikipedia.org/wiki/Paul_Gustav_Heinrich_Bachmann][Paul Bachmann]], [[https://en.wikipedia.org/wiki/Edmund_Landau][Edmund Landau]], and others, collectively called *Bachmann--Landau notation* or *asymptotic notation*.  The letter O was chosen by Bachmann to stand for /[[https://en.wiktionary.org/wiki/Ordnung#German][Ordnung]]/, meaning the [[https://en.wikipedia.org/wiki/Order_of_approximation][order of approximation]].
+
+  In [[https://en.wikipedia.org/wiki/Computer_science][computer science]], big O notation is used to [[https://en.wikipedia.org/wiki/Computational_complexity_theory][classify algorithms]] according to how their run time or space requirements grow as the input size grows.  In [[https://en.wikipedia.org/wiki/Analytic_number_theory][analytic number theory]], big O notation is often used to express a bound on the difference between an [[https://en.wikipedia.org/wiki/Arithmetic_function][arithmetical function]] and a better understood approximation; a famous example of such a difference is the remainder term in the [[https://en.wikipedia.org/wiki/Prime_number_theorem][prime number theorem]].  Big O notation is also used in many other fields to provide similar estimates.
+
+  Big O notation characterizes functions according to their growth rates: different functions with the same asymptotic growth rate may be represented using the same O notation.  The letter O is used because the growth rate of a function is also referred to as the *order of the function*.  A description of a function in terms of big O notation usually only provides an [[https://en.wikipedia.org/wiki/Upper_bound][upper bound]] on the growth rate of the function.
+
+  Associated with big O notation are several related notations, using the symbols /o/, Ω, /ω/, and Θ, to describe other kinds of bounds on asymptotic growth rates.
+#+end_quote

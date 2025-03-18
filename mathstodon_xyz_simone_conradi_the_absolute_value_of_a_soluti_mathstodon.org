@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       dd2f4b13-7fd9-4dda-9445-bbf7a61e65d0
+:ROAM_REFS: https://mathstodon.xyz/@S_Conradi/113488916966791574
+:END:
+#+title: (mathstodon.xyz) Simone Conradi: "The absolute value of a soluti…" - Mathstodon
+#+filetags: :mathematics:social_media:website:
+
+#+begin_quote
+  The absolute value of a solution of the Feigenbaum-Cvitanović functional equation in ℂ.
+
+  Made with [[https://mathstodon.xyz/tags/python][#python]], [[https://mathstodon.xyz/tags/matplotlib][#matplotlib]], [[https://mathstodon.xyz/tags/numpy][#numpy]].
+#+end_quote

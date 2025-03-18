@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       02954d3b-35db-4d34-b504-b110ec7257a5
+:ROAM_REFS: https://books.google.com/books/about/How_to_Prove_It.html?id=IhkWcGRV1scC
+:END:
+#+title: (books.google.com) How to Prove It: A Structured Approach - Daniel J. Velleman - Google Books
+#+filetags: :mathematics:books:website:
+
+#+begin_quote
+  * How to Prove It: A Structured Approach
+
+  Daniel J. Velleman
+
+  Cambridge University Press, Nov 25, 1994 - Computers - 309 pages
+
+  Many mathematics students have trouble the first time they take a course, such as linear algebra, abstract algebra, introductory analysis, or discrete mathematics, in which they are asked to prove various theorems.  This textbook will prepare students to make the transition from solving problems to proving theorems by teaching them the techniques needed to read and write proofs.  The book begins with the basic concepts of logic and set theory, to familiarize students with the language of mathematics and how it is interpreted.  These concepts are used as the basis for a step-by-step breakdown of the most important techniques used in constructing proofs.  The author shows how complex proofs are built up from these smaller steps, using detailed "scratchwork" sections to expose the machinery of proofs about the natural numbers, relations, functions, and infinite sets.  Numerous exercises give students the opportunity to construct their own proofs.  No background beyond standard high school mathematics is assumed.  This book will be useful to anyone interested in logic and proofs: computer scientists, philosophers, linguists, and of course mathematicians.
+#+end_quote

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       5509c95a-ba92-4a76-ae77-5c3a2b1368ba
+:ROAM_REFS: https://en.wikipedia.org/wiki/Fixed-point_combinator
+:END:
+#+title: (en.wikipedia.org) Fixed-point combinator - Wikipedia
+#+filetags: :mathematics:computer_science:website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Combinatory_logic][combinatory logic]] for [[https://en.wikipedia.org/wiki/Computer_science][computer science]], a *fixed-point combinator* (or *fixpoint combinator*) is a [[https://en.wikipedia.org/wiki/Higher-order_function][higher-order function]] (i.e. a function which takes a [[https://en.wikipedia.org/wiki/Function_(mathematics)][function]] as [[https://en.wikipedia.org/wiki/Argument_of_a_function][argument]]) that returns some [[https://en.wikipedia.org/wiki/Fixed_point_(mathematics)][/fixed point/]] (a value that is mapped to itself) of its argument function, if one exists.
+
+  Formally, if \(\text{fix}\) is a fixed-point combinator and the function \(f\) has one or more fixed points, then \(\text{fix}f\) is one of these fixed points, i.e.
+
+  \(f(\text{fix}f) = \text{fix}f.\)
+
+  Fixed-point combinators can be defined in the [[https://en.wikipedia.org/wiki/Lambda_calculus][lambda calculus]] and in [[https://en.wikipedia.org/wiki/Functional_programming_language][functional programming languages]] and provide a means to allow for [[https://en.wikipedia.org/wiki/Recursion_(computer_science)][recursive definitions]].
+#+end_quote

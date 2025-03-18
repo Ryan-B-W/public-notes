@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       e41230b4-3dee-4a59-aefa-712ca2229e4e
+:ROAM_REFS: https://www.youtube.com/playlist?list=PLE18841CABEA24090
+:END:
+#+title: (www.youtube.com) MIT 6.001 Structure and Interpretation, 1986 - YouTube
+#+filetags: :software_development:programming:scheme:lisp:computer_science:education_resource:video:playlist:website:
+
+#+begin_quote
+  MIT 6.001 Structure and Interpretation, 1986
+
+  This course introduces students to the principles of computation.  Upon completion of 6.001, students should be able to explain and apply the basic methods from programming languages to analyze computational systems, and to generate computational solutions to abstract problems.  Substantial weekly programming assignments are an integral part of the course.
+
+  These twenty video lectures by Hal Abelson and Gerald Jay Sussman are a complete presentation of the course, given in July 1986 for Hewlett-Packard employees, and professionally produced by Hewlett-Packard Television.  These videos are also available here under a Creative Commons license compatible with commercial use.
+#+end_quote

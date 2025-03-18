@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       0b355b67-af80-4908-8f9d-04fc0052ed23
+:END:
+#+title: Zettelkasten
+#+filetags: :writing:information_management:
+
+A [[id:6992d257-971d-40c7-a617-ec82e2541206][note taking method]] for building a knowledge graph and exploring connected ideas.  Attributed to German sociologist Niklas Luhmann.  Originally used index cards in a box and sequential IDs on the cards used to reference them for connections.  Modern digital implementations usually utilize a database of connections to lookup connections and turn links into backlinks to more easily explore the knowledge graph.
+* See Also
+ - [[https://en.wikipedia.org/wiki/Zettelkasten][Zettelkasten - Wikipedia]]
+ - [[info:org-roam#A Brief Introduction to the Zettelkasten Method][Org Roam Manual: A Brief Introduction to the Zettelkasten Method]]
+ - [[https://luhmann.surge.sh/communicating-with-slip-boxes][Communicating with Slip Boxes by Niklas Luhmann]]
+ - [[https://luhmann.surge.sh/learning-how-to-read][Learning How to Read by Niklas Luhmann]]
+ - [[https://zettelkasten.de/][Zettelkasten knowledge and info management • Zettelkasten Method]]
+ - [[#sonke2022][Take Smart Notes]]
+* Take Smart Notes
+:PROPERTIES:
+:TITLE:    Take Smart Notes
+:BTYPE:    book
+:AUTHOR:   Sönke Ahrens
+:PUBLISHER: Sönke Ahrens
+:YEAR:     2022
+:CUSTOM_ID: sonke2022
+:URL:      https://www.soenkeahrens.de/en/takesmartnotes
+:ID:       6d1f765f-a723-4325-a339-373098aff21c
+:END:

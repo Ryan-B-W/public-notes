@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       250b2e70-00fa-426e-b8b2-730ee1d4b960
+:ROAM_REFS: https://physbuzz.github.io/sicp/ch1/notes-ch1-1.html
+:END:
+#+title: (physbuzz.github.io) notes-ch1-1.md
+#+filetags: :lisp:notes:blog_post:website:

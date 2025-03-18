@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e3359747-2369-4f60-87ef-0bd9afed406e
+:ROAM_REFS: https://beautifulracket.com/
+:END:
+#+title: (beautifulracket.com) Beautiful Racket by Matthew Butterick
+#+filetags: :scheme:lisp:education_resource:software_development:programming:computer_science:textbooks:books:website:
+
+#+begin_quote
+  Beautiful Racket an introduction to language-oriented programming using Racket
+  by Matthew Butterick · version 1.6
+#+end_quote

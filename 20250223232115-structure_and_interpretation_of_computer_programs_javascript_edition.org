@@ -1,0 +1,59 @@
+:PROPERTIES:
+:ID:       c2eb5bdb-1c0a-4342-aa9b-fc704ee4d69e
+:END:
+#+title: Structure and Interpretation of Computer Programs, JavaScript Edition
+#+filetags: :javascript:education_resource:software_development:programming:computer_science:textbooks:books:
+
+* (sourceacademy.org) Source Academy                                :website:
+:PROPERTIES:
+:ID:       cb5f7acd-22bb-48f7-9ffa-034b058726d1
+:ROAM_REFS: https://sourceacademy.org/playground
+:END:
+
+#+begin_quote
+  Welcome to the Source Academy playground!
+
+  The book [[https://sourceacademy.org/sicpjs/][/Structure and Interpretation of Computer Programs, JavaScript Edition/]] uses JavaScript sublanguages that we call [[https://docs.sourceacademy.org/][/Source/]]. You have chosen the sublanguage [[https://docs.sourceacademy.org/source_4/][/Source §4/]].
+#+end_quote
+* (linkencore.iii.com) Encore -- Structure and interpretation of computer programs / Harold Abelson and Gerald Jay Sussman ; adapted to JavaScript by Martin Henz and Tobias Wrigstad with Julie Sussman. :website:
+:PROPERTIES:
+:ID:       1114dfc3-8db9-4389-9d27-4b586a719f17
+:ROAM_REFS: https://linkencore.iii.com/iii/encore/record/C__Rb49468457?lang=eng
+:END:
+
+#+begin_quote
+  Structure and interpretation of computer programs / Harold Abelson and Gerald Jay Sussman ; adapted to JavaScript by Martin Henz and Tobias Wrigstad with Julie Sussman.
+
+  [[https://linkencore.iii.com/iii/encore/search/C__SAbelson,%20Harold__Orightresult?lang=eng&suite=def][Abelson, Harold author.]]
+
+  Books & Journals | The MIT Press | [2022] | Javascript edition.
+
+  *** More Details
+
+  Descript:
+  - xxix, 608 pages : illustrations ; 26 cm.
+  Series:
+  - [[https://linkencore.iii.com/iii/encore/search/C__SMIT%20electrical%20engineering%20and%20computer%20science%20series__Orightresult?lang=eng&suite=def][MIT electrical engineering and computer science series]]
+  - [[https://linkencore.iii.com/iii/encore/search/C__SMIT%20electrical%20engineering%20and%20computer%20science%20series.__Orightresult?lang=eng&suite=def][MIT electrical engineering and computer science series.]]
+  Note:
+  - Includes bibliographical references and index.
+  Summary:
+  - "This classic text teaches fundamental principles of computer programming, including recursion, abstraction, modularity, and programming language design and implementation. The approach focuses on discovering general patterns for solving specific problems, and building software systems that make use of those patterns. This version uses JavaScript as the language of instruction"-- Provided by publisher.
+  Subject:
+  - [[https://linkencore.iii.com/iii/encore/search/C__SComputer%20programming.__Orightresult?lang=eng&suite=def][Computer programming.]]
+  - [[https://linkencore.iii.com/iii/encore/search/C__SJava%20(Computer%20program%20language)__Orightresult?lang=eng&suite=def][Java (Computer program language)]]
+  - [[https://linkencore.iii.com/iii/encore/search/C__SLISP%20(Computer%20program%20language)__Orightresult?lang=eng&suite=def][LISP (Computer program language)]]
+  - [[https://linkencore.iii.com/iii/encore/search/C__SComputer%20programming.%20fast%20(OCoLC)fst00872390__Orightresult?lang=eng&suite=def][Computer programming. fast (OCoLC)fst00872390]]
+  - [[https://linkencore.iii.com/iii/encore/search/C__SJava%20(Computer%20program%20language)%20fast%20(OCoLC)fst00982065__Orightresult?lang=eng&suite=def][Java (Computer program language) fast (OCoLC)fst00982065]]
+  - [[https://linkencore.iii.com/iii/encore/search/C__SLISP%20(Computer%20program%20language)%20fast%20(OCoLC)fst00989718__Orightresult?lang=eng&suite=def][LISP (Computer program language) fast (OCoLC)fst00989718]]
+  Alt Author:
+  - [[https://linkencore.iii.com/iii/encore/search/C__SSussman,%20Gerald%20Jay,__Orightresult?lang=eng&suite=def][Sussman, Gerald Jay, author.]]
+  - [[https://linkencore.iii.com/iii/encore/search/C__SHenz,%20Martin,__Orightresult?lang=eng&suite=def][Henz, Martin, 1966- other.]]
+  - [[https://linkencore.iii.com/iii/encore/search/C__SWrigstad,%20Tobias,__Orightresult?lang=eng&suite=def][Wrigstad, Tobias, other.]]
+  - [[https://linkencore.iii.com/iii/encore/search/C__SSussman,%20Julie,__Orightresult?lang=eng&suite=def][Sussman, Julie, other.]]
+  ISBN:
+  - 9780262543231 paperback
+  - 0262543230 paperback
+  LC CARD #:
+  - 2021047249
+#+end_quote

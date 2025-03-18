@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       b60d88a6-5396-4183-ad7d-74919d13a39b
+:ROAM_REFS: https://nature-of-computation.org/
+:END:
+#+title: (nature-of-computation.org) The Nature Of Computation
+#+filetags: :computer_science:mathematics:books:website:
+
+#+begin_quote
+  *** The Nature Of Computation - Home
+
+  *The Nature of Computation* by [[http://www.santafe.edu/~moore][Cristopher Moore]] and [[http://www.ovgu.de/mertens][Stephan Mertens]], Oxford University Press (2011)
+  985 pages, 900 problems and exercises, 370 figures
+
+  Computational complexity is one of the most beautiful fields of modern mathematics, and it is increasingly relevant to other sciences ranging from physics to biology.  This book gives a lucid and playful explanation of the field, starting with P and NP-completeness.  The authors explain why the P vs. NP problem is so fundamental, and why it is so hard to resolve.  They then lead the reader through the complexity of mazes and games; optimization in theory and practice; randomized algorithms, interactive proofs, and pseudorandomness; Markov chains and phase transitions; and the outer reaches of quantum computing.  At every turn, they use a minimum of formalism, providing explanations that are both deep and accessible.  The book is intended for graduates and undergraduates, scientists from other areas who have long wanted to understand this subject, and experts who want to fall in love with this field all over again.
+
+  --------------
+
+  : “To put it bluntly: this book rocks!  It's 900+ pages of awesome.  It somehow manages to combine the fun of a popular book with the intellectual heft of a textbook, so much so that I don't know what to call it (but whatever the genre is, there needs to be more of it!).”
+  ---*Scott Aaronson*, MIT
+
+  --------------
+
+  : “A creative, insightful, and accessible introduction to the theory of computing, written with a keen eye toward the frontiers of the field and a vivid enthusiasm for the subject matter.”
+  ---*Jon Kleinberg*, Cornell
+
+  --------------
+
+  : “If you want to learn about complexity classes, scaling laws in computation, undecidability, randomized algorithms, how to prepare a dinner with Pommard, Quail and Roquefort, or the new ideas that quantum theory brings to computation, this is the right book.  It offers a wonderful tour through many facets of computer science.  It is precise and gets into details when necessary, but the main thread is always at hand, and entertaining anecdotes help to keep the pace.”
+  ---*Marc Mézard*, Orsay
+
+  --------------
+
+  : “This is, simply put, the best-written book on the theory of computation I have ever read; one of the best-written mathematical books I have ever read, period. ...from beginning to end, and all the 900+ pages in between, this was lucid, insightful, just rigorous enough, alive to how technical problems relate to larger issues, and above all, passionate and human.”
+  ---*Cosma Shalizi*, Carnegie Mellon, [[http://bactra.org/reviews/nature-of-computation.html][The Bactra Review]]
+
+  --------------
+
+  : “A treasure trove of ideas, concepts and information on algorithms and complexity theory.  Serious material presented in the most delightful manner!”
+  ---*Vijay Vazirani*, Georgia Tech
+
+  --------------
+
+  : “A fantastic and unique book---a must-have guide to the theory of computation, for physicists and everyone else. ”
+  ---*Riccardo Zecchina*, Politecnico di Torino
+#+end_quote

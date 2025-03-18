@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       b94ccb5f-dca6-49e4-91b6-b87e73c867a5
+:END:
+#+title: Gentoo
+
+A source-based [[id:bf0bc2d7-17df-413c-823b-93904faffc58][Linux]] distribution.  Mostly known for providing a great deal of choice, not making default assumptions of the user's preferences where possible, and being a very cutting edge rolling release distribution given its source-based nature.

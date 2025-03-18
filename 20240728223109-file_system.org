@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a4c2de37-5317-44f3-b877-ec0b5777c61f
+:END:
+#+title: File System
+#+filetags: :operating_systems:computer_science:filesystems:
+
+A system for storing, organizing, and retrieving files.
+* See Also
+ - [[https://en.wikipedia.org/wiki/File_system][File system - Wikipedia]]
+ - [[man:intro(5)]]
+ - [[man:filesystems(5)]]

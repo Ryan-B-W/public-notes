@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       2ce20b11-e9e9-48b0-ab32-de7f4158ea33
+:END:
+#+title: Racket
+#+filetags: :scheme:lisp:programming_language_design:programming_language:programming:computer_science:
+
+A relatively popular [[id:6246f8d4-6cd4-489d-b19f-9c1142b51b60][Scheme]] implementation, among other things.  Built, in part, as a [[id:f236ab65-0f2f-4c13-bfac-b7a693e44af9][programming language design]] playground/sandbox.  Intended in no small part to be useful in [[id:b49cb73a-945b-452c-9d1e-450252185605][education]].  Racket also includes a number of other [[id:84ae6e85-a6a2-4133-bc53-274238081c2d][Lisp]] implementations and a few other [[id:b24601aa-09df-41e1-aa7e-25ead342db34][programming languages]] besides.
+* (www.racket-lang.org) Racket                                      :website:
+:PROPERTIES:
+:ID:       82dac0a3-1609-43d4-ae80-1433e32ddfbb
+:ROAM_REFS: https://www.racket-lang.org/
+:END:
+** (docs.racket-lang.org) SICP Collections                    :documentation:
+:PROPERTIES:
+:ID:       6525fb29-4aa1-4c0a-8fd2-d5024a3ae869
+:ROAM_REFS: https://docs.racket-lang.org/sicp-manual/index.html
+:END:
+
+#+begin_quote
+  SICP Collections
+  **
+  This package contains two collections.
+
+  The sicp collection contains a #lang sicp language ideal for studying the book "Structure and Interpretation of Computer Programs" by Gerald Jay Sussman and Hal Abelson.  The book is usually referred to simply as SICP.
+
+  The second sicp-pict collection contains the picture language used in SICP.
+#+end_quote

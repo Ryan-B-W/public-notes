@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       5503edd7-c9b7-4428-a2ec-bf05a61a8ed7
+:ROAM_REFS: https://writings.stephenwolfram.com/2020/12/combinators-and-the-story-of-computation/
+:END:
+#+title: (writings.stephenwolfram.com) Combinators and the Story of Computation—Stephen Wolfram Writings
+#+filetags: :science:philosophy:mathematics:blog_post:website:
+
+#+begin_quote
+  * Combinators and the Story of Computation
+
+  December 7, 2020
+
+  ** The Abstract Representation of Things
+
+  “In principle you could use combinators,” some footnote might say.  But the implication tends to be “But you probably don't want to.” And, yes, combinators are deeply abstract—and in many ways hard to understand.  But tracing their history over the hundred years since they were invented, I've come to realize just how critical they've actually been to the development of our modern conception of computation—and indeed my own contributions to it.
+
+  The idea of representing things in a formal, symbolic way has a long history.  In antiquity there was [[https://writings.stephenwolfram.com/2018/11/logic-explainability-and-the-future-of-understanding/][Aristotle's logic]] and [[https://writings.stephenwolfram.com/2020/09/the-empirical-metamathematics-of-euclid-and-beyond/][Euclid's geometry]].  By the 1400s there was algebra, and in the [[https://writings.stephenwolfram.com/2015/11/george-boole-a-200-year-view/][1840s Boolean algebra]].  Each of these was a formal system that allowed one to make deductions purely within the system.  But each, in a sense, ultimately viewed itself as being set up to model something specific.  Logic was for modeling the structure of arguments, Euclid's geometry the properties of space, algebra the properties of numbers; Boolean algebra aspired to model the “laws of thought”.
+
+  But was there perhaps some more general and fundamental infrastructure: some kind of abstract system that could ultimately model or represent anything?  Today we understand that's what computation is.  And it's becoming clear that the modern conception of computation is one of the single most powerful ideas in all of intellectual history—whose implications are only just beginning to unfold.
+
+  But how did we finally get to it?  Combinators had an important role to play, woven into a complex tapestry of ideas stretching across more than a century.
+
+  The main part of the story begins in the 1800s.  Through the course of the 1700s and 1800s mathematics had developed a more and [[https://www.wolframscience.com/nks/notes-12-9--history-of-concept-of-mathematics/][more elaborate formal structure]] that seemed to be reaching ever further.  But what really was mathematics?  Was it a formal way of describing the world, or was it something else—perhaps something that could exist without any reference to the world?
+
+  Developments like non-Euclidean geometry, group theory and transfinite numbers made it seem as if meaningful mathematics could indeed be done just by positing abstract axioms from scratch and then following a process of deduction.  But could all of mathematics actually just be a story of deduction, perhaps even ultimately derivable from something seemingly lower level—like logic?
+
+  But if so, what would things like numbers and arithmetic be?  Somehow they would have to be “constructed out of pure logic”.  Today we would recognize these efforts as “writing programs” for numbers and arithmetic in a “machine code” based on certain “instructions of logic”.  But back then, everything about this and the ideas around it had to be invented.
+#+end_quote

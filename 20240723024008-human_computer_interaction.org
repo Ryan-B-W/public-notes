@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       3ea08bdb-19a6-4d05-9c8f-99da99e74de4
+:END:
+#+title: Human-Computer Interaction
+
+The research topic within computer science that focuses on how human interact and interface with computer systems.
+* See Also
+ - [[https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction][Human–computer interaction - Wikipedia]]

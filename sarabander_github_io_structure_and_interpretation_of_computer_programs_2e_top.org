@@ -1,0 +1,51 @@
+:PROPERTIES:
+:ID:       2b674c22-8ea8-4da1-b374-2aa2990e9293
+:ROAM_REFS: https://sarabander.github.io/sicp/html/index.xhtml
+:END:
+#+title: (sarabander.github.io) Structure and Interpretation of Computer Programs, 2e: Top
+#+filetags: :scheme:lisp:programming:computer_science:books:website:
+
+Main node: [[id:69d3e2e7-62dc-414f-90ee-86f4b4abbcb0][(sarabander.github.io) Structure and Interpretation of Computer Programs, 2e]].
+#+begin_quote
+  * Structure and Interpretation of Computer Programs, Second Edition
+
+  Unofficial Texinfo Format 2.andresraba6.6
+
+  *Harold Abelson and Gerald Jay Sussman with Julie Sussman, foreword by Alan J. Perlis*
+#+end_quote
+* (sarabander.github.io) Structure and Interpretation of Computer Programs, 2e: Chapter 1
+:PROPERTIES:
+:ID:       d9bdefb7-f325-4605-9a5a-c965263e2390
+:ROAM_REFS: https://sarabander.github.io/sicp/html/Chapter-1.xhtml
+:END:
+
+#+begin_quote
+  1 Building Abstractions with Procedures
+#+end_quote
+** (sarabander.github.io) Structure and Interpretation of Computer Programs, 2e: 1.1
+:PROPERTIES:
+:ID:       b85b9acb-443c-4d3f-842b-1f663c99ef18
+:ROAM_REFS: https://sarabander.github.io/sicp/html/1_002e1.xhtml
+:END:
+
+#+begin_quote
+  1.1 The Elements of Programming
+#+end_quote
+** (sarabander.github.io) Structure and Interpretation of Computer Programs, 2e: 1.2
+:PROPERTIES:
+:ID:       d4e8ce6b-05bb-4338-b3ff-1bb12c109dea
+:ROAM_REFS: https://sarabander.github.io/sicp/html/1_002e2.xhtml
+:END:
+
+#+begin_quote
+  1.2 Procedures and the Processes They Generate
+#+end_quote
+** (sarabander.github.io) Structure and Interpretation of Computer Programs, 2e: 1.3
+:PROPERTIES:
+:ID:       10ed2665-130f-4398-8efa-ce9795584da0
+:ROAM_REFS: https://sarabander.github.io/sicp/html/1_002e3.xhtml
+:END:
+
+#+begin_quote
+  1.3 Formulating Abstractions with Higher-Order Procedures
+#+end_quote

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       3b6a267c-90c9-491e-89d2-42c365ec6574
+:END:
+#+title: Nix
+#+filetags: :computer_science:operating_systems:package_management:software_distributions:linux:unix:
+
+The Nix package manager.  Uses the Nix configuration language to manage packages and system or user configurations.  Inspired the BSD ports system.  Purports to provide a fully reproducible means of configuring systems.  Primarily used by [[id:30ae24e9-8b87-4412-ae94-484b5c72216b][NixOS]].  Works on top of most major operating systems including [[id:bf0bc2d7-17df-413c-823b-93904faffc58][Linux]], *BSD, Mac OS, and Windows (via WSL2).

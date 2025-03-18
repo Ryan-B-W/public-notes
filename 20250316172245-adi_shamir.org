@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       7cf931f8-5095-4473-8010-b94ed35b914d
+:END:
+#+title: Adi Shamir
+#+filetags: :biographic:person:
+
+Famous cryptographer and computer scientist.  Known for being the S in RSA, along side [[id:11438879-fe1a-4e45-b25b-3a7563627422][Ronald L. Rivest]] and [[id:6edcb9e7-8f35-4796-854c-b216873ee148][Leonard M. Adleman]], and [[id:45acd874-85e3-4a0c-ad92-32cf5d46c7c4][Shamir's secret sharing]].
+* (en.wikipedia.org) Adi Shamir - Wikipedia                         :website:
+:PROPERTIES:
+:ID:       90dd0272-0815-481b-a7fe-c444a5fc5e79
+:ROAM_REFS: https://en.wikipedia.org/wiki/Adi_Shamir
+:END:
+
+#+begin_quote
+  *Adi Shamir* ([[https://en.wikipedia.org/wiki/Hebrew_language][Hebrew]]: עדי שמיר; born July 6, 1952) is an Israeli [[https://en.wikipedia.org/wiki/Cryptography][cryptographer]] and inventor.  He is a co-inventor of the [[https://en.wikipedia.org/wiki/RSA_(algorithm)][Rivest–Shamir–Adleman]] (RSA) [[https://en.wikipedia.org/wiki/Algorithm][algorithm]] (along with [[https://en.wikipedia.org/wiki/Ron_Rivest][Ron Rivest]] and [[https://en.wikipedia.org/wiki/Len_Adleman][Len Adleman]]), a co-inventor of the [[https://en.wikipedia.org/wiki/Feige–Fiat–Shamir_identification_scheme][Feige–Fiat–Shamir identification scheme]] (along with [[https://en.wikipedia.org/wiki/Uriel_Feige][Uriel Feige]] and [[https://en.wikipedia.org/wiki/Amos_Fiat][Amos Fiat]]), one of the inventors of [[https://en.wikipedia.org/wiki/Differential_cryptanalysis][differential cryptanalysis]] and has made numerous contributions to the fields of [[https://en.wikipedia.org/wiki/Cryptography][cryptography]] and [[https://en.wikipedia.org/wiki/Computer_science][computer science]].
+#+end_quote

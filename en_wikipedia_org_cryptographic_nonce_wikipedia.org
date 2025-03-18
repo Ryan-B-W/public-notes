@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       8a6e02d9-17df-407d-9cb8-4b0306852fe3
+:ROAM_REFS: https://en.wikipedia.org/wiki/Cryptographic_nonce
+:END:
+#+title: (en.wikipedia.org) Cryptographic nonce - Wikipedia
+#+filetags: :cryptography:computer_science:mathematics:website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Cryptography][cryptography]], a *nonce* is an arbitrary number that can be used just once in a cryptographic communication.  It is often a [[https://en.wikipedia.org/wiki/Randomness][random]] or [[https://en.wikipedia.org/wiki/Pseudorandomness][pseudo-random]] number issued in an [[https://en.wikipedia.org/wiki/Authentication_protocol][authentication protocol]] to ensure that each communication session is unique, and therefore that old communications cannot be reused in [[https://en.wikipedia.org/wiki/Replay_attack][replay attacks]].  Nonces can also be useful as [[https://en.wikipedia.org/wiki/Initialization_vector][initialization vectors]] and in [[https://en.wikipedia.org/wiki/Cryptographic_hash_functions][cryptographic hash functions]].
+#+end_quote

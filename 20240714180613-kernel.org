@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       925a80bf-d4d4-4061-9ac1-2d0224e1590a
+:END:
+#+title: Kernel
+#+filetags: :software_distributions:filesystems:operating_systems:computer_science:
+
+The core component of an [[id:412bbcad-6c00-4f13-b748-d1ffde0588e1][Operating System]] that implements interfaces to hardware, drivers, multitasking, processes, memory protections, [[id:a4c2de37-5317-44f3-b877-ec0b5777c61f][file systems]], and other low level pieces of an operating system.

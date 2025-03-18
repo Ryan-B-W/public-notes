@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       3cbd9c3a-e06d-4655-ba41-ccabde8d0389
+:ROAM_REFS: https://mitpress.mit.edu/9780262535519/the-reasoned-schemer/
+:END:
+#+title: (mitpress.mit.edu) The Reasoned Schemer
+#+filetags: :software_development:programming:scheme:lisp:education_resource:textbooks:books:computer_science:website:
+
+#+begin_quote
+  ** Description
+  A new edition of a book, written in a humorous question-and-answer style, that shows how to implement and use an elegant little programming language for logic programming.
+
+  The goal of this book is to show the beauty and elegance of relational programming, which captures the essence of logic programming.  The book shows how to implement a relational programming language in Scheme, or in any other functional language, and demonstrates the remarkable flexibility of the resulting relational programs.  As in the first edition, the pedagogical method is a series of questions and answers, which proceed with the characteristic humor that marked /The Little Schemer/ and /The Seasoned Schemer/.  Familiarity with a functional language or with the first five chapters of /The Little Schemer/ is assumed.
+
+  For this second edition, the authors have greatly simplified the programming language used in the book, as well as the implementation of the language.  In addition to revising the text extensively, and simplifying and revising the “Laws” and “Commandments,” they have added explicit “Translation” rules to ease translation of Scheme functions into relations.
+#+end_quote

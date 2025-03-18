@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       fd886692-0c9b-4878-9484-5f8feb6871a2
+:END:
+#+title: Learning by Teaching
+#+filetags: :education:
+
+Methods of learning that involve teaching to others, hypothetically or otherwise, in order to better internalize material.
+* [[https://en.wikipedia.org/wiki/Learning_by_teaching#Plastic_platypus_learning][Feynman Technique]]                                       :writing:education:
+:PROPERTIES:
+:ID:       e8546d6c-5c0b-49c4-9376-76d5f90e27eb
+:END:
+A variation on the Plastic Platypus Learning technique, the Feynman Technique is where one attempts to write an explanation of some subject at a child level of explanation, inventing analogies as needed, until they encounter a point where they can no longer confidently do so at which point they go back to reading or researching the subject until they feel confident in being able to explain and returning to writing an explanation of the material and repeat the process until they complete the explanation of the subject.
+
+This could also be considered to be a form of [[id:6992d257-971d-40c7-a617-ec82e2541206][Note Taking System]] with a pedagogic purpose.
+* References
+ - [[https://en.wikipedia.org/wiki/Learning_by_teaching][Learning by teaching - Wikipedia]]

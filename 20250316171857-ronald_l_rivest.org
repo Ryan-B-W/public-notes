@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       11438879-fe1a-4e45-b25b-3a7563627422
+:END:
+#+title: Ronald L. Rivest
+#+filetags: :biographic:person:
+
+Ron Rivest, full name Ronald Linn Rivest.  Famous cryptographer, computer scientist, and mathematician.  Known for being the R in RSA, along side [[id:7cf931f8-5095-4473-8010-b94ed35b914d][Adi Shamir]] and [[id:6edcb9e7-8f35-4796-854c-b216873ee148][Leonard M. Adleman]].
+* (en.wikipedia.org) Ron Rivest - Wikipedia                         :website:
+:PROPERTIES:
+:ID:       7a28e8f5-5274-4d95-845e-37386ccb5e55
+:ROAM_REFS: https://en.wikipedia.org/wiki/Ron_Rivest
+:END:
+
+#+begin_quote
+  *Ronald Linn Rivest* ([[https://en.wikipedia.org/wiki/Help:IPA/English][/rɪˈvɛst/]]; born May 6, 1947) is an American [[https://en.wikipedia.org/wiki/Cryptography][cryptographer]] and computer scientist whose work has spanned the fields of algorithms and combinatorics, cryptography, machine learning, and election integrity.  He is an [[https://en.wikipedia.org/wiki/List_of_Institute_Professors_at_the_Massachusetts_Institute_of_Technology][Institute Professor]] at the [[https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology][Massachusetts Institute of Technology]] (MIT), and a member of MIT's [[https://en.wikipedia.org/wiki/MIT_School_of_Engineering#Electrical_Engineering_and_Computer_Science][Department of Electrical Engineering and Computer Science]] and its [[https://en.wikipedia.org/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory][Computer Science and Artificial Intelligence Laboratory]].
+
+  Along with [[https://en.wikipedia.org/wiki/Adi_Shamir][Adi Shamir]] and [[https://en.wikipedia.org/wiki/Len_Adleman][Len Adleman]], Rivest is one of the inventors of the [[https://en.wikipedia.org/wiki/RSA_(algorithm)][RSA]] algorithm.  He is also the inventor of the [[https://en.wikipedia.org/wiki/Symmetric_key][symmetric key]] encryption algorithms [[https://en.wikipedia.org/wiki/RC2][RC2]], [[https://en.wikipedia.org/wiki/RC4_(cipher)][RC4]], and [[https://en.wikipedia.org/wiki/RC5][RC5]], and co-inventor of [[https://en.wikipedia.org/wiki/RC6][RC6]]. (/RC/ stands for "Rivest Cipher".) He also devised the [[https://en.wikipedia.org/wiki/MD2_(cryptography)][MD2]], [[https://en.wikipedia.org/wiki/MD4][MD4]], [[https://en.wikipedia.org/wiki/MD5][MD5]] and [[https://en.wikipedia.org/wiki/MD6][MD6]] [[https://en.wikipedia.org/wiki/Cryptographic_hash_function][cryptographic hash functions]].
+#+end_quote

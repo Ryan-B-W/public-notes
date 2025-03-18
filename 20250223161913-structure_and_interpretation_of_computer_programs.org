@@ -1,0 +1,120 @@
+:PROPERTIES:
+:ID:       bc4f5e4a-5bb9-47f7-8086-d12236fe793f
+:END:
+#+title: Structure and Interpretation of Computer Programs
+#+filetags: :software_development:programming:lisp:scheme:textbooks:education_resource:computer_science:books:
+
+* (mitpress.mit.edu) Structure and Interpretation of Computer Programs :website:
+:PROPERTIES:
+:ID:       87a77034-fae3-406c-9479-cda62e765e76
+:ROAM_REFS: https://mitpress.mit.edu/9780262510875/ https://mitpress.mit.edu/9780262510875/structure-and-interpretation-of-computer-programs/
+:END:
+
+#+begin_quote
+  ** Description
+  /Structure and Interpretation of Computer Programs/ has had a dramatic impact on computer science curricula over the past decade.  This long-awaited revision contains changes throughout the text.  There are new implementations of most of the major programming systems in the book, including the interpreters and compilers, and the authors have incorporated many small changes that reflect their experience teaching the course at MIT since the first edition was published.  A new theme has been introduced that emphasizes the central role played by different approaches to dealing with time in computational models: objects with state, concurrent programming, functional programming and lazy evaluation, and nondeterministic programming.  There are new example sections on higher-order procedures in graphics and on applications of stream processing in numerical programming, and many new exercises.  In addition, all the programs have been reworked to run in any Scheme implementation that adheres to the IEEE standard.
+#+end_quote
+* (mitp-content-server.mit.edu) Welcome to the SICP Web Site        :website:
+:PROPERTIES:
+:ID:       40abe704-c648-4281-b4a0-5fbab64c5775
+:ROAM_REFS: https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html
+:END:
+
+#+begin_quote
+  : Wizard Book n. Hal Abelson's, Jerry Sussman's and Julie Sussman's Structure and Interpretation of Computer Programs (MIT Press, 1984; ISBN 0-262-01077-1), an excellent computer science text used in introductory courses at MIT.  So called because of the wizard on the jacket.  One of the bibles of the LISP/Scheme world.  Also, less commonly, known as the Purple Book.
+  from The New Hacker's Dictionary, 2nd edition
+  (MIT Press, 1993)
+
+  This site is a companion to the influential computer-science text Structure and Interpretation of Computer Programs, by Abelson, Sussman, and Sussman.  Its purpose is to demonstrate the Web's potential to be a channel for innovative support for textbook users.
+
+  The material on this site is aimed at instructors using SICP as a course text, and at people using the book for self-study.
+#+end_quote
+* (github.com) sarabander/sicp: HTML5/EPUB3 version of SICP         :website:
+:PROPERTIES:
+:ID:       790316b8-3c04-40a2-b0ef-fda647f907c7
+:ROAM_REFS: https://github.com/sarabander/sicp
+:END:
+
+#+begin_quote
+  * SICP
+  This is a new HTML5 and EPUB3 version of "Structure and Interpretation of Computer Programs" by Abelson, Sussman, and Sussman.  It comes from the lineage of [[http://www.neilvandyke.org/sicp-texi][Unofficial Texinfo Format]] that was converted from the original [[https://mitpress.mit.edu/sicp][HTML version]] at The MIT Press.
+
+  *In EPUB3 format: [[https://github.com/sarabander/sicp-epub/blob/master/sicp.epub?raw=true][sicp.epub]]*
+
+  *For online reading: [[https://sarabander.github.io/sicp][HTML book]]*
+
+  Modern solutions such as scalable vector graphics, mathematical markup with MathML and MathJax, embedded web fonts, and syntax highlighting are used.  Rudimentary scaffolding for responsive design is in place, which adapts the page for viewing on pocket devices and tablets.  More tests on small screens are needed to adjust the font size and formatting, so I encourage feedback from smartphone and tablet owners.
+#+end_quote
+** (sarabander.github.io) Structure and Interpretation of Computer Programs, 2e
+:PROPERTIES:
+:ID:       69d3e2e7-62dc-414f-90ee-86f4b4abbcb0
+:ROAM_REFS: https://sarabander.github.io/sicp/
+:END:
+See also: [[id:2b674c22-8ea8-4da1-b374-2aa2990e9293][(sarabander.github.io) Structure and Interpretation of Computer Programs, 2e: Top]]
+* (sicpebook.wordpress.com) Structure and Interpretation of Computer Programs (SICP) by Abelson & Sussman – SICP :website:
+:PROPERTIES:
+:ID:       a183f1e8-866d-4586-b5f9-a6a37a0e467a
+:ROAM_REFS: https://sicpebook.wordpress.com/ebook/
+:END:
+* (web.mit.edu) Structure and Interpretation of Computer Programs, 2nd ed. - sicp.pdf :mime_type_application_pdf:website:
+:PROPERTIES:
+:ID:       02c35a40-036e-4771-b430-a8ff2ce5c162
+:ROAM_REFS: https://web.mit.edu/6.001/6.037/sicp.pdf
+:END:
+* (linkencore.iii.com) Encore -- Structure and interpretation of computer programs / Harold Abelson and Gerald Jay Sussman, with Julie Sussman ; foreword by Alan J. Perlis. :website:
+:PROPERTIES:
+:ID:       0f83331c-9e15-4622-8041-320b890e821b
+:ROAM_REFS: https://linkencore.iii.com/iii/encore/record/C__Rb12115235
+:END:
+
+#+begin_quote
+  Structure and interpretation of computer programs / Harold Abelson and Gerald Jay Sussman, with Julie Sussman ; foreword by Alan J. Perlis.
+
+  [[https://linkencore.iii.com/iii/encore/search/C__SAbelson,%20Harold.__Orightresult?lang=eng&suite=def][Abelson, Harold.]]
+
+  Books & Journals | McGraw-Hill | [1996] | 2nd ed.
+
+  *** More Details
+
+  Descript:
+  - xxiii, 657 pages : illustrations ; 24 cm.
+  Series:
+  - [[https://linkencore.iii.com/iii/encore/search/C__SMIT%20electrical%20engineering%20and%20computer%20science__Orightresult?lang=eng&suite=def][MIT electrical engineering and computer science]]
+  - [[https://linkencore.iii.com/iii/encore/search/C__SMIT%20electrical%20engineering%20and%20computer%20science.__Orightresult?lang=eng&suite=def][MIT electrical engineering and computer science.]]
+  Contents:
+  - Building abstractions with procedures -- Building abstractions with data -- Modularity, objects, and state -- Metalinguistic abstraction -- Computing with register machines.
+  Note:
+  - Includes bibliographical references (pages 611-617) and index.
+  Summary:
+  - "Structure and Interpretation of Computer Programs has had a dramatic impact on computer science curricula over the past decade. This long-awaited revision contains changes throughout the text." "There are new implementations of most of the major programming systems in the book, including the interpreters and compilers, and the authors have incorporated many small changes that reflect their experience teaching the course at MIT since the first edition was published." "A new theme has been introduced that emphasizes the central role played by different approaches to dealing with time in computational models: objects with state, concurrent programming, functional programming and lazy evaluation, and nondeterministic programming. There are new example sections on higher-order procedures in graphics and on applications of stream processing in numerical programming, and many new exercises." "In addition, all the programs have been reworked to run in any Scheme implementation that adheres to the IEEE standard."--Jacket.
+  Subject:
+  - [[https://linkencore.iii.com/iii/encore/search/C__SComputer%20programming.__Orightresult?lang=eng&suite=def][Computer programming.]]
+  - [[https://linkencore.iii.com/iii/encore/search/C__SLISP%20(Computer%20program%20language)__Orightresult?lang=eng&suite=def][LISP (Computer program language)]]
+  - [[https://linkencore.iii.com/iii/encore/search/C__SComputer%20programming.%20fast__Orightresult?lang=eng&suite=def][Computer programming. fast]]
+  - [[https://linkencore.iii.com/iii/encore/search/C__SLISP%20(Computer%20program%20language)%20fast__Orightresult?lang=eng&suite=def][LISP (Computer program language) fast]]
+  - [[https://linkencore.iii.com/iii/encore/search/C__SLISP.%20gnd__Orightresult?lang=eng&suite=def][LISP. gnd]]
+  - [[https://linkencore.iii.com/iii/encore/search/C__SProgrammierung.%20gnd__Orightresult?lang=eng&suite=def][Programmierung. gnd]]
+  - [[https://linkencore.iii.com/iii/encore/search/C__SLISP.%20gtt__Orightresult?lang=eng&suite=def][LISP. gtt]]
+  - [[https://linkencore.iii.com/iii/encore/search/C__SProgrammeren%20(computers)%20gtt__Orightresult?lang=eng&suite=def][Programmeren (computers) gtt]]
+  - [[https://linkencore.iii.com/iii/encore/search/C__SProgramacao%20de%20computadores.%20larpcal__Orightresult?lang=eng&suite=def][Programacao de computadores. larpcal]]
+  - [[https://linkencore.iii.com/iii/encore/search/C__SOrdinateurs%20%20%20%20Programmation%20%20%20%20Manuels%20d'enseignement%20supérieur.%20ram__Orightresult?lang=eng&suite=def][Ordinateurs -- Programmation -- Manuels d'enseignement supérieur. ram]]
+  - [[https://linkencore.iii.com/iii/encore/search/C__SProgrammation%20structurée.%20ram__Orightresult?lang=eng&suite=def][Programmation structurée. ram]]
+  - [[https://linkencore.iii.com/iii/encore/search/C__SLISP%20(langage%20de%20programmation)%20ram__Orightresult?lang=eng&suite=def][LISP (langage de programmation) ram]]
+  - [[https://linkencore.iii.com/iii/encore/search/C__SCOMPUTERS%20Lw==%20Computer%20Science.__Orightresult?lang=eng&suite=def][COMPUTERS / Computer Science.]]
+  - [[https://linkencore.iii.com/iii/encore/search/C__SProgramming%20languages__Orightresult?lang=eng&suite=def][Programming languages]]
+  Alt Author:
+  - [[https://linkencore.iii.com/iii/encore/search/C__SSussman,%20Gerald%20Jay.__Orightresult?lang=eng&suite=def][Sussman, Gerald Jay.]]
+  - [[https://linkencore.iii.com/iii/encore/search/C__SSussman,%20Julie.__Orightresult?lang=eng&suite=def][Sussman, Julie.]]
+  ISBN:
+  - 0262011530 (MIT Press hardcover)
+  - 9780262011532 (MIT Press hardcover)
+  - 0070004846 (McGraw-Hill hardcover)
+  - 9780070004849 (McGraw-Hill hardcover)
+  - 0262510871 (pbk. ; alk. paper)
+  - 9780262510875 (pbk. ; alk. paper)
+  LC CARD #:
+  - 96017756
+#+end_quote
+* See Also
+** [[id:ea6fa692-2340-4347-9b73-94a72aaddbfd][(ocw.mit.edu) Structure and Interpretation of Computer Programs | Electrical Engineering and Computer Science | MIT OpenCourseWare]]
+** [[id:e41230b4-3dee-4a59-aefa-712ca2229e4e][(www.youtube.com) MIT 6.001 Structure and Interpretation, 1986 - YouTube]]

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       f236ab65-0f2f-4c13-bfac-b7a693e44af9
+:END:
+#+title: Programming Language Design
+#+filetags: :computer_science:programming:programming_language:programming_language_design:
+
+Programming language design, the design of programming languages and the various trade-offs and scientific and engineering practices and constraints thereof.
+* See Also
+ - [[id:bbdbd1d6-ce5c-4aeb-85ea-96ab26afc28a][Programming Paradigm]]
+ - [[id:ff760f1c-728c-4df7-a628-948a6a8b6391][Immutable data allows safe and, relatively, safe multi-processing with IPC]]

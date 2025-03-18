@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       6edcb9e7-8f35-4796-854c-b216873ee148
+:END:
+#+title: Leonard M. Adleman
+#+filetags: :biographic:people:
+
+Famous computer scientist and mathematician.  Known for A in RSA, along side [[id:11438879-fe1a-4e45-b25b-3a7563627422][Ronald L. Rivest]] and [[id:7cf931f8-5095-4473-8010-b94ed35b914d][Adi Shamir]], and coined the term computer virus.
+* (en.wikipedia.org) Leonard Adleman - Wikipedia                    :website:
+:PROPERTIES:
+:ID:       73c4839c-46ce-45a7-aea7-17b3a8048d86
+:ROAM_REFS: https://en.wikipedia.org/wiki/Leonard_Adleman
+:END:
+
+#+begin_quote
+  *Leonard Adleman* (born December 31, 1945) is an American computer scientist.  He is one of the creators of the [[https://en.wikipedia.org/wiki/RSA_(cryptosystem)][RSA]] encryption algorithm, for which he received the 2002 [[https://en.wikipedia.org/wiki/Turing_Award][Turing Award]].  He is also known for the creation of the field of [[https://en.wikipedia.org/wiki/DNA_computing][DNA computing]] and coining the term [[https://en.wikipedia.org/wiki/Computer_virus][computer virus]].
+#+end_quote

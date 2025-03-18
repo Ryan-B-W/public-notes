@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       6992d257-971d-40c7-a617-ec82e2541206
+:END:
+#+title: Note Taking Systems
+#+filetags: :writing:information_management:
+
+Systems and methods for taking and organizing notes.  Inclusive of notes for learning, notes for retaining details for later use, notes and reminders of pieces of information, and notes kept as a record of some kind.

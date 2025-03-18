@@ -1,0 +1,110 @@
+:PROPERTIES:
+:ID:       2a07e4ea-610b-4c9a-bb84-d961fb2450e5
+:END:
+#+title: Code and Coffee Book Club
+#+filetags: :events:social:
+
+The official book club of Code and Coffee Long Beach.
+
+Hosted online on the Code and Coffee Discord server, livestreamed to twitch, and uploaded to YouTube.
+* Books
+** [[id:bc4f5e4a-5bb9-47f7-8086-d12236fe793f][Structure and Interpretation of Computer Programs]]
+*** Sessions
+**** Session Zero, [2025-02-23 Sun 15:00-16:00]
+:PROPERTIES:
+:ID:       3bdab7d2-9dfa-477a-851b-7e8e52aa51b5
+:END:
+***** Linked in Twitch Chat
+****** [[id:1114dfc3-8db9-4389-9d27-4b586a719f17][(linkencore.iii.com) Encore -- Structure and interpretation of computer programs / Harold Abelson and Gerald Jay Sussman ; adapted to JavaScript by Martin Henz and Tobias Wrigstad with Julie Sussman.]]
+****** [[id:cb5f7acd-22bb-48f7-9ffa-034b058726d1][(sourceacademy.org) Source Academy]]
+****** [[id:1256f4d8-25aa-4d39-a1bd-da6272adedae][(shaunlebron.github.io) Parinfer - simpler Lisp editing]]
+****** [[id:d8a6cfff-6757-42db-8850-8830dedcd067][(linkencore.iii.com) Encore -- An elementary introduction to the Wolfram language / Stephen Wolfram.]]
+****** [[id:93b26e85-6889-4277-9ee5-6c918477a6df][(www.wolfram.com) An Elementary Introduction to the Wolfram Language by Stephen Wolfram]]
+****** [[id:bb915ed7-065b-4c58-8124-a39adec7cac0][(www.industriallogic.com) Knowledge Hydrant: A Pattern Language for Study Groups - khdraft.pdf]]
+****** [[id:0f83331c-9e15-4622-8041-320b890e821b][(linkencore.iii.com) Encore -- Structure and interpretation of computer programs / Harold Abelson and Gerald Jay Sussman, with Julie Sussman ; foreword by Alan J. Perlis.]]
+****** [[id:22349593-c7e7-430e-8858-1b066f0d4b6e][(journal.stuffwithstuff.com) JavaScript Isn’t Scheme – journal.stuffwithstuff.com]]
+****** [[id:f82bd36c-04e2-485f-8f99-2f742000031d][(news.ycombinator.com) JavaScript Isn't Scheme | Hacker News]]
+***** (www.meetup.com) Code and Coffee Book Club, Sun, Feb 23, 2025, 3:00 PM | Meetup :events:website:
+:PROPERTIES:
+:ID:       e1e4b40e-71a2-4e7b-9d0f-a5f3116f0922
+:ROAM_REFS: https://www.meetup.com/code-and-coffee-long-beach/events/306193274/
+:END:
+
+#+begin_quote
+  * Code and Coffee Book Club
+  Hosted By Ryan W.
+  ** Details
+  The focus is on technical books, especially ones considered classical computer science texts.
+
+  Current book: Structure and Interpretation of Computer Programs, second edition.
+
+  This first session will be an introduction to the book club, an overview of the first book, covering the preface of the book, and deciding how much material to cover in the next session.  The second session will dive into the body of the book.
+
+  The book club will be held online in the Code && Coffee Discord server in a voice channel and will be streamed online on the Code && Coffee Twitch channel.  As always, every one is welcome to participate in their choice of text, voice, or video chat.
+
+  Tags: Book Club, Learning, Lisp, Programming Languages, Computer Programming
+#+end_quote
+****** Links from Comments
+******* [[id:40abe704-c648-4281-b4a0-5fbab64c5775][(mitp-content-server.mit.edu) Welcome to the SICP Web Site]]
+******* [[id:790316b8-3c04-40a2-b0ef-fda647f907c7][(github.com) sarabander/sicp: HTML5/EPUB3 version of SICP]]
+******* [[id:ea6fa692-2340-4347-9b73-94a72aaddbfd][(ocw.mit.edu) Structure and Interpretation of Computer Programs | Electrical Engineering and Computer Science | MIT OpenCourseWare]]
+******* [[id:e41230b4-3dee-4a59-aefa-712ca2229e4e][(www.youtube.com) MIT 6.001 Structure and Interpretation, 1986 - YouTube]]
+******* [[id:6735a31a-80b1-41ff-bddd-9d2dc6e50f14][(www.twitch.tv) CodeAndCoffeeLB - Twitch]]
+******* [[id:82dac0a3-1609-43d4-ae80-1433e32ddfbb][(www.racket-lang.org) Racket]]
+******** [[id:6525fb29-4aa1-4c0a-8fd2-d5024a3ae869][(docs.racket-lang.org) SICP Collections]]
+******* [[id:87a77034-fae3-406c-9479-cda62e765e76][(mitpress.mit.edu) Structure and Interpretation of Computer Programs]]
+******* [[id:a183f1e8-866d-4586-b5f9-a6a37a0e467a][(sicpebook.wordpress.com) Structure and Interpretation of Computer Programs (SICP) by Abelson & Sussman – SICP]]
+******* [[id:18a1ad86-a00c-437a-b253-ba0d24299574][(www.scheme.org) The Scheme Programming Language]]
+******* [[id:7baffabc-9c70-4bb9-b719-3519f7eb68b0][(try.scheme.org)]]
+******* [[id:0f83331c-9e15-4622-8041-320b890e821b][(linkencore.iii.com) Encore -- Structure and interpretation of computer programs / Harold Abelson and Gerald Jay Sussman, with Julie Sussman ; foreword by Alan J. Perlis.]]
+******* [[id:22349593-c7e7-430e-8858-1b066f0d4b6e][(journal.stuffwithstuff.com) JavaScript Isn’t Scheme – journal.stuffwithstuff.com]]
+******* [[id:f82bd36c-04e2-485f-8f99-2f742000031d][(news.ycombinator.com) JavaScript Isn't Scheme | Hacker News]]
+******** [[id:54bc44dd-5e3d-42eb-80ac-df3ef2a005df][(news.ycombinator.com) JavaScript Isn't Scheme (2013) | Hacker News]]
+******* [[id:36cc076e-e5dd-435d-ac6a-f1a9fa4b04b0][(people.eecs.berkeley.edu) Simply Scheme: Introducing Computer Science]]
+******* [[id:c07d6ee3-5a5d-4bae-ba41-e72989c8ba86][(mitpress.mit.edu) The Little Schemer]]
+******* [[id:3cbd9c3a-e06d-4655-ba41-ccabde8d0389][(mitpress.mit.edu) The Reasoned Schemer]]
+******* [[id:eeb73809-21fb-4cc9-97b0-f52d726ef058][(htdp.org) How to Design Programs]]
+******* [[id:d8258db6-97b3-4459-999c-560fd8830965][(webperso.info.ucl.ac.be) Concepts, Techniques, and Models of Computer Programming]]
+******* [[id:10207667-9bc2-4b0f-b359-9c85178a2d5d][(mitpress.mit.edu) The Seasoned Schemer]]
+******* [[id:e3359747-2369-4f60-87ef-0bd9afed406e][(beautifulracket.com) Beautiful Racket by Matthew Butterick]]
+******* [[id:1256f4d8-25aa-4d39-a1bd-da6272adedae][(shaunlebron.github.io) Parinfer - simpler Lisp editing]]
+******* [[id:fa9ee46b-81b9-4c6f-a784-f0cca7d74256][(paredit.org) paredit — parenthetical editing in Emacs]]
+***** Links from Discord
+****** [[id:ebad0914-e115-4476-91f5-32a6083dfaab][(github.com) source-academy/sicp: XML sources of SICP and SICP JS, and support for generating Interactive SICP JS, PDF, e-book and comparison editions]]
+****** [[id:ce46e60f-b522-406f-a2a8-85cf65312d8a][(sicp.sourceacademy.org) Structure and Interpretation of Computer Programs JavaScript Edition (sicpjs.pdf)]]
+****** [[id:f507a8ed-b2e1-445e-8d9c-514ea1307aea][(en.wikipedia.org) Higher-order function - Wikipedia]]
+****** [[id:84edb9cd-8f7b-4ae7-8a93-1f9f70c70608][(www.gnu.org) Symbols (GNU Emacs Lisp Reference Manual)]]
+****** [[id:5edf24bc-eeaa-465f-b90f-8565edbb600b][(en.wikipedia.org) Curry–Howard correspondence - Wikipedia]]
+****** [[id:5503edd7-c9b7-4428-a2ec-bf05a61a8ed7][(writings.stephenwolfram.com) Combinators and the Story of Computation—Stephen Wolfram Writings]]
+***** [[id:130c4aa4-c318-4a59-904f-e9ebc429c18c][(physbuzz.github.io) 02-23-2025.md]]
+**** Session One, [2025-03-02 Sun 15:00-16:00]
+***** [[id:b85b9acb-443c-4d3f-842b-1f663c99ef18][(sarabander.github.io) Structure and Interpretation of Computer Programs, 2e: 1.1]]
+***** [[id:250b2e70-00fa-426e-b8b2-730ee1d4b960][(physbuzz.github.io) notes-ch1-1.md]]
+***** [[id:5edf24bc-eeaa-465f-b90f-8565edbb600b][(en.wikipedia.org) Curry–Howard correspondence - Wikipedia]]
+***** [[id:5509c95a-ba92-4a76-ae77-5c3a2b1368ba][(en.wikipedia.org) Fixed-point combinator - Wikipedia]]
+**** Session Two, [2025-03-16 Sun 15:00-16:25]
+***** [[id:d4e8ce6b-05bb-4338-b3ff-1bb12c109dea][(sarabander.github.io) Structure and Interpretation of Computer Programs, 2e: 1.2]]
+***** [[id:51594a7b-3ca6-4bc2-a5fc-b983660cb475][(physbuzz.github.io) notes-ch1-2.md]]
+***** [[id:aa79adc9-3e6a-4056-9bd8-6fe00a1ccf12][(en.wikipedia.org) Extended Euclidean algorithm - Wikipedia]]
+***** [[id:48a3942c-c963-49a0-aa59-b23231eab7f8][(en.wikipedia.org) Chinese remainder theorem - Wikipedia]]
+***** [[id:46f082ae-40c1-4621-94cc-bc78cb823859][(en.wikipedia.org) Linear Diophantine equations - Diophantine equation - Wikipedia]]
+***** [[id:21a8b700-fb6b-4e90-9f17-267f7f4ba53d][(en.wikipedia.org) Big O notation - Wikipedia]]
+***** [[id:02954d3b-35db-4d34-b504-b110ec7257a5][(books.google.com) How to Prove It: A Structured Approach - Daniel J. Velleman - Google Books]]
+***** [[id:b60d88a6-5396-4183-ad7d-74919d13a39b][(nature-of-computation.org) The Nature Of Computation]]
+***** [[id:165d540b-70bf-4646-a817-0c5f8c920fa9][(www.cambridge.org) Computational Complexity]]
+***** [[id:dbdd9131-2ccd-4a7d-a780-2ebd2aceed8c][(www.amazon.com) The Computational Beauty of Nature: Computer Explorations of Fractals, Chaos, Complex Systems, and Adaptation: Flake, Gary William: 9780262561273: Amazon.com: Books]]
+***** [[id:dd2f4b13-7fd9-4dda-9445-bbf7a61e65d0][(mathstodon.xyz) Simone Conradi: "The absolute value of a soluti…" - Mathstodon]]
+***** [[id:82c9cfe8-eb0d-4340-8592-373c3581c0dd][(en.wikipedia.org) Lie algebra - Wikipedia]]
+***** [[id:9f49f590-90a1-4cca-9da0-d5bf922c2d3f][(en.wikipedia.org) Quaternion - Wikipedia]]
+***** [[id:0cd682ff-d2c0-4ee9-af88-5729e0e89c1c][(lockywolf.wordpress.com) Solving SICP – Various Thoughts]]
+***** [[id:6a1c8f81-f34c-46ca-9865-ed082b968d0b][(news.ycombinator.com) Solving SICP | Hacker News]]
+***** [[id:f813f14e-fa7e-4fdf-bf91-73debeaa4ce9][(longformmath.com) Long(er)-Form Mathematics – LFM Textbooks]]
+***** [[id:dfb9719d-6ed3-46ed-ae2e-50ba87e0eca2][(projecteuler.net) About - Project Euler]]
+***** [[id:8a6e02d9-17df-407d-9cb8-4b0306852fe3][(en.wikipedia.org) Cryptographic nonce - Wikipedia]]
+***** [[id:9d37a76d-1b42-46d2-87da-13d0905b7c99][(tvtropes.org) Noodle Incident - TV Tropes]]
+***** [[id:5544c0de-0f34-4f09-bb32-8db365901a12][(hn.algolia.com) "random number generator" All | Search powered by Algolia]]
+***** [[id:2240b046-b115-42f9-b036-e70df07c1a5a][(www.valerionappi.it) Generating true random numbers from bananas - Valerio Nappi]]
+***** [[id:87a1a554-a120-484e-a014-80f3135627a7][(en.wikipedia.org) Introduction to Algorithms - Wikipedia]]
+****** [[id:11438879-fe1a-4e45-b25b-3a7563627422][Ronald L. Rivest]]
+******* [[id:7cf931f8-5095-4473-8010-b94ed35b914d][Adi Shamir]]
+******* [[id:6edcb9e7-8f35-4796-854c-b216873ee148][Leonard M. Adleman]]

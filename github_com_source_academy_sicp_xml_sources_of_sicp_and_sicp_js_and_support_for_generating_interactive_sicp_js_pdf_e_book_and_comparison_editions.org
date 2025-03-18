@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ebad0914-e115-4476-91f5-32a6083dfaab
+:ROAM_REFS: https://github.com/source-academy/sicp
+:END:
+#+title: (github.com) source-academy/sicp: XML sources of SICP and SICP JS, and support for generating Interactive SICP JS, PDF, e-book and comparison editions
+#+filetags: :javascript:open_source:computer_science:books:website:
+
+#+begin_quote
+  * SICP JavaScript Edition
+
+  This repository contains processing scripts and sources for the textbook SICP JS: /Structure and Interpretation of Computer Programs, JavaScript Edition/ (SICP JS).  See [[https://sourceacademy.org/sicpjs/prefaces03][Preface]] for background.
+
+  Available versions:
+
+  - [[https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-1][Print version]] and the [[https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering-ebook-dp-B094X8316F/dp/B094X8316F/ref=mt_other?_encoding=UTF8&me=&qid=][ebook version]] are scheduled for publication in 2022
+  - [[https://sourceacademy.org/sicpjs][Interactive SICP JS]]
+  - [[http://sicp.sourceacademy.org/][Comparison version]] Scheme vs JavaScript
+
+  Details how to generate these versions are in the [[https://github.com/source-academy/sicp/wiki][repo wiki]].
+
+  Check out our [[https://about.sourceacademy.org/][Resources for Learners, Educators and Researchers]], and read more [[https://sourceacademy.org/sicpjs/making-of][About the SICP JS Project]] in Interactive SICP JS.
+#+end_quote

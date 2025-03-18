@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       412bbcad-6c00-4f13-b748-d1ffde0588e1
+:END:
+#+title: Operating System
+#+filetags: :computer_science:filesystems:software_distributions:operating_systems:
+
+The software system that allows a computer to be used by an end user.  Usually consists of a =bootloader=, [[id:925a80bf-d4d4-4061-9ac1-2d0224e1590a][=kernel=]], [[id:a4c2de37-5317-44f3-b877-ec0b5777c61f][=filesystem=]], =service manager=, =window manager= (and [[id:88db686f-0d77-4ecc-a9d6-43017ef7440f][GUI]]), and various =applications=.
+* See Also
+ - [[id:b94ccb5f-dca6-49e4-91b6-b87e73c867a5][Gentoo]]
+ - [[id:30ae24e9-8b87-4412-ae94-484b5c72216b][NixOS]]

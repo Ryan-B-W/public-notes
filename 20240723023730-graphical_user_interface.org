@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       88db686f-0d77-4ecc-a9d6-43017ef7440f
+:END:
+#+title: Graphical User Interface
+#+filetags: :hci:computer_science:
+
+A graphical user interface (GUI) is an interface to a computer system that utilizes graphical elements and pointing device input for [[id:3ea08bdb-19a6-4d05-9c8f-99da99e74de4][human-computer interaction (HCI)]].
+* See Also
+ - [[https://en.wikipedia.org/wiki/Graphical_user_interface][Graphical user interface - Wikipedia]]

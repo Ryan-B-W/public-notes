@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       ea6fa692-2340-4347-9b73-94a72aaddbfd
+:ROAM_REFS: https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/
+:END:
+#+title: (ocw.mit.edu) Structure and Interpretation of Computer Programs | Electrical Engineering and Computer Science | MIT OpenCourseWare
+#+filetags: :scheme:lisp:software_development:programming:courses:education_resource:computer_science:website:
+
+#+begin_quote
+  * [[https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/][Structure and Interpretation of Computer Programs]]
+  Menu
+  - [[https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/syllabus][Syllabus]]
+  - [[https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/calendar][Calendar]]
+  - [[https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/readings][Readings]]
+  - [[https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/lecture-notes][Lecture Notes]]
+  - [[https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures][Video Lectures]]
+  - [[https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/recitations][Recitations]]
+  - [[https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/exams][Exams]]
+  - [[https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/projects][Projects]]
+  - [[https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/tools/][Tools]]
+  - [[https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/related-resources][Related Resources]]
+  ** Course Description
+  This course introduces students to the principles of computation.  Upon completion of 6.001, students should be able to explain and apply the basic methods from programming languages to analyze computational systems, and to generate computational solutions to abstract problems.  Substantial weekly programming assignments are an integral part of the course.  This course is worth 4 Engineering Design Points.
+  ** Course Info
+  *** Instructors
+  - [[https://ocw.mit.edu/search/?q=Prof.+Eric+Grimson][Prof. Eric Grimson]]
+  - [[https://ocw.mit.edu/search/?q=Prof.+Peter+Szolovits][Prof. Peter Szolovits]]
+  - [[https://ocw.mit.edu/search/?q=Prof.+Trevor+Darrell][Prof. Trevor Darrell]]
+  *** Departments
+  - [[https://ocw.mit.edu/search/?d=Electrical+Engineering+and+Computer+Science][Electrical Engineering and Computer Science]]
+  *** Topics
+  - [[https://ocw.mit.edu/search/?t=Engineering][Engineering]]
+    - [[https://ocw.mit.edu/search/?t=Computer+Science][Computer Science]]
+      - [[https://ocw.mit.edu/search/?t=Theory+of+Computation][Theory of Computation]]
+  - [[https://ocw.mit.edu/search/?t=Mathematics][Mathematics]]
+    - [[https://ocw.mit.edu/search/?t=Computation][Computation]]
+  *** Learning Resource Types
+  - Online Textbook
+  - Exams
+  - Lecture Notes
+  - Projects
+  - Lecture Videos
+#+end_quote
+* See Also
+** [[id:bc4f5e4a-5bb9-47f7-8086-d12236fe793f][Structure and Interpretation of Computer Programs]]
+** [[id:e41230b4-3dee-4a59-aefa-712ca2229e4e][(www.youtube.com) MIT 6.001 Structure and Interpretation, 1986 - YouTube]]

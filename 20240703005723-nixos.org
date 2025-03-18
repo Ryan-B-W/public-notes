@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       30ae24e9-8b87-4412-ae94-484b5c72216b
+:END:
+#+title: NixOS
+#+filetags: :computer_science:operating_systems:linux:unix:software_distributions:
+
+NixOS is a [[id:bf0bc2d7-17df-413c-823b-93904faffc58][Linux]] distribution that uses the [[id:3b6a267c-90c9-491e-89d2-42c365ec6574][Nix]] package manager.  Primary distinguishing characteristics are having a reproducible package set and configuration using the Nix configuration [[id:b24601aa-09df-41e1-aa7e-25ead342db34][language]] along with the Nix package manager.

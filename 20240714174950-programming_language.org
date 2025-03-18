@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       b24601aa-09df-41e1-aa7e-25ead342db34
+:END:
+#+title: Programming Language
+#+filetags: :programming_language:programming:computer_science:
+
+An artificial language used to program computers to perform specific actions.
+* See Also
+ - [[id:f236ab65-0f2f-4c13-bfac-b7a693e44af9][Programming Language Design]]

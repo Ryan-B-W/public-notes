@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       f507a8ed-b2e1-445e-8d9c-514ea1307aea
+:ROAM_REFS: https://en.wikipedia.org/wiki/Higher-order_function
+:END:
+#+title: (en.wikipedia.org) Higher-order function - Wikipedia
+#+filetags: :programming:mathematics:computer_science:website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Mathematics][mathematics]] and [[https://en.wikipedia.org/wiki/Computer_science][computer science]], a *higher-order function* (*HOF*) is a [[https://en.wikipedia.org/wiki/Function_(mathematics)][function]] that does at least one of the following:
+
+  - takes one or more functions as arguments (i.e. a [[https://en.wikipedia.org/wiki/Procedural_parameter][procedural parameter]], which is a [[https://en.wikipedia.org/wiki/Parameter_(computer_science)][parameter]] of a [[https://en.wikipedia.org/wiki/Subroutine][procedure]] that is itself a procedure),
+  - returns a function as its result.
+
+  All other functions are /first-order functions/.  In mathematics higher-order functions are also termed /[[https://en.wikipedia.org/wiki/Operator_(mathematics)][operators]]/ or /[[https://en.wikipedia.org/wiki/Functional_(mathematics)][functionals]]/.  The [[https://en.wikipedia.org/wiki/Differential_operator][differential operator]] in [[https://en.wikipedia.org/wiki/Calculus][calculus]] is a common example, since it maps a function to its [[https://en.wikipedia.org/wiki/Derivative][derivative]], also a function.  Higher-order functions should not be confused with other uses of the word "functor" throughout mathematics, see [[https://en.wikipedia.org/wiki/Functor_(disambiguation)][Functor (disambiguation)]].
+
+  In the untyped [[https://en.wikipedia.org/wiki/Lambda_calculus][lambda calculus]], all functions are higher-order; in a [[https://en.wikipedia.org/wiki/Typed_lambda_calculus][typed lambda calculus]], from which most [[https://en.wikipedia.org/wiki/Functional_programming][functional programming]] languages are derived, higher-order functions that take one function as argument are values with types of the form \((\tau_{1}\rightarrow\tau_{2})\rightarrow\tau_{3}\).
+#+end_quote

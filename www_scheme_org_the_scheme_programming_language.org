@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       18a1ad86-a00c-437a-b253-ba0d24299574
+:ROAM_REFS: https://www.scheme.org/ https://www.scheme.org/schemers/
+:END:
+#+title: (www.scheme.org) The Scheme Programming Language
+#+filetags: :scheme:lisp:programming_language:programming:computer_science:website:
+
+A snapshot of the old schemers.org website documenting [[id:6246f8d4-6cd4-489d-b19f-9c1142b51b60][Scheme]] resources hosted on scheme.org.
+
+#+begin_quote
+  Scheme is a classic programming language in the Lisp family.  It emphasizes functional programming and domain-specific languages but adapts to other styles.  Known for its clean and minimalist design, Scheme is one of the longest-lived and best-studied dynamic languages, and has many fast and portable implementations.
+
+  From the Scheme standard reports:
+
+    : Programming languages should be designed not by piling feature on top of feature, but by removing the weaknesses and restrictions that make additional features appear necessary.  Scheme demonstrates that a very small number of rules for forming expressions, with no restrictions on how they are composed, suffice to form a practical and efficient programming language that is flexible enough to support most of the major programming paradigms in use today.
+#+end_quote
+* (try.scheme.org)
+:PROPERTIES:
+:ID:       7baffabc-9c70-4bb9-b719-3519f7eb68b0
+:ROAM_REFS: https://try.scheme.org/
+:END:
+
+#+begin_quote
+  If you have programmed before but are new to Scheme, you should
+
+  to get to know the language better.
+
+  The first pane, the REPL, is where the user interacts with the interpreter.  The REPL is an ideal place to try out code snippets and debug code.
+
+  The second pane is the editor area.  It allows creating and editing files that are local to the browser and accessible to Scheme code as files in the root directory, i.e. "*=/=*".  The files will persist in the browser between sessions.  Use the "*=+=*" tab in the editor area to create new files and open existing files.
+#+end_quote

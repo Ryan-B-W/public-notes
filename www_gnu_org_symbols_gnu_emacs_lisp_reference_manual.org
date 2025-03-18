@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       84edb9cd-8f7b-4ae7-8a93-1f9f70c70608
+:ROAM_REFS: https://www.gnu.org/software/emacs/manual/html_node/elisp/Symbols.html
+:END:
+#+title: (www.gnu.org) Symbols (GNU Emacs Lisp Reference Manual)
+#+filetags: :emacs_lisp:lisp:programming:documentation:computer_science:website:
+
+#+begin_quote
+  A /symbol/ is an object with a unique name.  This chapter describes symbols, their components, their property lists, and how they are created and interned.  Separate chapters describe the use of symbols as variables and as function names; see [[https://www.gnu.org/software/emacs/manual/html_node/elisp/Variables.html][Variables]], and [[https://www.gnu.org/software/emacs/manual/html_node/elisp/Functions.html][Functions]].  For the precise read syntax for symbols, see [[https://www.gnu.org/software/emacs/manual/html_node/elisp/Symbol-Type.html][Symbol Type]].
+
+  You can test whether an arbitrary Lisp object is a symbol with =symbolp=:
+
+  - Function: *symbolp* /object/ [[https://www.gnu.org/software/emacs/manual/html_node/elisp/Symbols.html#index-symbolp][¶]] :: This function returns =t= if =object= is a symbol, =nil= otherwise.
+#+end_quote

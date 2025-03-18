@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       bbdbd1d6-ce5c-4aeb-85ea-96ab26afc28a
+:END:
+#+title: Programming Paradigm
+#+filetags: :software_development:programming_language_design:programming_language:programming:computer_science:
+
+Programming paradigms are different ways of conceptualizing the structure and implementation of [[id:b24601aa-09df-41e1-aa7e-25ead342db34][programming languages]].
+* See Also
+ - [[https://en.wikipedia.org/wiki/Programming_paradigm][Programming paradigm - Wikipedia]]

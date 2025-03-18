@@ -1,0 +1,67 @@
+:PROPERTIES:
+:ID:       46074efd-c5a1-40ac-9ae0-7f8e2a3a0962
+:ROAM_REFS: https://en.wikipedia.org/wiki/Diophantine_equation
+:END:
+#+title: (en.wikipedia.org) Diophantine equation - Wikipedia
+#+filetags: :mathematics:website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Mathematics][mathematics]], a *Diophantine equation* is an [[https://en.wikipedia.org/wiki/Equation][equation]], typically a [[https://en.wikipedia.org/wiki/Polynomial_equation][polynomial equation]] in two or more [[https://en.wikipedia.org/wiki/Unknown_(mathematics)][unknowns]] with [[https://en.wikipedia.org/wiki/Integer][integer]] coefficients, for which only [[https://en.wikipedia.org/wiki/Integer][integer]] solutions are of interest.  A *linear Diophantine equation* equates the sum of two or more unknowns, with coefficients, to a constant.  An *exponential Diophantine equation* is one in which unknowns can appear in [[https://en.wikipedia.org/wiki/Exponent][exponents]].
+
+  *Diophantine problems* have fewer equations than unknowns and involve finding integers that solve simultaneously all equations.  Because such [[https://en.wikipedia.org/wiki/Systems_of_equations][systems of equations]] define [[https://en.wikipedia.org/wiki/Algebraic_curve][algebraic curves]], [[https://en.wikipedia.org/wiki/Algebraic_surface][algebraic surfaces]], or, more generally, [[https://en.wikipedia.org/wiki/Algebraic_set][algebraic sets]], their study is a part of [[https://en.wikipedia.org/wiki/Algebraic_geometry][algebraic geometry]] that is called /[[https://en.wikipedia.org/wiki/Diophantine_geometry][Diophantine geometry]]/.
+
+  The word /Diophantine/ refers to the [[https://en.wikipedia.org/wiki/Greek_mathematics#Hellenistic][Hellenistic mathematician]] of the 3rd century, [[https://en.wikipedia.org/wiki/Diophantus][Diophantus]] of [[https://en.wikipedia.org/wiki/Alexandria][Alexandria]], who made a study of such equations and was one of the first mathematicians to introduce [[https://en.wikipedia.org/wiki/Mathematical_symbol][symbolism]] into [[https://en.wikipedia.org/wiki/Algebra][algebra]].  The mathematical study of Diophantine problems that Diophantus initiated is now called *Diophantine analysis*.
+
+  While individual equations present a kind of puzzle and have been considered throughout history, the formulation of general theories of Diophantine equations, beyond the case of linear and [[https://en.wikipedia.org/wiki/Quadratic_equation][quadratic]] equations, was an achievement of the twentieth century.
+#+end_quote
+
+* (en.wikipedia.org) Linear Diophantine equations - Diophantine equation - Wikipedia
+:PROPERTIES:
+:ID:       46f082ae-40c1-4621-94cc-bc78cb823859
+:ROAM_REFS: https://en.wikipedia.org/wiki/Diophantine_equation#Linear_Diophantine_equations
+:END:
+#+begin_quote
+  *** One equation
+
+  The simplest linear Diophantine equation takes the form \[ax + by = c,\] where a, b and c are given integers.  The solutions are described by the following theorem:
+
+  /This Diophantine equation has a solution/ (where x and y are integers) /[[https://en.wikipedia.org/wiki/If_and_only_if][if and only if]]/ c /is a multiple of the [[https://en.wikipedia.org/wiki/Greatest_common_divisor][greatest common divisor]] of/ a /and/ b. /Moreover, if/ (/x, y/) /is a solution, then the other solutions have the form/ (/x/ + /kv, y/ − /ku/), /where/ k /is an arbitrary integer, and/ u /and/ v /are the quotients of/ a /and/ b /(respectively) by the greatest common divisor of/ a /and/ b.
+
+  *Proof:* If d is this greatest common divisor, [[https://en.wikipedia.org/wiki/Bézout's_identity][Bézout's identity]] asserts the existence of integers e and f such that /ae/ + /bf/ = /d/.  If c is a multiple of d, then /c/ = /dh/ for some integer h, and (/eh, fh/) is a solution.  On the other hand, for every pair of integers x and y, the greatest common divisor d of a and b divides /ax/ + /by/.  Thus, if the equation has a solution, then c must be a multiple of d.  If /a/ = /ud/ and /b/ = /vd/, then for every solution (/x, y/), we have \[\begin{matrix}
+  {a(x + kv) + b(y - ku)} & {= ax + by + k(av - bu)} \\
+   & {= ax + by + k(udv - vdu)} \\
+   & {= ax + by,}
+  \end{matrix}\] showing that (/x/ + /kv, y/ − /ku/) is another solution.  Finally, given two solutions such that \[ax_{1} + by_{1} = ax_{2} + by_{2} = c,\] one deduces that \[u(x_{2} - x_{1}) + v(y_{2} - y_{1}) = 0.\] As u and v are [[https://en.wikipedia.org/wiki/Coprime][coprime]], [[https://en.wikipedia.org/wiki/Euclid's_lemma][Euclid's lemma]] shows that v divides /x/_{2} − /x/_{1}, and thus that there exists an integer k such that both \[x_{2} - x_{1} = kv,\quad y_{2} - y_{1} = - ku.\] Therefore, \[x_{2} = x_{1} + kv,\quad y_{2} = y_{1} - ku,\] which completes the proof.
+
+  *** Chinese remainder theorem
+
+  The [[https://en.wikipedia.org/wiki/Chinese_remainder_theorem][Chinese remainder theorem]] describes an important class of linear Diophantine systems of equations: let \(n_{1},\ldots,n_{k}\) be k [[https://en.wikipedia.org/wiki/Pairwise_coprime][pairwise coprime]] integers greater than one, \(a_{1},\ldots,a_{k}\) be k arbitrary integers, and N be the product \(n_{1}\cdots n_{k}.\) The Chinese remainder theorem asserts that the following linear Diophantine system has exactly one solution \((x,x_{1},\ldots,x_{k})\) such that 0 ≤ /x/ < /N/, and that the other solutions are obtained by adding to x a multiple of N: \[\begin{matrix}
+  x & {= a_{1} + n_{1}\, x_{1}} \\
+   & {\;\; \vdots} \\
+  x & {= a_{k} + n_{k}\, x_{k}}
+  \end{matrix}\]
+
+  *** System of linear Diophantine equations
+
+  More generally, every system of linear Diophantine equations may be solved by computing the [[https://en.wikipedia.org/wiki/Smith_normal_form][Smith normal form]] of its matrix, in a way that is similar to the use of the [[https://en.wikipedia.org/wiki/Reduced_row_echelon_form][reduced row echelon form]] to solve a [[https://en.wikipedia.org/wiki/System_of_linear_equations][system of linear equations]] over a field.  Using [[https://en.wikipedia.org/wiki/Matrix_(mathematics)#Notation][matrix notation]] every system of linear Diophantine equations may be written \[AX = C,\] where A is an /m/ × /n/ matrix of integers, X is an /n/ × 1 [[https://en.wikipedia.org/wiki/Column_matrix][column matrix]] of unknowns and C is an /m/ × 1 column matrix of integers.
+
+  The computation of the Smith normal form of A provides two [[https://en.wikipedia.org/wiki/Unimodular_matrix][unimodular matrices]] (that is matrices that are invertible over the integers and have ±1 as determinant) U and V of respective dimensions /m/ × /m/ and /n/ × /n/, such that the matrix \[B = \lbrack b_{i,j}\rbrack = UAV\] is such that b_{i,i} is not zero for i not greater than some integer k, and all the other entries are zero.  The system to be solved may thus be rewritten as \[B(V^{- 1}X) = UC.\] Calling y_{i} the entries of /V/^{−1}/X/ and d_{i} those of /D/ = /UC/, this leads to the system \[\begin{matrix}
+   & {b_{i,i}y_{i} = d_{i},\quad 1 \leq i \leq k} \\
+   & {0y_{i} = d_{i},\quad k < i \leq n.}
+  \end{matrix}\]
+
+  This system is equivalent to the given one in the following sense: A column matrix of integers x is a solution of the given system if and only if /x/ = /Vy/ for some column matrix of integers y such that /By/ = /D/.
+
+  It follows that the system has a solution if and only if b_{i,i} divides d_{i} for /i/ ≤ /k/ and /d_{i}/ = 0 for /i/ > /k/.  If this condition is fulfilled, the solutions of the given system are \[V\,\begin{bmatrix}
+  \frac{d_{1}}{b_{1,1}} \\
+   \vdots \\
+  \frac{d_{k}}{b_{k,k}} \\
+  h_{k + 1} \\
+   \vdots \\
+  h_{n}
+  \end{bmatrix}\,,\] where /h/_{/k/+1}, ..., /h_{n}/ are arbitrary integers.
+
+  [[https://en.wikipedia.org/wiki/Hermite_normal_form][Hermite normal form]] may also be used for solving systems of linear Diophantine equations.  However, Hermite normal form does not directly provide the solutions; to get the solutions from the Hermite normal form, one has to successively solve several linear equations.  Nevertheless, Richard Zippel wrote that the Smith normal form "is somewhat more than is actually needed to solve linear diophantine equations.  Instead of reducing the equation to diagonal form, we only need to make it triangular, which is called the Hermite normal form.  The Hermite normal form is substantially easier to compute than the Smith normal form."
+
+  [[https://en.wikipedia.org/wiki/Integer_linear_programming][Integer linear programming]] amounts to finding some integer solutions (optimal in some sense) of linear systems that include also [[https://en.wikipedia.org/wiki/Inequation][inequations]].  Thus systems of linear Diophantine equations are basic in this context, and textbooks on integer programming usually have a treatment of systems of linear Diophantine equations.
+#+end_quote

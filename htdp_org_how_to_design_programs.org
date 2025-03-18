@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       eeb73809-21fb-4cc9-97b0-f52d726ef058
+:ROAM_REFS: https://htdp.org/
+:END:
+#+title: (htdp.org) How to Design Programs
+#+filetags: :education_resource:textbooks:programming:computer_science:books:website:

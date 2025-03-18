@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       1256f4d8-25aa-4d39-a1bd-da6272adedae
+:ROAM_REFS: https://shaunlebron.github.io/parinfer/
+:END:
+#+title: (shaunlebron.github.io) Parinfer - simpler Lisp editing
+#+filetags: :lisp:software_development:software:website:
+
+#+begin_quote
+  Parinfer is a proof-of-concept editor mode for Lisp programming languages.  It simplifies the way we write Lisp by auto-adjusting parens when indentation changes and vice versa.  The hope is to make basic Lisp-editing easier for newcomers and experts alike, while still allowing existing plugins like Paredit to satisfy the need for more advanced operations.
+#+end_quote

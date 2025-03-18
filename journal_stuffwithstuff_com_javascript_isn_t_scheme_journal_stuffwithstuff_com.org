@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       22349593-c7e7-430e-8858-1b066f0d4b6e
+:ROAM_REFS: https://journal.stuffwithstuff.com/2013/07/18/javascript-isnt-scheme/
+:END:
+#+title: (journal.stuffwithstuff.com) JavaScript Isn’t Scheme – journal.stuffwithstuff.com
+#+filetags: :javascript:scheme:lisp:blog_post:website:
+
+#+begin_quote
+  It seems like I can't spend five minutes on reddit these days without someone playing the [[http://www.reddit.com/r/programming/comments/1g7gw7/the_angular_team_is_porting_angularjs_to_dart/cahzqav][JS-is-Scheme is card]]. I see everything from the innocuous, “JavaScript has a lot in common with Scheme”, all the way up to, “JavaScript is basically Scheme.” This is basically crazy. Or, at least it has a lot in common with crazy.
+
+  Before I convince you that it's crazy, let's step back a bit and ask why would JS adherents make a statement like this to begin with? You don't hear people saying, “Yeah, FORTRAN is basically Icon” or “Sather has a really solid SNOBOL core,” do you? Why this arbitrary pairing? After meticulous scientific research, I've discovered two historical reasons and one weird psychological one.
+#+end_quote

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       6a1c8f81-f34c-46ca-9865-ed082b968d0b
+:ROAM_REFS: https://news.ycombinator.com/item?id=43257963
+:END:
+#+title: (news.ycombinator.com) Solving SICP | Hacker News
+#+filetags: :forums:website:
+
+Hacker News entry for [[id:0cd682ff-d2c0-4ee9-af88-5729e0e89c1c][(lockywolf.wordpress.com) Solving SICP – Various Thoughts]].

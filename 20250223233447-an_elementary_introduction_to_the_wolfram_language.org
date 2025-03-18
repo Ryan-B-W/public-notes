@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ID:       775c7dbc-5f3f-47be-995c-9cdf6daf04b9
+:END:
+#+title: An Elementary Introduction to the Wolfram Language
+#+filetags: :programming_language:programming:stephen_wolfram:textbooks:books:
+
+* (www.wolfram.com) An Elementary Introduction to the Wolfram Language by Stephen Wolfram :website:
+:PROPERTIES:
+:ID:       93b26e85-6889-4277-9ee5-6c918477a6df
+:ROAM_REFS: https://www.wolfram.com/language/elementary-introduction/3rd-ed/index.html.en
+:END:
+
+#+begin_quote
+  As the world's first and only full-scale computational language, the Wolfram Language represents a milestone in the development of programming languages that makes leading-edge computation accessible to everyone.  Unique in its approach of building in vast knowledge and automation, the Wolfram Language scales from a single line of easy-to-understand interactive code to million-line production systems.
+
+  This book provides an elementary introduction to the Wolfram Language and modern computational thinking.  It assumes no prior knowledge of programming, and is suitable for both technical and non-technical college and middle-to-high-school students---as well as anyone with an interest in the latest technology and its practical application.
+
+  Run everything in this book in any Wolfram environment on the web or your desktop.
+#+end_quote
+* (linkencore.iii.com) Encore -- An elementary introduction to the Wolfram language / Stephen Wolfram. :website:
+:PROPERTIES:
+:ID:       d8a6cfff-6757-42db-8850-8830dedcd067
+:ROAM_REFS: https://linkencore.iii.com/iii/encore/record/C__Rb40238893
+:END:
+
+#+begin_quote
+  An elementary introduction to the Wolfram language / Stephen Wolfram.
+
+  [[https://linkencore.iii.com/iii/encore/search/C__SWolfram,%20Stephen,__Orightresult?lang=eng&suite=def][Wolfram, Stephen, author.]]
+
+  Books & Journals | Wolfram Media, Inc. | [2015]
+
+  *** More Details
+
+  Descript:
+  - xv, 324 pages : illustrations ; 26 cm
+  Note:
+  - Includes bibliographical references and index.
+  Subject:
+  - [[https://linkencore.iii.com/iii/encore/search/C__SWolfram%20language%20(Computer%20program%20language)__Orightresult?lang=eng&suite=def][Wolfram language (Computer program language)]]
+  - [[https://linkencore.iii.com/iii/encore/search/C__SMathematica%20(Computer%20program%20language)__Orightresult?lang=eng&suite=def][Mathematica (Computer program language)]]
+  ISBN:
+  - 9781944183004 (paperback;) (alk. paper)
+  - 1944183000 (paperback;) (alk. paper)
+  LC CARD #:
+  - 2015039066
+#+end_quote

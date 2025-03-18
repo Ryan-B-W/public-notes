@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       bb915ed7-065b-4c58-8124-a39adec7cac0
+:ROAM_REFS: https://www.industriallogic.com/papers/khdraft.pdf
+:END:
+#+title: (www.industriallogic.com) Knowledge Hydrant: A Pattern Language for Study Groups - khdraft.pdf
+#+filetags: :mime_type_application_pdf:article:website:
+
+#+begin_quote
+  Knowledge Hydrant: A Pattern Language for Study Groups
+
+  Joshua Kerievsky, Industrial Logic, Inc.
+
+  Version: 0.9, Updated: July 1, 1999
+
+  This is a draft, which is constantly being revised.
+  Please do not distribute it -- a final version will be
+  available soon. Please send feedback to
+  joshua@industriallogic.com
+  Copyright © 1999, Joshua Kerievsky. All rights reserved.
+
+  Introduction
+
+  Educating ourselves is a life-long endeavor.  To learn and grow, we often attend classes, consult teachers, read articles and books, or seek help from collegues and friends.  Of the many educational tools available to us, one of the greatest is called a study group.  A study group can make a difficult book easier to understand, it can succeed where an unsatisfying class fails, and it can support you if your environment doesn't support your ongoing learning and growth.  A study group is a collection of individuals who meet regularly to improve their understanding of some non-trivial subject, like a body of great literature, by participating in dialogue.  Study groups are conducted all over the world today, but their origins go back to the dialogues of the ancient Greeks.  This learning tool has endured because it works so well.  If you analyze successful study groups you can discern their patterns.  These patterns energize, inspire and sustain a group over time.  In the landmark books, A Pattern Language and A Timeless Way of Building, Christopher Alexander and his colleagues introduced the world to the idea of a pattern language.  A pattern language is a very practical network of important, related ideas that provide a comprehensive treatment of a subject.  But while they are intended to be comprehensive, pattern languages are not written for experts: they convey expert solutions for laypersons, empowering those individuals to generate high-quality works in their own unique way.  This pattern language is intended to help people generate or improve a study group.
+#+end_quote
