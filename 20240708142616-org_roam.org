@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ID:       ad5b1807-db6f-47de-b957-2537a489021c
+:END:
+#+title: Org Roam
+#+filetags: :notes:software:writing:emacs:information_management:
+
+An [[id:aca1324c-b142-4e34-a121-a8bb0a79ddf8][Emacs]] and [[id:5ab4a0b0-95e2-40cf-b924-709db3115d48][Org Mode]] based [[id:d4dafaae-02cf-4a44-8fa9-afded413fe2a][PKM]] system.  An implementation of the [[id:0b355b67-af80-4908-8f9d-04fc0052ed23][Zettelkasten]] method and based on [[id:b83f6ef7-85bc-4465-ac86-94fe8d3efbec][Roam Research]], a proprietary knowledge graph tool.  It uses a [[man:sqlite3][SQLite]] database to cache knowledge graph information for fast lookup.  Similar to, and nominally compatible with, the open source project [[id:7698e55e-4120-42e8-87d9-c5918baf887b][Logseq]].
+* (www.orgroam.com) Org-roam                                        :website:
+:PROPERTIES:
+:ID:       2bfe3e43-a672-421c-b5f6-744223fb7699
+:ROAM_REFS: https://www.orgroam.com/
+:END:
+
+#+begin_quote
+  *** Org-roam
+
+  ***** A plain-text personal knowledge management system.
+
+  *** FEATURES
+
+  ***** Private and Secure
+
+  Edit your personal wiki completely offline, entirely in your control.  Encrypt your notes with GPG.  Take lasting notes in plain-text.
+
+  ***** Make Connections
+
+  Connect notes and thoughts together with ease using backlinks.  Discover surprising and previously unseen connections in your notes with the built-in graph visualization.
+
+  ***** Extensible and Powerful
+
+  Leverage Emacs' fantastic text-editing interface, and the mature Emacs and Org-mode ecosystem of packages.
+
+  ***** Free and Open Source
+
+  Org-roam is licensed under the GNU General Public License version 3 or later.  You are free to extend its functionality and contribute back.  Find us [[https://github.com/org-roam/org-roam][here]].
+
+  *** LINKS
+
+  New to Emacs and Org-mode, and trying to find your way around?  Org-roam has an inclusive community of users passionate about Personal Knowledge Management -- we're happy to help!  You can find us on Discourse and Slack.
+
+  - Read our documentation within Emacs, or on the [[https://www.orgroam.com/manual.html][Online Manual]]
+  - Participate in our forum discussions on [[https://org-roam.discourse.group/][Discourse]]
+  - Chat with us on [[https://join.slack.com/t/orgroam/shared_invite/zt-wuoize1z-x3UyQnQ0WHF0RhuEQ2NLnQ][Slack]]
+#+end_quote

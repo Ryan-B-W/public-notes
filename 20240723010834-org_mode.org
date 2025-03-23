@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       5ab4a0b0-95e2-40cf-b924-709db3115d48
+:END:
+#+title: Org Mode
+#+filetags: :writing:emacs:information_management:
+
+[[id:aca1324c-b142-4e34-a121-a8bb0a79ddf8][Emacs]]'s built-in [[id:6992d257-971d-40c7-a617-ec82e2541206][note taking]] and [[id:d4dafaae-02cf-4a44-8fa9-afded413fe2a][personal information management]] system.  Frequently the subject of envy by [[id:54504d3e-4f52-4dd2-9f2a-3ad550400bc9][Neovim]] users.
+* See Also
+** [[info:org][Org Mode info manual]]
+** (orgmode.org) Org mode for GNU Emacs                             :website:
+:PROPERTIES:
+:ID:       2f6b0b8b-7b39-4182-96b9-dd47981cede3
+:ROAM_REFS: https://orgmode.org/
+:END:
+
+#+begin_quote
+  ** Org Mode
+
+  Your life in plain text
+
+  A [[https://www.gnu.org/software/emacs/][GNU Emacs]] major mode for keeping notes, authoring documents, computational notebooks, literate programming, maintaining to-do lists, planning projects, and more --- in a fast and effective plain text system.
+
+  Created by [[https://staff.science.uva.nl/~dominik/][Carsten Dominik]] in [[https://orgmode.org/manual/History-and-Acknowledgments.html][2003]], maintained by [[https://fosstodon.org/@yantar92][Ihor Radchenko]] and developed by [[https://orgmode.org/org.html#History-and-Acknowledgments][many others]].
+
+  ** Highlights
+
+  *** Features
+
+  [[https://orgmode.org/features.html]]
+
+  *** Install
+
+  [[https://orgmode.org/org.html#Installation]]
+
+  *** Quickstart
+
+  [[https://orgmode.org/quickstart.html]]
+
+  *** Contribute
+
+  [[https://orgmode.org/worg/org-contribute.html]]
+
+  Org is a highly flexible structured plain text file format, composed of a few simple, yet versatile, structures --- constructed to be both [[https://karl-voit.at/2017/09/23/orgmode-as-markup-only/][simple enough for the novice]] and [[http://howardism.org/Technical/Emacs/literate-devops.html][powerful enough for the expert]].
+#+end_quote
+** (en.wikipedia.org) Org-mode - Wikipedia                          :website:
+:PROPERTIES:
+:ID:       87f9ce70-864f-4081-91dd-b0719f371e3d
+:ROAM_REFS: https://en.wikipedia.org/wiki/Org-mode
+:END:
+
+#+begin_quote
+  *Org Mode* (also: /org-mode/; [[https://en.wikipedia.org/wiki/Help:IPA/English][/ˈɔːrɡ moʊd/]]) is a mode for document editing, formatting, and organizing within the [[https://en.wikipedia.org/wiki/Free_software][free software]] [[https://en.wikipedia.org/wiki/Text_editor][text editor]] [[https://en.wikipedia.org/wiki/GNU_Emacs][GNU Emacs]] and its derivatives, designed for [[https://en.wikipedia.org/wiki/Note-taking][notes]], [[https://en.wikipedia.org/wiki/Project_planning][planning]], and [[https://en.wikipedia.org/wiki/Markup_language][authoring]].  The name is used to encompass [[https://en.wikipedia.org/wiki/Plain_text][plain text]] files ("org files") that include simple marks to indicate levels of a hierarchy (such as the outline of an essay, a topic list with subtopics, nested computer code, etc.), and an editor with functions that can read the [[https://en.wikipedia.org/wiki/Markup_language][markup]] and manipulate hierarchy elements (expand/hide elements, move blocks of elements, check off to-do list items, etc.).
+
+  Org Mode was created by Carsten Dominik in 2003, originally to organize his own life and work, and since the first release numerous other users and developers have contributed to this free software package.  Emacs has included Org Mode as a major [[https://en.wikipedia.org/wiki/Emacs#General_architecture][mode]] by default since 2006.  Bastien Guerry is the maintainer since 2010, in cooperation with an active [[https://en.wikipedia.org/wiki/Open_source_software_development][development community]].  Since its success in Emacs, some other systems now provide functions to work with org files.
+
+  Almost orthogonally, Org Mode has functionalities aimed at executing code in various external languages; these functionalities form org-babel.
+#+end_quote

@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       c2a1e83d-86c0-46bd-bd71-7b604420d3d0
+:END:
+#+title: Code and Coffee
+#+filetags: :social:computer_science:software_development:programming:organization:events:
+
+Programming meetup local to Long Beach, California that meets online or in-person every Saturday at 10:30.  Founded in 2015.
+* (www.codeandcoffee.dev) Code and Coffee                           :website:
+:PROPERTIES:
+:ID:       b5d9b0a6-b3b6-4bbb-8d1e-69a7d3557970
+:ROAM_REFS: https://www.codeandcoffee.dev/
+:END:
+
+#+begin_quote
+  [[https://discord.gg/9QAKkCmmWC][Join us on Discord]] [[https://www.meetup.com/code-and-coffee-long-beach/][RSVP on Meetup.com]]
+
+  ** About Us
+
+  We're a community bringing programmers in a casual environment to share, collaborate, and hack together.
+
+  Weekly online meetings Saturdays 10:30am PST on [[https://discord.gg/9QAKkCmmWC][Discord]].
+
+  In-person meetups at least once a month around Long Beach, see [[https://www.meetup.com/code-and-coffee-long-beach/][Meetup.com]] for details.
+#+end_quote
+* (www.meetup.com) Code and Coffee, Long Beach | Meetup             :website:
+:PROPERTIES:
+:ID:       c052802c-f49c-434c-9d0f-e7dd3149132a
+:ROAM_REFS: https://www.meetup.com/code-and-coffee-long-beach/
+:END:
+
+#+begin_quote
+  ** What we're about
+
+  A twice monthly event bringing together programmers of all ages, skills and experiences in a casual environment to share, collaborate, and hack together.
+#+end_quote
+* (www.twitch.tv) CodeAndCoffeeLB - Twitch                 :twitchtv:website:
+:PROPERTIES:
+:ID:       6735a31a-80b1-41ff-bddd-9d2dc6e50f14
+:ROAM_REFS: https://www.twitch.tv/codeandcoffeelb
+:END:
