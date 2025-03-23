@@ -7,6 +7,7 @@
 
 #+begin_quote
   * Concepts, Techniques, and Models of Computer Programming
+
   /Textbook and Reference Work/
 
   [[http://mitpress.mit.edu/books/concepts-techniques-and-models-computer-programming][MIT Press]], hardcover, 900pp+xxix, ISBN 0-262-22069-5, March 2004

@@ -17,8 +17,8 @@ A relatively popular [[id:6246f8d4-6cd4-489d-b19f-9c1142b51b60][Scheme]] impleme
 :END:
 
 #+begin_quote
-  SICP Collections
-  **
+  ** SICP Collections
+
   This package contains two collections.
 
   The sicp collection contains a #lang sicp language ideal for studying the book "Structure and Interpretation of Computer Programs" by Gerald Jay Sussman and Hal Abelson.  The book is usually referred to simply as SICP.

@@ -32,8 +32,11 @@ Hosted online on the Code and Coffee Discord server, livestreamed to twitch, and
 
 #+begin_quote
   * Code and Coffee Book Club
+
   Hosted By Ryan W.
+
   ** Details
+
   The focus is on technical books, especially ones considered classical computer science texts.
 
   Current book: Structure and Interpretation of Computer Programs, second edition.

@@ -7,8 +7,11 @@
 
 #+begin_quote
   * /Simply Scheme: Introducing Computer Science/
+
   2/e Copyright (C) 1999 MIT
+
   * Table of Contents
+
   Brian Harvey
   University of California, Berkeley
   Matthew Wright

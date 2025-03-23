@@ -7,6 +7,7 @@
 
 #+begin_quote
   * [[https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/][Structure and Interpretation of Computer Programs]]
+
   Menu
   - [[https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/syllabus][Syllabus]]
   - [[https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/calendar][Calendar]]
@@ -18,22 +19,33 @@
   - [[https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/projects][Projects]]
   - [[https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/tools/][Tools]]
   - [[https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/related-resources][Related Resources]]
+
   ** Course Description
+
   This course introduces students to the principles of computation.  Upon completion of 6.001, students should be able to explain and apply the basic methods from programming languages to analyze computational systems, and to generate computational solutions to abstract problems.  Substantial weekly programming assignments are an integral part of the course.  This course is worth 4 Engineering Design Points.
+
   ** Course Info
+
   *** Instructors
+
   - [[https://ocw.mit.edu/search/?q=Prof.+Eric+Grimson][Prof. Eric Grimson]]
   - [[https://ocw.mit.edu/search/?q=Prof.+Peter+Szolovits][Prof. Peter Szolovits]]
   - [[https://ocw.mit.edu/search/?q=Prof.+Trevor+Darrell][Prof. Trevor Darrell]]
+
   *** Departments
+
   - [[https://ocw.mit.edu/search/?d=Electrical+Engineering+and+Computer+Science][Electrical Engineering and Computer Science]]
+
   *** Topics
+
   - [[https://ocw.mit.edu/search/?t=Engineering][Engineering]]
     - [[https://ocw.mit.edu/search/?t=Computer+Science][Computer Science]]
       - [[https://ocw.mit.edu/search/?t=Theory+of+Computation][Theory of Computation]]
   - [[https://ocw.mit.edu/search/?t=Mathematics][Mathematics]]
     - [[https://ocw.mit.edu/search/?t=Computation][Computation]]
+
   *** Learning Resource Types
+
   - Online Textbook
   - Exams
   - Lecture Notes
