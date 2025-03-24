@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       fe1aeb41-296c-4f8f-aae0-75be06c6e5fb
+:END:
+#+title: Brian W. Kernighan
+#+filetags: :biographic:people:
+
+Co-creator of [[id:b7ffa33f-6da2-4918-9ced-6afd0fbdb0fe][Unix]], along with [[id:42a22d7b-4dfd-46a8-9e7d-0ee2bb4a52ec][Dennis M. Ritchie]] and [[id:11238d7d-6b5d-44a8-99dc-be50cafa5657][Ken L. Thompson]] while at [[id:efd4f0a8-71b6-4a15-8109-60d9d51f1f0a][Bell Labs]].
+* (en.wikipedia.org) Brian Kernighan - Wikipedia                    :website:
+:PROPERTIES:
+:ID:       d6a2e175-cac9-4c7d-b326-b45f2f8386f4
+:ROAM_REFS: https://en.wikipedia.org/wiki/Brian_Kernighan
+:END:
+
+#+begin_quote
+  *Brian Wilson Kernighan* ([[https://en.wikipedia.org/wiki/Help:IPA/English][/ˈkɜːrnɪhæn/]]; born January 30, 1942) is a Canadian [[https://en.wikipedia.org/wiki/Computer_scientist][computer scientist]].  He worked at [[https://en.wikipedia.org/wiki/Bell_Labs][Bell Labs]] and contributed to the development of [[https://en.wikipedia.org/wiki/Unix][Unix]] alongside Unix creators [[https://en.wikipedia.org/wiki/Ken_Thompson][Ken Thompson]] and [[https://en.wikipedia.org/wiki/Dennis_Ritchie][Dennis Ritchie]].  Kernighan's name became widely known through co-authorship of the first book on the [[https://en.wikipedia.org/wiki/C_(programming_language)][C programming language]] (/[[https://en.wikipedia.org/wiki/The_C_Programming_Language][The C Programming Language]]/) with Dennis Ritchie.  Kernighan affirmed that he had no part in the design of the C language ("it's entirely Dennis Ritchie's work").
+
+  Kernighan authored many Unix programs, including [[https://en.wikipedia.org/wiki/Troff][ditroff]].  He is coauthor of the [[https://en.wikipedia.org/wiki/AWK][AWK]] and [[https://en.wikipedia.org/wiki/AMPL][AMPL]] [[https://en.wikipedia.org/wiki/Programming_language][programming languages]].  The "K" of [[https://en.wikipedia.org/wiki/The_C_Programming_Language][K&R C]] and of AWK both stand for "Kernighan".
+
+  In collaboration with [[https://en.wikipedia.org/w/index.php?title=Shen_Lin&action=edit&redlink=1][Shen Lin]] he devised well-known [[https://en.wikipedia.org/wiki/Heuristic][heuristics]] for two [[https://en.wikipedia.org/wiki/NP-complete][NP-complete]] optimization problems: [[https://en.wikipedia.org/wiki/Graph_partition][graph partitioning]] and the [[https://en.wikipedia.org/wiki/Travelling_salesman_problem][travelling salesman problem]].  In a display of authorial equity, the former is usually called the [[https://en.wikipedia.org/wiki/Kernighan–Lin_algorithm][Kernighan--Lin algorithm]], while the latter is known as the [[https://en.wikipedia.org/wiki/Lin–Kernighan_heuristic][Lin--Kernighan heuristic]].
+
+  Kernighan has been a professor of computer science at [[https://en.wikipedia.org/wiki/Princeton_University][Princeton University]] since 2000 and is the director of undergraduate studies in the department of computer science.  In 2015, he co-authored the book /The [[https://en.wikipedia.org/wiki/Go_(programming_language)][Go]] Programming Language./
+#+end_quote

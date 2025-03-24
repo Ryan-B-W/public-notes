@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       73f4a605-b675-4a9d-923f-2fa379a89bac
+:ROAM_REFS: https://www.youtube.com/watch?v=LYNOGk3ZjFM&list=PLOFVFbzrQ49TNlDOxxCAjC7kbnorAR1MU
+:END:
+#+title: (www.youtube.com) Mathematical Physics 01 - Carl Bender - YouTube
+#+filetags: :physics:video:website:

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       eb6e997b-515b-4dae-a908-3b12085856a3
+:END:
+#+title: Wolfram Mathematica
+#+filetags: :computer_algebra:programming:mathematics:software:
+
+* (en.wikipedia.org) Wolfram Mathematica - Wikipedia                :website:
+:PROPERTIES:
+:ID:       ebeb04a4-8e08-49b9-a6d1-4182fe423122
+:ROAM_REFS: https://en.wikipedia.org/wiki/Wolfram_Mathematica
+:END:
+
+#+begin_quote
+  *Wolfram Mathematica* is a software system with built-in libraries for several areas of technical computing that allows [[https://en.wikipedia.org/wiki/Machine_learning][machine learning]], [[https://en.wikipedia.org/wiki/Statistics][statistics]], [[https://en.wikipedia.org/wiki/Computer_algebra][symbolic computation]], data manipulation, network analysis, time series analysis, [[https://en.wikipedia.org/wiki/Natural_language_processing][NLP]], [[https://en.wikipedia.org/wiki/Optimization][optimization]], plotting [[https://en.wikipedia.org/wiki/Function_(mathematics)][functions]] and various types of data, implementation of [[https://en.wikipedia.org/wiki/Algorithm][algorithms]], creation of [[https://en.wikipedia.org/wiki/User_interface][user interfaces]], and interfacing with programs written in other [[https://en.wikipedia.org/wiki/Programming_language][programming languages]].  It was conceived by [[https://en.wikipedia.org/wiki/Stephen_Wolfram][Stephen Wolfram]], and is developed by [[https://en.wikipedia.org/wiki/Wolfram_Research][Wolfram Research]] of Champaign, Illinois.  The [[https://en.wikipedia.org/wiki/Wolfram_Language][Wolfram Language]] is the programming language used in /Mathematica/.  Mathematica 1.0 was released on June 23, 1988 in [[https://en.wikipedia.org/wiki/Champaign,_Illinois][Champaign, Illinois]] and [[https://en.wikipedia.org/wiki/Santa_Clara,_California][Santa Clara, California]].  Mathematica's Wolfram Language is fundamentally based on Lisp; for example, the Mathematica command Most is identically equal to the Lisp command butlast.  There is a substantial literature on the development of computer algebra systems (CAS).
+#+end_quote

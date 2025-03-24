@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       f6d30bae-d3ac-4fd7-a335-bb5792ae2b43
+:END:
+#+title: Peter Norvig
+#+filetags: :biographic:people:
+
+Famous computer scientist and [[id:b10990c2-d056-42f5-a4e7-145a405d9550][AI]] researcher.  Author of [[id:e86b5f48-7ae0-4cfe-a07b-4f1a2e59af5a][Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp]] and co-author of [[id:36aba4dd-f750-47d3-811d-6333522424d1][Artificial Intelligence: A Modern Approach]] with [[id:d5a486a3-dbfd-40d8-bc84-fbede81e580e][Stuart Russell]].
+* (en.wikipedia.org) Peter Norvig - Wikipedia                       :website:
+:PROPERTIES:
+:ID:       e5cb9b1f-4587-4206-b64d-cfafc5b36a04
+:ROAM_REFS: https://en.wikipedia.org/wiki/Peter_Norvig
+:END:
+
+#+begin_quote
+  *Peter Norvig* (born December 14, 1956) is an American [[https://en.wikipedia.org/wiki/Computer_scientist][computer scientist]] and [[https://en.wikipedia.org/wiki/Fellow][Distinguished Education Fellow]] at the Stanford Institute for Human-Centered AI.  He previously served as a director of research and search quality at [[https://en.wikipedia.org/wiki/Google][Google]].  Norvig is the co-author with [[https://en.wikipedia.org/wiki/Stuart_J._Russell][Stuart J. Russell]] of the most popular textbook in the field of AI: /[[https://en.wikipedia.org/wiki/Artificial_Intelligence:_A_Modern_Approach][Artificial Intelligence: A Modern Approach]]/ used in more than 1,500 universities in 135 countries.
+#+end_quote

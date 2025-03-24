@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       75a57056-0931-4f17-949f-8732f473728a
+:END:
+#+title: Plan 9
+#+filetags: :computer_science:networking:software:operating_systems:
+
+Plan 9, aka Plan 9 from Bell Labs, is a distributed [[id:412bbcad-6c00-4f13-b748-d1ffde0588e1][operating system]] developed at [[id:efd4f0a8-71b6-4a15-8109-60d9d51f1f0a][Bell Labs]].  Influenced by [[id:b7ffa33f-6da2-4918-9ced-6afd0fbdb0fe][Unix]].
+* (en.wikipedia.org) Plan 9 from Bell Labs - Wikipedia              :website:
+:PROPERTIES:
+:ID:       9ea21b19-c961-4a1c-be49-79b5908c775d
+:ROAM_REFS: https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs
+:END:
+
+#+begin_quote
+  *Plan 9 from Bell Labs* is a [[https://en.wikipedia.org/wiki/Distributed_operating_system][distributed operating system]] which originated from the Computing Science Research Center (CSRC) at [[https://en.wikipedia.org/wiki/Bell_Labs][Bell Labs]] in the mid-1980s and built on [[https://en.wikipedia.org/wiki/UNIX][UNIX]] concepts first developed there in the late 1960s.  Since 2000, Plan 9 has been [[https://en.wikipedia.org/wiki/Free_and_open-source_software][free and open-source]].  The final official release was in early 2015.
+
+  Under Plan 9, UNIX's /[[https://en.wikipedia.org/wiki/Everything_is_a_file][everything is a file]]/ metaphor is extended via a pervasive network-centric [[https://en.wikipedia.org/wiki/File_system][filesystem]], and the [[https://en.wikipedia.org/wiki/Addressable_cursor][cursor-addressed]], [[https://en.wikipedia.org/wiki/Computer_terminal][terminal]]-based [[https://en.wikipedia.org/wiki/Input/output][I/O]] at the heart of [[https://en.wikipedia.org/wiki/Unix-like][UNIX-like]] operating systems is replaced by a [[https://en.wikipedia.org/wiki/Windowing_system][windowing system]] and [[https://en.wikipedia.org/wiki/Graphical_user_interface][graphical user interface]] without cursor addressing, although [[https://en.wikipedia.org/wiki/Rc_(Unix_shell)][rc]], the Plan 9 [[https://en.wikipedia.org/wiki/Shell_(computing)][shell]], is text-based.
+
+  The name /Plan 9 from Bell Labs/ is a reference to the [[https://en.wikipedia.org/wiki/Ed_Wood][Ed Wood]] 1957 [[https://en.wikipedia.org/wiki/Cult_film][cult]] [[https://en.wikipedia.org/wiki/Science_fiction][science fiction]] [[https://en.wikipedia.org/wiki/Z-movie][Z-movie]] /[[https://en.wikipedia.org/wiki/Plan_9_from_Outer_Space][Plan 9 from Outer Space]]/.  The system continues to be used and developed by operating system researchers and hobbyists.
+#+end_quote

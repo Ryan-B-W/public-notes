@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       e86b5f48-7ae0-4cfe-a07b-4f1a2e59af5a
+:END:
+#+title: Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp by Peter Norvig
+#+filetags: :textbooks:common_lisp:lisp:programming:artificial_intelligence:computer_science:books:
+
+Famous [[id:b10990c2-d056-42f5-a4e7-145a405d9550][artificial intelligence]] and [[id:b24601aa-09df-41e1-aa7e-25ead342db34][programming]] textbook by [[id:f6d30bae-d3ac-4fd7-a335-bb5792ae2b43][Peter Norvig]].
+* (en.wikipedia.org) Paradigms of AI Programming - Wikipedia        :website:
+:PROPERTIES:
+:ID:       cd52cee2-0b95-48e0-8193-b9768ee2d2fe
+:ROAM_REFS: https://en.wikipedia.org/wiki/Paradigms_of_AI_Programming
+:END:
+
+#+begin_quote
+  /*Paradigms of AI Programming: Case Studies in Common Lisp*/ ([[https://en.wikipedia.org/wiki/ISBN_(identifier)][ISBN]] [[https://en.wikipedia.org/wiki/Special:BookSources/1-55860-191-0][1-55860-191-0]]) is a well-known [[https://en.wikipedia.org/wiki/Programming_language][programming]] [[https://en.wikipedia.org/wiki/Book][book]] by [[https://en.wikipedia.org/wiki/Peter_Norvig][Peter Norvig]] about [[https://en.wikipedia.org/wiki/Artificial_intelligence][artificial intelligence]] programming using [[https://en.wikipedia.org/wiki/Common_Lisp][Common Lisp]].
+#+end_quote

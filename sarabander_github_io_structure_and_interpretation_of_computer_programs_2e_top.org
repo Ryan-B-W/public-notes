@@ -13,39 +13,152 @@ Main node: [[id:69d3e2e7-62dc-414f-90ee-86f4b4abbcb0][(sarabander.github.io) Str
 
   *Harold Abelson and Gerald Jay Sussman with Julie Sussman, foreword by Alan J. Perlis*
 #+end_quote
-* (sarabander.github.io) Structure and Interpretation of Computer Programs, 2e: Chapter 1
+* (sarabander.github.io) SICP, 2e: Chapter 1 Building Abstractions with Procedures
 :PROPERTIES:
 :ID:       d9bdefb7-f325-4605-9a5a-c965263e2390
 :ROAM_REFS: https://sarabander.github.io/sicp/html/Chapter-1.xhtml
 :END:
-
-#+begin_quote
-  1 Building Abstractions with Procedures
-#+end_quote
-** (sarabander.github.io) Structure and Interpretation of Computer Programs, 2e: 1.1
+** (sarabander.github.io) SICP, 2e: 1.1 The Elements of Programming
 :PROPERTIES:
 :ID:       b85b9acb-443c-4d3f-842b-1f663c99ef18
 :ROAM_REFS: https://sarabander.github.io/sicp/html/1_002e1.xhtml
 :END:
-
-#+begin_quote
-  1.1 The Elements of Programming
-#+end_quote
-** (sarabander.github.io) Structure and Interpretation of Computer Programs, 2e: 1.2
+** (sarabander.github.io) SICP, 2e: 1.2 Procedures and the Processes They Generate
 :PROPERTIES:
 :ID:       d4e8ce6b-05bb-4338-b3ff-1bb12c109dea
 :ROAM_REFS: https://sarabander.github.io/sicp/html/1_002e2.xhtml
 :END:
-
-#+begin_quote
-  1.2 Procedures and the Processes They Generate
-#+end_quote
-** (sarabander.github.io) Structure and Interpretation of Computer Programs, 2e: 1.3
+** (sarabander.github.io) SICP, 2e: 1.3 Formulating Abstractions with Higher-Order Procedures
 :PROPERTIES:
 :ID:       10ed2665-130f-4398-8efa-ce9795584da0
 :ROAM_REFS: https://sarabander.github.io/sicp/html/1_002e3.xhtml
 :END:
+* (sarabander.github.io) SICP, 2e: Chapter 2 Building Abstractions with Data
+:PROPERTIES:
+:ID:       4e6b6934-89b2-4125-b046-9628e20427e8
+:ROAM_REFS: https://sarabander.github.io/sicp/html/Chapter-2.xhtml
+:END:
+** (sarabander.github.io) SICP, 2e: 2.1 Introduction to Data Abstraction
+:PROPERTIES:
+:ID:       6d5c6805-fb40-49d9-9a91-93733bde2818
+:ROAM_REFS: https://sarabander.github.io/sicp/html/2_002e1.xhtml
+:END:
+** (sarabander.github.io) SICP, 2e: 2.2 Hierarchical Data and the Closure Property
+:PROPERTIES:
+:ID:       183c1aa8-f3cb-4712-9a69-c218be056654
+:ROAM_REFS: https://sarabander.github.io/sicp/html/2_002e2.xhtml
+:END:
+*** (sarabander.github.io) SICP, 2e: 2.2, Footnote 72
+:PROPERTIES:
+:ID:       2edf6633-4e65-4ebd-81c3-a842cb759479
+:ROAM_REFS: https://sarabander.github.io/sicp/html/2_002e2.xhtml#FOOT72
+:END:
 
 #+begin_quote
-  1.3 Formulating Abstractions with Higher-Order Procedures
+  [[https://sarabander.github.io/sicp/html/2_002e2.xhtml#DOCF72][^{72}]] The use of the word “closure” here comes from abstract algebra, where a set of elements is said to be closed under an operation if applying the operation to elements in the set produces an element that is again an element of the set.  The Lisp community also (unfortunately) uses the word “closure” to describe a totally unrelated concept: A closure is an implementation technique for representing procedures with free variables.  We do not use the word “closure” in this second sense in this book.
 #+end_quote
+** (sarabander.github.io) SICP, 2e: 2.2 Hierarchical Data and the Closure Property
+:PROPERTIES:
+:ID:       357f1508-3b0b-4f9e-b8a9-f71a807b871a
+:ROAM_REFS: https://sarabander.github.io/sicp/html/2_002e2.xhtml
+:END:
+** (sarabander.github.io) SICP, 2e: 2.3 Symbolic Data
+:PROPERTIES:
+:ID:       e45e5e54-2625-4d00-9e48-0d1cb002d2e6
+:ROAM_REFS: https://sarabander.github.io/sicp/html/2_002e3.xhtml
+:END:
+** (sarabander.github.io) SICP, 2e: 2.4 Multiple Representations for Abstract Data
+:PROPERTIES:
+:ID:       b66aedcd-6879-4a7f-856f-4de22a9a7bcd
+:ROAM_REFS: https://sarabander.github.io/sicp/html/2_002e4.xhtml
+:END:
+** (sarabander.github.io) SICP, 2e: 2.5 Systems with Generic Operations
+:PROPERTIES:
+:ID:       597e2dfe-3c20-4137-b005-390b5d614509
+:ROAM_REFS: https://sarabander.github.io/sicp/html/2_002e5.xhtml
+:END:
+* (sarabander.github.io) SICP, 2e: Chapter 3 Modularity, Objects, and State
+:PROPERTIES:
+:ID:       5181afc7-8056-4a0b-9f8b-9e5c1908a0e5
+:ROAM_REFS: https://sarabander.github.io/sicp/html/Chapter-3.xhtml
+:END:
+** (sarabander.github.io) SICP, 2e: 3.1 Assignment and Local State
+:PROPERTIES:
+:ID:       c4efd117-2a1c-4066-844a-c7b6aaa13ac8
+:ROAM_REFS: https://sarabander.github.io/sicp/html/3_002e1.xhtml
+:END:
+** (sarabander.github.io) SICP, 2e: 3.2 The Environment Model of Evaluation
+:PROPERTIES:
+:ID:       45d86aec-1cbf-4562-b350-6787585091e7
+:ROAM_REFS: https://sarabander.github.io/sicp/html/3_002e2.xhtml
+:END:
+** (sarabander.github.io) SICP, 2e: 3.3 Modeling with Mutable Data
+:PROPERTIES:
+:ID:       29b23078-07a0-470c-a8f9-ba522c99f0ff
+:ROAM_REFS: https://sarabander.github.io/sicp/html/3_002e3.xhtml
+:END:
+** (sarabander.github.io) SICP, 2e: 3.4 Concurrency: Time Is of the Essence
+:PROPERTIES:
+:ID:       3d0e4610-7589-43ae-9c35-ecac837c09fb
+:ROAM_REFS: https://sarabander.github.io/sicp/html/3_002e4.xhtml
+:END:
+** (sarabander.github.io) SICP, 2e: 3.5 Streams
+:PROPERTIES:
+:ID:       54d70486-2673-4a0e-81a4-0e31bd047b13
+:ROAM_REFS: https://sarabander.github.io/sicp/html/3_002e5.xhtml
+:END:
+* (sarabander.github.io) SICP, 2e: Chapter 4 Metalinguistic Abstraction
+:PROPERTIES:
+:ID:       f357dc09-7f5c-4617-b488-7e5581610a81
+:ROAM_REFS: https://sarabander.github.io/sicp/html/Chapter-4.xhtml
+:END:
+** (sarabander.github.io) SICP, 2e: 4.1 The Metacircular Evaluator
+:PROPERTIES:
+:ID:       bf2fb2a1-46ab-4e61-9224-5e92d399cb97
+:ROAM_REFS: https://sarabander.github.io/sicp/html/4_002e1.xhtml
+:END:
+** (sarabander.github.io) SICP, 2e: 4.2 Variations on a Scheme — Lazy Evaluation
+:PROPERTIES:
+:ID:       b01f3776-c3ea-430a-8df3-723db559fa6b
+:ROAM_REFS: https://sarabander.github.io/sicp/html/4_002e2.xhtml
+:END:
+** (sarabander.github.io) SICP, 2e: 4.3 Variations on a Scheme — Nondeterministic Computing
+:PROPERTIES:
+:ID:       da4c3b80-24fe-4817-8443-87a1ccee7910
+:ROAM_REFS: https://sarabander.github.io/sicp/html/4_002e3.xhtml
+:END:
+** (sarabander.github.io) SICP, 2e: 4.4 Logic Programming
+:PROPERTIES:
+:ID:       dfb7cf86-1daa-4b28-9c43-1d8026b1a970
+:ROAM_REFS: https://sarabander.github.io/sicp/html/4_002e4.xhtml
+:END:
+* (sarabander.github.io) SICP, 2e: Chapter 5 Computing with Register Machines
+:PROPERTIES:
+:ID:       172ddc04-d76f-4b00-ae7d-b74f48af5d16
+:ROAM_REFS: https://sarabander.github.io/sicp/html/Chapter-5.xhtml
+:END:
+** (sarabander.github.io) SICP, 2e: 5.1 Designing Register Machines
+:PROPERTIES:
+:ID:       a179b468-af99-43b8-9372-f0921f9a55b0
+:ROAM_REFS: https://sarabander.github.io/sicp/html/5_002e1.xhtml
+:END:
+** (sarabander.github.io) SICP, 2e: 5.2 A Register-Machine Simulator
+:PROPERTIES:
+:ID:       fa25c4ee-3b19-4cbb-89d4-ef50b05f01f2
+:ROAM_REFS: https://sarabander.github.io/sicp/html/5_002e2.xhtml
+:END:
+** (sarabander.github.io) SICP, 2e: 5.3 Storage Allocation and Garbage Collection
+:PROPERTIES:
+:ID:       cf76bb72-62a0-4942-97df-4b70582e7c52
+:ROAM_REFS: https://sarabander.github.io/sicp/html/5_002e3.xhtml
+:END:
+** (sarabander.github.io) SICP, 2e: 5.4 The Explicit-Control Evaluator
+:PROPERTIES:
+:ID:       1c11db84-5c96-4df9-b4b9-79de9b0e42e1
+:ROAM_REFS: https://sarabander.github.io/sicp/html/5_002e4.xhtml
+:END:
+** (sarabander.github.io) SICP, 2e: 5.5 Compilation
+:PROPERTIES:
+:ID:       eecde4f8-9302-4eb7-a09b-6ee1217b3414
+:ROAM_REFS: https://sarabander.github.io/sicp/html/5_002e5.xhtml
+:END:

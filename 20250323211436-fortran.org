@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       a99d24c2-0bab-4ee9-b654-5b1e919b90b2
+:END:
+#+title: Fortran
+#+filetags: :ibm_corp:fortran_lang:software:programming:programming_language:computer_science:
+
+Early high-level [[id:b24601aa-09df-41e1-aa7e-25ead342db34][programming language]] developed by [[id:e4639006-f52c-4fcd-9a26-2d806dd3ea1e][IBM]] in 1957/1958 on the [[id:760b78b3-1c9a-44a2-b0cf-d2ad0381dc79][IBM 704]].
+* (en.wikipedia.org) Fortran - Wikipedia                            :website:
+:PROPERTIES:
+:ID:       9a6dac65-39bd-4ede-8412-92158c7782ea
+:ROAM_REFS: https://en.wikipedia.org/wiki/Fortran
+:END:
+
+#+begin_quote
+  *Fortran* ([[https://en.wikipedia.org/wiki/Help:IPA/English][/ˈfɔːrtræn/]]; formerly *FORTRAN*) is a [[https://en.wikipedia.org/wiki/Third-generation_programming_language][third-generation]], [[https://en.wikipedia.org/wiki/Compiled_language][compiled]], [[https://en.wikipedia.org/wiki/Imperative_programming][imperative]] [[https://en.wikipedia.org/wiki/Programming_language][programming language]] that is especially suited to [[https://en.wikipedia.org/wiki/Numerical_analysis][numeric computation]] and [[https://en.wikipedia.org/wiki/Computational_science][scientific computing]].
+
+  Fortran was originally developed by [[https://en.wikipedia.org/wiki/IBM][IBM]].  It first compiled correctly in 1958.  Fortran [[https://en.wikipedia.org/wiki/Computer_program][computer programs]] have been written to support scientific and engineering applications, such as [[https://en.wikipedia.org/wiki/Numerical_weather_prediction][numerical weather prediction]], [[https://en.wikipedia.org/wiki/Finite_element_method][finite element analysis]], [[https://en.wikipedia.org/wiki/Computational_fluid_dynamics][computational fluid dynamics]], [[https://en.wikipedia.org/wiki/Plasma_(physics)][plasma physics]], [[https://en.wikipedia.org/wiki/Geophysics][geophysics]], [[https://en.wikipedia.org/wiki/Computational_physics][computational physics]], [[https://en.wikipedia.org/wiki/Crystallography][crystallography]] and [[https://en.wikipedia.org/wiki/Computational_chemistry][computational chemistry]].  It is a popular language for [[https://en.wikipedia.org/wiki/High-performance_computing][high-performance computing]] and is used for programs that benchmark and rank the world's [[https://en.wikipedia.org/wiki/TOP500][fastest supercomputers]].
+
+  #+caption: The [[https://en.wikipedia.org/wiki/IBM_Blue_Gene][IBM Blue Gene/P]] supercomputer installation in 2007 at the Argonne Leadership Angela Yang Computing Facility located in the [[https://en.wikipedia.org/wiki/Argonne_National_Laboratory][Argonne National Laboratory]], in [[https://en.wikipedia.org/wiki/Lemont,_Illinois][Lemont]], [[https://en.wikipedia.org/wiki/Illinois][Illinois]], [[https://en.wikipedia.org/wiki/United_States][US]]
+  [[https://en.wikipedia.org/wiki/File:IBM_Blue_Gene_P_supercomputer.jpg][[[https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/IBM_Blue_Gene_P_supercomputer.jpg/250px-IBM_Blue_Gene_P_supercomputer.jpg]]]]
+
+  Fortran has evolved through numerous versions and dialects.  In 1966, the [[https://en.wikipedia.org/wiki/American_National_Standards_Institute][American National Standards Institute]] (ANSI) developed a standard for Fortran to limit proliferation of compilers using slightly different syntax.  Successive versions have added support for a character data type (Fortran 77), [[https://en.wikipedia.org/wiki/Structured_programming][structured programming]], [[https://en.wikipedia.org/wiki/Array_programming][array programming]], [[https://en.wikipedia.org/wiki/Modular_programming][modular programming]], [[https://en.wikipedia.org/wiki/Generic_programming][generic programming]] (Fortran 90), [[https://en.wikipedia.org/wiki/High_Performance_Fortran][parallel computing]] ([[https://en.wikipedia.org/wiki/Fortran_95_language_features][Fortran 95]]), [[https://en.wikipedia.org/wiki/Object-oriented_programming][object-oriented programming]] (Fortran 2003), and [[https://en.wikipedia.org/wiki/Concurrent_programming][concurrent programming]] (Fortran 2008).
+
+  #+caption: FORTRAN and COBOL genealogy tree
+  [[https://en.wikipedia.org/wiki/File:Algol&Fortran_Family_By_Skippppp.svg][[[https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Algol&Fortran_Family_By_Skippppp.svg/330px-Algol&Fortran_Family_By_Skippppp.svg.png]]]]
+
+  Since April 2024, Fortran has ranked among the top ten languages in the [[https://en.wikipedia.org/wiki/TIOBE_index][TIOBE index]], a measure of the popularity of programming languages.
+#+end_quote

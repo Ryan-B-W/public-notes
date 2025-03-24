@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       94023478-7ef7-4451-9564-02b356a81102
+:END:
+#+title: LISP 1.5 Programmer's Manual
+#+filetags: :books:documentation:lisp:programming:computer_science:
+
+* (www.softwarepreservation.org) LISP 1.5 Programmer's Manual - LISP 1.5 Programmers Manual.pdf :mime_type_application_pdf:website:
+:PROPERTIES:
+:ID:       ff9fbc90-85a8-4b34-a759-a9cc19b9ed15
+:ROAM_REFS: "https://www.softwarepreservation.org/projects/LISP/book/LISP 1.5 Programmers Manual.pdf"
+:END:
+* (mitpress.mit.edu) LISP 1.5 Programmer's Manual                   :website:
+:PROPERTIES:
+:ID:       db8ccb57-f8c2-4431-84e0-95a47031dd9d
+:ROAM_REFS: https://mitpress.mit.edu/9780262130110/lisp-1-5-programmers-manual/
+:END:
+
+#+begin_quote
+  * LISP 1.5 Programmer's Manual
+
+  by [[https://mitpress.mit.edu/author/john-mccarthy-14758][John McCarthy]], [[https://mitpress.mit.edu/author/paul-w-abrahams-32985][Paul W. Abrahams]], [[https://mitpress.mit.edu/author/daniel-j-edwards-32986][Daniel J. Edwards]], [[https://mitpress.mit.edu/author/timothy-p-hart-32987][Timothy P. Hart]] and [[https://mitpress.mit.edu/author/michael-i-levin-32988][Michael I. Levin]]
+
+  Paperback
+
+  ISBN: 9780262130110
+
+  Pub date: August 15, 1962
+
+  Publisher: The MIT Press
+
+  112 pp., 7 x 10 in,
+
+  ** [[https://mitpress.mit.edu/9780262130110/lisp-1-5-programmers-manual/#tab-1][Description]]
+
+  The manual describes LISP, a formal mathematical language.  LISP differs from most programming languages in three important ways.  The first way is in the nature of the data.
+
+  The LISP language is designed primarily for symbolic data processing used for symbolic calculations in differential and integral calculus, electrical circuit theory, mathematical logic, game playing, and other fields of artificial intelligence.  The manual describes LISP, a formal mathematical language.  LISP differs from most programming languages in three important ways.  The first way is in the nature of the data.  In the LISP language, all data are in the form of symbolic expressions usually referred to as S-expressions, of indefinite length, and which have a branching tree-type of structure, so that significant subexpressions can be readily isolated.  In the LISP system, the bulk of the available memory is used for storing S-expressions in the form of list structures.  The second distinction is that the LISP language is the source language itself which specifies in what way the S-expressions are to be processed.  Third, LISP can interpret and execute programs written in the form of S-expressions.  Thus, like machine language, and unlike most other high level languages, it can be used to generate programs for further executions.
+#+end_quote
+* (archive.org) LISP 1.5 programmer's manual : Massachusetts Institute of Technology. Computation Center : Free Download, Borrow, and Streaming : Internet Archive :website:
+:PROPERTIES:
+:ID:       c89cb4df-2d57-4d80-9362-c2f362ceb424
+:ROAM_REFS: https://archive.org/details/lisp15programmer00john
+:END:
+* See Also
+** [[id:859eefb6-e694-4907-a5f8-bb5168627b62][(texdraft.github.io) LISP 1.5 Source]]
+** [[id:8e828444-d654-43f9-8430-1314204ced46][(texdraft.github.io) Lisp Compiler]]

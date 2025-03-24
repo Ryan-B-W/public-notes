@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e68f44a7-29bb-4d02-a5d9-a94ba0e757e4
+:END:
+#+title: Java
+#+filetags: :java_lang:programming:programming_language:
+
+Sun Microsystems/Oracle [[id:b24601aa-09df-41e1-aa7e-25ead342db34][programming language]] commonly used in enterprise.
+* (en.wikipedia.org) Java (programming language) - Wikipedia        :website:
+:PROPERTIES:
+:ID:       caf4759c-81d6-479b-b677-c88b65dd636f
+:ROAM_REFS: https://en.wikipedia.org/wiki/Java_(programming_language)
+:END:
+
+#+begin_quote
+  *Java* is a [[https://en.wikipedia.org/wiki/High-level_programming_language][high-level]], [[https://en.wikipedia.org/wiki/General-purpose_programming_language][general-purpose]], [[https://en.wikipedia.org/wiki/Memory_safety][memory-safe]], [[https://en.wikipedia.org/wiki/Object-oriented_programming][object-oriented]] [[https://en.wikipedia.org/wiki/Programming_language][programming language]].  It is intended to let [[https://en.wikipedia.org/wiki/Programmer][programmers]] /write once, run anywhere/ ([[https://en.wikipedia.org/wiki/Write_once,_run_anywhere][WORA]]), meaning that [[https://en.wikipedia.org/wiki/Compiler][compiled]] Java code can run on all platforms that support Java without the need to recompile.  Java applications are typically compiled to [[https://en.wikipedia.org/wiki/Java_bytecode][bytecode]] that can run on any [[https://en.wikipedia.org/wiki/Java_virtual_machine][Java virtual machine]] (JVM) regardless of the underlying [[https://en.wikipedia.org/wiki/Computer_architecture][computer architecture]].  The [[https://en.wikipedia.org/wiki/Syntax_(programming_languages)][syntax]] of Java is similar to [[https://en.wikipedia.org/wiki/C_(programming_language)][C]] and [[https://en.wikipedia.org/wiki/C++][C++]], but has fewer [[https://en.wikipedia.org/wiki/Low-level_programming_language][low-level]] facilities than either of them.  The Java runtime provides dynamic capabilities (such as [[https://en.wikipedia.org/wiki/Reflective_programming][reflection]] and runtime code modification) that are typically not available in traditional compiled languages.
+
+  Java gained popularity shortly after its release, and has been a popular programming language since then.  Java was the third most popular programming language in 2022 according to [[https://en.wikipedia.org/wiki/GitHub][GitHub]].  Although still widely popular, there has been a gradual decline in use of Java in recent years with [[https://en.wikipedia.org/wiki/List_of_JVM_languages][other languages using JVM]] gaining popularity.
+
+  Java was designed by [[https://en.wikipedia.org/wiki/James_Gosling][James Gosling]] at [[https://en.wikipedia.org/wiki/Sun_Microsystems][Sun Microsystems]].  It was released in May 1995 as a core component of Sun's [[https://en.wikipedia.org/wiki/Java_(software_platform)][Java platform]].  The original and [[https://en.wikipedia.org/wiki/Reference_implementation][reference implementation]] Java [[https://en.wikipedia.org/wiki/Compiler][compilers]], virtual machines, and [[https://en.wikipedia.org/wiki/Library_(computing)][class libraries]] were released by Sun under [[https://en.wikipedia.org/wiki/Proprietary_license][proprietary licenses]].  As of May 2007, in compliance with the specifications of the [[https://en.wikipedia.org/wiki/Java_Community_Process][Java Community Process]], Sun had [[https://en.wikipedia.org/wiki/Software_relicensing][relicensed]] most of its Java technologies under the [[https://en.wikipedia.org/wiki/GNU_General_Public_License][GPL-2.0-only]] license. [[https://en.wikipedia.org/wiki/Oracle_Corporation][Oracle]], which bought Sun in 2010, offers its own [[https://en.wikipedia.org/wiki/HotSpot_(virtual_machine)][HotSpot]] Java Virtual Machine.  However, the official [[https://en.wikipedia.org/wiki/Reference_implementation][reference implementation]] is the [[https://en.wikipedia.org/wiki/OpenJDK][OpenJDK]] JVM, which is open-source software used by most developers and is the default JVM for almost all Linux distributions.
+
+  [[https://en.wikipedia.org/wiki/Java_version_history][Java 24]] is the version current as of March 2025.  Java 20 and 22 are no longer maintained.  Java 8, 11, 17, and 21 are [[https://en.wikipedia.org/wiki/Long-term_support][long-term support]] versions still under maintenance.
+#+end_quote

@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       91f6ff47-2dcb-444f-bd32-79151a4e1f22
+:ROAM_REFS: https://pythontutor.com/
+:END:
+#+title: (pythontutor.com) Python Tutor - Python Online Compiler with Visual AI Help
+#+filetags: :website:
+
+#+begin_quote
+  * Online Compiler, AI Tutor, and Visual Debugger for Python, Java, C, C++, and JavaScript
+
+  Python Tutor helps you do *programming homework assignments* in Python, Java, C, C++, and JavaScript.  It contains a step-by-step [[https://pythontutor.com/visualize.html][visual debugger and AI tutor]] to help you understand and debug code.
+
+  Start coding online in [[https://pythontutor.com/python-compiler.html][*Python*]], [[https://pythontutor.com/java.html][*Java*]], [[https://pythontutor.com/c.html][*C*]], [[https://pythontutor.com/cpp.html][*C++*]], and [[https://pythontutor.com/javascript.html][*JavaScript*]]
+
+  Since 2010, *over 20 million people in more than 180 countries* have used Python Tutor to visualize over 300 million pieces of code.  It is the most widely-used program visualization tool for CS education.
+
+  As a preview, here is a [[https://pythontutor.com/render.html#code=def%20listSum(numbers):%0A%20%20if%20not%20numbers:%0A%20%20%20%20return%200%0A%20%20else:%0A%20%20%20%20(f,%20rest)%20=%20numbers%0A%20%20%20%20return%20f%20+%20listSum(rest)%0A%0AmyList%20=%20(1,%20(2,%20(3,%20None)))%0Atotal%20=%20listSum(myList)&cumulative=false&curInstr=10&heapPrimitives=nevernest&mode=display&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false][small example]] that visualizes recursion in Python:
+
+  You can also ask an AI tutor for help in understanding your code and visualization:\\
+  [[https://pythontutor.com/render.html#code=def%20listSum(numbers):%0A%20%20if%20not%20numbers:%0A%20%20%20%20return%200%0A%20%20else:%0A%20%20%20%20(f,%20rest)%20=%20numbers%0A%20%20%20%20return%20f%20+%20listSum(rest)%0A%0AmyList%20=%20(1,%20(2,%20(3,%20None)))%0Atotal%20=%20listSum(myList)&cumulative=false&curInstr=10&heapPrimitives=nevernest&mode=display&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false][[[https://pythontutor.com/ai-tutor-homepage-example.png]]]]
+
+  Here are some examples of how this tool visualizes Java, C, and C++ code:
+
+  - [[https://pythontutor.com/articles/java-visualizer.html][How the Python Tutor visualizer can help students in your Java programming courses]]
+  - [[https://pythontutor.com/articles/c-cpp-visualizer.html][How the Python Tutor visualizer can help students in your C or C++ courses]]
+#+end_quote

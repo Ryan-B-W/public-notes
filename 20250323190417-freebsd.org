@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9de6b78d-1506-4837-bfa5-03e8632be933
+:END:
+#+title: FreeBSD
+#+filetags: :open_source:unix:software:operating_systems:computer_science:
+
+[[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][Open-source]] [[id:b7ffa33f-6da2-4918-9ced-6afd0fbdb0fe][Unix]]-like [[id:412bbcad-6c00-4f13-b748-d1ffde0588e1][operating system]].
+* (en.wikipedia.org) FreeBSD - Wikipedia                            :website:
+:PROPERTIES:
+:ID:       eeb9dc9f-b5d5-4656-a808-f141968c3001
+:ROAM_REFS: https://en.wikipedia.org/wiki/FreeBSD
+:END:
+
+#+begin_quote
+  *FreeBSD* is a [[https://en.wikipedia.org/wiki/Free_software][free-software]] [[https://en.wikipedia.org/wiki/Unix-like][Unix-like]] [[https://en.wikipedia.org/wiki/Operating_system][operating system]] descended from the [[https://en.wikipedia.org/wiki/Berkeley_Software_Distribution][Berkeley Software Distribution]] (BSD).  The first version was released in 1993 developed from [[https://en.wikipedia.org/wiki/386BSD][386BSD]]—the first fully functional and free [[https://en.wikipedia.org/wiki/Unix][Unix]] clone—and has since continuously been the most commonly used BSD-derived operating system.
+
+  FreeBSD maintains a complete system, delivering a [[https://en.wikipedia.org/wiki/Kernel_(operating_system)][kernel]], [[https://en.wikipedia.org/wiki/Device_driver][device drivers]], [[https://en.wikipedia.org/wiki/Userland_(computing)][userland]] utilities, and documentation, as opposed to [[https://en.wikipedia.org/wiki/Linux][Linux]] only delivering a [[https://en.wikipedia.org/wiki/Linux_kernel][kernel]] and drivers, and relying on third-parties such as [[https://en.wikipedia.org/wiki/GNU][GNU]] for system software.  The FreeBSD [[https://en.wikipedia.org/wiki/Source_code][source code]] is generally released under a [[https://en.wikipedia.org/wiki/Permissive_software_license][permissive]] [[https://en.wikipedia.org/wiki/FreeBSD_License][BSD license]], as opposed to the [[https://en.wikipedia.org/wiki/Copyleft][copyleft]] [[https://en.wikipedia.org/wiki/GPL][GPL]] used by Linux.  The project includes a [[https://en.wikipedia.org/wiki/Computer_security][security]] team overseeing all software shipped in the base distribution.  Third-party [[https://en.wikipedia.org/wiki/Application_software][applications]] may be installed using the pkg [[https://en.wikipedia.org/wiki/Package_manager][package management system]] or from source via [[https://en.wikipedia.org/wiki/FreeBSD_Ports][FreeBSD Ports]].  The project is supported and promoted by the [[https://en.wikipedia.org/wiki/FreeBSD_Foundation][FreeBSD Foundation]].
+
+  Much of FreeBSD's codebase has become an integral part of other operating systems such as [[https://en.wikipedia.org/wiki/Darwin_(operating_system)][Darwin]] (the basis for [[https://en.wikipedia.org/wiki/MacOS][macOS]], [[https://en.wikipedia.org/wiki/IOS][iOS]], [[https://en.wikipedia.org/wiki/IPadOS][iPadOS]], [[https://en.wikipedia.org/wiki/WatchOS][watchOS]], and [[https://en.wikipedia.org/wiki/TvOS][tvOS]]), [[https://en.wikipedia.org/wiki/TrueNAS][TrueNAS]] (an open-source [[https://en.wikipedia.org/wiki/Network-attached_storage][NAS]]/[[https://en.wikipedia.org/wiki/Storage_area_network][SAN]] operating system), and the system software for the [[https://en.wikipedia.org/wiki/PlayStation_3][PlayStation 3]], [[https://en.wikipedia.org/wiki/PlayStation_4][PlayStation 4]], [[https://en.wikipedia.org/wiki/PlayStation_5][PlayStation 5]], and [[https://en.wikipedia.org/wiki/PlayStation_Vita][PlayStation Vita]] game consoles.  The other current BSD systems ([[https://en.wikipedia.org/wiki/OpenBSD][OpenBSD]], [[https://en.wikipedia.org/wiki/NetBSD][NetBSD]], and [[https://en.wikipedia.org/wiki/DragonFly_BSD][DragonFly BSD]]) also contain a large amount of FreeBSD code, and vice-versa.
+#+end_quote

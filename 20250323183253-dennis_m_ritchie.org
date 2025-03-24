@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       42a22d7b-4dfd-46a8-9e7d-0ee2bb4a52ec
+:END:
+#+title: Dennis M. Ritchie
+#+filetags: :biographic:people:
+
+Co-creator of the [[id:c46eea5e-e2d2-4a21-bafe-74b6751292d2][C]] [[id:b24601aa-09df-41e1-aa7e-25ead342db34][programming language]] and [[id:b7ffa33f-6da2-4918-9ced-6afd0fbdb0fe][Unix]], along with [[id:fe1aeb41-296c-4f8f-aae0-75be06c6e5fb][Brian W. Kernighan]] and [[id:11238d7d-6b5d-44a8-99dc-be50cafa5657][Ken L. Thompson]] while at [[id:efd4f0a8-71b6-4a15-8109-60d9d51f1f0a][Bell Labs]].
+* (en.wikipedia.org) Dennis Ritchie - Wikipedia                     :website:
+:PROPERTIES:
+:ID:       224a3bec-068d-4697-a0fe-d3b9d405f789
+:ROAM_REFS: https://en.wikipedia.org/wiki/Dennis_Ritchie
+:END:
+
+#+begin_quote
+  *Dennis MacAlistair Ritchie* (September 9, 1941 -- c. October 12, 2011) was an American [[https://en.wikipedia.org/wiki/Computer_scientist][computer scientist]].  He created the [[https://en.wikipedia.org/wiki/C_(programming_language)][C programming language]] and the [[https://en.wikipedia.org/wiki/Unix][Unix]] [[https://en.wikipedia.org/wiki/Operating_system][operating system]] and [[https://en.wikipedia.org/wiki/B_(programming_language)][B language]] with long-time colleague [[https://en.wikipedia.org/wiki/Ken_Thompson][Ken Thompson]].  Ritchie and Thompson were awarded the [[https://en.wikipedia.org/wiki/Turing_Award][Turing Award]] from the [[https://en.wikipedia.org/wiki/Association_for_Computing_Machinery][Association for Computing Machinery]] (ACM) in 1983, the [[https://en.wikipedia.org/wiki/IEEE_Richard_W._Hamming_Medal][IEEE Richard W. Hamming Medal]] from the [[https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers][Institute of Electrical and Electronics Engineers]] (IEEE) in 1990, and the [[https://en.wikipedia.org/wiki/National_Medal_of_Technology][National Medal of Technology]] from President [[https://en.wikipedia.org/wiki/Bill_Clinton][Bill Clinton]] in 1999.
+
+  Ritchie was the head of [[https://en.wikipedia.org/wiki/Lucent][Lucent Technologies]] System Software Research Department when he retired in 2007.
+#+end_quote

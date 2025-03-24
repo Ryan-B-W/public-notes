@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f3b23fe9-f077-40b3-a39d-26e9145fdf07
+:END:
+#+title: Multics
+#+filetags: :software:operating_systems:computer_science:
+
+An early time-sharing [[id:412bbcad-6c00-4f13-b748-d1ffde0588e1][operating system]].
+* (en.wikipedia.org) Multics - Wikipedia                            :website:
+:PROPERTIES:
+:ID:       12c0f1a4-379f-4cfa-8206-ed911a976997
+:ROAM_REFS: https://en.wikipedia.org/wiki/Multics
+:END:
+
+#+begin_quote
+  *Multics* ("*MULTiplexed Information and Computing Service*") is an influential early [[https://en.wikipedia.org/wiki/Time-sharing][time-sharing]] [[https://en.wikipedia.org/wiki/Operating_system][operating system]] based on the concept of a [[https://en.wikipedia.org/wiki/Single-level_store][single-level memory]].  It has been written that Multics "has influenced all modern operating systems since, from microcomputers to mainframes."
+
+  Initial planning and development for Multics started in 1964, in [[https://en.wikipedia.org/wiki/Cambridge,_Massachusetts][Cambridge, Massachusetts]].  Originally it was a cooperative project led by [[https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology][MIT]] ([[https://en.wikipedia.org/wiki/Project_MAC][Project MAC]] with [[https://en.wikipedia.org/wiki/Fernando_Corbató][Fernando Corbató]]) along with [[https://en.wikipedia.org/wiki/General_Electric][General Electric]] and [[https://en.wikipedia.org/wiki/Bell_Labs][Bell Labs]].  It was developed on the [[https://en.wikipedia.org/wiki/GE_645][GE 645]] computer, which was specially designed for it; the first one was delivered to MIT in January 1967.  GE offered their earlier 635 systems with the [[https://en.wikipedia.org/wiki/Dartmouth_Time-Sharing_System][Dartmouth Time-Sharing System]] which they called "Mark I" and intended to offer the 645 with Multics as a larger successor.  Bell withdrew from the project in 1969 as it became clear it would not deliver a working system in the short term.  Shortly thereafter, GE decided to exit the computer industry entirely and sold the division to [[https://en.wikipedia.org/wiki/Honeywell][Honeywell]] in 1970.  Honeywell offered Multics commercially, but with limited success.
+
+  Multics has numerous features intended to ensure high availability so that it would support a [[https://en.wikipedia.org/wiki/Computing_utility][computing utility]] similar to the [[https://en.wikipedia.org/wiki/Telephone][telephone]] and [[https://en.wikipedia.org/wiki/Electricity][electricity]] [[https://en.wikipedia.org/wiki/Public_utility][utilities]].  Modular hardware structure and software architecture are used to achieve this.  The system can grow in size by simply adding more of the appropriate resource, be it computing power, main memory, or disk storage.  Separate [[https://en.wikipedia.org/wiki/Access_control_list][access control lists]] on every file provide flexible information sharing, but complete privacy when needed.  Multics has a number of standard mechanisms to allow engineers to analyze the performance of the system, as well as a number of adaptive performance optimization mechanisms.
+
+  Due to its many novel and valuable ideas, Multics has had a significant influence on [[https://en.wikipedia.org/wiki/Computer_science][computer science]] despite its faults.  Its most lasting effect on the computer industry was to inspire the creation of [[https://en.wikipedia.org/wiki/Unix][Unix]], which carried forward many Multics features, but was able to run on less-expensive hardware.  Unix was developed at Bell to allow their Multics team to continue their research using smaller machines, first a [[https://en.wikipedia.org/wiki/PDP-7][PDP-7]] and ultimately the [[https://en.wikipedia.org/wiki/PDP-11][PDP-11]].
+#+end_quote

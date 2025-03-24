@@ -4,6 +4,7 @@
 #+title: An Elementary Introduction to the Wolfram Language
 #+filetags: :programming_language:programming:stephen_wolfram:textbooks:books:
 
+A book on the [[id:3e3a70b9-48ef-470a-bb79-03acaea29f1e][Wolfram Language]] used by [[id:eb6e997b-515b-4dae-a908-3b12085856a3][Mathematica]].
 * (www.wolfram.com) An Elementary Introduction to the Wolfram Language by Stephen Wolfram :website:
 :PROPERTIES:
 :ID:       93b26e85-6889-4277-9ee5-6c918477a6df

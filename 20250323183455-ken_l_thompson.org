@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       11238d7d-6b5d-44a8-99dc-be50cafa5657
+:END:
+#+title: Ken L. Thompson
+#+filetags: :biographic:people:
+
+Known for working on [[id:f3b23fe9-f077-40b3-a39d-26e9145fdf07][Multics]] and co-creating [[id:b7ffa33f-6da2-4918-9ced-6afd0fbdb0fe][Unix]], along with [[id:fe1aeb41-296c-4f8f-aae0-75be06c6e5fb][Brian W. Kernighan]] and [[id:42a22d7b-4dfd-46a8-9e7d-0ee2bb4a52ec][Dennis M. Ritchie]] while at [[id:efd4f0a8-71b6-4a15-8109-60d9d51f1f0a][Bell Labs]].
+* (en.wikipedia.org) Ken Thompson - Wikipedia                       :website:
+:PROPERTIES:
+:ID:       b7ca9606-a99d-4c6a-96bf-c95186c6ae0d
+:ROAM_REFS: https://en.wikipedia.org/wiki/Ken_Thompson
+:END:
+
+#+begin_quote
+  *Kenneth Lane Thompson* (born February 4, 1943) is an American pioneer of [[https://en.wikipedia.org/wiki/Computer_science][computer science]].  Thompson worked at [[https://en.wikipedia.org/wiki/Bell_Labs][Bell Labs]] for most of his career where he designed and implemented the original [[https://en.wikipedia.org/wiki/Unix][Unix]] operating system.  He also invented the [[https://en.wikipedia.org/wiki/B_(programming_language)][B programming language]], the direct predecessor to the [[https://en.wikipedia.org/wiki/C_(programming_language)][C language]], and was one of the creators and early developers of the [[https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs][Plan 9]] operating system.  Since 2006, Thompson has worked at [[https://en.wikipedia.org/wiki/Google][Google]], where he co-developed the [[https://en.wikipedia.org/wiki/Go_(programming_language)][Go language]].  A recipient of the Turing award, he is considered one of the greatest computer programmers of all time.
+
+  Other notable contributions included his work on [[https://en.wikipedia.org/wiki/Regular_expression][regular expressions]] and early computer text editors [[https://en.wikipedia.org/wiki/QED_(text_editor)][QED]] and [[https://en.wikipedia.org/wiki/Ed_(text_editor)][ed]], the definition of the [[https://en.wikipedia.org/wiki/UTF-8][UTF-8]] encoding, and his work on computer chess that included the creation of [[https://en.wikipedia.org/wiki/Endgame_tablebase][endgame tablebases]] and the chess machine [[https://en.wikipedia.org/wiki/Belle_(chess_machine)][Belle]].  He won the [[https://en.wikipedia.org/wiki/Turing_Award][Turing Award]] in 1983 with his long-term colleague [[https://en.wikipedia.org/wiki/Dennis_Ritchie][Dennis Ritchie]].
+#+end_quote

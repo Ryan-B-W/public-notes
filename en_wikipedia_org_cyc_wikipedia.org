@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       0d07302d-fb8a-4fd8-a795-5ee911adbf9c
+:ROAM_REFS: https://en.wikipedia.org/wiki/Cyc
+:END:
+#+title: (en.wikipedia.org) Cyc - Wikipedia
+#+filetags: :artificial_intelligence:computer_science:website:
+
+#+begin_quote
+  *Cyc* (pronounced [[https://en.wikipedia.org/wiki/Help:IPA/English][/ˈsaɪk/]] [[https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key][/SYKE/]]) is a long-term [[https://en.wikipedia.org/wiki/Artificial_intelligence][artificial intelligence]] project that aims to assemble a comprehensive [[https://en.wikipedia.org/wiki/Ontology_(information_science)][ontology]] and [[https://en.wikipedia.org/wiki/Knowledge_base][knowledge base]] that spans the basic concepts and rules about how the world works.  Hoping to capture [[https://en.wikipedia.org/wiki/Common_sense_knowledge][common sense knowledge]], Cyc focuses on [[https://en.wikipedia.org/wiki/Implicit_knowledge][implicit knowledge]].  The project began in July 1984 at [[https://en.wikipedia.org/wiki/Microelectronics_and_Computer_Technology_Corporation][MCC]] and was developed later by the *Cycorp* company.
+
+  The name "Cyc" (from "encyclopedia") is a registered trademark owned by Cycorp. [[https://en.wikipedia.org/wiki/CycL][CycL]] has a publicly released specification, and dozens of HL (Heuristic Level) modules were described in Lenat and Guha's textbook, but the Cyc inference engine code and the full list of HL modules are Cycorp-proprietary.
+#+end_quote

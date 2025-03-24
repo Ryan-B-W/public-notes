@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       a74eb2a7-2da6-4993-8278-368351a9c154
+:END:
+#+title: Bjarne Stroustrup
+#+filetags: :biographic:people:
+
+Computer scientist most known for designing the [[id:5c1e66dd-65de-4e8d-9f7d-077a352af8ab][C++]] [[id:b24601aa-09df-41e1-aa7e-25ead342db34][programming language]].  Worked at [[id:efd4f0a8-71b6-4a15-8109-60d9d51f1f0a][Bell Labs]].
+* (en.wikipedia.org) Bjarne Stroustrup - Wikipedia                  :website:
+:PROPERTIES:
+:ID:       e2f0710e-3f51-488d-9b0f-dde4c6912cc9
+:ROAM_REFS: https://en.wikipedia.org/wiki/Bjarne_Stroustrup
+:END:
+
+#+begin_quote
+  *Bjarne Stroustrup* ([[https://en.wikipedia.org/wiki/Help:IPA/English][/ˈbjɑːrnə ˈstrɒvstrʊp/]];
+  Danish: [[https://en.wikipedia.org/wiki/Help:IPA/Danish][[ˈbjɑːnə ˈstʁʌwˀstʁɔp]]]; born 30 December 1950) is a Danish [[https://en.wikipedia.org/wiki/Computer_scientist][computer scientist]], known for the development of the [[https://en.wikipedia.org/wiki/C++][C++]] programming language.  He led the Large-scale Programming Research department at [[https://en.wikipedia.org/wiki/Bell_Labs][Bell Labs]], served as a professor of computer science at [[https://en.wikipedia.org/wiki/Texas_A&M_University][Texas A&M University]], and spent over a decade at [[https://en.wikipedia.org/wiki/Morgan_Stanley][Morgan Stanley]] while also being a [[https://en.wikipedia.org/wiki/Visiting_professor][visiting professor]] at [[https://en.wikipedia.org/wiki/Columbia_University][Columbia University]].  Since 2022 he has been a [[https://en.wikipedia.org/wiki/Full_professor][full professor]] at Columbia.
+#+end_quote

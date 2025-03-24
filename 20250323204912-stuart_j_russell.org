@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       d5a486a3-dbfd-40d8-bc84-fbede81e580e
+:END:
+#+title: Stuart J. Russell
+#+filetags: :biographic:people:
+
+Famous computer scientist and [[id:b10990c2-d056-42f5-a4e7-145a405d9550][AI]] researcher.  Co-author of [[id:36aba4dd-f750-47d3-811d-6333522424d1][Artificial Intelligence: A Modern Approach]] with [[id:f6d30bae-d3ac-4fd7-a335-bb5792ae2b43][Peter Norvig]].
+* (en.wikipedia.org) Stuart J. Russell - Wikipedia                  :website:
+:PROPERTIES:
+:ID:       d3522151-3ddd-48c1-8391-8a6b163500cd
+:ROAM_REFS: https://en.wikipedia.org/wiki/Stuart_J._Russell
+:END:
+
+#+begin_quote
+  *Stuart Jonathan Russell* [[https://en.wikipedia.org/wiki/Officer_of_the_Order_of_the_British_Empire][OBE]] (born 1962) is a British [[https://en.wikipedia.org/wiki/Computer_scientist][computer scientist]] known for his contributions to [[https://en.wikipedia.org/wiki/Artificial_intelligence][artificial intelligence]] (AI).  He is a professor of computer science at the [[https://en.wikipedia.org/wiki/University_of_California,_Berkeley][University of California, Berkeley]] and was from 2008 to 2011 an adjunct professor of neurological surgery at the [[https://en.wikipedia.org/wiki/University_of_California,_San_Francisco][University of California, San Francisco]].  He holds the Smith-Zadeh Chair in Engineering at [[https://en.wikipedia.org/wiki/University_of_California,_Berkeley][University of California, Berkeley]].  He founded and leads the [[https://en.wikipedia.org/wiki/Center_for_Human-Compatible_Artificial_Intelligence][Center for Human-Compatible Artificial Intelligence]] (CHAI) at UC Berkeley and the [[https://en.wikipedia.org/w/index.php?title=International_Association_for_Safe_and_Ethical_Artificial_Intelligence_(IASEAI)&action=edit&redlink=1][International Association for Safe and Ethical Artificial Intelligence (IASEAI)]].  Russell is the co-author with [[https://en.wikipedia.org/wiki/Peter_Norvig][Peter Norvig]] of the authoritative textbook of the field of AI: /[[https://en.wikipedia.org/wiki/Artificial_Intelligence:_A_Modern_Approach][Artificial Intelligence: A Modern Approach]]/ used in more than 1,500 universities in 135 countries.
+#+end_quote

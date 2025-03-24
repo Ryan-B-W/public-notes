@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       be8b671a-2bb0-4e85-8116-70e1ace8641c
+:END:
+#+title: Recursive functions of symbolic expressions and their computation by machine, Part I by John McCarthy
+#+filetags: :science_paper:article:programming:lisp:mathematics:computer_science:
+
+The original [[id:84ae6e85-a6a2-4133-bc53-274238081c2d][Lisp]] paper by [[id:9c394806-9d31-4312-a2cf-ae0d0935f7b1][John McCarthy]].
+* (www-formal.stanford.edu) recursive.dvi - recursive.pdf :mime_type_application_pdf:website:
+:PROPERTIES:
+:ID:       e734b3b6-10ab-4f22-8fa5-e7b672844076
+:ROAM_REFS: http://www-formal.stanford.edu/jmc/recursive.pdf
+:END:
+
+#+begin_quote
+  * Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I
+
+  John McCarthy, Massachusetts Institute of Technology, Cambridge, Mass.
+
+  April 1960
+
+  ** Introduction
+
+  A programming system called LISP (for LISt Processor) has been developed for the IBM 704 computer by the Artificial Intelligence group at M.I.T.  The system was designed to facilitate experiments with a proposed system called the Advice Taker, whereby a machine could be instructed to handle declarative as well as imperative sentences and could exhibit “common sense” in carrying out its instructions.  The original proposal [1] for the Advice Taker was made in November 1958.  The main requirement was a programming system for manipulating expressions representing formalized declarative and imperative sentences so that the Advice Taker system could make deductions.
+
+  In the course of its development the LISP system went through several stages of simplification and eventually came to be based on a scheme for representing the partial recursive functions of a certain class of symbolic expressions.  This representation is independent of the IBM 704 computer, or of any other electronic computer, and it now seems expedient to expound the system by starting with the class of expressions called S-expressions and the functions called S-functions.
+
+  In this article, we first describe a formalism for defining functions recursively.  We believe this formalism has advantages both as a programming language and as a vehicle for developing a theory of computation.  Next, we describe S-expressions and S-functions, give some examples, and then describe the universal S-function apply which plays the theoretical role of a universal Turing machine and the practical role of an interpreter.  Then we describe the representation of S-expressions in the memory of the IBM 704 by list structures similar to those used by Newell, Shaw and Simon [2], and the representation of S-functions by program.  Then we mention the main features of the LISP programming system for the IBM 704.  Next comes another way of describing computations with symbolic expressions, and finally we give a recursive function interpretation of flow charts.
+
+  We hope to describe some of the symbolic computations for which LISP has been used in another paper, and also to give elsewhere some applications of our recursive function formalism to mathematical logic and to the problem of mechanical theorem proving.
+
+  ∗Putting this paper in LATEXpartly supported by ARPA (ONR) grant N00014-94-1-0775 to Stanford University where John McCarthy has been since 1962.  Copied with minor notational changes from CACM, April 1960.  If you want the exact typography, look there.  Current address, John McCarthy, Computer Science Department, Stanford, CA 94305, (email: jmc@cs.stanford.edu), (URL: http://www-formal.stanford.edu/jmc/ )
+#+end_quote
+* (dl.acm.org) Recursive functions of symbolic expressions and their computation by machine, Part I | Communications of the ACM :website:
+:PROPERTIES:
+:ID:       14decf41-26d3-423e-ad2f-b9a25c4377b0
+:ROAM_REFS: https://dl.acm.org/doi/10.1145/367177.367199
+:END:
+** (dl.acm.org) Recursive functions of symbolic expressions and their computation by machine, Part I - 367177.367199.pdf :metadata_file_poor_quality:mime_type_application_pdf:
+:PROPERTIES:
+:ID:       11f599d0-7390-4e27-9e17-a059da87acde
+:ROAM_REFS: https://dl.acm.org/doi/pdf/10.1145/367177.367199
+:END:

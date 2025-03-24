@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       d163e4fb-477a-459c-819f-598012df912c
+:ROAM_REFS: https://en.cppreference.com/w/c/algorithm/qsort
+:END:
+#+title: (en.cppreference.com) qsort, qsort_s - cppreference.com
+#+filetags: :website:
+
+#+begin_quote
+  * qsort, qsort_s
+
+  Defined in header [[https://en.cppreference.com/w/c/header/stdlib][=<stdlib.h>=]]
+
+  #+begin_src c
+    void qsort( void* ptr, [[http://en.cppreference.com/w/c/types/size_t][size_t]] count, [[http://en.cppreference.com/w/c/types/size_t][size_t]] size,
+                int (*comp)(const void*, const void*) );
+    errno_t qsort_s( void* ptr, rsize_t count, rsize_t size,
+                     int (*comp)(const void*, const void*, void*),
+                     void* context );
+  #+end_src
+
+  1) Sorts the given array pointed to by =ptr= in ascending order. The array contains =count= elements of =size= bytes. Function pointed to by =comp= is used for object comparison.
+
+  2) Same as (1), except that the additional context parameter context is passed to comp and that the following errors are detected at runtime and call the currently installed [[https://en.cppreference.com/w/c/error/set_constraint_handler_s][constraint handler]] function:
+
+     - =count= or =size= is greater than RSIZE_MAX
+     - =ptr= or =comp= is a null pointer (unless =count= is zero)
+
+     As with all bounds-checked functions, =qsort_s= is only guaranteed to be available if =__STDC_LIB_EXT1__= is defined by the implementation and if the user defines =__STDC_WANT_LIB_EXT1__= to the integer constant 1 before including [[https://en.cppreference.com/w/c/header/stdlib][=<stdlib.h>=]].
+
+  If comp indicates two elements as equivalent, their order in the resulting sorted array is unspecified.
+
+  *** Parameters
+
+  ptr     - pointer to the array to sort
+  count   - number of elements in the array
+  size    - size of each element in the array in bytes
+  comp    - comparison function which returns ​a negative integer value if the first argument is /less/ than the second, a positive integer value if the first argument is /greater/ than the second and zero if the arguments are equivalent.
+            The signature of the comparison function should be equivalent to the following:
+            src_c{int cmp(const void *a, const void *b);}
+            The function must not modify the objects passed to it and must return consistent results when called for the same objects, regardless of their positions in the array.
+  context - additional information (e.g., collating sequence), passed to =comp= as the third argument
+
+  *** Return value
+
+  1) (none)
+
+  2) zero on success, non-zero if a runtime constraints violation was detected
+#+end_quote

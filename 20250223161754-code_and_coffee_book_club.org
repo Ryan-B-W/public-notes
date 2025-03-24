@@ -4,9 +4,9 @@
 #+title: Code and Coffee Book Club
 #+filetags: :events:social:
 
-The official book club of Code and Coffee Long Beach.
+The official book club of [[id:c2a1e83d-86c0-46bd-bd71-7b604420d3d0][Code and Coffee Long Beach]].
 
-Hosted online on the Code and Coffee Discord server, livestreamed to twitch, and uploaded to YouTube.
+Hosted online on the Code and Coffee [[id:d2412b09-9507-42f7-a674-512b4c18b680][Discord server]], livestreamed to [[id:6735a31a-80b1-41ff-bddd-9d2dc6e50f14][twitch]], and uploaded to [[id:35ce0229-5235-486f-9384-674649c9c180][YouTube]].
 * Books
 ** [[id:bc4f5e4a-5bb9-47f7-8086-d12236fe793f][Structure and Interpretation of Computer Programs]]
 *** Sessions
@@ -111,3 +111,30 @@ Hosted online on the Code and Coffee Discord server, livestreamed to twitch, and
 ****** [[id:11438879-fe1a-4e45-b25b-3a7563627422][Ronald L. Rivest]]
 ******* [[id:7cf931f8-5095-4473-8010-b94ed35b914d][Adi Shamir]]
 ******* [[id:6edcb9e7-8f35-4796-854c-b216873ee148][Leonard M. Adleman]]
+**** Session Three, [2025-03-23 Sun 15:00-16:00]
+***** [[id:10ed2665-130f-4398-8efa-ce9795584da0][(sarabander.github.io) Structure and Interpretation of Computer Programs, 2e: 1.3]]
+***** Next: [[id:4e6b6934-89b2-4125-b046-9628e20427e8][SICP Chapter 2 (intro)]] and [[id:6d5c6805-fb40-49d9-9a91-93733bde2818][SICP Section 2.1]]
+***** Java's usage of the word "body" was brought up
+SICP does use "Body", in the same sense.  In addition, according to [[id:caf4759c-81d6-479b-b677-c88b65dd636f][Wikipedia]], the book predates Java by around 11 years.
+***** Closures were discussed
+The book sticks to the mathematical definition, see [[id:2edf6633-4e65-4ebd-81c3-a842cb759479][(sarabander.github.io) Structure and Interpretation of Computer Programs, 2e: 2.2]], and not the definition commonly used by [[id:84ae6e85-a6a2-4133-bc53-274238081c2d][Lisp]] and [[id:db0939e6-0c2e-4bb0-a626-2114209235af][JavaScript]] programmers.
+***** [[id:91f6ff47-2dcb-444f-bd32-79151a4e1f22][(pythontutor.com) Python Tutor - Python Online Compiler with Visual AI Help]]
+Was mentioned in passing, in regard to the substitution model of execution.  See also [[https://sarabander.github.io/sicp/html/1_002e1.xhtml#g_t1_002e1_002e5][SICP2e 1.1.5: The Substitution Model for Procedure Application]].
+***** [[id:032ff6ce-e694-4d1a-b575-3dc4512f09b7][(en.wikipedia.org) Wolfram Language - Wikipedia]]
+Similarities to the [[id:3e3a70b9-48ef-470a-bb79-03acaea29f1e][Wolfram Language]] were brought up.
+***** A comparison was made between higher-order functions in [[id:c46eea5e-e2d2-4a21-bafe-74b6751292d2][C]] vs [[id:84ae6e85-a6a2-4133-bc53-274238081c2d][Lisp]]
+An example of C using function-pointers was given of [[id:d163e4fb-477a-459c-819f-598012df912c][=qsort=]].  Higher-order functions are more powerful in Lisp due to the ability to programmatically define new functions at runtime based on program input.
+***** [[id:73f4a605-b675-4a9d-923f-2fa379a89bac][(www.youtube.com) Mathematical Physics 01 - Carl Bender - YouTube]]
+***** [[id:45d86aec-1cbf-4562-b350-6787585091e7][(sarabander.github.io) SICP, 2e: 3.2 The Environment Model of Evaluation]]
+A comparison was made between the substitution model of application (see [[https://sarabander.github.io/sicp/html/1_002e1.xhtml#g_t1_002e1_002e5][SICP2e 1.1.5: The Substitution Model for Procedure Application]]) and the environment model of evaluation.
+***** [[id:94023478-7ef7-4451-9564-02b356a81102][LISP 1.5 Programmer's Manual]]
+***** [[id:9e65a3cb-c744-465e-b45d-c9494fddb701][(jmc.stanford.edu) History of Lisp]]
+****** [[id:2cd55918-ce21-4dbb-9eb3-df648603c7ad][(jmc.stanford.edu) lisp.pdf]]
+***** [[id:be8b671a-2bb0-4e85-8116-70e1ace8641c][Recursive functions of symbolic expressions and their computation by machine, Part I by John McCarthy]]
+***** [[id:8e828444-d654-43f9-8430-1314204ced46][(texdraft.github.io) Lisp Compiler]]
+***** [[id:b1f61a9c-1636-428c-b087-9bd5466253ad][(en.wikipedia.org) SHRDLU - Wikipedia]]
+***** [[id:e86b5f48-7ae0-4cfe-a07b-4f1a2e59af5a][Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp by Peter Norvig]]
+***** [[id:0d07302d-fb8a-4fd8-a795-5ee911adbf9c][(en.wikipedia.org) Cyc - Wikipedia]]
+***** [[id:f1ccd506-3a34-48b8-aa11-2e3cbf6dde42][(www.wired.com) One Genius' Lonely Crusade to Teach a Computer Common Sense | WIRED]]
+***** [[id:f07d1118-83d6-428f-beb8-081d6966f661][(www.wired.com) CYC-O | WIRED]]
+***** [[id:760b78b3-1c9a-44a2-b0cf-d2ad0381dc79][IBM 704]]

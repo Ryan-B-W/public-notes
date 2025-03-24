@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a641ae8e-1d3c-4e90-911c-51a594b05a08
+:END:
+#+title: OpenBSD
+#+filetags: :security:open_source:unix:software:operating_systems:computer_science:
+
+[[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][Open-source]] [[id:b7ffa33f-6da2-4918-9ced-6afd0fbdb0fe][Unix]]-like [[id:412bbcad-6c00-4f13-b748-d1ffde0588e1][operating system]].  Is especially focused on security.
+* (en.wikipedia.org) OpenBSD - Wikipedia                            :website:
+:PROPERTIES:
+:ID:       2ad61dc2-1a09-49d1-88bf-2aac0f3a2b57
+:ROAM_REFS: https://en.wikipedia.org/wiki/OpenBSD
+:END:
+
+#+begin_quote
+  *OpenBSD* is a [[https://en.wikipedia.org/wiki/Security-focused_operating_system][security-focused]], [[https://en.wikipedia.org/wiki/Free_software][free software]], [[https://en.wikipedia.org/wiki/Unix-like][Unix-like]] [[https://en.wikipedia.org/wiki/Operating_system][operating system]] based on the [[https://en.wikipedia.org/wiki/Berkeley_Software_Distribution][Berkeley Software Distribution]] (BSD). [[https://en.wikipedia.org/wiki/Theo_de_Raadt][Theo de Raadt]] created OpenBSD in 1995 by [[https://en.wikipedia.org/wiki/Fork_(software_development)][forking]] [[https://en.wikipedia.org/wiki/NetBSD][NetBSD]] 1.0.  The OpenBSD project emphasizes [[https://en.wikipedia.org/wiki/Software_portability][portability]], [[https://en.wikipedia.org/wiki/Software_standard][standardization]], [[https://en.wikipedia.org/wiki/Software_bug][correctness]], proactive [[https://en.wikipedia.org/wiki/Computer_security][security]], and integrated [[https://en.wikipedia.org/wiki/Cryptography][cryptography]].
+
+  The OpenBSD project maintains portable versions of many subsystems as [[https://en.wikipedia.org/wiki/Package_manager][packages]] for other operating systems.  Because of the project's preferred BSD license, which allows binary redistributions without the source code, many components are reused in proprietary and corporate-sponsored software projects.  The [[https://en.wikipedia.org/wiki/Firewall_(computing)][firewall]] code in [[https://en.wikipedia.org/wiki/Apple_Inc.][Apple]]'s [[https://en.wikipedia.org/wiki/MacOS][macOS]] is based on OpenBSD's [[https://en.wikipedia.org/wiki/PF_(firewall)][PF]] firewall code, [[https://en.wikipedia.org/wiki/Android_(operating_system)][Android]]'s [[https://en.wikipedia.org/wiki/Bionic_(software)][Bionic]] [[https://en.wikipedia.org/wiki/C_standard_library][C standard library]] is based on OpenBSD code, [[https://en.wikipedia.org/wiki/LLVM][LLVM]] uses OpenBSD's [[https://en.wikipedia.org/wiki/Regular_expression][regular expression]] library, and [[https://en.wikipedia.org/wiki/Windows_10][Windows 10]] uses [[https://en.wikipedia.org/wiki/OpenSSH][OpenSSH]] (OpenBSD Secure Shell) with [[https://en.wikipedia.org/wiki/LibreSSL][LibreSSL]].
+
+  The word "open" in the name OpenBSD refers to the availability of the operating system [[https://en.wikipedia.org/wiki/Source_code][source code]] on the [[https://en.wikipedia.org/wiki/Internet][Internet]], although the word "open" in the name OpenSSH means "OpenBSD".  It also refers to the wide range of [[https://en.wikipedia.org/wiki/Computer_architecture][hardware platforms]] the system supports.  OpenBSD supports a variety of system architectures including [[https://en.wikipedia.org/wiki/X86-64][x86-64]], [[https://en.wikipedia.org/wiki/IA-32][IA-32]], [[https://en.wikipedia.org/wiki/ARM_architecture_family][ARM]], [[https://en.wikipedia.org/wiki/PowerPC][PowerPC]], and 64-bit [[https://en.wikipedia.org/wiki/RISC-V][RISC-V]].  Its default GUI is the X11 interface.
+#+end_quote

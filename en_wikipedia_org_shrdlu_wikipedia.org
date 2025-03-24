@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       b1f61a9c-1636-428c-b087-9bd5466253ad
+:ROAM_REFS: https://en.wikipedia.org/wiki/SHRDLU
+:END:
+#+title: (en.wikipedia.org) SHRDLU - Wikipedia
+#+filetags: :nlp:artificial_intelligence:computer_science:website:
+
+#+begin_quote
+  *SHRDLU* is an early [[https://en.wikipedia.org/wiki/Natural-language_understanding][natural-language understanding]] [[https://en.wikipedia.org/wiki/Computer_program][computer program]] that was developed by [[https://en.wikipedia.org/wiki/Terry_Winograd][Terry Winograd]] at [[https://en.wikipedia.org/wiki/MIT][MIT]] in 1968--1970.  In the program, the user carries on a conversation with the computer, moving objects, naming collections and querying the state of a simplified "[[https://en.wikipedia.org/wiki/Blocks_world][blocks world]]", essentially a virtual box filled with different blocks.
+
+  SHRDLU was written in the [[https://en.wikipedia.org/wiki/Planner_programming_language][Micro Planner]] and [[https://en.wikipedia.org/wiki/Lisp_programming_language][Lisp programming language]] on the [[https://en.wikipedia.org/wiki/Digital_Equipment_Corporation][DEC]] [[https://en.wikipedia.org/wiki/PDP-6][PDP-6]] computer and a DEC graphics [[https://en.wikipedia.org/wiki/Computer_terminal][terminal]].  Later additions were made at the [[https://en.wikipedia.org/wiki/Computer_graphics][computer graphics]] labs at the [[https://en.wikipedia.org/wiki/University_of_Utah][University of Utah]], adding a full 3D rendering of SHRDLU's "world".
+
+  The name SHRDLU was derived from [[https://en.wikipedia.org/wiki/Etaoin_shrdlu][ETAOIN SHRDLU]], the arrangement of the letter keys on a [[https://en.wikipedia.org/wiki/Linotype_machine][Linotype machine]], arranged in descending order of usage frequency in English.
+#+end_quote

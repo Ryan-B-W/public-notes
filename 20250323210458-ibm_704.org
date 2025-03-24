@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       760b78b3-1c9a-44a2-b0cf-d2ad0381dc79
+:END:
+#+title: IBM 704
+#+filetags: :ibm_corp:computer_architecture:computer_science:
+
+An early commercial electronic [[id:bf5900d9-5be8-49ca-bfcc-46587cc787dc][computer]] system developed and sold by [[id:e4639006-f52c-4fcd-9a26-2d806dd3ea1e][IBM]].  Most famous for being the first commercial computer with dedicated floating-point arithmetic hardware and some of the first high-level [[id:b24601aa-09df-41e1-aa7e-25ead342db34][programming language]]s, [[id:a99d24c2-0bab-4ee9-b654-5b1e919b90b2][Fortran]] and [[id:84ae6e85-a6a2-4133-bc53-274238081c2d][Lisp]], being developed for it.
+* (en.wikipedia.org) IBM 704 - Wikipedia                            :website:
+:PROPERTIES:
+:ID:       c0ea8c17-8e1a-4db0-b01a-1f107642e0aa
+:ROAM_REFS: https://en.wikipedia.org/wiki/IBM_704
+:END:
+
+#+begin_quote
+  The *IBM 704* is the model name of a large [[https://en.wikipedia.org/wiki/Digital_computer][digital]] [[https://en.wikipedia.org/wiki/Mainframe_computer][mainframe computer]] introduced by [[https://en.wikipedia.org/wiki/IBM][IBM]] in 1954.  Designed by [[https://en.wikipedia.org/wiki/John_Backus][John Backus]] and [[https://en.wikipedia.org/wiki/Gene_Amdahl][Gene Amdahl]], it was the first mass-produced computer with hardware for [[https://en.wikipedia.org/wiki/Floating-point_arithmetic][floating-point arithmetic]].  The IBM 704 /Manual of operation/ states:
+
+  #+begin_quote
+  The type 704 Electronic Data-Processing Machine is a large-scale, high-speed electronic calculator controlled by an internally stored program of the single address type.
+
+  #+end_quote
+
+  The 704 at that time was thus regarded as "pretty much the only computer that could handle complex math".  The 704 was a significant improvement over the earlier [[https://en.wikipedia.org/wiki/IBM_701][IBM 701]] in terms of architecture and implementation.  Like the 701, the 704 used [[https://en.wikipedia.org/wiki/Vacuum-tube][vacuum-tube]] logic circuitry, but increased the instruction size from [[https://en.wikipedia.org/wiki/18-bit_computing][18 bits]] to [[https://en.wikipedia.org/wiki/36-bit_computing][36 bits]], the same as the memory's word size.  Changes from the 701 include the use of [[https://en.wikipedia.org/wiki/Magnetic-core_memory][magnetic-core memory]] instead of [[https://en.wikipedia.org/wiki/Williams_tube][Williams tubes]], floating-point arithmetic instructions, 15-bit addressing and the addition of three [[https://en.wikipedia.org/wiki/Index_register][index registers]].  To support these new features, the instructions were expanded to use the full 36-bit word.  The new [[https://en.wikipedia.org/wiki/Instruction_set][instruction set]], which is not compatible with the 701, became the base for the [[https://en.wikipedia.org/wiki/IBM_700/7000_series#Later_scientific_architecture_(704/709/7090/7094)]["scientific architecture" subclass]] of the [[https://en.wikipedia.org/wiki/IBM_700/7000_series][IBM 700/7000 series]] computers.
+
+  The 704 could execute up to 12,000 floating-point additions per second.  IBM produced 123 type 704 systems between 1955 and 1960.
+#+end_quote

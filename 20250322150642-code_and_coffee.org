@@ -22,6 +22,11 @@ Programming meetup local to Long Beach, California that meets online or in-perso
 
   In-person meetups at least once a month around Long Beach, see [[https://www.meetup.com/code-and-coffee-long-beach/][Meetup.com]] for details.
 #+end_quote
+* (discord.com) Discord | Code and Coffee                           :website:
+:PROPERTIES:
+:ID:       d2412b09-9507-42f7-a674-512b4c18b680
+:ROAM_REFS: https://discord.com/channels/801944868448108565/1011497292580270090 https://discord.com/invite/9QAKkCmmWC https://discord.com/channels/801944868448108565
+:END:
 * (www.meetup.com) Code and Coffee, Long Beach | Meetup             :website:
 :PROPERTIES:
 :ID:       c052802c-f49c-434c-9d0f-e7dd3149132a
@@ -37,4 +42,9 @@ Programming meetup local to Long Beach, California that meets online or in-perso
 :PROPERTIES:
 :ID:       6735a31a-80b1-41ff-bddd-9d2dc6e50f14
 :ROAM_REFS: https://www.twitch.tv/codeandcoffeelb
+:END:
+* (www.youtube.com) Code Coffee (Code and Coffee) - YouTube         :website:
+:PROPERTIES:
+:ID:       35ce0229-5235-486f-9384-674649c9c180
+:ROAM_REFS: https://www.youtube.com/channel/UCId43JIajFR6ytDzg0XXv7A https://www.youtube.com/@codecoffee864
 :END:
