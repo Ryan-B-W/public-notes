@@ -5,6 +5,13 @@
 #+filetags: :package_management:linux:operating_systems:lisp:computer_science:
 
 A [[id:bf0bc2d7-17df-413c-823b-93904faffc58][Linux]] [[id:412bbcad-6c00-4f13-b748-d1ffde0588e1][distribution]] using the [[id:9af45692-b2f1-4d4e-a9b3-03d355ffacd0][Guix]] package manager and repository.
-* See Also
- - [[https://guix.gnu.org/][GNU Guix transactional package manager and distribution — GNU Guix]]
- - [[https://en.wikipedia.org/wiki/GNU_Guix_System][GNU Guix System - Wikipedia]]
+* [[id:113a0446-7ae1-4370-9c39-746e2295f877][(guix.gnu.org) GNU Guix transactional package manager and distribution — GNU Guix]]
+* (en.wikipedia.org) GNU Guix - GNU Guix System - Wikipedia         :website:
+:PROPERTIES:
+:ID:       cd3ec42e-0653-4f4c-bfc3-8d9d0484fa6a
+:ROAM_REFS: https://en.wikipedia.org/wiki/GNU_Guix_System https://en.wikipedia.org/wiki/GNU_Guix#Guix_System_(operating_system)
+:END:
+
+#+begin_quote
+  *GNU Guix System* or *Guix System* (previously known as /GuixSD/) is a [[https://en.wikipedia.org/wiki/Rolling_release][rolling release]], [[https://en.wikipedia.org/wiki/Free_software][free and open source]] [[https://en.wikipedia.org/wiki/Linux_distribution][Linux distribution]] built around Guix, similar to how [[https://en.wikipedia.org/wiki/NixOS][NixOS]] is built around [[https://en.wikipedia.org/wiki/Nix_package_manager][Nix]].  It enables a declarative operating system configuration and allows system upgrades that the user can [[https://en.wikipedia.org/wiki/Transaction_processing#Rollback][rollback]].  It uses the GNU Shepherd [[https://en.wikipedia.org/wiki/Init][init]] system and the [[https://en.wikipedia.org/wiki/Linux-libre][Linux-libre]] kernel, with the support of the [[https://en.wikipedia.org/wiki/GNU_Hurd][GNU Hurd]] kernel under development.  On February 3, 2015, the [[https://en.wikipedia.org/wiki/Free_Software_Foundation][Free Software Foundation]] added the distribution to its list of endorsed free Linux distributions.
+#+end_quote

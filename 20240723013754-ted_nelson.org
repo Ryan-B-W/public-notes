@@ -5,5 +5,12 @@
 #+filetags: :person:biographic:
 
 American pioneer in information technology, a philosopher, and sociologist.  Known for coining the terms [[id:a0ac6689-ad9b-4a28-b630-0dd12f15cff1][hypertext]] and hypermedia and for his [[id:8482b0a5-5e32-4745-af93-749e79998e28][Project Xanadu]].
-* See Also
- - [[https://en.wikipedia.org/wiki/Ted_Nelson][Ted Nelson - Wikipedia]]
+* (en.wikipedia.org) Ted Nelson - Wikipedia                         :website:
+:PROPERTIES:
+:ID:       3d825e1b-a85c-4018-8596-69c31dd0f30c
+:ROAM_REFS: https://en.wikipedia.org/wiki/Ted_Nelson
+:END:
+
+#+begin_quote
+  *Theodor Holm Nelson* (born June 17, 1937) is an American pioneer of [[https://en.wikipedia.org/wiki/Information_technology][information technology]], philosopher, and sociologist.  He coined the terms /[[https://en.wikipedia.org/wiki/Hypertext][hypertext]]/ and /[[https://en.wikipedia.org/wiki/Hypermedia][hypermedia]]/ in 1963 and published them in 1965.  According to a 1997 /[[https://en.wikipedia.org/wiki/Forbes][Forbes]]/ profile, Nelson "sees himself as a literary romantic, like a [[https://en.wikipedia.org/wiki/Cyrano_de_Bergerac][Cyrano de Bergerac]], or 'the [[https://en.wikipedia.org/wiki/Orson_Welles][Orson Welles]] of software'."
+#+end_quote

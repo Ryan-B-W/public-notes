@@ -2,9 +2,26 @@
 :ID:       b83f6ef7-85bc-4465-ac86-94fe8d3efbec
 :END:
 #+title: Roam Research
-#+filetags: :writing:information_management:
+#+filetags: :notes:writing:information_management:
 
 A [[id:d4dafaae-02cf-4a44-8fa9-afded413fe2a][personal knowledge management]] system and [[id:6992d257-971d-40c7-a617-ec82e2541206][note taking]] tool.  It is a commercial and proprietary tool with a subscription [[id:4b177854-1711-41a2-8ef0-7a2208174234][business]] model.
-* See Also
- - [[https://roamresearch.com/][Roam Research]] website
- - [[https://en.wikipedia.org/wiki/Roam_(software)][Roam (software) - Wikipedia]]
+* (roamresearch.com) Roam Research – A note taking tool for networked thought. :website:
+:PROPERTIES:
+:ID:       5acb2c66-aeea-4310-aa18-83baf73add9e
+:ROAM_REFS: https://roamresearch.com/
+:END:
+
+#+begin_quote
+  A note-taking tool for networked thought.
+
+  As easy to use as a document.  As powerful as a graph database.  Roam helps you organize your research for the long haul.
+#+end_quote
+* (en.wikipedia.org) Roam (software) - Wikipedia                    :website:
+:PROPERTIES:
+:ID:       48238c6f-b248-4c1e-9e03-00f29ab6b414
+:ROAM_REFS: https://en.wikipedia.org/wiki/Roam_(software)
+:END:
+
+#+begin_quote
+  *Roam* is a [[https://en.wikipedia.org/wiki/California][California]]-based productivity and [[https://en.wikipedia.org/wiki/Note-taking][note-taking]] [[https://en.wikipedia.org/wiki/Application_software][application]] developed by Roam Research Inc.  The system is built on a directed graph, which frees it from the constraints of the classic [[https://en.wikipedia.org/wiki/Filesystem][filesystem]] tree.  It is viewed as a competitor to [[https://en.wikipedia.org/wiki/Notion_(productivity_software)][Notion]].
+#+end_quote

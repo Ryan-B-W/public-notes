@@ -5,10 +5,24 @@
 #+filetags: :writing:information_management:
 
 A system, typically website, that uses a simple markup and editing tools to build a [[id:a0ac6689-ad9b-4a28-b630-0dd12f15cff1][hypertext]] (non-linear connected) [[id:d4dafaae-02cf-4a44-8fa9-afded413fe2a][knowledge base]] in a collaborative way.
+* (en.wikipedia.org) Wiki - Wikipedia                               :website:
+:PROPERTIES:
+:ID:       d09bce5d-3f30-4875-a54e-ce4ca0014a46
+:ROAM_REFS: https://en.wikipedia.org/wiki/Wiki
+:END:
+
+#+begin_quote
+  A *wiki* ([[https://en.wikipedia.org/wiki/Help:IPA/English][/ˈwɪki/]] [[https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key][/WICK-ee/]]) is a form of [[https://en.wikipedia.org/wiki/Hypertext][hypertext]] publication on the [[https://en.wikipedia.org/wiki/Internet][internet]] which is [[https://en.wikipedia.org/wiki/Collaborative_editing][collaboratively edited]] and managed by its audience directly through a [[https://en.wikipedia.org/wiki/Web_browser][web browser]].  A typical wiki contains multiple pages that can either be edited by the public or limited to use within an organization for maintaining its internal [[https://en.wikipedia.org/wiki/Knowledge_base][knowledge base]].
+
+  Wikis are powered by [[https://en.wikipedia.org/wiki/Wiki_software][wiki software]], also known as wiki engines.  Being a form of [[https://en.wikipedia.org/wiki/Content_management_system][content management system]], these differ from other [[https://en.wikipedia.org/wiki/Web_application][web-based]] systems such as [[https://en.wikipedia.org/wiki/Blog_software][blog software]] or [[https://en.wikipedia.org/wiki/Static_site_generator][static site generators]] in that the content is created without any defined owner or leader.  Wikis have little inherent structure, allowing one to emerge according to the needs of the users.  Wiki engines usually allow content to be written using a [[https://en.wikipedia.org/wiki/Lightweight_markup_language][lightweight markup language]] and sometimes edited with the help of a [[https://en.wikipedia.org/wiki/Online_rich-text_editor][rich-text editor]].  There are dozens of different wiki engines in use, both standalone and part of other software, such as [[https://en.wikipedia.org/wiki/Bug_tracking_system][bug tracking systems]].  Some wiki engines are [[https://en.wikipedia.org/wiki/Free_and_open-source][free and open-source]], whereas others are [[https://en.wikipedia.org/wiki/Proprietary_software][proprietary]].  Some permit control over different functions (levels of access); for example, editing rights may permit changing, adding, or removing material.  Others may permit access without enforcing access control.  Further rules may be imposed to organize content.  In addition to hosting user-authored content, wikis allow those users to interact, hold discussions, and collaborate.
+
+  There are hundreds of thousands of [[https://en.wikipedia.org/wiki/List_of_wikis][wikis in use]], both public and private, including wikis functioning as [[https://en.wikipedia.org/wiki/Knowledge_management][knowledge management]] resources, [[https://en.wikipedia.org/wiki/Notetaking_software][note-taking]] tools, [[https://en.wikipedia.org/wiki/Web_community][community websites]], and [[https://en.wikipedia.org/wiki/Intranet][intranets]].  [[https://en.wikipedia.org/wiki/Ward_Cunningham][Ward Cunningham]], the developer of the first wiki software, [[https://en.wikipedia.org/wiki/WikiWikiWeb][WikiWikiWeb]], originally described wiki as "the simplest online database that could possibly work".  "[[https://en.wiktionary.org/wiki/wiki#Hawaiian][Wiki]]" (pronounced [[https://en.wikipedia.org/wiki/Help:IPA/Hawaiian][[wiki]]]) is a [[https://en.wikipedia.org/wiki/Hawaiian_language][Hawaiian]] word meaning "quick".
+
+  The [[https://en.wikipedia.org/wiki/Online_encyclopedia][online encyclopedia]] project [[https://en.wikipedia.org/wiki/Wikipedia][Wikipedia]] is the most popular wiki-based website, as well being [[https://en.wikipedia.org/wiki/List_of_most_visited_websites][one of the internet's most popular websites]], having been ranked consistently as such since at least 2007.  Wikipedia is not a single wiki but rather a collection of hundreds of wikis, with each one pertaining to a specific language.  The [[https://en.wikipedia.org/wiki/English-language_Wikipedia][English-language Wikipedia]] has the largest collection of articles, standing at 6,971,482 as of March 2025.
+#+end_quote
 * See Also
- - [[https://en.wikipedia.org/wiki/Wiki][Wiki - Wikipedia]]
- - [[https://en.wikipedia.org/wiki/Main_Page][Wikipedia, the free encyclopedia]]
- - [[https://en.wikipedia.org/wiki/The_Wiki_Way][The Wiki Way - Wikipedia]]
- - [[http://wiki.c2.com/?WikiDesignPrinciples=][Wiki Design Principles]]
- - [[http://wiki.c2.com/?WikiHistory=][Wiki History]]
- - [[http://wiki.c2.com/?WikiWikiWeb=][Wiki Wiki Web]]
+** [[id:42e86140-69c2-4b35-b605-3911e1235243][(en.wikipedia.org) Wikipedia, the free encyclopedia]]
+** [[id:046603d9-e99d-429c-b0d0-b445f67dfaf9][(en.wikipedia.org) The Wiki Way - Wikipedia]]
+** [[id:54a94e61-596d-4818-ae1b-3aaad3fc4b89][(wiki.c2.com) Wiki Design Principles]]
+** [[id:0e3f16ad-33a5-42ce-9d4c-210e96359d56][(wiki.c2.com) Wiki History]]
+** [[id:833efc06-8a3f-477b-85dd-15ca56c755e0][(wiki.c2.com) Wiki Wiki Web]]

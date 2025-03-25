@@ -5,7 +5,137 @@
 #+filetags: :package_management:lisp:operating_systems:programming:computer_science:
 
 A declarative, transactional, reproducible package manager and configuration manager using the [[id:064be3a0-bb32-4312-9868-73e9c77ba7cf][Guile]] [[id:6246f8d4-6cd4-489d-b19f-9c1142b51b60][Scheme]] implementation.  In many ways similar to [[id:3b6a267c-90c9-491e-89d2-42c365ec6574][Nix]].  Used as the basis of the GNU Guix System Distribution.
+* (guix.gnu.org) GNU Guix transactional package manager and distribution — GNU Guix :website:
+:PROPERTIES:
+:ID:       113a0446-7ae1-4370-9c39-746e2295f877
+:ROAM_REFS: https://guix.gnu.org/
+:END:
+
+#+begin_quote
+  GNU Guix is a [[https://guix.gnu.org/manual/en/html_node/Package-Management.html][package manager]] for GNU/Linux systems.  It is designed to give users *more control* over their general-purpose and specialized computing environments, and make these easier to [[https://guix.gnu.org/manual/en/html_node/Invoking-guix-time_002dmachine.html][reproduce over time]] and [[https://guix.gnu.org/manual/en/html_node/Invoking-guix-deploy.html][deploy]] to one or many devices.
+
+  [[https://guix.gnu.org/manual/en/html_node/Features.html][FEATURES]] [[https://guix.gnu.org/en/download/][DOWNLOAD]] [[https://guix.gnu.org/en/contribute/][CONTRIBUTE]]
+
+  ** Give Users Control
+
+  Users on the same machine can manage their own packages independently from each other, without superuser privileges.
+
+  [[https://guix.gnu.org/manual/en/html_node/Package-Management.html][LEARN MORE]]
+
+  ** Reproducible Outputs
+
+  Guix provides [[https://packages.guix.gnu.org/][thousands of packages]] which include desktop environments, applications, system tools, programming languages and their data and other digital artifacts which work as the building blocks for creating [[https://en.wikipedia.org/wiki/Reproducible_builds][reproducible]] shell environments, containers and systems for different computing needs.
+
+  [[https://guix.gnu.org/manual/en/html_node/Defining-Packages.html][Package]]
+
+  [[https://guix.gnu.org/manual/en/html_node/Invoking-guix-shell.html][Shell Environment]]
+
+  [[https://guix.gnu.org/manual/en/html_node/Invoking-guix-container.html][Container]]
+
+  [[https://guix.gnu.org/manual/en/html_node/System-Configuration.html][Systems]]
+
+  Build an environment today
+
+  [[https://guix.gnu.org/manual/en/html_node/Invoking-guix-time_002dmachine.html][Reproduce in time]]
+
+  Get the same environment in the future[[https://guix.gnu.org/en/blog/2024/adventures-on-the-quest-for-long-term-reproducible-deployment/][*]]
+
+  [[https://packages.guix.gnu.org/][EXPLORE PACKAGES]]
+
+  ** One Language for Everything
+
+  Use Guile Scheme APIs, including high-level embedded domain-specific languages (EDSLs) to define packages and whole-system configurations.
+
+  [[https://guix.gnu.org/manual/en/html_node/Programming-Interface.html][CHECK THE API]] [[https://gnu.org/software/guile/][WHAT'S GUILE]]
+
+  ** All of It, Free Software
+
+  Guix is a GNU Project---which respects the freedom of computer users.  You are free to use, study, modify, and share Guix and all the packages it provides.
+
+  [[https://gnu.org/philosophy/free-sw.en.html][LEARN MORE]]
+
+  ** GNU Guix in Your Field
+
+  [[https://guix.gnu.org/en/blog/tags/software-development/][SOFTWARE DEVELOPMENT]] [[https://guix.gnu.org/en/blog/tags/bioinformatics/][BIOINFORMATICS]] [[https://guix.gnu.org/en/blog/tags/high-performance-computing/][HIGH PERFORMANCE COMPUTING]] [[https://guix.gnu.org/en/blog/tags/research/][RESEARCH]] [[https://guix.gnu.org/en/blog/][ALL FIELDS...]]
+
+  ** Get Guix
+
+  You can use Guix on top of any GNU/Linux distribution of your preference.  It won't clash with your distro's package manager.
+
+  [[https://guix.gnu.org/en/download/][DOWNLOAD]]
+
+  ** Get the Guix System
+
+  A complete GNU operating system harnessing all the capabilities of the Guix software.  Spawned by Guix itself.
+
+  [[https://guix.gnu.org/manual/en/html_node/System-Installation.html][OVERVIEW]] [[https://guix.gnu.org/en/download/][DOWNLOAD]]
+
+  ** Instructional Videos
+
+  [[https://guix.gnu.org/en/videos/2020/packaging-part-one/]]
+
+  Packaging
+
+  Published Mar 28, 2020 by GNU Guix
+
+  [[https://guix.gnu.org/en/videos/2020/asking-for-help/]]
+
+  Asking for help
+
+  Published Mar 28, 2020 by GNU Guix
+
+  [[https://guix.gnu.org/en/videos/2020/system-graphical-installer/]]
+
+  Demonstration of the Guix System graphical installer
+
+  Published Apr 15, 2020 by GNU Guix
+
+  [[https://guix.gnu.org/en/videos/2020/everyday-use-of-gnu-guix-part-one/]]
+
+  Everyday use of GNU Guix
+
+  Published Mar 28, 2020 by GNU Guix
+
+  [[https://guix.gnu.org/en/videos/][ALL VIDEOS]]
+
+  ** Blog
+
+  [[https://guix.gnu.org/en/blog/][ALL POSTS]]
+
+  ** Contact
+
+  [[https://guix.gnu.org/en/contact/irc/]]
+
+  *** IRC Channel
+
+  Join the #guix channel on the Libera Chat IRC network to chat with the community about GNU Guix or to get help in real-time. ...
+
+  [[https://lists.gnu.org/mailman/listinfo/info-guix]]
+
+  *** Info Mailing List
+
+  Subscribe to the info-guix low-traffic mailing list to receive important announcements sent by the project maintainers (in English). ...
+
+  [[https://lists.gnu.org/mailman/listinfo/help-guix]]
+
+  *** Help Mailing List
+
+  Subscribe to the Help mailing list to get support from the GNU Guix community via email.  You can post messages in English though we also accept other languages. ...
+
+  [[https://guix.gnu.org/en/contact/][ALL CONTACT MEDIA]]
+#+end_quote
+* (en.wikipedia.org) GNU Guix - Wikipedia                           :website:
+:PROPERTIES:
+:ID:       8bf5777a-d3a7-48cd-8510-d5964438a3d3
+:ROAM_REFS: https://en.wikipedia.org/wiki/GNU_Guix
+:END:
+
+#+begin_quote
+  *GNU Guix* ([[https://en.wikipedia.org/wiki/Help:IPA/English][/ɡiːks/]]) is a [[https://en.wikipedia.org/wiki/Functional_programming][functional]] cross-platform [[https://en.wikipedia.org/wiki/Package_manager][package manager]] and a tool to instantiate and manage [[https://en.wikipedia.org/wiki/Unix-like][Unix-like]] operating systems, based on the [[https://en.wikipedia.org/wiki/Nix_package_manager][Nix package manager]].  Configuration and package recipes are written in [[https://en.wikipedia.org/wiki/GNU_Guile][Guile Scheme]].  The name Guix is in fact a [[https://en.wikipedia.org/wiki/Blend_word][portmanteau]] of Guile and Nix.  GNU Guix is the default package manager of the [[https://en.wikipedia.org/wiki/GNU_Guix_System][GNU Guix System]] [[https://en.wikipedia.org/wiki/GNU_variants][distribution]].
+
+  Differing from traditional [[https://en.wikipedia.org/wiki/Package_manager][package managers]], Guix (like Nix) utilizes a purely [[https://en.wikipedia.org/wiki/Functional_programming][functional]] deployment model where software is installed into unique directories generated through [[https://en.wikipedia.org/wiki/Cryptographic_hash_function][cryptographic hashes]].  All dependencies for each software are included within each hash.  This solves the problem of [[https://en.wikipedia.org/wiki/Dependency_hell][dependency hell]], allowing multiple versions of the same software to coexist which makes packages portable and [[https://en.wikipedia.org/wiki/Reproducible_builds][reproducible]].  Performing scientific computations in a Guix setup has been proposed as a promising response to the [[https://en.wikipedia.org/wiki/Replicability_crisis][replication crisis]].
+
+  The development of GNU Guix is intertwined with the [[https://en.wikipedia.org/wiki/GNU_Guix_System][GNU Guix System]], an installable operating system distribution using the [[https://en.wikipedia.org/wiki/Linux-libre][Linux-libre]] kernel and [[https://en.wikipedia.org/wiki/GNU_Shepherd][GNU Shepherd]] init system.
+#+end_quote
 * See Also
- - [[https://guix.gnu.org/][GNU Guix transactional package manager and distribution — GNU Guix]]
- - [[https://en.wikipedia.org/wiki/GNU_Guix][GNU Guix - Wikipedia]]
  - [[id:8cfffaf9-50bb-486d-b3db-98065c9de49e][Nonguix]]

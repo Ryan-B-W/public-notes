@@ -2,8 +2,17 @@
 :ID:       b78b21dc-3632-4ab1-8f48-d35e0c87b6d5
 :END:
 #+title: Memex
+#+filetags: :networking:markup:information_technology:information_management:computer_science:
 
 The Memex, short for MEMory EXpansion, is a hypothetical electromechanical device that would use microfilm and a filing system to enable quick access to a large store of information.  The idea was introduced in [[id:e5a582e4-16fb-4fd3-b182-07abf5720ee1][Vannevar Bush]]'s 1945 essay "[[id:3bd50b91-e9fa-402a-8fe9-154340bcba7a][As We May Think]]".  Commonly seen as the precursor to [[id:a0ac6689-ad9b-4a28-b630-0dd12f15cff1][hypertext]].
-* See Also
- - [[https://en.wikipedia.org/wiki/Memex][Memex - Wikipedia]]
- - [[https://en.wikipedia.org/wiki/As_We_May_Think][As We May Think - Wikipedia]]
+* (en.wikipedia.org) Memex - Wikipedia                              :website:
+:PROPERTIES:
+:ID:       f12f308d-1b63-4ee2-9618-25838fd4c7ff
+:ROAM_REFS: https://en.wikipedia.org/wiki/Memex
+:END:
+
+#+begin_quote
+  A *memex* (from "*mem*ory *ex*pansion") is a hypothetical electromechanical device for interacting with [[https://en.wikipedia.org/wiki/Microform][microform]] documents and described in [[https://en.wikipedia.org/wiki/Vannevar_Bush][Vannevar Bush]]'s 1945 article "[[https://en.wikipedia.org/wiki/As_We_May_Think][As We May Think]]".  Bush envisioned the memex as a device in which individuals would compress and store all of their books, records, and communications, "mechanized so that it may be consulted with exceeding speed and flexibility".  The individual was supposed to use the memex as an automatic personal [[https://en.wikipedia.org/wiki/Filing_cabinet][filing system]], making the memex "an enlarged intimate supplement to his memory".
+
+  The concept of the memex influenced the development of early [[https://en.wikipedia.org/wiki/Hypertext][hypertext]] systems, eventually leading to the creation of the [[https://en.wikipedia.org/wiki/World_Wide_Web][World Wide Web]], and [[https://en.wikipedia.org/wiki/Personal_knowledge_base][personal knowledge base]] software.  The hypothetical implementation depicted by Bush for the purpose of concrete illustration was based upon a document bookmark list of static [[https://en.wikipedia.org/wiki/Microfilm][microfilm]] pages and lacked a true hypertext system, where parts of pages would have internal structure beyond the common textual format.
+#+end_quote

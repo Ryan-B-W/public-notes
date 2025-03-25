@@ -2,8 +2,15 @@
 :ID:       3bd50b91-e9fa-402a-8fe9-154340bcba7a
 :END:
 #+title: As We May Think, essay by Vannevar Bush
+#+filetags: :markup:networking:information_technology:information_management:computer_science:
 
 Influential essay by [[id:e5a582e4-16fb-4fd3-b182-07abf5720ee1][Vannevar Bush]] published in July 1945 in The Atlantic.  Introduced the [[id:b78b21dc-3632-4ab1-8f48-d35e0c87b6d5][Memex]] and many of the concepts that form the basis of [[id:a0ac6689-ad9b-4a28-b630-0dd12f15cff1][hypertext]].
-* See Also
- - [[https://en.wikipedia.org/wiki/As_We_May_Think][As We May Think - Wikipedia]]
- - [[https://en.wikipedia.org/wiki/Memex][Memex - Wikipedia]]
+* (en.wikipedia.org) As We May Think - Wikipedia                    :website:
+:PROPERTIES:
+:ID:       8398abe9-9a25-4ec3-8aba-8d9f0f09dd19
+:ROAM_REFS: https://en.wikipedia.org/wiki/As_We_May_Think
+:END:
+
+#+begin_quote
+  "*As We May Think*" is a 1945 essay by [[https://en.wikipedia.org/wiki/Vannevar_Bush][Vannevar Bush]] which has been described as visionary and influential, anticipating many aspects of [[https://en.wikipedia.org/wiki/Information_society][information society]].  It was first published in /[[https://en.wikipedia.org/wiki/The_Atlantic][The Atlantic]]/ in July 1945 and republished in an abridged version in September 1945---before and after the [[https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki][atomic bombings of Hiroshima and Nagasaki]].  Bush expresses his concern for the direction of scientific efforts toward destruction, rather than understanding, and explicates a desire for a sort of [[https://en.wikipedia.org/wiki/Collective_memory][collective memory]] machine with his concept of the [[https://en.wikipedia.org/wiki/Memex][memex]] that would make knowledge more accessible, believing that it would help fix these problems.  Through this machine, Bush hoped to transform an information explosion into a knowledge explosion.
+#+end_quote

@@ -2,9 +2,37 @@
 :ID:       7cfbbdee-d0eb-47ae-8a94-d8c5aea6979c
 :END:
 #+title: TiddlyWiki
-#+filetags: :writing:information_management:
+#+filetags: :notes:markup:writing:information_management:
 
 A popular personal [[id:b99c6a7c-958b-4d70-8900-9162b935c574][Wiki]] and, by extension, [[id:d4dafaae-02cf-4a44-8fa9-afded413fe2a][personal knowledge management]] system and [[id:6992d257-971d-40c7-a617-ec82e2541206][note taking]] tool.
-* See Also
- - [[https://tiddlywiki.com/][TiddlyWiki]] website
- - [[https://en.wikipedia.org/wiki/TiddlyWiki][TiddlyWiki - Wikipedia]]
+* (tiddlywiki.com) TiddlyWiki v5.3.6 — a non-linear personal web notebook :website:
+:PROPERTIES:
+:ID:       0a386a4a-92de-47e3-ae15-210771494201
+:ROAM_REFS: https://tiddlywiki.com/
+:END:
+
+#+begin_quote
+  * Hello There
+
+  15th November 2024 at 9:08am
+
+  ** Welcome to TiddlyWiki, a unique non-linear notebook for capturing, organising and sharing complex information
+
+  Use it to keep your to-do list, to plan an essay or novel, or to organise your wedding.  Record every thought that crosses your brain, or build a flexible and responsive website.
+
+  - TiddlyWiki stores its data and code in a single HTML file, requiring no installs, no external dependencies, just a web browser
+  - TiddlyWiki lets you choose where to keep your data, guaranteeing that in the decades to come you will still be able to use the notes you take today
+  - TiddlyWiki is infinitely customisable and extensible with many plugins that add new features
+  - TiddlyWiki is the product of a collective of developers, part of an extensive community of users
+#+end_quote
+* (en.wikipedia.org) TiddlyWiki - Wikipedia                         :website:
+:PROPERTIES:
+:ID:       92df433c-f8b2-42bf-822b-9c456102e818
+:ROAM_REFS: https://en.wikipedia.org/wiki/TiddlyWiki
+:END:
+
+#+begin_quote
+  *TiddlyWiki* is a [[https://en.wikipedia.org/wiki/Personal_wiki][personal wiki]] and a non-linear notebook for organising and sharing complex information.  It is an [[https://en.wikipedia.org/wiki/Open-source_software][open-source]] [[https://en.wikipedia.org/wiki/Single_page_application][single page application]] [[https://en.wikipedia.org/wiki/Wiki][wiki]] in the form of a single [[https://en.wikipedia.org/wiki/HTML][HTML]] file that includes [[https://en.wikipedia.org/wiki/Cascading_Style_Sheets][CSS]], [[https://en.wikipedia.org/wiki/JavaScript][JavaScript]], embedded files such as images, and the text content.  It is designed to be easy to customize and re-shape depending on application.  It facilitates re-use of content by dividing it into small pieces called /Tiddlers/.
+
+  TiddlyWiki is an unusual example of a practical [[https://en.wikipedia.org/wiki/Quine_(computing)][quine]].  The idea of producing a copy of its own source code lies at the heart of TiddlyWiki's ability to independently save changes to itself.  /Quine/ is also the name of the unofficial TiddlyWiki application for iPhone/iPad.
+#+end_quote

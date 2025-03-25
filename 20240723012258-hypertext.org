@@ -2,12 +2,19 @@
 :ID:       a0ac6689-ad9b-4a28-b630-0dd12f15cff1
 :END:
 #+title: Hypertext
-#+filetags: :writing:computer_science:
+#+filetags: :markup:information_management:information_technology:writing:computer_science:
 
-A form of non-linear document collection which contains hyperlinks to other documents, other documents at specific points, or even the same document but at a specific point.  Theses hypertext documents also typically contain various forms of formatting and often contain content other than just plain text such as images, audio, and video.
+A form of non-linear document collection which contains hyperlinks to other documents, other documents at specific points, or even the same document but at a specific point.  These hypertext documents also typically contain various forms of formatting and often contain content other than just plain text such as images, audio, and video.
 
 The concept was originally conceived of by [[id:e5a582e4-16fb-4fd3-b182-07abf5720ee1][Vannevar Bush]] in 1945 and the terms hypertext and hypermedia where coined by [[id:33d5bcba-4e40-45e8-9c15-282f356046d5][Ted Nelson]] in 1963.
 
 Interestingly, [[id:aca1324c-b142-4e34-a121-a8bb0a79ddf8][Emacs]] may be the best example of fully utilizing hypertext.
-* See also
- - [[https://en.wikipedia.org/wiki/Hypertext][Hypertext - Wikipedia]]
+* (en.wikipedia.org) Hypertext - Wikipedia                          :website:
+:PROPERTIES:
+:ID:       3391d942-b1f7-4142-a28b-e0336b28089e
+:ROAM_REFS: https://en.wikipedia.org/wiki/Hypertext
+:END:
+
+#+begin_quote
+  *Hypertext* is [[https://en.wikipedia.org/wiki/E-text][text]] displayed on a [[https://en.wikipedia.org/wiki/Computer_display][computer display]] or other [[https://en.wikipedia.org/wiki/Electronic_devices][electronic devices]] with references ([[https://en.wikipedia.org/wiki/Hyperlinks][hyperlinks]]) to other text that the reader can immediately access.  Hypertext documents are interconnected by hyperlinks, which are typically activated by a [[https://en.wikipedia.org/wiki/Mouse_(computing)][mouse]] click, keypress set, or screen touch.  Apart from text, the term "hypertext" is also sometimes used to describe tables, images, and other presentational [[https://en.wikipedia.org/wiki/Content_format][content formats]] with integrated hyperlinks.  Hypertext is one of the key underlying concepts of the [[https://en.wikipedia.org/wiki/World_Wide_Web][World Wide Web]], where [[https://en.wikipedia.org/wiki/Web_page][Web pages]] are often written in the [[https://en.wikipedia.org/wiki/Hypertext_Markup_Language][Hypertext Markup Language]] (HTML).  As implemented on the Web, hypertext enables the easy-to-use publication of information over the [[https://en.wikipedia.org/wiki/Internet][Internet]].
+#+end_quote

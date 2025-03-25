@@ -4,5 +4,177 @@
 #+title: Scheme
 
 A dialect of the [[id:84ae6e85-a6a2-4133-bc53-274238081c2d][Lisp]] family of [[id:b24601aa-09df-41e1-aa7e-25ead342db34][Programming Language]].  A Lisp-1 with a single symbol namespace.  Various version of Scheme have been published as a series of academic publications starting in 1975.  Features include lexical scope, guaranteed tail-call optimization, and lazy evaluation.  Generally known for being very minimalist.
-* See Also
- - [[https://en.wikipedia.org/wiki/Scheme_(programming_language)][Scheme (programming language) - Wikipedia]]
+* (www.scheme.org) The Scheme Programming Language :scheme:lisp:programming_language:programming:computer_science:website:
+:PROPERTIES:
+:ID:       18a1ad86-a00c-437a-b253-ba0d24299574
+:ROAM_REFS: https://www.scheme.org/ https://www.scheme.org/schemers/
+:END:
+
+The new [[id:6246f8d4-6cd4-489d-b19f-9c1142b51b60][Scheme]] community site that documents a lot of Scheme resources.  It hosts [[id:20ee7228-6436-4610-9fd1-10e8a00070e9][a snapshot]] of the old schemers.org website.  The old schemers.org site redirects to [[https://www.scheme.org/schemers/]]—for now.
+
+#+begin_quote
+  * Scheme
+
+  Scheme is a classic programming language in the [[https://en.wikipedia.org/wiki/Lisp_(programming_language)][Lisp family]]. It emphasizes [[https://en.wikipedia.org/wiki/Functional_programming][functional programming]] and [[https://en.wikipedia.org/wiki/Metaprogramming][domain-specific languages]] but adapts to other styles. Known for its clean and minimalist design, Scheme is one of the longest-lived and best-studied [[https://en.wikipedia.org/wiki/Dynamic_programming_language][dynamic languages]], and has many fast and portable implementations.
+
+  From the Scheme standard reports:
+
+  : Programming languages should be designed not by piling feature on top of feature, but by removing the weaknesses and restrictions that make additional features appear necessary. Scheme demonstrates that a very small number of rules for forming expressions, with no restrictions on how they are composed, suffice to form a practical and efficient programming language that is flexible enough to support most of the major programming paradigms in use today.
+
+  ** What's new in Scheme
+
+  More on [[https://planet.scheme.org/][Planet Scheme]].
+
+  ** Language
+
+  | [[https://try.scheme.org/][Try Scheme]] | Type Scheme code and run it in your browser      |
+  | [[https://faq.scheme.org/][FAQ]]        | Frequently asked questions about Scheme          |
+  | [[https://books.scheme.org/][Books]]      | Published books                                  |
+  | [[https://cookbook.scheme.org/][Cookbook]]   | Code snippets that solve common problems         |
+  | [[https://standards.scheme.org/][Standards]]  | Revised^{n} Report on Scheme and other standards |
+  | [[https://srfi.scheme.org/][SRFI]]       | Scheme Requests for Implementation               |
+  | [[https://research.scheme.org/][Research]]   | Dive into the academic research behind Scheme    |
+
+  ** Community
+
+  | [[https://community.scheme.org/][Community]] | Scheme gathering spots around the internet               |
+  | [[https://workshop.scheme.org/][Workshop]]  | The Scheme and Functional Programming Workshop           |
+  | [[https://events.scheme.org/][Events]]    | Conferences and other meetups                            |
+  | [[https://planet.scheme.org/][Planet]]    | Blog posts from every corner of the Scheme community     |
+  | [[https://video.scheme.org/][Video]]     | Videos about Scheme                                      |
+  | [[https://lists.scheme.org/][Lists]]     | Mailing lists for email discussion of many Scheme topics |
+  | [[https://wiki.scheme.org/][Wiki]]      | Scheme community wiki                                    |
+  | [[https://groups.scheme.org/][Groups]]    | Work groups                                              |
+
+  ** Implementations
+
+  | [[https://get.scheme.org/][Get Scheme]]     | Browse and compare all known Scheme systems               |             |
+  | [[https://bigloo.scheme.org/][Bigloo]]         | Scheme-to-C and Scheme-to-JVM compiler                    |             |
+  | [[https://chez.scheme.org/][Chez Scheme]]    | Cross-module optimizing native-code compiler              | R^{6}       |
+  | [[https://chibi.scheme.org/][Chibi-Scheme]]   | Small embeddable interpreter with many optional libraries | R^{7}       |
+  | [[https://chicken.scheme.org/][CHICKEN]]        | Scheme-to-C compiler with a big, friendly community       | R^{7}       |
+  | [[https://cyclone.scheme.org/][Cyclone]]        | New Scheme-to-C compiler with native threads              | R^{7}       |
+  | [[https://gambit.scheme.org/][Gambit]]         | Concurrent, retargetable, optimizing compiler             | R^{7}       |
+  | [[https://gauche.scheme.org/][Gauche]]         | Script interpreter with many built-in libraries           | R^{7}       |
+  | [[https://gerbil.scheme.org/][Gerbil]]         | Scheme with actors and objects built on Gambit            | R^{7}       |
+  | [[https://guile.scheme.org/][Guile]]          | Main Scheme implementation of the GNU project             | R^{6} R^{7} |
+  | [[https://jazz.scheme.org/][JazzScheme]]     | Object-oriented GUI and IDE built on Gambit               |             |
+  | [[https://kawa.scheme.org/][Kawa]]           | JVM compiler with many extensions to Scheme               | R^{7}       |
+  | [[https://loko.scheme.org/][Loko]]           | Bare-metal native-code compiler                           | R^{6} R^{7} |
+  | [[https://mit.scheme.org/][MIT/GNU Scheme]] | Native-code compiler and development environment          | R^{7}       |
+  | [[https://mosh.scheme.org/][Mosh]]           | Complete R^{6}RS interpreter                              | R^{6} R^{7} |
+  | [[https://racket.scheme.org/][Racket]]         | Native-code compiler                                      | R^{6} R^{7} |
+  | [[https://s7.scheme.org/][s7]]             | Embeddable interpreter for music applications             | R^{7}       |
+  | [[https://sagittarius.scheme.org/][Sagittarius]]    | Script interpreter with many built-in libraries           | R^{6} R^{7} |
+  | [[https://scm.scheme.org/][SCM]]            | Portable C implementation that begat Guile and SLIB       |             |
+  | [[https://stklos.scheme.org/][STklos]]         | Interpreter with CLOS object-oriented GUI                 | R^{7}       |
+  | [[https://ypsilon.scheme.org/][Ypsilon]]        | Incremental native-code compiler with concurrent GC       | R^{6} R^{7} |
+
+  ** Tools
+
+  | [[https://index.scheme.org/][Index]]         | Library search using types, tags, and names |
+  | [[https://containers.scheme.org/][Containers]]    | Ready-to-run Docker containers              |
+  | [[https://docs.scheme.org/][Documentation]] | Study Scheme implementations and libraries  |
+  | [[https://man.scheme.org/][Manual pages]]  | Unix manual pages for tools and libraries   |
+  | [[https://conservatory.scheme.org/][Conservatory]]  | Preservation of old software and websites   |
+  | [[https://files.scheme.org/][Files]]         | Archive of current and historical files     |
+  | [[https://gitea.scheme.org/][Gitea]]         | Host Git repositories under Scheme.org      |
+  | [[https://go.scheme.org/][Go Scheme]]     | URL shortening service                      |
+  | [[https://jenkins.scheme.org/][Jenkins]]       | Continuous Integration (CI)                 |
+  | [[https://registry.scheme.org/][Registry]]      | Catalog of identifiers and other data       |
+
+  [[https://www.scheme.org/about/][About Scheme.org]] | [[https://www.scheme.org/source/][Source]]
+#+end_quote
+** (try.scheme.org)
+:PROPERTIES:
+:ID:       7baffabc-9c70-4bb9-b719-3519f7eb68b0
+:ROAM_REFS: https://try.scheme.org/
+:END:
+
+#+begin_quote
+  If you have programmed before but are new to Scheme, you should
+
+  to get to know the language better.
+
+  The first pane, the REPL, is where the user interacts with the interpreter.  The REPL is an ideal place to try out code snippets and debug code.
+
+  The second pane is the editor area.  It allows creating and editing files that are local to the browser and accessible to Scheme code as files in the root directory, i.e. "*=/=*".  The files will persist in the browser between sessions.  Use the "*=+=*" tab in the editor area to create new files and open existing files.
+#+end_quote
+** (conservatory.scheme.org) Welcome to schemers.org!               :website:
+:PROPERTIES:
+:ID:       20ee7228-6436-4610-9fd1-10e8a00070e9
+:ROAM_REFS: https://conservatory.scheme.org/schemers/
+:END:
+
+Snapshot of the old schemers.org site.
+
+#+begin_quote
+  =([[https://conservatory.scheme.org/schemers/Welcome/][welcome]] '(schemers . org))=
+
+  I intend this but for a Scheme of a larger Design.\\
+  --Woodward, Nat. Hist. Earth, 1723
+
+  --------------
+
+  *News Items and Announcements*
+
+  Please check out the Scheme workshops from [[http://www.schemeworkshop.org/2014/][2014]], [[http://andykeep.com/SchemeWorkshop2015/][2015]], [[http://www.schemeworkshop.org/2016/][2016]] (with [[https://www.youtube.com/playlist?list=PLoH3jteqsb2jcsSe4Ve1TDeLL5fCCiwzC][videos]]), [[http://scheme2017.namin.org/][2017]] (with [[https://www.youtube.com/playlist?list=PLnqUlCo055hWAwdO0V0lCBGfgL-3fFgvV][videos]]), [[http://www.schemeworkshop.org/2018/][2018]] (with [[https://www.youtube.com/playlist?list=PLoH3jteqsb2j9qKCH8CuNLfzJdpKxy43J][videos]]), and [[https://thomas.gilray.org/scheme-2019/][2019]] (with [[https://www.youtube.com/playlist?list=PLyrlk8Xaylp4pcRhsuZ0gEOmggCOd8GBz][videos]]).
+
+  Manuel Serrano was invited to give a seminar on Hop to [[https://www.youtube.com/watch?v=i7bc6yiJQ0I][the Collège de France]].
+
+  Now that both [[http://www.r6rs.org/][R6RS]] and [[https://small.r7rs.org/][R7RS Small]] have been ratified, work has begun on [[http://r7rs.org/][R7RS Large]].
+
+  Blogspace is alive with good Scheme articles. See [[https://planet.scheme.org/][Planet Scheme]]! You can also find some articles [[https://conservatory.scheme.org/schemers/Documents/#essays][linked]] from here.
+
+  Check out the Scheme [[https://scheme.meetup.com/][Meetup site]].
+
+  *The Regular Fare*
+
+  #+begin_example
+    (case (what-would-you-like-to-do?)
+      ((learn)
+       (choose-from FAQ
+                    textbooks
+                    videos
+                    blogs
+                    standards
+                    tutorials
+                    other documents
+                    education))
+      ((program)
+       (choose-from implementations
+                    libraries
+                    environments
+                    Reqests for Implementation (SRFI)))
+      ((socialize)
+       (choose-from ABQ Lisp/Scheme - Albuquerque, NM, USA
+                    Bay Area Lisp & Scheme - Bay Area, CA, USA (videos)
+                    Boston Lisp Announce - Boston, MA, USA
+                    Scheme UK - London, UK
+                    munich-lisp - Munich, Germany
+                    CRACL - Los Angeles, CA, USA
+                    Lambdaheads - Vienna, Austria
+                    FringeDC - Washington, DC, USA))
+      ((work)
+       (choose-from jobs))
+      ((stay-informed)
+       (choose-from events))
+      (else
+       (choose-from the lighter side
+                    wares
+                    other resources)))
+  #+end_example
+
+  (If you're looking for the fine folks of Schemers Inc., they're at [[http://www.schemers.com/][www.schemers.com]].)
+#+end_quote
+* (en.wikipedia.org) Scheme (programming language) - Wikipedia      :website:
+:PROPERTIES:
+:ID:       a5b9f3a8-9806-4a44-9162-9ac07930f2dc
+:ROAM_REFS: https://en.wikipedia.org/wiki/Scheme_(programming_language)
+:END:
+
+#+begin_quote
+  *Scheme* is a [[https://en.wikipedia.org/wiki/Programming_language_dialect][dialect]] of the [[https://en.wikipedia.org/wiki/Lisp_(programming_language)][Lisp]] family of [[https://en.wikipedia.org/wiki/Programming_language][programming languages]].  Scheme was created during the 1970s at the [[https://en.wikipedia.org/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory][MIT Computer Science and Artificial Intelligence Laboratory]] (MIT CSAIL) and released by its developers, [[https://en.wikipedia.org/wiki/Guy_L._Steele][Guy L. Steele]] and [[https://en.wikipedia.org/wiki/Gerald_Jay_Sussman][Gerald Jay Sussman]], via a series of memos now known as the [[https://en.wikipedia.org/wiki/Lambda_Papers][Lambda Papers]].  It was the first dialect of Lisp to choose [[https://en.wikipedia.org/wiki/Scope_(computer_science)#Lexical_scoping_and_dynamic_scoping][lexical scope]] and the first to require implementations to perform [[https://en.wikipedia.org/wiki/Tail-call_optimization][tail-call optimization]], giving stronger support for functional programming and associated techniques such as recursive algorithms.  It was also one of the first programming languages to support [[https://en.wikipedia.org/wiki/First-class_object][first-class]] [[https://en.wikipedia.org/wiki/Continuation][continuations]].  It had a significant influence on the effort that led to the development of [[https://en.wikipedia.org/wiki/Common_Lisp][Common Lisp]].
+
+  The Scheme language is standardized in the official [[https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers][Institute of Electrical and Electronics Engineers]] (IEEE) standard and a /de facto/ standard called the /Revised^{n} Report on the Algorithmic Language Scheme/ (R/n/RS).  A widely implemented standard is R5RS (1998).  The most recently ratified standard of Scheme is "R7RS-small" (2013).  The more expansive and modular R6RS was ratified in 2007.  Both trace their descent from R5RS; the timeline below reflects the chronological order of ratification.
+#+end_quote

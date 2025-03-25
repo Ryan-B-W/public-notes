@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       046603d9-e99d-429c-b0d0-b445f67dfaf9
+:ROAM_REFS: https://en.wikipedia.org/wiki/The_Wiki_Way
+:END:
+#+title: (en.wikipedia.org) The Wiki Way - Wikipedia
+#+filetags: :information_management:www:books:website:
+
+#+begin_quote
+  /*The Wiki Way: Quick Collaboration on the Web*/ is a 2001 book about [[https://en.wikipedia.org/wiki/Wiki][wikis]] by [[https://en.wikipedia.org/wiki/Bo_Leuf][Bo Leuf]] and [[https://en.wikipedia.org/wiki/Ward_Cunningham][Ward Cunningham]].
+
+  It was the first major book published about using wikis.  Cunningham invented wikis when he wrote [[https://en.wikipedia.org/wiki/WikiWikiWeb][WikiWikiWeb]], the first wiki website software.
+
+  The book is about how to manage wiki systems, followed by a perspective on the nature of wiki-style online communication.
+#+end_quote

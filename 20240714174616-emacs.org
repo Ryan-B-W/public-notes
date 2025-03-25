@@ -5,7 +5,66 @@
 #+filetags: :development_environment:software_development:software:emacs:lisp:programming:computer_science:
 
 An extensible text editor built using [[id:84ae6e85-a6a2-4133-bc53-274238081c2d][Lisp]].  Usually refers to the current incarnation of GNU Emacs from the FSF.  Known for including everything and the kitchen sink.  Jokingly referred to as the Emacs [[id:412bbcad-6c00-4f13-b748-d1ffde0588e1][operating system]] for how many features it packs in.  Extremely flexible given it's implemented almost entirely in [[id:eac73a7d-f14b-4ec4-bc18-08d864e6c4c0][Emacs Lisp (ELisp)]].
-* See Also
- - [[https://www.gnu.org/software/emacs/][GNU Emacs - GNU Project]]
- - [[https://en.wikipedia.org/wiki/GNU_Emacs][GNU Emacs - Wikipedia]]
- - [[https://en.wikipedia.org/wiki/Emacs][Emacs - Wikipedia]]
+* (www.gnu.org) GNU Emacs - GNU Project                             :website:
+:PROPERTIES:
+:ID:       7cce5f95-6dda-40ce-abb1-f81852bdc294
+:ROAM_REFS: https://www.gnu.org/software/emacs/
+:END:
+
+#+begin_quote
+  * GNU Emacs
+
+  ** An extensible, customizable, [[https://www.gnu.org/philosophy/free-sw.html][free/libre]] text editor — and more.
+
+  At its core is an interpreter for Emacs Lisp, a dialect of the Lisp programming language with extensions to support text editing.
+
+  [[https://www.gnu.org/software/emacs/download.html#gnu-linux][↓ GNU/Linux]] [[https://www.gnu.org/software/emacs/download.html#bsd][↓ BSDs]] [[https://www.gnu.org/software/emacs/download.html#haiku][↓ Haiku]] [[https://www.gnu.org/software/emacs/download.html#nonfree][↓ Windows]] [[https://www.gnu.org/software/emacs/download.html#nonfree][↓ macOS]] [[https://www.gnu.org/software/emacs/download.html#nonfree][↓ Android]]
+
+  ** The features of GNU Emacs include
+
+  - Content-aware editing modes, including syntax coloring, for many file types.
+  - Complete built-in documentation, including a tutorial for new users.
+  - Full [[http://unicode.org/][Unicode]] support for nearly all human scripts.
+
+  - Highly customizable, using Emacs Lisp code or a graphical interface.
+  - A wide range of functionality beyond text editing, including a [[https://www.gnu.org/software/emacs/manual/org.html][project planner]], [[https://www.gnu.org/software/emacs/manual/gnus.html][mail and news reader]], [[http://www.gnu.org/software/emacs/manual/html_node/emacs/Debuggers.html][debugger interface]], [[https://www.gnu.org/software/emacs/manual/html_node/emacs/Calendar_002fDiary.html][calendar]], [[https://www.gnu.org/software/emacs/erc.html][IRC client]], and [[https://www.gnu.org/software/emacs/further-information.html][more]].
+  - A packaging system for [[http://elpa.gnu.org/][downloading and installing]] extensions.
+
+  New to Emacs? [[https://www.gnu.org/software/emacs/tour/index.html][→ Take the tour!]]
+
+  ** Discover Emacs in video
+
+  - [[https://www.gnu.org/software/emacs/videos/emacs-rocks-15.ogg][@emacsrocks ;; episode 15"Restclient"]]
+  - [[https://www.gnu.org/software/emacs/videos/emacs-rocks-14.ogg][@emacsrocks ;; episode 14"Paredit"]]
+  - [[https://www.gnu.org/software/emacs/videos/emacs-rocks-13.ogg][@emacsrocks ;; episode 13"multiple-cursors"]]
+
+  Watch more episodes on [[http://emacsrocks.com/][Emacsrocks.com]].
+#+end_quote
+* (en.wikipedia.org) GNU Emacs - Wikipedia                          :website:
+:PROPERTIES:
+:ID:       a01395d4-51ce-4ad4-a918-66a0a9c1c00b
+:ROAM_REFS: https://en.wikipedia.org/wiki/GNU_Emacs
+:END:
+
+#+begin_quote
+  *GNU Emacs* is a [[https://en.wikipedia.org/wiki/Text_editor][text editor]] and suite of [[https://en.wikipedia.org/wiki/Free_software][free software]] tools.  Its development began in 1984 by [[https://en.wikipedia.org/wiki/GNU_Project][GNU Project]] founder [[https://en.wikipedia.org/wiki/Richard_Stallman][Richard Stallman]], based on the [[https://en.wikipedia.org/wiki/Emacs][Emacs]] editor developed for [[https://en.wikipedia.org/wiki/Unix][Unix]] operating systems.  GNU Emacs has been a central component of the [[https://en.wikipedia.org/wiki/GNU][GNU]] project and a flagship project of the [[https://en.wikipedia.org/wiki/Free_software][free software]] movement.
+
+  The program's tagline is "the extensible self-documenting text editor." Most functionality in GNU Emacs is implemented in user-accessible [[https://en.wikipedia.org/wiki/Emacs_Lisp][Emacs Lisp]], allowing deep extensibility directly by users and through community-contributed packages.  Its built-in features include a file browser and editor ([[https://en.wikipedia.org/wiki/Dired][Dired]]), an advanced calculator (Calc), an email client and news reader ([[https://en.wikipedia.org/wiki/Gnus][Gnus]]), a [[https://en.wikipedia.org/wiki/Language_Server_Protocol][Language Server Protocol]] integration, and the productivity system [[https://en.wikipedia.org/wiki/Org-mode][Org-mode]].  A large community of users have contributed extensions such as the [[https://en.wikipedia.org/wiki/Git][Git]] interface [[https://en.wikipedia.org/wiki/Magit][Magit]], the [[https://en.wikipedia.org/wiki/Vim_(text_editor)][Vim]] emulation layer Evil, several search frameworks, the window manager EXWM, and tools for working with a wide range of programming languages.
+#+end_quote
+* (en.wikipedia.org) Emacs - Wikipedia                              :website:
+:PROPERTIES:
+:ID:       64098b06-4ecb-4f27-b2d6-4ade431d1207
+:ROAM_REFS: https://en.wikipedia.org/wiki/Emacs
+:END:
+
+#+begin_quote
+  *Emacs* ([[https://en.wikipedia.org/wiki/Help:IPA/English][/ˈiːmæks/]]), originally named *EMACS* (an acronym for "Editor Macros"), is a family of [[https://en.wikipedia.org/wiki/Text_editor][text editors]] that are characterized by their [[https://en.wikipedia.org/wiki/Extensibility][extensibility]].  The manual for the most widely used variant, [[https://en.wikipedia.org/wiki/GNU_Emacs][GNU Emacs]], describes it as "the extensible, customizable, self-documenting, real-time display editor".  Development of the first Emacs began in the mid-1970s, and work on GNU Emacs, directly descended from the original, is ongoing; its latest version is 30.1, released February 2025.
+
+  Emacs has over 10,000 built-in commands and its [[https://en.wikipedia.org/wiki/User_interface][user interface]] allows the user to combine these commands into [[https://en.wikipedia.org/wiki/Macro_(computer_science)][macros]] to automate work.  Implementations of Emacs typically feature a [[https://en.wikipedia.org/wiki/Dialect_(computing)][dialect]] of the [[https://en.wikipedia.org/wiki/Lisp_(programming_language)][Lisp]] programming language, allowing users and developers to write new commands and applications for the editor.  Extensions have been written to, among other things, manage [[https://en.wikipedia.org/wiki/Dired][files]], [[https://en.wikipedia.org/wiki/Secure_Shell][remote access]], [[https://en.wikipedia.org/wiki/Gnus][e-mail]], [[https://en.wikipedia.org/wiki/Org-mode][outlines]], [[https://en.wikipedia.org/wiki/EMMS_(media_player)][multimedia]], [[https://en.wikipedia.org/wiki/Magit][Git]] integration, [[https://en.wikipedia.org/wiki/RSS][RSS]] feeds, and [[https://en.wikipedia.org/wiki/Collaborative_editing][collaborative editing]], as well as implementations of /[[https://en.wikipedia.org/wiki/ELIZA][ELIZA]]/, /[[https://en.wikipedia.org/wiki/Pong][Pong]]/, /[[https://en.wikipedia.org/wiki/Conway's_Game_of_Life][Conway's Life]]/, /[[https://en.wikipedia.org/wiki/Snake_(video_game_genre)][Snake]]/, /[[https://en.wikipedia.org/wiki/Dunnet_(video_game)][Dunnet]]/, and /[[https://en.wikipedia.org/wiki/Tetris][Tetris]]/.
+
+  The original EMACS was written in 1976 by [[https://en.wikipedia.org/wiki/David_A._Moon][David A. Moon]] and [[https://en.wikipedia.org/wiki/Guy_L._Steele_Jr.][Guy L. Steele Jr.]] as a set of macros for the [[https://en.wikipedia.org/wiki/TECO_(text_editor)][TECO]] editor.  It was inspired by the ideas of the TECO-macro editors TECMAC and TMACS.
+
+  The most popular, and most ported, version of Emacs is GNU Emacs, which was created by [[https://en.wikipedia.org/wiki/Richard_Stallman][Richard Stallman]] for the [[https://en.wikipedia.org/wiki/GNU_Project][GNU Project]].  [[https://en.wikipedia.org/wiki/XEmacs][XEmacs]] is a variant that [[https://en.wikipedia.org/wiki/Fork_(software_development)][branched]] from GNU Emacs in 1991.  GNU Emacs and XEmacs use similar Lisp dialects and are, for the most part, compatible with each other.  XEmacs development is inactive.
+
+  [[https://en.wikipedia.org/wiki/GNU_Emacs][GNU Emacs]] is, along with [[https://en.wikipedia.org/wiki/Vi_(text_editor)][vi]], one of the two main contenders in the traditional [[https://en.wikipedia.org/wiki/Editor_war][editor wars]] of [[https://en.wikipedia.org/wiki/Unix][Unix]] culture.  GNU Emacs is among the oldest [[https://en.wikipedia.org/wiki/Free_and_open_source][free and open source]] projects still under development.
+#+end_quote

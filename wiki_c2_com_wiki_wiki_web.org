@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ID:       833efc06-8a3f-477b-85dd-15ca56c755e0
+:ROAM_REFS: http://wiki.c2.com/?WikiWikiWeb
+:END:
+#+title: (wiki.c2.com) Wiki Wiki Web
+#+filetags: :information_management:www:website:
+
+#+begin_quote
+  * Wiki Wiki Web
+
+  This website and the software it runs on were created by [[http://wiki.c2.com/?WardCunningham][WardCunningham]] for the [[http://wiki.c2.com/?PortlandPatternRepository][PortlandPatternRepository]].  It is home to an [[http://wiki.c2.com/?InformalHistoryOfProgrammingIdeas][InformalHistoryOfProgrammingIdeas]] as well as a large volume of material recording related discourses and collaboration between its readers.
+
+  The content is written by the users -- people like you and me.  Anyone can change any page or create new pages.  Read the [[http://wiki.c2.com/?TextFormattingRules][TextFormattingRules]] to find out how, and then go to the [[http://wiki.c2.com/?WikiWikiSandbox][WikiWikiSandbox]] to try it yourself.  Please use the [[http://wiki.c2.com/?WikiWikiSandbox][WikiWikiSandbox]] if you want to experiment with how editing works.  If you make a page you don't want to keep, just replace its text with the word "delete".
+
+  This website is the first ever "wiki", where content can be edited by any person.  All other wikis, including Wikipedia and Wikiquote and Wiktionary, are descended from it.  Wikipedia is now the fifth most visited website according to Alexa (Rank).
+
+  Some starting points:
+
+  - [[http://wiki.c2.com/?NewUserPages][NewUserPages]]
+  - [[http://wiki.c2.com/?TipsForBeginners][TipsForBeginners]]
+  - [[http://wiki.c2.com/?OneMinuteWiki][OneMinuteWiki]]
+  - [[http://wiki.c2.com/?TextFormattingRules][TextFormattingRules]]
+  - [[http://wiki.c2.com/?StartingPoints][StartingPoints]]
+
+  For more information about the software or running your own [[http://wiki.c2.com/?WikiWikiWeb][WikiWikiWeb]]:
+
+  - [[http://wiki.c2.com/?MoreAboutMechanics][MoreAboutMechanics]]
+  - [[http://wiki.c2.com/?WikiWikiClones][WikiWikiClones]]
+  - [[http://wiki.c2.com/?WikiWikiWebFaq][WikiWikiWebFaq]]
+  - [[http://wiki.c2.com/?WikiGettingStartedFaq][WikiGettingStartedFaq]]
+
+  To read more about the [[http://wiki.c2.com/?WikiWikiWeb][WikiWikiWeb]] itself:
+
+  - [[http://wiki.c2.com/?WikiDesignPrinciples][WikiDesignPrinciples]]
+  - [[http://wiki.c2.com/?WhyWikiWorks][WhyWikiWorks]] and [[http://wiki.c2.com/?WhyWikiWorksNot][WhyWikiWorksNot]].
+  - [[http://wiki.c2.com/?WikiBase][WikiBase]] hosts the original pages from the earliest wiki.
+
+  Awards:
+
+  - [[http://wiki.c2.com/?WikiInTheNews][WikiInTheNews]]
+  - [[http://wiki.c2.com/?WikiWikiKudos][WikiWikiKudos]]
+
+  Other Wikis:
+
+  - Wikipedia ([[http://www.wikipedia.org/]])
+  - [[http://wikiindex.org/Category:Wiki_Lists]]
+#+end_quote
