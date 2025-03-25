@@ -23,6 +23,7 @@ Useful pieces of software.
 **** [[id:ab3c89dd-8ffe-4c14-a741-e881bbe666f9][D2]]
 *** Images & Graphics
 **** [[id:46e818d9-aa7a-4eca-8dbc-4571907d53f1][SvgPathEditor]]
+**** [[id:4304f185-6909-47c6-a8ee-55725129fd12][Hugin]]
 ** Management
 *** [[id:36b8a2f5-7eab-4ae8-9a1f-1a18936bd48c][Calibre]]
 * Programming

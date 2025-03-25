@@ -1,0 +1,51 @@
+:PROPERTIES:
+:ID:       823484ed-a8a3-4e42-aab2-778820fc9795
+:ROAM_REFS: https://www.socallinuxexpo.org/scale/18x/presentations/i-cant-get-no-satisfaction-can-sat-solvers-resolve-dependency-hell
+:END:
+#+title: (www.socallinuxexpo.org) (I can't get no) satisfaction: Can SAT-solvers resolve dependency hell? | 18x
+#+filetags: :mathematics:programming:software_development:presentation:website:
+
+#+begin_quote
+  * (I can't get no) satisfaction: Can SAT-solvers resolve dependency hell?
+
+  [[https://www.socallinuxexpo.org/scale/18x/speakers/sean-marquez][Sean Marquez]]
+
+  Audience: [[https://www.socallinuxexpo.org/scale/18x/audience-level/developer][Developer]]
+
+  Topic: [[https://www.socallinuxexpo.org/scale/18x/track/developer][Developer]]
+
+  Whether you're a software engineer or data scientist, dealing with dependency hell is often an unavoidable problem when building complex projects that require 3rd packages.  Most package managers alleviate these pain points by implementing a dependency resolver.  Because dependency resolution can be modeled as an NP-complete problem, one such promising dependency resolver is a boolean satisfiability (SAT) solver.  This talk will explore a classic case of dependency hell, known as the diamond dependency problem, and if SAT-solvers are adequate enough to address these issues.
+
+  Presentation Link: [[https://docs.google.com/presentation/d/1H5PnAzLDLeENeWkM7d409mdni0eRq9PdhSaQ3sc1u1w/edit][(I can't get no) satisfaction: Can SAT-solvers resolve dependency hell?]]
+
+  Room: Ballroom C
+
+  Time: Sunday, March 8, 2020 - 13:30 to 14:30
+
+  Audio/Video: [[https://youtu.be/EADX8Uki0zM?t=9229]]
+#+end_quote
+* (docs.google.com) (I can't get no) satisfaction Can SAT-solvers resolve dependency hell? - Google Slides :mime_type_application_vnd_oasis_opendocument_presentation:ATTACH:
+:PROPERTIES:
+:ID:       0b3b041d-bdb7-43a0-a7c4-6c54af188f3f
+:ROAM_REFS: https://docs.google.com/presentation/d/1H5PnAzLDLeENeWkM7d409mdni0eRq9PdhSaQ3sc1u1w/edit
+:END:
+* (www.youtube.com) Ballroom C Sunday Mar. 08 - SCaLE 18x - YouTube   :video:
+:PROPERTIES:
+:ID:       65a564d8-a8eb-4cc0-9242-4ee1f6544728
+:ROAM_REFS: https://www.youtube.com/watch?v=EADX8Uki0zM&t=9229s https://youtu.be/EADX8Uki0zM?t=9229
+:END:
+
+#+begin_quote
+  * Ballroom C Sunday Mar. 08 - SCaLE 18x
+
+  [[https://www.youtube.com/@socallinuxexpo][Southern California Linux Expo]]
+
+  SCaLE is the largest community-run open-source and free software conference in North America.  It is held annually in Pasadena.
+
+  11:30 AM to 12:30 PM PDT: You really don't need javascript [[https://www.socallinuxexpo.org/scale/18x/presentations/you-really-dont-need-javascript]]\\
+  01:30 PM to 02:30 PM PDT: (I can't get no) satisfaction: Can SAT-solvers resolve dependency hell? [[https://www.socallinuxexpo.org/scale/18x/presentations/i-cant-get-no-satisfaction-can-sat-solvers-resolve-dependency-hell]]\\
+  03:00 PM to 04:00 PM PDT: Testing the Performance of Websites and Mobile-Apps [[https://www.socallinuxexpo.org/scale/18x/presentations/testing-performance-websites-and-mobile-apps]]\\
+  04:30 PM to 05:30 PM PDT: The Young Man And The C [[https://www.socallinuxexpo.org/scale/18x/presentations/young-man-and-c]]
+
+  Southern California Linux Expo: [[https://www.socallinuxexpo.org/scale/18x][https://www.socallinuxexpo.org/scale/18x]]
+#+end_quote

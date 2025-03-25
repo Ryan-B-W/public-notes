@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ID:       4304f185-6909-47c6-a8ee-55725129fd12
+:END:
+#+title: Hugin
+#+filetags: :open_source:image_editing:graphics:software:
+
+[[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][Open-source]] panoramic/mosaic image stitching software for making panoramic images.
+* (hugin.sourceforge.io) Hugin - Panorama photo stitcher            :website:
+:PROPERTIES:
+:ID:       79baf9f8-eacc-4757-91d0-3e8314c6411f
+:ROAM_REFS: https://hugin.sourceforge.io/
+:END:
+
+#+begin_quote
+  * Hugin - Panorama photo stitcher
+
+  Goal: an easy to use cross-platform panoramic imaging toolchain based on [[http://panotools.sourceforge.net/][Panorama Tools]].
+
+  With Hugin you can assemble a mosaic of photographs into a complete immersive panorama, stitch any series of overlapping pictures and much more.
+#+end_quote
+* (sourceforge.net) Hugin download | SourceForge.net                :website:
+:PROPERTIES:
+:ID:       bf949e6b-d1a9-41a3-a431-15b5062c9cd4
+:ROAM_REFS: https://sourceforge.net/projects/hugin/
+:END:
+
+#+begin_quote
+  *** Features
+
+  - panorama
+  - stitching
+  - overlapping images
+#+end_quote
+* (hg.code.sf.net) Mercurial Repository: p/hugin/hugin: log         :website:
+:PROPERTIES:
+:ID:       05e4ef5d-2f2f-4377-8e94-13426c70a1a1
+:ROAM_REFS: http://hg.code.sf.net/p/hugin/hugin
+:END:
+* (en.wikipedia.org) Hugin (software) - Wikipedia                   :website:
+:PROPERTIES:
+:ID:       5f11a8c5-1c37-40fd-9653-cabb038f4405
+:ROAM_REFS: https://en.wikipedia.org/wiki/Hugin_(software)
+:END:
+
+#+begin_quote
+  *Hugin* ([[https://en.wikipedia.org/wiki/Help:IPA/English][/ˈhʊɡɪn/]]) is a cross-platform [[https://en.wikipedia.org/wiki/Open-source_software][open source]] [[https://en.wikipedia.org/wiki/Panoramic_photography][panorama]] photo [[https://en.wikipedia.org/wiki/Image_stitching][stitching]] and [[https://en.wikipedia.org/wiki/High_dynamic_range_imaging][HDR]] merging program developed by Pablo d'Angelo and others.  It is a [[https://en.wikipedia.org/wiki/GUI][GUI]] front-end for Helmut Dersch's [[https://en.wikipedia.org/wiki/Panorama_Tools][Panorama Tools]] and Andrew Mihal's /[[https://en.wikipedia.org/wiki/Enblend][Enblend]]/ and /Enfuse/.  Stitching is accomplished by using several overlapping photos taken from the same location, and using control points to align and transform the photos so that they can be blended together to form a larger image.  Hugin allows for the easy (optionally automatic) creation of control points between two images, optimization of the image transforms along with a preview window so the user can see whether the panorama is acceptable.  Once the preview is correct, the panorama can be fully stitched, transformed and saved in a standard image format.
+#+end_quote

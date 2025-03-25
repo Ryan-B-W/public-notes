@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       a6217c3e-4523-470f-8345-3544c45058d1
+:ROAM_REFS: https://fprime.jpl.nasa.gov/
+:END:
+#+title: (fprime.jpl.nasa.gov) F Prime
+#+filetags: :aerospace:nasa:open_source:software:website:
+
+#+begin_quote
+  *F Prime*: A software ecosystem enabling the rapid development and deployment of embedded systems for spaceflight applications.
+
+  [[https://fprime.jpl.nasa.gov/overview][Overview]] [[https://fprime.jpl.nasa.gov/latest/docs/getting-started/installing-fprime/][Install F´]] [[https://fprime.jpl.nasa.gov/latest/docs/tutorials][Tutorials]] [[https://fprime.jpl.nasa.gov/latest/docs/user-manual][User Manual]]
+#+end_quote
