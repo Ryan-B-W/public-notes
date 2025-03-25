@@ -1,0 +1,73 @@
+:PROPERTIES:
+:ID:       329e08b2-df49-4f98-864a-30a0f226cd3b
+:END:
+#+title: WeeChat
+#+filetags: :communication:networking:software:
+
+Terminal based [[id:ea4ebd61-37f7-4427-a46c-c0051e16ca97][IRC]] client.
+* WeeChat, the extensible chat client
+:PROPERTIES:
+:ID:       79b2e6ca-57b2-4059-bf89-4dbecd545839
+:ROAM_REFS: https://weechat.org/
+:END:
+
+#+begin_quote
+  WeeChat, the extensible chat client.
+  Fast — Light — Free software
+#+end_quote
+** WeeChat :: documentation
+:PROPERTIES:
+:ID:       40fd874a-392a-400c-b66b-296e12549df9
+:ROAM_REFS: https://weechat.org/doc/
+:END:
+
+#+begin_quote
+  Which document to start with?
+
+  New to WeeChat or have questions? → Quick Start guide + FAQ.
+  Want to learn all features in WeeChat? → User's guide + Wiki.
+  Want to write a script for WeeChat? → Scripting guide + Plugin API reference.
+  Want to write a remote interface via relay? → Relay protocol.
+  Want to contribute to WeeChat source code? → Developer's guide.
+
+  *Important*: if you're compiling from git main branch or using the development version, please go to the Development page.
+#+end_quote
+** WeeChat :: scripts
+:PROPERTIES:
+:ID:       4ef59efb-3a86-4273-8b2a-9ff6ee18c109
+:ROAM_REFS: https://weechat.org/scripts/
+:END:
+
+#+begin_quote
+  WeeChat official scripts
+
+  This page shows a collection of WeeChat scripts written by external contributors, which can be installed directly in WeeChat with the command =/script install <name>=.
+  WeeChat developers are *NOT RESPONSIBLE* for problems caused by one of these scripts: you could experience problems like memory leaks, slowdowns, or even *security problems*, you are warned!
+  You can contribute by adding/updating scripts or reporting issues in the GitHub repository: https://github.com/weechat/scripts
+#+end_quote
+*** weechat/scripts: Official scripts for WeeChat.
+:PROPERTIES:
+:ID:       f7e958f2-ab62-41b9-b117-c05ad94c758f
+:ROAM_REFS: https://github.com/weechat/scripts
+:END:
+
+#+begin_quote
+  WeeChat official scripts
+
+  These official scripts can be installed with command =/script install <name>= in WeeChat.
+  They are also displayed on https://weechat.org/scripts/.
+#+end_quote
+* weechat/weechat: The extensible chat client.
+:PROPERTIES:
+:ID:       40b3e0f4-bcf6-4d58-9e89-7bb1cd315438
+:ROAM_REFS: https://github.com/weechat/weechat
+:END:
+
+#+begin_quote
+  WeeChat (Wee Enhanced Environment for Chat) is a free chat client, fast and light, designed for many operating systems.
+  It is highly customizable and extensible with scripts.
+  Homepage: https://weechat.org/
+#+end_quote
+* See Also
+** IRC
+ - [[irc:libera.chat#weechat]]

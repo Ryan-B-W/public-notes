@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       04583ba5-6f1a-44bb-aeca-db27075c69fc
+:END:
+#+title: Difftastic
+#+filetags: :programming:software_development:software:
+
+Structural diff tool for comparing files based on syntax using tree-sitter.
+* Difftastic, a structural diff :programming:software_development:software:website:
+:PROPERTIES:
+:ID:       a0aba15e-a668-43c0-8a92-7278c7f1b7f3
+:ROAM_REFS: https://difftastic.wilfred.me.uk/
+:END:
+
+#+begin_quote
+  a structural diff tool that understands syntax
+
+  Difftastic is a CLI diff tool that compares files based on their syntax, not line-by-line.  Difftastic produces accurate diffs that are easier for humans to read.
+#+end_quote
+* Wilfred/difftastic: a structural diff that understands syntax 🟥🟩 :website:programming:software_development:software:
+:PROPERTIES:
+:ID:       fe4dac4d-2918-4c03-a001-bc24a6cf974b
+:ROAM_REFS: https://github.com/Wilfred/difftastic
+:END:
+
+#+begin_quote
+  Difftastic is a structural diff tool that compares files based on their syntax.
+#+end_quote

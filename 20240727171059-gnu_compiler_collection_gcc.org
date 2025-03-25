@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       c40f8163-bc08-4dcc-b9b6-b53ee8f6ef02
+:END:
+#+title: GNU Compiler Collection (GCC)
+#+filetags: :development_environment:cpp_lang:c_lang:software_development:software:programming:gnu:computer_science:
+
+The GNU Compiler Collection.  One of two major open-source compilers.
+* GCC Manual :development_environment:cpp_lang:c_lang:software_development:software:programming:gnu:computer_science:
+:PROPERTIES:
+:ID:       be5a8cd5-7ebe-4b50-b84f-a89d8ff132cc
+:ROAM_REFS: https://gcc.gnu.org/onlinedocs/gcc/ https://gcc.gnu.org/onlinedocs/gcc-14.1.0/gcc/
+:END:

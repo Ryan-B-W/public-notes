@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       e5a582e4-16fb-4fd3-b182-07abf5720ee1
+:END:
+#+title: Vannevar Bush
+#+filetags: :person:biographic:
+
+American inventor, engineer, and science administrator.  During World War II headed the U.S. Office of Scientific Research and Development (OSRD) and through which oversaw early stages of the Manhattan Project.  Was partially responsible for the movement that led to the founding of the National Science Foundation (NSF) which is a partial successor agency to the OSRD.  Invented the concept of the [[id:b78b21dc-3632-4ab1-8f48-d35e0c87b6d5][Memex]], which led directly to [[id:a0ac6689-ad9b-4a28-b630-0dd12f15cff1][hypertext]], in his 1945 essay "As We May Think".
+* See Also
+ - [[https://en.wikipedia.org/wiki/Vannevar_Bush][Vannevar Bush - Wikipedia]]

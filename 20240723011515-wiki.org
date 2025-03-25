@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       b99c6a7c-958b-4d70-8900-9162b935c574
+:END:
+#+title: Wiki
+#+filetags: :writing:information_management:
+
+A system, typically website, that uses a simple markup and editing tools to build a [[id:a0ac6689-ad9b-4a28-b630-0dd12f15cff1][hypertext]] (non-linear connected) [[id:d4dafaae-02cf-4a44-8fa9-afded413fe2a][knowledge base]] in a collaborative way.
+* See Also
+ - [[https://en.wikipedia.org/wiki/Wiki][Wiki - Wikipedia]]
+ - [[https://en.wikipedia.org/wiki/Main_Page][Wikipedia, the free encyclopedia]]
+ - [[https://en.wikipedia.org/wiki/The_Wiki_Way][The Wiki Way - Wikipedia]]
+ - [[http://wiki.c2.com/?WikiDesignPrinciples=][Wiki Design Principles]]
+ - [[http://wiki.c2.com/?WikiHistory=][Wiki History]]
+ - [[http://wiki.c2.com/?WikiWikiWeb=][Wiki Wiki Web]]

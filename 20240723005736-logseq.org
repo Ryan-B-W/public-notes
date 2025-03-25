@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       7698e55e-4120-42e8-87d9-c5918baf887b
+:END:
+#+title: Logseq
+#+filetags: :writing:information_management:
+
+Logseq is [[id:d4dafaae-02cf-4a44-8fa9-afded413fe2a][Personal Knowledge Management]] system and [[id:6992d257-971d-40c7-a617-ec82e2541206][Note Taking]] application.  It was inspired by [[id:b83f6ef7-85bc-4465-ac86-94fe8d3efbec][Roam Research]], [[id:5ab4a0b0-95e2-40cf-b924-709db3115d48][Org Mode]], [[id:7cfbbdee-d0eb-47ae-8a94-d8c5aea6979c][TiddlyWiki]], and others.
+* See Also
+ - [[https://logseq.com/][Logseq]] website
+ - [[https://github.com/logseq/logseq][GitHub.com/logseq/logseq]]

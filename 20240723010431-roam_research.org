@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       b83f6ef7-85bc-4465-ac86-94fe8d3efbec
+:END:
+#+title: Roam Research
+#+filetags: :writing:information_management:
+
+A [[id:d4dafaae-02cf-4a44-8fa9-afded413fe2a][personal knowledge management]] system and [[id:6992d257-971d-40c7-a617-ec82e2541206][note taking]] tool.  It is a commercial and proprietary tool with a subscription [[id:4b177854-1711-41a2-8ef0-7a2208174234][business]] model.
+* See Also
+ - [[https://roamresearch.com/][Roam Research]] website
+ - [[https://en.wikipedia.org/wiki/Roam_(software)][Roam (software) - Wikipedia]]

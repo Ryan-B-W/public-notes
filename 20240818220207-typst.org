@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       6cc53007-9c02-428c-8cc5-7864ad1c9eb8
+:END:
+#+title: Typst
+#+filetags: :open_source:typesetting:software:
+
+Markup-based typesetting system.
+* See Also
+** Typst: Compose papers faster    :website:open_source:typesetting:software:
+:PROPERTIES:
+:ID:       7964740c-1a28-4933-8fb5-afb63309dde9
+:ROAM_REFS: https://typst.app/
+:END:
+** typst/typst: A new markup-based typesetting system that is powerful and easy to learn. :open_source:typesetting:software:website:
+:PROPERTIES:
+:ID:       619ec052-bacf-4070-85b2-49c864e3f353
+:ROAM_REFS: https://github.com/typst/typst
+:END:
+
+#+begin_quote
+  Typst is a new markup-based typesetting system that is designed to be as powerful as LaTeX while being much easier to learn and use.  Typst has:
+   - Built-in markup for the most common formatting tasks
+   - Flexible functions for everything else
+   - A tightly integrated scripting system
+   - Math typesetting, bibliography management, and more
+   - Fast compile times thanks to incremental compilation
+   - Friendly error messages in case something goes wrong
+  This repository contains the Typst compiler and its CLI, which is everything you need to compile Typst documents locally.  For the best writing experience, consider signing up to our collaborative online editor for free.
+#+end_quote

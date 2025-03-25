@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       cd0fff7f-2afb-44a8-9a1a-f4082a62d9a5
+:END:
+#+title: Bullet Journal
+#+filetags: :information_management:
+
+The Bullet Journal is an organizational method revolving around a bulleted list method of [[id:6992d257-971d-40c7-a617-ec82e2541206][note taking]] in a journal with an index, daily logs, and any combination of other sections including but not limited to future log, monthly log, weekly log, collections, and any number of other custom additions.
+
+Some aspects of the system have passing similarities to the [[id:0b355b67-af80-4908-8f9d-04fc0052ed23][Zettelkasten]] method.
+* See Also
+** (bulletjournal.com) Bullet Journal                               :website:
+:PROPERTIES:
+:ID:       32dd3bd3-c98b-4c6a-baf2-771473b3d042
+:ROAM_REFS: https://bulletjournal.com/
+:END:
+
+#+begin_quote
+  Bullet Journal® (aka Bujo) is a simple life operating system.  It will meet you wherever you are to help you process the past, organize the present, and author your future.  All you need is pen and paper.
+#+end_quote
+* (www.youtube.com) Bullet journaling - YouTube      :playlist:video:website:
+:PROPERTIES:
+:ID:       c151cf4a-304d-4026-a249-df58d1ebbb5c
+:ROAM_REFS: https://www.youtube.com/playlist?list=PLhCCA2ix8Du-7Zv7mmhiEr_wy3IQBLAAj
+:END:
+
+Personal playlist of bullet journaling method YouTube videos.
+* (web.archive.org) Learn - Bullet Journal                          :website:
+:PROPERTIES:
+:ID:       858be912-d6ae-48d1-9753-df19b0c423f3
+:ROAM_REFS: https://web.archive.org/web/20210302131948/https:/bulletjournal.com/pages/learn
+:END:
+
+Old version of the bulletjournal.com site on The Internet Archive Wayback Machine before the content was redesigned.

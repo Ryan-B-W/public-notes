@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       95665463-a8fa-4262-bf6b-ca38650e1faa
+:END:
+#+title: Organice
+#+filetags: :open_source:emacs:information_management:software:
+
+[[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][Open-source]], [[id:05f2a17c-4ceb-42fa-bcc8-16d61473804b][web]]-based, mobile-first interface to [[id:5ab4a0b0-95e2-40cf-b924-709db3115d48][Org-mode]].
+* organice - keep your life nicely organized :open_source:information_management:emacs:software:website:
+:PROPERTIES:
+:ID:       00a5523e-98e7-4303-8ddc-76e01788b8b2
+:ROAM_REFS: https://organice.200ok.ch/
+:END:
+
+#+begin_quote
+  organice is the best way to get stuff done
+  Whether you're planning multiple work projects, sharing a shopping list with your partner or you're planing a holiday, organice is here to help you complete all your personal and professional tasks.
+  organice is Free and Open Source software that works on top of [[id:5ab4a0b0-95e2-40cf-b924-709db3115d48][Org mode]] files.
+#+end_quote

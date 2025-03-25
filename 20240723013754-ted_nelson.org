@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       33d5bcba-4e40-45e8-9c15-282f356046d5
+:END:
+#+title: Ted Nelson
+#+filetags: :person:biographic:
+
+American pioneer in information technology, a philosopher, and sociologist.  Known for coining the terms [[id:a0ac6689-ad9b-4a28-b630-0dd12f15cff1][hypertext]] and hypermedia and for his [[id:8482b0a5-5e32-4745-af93-749e79998e28][Project Xanadu]].
+* See Also
+ - [[https://en.wikipedia.org/wiki/Ted_Nelson][Ted Nelson - Wikipedia]]

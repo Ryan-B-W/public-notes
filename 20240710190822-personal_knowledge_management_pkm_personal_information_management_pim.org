@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       d4dafaae-02cf-4a44-8fa9-afded413fe2a
+:END:
+#+title: Personal Information Management (PIM) & Personal Knowledge Management (PKM)
+#+filetags: :writing:information_management:
+
+Personal Information Management (PIM) is the study and implementation of systems for creating, storing, organizing, maintaining, retrieving, and using information for personal use.  Personal Knowledge Management (PKM) could be considered a subdomain of PIM.  Personal Knowledge Management Systems (PKMS) are systems to facilitate the above.
+* [[info:org][Org Mode]]
+A built-in document format and set of accompanying tooling in Emacs for managing information and notes.  Outside of the tree-like structure of the documents, lacks any specific structure to facilitate a PKMS.
+* [[id:0b355b67-af80-4908-8f9d-04fc0052ed23][Zettelkasten]]
+* [[id:ad5b1807-db6f-47de-b957-2537a489021c][Org Roam]]
+* [[id:cd0fff7f-2afb-44a8-9a1a-f4082a62d9a5][Bullet Journal]]
+* See Also
+[[id:6992d257-971d-40c7-a617-ec82e2541206][Note Taking Systems]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       fe3afedb-9d76-4c36-a529-3dfc6709f995
+:END:
+#+title: HTML (Hypertext Markup Language)
+#+filetags: :file_formats:www:markup:
+
+Widely used markup format used for the [[id:05f2a17c-4ceb-42fa-bcc8-16d61473804b][World Wide Web]].  Frequently used in conjunction with [[id:fe02b652-aca5-4812-8cf1-fe4243695490][CSS]] and [[id:db0939e6-0c2e-4bb0-a626-2114209235af][JavaScript]].
+* (en.wikipedia.org) HTML - Wikipedia                               :website:
+:PROPERTIES:
+:ID:       adde5dfd-df3b-4019-887f-289037487d41
+:ROAM_REFS: https://en.wikipedia.org/wiki/HTML
+:END:
+
+#+begin_quote
+  *Hypertext Markup Language* (*HTML*) is the standard [[https://en.wikipedia.org/wiki/Markup_language][markup language]] for documents designed to be displayed in a [[https://en.wikipedia.org/wiki/Web_browser][web browser]].  It defines the content and structure of [[https://en.wikipedia.org/wiki/Web_content][web content]].  It is often assisted by technologies such as [[https://en.wikipedia.org/wiki/Cascading_Style_Sheets][Cascading Style Sheets]] (CSS) and [[https://en.wikipedia.org/wiki/Scripting_language][scripting languages]] such as [[https://en.wikipedia.org/wiki/JavaScript][JavaScript]], a programming language.
+
+  [[https://en.wikipedia.org/wiki/Web_browser][Web browsers]] receive HTML documents from a [[https://en.wikipedia.org/wiki/Web_server][web server]] or from local storage and [[https://en.wikipedia.org/wiki/Browser_engine][render]] the documents into multimedia web pages.  HTML describes the structure of a [[https://en.wikipedia.org/wiki/Web_page][web page]] [[https://en.wikipedia.org/wiki/Semantic_Web][semantically]] and originally included cues for its appearance.
+
+  [[https://en.wikipedia.org/wiki/HTML_element][HTML elements]] are the building blocks of HTML pages.  With HTML constructs, [[https://en.wikipedia.org/wiki/HTML_element#Images_and_objects][images]] and other objects such as [[https://en.wikipedia.org/wiki/Fieldset][interactive forms]] may be embedded into the rendered page.  HTML provides a means to create [[https://en.wikipedia.org/wiki/Structured_document][structured documents]] by denoting structural [[https://en.wikipedia.org/wiki/Semantics][semantics]] for text such as headings, paragraphs, lists, [[https://en.wikipedia.org/wiki/Hyperlink][links]], quotes, and other items.  HTML elements are delineated by /tags/, written using [[https://en.wikipedia.org/wiki/Bracket#Angle_brackets][angle brackets]].  Tags such as =<==img==>= and =<==input==>= directly introduce content into the page.  Other tags such as =<==p==>= and =</==p==>= surround and provide information about document text and may include sub-element tags.  [[https://en.wikipedia.org/wiki/Web_browser][Browsers]] do not display the HTML tags but use them to interpret the content of the page.
+
+  HTML can embed programs written in a [[https://en.wikipedia.org/wiki/Scripting_language][scripting language]] such as [[https://en.wikipedia.org/wiki/JavaScript][JavaScript]], which affects the behavior and content of web pages.  The inclusion of CSS defines the look and layout of content.  The [[https://en.wikipedia.org/wiki/World_Wide_Web_Consortium][World Wide Web Consortium]] (W3C), former maintainer of the HTML and current maintainer of the CSS standards, has encouraged the use of [[https://en.wikipedia.org/wiki/CSS][CSS]] over explicit presentational HTML since 1997.  A form of HTML, known as [[https://en.wikipedia.org/wiki/HTML5][HTML5]], is used to display video and audio, primarily using the =<==canvas==>= element, together with JavaScript.
+#+end_quote

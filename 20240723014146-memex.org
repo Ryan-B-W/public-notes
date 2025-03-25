@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       b78b21dc-3632-4ab1-8f48-d35e0c87b6d5
+:END:
+#+title: Memex
+
+The Memex, short for MEMory EXpansion, is a hypothetical electromechanical device that would use microfilm and a filing system to enable quick access to a large store of information.  The idea was introduced in [[id:e5a582e4-16fb-4fd3-b182-07abf5720ee1][Vannevar Bush]]'s 1945 essay "[[id:3bd50b91-e9fa-402a-8fe9-154340bcba7a][As We May Think]]".  Commonly seen as the precursor to [[id:a0ac6689-ad9b-4a28-b630-0dd12f15cff1][hypertext]].
+* See Also
+ - [[https://en.wikipedia.org/wiki/Memex][Memex - Wikipedia]]
+ - [[https://en.wikipedia.org/wiki/As_We_May_Think][As We May Think - Wikipedia]]

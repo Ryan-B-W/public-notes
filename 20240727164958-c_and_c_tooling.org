@@ -1,0 +1,79 @@
+:PROPERTIES:
+:ID:       73afc0b8-eda4-4aea-869d-523d0a2410ad
+:END:
+#+title: C and C++ Tooling
+#+filetags: :development_environment:software_development:cpp_lang:c_lang:software:programming_language:programming:computer_science:
+
+Useful tooling when working with C and/or C++.
+* GNU Binutils :gnu:development_environment:software_development:cpp_lang:c_lang:software:programming_language:programming:computer_science:
+:PROPERTIES:
+:ID:       9e1b4a1c-cd7b-4179-8df7-7bd3f03458b3
+:ROAM_REFS: https://sourceware.org/binutils/
+:END:
+** gprof
+:PROPERTIES:
+:ID:       4008b729-b8f3-4bfe-b3b4-c4d824cb9b57
+:ROAM_REFS: https://sourceware.org/binutils/docs/gprof/
+:END:
+** nm
+Lists symbols from object files.
+** objdump
+Display information from object files.
+** readelf
+Display information from ELF files.
+* glibc (The GNU C Library) :gnu:development_environment:software_development:cpp_lang:c_lang:software:programming_language:programming:computer_science:
+:PROPERTIES:
+:ID:       d93f5024-573e-4daa-bedd-8468f03ff04f
+:ROAM_REFS: https://sourceware.org/glibc/manual/latest/html_node/index.html
+:END:
+** ldd
+** sprof
+Lists shared object dependencies (dynamically linked libraries).
+* GDB :gnu:development_environment:software_development:cpp_lang:c_lang:software:programming_language:programming:computer_science:
+:PROPERTIES:
+:ID:       f9d22f30-42b2-40d5-baeb-996179b90216
+:ROAM_REFS: https://sourceware.org/gdb/current/onlinedocs/gdb
+:END:
+The GNU Debugger.
+* [[id:c40f8163-bc08-4dcc-b9b6-b53ee8f6ef02][GCC]] :gnu:development_environment:software_development:cpp_lang:c_lang:software:programming_language:programming:computer_science:
+** gcov
+:PROPERTIES:
+:ID:       641d6b54-440c-4fb4-9b1a-5d8f026ec070
+:ROAM_REFS: https://gcc.gnu.org/onlinedocs/gcc/Gcov-Intro.html
+:END:
+Test coverage program for C and C++ from GCC.
+* Valgrind
+:PROPERTIES:
+:ID:       68780bf5-cdf0-48f8-9fa3-39e71e5f2122
+:END:
+The Valgrind memory debugger and profiler.
+** See Also
+ - [[man:valgrind(1)]]
+* [[id:b1b3704f-e4c0-4d11-86b5-71b82e552e89][Radare2]]
+* [[id:6c404bc9-5ca9-41db-a487-dd36faa5b061][Ghidra]]
+* [[id:da0dcdbe-b7ce-4b2d-8309-f398cb574c03][angr]]
+* [[id:6bc3c353-7b3f-424b-9a69-de01b1a171d9][Z3Prover/z3: The Z3 Theorem Prover]]
+* LLVM
+:PROPERTIES:
+:ID:       2de73d0b-812b-4d69-8812-fb3aba41904f
+:END:
+** clang
+:PROPERTIES:
+:ID:       259ea9a6-312a-4dac-bbbc-19282bacb29d
+:END:
+The [[id:2de73d0b-812b-4d69-8812-fb3aba41904f][LLVM]] compiler.
+*** See Also
+ - [[man:clang(1)]]
+** LLDB
+:PROPERTIES:
+:ID:       234914ff-cd02-4de7-aba5-7fd6a96792de
+:END:
+The [[id:2de73d0b-812b-4d69-8812-fb3aba41904f][LLVM]] debugger.
+* Compiler Explorer
+:PROPERTIES:
+:ID:       85e6d767-7998-4a0a-b926-6a73ba56c8e5
+:ROAM_REFS: https://godbolt.org/
+:END:
+* See Also
+ - [[id:212f25e1-f183-4cb0-97db-342ac6667078][C and C++ Documentation and Resources]]
+ - [[id:b24601aa-09df-41e1-aa7e-25ead342db34][Programming Language]]

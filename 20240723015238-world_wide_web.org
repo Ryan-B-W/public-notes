@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       05f2a17c-4ceb-42fa-bcc8-16d61473804b
+:END:
+#+title: World Wide Web
+#+filetags: :networking:www:
+
+The largest and most successful implementation of [[id:a0ac6689-ad9b-4a28-b630-0dd12f15cff1][hypertext]] as of writing.  Invented by Tim Berners-Lee while at CERN in 1989 and made publicly available in 1991.  Loosely inspired by [[id:33d5bcba-4e40-45e8-9c15-282f356046d5][Ted Nelson]]'s [[id:8482b0a5-5e32-4745-af93-749e79998e28][Project Xanadu]].
+
+Largely consists of content built using [[id:fe3afedb-9d76-4c36-a529-3dfc6709f995][HTML]], [[id:fe02b652-aca5-4812-8cf1-fe4243695490][CSS]], and [[id:db0939e6-0c2e-4bb0-a626-2114209235af][JavaScript]].
+* (en.wikipedia.org) World Wide Web - Wikipedia                     :website:
+:PROPERTIES:
+:ID:       354b4828-ac3f-4a5f-812c-7817a5114113
+:ROAM_REFS: https://en.wikipedia.org/wiki/World_Wide_Web
+:END:
+
+#+begin_quote
+  The *World Wide Web* (*WWW* or simply *the Web*) is an [[https://en.wikipedia.org/wiki/Information_system][information system]] that enables [[https://en.wikipedia.org/wiki/Content_(media)][content]] sharing over the [[https://en.wikipedia.org/wiki/Internet][Internet]] through user-friendly ways meant to appeal to users beyond [[https://en.wikipedia.org/wiki/Information_technology][IT]] specialists and hobbyists.  It allows documents and other [[https://en.wikipedia.org/wiki/Web_resource][web resources]] to be accessed over the Internet according to specific rules of the [[https://en.wikipedia.org/wiki/HTTP][Hypertext Transfer Protocol]] (HTTP).
+
+  The Web was invented by English computer scientist [[https://en.wikipedia.org/wiki/Tim_Berners-Lee][Tim Berners-Lee]] while at [[https://en.wikipedia.org/wiki/CERN][CERN]] in 1989 and opened to the public in 1993.  It was conceived as a "universal linked information system".  Documents and other media content are made available to the network through [[https://en.wikipedia.org/wiki/Web_server][web servers]] and can be accessed by programs such as [[https://en.wikipedia.org/wiki/Web_browser][web browsers]].  Servers and resources on the World Wide Web are identified and located through character strings called [[https://en.wikipedia.org/wiki/Uniform_resource_locator][uniform resource locators]] (URLs).
+
+  The original and still very common document type is a [[https://en.wikipedia.org/wiki/Web_page][web page]] formatted in [[https://en.wikipedia.org/wiki/Hypertext_Markup_Language][Hypertext Markup Language]] (HTML).  This markup language supports [[https://en.wikipedia.org/wiki/Plain_text][plain text]], [[https://en.wikipedia.org/wiki/Digital_image][images]], embedded [[https://en.wikipedia.org/wiki/Video][video]] and [[https://en.wikipedia.org/wiki/Audio_signal][audio]] contents, and [[https://en.wikipedia.org/wiki/Scripting_language][scripts]] (short programs) that implement complex user interaction.  The HTML language also supports [[https://en.wikipedia.org/wiki/Hyperlink][hyperlinks]] (embedded URLs) which provide immediate access to other web resources.  [[https://en.wikipedia.org/wiki/Web_navigation][Web navigation]], or web surfing, is the common practice of following such hyperlinks across multiple websites.  [[https://en.wikipedia.org/wiki/Web_application][Web applications]] are web pages that function as [[https://en.wikipedia.org/wiki/Application_software][application software]].  The information in the Web is transferred across the Internet using HTTP.  Multiple web resources with a common theme and usually a common [[https://en.wikipedia.org/wiki/Domain_name][domain name]] make up a [[https://en.wikipedia.org/wiki/Website][website]].  A single web server may provide multiple websites, while some websites, especially the most popular ones, may be provided by multiple servers.  Website content is provided by a myriad of companies, organizations, government agencies, and [[https://en.wikipedia.org/wiki/User-generated_content][individual users]]; and comprises an enormous amount of educational, entertainment, commercial, and government information.
+
+  The Web has become the world's dominant [[https://en.wikipedia.org/wiki/Web_platform][information systems platform]].  It is the primary tool that billions of people worldwide use to interact with the Internet.
+#+end_quote

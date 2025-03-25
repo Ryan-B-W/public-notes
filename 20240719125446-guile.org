@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       064be3a0-bb32-4312-9868-73e9c77ba7cf
+:END:
+#+title: Guile
+#+filetags: :software:scheme:lisp:programming_language:programming:computer_science:
+
+An implementation of [[id:6246f8d4-6cd4-489d-b19f-9c1142b51b60][Scheme]] for the GNU Project as a scripting and extension language.  Implements most of R6RS, some R7RS, and many SRFIs.  As of the 2.0 series, is also an [[id:eac73a7d-f14b-4ec4-bc18-08d864e6c4c0][Emacs Lisp]] and [[id:db0939e6-0c2e-4bb0-a626-2114209235af][JavaScript]] implementation.  Used as the basis for Guix.
+* (www.gnu.org) GNU's programming and extension language — GNU Guile :website:
+:PROPERTIES:
+:ID:       b735c568-4d91-4adf-b4a7-580c50fac7f5
+:ROAM_REFS: https://www.gnu.org/software/guile/
+:END:
+
+#+begin_quote
+  ** Guile is a programming language
+
+  Guile is designed to help programmers create flexible applications that can be extended by users or other programmers with plug-ins, modules, or scripts.
+
+  With Guile you can create applications and games for the [[https://www.gnu.org/software/guile/#apps-using-guile][desktop]], the [[https://www.gnu.org/software/guile/#apps-using-guile][Web]], the [[https://www.gnu.org/software/guile/#apps-using-guile][command-line]], and more.
+#+end_quote
+** (www.gnu.org) Top (Guile Reference Manual)                       :website:
+:PROPERTIES:
+:ID:       f6311b42-cf2d-490f-ac69-0075b82828b9
+:ROAM_REFS: https://www.gnu.org/software/guile/manual/html_node/index.html
+:END:
+** Tutorial Introduction to Guile                                   :website:
+:PROPERTIES:
+:ID:       31aba63a-771f-4219-8d60-29b9ffbd69bd
+:ROAM_REFS: https://www.gnu.org/software/guile/docs/guile-tut/tutorial.html
+:END:
+* [[info:guile][Guile Info Manual]]
+* Hello World - Guile Hacker Handbook                               :website:
+:PROPERTIES:
+:ID:       bae4222f-bd5a-4dfc-87c6-01c9e8fded69
+:ROAM_REFS: https://jeko.frama.io/en/hello.html
+:END:
+* (en.wikipedia.org) GNU Guile - Wikipedia                          :website:
+:PROPERTIES:
+:ID:       86108222-b90b-4ccd-94da-53c603636d3c
+:ROAM_REFS: https://en.wikipedia.org/wiki/GNU_Guile
+:END:
+
+#+begin_quote
+  *GNU Ubiquitous Intelligent Language for Extensions* (*GNU Guile*) is the preferred [[https://en.wikipedia.org/wiki/Extension_language][extension language]] system for the [[https://en.wikipedia.org/wiki/GNU_Project][GNU Project]] and features an implementation of the programming language [[https://en.wikipedia.org/wiki/Scheme_(programming_language)][Scheme]].  Its first version was released in 1993.  In addition to large parts of Scheme standards, [[https://en.wikipedia.org/wiki/GNU_Guile#Guile_Scheme][Guile Scheme]] includes modularized extensions for many different programming tasks.
+
+  For extending programs, Guile offers /libguile/ which allows the language to be embedded in other programs, and integrated closely through the [[https://en.wikipedia.org/wiki/C_(programming_language)][C]] language [[https://en.wikipedia.org/wiki/Application_programming_interface][application programming interface]] (API); similarly, new [[https://en.wikipedia.org/wiki/Data_type][data types]] and [[https://en.wikipedia.org/wiki/Subroutine][subroutines]] defined through the C API can be made available as extensions to Guile.
+
+  Guile is used in many programs under the [[https://en.wikipedia.org/wiki/GNU_project][GNU project]] umbrella ([[https://en.wikipedia.org/wiki/GNU_Debugger][GDB]], [[https://en.wikipedia.org/wiki/GNU_Make][Make]], [[https://en.wikipedia.org/wiki/GNU_Guix][Guix]], [[https://en.wikipedia.org/wiki/GNU_TeXmacs][GNU TeXmacs]], [[https://en.wikipedia.org/wiki/GnuCash][GnuCash]], [[https://en.wikipedia.org/wiki/LilyPond][LilyPond]], [[https://github.com/lepton-eda/lepton-eda][Lepton-EDA]]...) but it also sees use outside of that, for example in [[https://github.com/schism-lang/schism][Google's schism]].
+#+end_quote

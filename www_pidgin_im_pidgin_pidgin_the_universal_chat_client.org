@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       f31a86c8-d5ca-4beb-a6a2-8758f52423e8
+:ROAM_REFS: https://www.pidgin.im/
+:END:
+#+title: (www.pidgin.im) Pidgin :: Pidgin, the universal chat client
+#+filetags: :communication:networking:software:website:
+
+#+begin_quote
+  Pidgin is a chat program which lets you log into accounts on multiple chat networks simultaneously.  This means that you can be chatting with friends on XMPP and sitting in an IRC channel at the same time.
+  Pidgin runs on Windows, [[id:bf0bc2d7-17df-413c-823b-93904faffc58][Linux]], and other UNIX-like operating systems.  Looking for Pidgin for macOS?  Try Adium!
+  Pidgin is compatible with the following chat networks out of the box: Jabber/XMPP, Bonjour, Gadu-Gadu, IRC, Novell GroupWise Messenger, Lotus Sametime, SILC, SIMPLE, and Zephyr.  It can support many more with plugins.
+  Pidgin supports many features of these chat networks, such as file transfers, away messages, buddy icons, custom smileys, and typing notifications.  Numerous plugins also extend Pidgin’s functionality above and beyond the standard features.
+#+end_quote

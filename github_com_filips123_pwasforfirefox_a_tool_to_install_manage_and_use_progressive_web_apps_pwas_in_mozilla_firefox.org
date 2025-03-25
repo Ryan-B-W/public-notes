@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       7ea4a003-353f-42af-9c34-b13be9839ad0
+:ROAM_REFS: https://github.com/filips123/PWAsForFirefox
+:END:
+#+title: (github.com) filips123/PWAsForFirefox: A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
+#+filetags: :open_source:www:software:website:
+
+#+begin_quote
+  A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
+#+end_quote

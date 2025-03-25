@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       95ed9369-26d3-4050-b079-016f3114ba9a
+:END:
+#+title: Maxima
+#+filetags: :lisp:mathematics:programming_language:programming:computer_science:
+
+A powerful [[id:371adb97-458f-4539-8051-444335a429e5][CAS]] software suite and fully open source.  Written in [[id:b5fb5c4b-d10f-4bca-91e1-a5e946ef0c83][Common Lisp]].

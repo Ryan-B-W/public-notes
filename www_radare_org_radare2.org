@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       b1b3704f-e4c0-4d11-86b5-71b82e552e89
+:ROAM_REFS: https://www.radare.org/ https://www.radare.org/n/radare2.html https://rada.re/ https://rada.re/n/
+:END:
+#+title: (www.radare.org) Radare2
+#+filetags: :software:reverse_engineering:programming:computer_science:website:
+
+Radare2, an open-source reversing toolkit.
+* (github.com) radareorg/radare2: UNIX-like reverse engineering framework and command-line toolset
+:PROPERTIES:
+:ID:       da272ba8-06f9-40d5-ae44-424857122eaf
+:ROAM_REFS: https://github.com/radareorg/radare2
+:END:
+
+#+begin_quote
+  ** Radare2: Libre Reversing Framework for Unix Geeks
+
+  See the [[https://github.com/radareorg/radare2/releases][Releases]] page for downloads.  The current git =master= branch is =5.9.9=, next will be =6.0.0=.
+
+  - Since 5.6.0, patch releases are [[https://github.com/radareorg/radare2/blob/master/doc/abi.md][abi stable]]
+  - Even patch numbers used for releases, odd ones for git.
+  - .9 patch versions reflect the abi breaking seasson
+
+  *** Description
+
+  r2 is a complete rewrite of radare.  It provides a set of libraries, tools and plugins to ease reverse engineering tasks.  Distributed mostly under LGPLv3, each plugin can have different licenses (see r2 -L, rasm2 -L, ...).
+
+  The radare project started as a simple command-line hexadecimal editor focused on forensics.  Today, r2 is a featureful low-level command-line tool with support for scripting with the embedded Javascript interpreter or via r2pipe.
+
+  r2 can edit files on local hard drives, view kernel memory, and debug programs locally or via a remote gdb/windbg servers.  r2's wide architecture support allows you to analyze, emulate, debug, modify, and disassemble any binary.
+#+end_quote

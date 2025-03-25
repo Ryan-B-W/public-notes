@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       11f55adb-3785-4f14-9de5-719fde4906b8
+:END:
+#+title: Firefox
+#+filetags: :open_source:www:software:
+
+Also known as Mozilla Firefox.  One of the few extant independent web browsers.
+* Firefox - Wikipedia                      :open_source:www:software:website:
+:PROPERTIES:
+:ID:       c5a26e01-ba2c-48ff-bd0f-21ad3300d121
+:ROAM_REFS: https://en.wikipedia.org/wiki/Firefox
+:END:
+
+#+begin_quote
+  Mozilla Firefox, or simply Firefox, is a free and open source web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation.  It uses the Gecko rendering engine to display web pages, which implements current and anticipated web standards.  Firefox is available for Windows 10 and later versions of Windows, macOS, and [[id:bf0bc2d7-17df-413c-823b-93904faffc58][Linux]].  Its unofficial ports are available for various Unix and Unix-like operating systems, including FreeBSD, OpenBSD, NetBSD, and other platforms.  It is also available for Android and iOS.  However, as with all other iOS web browsers, the iOS version uses the WebKit layout engine instead of Gecko due to platform requirements.  An optimized version is also available on the Amazon Fire TV as one of the two main browsers available with Amazon's Silk Browser.
+#+end_quote
+* Get Firefox browser — Mozilla (US)       :open_source:www:software:website:
+:PROPERTIES:
+:ID:       d6640ce9-e0b2-4f23-9940-2f5614af701d
+:ROAM_REFS: https://www.mozilla.org/en-US/firefox/
+:END:

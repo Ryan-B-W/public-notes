@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       48eb0495-be6d-4192-afa1-e1be5330070b
+:END:
+#+title: SaaS (Software as a Service)
+#+filetags: :networking:human_interaction:computer_science:software_as_a_service:
+
+Software made available as a network or web service.
+* (en.wikipedia.org) Software as a service - Wikipedia              :website:
+:PROPERTIES:
+:ID:       7071da73-06b3-4e8c-b144-f57d78d32976
+:ROAM_REFS: https://en.wikipedia.org/wiki/Software_as_a_service
+:END:
+
+#+begin_quote
+  *Software as a service* (*SaaS* [[https://en.wikipedia.org/wiki/Help:IPA/English][/sæs/]]) is a [[https://en.wikipedia.org/wiki/Cloud_computing][cloud computing]] service model where the provider offers use of [[https://en.wikipedia.org/wiki/Application_software][application software]] to a client and manages all needed physical and software resources.  SaaS is usually accessed via a [[https://en.wikipedia.org/wiki/Web_application][web application]].  Unlike other [[https://en.wikipedia.org/wiki/Software_delivery][software delivery]] models, it separates "the possession and ownership of software from its use".  SaaS use began around 2000, and by 2023 was the main form of software application deployment.
+
+  Unlike most self-hosted software products, only one version of the software exists^{[/[[https://en.wikipedia.org/wiki/Wikipedia:Citation_needed][citation needed]]/]} and only one [[https://en.wikipedia.org/wiki/Operating_system][operating system]] and configuration is supported.  SaaS products typically run on rented [[https://en.wikipedia.org/wiki/Infrastructure_as_a_service][infrastructure as a service]] (IaaS) or [[https://en.wikipedia.org/wiki/Platform_as_a_service][platform as a service]] (PaaS) systems including [[https://en.wikipedia.org/wiki/Computer_hardware][hardware]] and sometimes [[https://en.wikipedia.org/wiki/Operating_system][operating systems]] and [[https://en.wikipedia.org/wiki/Middleware][middleware]], to accommodate rapid increases in usage while providing instant and continuous availability to customers.  SaaS customers have the abstraction of limitless computing resources, while [[https://en.wikipedia.org/wiki/Economy_of_scale][economy of scale]] drives down the cost.  SaaS architectures are typically [[https://en.wikipedia.org/wiki/Multi-tenant][multi-tenant]]; usually they share resources between clients for efficiency, but sometimes they offer a siloed environment for an additional fee.  Common SaaS revenue models include [[https://en.wikipedia.org/wiki/Freemium][freemium]], [[https://en.wikipedia.org/wiki/Subscription][subscription]], and usage-based fees.  Unlike traditional software, it is rarely possible to buy a perpetual license for a certain version of the software.
+
+  There are no specific [[https://en.wikipedia.org/wiki/Software_development][software development]] practices that distinguish SaaS from other application development, although there is often a focus on frequent [[https://en.wikipedia.org/wiki/Software_testing][testing]] and releases.
+#+end_quote

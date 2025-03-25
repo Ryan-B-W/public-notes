@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       36b8a2f5-7eab-4ae8-9a1f-1a18936bd48c
+:END:
+#+title: Calibre
+#+filetags: :information_management:software:books:open_source:
+
+[[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][Open-source]] ebook library management software.
+* calibre - E-book management            :open_source:software:books:website:
+:PROPERTIES:
+:ID:       2a1584a0-3e25-4b76-8795-5b5b97ce4453
+:ROAM_REFS: https://calibre-ebook.com/
+:END:
+* kovidgoyal/calibre: The official source code repository for the calibre ebook manager :open_source:software:books:website:
+:PROPERTIES:
+:ID:       2536ac6a-2954-4d5d-bfca-0c11b5f920cf
+:ROAM_REFS: https://github.com/kovidgoyal/calibre
+:END:
+
+#+begin_quote
+  calibre is an e-book manager.  It can view, convert, edit and catalog e-books in all of the major e-book formats.  It can also talk to e-book reader devices.  It can go out to the internet and fetch metadata for your books.  It can download newspapers and convert them into e-books for convenient reading.  It is cross platform, running on Linux, Windows and macOS.
+#+end_quote

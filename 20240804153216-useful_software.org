@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       7ad4a126-0b9f-4dc0-9968-cd9135bf8b1e
+:END:
+#+title: Useful Software
+#+filetags: :directory:lists:software:
+
+Useful pieces of software.
+* Documents
+** Text
+*** [[id:5ab4a0b0-95e2-40cf-b924-709db3115d48][Org Mode]]
+*** [[id:ad5b1807-db6f-47de-b957-2537a489021c][Org Roam]]
+*** [[id:7698e55e-4120-42e8-87d9-c5918baf887b][Logseq]]
+*** [[id:95665463-a8fa-4262-bf6b-ca38650e1faa][Organice]]
+** Typesetting
+*** [[id:04da1ad3-984e-4c72-b440-5d63eeee5d18][GNU Troff (groff)]]
+*** [[id:669335f2-8499-4ee6-b6b8-317c0c4f96ed][LaTeX]]
+**** [[id:77d17fca-fcac-429e-a0ee-d7d5ffd6cb9c][Overleaf, Online LaTeX Editor]]
+*** [[id:6cc53007-9c02-428c-8cc5-7864ad1c9eb8][Typst]]
+** Visual
+*** Diagrams
+**** [[id:8d354fa2-6828-4a45-8ad2-1f29f5a881e0][Mermaid]]
+**** [[id:73e3d83c-ece6-4f88-8045-d46e6eaa530f][PlantUML]]
+**** [[id:ab3c89dd-8ffe-4c14-a741-e881bbe666f9][D2]]
+*** Images & Graphics
+**** [[id:46e818d9-aa7a-4eca-8dbc-4571907d53f1][SvgPathEditor]]
+** Management
+*** [[id:36b8a2f5-7eab-4ae8-9a1f-1a18936bd48c][Calibre]]
+* Programming
+** [[id:73afc0b8-eda4-4aea-869d-523d0a2410ad][C and C++ Tooling]]
+** [[id:aca1324c-b142-4e34-a121-a8bb0a79ddf8][Emacs]]
+** [[id:6a50ef8a-5a49-487c-8855-dd62b4c42588][Vi]]/[[id:37c53f5b-c586-41ff-a4fe-b44c05ed3c1f][Vim]]/[[id:54504d3e-4f52-4dd2-9f2a-3ad550400bc9][Neovim]]
+* Version control and comparison
+** [[id:003ec9df-d673-4336-aae0-9a034fd89997][Git]]
+** [[id:04583ba5-6f1a-44bb-aeca-db27075c69fc][Difftastic]]
+* Operating Systems
+** Package & Configuration Management
+*** [[id:9af45692-b2f1-4d4e-a9b3-03d355ffacd0][Guix]]
+*** [[id:3b6a267c-90c9-491e-89d2-42c365ec6574][Nix]]
+* Math
+** [[id:95ed9369-26d3-4050-b079-016f3114ba9a][Maxima]]
+** [[id:70d66f8f-fea0-467d-bd96-7b562be89610][SageMath]]
+* Web
+** Browsers
+*** [[id:11f55adb-3785-4f14-9de5-719fde4906b8][Firefox]]
+**** [[id:7ea4a003-353f-42af-9c34-b13be9839ad0][filips123/PWAsForFirefox]]
+* Communication
+** Instant Messaging
+*** [[id:f31a86c8-d5ca-4beb-a6a2-8758f52423e8][Pidgin]]
+*** [[id:329e08b2-df49-4f98-864a-30a0f226cd3b][Weechat]]

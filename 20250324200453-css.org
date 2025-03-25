@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       fe02b652-aca5-4812-8cf1-fe4243695490
+:END:
+#+title: CSS (Cascading Style Sheets)
+#+filetags: :www:file_formats:graphics:markup:
+
+Styling language used in conjunction with [[id:fe3afedb-9d76-4c36-a529-3dfc6709f995][HTML]], and sometimes [[id:17fb5de5-dedc-46ce-a5ed-dd67f3ce9f27][XML]], for the [[id:05f2a17c-4ceb-42fa-bcc8-16d61473804b][World Wide Web]].
+* (en.wikipedia.org) CSS - Wikipedia                                :website:
+:PROPERTIES:
+:ID:       4da70fc1-adc4-428b-ad43-cb09c6b73bc1
+:ROAM_REFS: https://en.wikipedia.org/wiki/CSS
+:END:
+
+#+begin_quote
+  *Cascading Style Sheets* (*CSS*) is a [[https://en.wikipedia.org/wiki/Style_sheet_language][style sheet language]] used for specifying the [[https://en.wikipedia.org/wiki/Presentation_semantics][presentation]] and styling of a document written in a [[https://en.wikipedia.org/wiki/Markup_language][markup language]] such as [[https://en.wikipedia.org/wiki/HTML][HTML]] or [[https://en.wikipedia.org/wiki/XML][XML]] (including XML dialects such as [[https://en.wikipedia.org/wiki/SVG][SVG]], [[https://en.wikipedia.org/wiki/MathML][MathML]] or [[https://en.wikipedia.org/wiki/XHTML][XHTML]]).  CSS is a cornerstone technology of the [[https://en.wikipedia.org/wiki/World_Wide_Web][World Wide Web]], alongside HTML and [[https://en.wikipedia.org/wiki/JavaScript][JavaScript]].
+
+  CSS is designed to enable the [[https://en.wikipedia.org/wiki/Separation_of_content_and_presentation][separation of content and presentation]], including [[https://en.wikipedia.org/wiki/Page_layout][layout]], [[https://en.wikipedia.org/wiki/Color][colors]], and [[https://en.wikipedia.org/wiki/Typeface][fonts]].  This separation can improve content [[https://en.wikipedia.org/wiki/Accessibility][accessibility]], since the content can be written without concern for its presentation; provide more flexibility and control in the specification of presentation characteristics; enable multiple [[https://en.wikipedia.org/wiki/Web_page][web pages]] to share formatting by specifying the relevant CSS in a separate .css file, which reduces complexity and repetition in the structural content; and enable the .css file to be [[https://en.wikipedia.org/wiki/Cache_(computing)][cached]] to improve the page load speed between the pages that share the file and its formatting.
+
+  Separation of formatting and content also makes it feasible to present the same markup page in different styles for different rendering methods, such as on-screen, in print, by voice (via speech-based browser or [[https://en.wikipedia.org/wiki/Screen_reader][screen reader]]), and on [[https://en.wikipedia.org/wiki/Braille_display][Braille-based]] tactile devices.  CSS also has rules for alternative formatting if the content is accessed on a [[https://en.wikipedia.org/wiki/Mobile_device][mobile device]].
+
+  The name /cascading/ comes from the specified priority scheme to determine which declaration applies if more than one declaration of a property match a particular element.  This cascading priority scheme is predictable.
+
+  The CSS specifications are maintained by the [[https://en.wikipedia.org/wiki/World_Wide_Web_Consortium][World Wide Web Consortium]] (W3C).  Internet media type ([[https://en.wikipedia.org/wiki/MIME_media_type][MIME type]]) =text/css= is registered for use with CSS by RFC 2318 (March 1998).  The W3C operates a free [[https://en.wikipedia.org/wiki/W3C_Markup_Validation_Service#CSS_validation][CSS validation service]] for CSS documents.
+
+  In addition to HTML, other markup languages support the use of CSS including [[https://en.wikipedia.org/wiki/XHTML][XHTML]], [[https://en.wikipedia.org/wiki/Plain_Old_XML][plain XML]], [[https://en.wikipedia.org/wiki/SVG][SVG]], and [[https://en.wikipedia.org/wiki/XUL][XUL]].  CSS is also used in the [[https://en.wikipedia.org/wiki/GTK][GTK]] [[https://en.wikipedia.org/wiki/Widget_toolkit][widget toolkit]].
+#+end_quote

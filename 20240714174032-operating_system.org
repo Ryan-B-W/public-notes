@@ -7,4 +7,15 @@
 The software system that allows a computer to be used by an end user.  Usually consists of a =bootloader=, [[id:925a80bf-d4d4-4061-9ac1-2d0224e1590a][=kernel=]], [[id:a4c2de37-5317-44f3-b877-ec0b5777c61f][=filesystem=]], =service manager=, =window manager= (and [[id:88db686f-0d77-4ecc-a9d6-43017ef7440f][GUI]]), and various =applications=.
 * See Also
  - [[id:b94ccb5f-dca6-49e4-91b6-b87e73c867a5][Gentoo]]
+ - [[id:949d306c-36bc-4f39-ab4e-c855f4924432][GNU Guix System]]
  - [[id:30ae24e9-8b87-4412-ae94-484b5c72216b][NixOS]]
+ - [[id:eea001f0-f697-4e08-a759-bb26d07b14de][Debian]]
+ - [[id:5f36ec1b-f40b-4375-b613-e33e2bf99dbe][Devuan]]
+ - [[id:b7ffa33f-6da2-4918-9ced-6afd0fbdb0fe][Unix]]
+ - [[id:75a57056-0931-4f17-949f-8732f473728a][Plan 9]]
+ - [[id:43194992-e4b9-4c9c-b8bb-32aba92e3891][NetBSD]]
+ - [[id:9de6b78d-1506-4837-bfa5-03e8632be933][FreeBSD]]
+ - [[id:a641ae8e-1d3c-4e90-911c-51a594b05a08][OpenBSD]]
+ - [[id:f3b23fe9-f077-40b3-a39d-26e9145fdf07][Multics]]
+ - [[id:d1896f87-0187-4f30-8b58-304bda6cd000][Android]]
+ - [[id:efbee194-049a-409a-91c6-a4d4ed76896f][Apple iOS]]

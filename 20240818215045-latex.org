@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       669335f2-8499-4ee6-b6b8-317c0c4f96ed
+:END:
+#+title: LaTeX
+#+filetags: :typesetting:open_source:software:
+
+Typesetting macro package built on top of TeX for typesetting books and papers.  Originally made by [[id:6d7f20f8-b669-43ce-a5ee-b5e842ef8dab][Leslie Lamport]].
+* LaTeX - A document preparation system        :typesetting:software:website:
+:PROPERTIES:
+:ID:       5e8198d1-9031-4fcc-827e-ac753e5893ce
+:ROAM_REFS: https://www.latex-project.org/
+:END:
+
+#+begin_quote
+  [[id:669335f2-8499-4ee6-b6b8-317c0c4f96ed][LaTeX]] is a high-quality typesetting system; it includes features designed for the production of technical and scientific documentation.  LaTeX is the de facto standard for the communication and publication of scientific documents.  LaTeX is available as free software.
+  You don't have to pay for using LaTeX, i.e., there are no license fees, etc.  But you are, of course, invited to support the maintenance and development efforts through a donation to the TeX Users Group (choose LaTeX Project contribution) if you are satisfied with LaTeX.
+  You can also sponsor the work of LaTeX team members through the GitHub sponsor program at the moment for Frank, David and Joseph.  Your contribution goes without any reductions by GitHub to the developers in support of the project.
+  The volunteer efforts that provide you with LaTeX need financial support, so thanks for any contribution you are willing to make.
+#+end_quote
+* LaTeX - Wikipedia                            :typesetting:software:website:
+:PROPERTIES:
+:ID:       9cbc68df-10a7-487b-9206-e628ecf1a517
+:ROAM_REFS: https://en.wikipedia.org/wiki/LaTeX
+:END:
+
+#+begin_quote
+  LaTeX (/ˈlɑːtɛk/ ⓘ LAH-tek or /ˈleɪtɛk/ LAY-tek, often stylized with vertically offset letters) is a software system for typesetting documents.  LaTeX markup describes the content and layout of the document, as opposed to the formatted text found in WYSIWYG word processors like Microsoft Word, LibreOffice Writer and Apple Pages.  The writer uses markup tagging conventions to define the general structure of a document, to stylise text throughout a document (such as bold and italics), and to add citations and cross-references.  A TeX distribution such as TeX Live or MiKTeX is used to produce an output file (such as PDF or DVI) suitable for printing or digital distribution.
+  LaTeX is widely used in academia for the communication and publication of scientific documents and technical note-taking in many fields, owing partially to its support for complex mathematical notation.  It also has a prominent role in the preparation and publication of books and articles that contain complex multilingual materials, such as Arabic and Greek.  LaTeX uses the TeX typesetting program for formatting its output, and is itself written in the TeX macro language.
+#+end_quote
+* See Also
+** [[id:77d17fca-fcac-429e-a0ee-d7d5ffd6cb9c][Overleaf, Online LaTeX Editor]]

@@ -1,0 +1,53 @@
+:PROPERTIES:
+:ID:       6bc3c353-7b3f-424b-9a69-de01b1a171d9
+:ROAM_REFS: https://github.com/Z3Prover/z3
+:END:
+#+title: (github.com) Z3Prover/z3: The Z3 Theorem Prover
+#+filetags: :mathematics:software:computer_science:website:
+
+Open-source Z3 theorem prover aka an SMT solver.
+* (github.com) Home · Z3Prover/z3 Wiki
+:PROPERTIES:
+:ID:       dfcc7b94-0b1b-48a3-9bad-e99e736c6b15
+:ROAM_REFS: https://github.com/Z3Prover/z3/wiki
+:END:
+** On the web
+*** (smt.st) SAT/SMT by Example - SAT_SMT_by_example.pdf
+:PROPERTIES:
+:ID:       e321669c-054d-4e6a-bfca-c2f971e108ee
+:ROAM_REFS: https://smt.st/SAT_SMT_by_example.pdf
+:END:
+*** (0xec.blogspot.com) Coding | Reversing: Reversing the petya ransomware with constraint solvers
+:PROPERTIES:
+:ID:       f5d1b49c-c533-49bd-85a5-636458db09e7
+:ROAM_REFS: https://0xec.blogspot.com/2016/04/reversing-petya-ransomware-with.html
+:END:
+** Background
+*** (z3prover.github.io) Programming Z3
+:PROPERTIES:
+:ID:       e65dee9a-136a-411f-9b1a-ac2c7f38cd5f
+:ROAM_REFS: https://z3prover.github.io/papers/programmingz3.html
+:END:
+*** (z3prover.github.io) Z3 Internals (Draft)
+:PROPERTIES:
+:ID:       4bb3adf2-fe1e-47dc-a7bb-0e0cbbc96d59
+:ROAM_REFS: https://z3prover.github.io/papers/z3internals.html
+:END:
+*** (fstar-lang.org) Understanding how F* uses Z3 — Proof-Oriented Programming in F* documentation
+:PROPERTIES:
+:ID:       49f9deaa-de81-4a6f-b5fb-c7f151fc8021
+:ROAM_REFS: https://fstar-lang.org/tutorial/book/under_the_hood/uth_smt.html#understanding-how-f-uses-z3
+:END:
+*** (github.com) Publications · Z3Prover/z3 Wiki
+:PROPERTIES:
+:ID:       2cd0a4cd-0131-4626-ba3a-ddf83248d472
+:ROAM_REFS: https://github.com/Z3Prover/z3/wiki/Publications
+:END:
+*** (scholar.google.com) De Moura: Z3: An efficient SMT solver - Google Scholar
+:PROPERTIES:
+:ID:       d613022c-dbcd-4d72-95a9-2aa923e699d9
+:ROAM_REFS: https://scholar.google.com/scholar?cites=4828743947843773221&as_sdt=5,48&sciodt=0,48&hl=en
+:END:
+* See Also
+ - [[id:587195e0-05b2-4d98-8fc0-83002892bbf4][Z3 Theorem Prover - Wikipedia]]
+ - [[id:c74b8d11-ae90-46a1-ada5-9e8cfea22fbb][Z3 - Microsoft Research]]

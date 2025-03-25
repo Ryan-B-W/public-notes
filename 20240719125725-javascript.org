@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       db0939e6-0c2e-4bb0-a626-2114209235af
+:END:
+#+title: JavaScript, aka ECMAScript
+#+filetags: :javascript:programming_language:programming:computer_science:
+
+The de facto [[id:b24601aa-09df-41e1-aa7e-25ead342db34][programming language]] of the [[id:05f2a17c-4ceb-42fa-bcc8-16d61473804b][web]].  Inspired by [[id:6246f8d4-6cd4-489d-b19f-9c1142b51b60][Scheme]] and influenced by [[id:e68f44a7-29bb-4d02-a5d9-a94ba0e757e4][Java]].
+* (en.wikipedia.org) JavaScript - Wikipedia                         :website:
+:PROPERTIES:
+:ID:       f623a2b5-8212-4de8-bd58-d74bc7f935bc
+:ROAM_REFS: https://en.wikipedia.org/wiki/JavaScript
+:END:
+
+#+begin_quote
+  *JavaScript* ([[https://en.wikipedia.org/wiki/Help:IPA/English][/ˈdʒɑːvəskrɪpt/]]), often abbreviated as *JS*, is a [[https://en.wikipedia.org/wiki/Programming_language][programming language]] and core technology of the [[https://en.wikipedia.org/wiki/World_Wide_Web][World Wide Web]], alongside [[https://en.wikipedia.org/wiki/HTML][HTML]] and [[https://en.wikipedia.org/wiki/CSS][CSS]].  Ninety-nine percent of [[https://en.wikipedia.org/wiki/Website][websites]] use JavaScript on the [[https://en.wikipedia.org/wiki/Client_(computing)][client]] side for [[https://en.wikipedia.org/wiki/Web_page][webpage]] behavior.
+
+  [[https://en.wikipedia.org/wiki/Web_browser][Web browsers]] have a dedicated [[https://en.wikipedia.org/wiki/JavaScript_engine][JavaScript engine]] that executes the client [[https://en.wikipedia.org/wiki/Source_code][code]].  These engines are also utilized in some [[https://en.wikipedia.org/wiki/Server_(computing)][servers]] and a variety of [[https://en.wikipedia.org/wiki/Application_software][apps]].  The most popular [[https://en.wikipedia.org/wiki/Runtime_system][runtime system]] for non-browser usage is [[https://en.wikipedia.org/wiki/Node.js][Node.js]].
+
+  JavaScript is a [[https://en.wikipedia.org/wiki/High-level_programming_language][high-level]], often [[https://en.wikipedia.org/wiki/Just-in-time_compilation][just-in-time compiled]] language that conforms to the [[https://en.wikipedia.org/wiki/ECMAScript][ECMAScript]] standard.  It has [[https://en.wikipedia.org/wiki/Dynamic_typing][dynamic typing]], [[https://en.wikipedia.org/wiki/Prototype-based_programming][prototype-based]] [[https://en.wikipedia.org/wiki/Object-oriented_programming][object-orientation]], and [[https://en.wikipedia.org/wiki/First-class_function][first-class functions]].  It is [[https://en.wikipedia.org/wiki/Programming_paradigm][multi-paradigm]], supporting [[https://en.wikipedia.org/wiki/Event-driven_programming][event-driven]], [[https://en.wikipedia.org/wiki/Functional_programming][functional]], and [[https://en.wikipedia.org/wiki/Imperative_programming][imperative]] [[https://en.wikipedia.org/wiki/Programming_paradigm][programming styles]].  It has [[https://en.wikipedia.org/wiki/Application_programming_interface][application programming interfaces]] (APIs) for working with text, dates, [[https://en.wikipedia.org/wiki/Regular_expression][regular expressions]], standard [[https://en.wikipedia.org/wiki/Data_structure][data structures]], and the [[https://en.wikipedia.org/wiki/Document_Object_Model][Document Object Model]] (DOM).
+
+  The ECMAScript standard does not include any [[https://en.wikipedia.org/wiki/Input/output][input/output]] (I/O), such as [[https://en.wikipedia.org/wiki/Computer_network][networking]], [[https://en.wikipedia.org/wiki/Data_storage][storage]], or [[https://en.wikipedia.org/wiki/Computer_graphics][graphics]] facilities.  In practice, the web browser or other runtime system provides JavaScript APIs for I/O.
+
+  Although [[https://en.wikipedia.org/wiki/Java_(programming_language)][Java]] and JavaScript are similar in name and [[https://en.wikipedia.org/wiki/Syntax_(programming_languages)][syntax]], the two languages are distinct and differ greatly in design.
+#+end_quote
+* (ecma-international.org) ECMA-262 - Ecma International            :website:
+:PROPERTIES:
+:ID:       5a08d001-3814-4f84-a1e7-9b49f02010d0
+:ROAM_REFS: https://ecma-international.org/publications-and-standards/standards/ecma-262/
+:END:
+
+#+begin_quote
+  * ECMA-262
+
+  ECMAScript® 2024 language specification
+
+  15th edition, June 2024
+
+  *This Standard defines the ECMAScript 2024 general-purpose programming language.*
+
+  Kindly note that *the normative copy is the HTML version*; the PDF version has been produced to generate a printable document.
+
+  This 15th edition has been prepared under the Ecma RF patent policy.
+
+  Please note that for ECMAScript Edition 4 the Ecma standard number “ECMA-262 Edition 4” was reserved but not used in the Ecma publication process.  Therefore “ECMA-262 Edition 4” as an Ecma International publication does not exist.
+
+  The latest drafts are available at: [[https://tc39.es/ecma262/]].  Reporters should generally only file bugs if the bug is still present in the latest drafts.
+
+  Please find hereafter the place to file bugs: [[https://github.com/tc39/ecma262#ecmascript]].
+#+end_quote

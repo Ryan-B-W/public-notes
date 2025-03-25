@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       212f25e1-f183-4cb0-97db-342ac6667078
+:END:
+#+title: C and C++ Documentation and Resources
+#+filetags: :documentation:software_development:cpp_lang:c_lang:programming_language:programming:computer_science:
+
+* The GNU C++ Library
+:PROPERTIES:
+:ID:       cdaa2764-f874-488d-8efd-6abee0557fae
+:ROAM_REFS: https://gcc.gnu.org/onlinedocs/gcc-14.1.0/libstdc++/manual/
+:END:
+** Debugging Support
+:PROPERTIES:
+:ID:       305cc82f-0751-4734-b4df-7e4e4810d3b5
+:ROAM_REFS: https://gcc.gnu.org/onlinedocs/gcc-14.1.0/libstdc++/manual/manual/debug.html
+:END:
+** Chapter 16: Compile Time Checks
+:PROPERTIES:
+:ID:       b1115a77-541b-4456-99af-7324e9f62525
+:ROAM_REFS: https://gcc.gnu.org/onlinedocs/gcc-14.1.0/libstdc++/manual/manual/ext_compile_checks.html
+:END:
+* [[id:be5a8cd5-7ebe-4b50-b84f-a89d8ff132cc][GNU Compiler Collection (GCC)]]
+** Invoking GCC (Using the GNU Compiler Collection (GCC))
+:PROPERTIES:
+:ID:       bb603889-887c-47ac-868e-3d177107cd4e
+:ROAM_REFS: https://gcc.gnu.org/onlinedocs/gcc/Invoking-GCC.html
+:END:
+*** Static Analyzer Options (Using the GNU Compiler Collection (GCC))
+:PROPERTIES:
+:ID:       02015a80-828c-4929-a5ba-e950dd12ccda
+:ROAM_REFS: https://gcc.gnu.org/onlinedocs/gcc/Static-Analyzer-Options.html
+:END:
+*** Debugging Options (Using the GNU Compiler Collection (GCC))
+:PROPERTIES:
+:ID:       25d296c8-3e6e-4177-a5c5-7bad8142dea6
+:ROAM_REFS: https://gcc.gnu.org/onlinedocs/gcc/Debugging-Options.html
+:END:
+* cppreference.com
+:PROPERTIES:
+:ID:       6d10872e-d9de-41ab-aaf5-45c646026036
+:ROAM_REFS: https://en.cppreference.com/w/
+:END:
+* Compare tools for C and C++ error checking | Red Hat Developer
+:PROPERTIES:
+:ID:       b294d809-b411-4254-b0d9-9bdabe0f3327
+:ROAM_REFS: https://developers.redhat.com/blog/2021/05/05/memory-error-checking-in-c-and-c-comparing-sanitizers-and-valgrind
+:END:
+* See Also
+ - [[id:b24601aa-09df-41e1-aa7e-25ead342db34][Programming Language]]

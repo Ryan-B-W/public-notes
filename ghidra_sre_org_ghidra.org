@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       6c404bc9-5ca9-41db-a487-dd36faa5b061
+:ROAM_REFS: https://github.com/NationalSecurityAgency/ghidra https://ghidra-sre.org/
+:END:
+#+title: (ghidra-sre.org) Ghidra
+#+filetags: :software:reverse_engineering:programming:computer_science:website:
+
+Ghidra, the open-source reversing toolkit developed by the NSA.

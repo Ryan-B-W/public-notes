@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       ea4ebd61-37f7-4427-a46c-c0051e16ca97
+:END:
+#+title: Internet Relay Chat (IRC)
+#+filetags: :communication:networking:
+
+A networked instant messaging system with rooms and users utilizing a network of nodes that synchronize data between them and users.  Plain text based.

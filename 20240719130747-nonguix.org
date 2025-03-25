@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       8cfffaf9-50bb-486d-b3db-98065c9de49e
+:END:
+#+title: Nonguix
+#+filetags: :package_management:lisp:operating_systems:computer_science:
+
+A repository for [[id:9af45692-b2f1-4d4e-a9b3-03d355ffacd0][Guix]] that includes non-free software.
+* See Also
+ - [[https://gitlab.com/nonguix/nonguix][Nonguix / nonguix · GitLab]]
+ - [[id:949d306c-36bc-4f39-ab4e-c855f4924432][GNU Guix System]]

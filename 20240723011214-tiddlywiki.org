@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       7cfbbdee-d0eb-47ae-8a94-d8c5aea6979c
+:END:
+#+title: TiddlyWiki
+#+filetags: :writing:information_management:
+
+A popular personal [[id:b99c6a7c-958b-4d70-8900-9162b935c574][Wiki]] and, by extension, [[id:d4dafaae-02cf-4a44-8fa9-afded413fe2a][personal knowledge management]] system and [[id:6992d257-971d-40c7-a617-ec82e2541206][note taking]] tool.
+* See Also
+ - [[https://tiddlywiki.com/][TiddlyWiki]] website
+ - [[https://en.wikipedia.org/wiki/TiddlyWiki][TiddlyWiki - Wikipedia]]

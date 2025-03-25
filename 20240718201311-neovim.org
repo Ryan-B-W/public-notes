@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       54504d3e-4f52-4dd2-9f2a-3ad550400bc9
+:END:
+#+title: Neovim
+#+filetags: :development_environment:vim:software:software_development:programming:computer_science:
+
+A fork of [[id:37c53f5b-c586-41ff-a4fe-b44c05ed3c1f][Vim]] that aims to extend Vim with built-in LSP support, Lua for scripting, and, later, built-in tree-sitter support.  Commonly used with advanced configurations and package managers as an IDE.  Current-day competitor to [[id:aca1324c-b142-4e34-a121-a8bb0a79ddf8][Emacs]].
+* See Also
+ - [[https://neovim.io/][Home - Neovim]]
+ - [[https://en.wikipedia.org/wiki/Vim_(text_editor)#Neovim][Vim (text editor) - #Neovim - Wikipedia]]

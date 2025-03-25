@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       8b4bd3af-6778-44e2-94df-a383e93d0979
+:END:
+#+title: Systems Modeling Language (SysML)
+
+A visual language for modeling systems and a dialect of [[id:fab53e34-ce16-4d92-acfb-225d47dbbef7][UML 2]].
+* SysML Open Source Project: What is SysML? Who created it?
+:PROPERTIES:
+:ID:       a9703f41-996e-4a0a-a3b9-47f7b31f95f3
+:ROAM_REFS: https://sysml.org/
+:END:
+
+Website of SysML, a systems modeling visual language.
+
+#+begin_quote
+  The SysML.org web provides information about the SysML Partners and their SysML Open Source Specification Project, which created the Systems Modeling Language (SysML) dialect (profile) of the Unified Modeling Language v. 2 ([[id:fab53e34-ce16-4d92-acfb-225d47dbbef7][UML 2]]) for systems engineering applications in 2003.  Subsequently, the Object Management Group (OMG) adopted a version of SysML as OMG SysML in 2006, and the Software Development Times awarded the SysML Partners with its "SD Times 100" award for industry leadership in the “Modeling” category in 2007.
+  For information about the current version of OMG SysML, see the SysML FAQ: What is the current version of SysML?.
+#+end_quote
+** SysML FAQ: What is SysML?
+:PROPERTIES:
+:ID:       1b16725e-dac8-4b6b-8658-e8bc1344e533
+:ROAM_REFS: https://sysml.org/sysml-faq/what-is-sysml.html
+:END:
+
+"What is SysML" FAQ page of SysML project website.
+
+#+begin_quote
+  What is SysML?
+
+  Question Variant(s): What is the Systems Modeling Language?; What is OMG SysML?
+
+  Definition
+
+  Systems Modeling Language (SysML): SysML is a general-purpose system architecture modeling language for Systems Engineering applications.
+   - SysML supports the specification, analysis, design, verification, and validation of a broad range of systems and systems-of-systems.  These systems may include hardware, software, information, processes, personnel, and facilities.
+   - SysML is a dialect of [[id:fab53e34-ce16-4d92-acfb-225d47dbbef7][UML 2]], and is defined as a UML 2 Profile.  (A UML Profile is a UML dialect that customizes the language via three mechanisms: Stereotypes, Tagged Values, and Constraints.)
+   - SysML is an enabling technology for Model-Based Systems Engineering (MBSE).
+  The SysML was originally created by the SysML Partners' SysML Open Source Specification Project in 2003.  The SysML was adapted and adopted by the Object Management Group (OMG) as OMG SysML in 2006.  For more information about the current version of OMG SysML, see the SysML FAQ: What is the current version of SysML?.
+#+end_quote

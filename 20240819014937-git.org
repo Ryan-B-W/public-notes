@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       003ec9df-d673-4336-aae0-9a034fd89997
+:END:
+#+title: Git
+#+filetags: :computer_science:open_source:version_control:programming:software_development:software:
+
+[[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][Open-source]], decentralized version control system developed by Linus Torvalds.
+* Git (website) :website:computer_science:open_source:version_control:programming:software_development:software:
+:PROPERTIES:
+:ID:       0b1938f1-7f12-40e4-af4f-5004def9a158
+:ROAM_REFS: https://git-scm.com/
+:END:
+
+#+begin_quote
+  Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+  Git is easy to learn and has a tiny footprint with lightning fast performance.  It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.
+#+end_quote
+** Git - git-mergetool Documentation
+:PROPERTIES:
+:ID:       6038ab45-6cf5-4bb9-9624-e32b16c52451
+:ROAM_REFS: https://git-scm.com/docs/git-mergetool
+:END:
+
+#+begin_quote
+  git-mergetool - Run merge conflict resolution tools to resolve merge conflicts
+  DESCRIPTION
+  Use git mergetool to run one of several merge utilities to resolve merge conflicts.  It is typically run after git merge.
+  If one or more <file> parameters are given, the merge tool program will be run to resolve differences in each file (skipping those without conflicts).  Specifying a directory will include all unresolved files in that path.  If no <file> names are specified, git mergetool will run the merge tool program on every file with merge conflicts.
+#+end_quote

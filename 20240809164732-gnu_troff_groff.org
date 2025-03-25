@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       04da1ad3-984e-4c72-b440-5d63eeee5d18
+:END:
+#+title: GNU Troff (groff)
+#+filetags: :documentation:typesetting:gnu:software:
+
+GNU implementation of Troff macro set and typesetter.
+* The GNU Troff Manual
+:PROPERTIES:
+:ID:       c02718b5-e9dd-49e1-9d74-b4ec15d3bc19
+:ROAM_REFS: https://www.gnu.org/software/groff/manual/groff.html
+:END:
+
+#+begin_quote
+  GNU roff (or groff) is a programming system for typesetting documents.  It is highly flexible and has been used extensively for over thirty years.
+#+end_quote

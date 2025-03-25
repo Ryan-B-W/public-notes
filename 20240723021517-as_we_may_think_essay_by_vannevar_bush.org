@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       3bd50b91-e9fa-402a-8fe9-154340bcba7a
+:END:
+#+title: As We May Think, essay by Vannevar Bush
+
+Influential essay by [[id:e5a582e4-16fb-4fd3-b182-07abf5720ee1][Vannevar Bush]] published in July 1945 in The Atlantic.  Introduced the [[id:b78b21dc-3632-4ab1-8f48-d35e0c87b6d5][Memex]] and many of the concepts that form the basis of [[id:a0ac6689-ad9b-4a28-b630-0dd12f15cff1][hypertext]].
+* See Also
+ - [[https://en.wikipedia.org/wiki/As_We_May_Think][As We May Think - Wikipedia]]
+ - [[https://en.wikipedia.org/wiki/Memex][Memex - Wikipedia]]

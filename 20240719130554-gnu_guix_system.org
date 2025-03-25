@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       949d306c-36bc-4f39-ab4e-c855f4924432
+:END:
+#+title: GNU Guix System
+#+filetags: :package_management:linux:operating_systems:lisp:computer_science:
+
+A [[id:bf0bc2d7-17df-413c-823b-93904faffc58][Linux]] [[id:412bbcad-6c00-4f13-b748-d1ffde0588e1][distribution]] using the [[id:9af45692-b2f1-4d4e-a9b3-03d355ffacd0][Guix]] package manager and repository.
+* See Also
+ - [[https://guix.gnu.org/][GNU Guix transactional package manager and distribution — GNU Guix]]
+ - [[https://en.wikipedia.org/wiki/GNU_Guix_System][GNU Guix System - Wikipedia]]

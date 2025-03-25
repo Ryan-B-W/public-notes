@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       da0dcdbe-b7ce-4b2d-8309-f398cb574c03
+:ROAM_REFS: https://github.com/angr/angr
+:END:
+#+title: (github.com) angr/angr: A powerful and user-friendly binary analysis platform!
+#+filetags: :reverse_engineering:programming:software:computer_science:website:

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       17fb5de5-dedc-46ce-a5ed-dd67f3ce9f27
+:END:
+#+title: XML (Extensible Markup Language)
+#+filetags: :file_formats:markup:xml_lang:
+
+Widely used, [[id:0f3ffe6d-ecc8-4b64-acd1-bcbf02159f53][SGML]]-derived, data-markup language.
+* (en.wikipedia.org) XML - Wikipedia                                :website:
+:PROPERTIES:
+:ID:       a4095cd2-5c07-4e07-82b7-1b77a8dc3b22
+:ROAM_REFS: https://en.wikipedia.org/wiki/XML
+:END:
+
+#+begin_quote
+  *Extensible Markup Language* (*XML*) is a [[https://en.wikipedia.org/wiki/Markup_language][markup language]] and [[https://en.wikipedia.org/wiki/File_format][file format]] for storing, transmitting, and reconstructing data.  It defines a set of rules for encoding [[https://en.wikipedia.org/wiki/Electronic_document][documents]] in a format that is both [[https://en.wikipedia.org/wiki/Human-readable][human-readable]] and [[https://en.wikipedia.org/wiki/Machine-readable_data][machine-readable]].  The [[https://en.wikipedia.org/wiki/World_Wide_Web_Consortium][World Wide Web Consortium]]'s XML 1.0 Specification of 1998 and several other related specifications—all of them free [[https://en.wikipedia.org/wiki/Open_standard][open standards]]—define XML.
+
+  The design goals of XML emphasize simplicity, generality, and usability across the [[https://en.wikipedia.org/wiki/Internet][Internet]].  It is a textual data format with strong support via [[https://en.wikipedia.org/wiki/Unicode][Unicode]] for different [[https://en.wikipedia.org/wiki/Human_languages][human languages]].  Although the design of XML focuses on documents, the language is widely used for the representation of arbitrary [[https://en.wikipedia.org/wiki/Data_structure][data structures]], such as those used in [[https://en.wikipedia.org/wiki/Web_service][web services]].
+
+  Several [[https://en.wikipedia.org/wiki/XML_schema][schema systems]] exist to aid in the definition of XML-based languages, while programmers have developed many [[https://en.wikipedia.org/wiki/Application_programming_interface][application programming interfaces]] (APIs) to aid the processing of XML data.
+#+end_quote
