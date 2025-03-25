@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       cece95ac-f1fe-4837-929c-9c21ef7f6f6c
+:END:
+#+title: Eric S. Raymond
+#+filetags: :biographic:people:
+
+Eric Steven Raymond, commonly initialized as ESR, is a software developer, essayist, and [[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][open-source]] advocate.  Known for writing [[id:bda7a980-3a6c-4007-b46d-16afdc818a19][The Cathedral and the Bazaar]] and a series of essays mostly related to hackers and open-source software.
+
+A controversial figure, mainly in regard to his politics, self-proclaimed stewardship of the [[id:6eba12d7-ecd6-4b0a-a8d1-97968cb6abd0][Jargon File]], and self-appointment as the preeminent hacker historian.
+* (en.wikipedia.org) Eric S. Raymond - Wikipedia                    :website:
+:PROPERTIES:
+:ID:       f1f91cef-d8f3-454f-b38f-21e753417314
+:ROAM_REFS: https://en.wikipedia.org/wiki/Eric_S._Raymond
+:END:
+
+#+begin_quote
+  *Eric Steven Raymond* (born December 4, 1957), often referred to as *ESR*, is an American [[https://en.wikipedia.org/wiki/Software_developer][software developer]], [[https://en.wikipedia.org/wiki/Open-source_software][open-source software]] advocate, and author of the 1997 essay and 1999 book /[[https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar][The Cathedral and the Bazaar]]/.  He wrote a guidebook for the [[https://en.wikipedia.org/wiki/Roguelike][Roguelike]] game /[[https://en.wikipedia.org/wiki/NetHack][NetHack]]/.  In the 1990s, he edited and updated the [[https://en.wikipedia.org/wiki/Jargon_File][Jargon File]], published as /The New Hacker's Dictionary/.
+#+end_quote

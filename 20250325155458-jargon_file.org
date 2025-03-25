@@ -1,0 +1,117 @@
+:PROPERTIES:
+:ID:       6eba12d7-ecd6-4b0a-a8d1-97968cb6abd0
+:END:
+#+title: Jargon File
+#+filetags: :hackers:programming:computer_science:dictionary:books:
+
+The Jargon File, also known as The Hacker's Dictionary, is a dictionary of hacker and computer programmer slang that has its roots in the MIT AI lab.
+* (jargon-file.org) Jargon File Text Archive, A Large Jargon File Collection :website:
+:PROPERTIES:
+:ID:       149f02c0-c68b-49eb-bcaf-28b33f2e50ca
+:ROAM_REFS: https://jargon-file.org/
+:END:
+
+#+begin_quote
+  *** WELCOME TO THE
+
+  * JARGON FILE TEXT ARCHIVE
+
+  A large collection of historical versions of the Jargon File
+
+  *[[https://jargon-file.org/archive/][Text Archive Index]]*
+  [[https://jargon-file.org/readme.html][ReadMe / FAQ]]
+  [[http://www.catb.org/~esr/jargon/][Main Jargon File Website]]
+  [[mailto://jargon@jargon-file.org][Submit a File]]
+
+  --------------
+
+  Please note: This site has no association with Eric S. Raymond, Guy L. Steele Jr., Donald R. Woods, Raphael A. Finkel, Mark R. Crispin, Richard M. Stallman, Geoffrey S. Goodfellow, or any other person involved in the creation or maintenence of any version of the Jargon File, The Hacker's Dictionary, or The New Hacker's Dictionary.
+#+end_quote
+** (jargon-file.org) jargon-1.0.3.dox.txt
+:PROPERTIES:
+:ID:       d53a2967-dfc8-48e4-9546-fbfc8f83f0aa
+:ROAM_REFS: https://jargon-file.org/archive/jargon-1.0.3.dos.txt
+:END:
+
+Oldest extant copy of the Jargon File.
+
+#+begin_quote
+  Compiled by Guy L. Steele Jr. with assistance from the MIT AI community.  Some definitions were taken from a compilation by Raphael Finkel with assistance from the SAIL community.
+#+end_quote
+** (jargon-file.org) jargon-1.5.0.dox.txt
+:PROPERTIES:
+:ID:       32dfa07b-c241-4b1e-b959-bd630ba85ecc
+:ROAM_REFS: https://jargon-file.org/archive/jargon-1.5.0.dos.txt
+:END:
+
+Newest version edited by [[id:745de98a-8445-4622-9020-877901f1a7cf][Guy L. Steele Jr.]]
+
+#+begin_quote
+  * The Hacker's Dictionary
+
+  A Guide to the World of Computer Wizards
+
+  Guy L. Steele Jr.
+
+  Donald R. Woods
+
+  Raphael A. Finkel
+
+  Mark R. Crispin
+
+  Richard M. Stallman
+
+  Geoffrey S. Goodfellow
+#+end_quote
+* (www.catb.org) Jargon File Resources                              :website:
+:PROPERTIES:
+:ID:       0161713b-3860-4b22-beaf-04a671696127
+:ROAM_REFS: http://www.catb.org/~esr/jargon/
+:END:
+
+[[id:cece95ac-f1fe-4837-929c-9c21ef7f6f6c][ESR]]'s latest edit of the Jargon File.
+
+#+begin_quote
+  * The Jargon File, version 4.4.8
+
+  This page indexes all the WWW resources associated with the Jargon File and its print version, The New Hacker's Dictionary.  It's as official as anything associated with the Jargon File gets.
+
+  On 23 October 2003, the Jargon File achieved the dubious honor of being cited in the SCO-vs.-IBM lawsuit.  See the [[http://www.catb.org/~esr/jargon/html/F/FUD.html][FUD]] entry for details.
+#+end_quote
+* (web.archive.org) The Newer Hacker's Dictionary                   :website:
+:PROPERTIES:
+:ID:       8a39feb5-2cdb-4ba3-a20f-6ed7ce0714b3
+:ROAM_REFS: https://web.archive.org/web/20130827121341/http:/cosman246.com/jargon.html http://cosman246.com/jargon.html
+:END:
+
+#+begin_quote
+  : #======= THIS IS THE JARGON FILE, VERSION 5.0.1, 5 JAN 2012 =======#
+  :  010
+  :  001
+  :  111
+
+  This is the Jargon File, a comprehensive compendium of hacker slang illuminating many aspects of hackish tradition, folklore, and humor.  It has also been known as the New Hacker's Dictionary.
+
+  This document (the Jargon File) is in the public domain, to be freely used, shared, and modified.  There are (by intention) no legal restraints on what you can do with it, but there are traditions about its proper use to which many hackers are quite strongly attached.  Please extend the courtesy of proper citation when you quote the File, ideally with a version number, as it will change and grow over time.  (Examples of appropriate citation form: "Jargon File 5.0.1" or "The online hacker Jargon File, version 5.0.1, 5 JAN 2012".)
+
+  The Jargon File is a common heritage of the hacker culture.  Over the years a number of individuals have volunteered considerable time to maintaining the File and been recognized by the net at large as editors of it.  Editorial responsibilities include: to collate contributions and suggestions from others; to seek out corroborating information; to cross-reference related entries; to keep the file in a consistent format; and to announce and distribute updated versions periodically.  There have been many forks since the original Jargon File, this is one of them.  Current volunteer editors include:
+
+  Yash Tulsyan [[mailto://yashtulsyan@gmail.com][yashtulsyan@gmail.com]]
+
+  Although there is no requirement that you do so, it is considered good form to check with an editor before quoting the File in a published work or commercial product.  We may have additional information that would be helpful to you and can assist you in framing your quote to reflect not only the letter of the File but its spirit as well.
+
+  All contributions and suggestions about this file sent to a volunteer editor are gratefully received and will be regarded, unless otherwise labelled, as freely given donations for possible use as part of this public-domain file.
+
+  From time to time a snapshot of this file has been polished, edited, and formatted for commercial publication with the cooperation of the volunteer editors and the hacker community at large.  If you wish to have a bound paper copy of this file, you may find it convenient to purchase one of these.  They often contain additional material not found in on-line versions.  The two `authorized' editions so far are described in the Revision History section; there may be more in the future.
+#+end_quote
+* (en.wikipedia.org) Jargon File - Wikipedia                        :website:
+:PROPERTIES:
+:ID:       930a6f45-3d10-43fa-a6fd-3a813a61582d
+:ROAM_REFS: https://en.wikipedia.org/wiki/Jargon_File
+:END:
+
+#+begin_quote
+  The *Jargon File* is a [[https://en.wikipedia.org/wiki/Glossary][glossary]] and [[https://en.wikipedia.org/wiki/Usage_dictionary][usage dictionary]] of [[https://en.wikipedia.org/wiki/Slang][slang]] used by [[https://en.wikipedia.org/wiki/Computer_programmers][computer programmers]].  The original Jargon File was a collection of terms from technical cultures such as the [[https://en.wikipedia.org/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory][MIT AI Lab]], the [[https://en.wikipedia.org/wiki/Stanford_University_centers_and_institutes#Stanford_Artificial_Intelligence_Laboratory][Stanford AI Lab]] (SAIL) and others of the old [[https://en.wikipedia.org/wiki/ARPANET][ARPANET]] [[https://en.wikipedia.org/wiki/Artificial_intelligence][AI]]/[[https://en.wikipedia.org/wiki/Lisp_programming_language][LISP]]/[[https://en.wikipedia.org/wiki/PDP-10][PDP-10]] communities, including [[https://en.wikipedia.org/wiki/BBN_Technologies][Bolt, Beranek and Newman]] (BBN), [[https://en.wikipedia.org/wiki/Carnegie_Mellon_University][Carnegie Mellon University]], and [[https://en.wikipedia.org/wiki/Worcester_Polytechnic_Institute][Worcester Polytechnic Institute]].  It was published in paperback form in 1983 as /*The Hacker's Dictionary*/ (edited by [[https://en.wikipedia.org/wiki/Guy_L._Steele_Jr.][Guy Steele]]) and revised in 1991 as /*The New Hacker's Dictionary*/ (ed. [[https://en.wikipedia.org/wiki/Eric_S._Raymond][Eric S. Raymond]]; third edition published 1996).
+
+  The concept of the file began with the [[https://en.wikipedia.org/wiki/Tech_Model_Railroad_Club][Tech Model Railroad Club]] (TMRC) that came out of early [[https://en.wikipedia.org/wiki/TX-0][TX-0]] and [[https://en.wikipedia.org/wiki/PDP-1][PDP-1]] hackers in the 1950s, where the term /[[https://en.wikipedia.org/wiki/Hacker][hacker]]/ emerged and the ethic, philosophies and some of the nomenclature emerged.
+#+end_quote

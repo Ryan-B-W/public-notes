@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       745de98a-8445-4622-9020-877901f1a7cf
+:END:
+#+title: Guy L. Steele Jr.
+#+filetags: :biographic:people:
+
+Guy Lewis Steele Jr. is a computer scientist that has had an important impact on a verity of technologies.  Most known for [[id:84ae6e85-a6a2-4133-bc53-274238081c2d][Lisp]]—and [[id:6246f8d4-6cd4-489d-b19f-9c1142b51b60][Scheme]] in particular—language designs, documentation and standardization; work in [[id:b10990c2-d056-42f5-a4e7-145a405d9550][artificial intelligence]]; being the originator of [[id:aca1324c-b142-4e34-a121-a8bb0a79ddf8][Emacs]] with co-author [[id:548d9ef2-5ed9-4786-ac14-720c48c25970][David A. Moon]]; and work on the design and standardization of [[id:b5fb5c4b-d10f-4bca-91e1-a5e946ef0c83][Common Lisp]].
+* (en.wikipedia.org) Guy L. Steele Jr. - Wikipedia                  :website:
+:PROPERTIES:
+:ID:       7dce0bcd-170e-4d68-9e89-cd7fd65278ad
+:ROAM_REFS: https://en.wikipedia.org/wiki/Guy_L._Steele_Jr.
+:END:
+
+#+begin_quote
+  *Guy Lewis Steele Jr.* ([[https://en.wikipedia.org/wiki/Help:IPA/English][/stiːl/]]; born October 2, 1954) is an American [[https://en.wikipedia.org/wiki/Computer_scientist][computer scientist]] who has played an important role in designing and documenting several computer [[https://en.wikipedia.org/wiki/Programming_language][programming languages]] and [[https://en.wikipedia.org/wiki/Technical_standard][technical standards]].
+#+end_quote

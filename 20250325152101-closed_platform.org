@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       fe3405e2-7928-48ef-ad03-afd20808d0dc
+:END:
+#+title: Closed Platform
+#+filetags: :business:economics:
+
+Also known as a walled garden or closed ecosystem, a closed platform is a software system where the vendor has exclusive control over applications or content that is available within that platform.
+* (en.wikipedia.org) Closed platform - Wikipedia                    :website:
+:PROPERTIES:
+:ID:       6db7e0ce-ccbf-429f-913d-20c6873e925a
+:ROAM_REFS: https://en.wikipedia.org/wiki/Closed_platform
+:END:
+
+#+begin_quote
+  A *closed platform*, *walled garden*, or *closed ecosystem* is a [[https://en.wikipedia.org/wiki/Software_system][software system]] wherein the carrier or service provider has control over [[https://en.wikipedia.org/wiki/Software_application][applications]], [[https://en.wikipedia.org/wiki/Digital_content][content]], and/or [[https://en.wikipedia.org/wiki/Digital_media][media]], and restricts convenient access to non-approved applicants or content.  This is in contrast to an [[https://en.wikipedia.org/wiki/Open_platform][open platform]], wherein consumers generally have unrestricted access to applications and content.
+#+end_quote
+* See Also
+** [[id:6868109a-df4e-47db-8776-d5d897018f76][Switching Costs]]
+** [[id:559e9871-6468-4b3f-8a0c-57628e80716f][Vendor Lock-in]]

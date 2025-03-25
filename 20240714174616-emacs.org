@@ -2,9 +2,11 @@
 :ID:       aca1324c-b142-4e34-a121-a8bb0a79ddf8
 :END:
 #+title: Emacs
-#+filetags: :development_environment:software_development:software:emacs:lisp:programming:computer_science:
+#+filetags: :text_editing:development_environment:software_development:software:emacs:lisp:programming:computer_science:
 
 An extensible text editor built using [[id:84ae6e85-a6a2-4133-bc53-274238081c2d][Lisp]].  Usually refers to the current incarnation of GNU Emacs from the FSF.  Known for including everything and the kitchen sink.  Jokingly referred to as the Emacs [[id:412bbcad-6c00-4f13-b748-d1ffde0588e1][operating system]] for how many features it packs in.  Extremely flexible given it's implemented almost entirely in [[id:eac73a7d-f14b-4ec4-bc18-08d864e6c4c0][Emacs Lisp (ELisp)]].
+
+Original version was co-authored by [[id:745de98a-8445-4622-9020-877901f1a7cf][Guy L. Steele Jr.]] and [[id:548d9ef2-5ed9-4786-ac14-720c48c25970][David A. Moon]] as a set of TECO editor macros.
 * (www.gnu.org) GNU Emacs - GNU Project                             :website:
 :PROPERTIES:
 :ID:       7cce5f95-6dda-40ce-abb1-f81852bdc294

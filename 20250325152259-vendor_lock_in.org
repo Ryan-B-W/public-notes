@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       559e9871-6468-4b3f-8a0c-57628e80716f
+:END:
+#+title: Vendor Lock-in
+#+filetags: :business:economics:
+
+A term used in economics to describe a situation where a consumer of a product or service is restricted to a single vendor due to substantial [[id:6868109a-df4e-47db-8776-d5d897018f76][switching costs]].
+* (en.wikipedia.org) Vendor lock-in - Wikipedia                     :website:
+:PROPERTIES:
+:ID:       e1533ae6-cfe1-40f3-aaef-f020f885c50c
+:ROAM_REFS: https://en.wikipedia.org/wiki/Vendor_lock-in
+:END:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Economics][economics]], *vendor lock-in*, also known as *proprietary lock-in* or *customer lock-in*, makes a customer dependent on a [[https://en.wikipedia.org/wiki/Vendor][vendor]] for [[https://en.wikipedia.org/wiki/Product_(business)][products]], unable to use another vendor without substantial [[https://en.wikipedia.org/wiki/Switching_barriers][switching costs]].
+
+  The use of [[https://en.wikipedia.org/wiki/Open_standard][open standards]] and alternative options makes systems tolerant of change, so that decisions can be postponed until more information is available or unforeseen events are addressed.  Vendor lock-in does the opposite: it makes it difficult to move from one solution to another.
+
+  Lock-in costs that create [[https://en.wikipedia.org/wiki/Barriers_to_entry][barriers to market entry]] may result in [[https://en.wikipedia.org/wiki/Competition_law][antitrust]] action against a [[https://en.wikipedia.org/wiki/Monopoly][monopoly]].
+#+end_quote
+* See Also
+** [[id:fe3405e2-7928-48ef-ad03-afd20808d0dc][Closed Platform]]
