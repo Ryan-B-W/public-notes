@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7d44122d-ef5a-4e2e-a214-baf64be90525
+:ROAM_REFS: https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/
+:END:
+#+title: (www.theatlantic.com) The Trump Administration Accidentally Texted Me Its War Plans - The Atlantic
+#+filetags: :article:news:website:
+
+#+begin_quote
+  * The Trump Administration Accidentally Texted Me Its War Plans
+
+  U.S. national-security leaders included me in a group chat about upcoming military strikes in Yemen.  I didn't think it could be real.  Then the bombs started falling.
+
+  By [[https://www.theatlantic.com/author/jeffrey-goldberg/][Jeffrey Goldberg]]
+
+  March 24, 2025, 12:06 PM ET
+
+  The world found out shortly before 2 p.m. eastern time on March 15 that the United States was bombing Houthi targets across Yemen.
+
+  I, however, knew two hours before the first bombs exploded that the attack might be coming.  The reason I knew this is that [[https://www.theatlantic.com/tag/person/pete-hegseth/][Pete Hegseth]], the secretary of defense, had texted me the war plan at 11:44 a.m.  The plan included precise information about weapons packages, targets, and timing.
+#+end_quote

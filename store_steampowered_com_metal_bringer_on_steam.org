@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       6d56c259-9c56-4b67-a1db-f6c0c273c659
+:ROAM_REFS: https://store.steampowered.com/app/2334170/Metal_Bringer/
+:END:
+#+title: (store.steampowered.com) Metal Bringer on Steam
+#+filetags: :game_genre_action:game_genre_rougelike:games:website:
+
+#+begin_quote
+  In this roguelike action-adventure, control humanoid "Labor" and giant "Arms" to uncover the mysteries of the world.  Create fully-customizable robots, strengthen them, and take down hordes of enemies!
+#+end_quote

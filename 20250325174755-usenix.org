@@ -1,0 +1,53 @@
+:PROPERTIES:
+:ID:       bf794b8e-8a89-4c19-b96c-9dc7281e7054
+:END:
+#+title: USENIX
+#+filetags: :research:networking:computer_science:organization:
+
+A non-profit dedicated to computing systems, [[id:412bbcad-6c00-4f13-b748-d1ffde0588e1][operating system]], and computer networking research and hosts events to further those areas.
+* (www.usenix.org) Home | USENIX                                    :website:
+:PROPERTIES:
+:ID:       a803678f-4700-4508-ba1e-53d921536c45
+:ROAM_REFS: https://www.usenix.org/
+:END:
+
+#+begin_quote
+  * Home
+
+  Building Cutting Edge Communities
+
+  Since 1975, USENIX has brought together a community of engineers, system administrators, scientists, and technicians working on the cutting edge of the computing world.
+
+  Community & Collaboration
+
+  *** Membership
+
+  The support and participation of our members is what makes us able to offer some of the most highly respected conferences and publications in the industry.
+
+  *** Conferences
+
+  Find out more about upcoming USENIX conferences, as well as events that are being held in cooperation with USENIX.
+
+  [[https://www.usenix.org/conferences][See All Conferences]]
+
+  *** Publications
+
+  20,000+ pieces of conference content such as videos and refereed papers. And growing. All free. Brought to you by USENIX, thanks to our open access policy.
+
+  [[https://www.usenix.org/publications][See All Content]]
+
+  *** Support Our Mission
+
+  Your tax-deductible donation supports these activities as well as our strong commitment to open access.
+
+  [[https://www.usenix.org/donate][Donate Today]]
+#+end_quote
+* (en.wikipedia.org) USENIX - Wikipedia                             :website:
+:PROPERTIES:
+:ID:       dc8d1583-afdc-474d-8ed7-cdd186ade61f
+:ROAM_REFS: https://en.wikipedia.org/wiki/USENIX
+:END:
+
+#+begin_quote
+  *USENIX* is an American [[https://en.wikipedia.org/wiki/501(c)(3)_organization][501(c)(3) nonprofit]] [[https://en.wikipedia.org/wiki/Membership_organization][membership organization]] based in [[https://en.wikipedia.org/wiki/Berkeley,_California][Berkeley, California]] and founded in 1975 that supports advanced [[https://en.wikipedia.org/wiki/Computer][computing systems]], [[https://en.wikipedia.org/wiki/Operating_system][operating system]] (OS), and [[https://en.wikipedia.org/wiki/Computer_network][computer networking]] research.  It organizes several conferences in these fields.
+#+end_quote

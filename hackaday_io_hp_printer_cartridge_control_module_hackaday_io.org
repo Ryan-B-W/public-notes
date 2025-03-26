@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       d9f34abb-8046-4c8f-afb6-312cc135aefa
+:ROAM_REFS: https://hackaday.io/project/176931-hp-printer-cartridge-control-module
+:END:
+#+title: (hackaday.io) HP printer cartridge control module | Hackaday.io
+#+filetags: :printing:electronics:website:
+
+#+begin_quote
+  * HP printer cartridge control module
+
+  HP 63/302/123/803 cartridge control module with 3D printable mount.
+
+  Pavel Semenov
+
+  This project was created on 01/18/2021 and last updated 3 years ago.
+
+  ** Description
+
+  The idea of this project is to make the MCU compatible control module for the HP printer cartridge in easy to connect format.  For the first time ever, inkjet technology is available for your projects in a convenient module format with the necessary easy-to-use software.  Most of the mechanical parts are 3D printable.  The electronics part is a 23x38 mm level converters SMT PCB with 14 inputs with an overload cartridge protection circuit.
+
+  ** Details
+
+  ** Synopsis
+
+  In my head quite often there are ideas that I would like to implement, they are both in the field of hardware and in the field of software.  Often they remain unstarted because someone has already implemented them.
+
+  Once again I have a new idea - a project of a handheld printer which would consist of a color printer cartridge and optical flow sensor (the same which is installed in an optical mouse) in a compact case.  My idea was that it would print by moving this whole construction over a sheet of paper.  A genius idea, and... it already turned out to be implemented, for example here: [[https://www.indiegogo.com/projects/princube-the-world-s-smallest-mobile-color-printer#/][PrintCube]].
+#+end_quote

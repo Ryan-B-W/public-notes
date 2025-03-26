@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       a528893d-77aa-428e-80d5-c9e89d9ae76a
+:ROAM_REFS: https://store.steampowered.com/app/1604270/Broken_Arrow/
+:END:
+#+title: (store.steampowered.com) Broken Arrow on Steam
+#+filetags: :game_genre_wargame:game_genre_rts:game_genre_strategy:games:website:
+
+#+begin_quote
+  Broken Arrow is a large-scale real-time modern warfare tactics game.  A unique army building system and deep units customization tools allow for endless replayability.  With 300+ realistic military units and technologies, each battle is more immersive than ever before.
+#+end_quote

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b2333500-837c-44ce-95df-878c9b8e36cf
+:ROAM_REFS: https://www.usenix.org/conference/atc25
+:END:
+#+title: (www.usenix.org) USENIX ATC '25 | USENIX
+#+filetags: :website:
+
+#+begin_quote
+  ** 2025 USENIX Annual Technical Conference
+
+  July 7–9, 2025
+
+  Boston, MA, USA
+
+  Co-located with
+
+  [[https://www.usenix.org/conference/osdi25][OSDI '25]]
+
+  The *2025 USENIX Annual Technical Conference* will take place on July 7–9, 2025, at the Sheraton Boston in Boston, MA, USA.
+
+  USENIX ATC brings together leading systems researchers for the presentation of cutting-edge systems research and the opportunity to gain insight into a wealth of must-know topics, including virtualization, system and network management and troubleshooting, cloud and edge computing, security, privacy, and trust, mobile and wireless, and more.
+#+end_quote

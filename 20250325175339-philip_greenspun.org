@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       cc851b91-7b31-4ade-9978-5f4c1a17a680
+:END:
+#+title: Philip Greenspun
+#+filetags: :biographic:people:
+
+A computer scientist and early internet entrepreneur.  Greenspun was an early developer of databse-based websites.  Known user of [[id:84ae6e85-a6a2-4133-bc53-274238081c2d][Lisp]].
+* (philip.greenspun.com) Philip Greenspun's home page               :website:
+:PROPERTIES:
+:ID:       95a50d75-18a7-409f-9dfe-769214b75183
+:ROAM_REFS: https://philip.greenspun.com/
+:END:
+
+#+begin_quote
+  ** Philip Greenspun
+
+  When I'm not entertaining the kids, my life is divided among
+
+  - [[https://philip.greenspun.com/flying/][aviation]]
+  - [[https://philip.greenspun.com/photography/][photography]]
+  - [[https://philip.greenspun.com/travel/][travel]]
+  - [[https://philip.greenspun.com/teaching/][teaching]] electrical engineering and computer science and [[https://philip.greenspun.com/research/][research]] into the best ways to use the Internet (these days, mostly practical online community stuff)
+
+  This server also contains
+
+  - [[https://philip.greenspun.com/writing/][miscellaneous writing]]
+  - [[https://philip.greenspun.com/personal/][information about me]], e.g., biography and photos
+  - [[https://philip.greenspun.com/humor/][humor]], notably [[https://philip.greenspun.com/careers/][Career Guide for Engineers and Scientists]]
+  - Navigation: [[https://philip.greenspun.com/site-map][site map]] | [[https://philip.greenspun.com/site-history][site history]] | [[https://philip.greenspun.com/search/][search]]
+
+  *** What's New
+
+  - [[https://philip.greenspun.com/teaching/ground-school][Three-day FAA ground school at MIT]] (January 7-9, 2025)
+  - EAA AirVenture (Oshkosh) Helicopter and IFR students: [[https://tinyurl.com/osh2022]] links to all materials presented (August 10 ([[https://mit.zoom.us/rec/share/77EvjcC_9_ea8ZXVvUuJdo-o6g6XlZ_pL3lyabQTwGSO8fyj4-N5BeWco9IQW2yn.QDHg34XaYJca0YP2?startTime=1660173034000][recording]]) and 17 ([[https://mit.zoom.us/rec/share/yWNK9r5ZE4qlGYlsmxA43eY053VVDutDf-_K2k26-EkSRcqDwM2-e6HUIm2qzQAr.gcPLgbYfyu8AZkrr?startTime=1660777275000][recording]]) at 7 pm)
+  - [[https://philip.greenspun.com/blog/2021/12/27/teaching-information-security/][teaching Information Security]] fall 2021 at Florida Atlantic University
+  - [[https://philip.greenspun.com/blog/2021/04/06/relocation-to-florida-for-a-family-with-school-age-children/][move to Florida]] (August 2021)
+  - [[https://philip.greenspun.com/software/source-code-review/][Source Code Review]] (for patent and software litigation)
+  - [[https://philip.greenspun.com/careers/bitcoin-v-medical-school/][Bitcoin v. Medical School]] (calculator)
+  - [[https://philip.greenspun.com/flying/bell-505/review][Bell 505 Jet Ranger X review]]
+  - [[https://philip.greenspun.com/photography/family-history-video][Capturing Family History on Video]]
+  - the rest: [[https://philip.greenspun.com/blog/][my Weblog]]
+#+end_quote
+** (philip.greenspun.com) Philip Greenspun's Research
+:PROPERTIES:
+:ID:       258e64e8-3de6-4504-9d5e-6e6e64a6108b
+:ROAM_REFS: https://philip.greenspun.com/research/
+:END:
+* (en.wikipedia.org) Philip Greenspun - Wikipedia                   :website:
+:PROPERTIES:
+:ID:       abebf4c7-49a7-4c6b-8629-8fa2efe252f1
+:ROAM_REFS: https://en.wikipedia.org/wiki/Philip_Greenspun
+:END:
+
+#+begin_quote
+  *Philip Greenspun* (born September 28, 1963) is an American [[https://en.wikipedia.org/wiki/Computer_scientist][computer scientist]], [[https://en.wikipedia.org/wiki/Educator][educator]], early [[https://en.wikipedia.org/wiki/Internet][Internet]] [[https://en.wikipedia.org/wiki/Entrepreneur][entrepreneur]], and pilot who was a pioneer in developing [[https://en.wikipedia.org/wiki/Online_communities][online communities]] like photo.net.
+#+end_quote
+* See Also
+** [[id:7421929e-6baa-422b-b9e7-70e52df1ec3d][Greenspun's Tenth Rule]]

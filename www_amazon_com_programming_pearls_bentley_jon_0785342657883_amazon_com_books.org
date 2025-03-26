@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       7e5e45c4-d3ec-4676-86b4-cdf713d292a2
+:ROAM_REFS: https://www.amazon.com/dp/0201657880
+:END:
+#+title: (www.amazon.com) Programming Pearls: Bentley, Jon: 0785342657883: Amazon.com: Books
+#+filetags: :programming:computer_science:books:website:
+
+#+begin_quote
+  * Programming Pearls 2nd Edition
+
+  by [[https://www.amazon.com/Jon-Bentley/e/B000AQ8UPG/ref=dp_byline_cont_book_1][Jon Bentley]] (Author)
+
+  When programmers list their favourite books, Jon Bentley's collection of programming pearls is commonly included among the classics.  Just as natural pearls grow from grains of sand that irritate oysters, programming pearls have grown from real problems that have irritated real programmers.  With origins beyond solid engineering, in the realm of insight and creativity, Bentley's pearls offer unique and clever solutions to those nagging problems.  Illustrated by programs designed as much for fun as for instruction, the book is filled with lucid and witty descriptions of practical programming techniques and fundamental design principles.  It is not at all surprising that Programming Pearls has been so highly valued by programmers at every level of experience.
+
+  What remains the same in this edition is Bentley's focus on the hard core of programming problems and his delivery of workable solutions to those problems.  Whether you are new to Bentley's classic or are revisiting his work for some fresh insight, the book is sure to make your own list of favourites.
+#+end_quote

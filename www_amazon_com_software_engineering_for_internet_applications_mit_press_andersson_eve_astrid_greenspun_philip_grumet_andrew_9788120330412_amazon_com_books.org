@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3c650a23-00d3-4f95-8c0f-80c4270bad02
+:ROAM_REFS: https://www.amazon.com/dp/0262511916
+:END:
+#+title: (www.amazon.com) Software Engineering for Internet Applications (Mit Press): Andersson, Eve Astrid, Greenspun, Philip, Grumet, Andrew: 9788120330412: Amazon.com: Books
+#+filetags: :textbooks:networking:software_development:programming:books:website:
+
+#+begin_quote
+  * Software Engineering for Internet Applications (Mit Press) Illustrated Edition
+
+  by [[https://www.amazon.com/Eve-Astrid-Andersson/e/B001K88CH4/ref=dp_byline_cont_book_1][Eve Astrid Andersson]] (Author), [[https://www.amazon.com/s/ref=dp_byline_sr_book_2?ie=UTF8&field-author=Philip+Greenspun&text=Philip+Greenspun&sort=relevancerank&search-alias=books][Philip Greenspun]] (Author), [[https://www.amazon.com/s/ref=dp_byline_sr_book_3?ie=UTF8&field-author=Andrew+Grumet&text=Andrew+Grumet&sort=relevancerank&search-alias=books][Andrew Grumet]] (Author)
+
+  A self-contained course on server-based Internet applications software that grew out of an MIT course.
+
+  After completing this self-contained course on server-based Internet applications software, students who start with only the knowledge of how to write and debug a computer program will have learned how to build web-based applications on the scale of Amazon.com.  Unlike the desktop applications that most students have already learned to build, server-based applications have multiple simultaneous users.  This fact, coupled with the unreliability of networks, gives rise to the problems of concurrency and transactions, which students learn to manage by using the relational database system.
+
+  After working their way to the end of the book, students will have the skills to take vague and ambitious specifications and turn them into a system design that can be built and launched in a few months.  They will be able to test prototypes with end-users and refine the application design.  They will understand how to meet the challenge of extreme business requirements with automatic code generation and the use of open-source toolkits where appropriate.  Students will understand HTTP, HTML, SQL, mobile browsers, VoiceXML, data modeling, page flow and interaction design, server-side scripting, and usability analysis.
+
+  The book, which originated as the text for an MIT course, is suitable for classroom use and will be a useful reference for software professionals developing multi-user Internet applications.  It will also help managers evaluate such commercial software as Microsoft Sharepoint of Microsoft Content Management Server.
+#+end_quote

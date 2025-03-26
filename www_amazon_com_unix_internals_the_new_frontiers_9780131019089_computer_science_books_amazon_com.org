@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       e1f0730f-20a5-42f6-aca5-918e5dd0f6d6
+:ROAM_REFS: https://www.amazon.com/dp/0131019082
+:END:
+#+title: (www.amazon.com) UNIX Internals: The New Frontiers: 9780131019089: Computer Science Books @ Amazon.com
+#+filetags: :unix:computer_science:books:website:
+
+#+begin_quote
+  * UNIX Internals: The New Frontiers 1st Edition
+
+  by [[https://www.amazon.com/Uresh-Vahalia/e/B001IQULHW/ref=dp_byline_cont_book_1][Uresh Vahalia]] (Author)
+
+  This book offers an exceptionally up-to-date, in-depth, and broad-based exploration of the latest advances in UNIX-based operating systems.  Focusing on the design and implementation of the operating system itself—not on the applications and tools that run on it – this book compares and analyzes the alternatives offered by several important UNIX variants, and covers several advanced subjects, such as multi-processors and threads.  Compares several important UNIX variants—highlighting the issues and alternative solutions for various operating system components.  Describes advanced technologies such as multiprocessor and multithreaded systems, log- structured file systems, and modern memory architecture.
+#+end_quote
