@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       1ac58604-0351-46b8-adda-fa33e91fd14b
+:ROAM_REFS: https://www.howtogeek.com/358596/how-to-fix-blurry-fonts-on-macos-mojave-with-subpixel-antialiasing/
+:END:
+#+title: (www.howtogeek.com) How to Fix Blurry Fonts on macOS Mojave (With Subpixel Antialiasing)
+#+filetags: :fonts:article:website:

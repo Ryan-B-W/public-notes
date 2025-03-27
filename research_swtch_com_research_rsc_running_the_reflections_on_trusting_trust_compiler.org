@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       f2a247ba-afc1-462c-9373-34b677a9da64
+:ROAM_REFS: https://research.swtch.com/nih
+:END:
+#+title: (research.swtch.com) research!rsc: Running the “Reflections on Trusting Trust” Compiler
+#+filetags: :security:c_lang:programming:computer_science:website:
+
+Blog post where someone runs Ken Thompson's [[id:60005e00-0c1f-4b71-be75-36b216d6b0a1][Reflections on Trusting Trust]] compiler trojan code.
+
+#+begin_quote
+  Supply chain security is a hot topic today, but it is a very old problem.  In October 1983, 40 years ago this week, Ken Thompson chose supply chain security as the topic for his Turing award lecture, although the specific term wasn’t used back then.  (The field of computer science was still young and small enough that the ACM conference where Ken spoke was the “Annual Conference on Computers.”) Ken’s lecture was later published in Communications of the ACM under the title “Reflections on Trusting Trust.”  It is a classic paper, and a short one (3 pages); if you haven’t read it yet, you should.  This post will still be here when you get back.
+  In the lecture, Ken explains in three steps how to modify a C compiler binary to insert a backdoor when compiling the “login” program, leaving no trace in the source code.  In this post, we will run the backdoored compiler using Ken’s actual code.  But first, a brief summary of the important parts of the lecture.
+#+end_quote

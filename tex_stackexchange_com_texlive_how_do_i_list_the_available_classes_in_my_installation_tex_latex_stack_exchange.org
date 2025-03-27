@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       564851d5-dd32-4c75-918e-c749fb4f879d
+:ROAM_REFS: https://tex.stackexchange.com/questions/115028/how-do-i-list-the-available-classes-in-my-installation
+:END:
+#+title: (tex.stackexchange.com) texlive - How do I list the available classes in my installation? - TeX - LaTeX Stack Exchange
+#+filetags: :latex:website:
+
+From the answer:
+#+begin_src sh
+  grep "\.cls" `kpsewhich --var-value TEXMFDIST`/ls-R
+#+end_src

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       a72419f7-8591-46a0-8376-0ff91621c982
+:ROAM_REFS: https://docs.racket-lang.org/datalog/
+:END:
+#+title: (docs.racket-lang.org) Datalog: Deductive Database Programming
+#+filetags: :documentation:logic:programming_language:website:
+
+#+begin_quote
+  Datalog is
+  - a declarative logic language in which each formula is a function-free Horn clause, and every variable in the head of a clause must appear in the body of the clause.
+  - a lightweight deductive database system where queries and database updates are expressed in the logic language.
+  The use of Datalog syntax and an implementation based on tabling intermediate results ensures that all queries terminate.
+#+end_quote

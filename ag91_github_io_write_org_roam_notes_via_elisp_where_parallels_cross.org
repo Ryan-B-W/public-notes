@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       fe2fc403-8bd2-4d2f-ba86-fdd6340ceefd
+:ROAM_REFS: https://ag91.github.io/blog/2020/11/12/write-org-roam-notes-via-elisp/
+:END:
+#+title: (ag91.github.io) Write org-roam notes via Elisp - Where parallels cross
+#+filetags: :article:emacs_lisp:lisp:emacs:website:

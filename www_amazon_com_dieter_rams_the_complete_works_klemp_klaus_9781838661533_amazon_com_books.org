@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       92b275bb-652d-451b-b977-12f772075a9a
+:ROAM_REFS: https://www.amazon.com/dp/1838661530
+:END:
+#+title: (www.amazon.com) Dieter Rams: The Complete Works: Klemp, Klaus: 9781838661533: Amazon.com: Books
+#+filetags: :design:books:website:
+
+#+begin_quote
+  /"Chances are if you've shaved with an electric razor, blow-dried your hair, or sparked up a cigarette in the past 60 years, you owe a debt of gratitude to Dieter Rams." – New York Times/
+  *Made in close collaboration with Rams himself, this catalogue raisonné is the ultimate reference on one of the most influential product designers of all time*
+  Dieter Rams is one of the most influential product designers of the twentieth century, who, for more than sixty years, has been defining the look, feel, and function of some of the world's best-loved consumer items.  Using his 'ten principles for good design' as a philosophy and practice for improving the industry in a more holistic, responsible way, Rams has a stellar reputation with global resonance.
+  This extraordinary book forms a catalogue raisonné of every product that Rams has designed in his lifetime – a true celebration of his seminal contribution to the field of industrial and product design.  Including 300 color illustrations, the book is organized chronologically, each product is accompanied by a detailed description and specification breakdown, making this the ultimate reference guide for Rams fans and an ideal complement to Phaidon's global bestseller /Dieter Rams: As Little Design as Possible/.
+#+end_quote

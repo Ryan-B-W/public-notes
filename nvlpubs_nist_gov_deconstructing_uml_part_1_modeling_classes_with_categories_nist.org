@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       fdde22af-0d7c-4d53-a221-b5c905054af1
+:ROAM_REFS: https://www.nist.gov/publications/deconstructing-uml-part-1-modeling-classes-categories
+:END:
+#+title: (nvlpubs.nist.gov) Deconstructing UML, Part 1: Modeling Classes with Categories | NIST
+#+filetags: :research:mathematics:website:
+
+#+begin_quote
+  In this paper we analyze elements of the Unified Modeling Language (UML), specifically the class diagram, and propose an simplified alternative language based on a branch of mathematics called category theory (CT).  We argue that modeling in CT provides a richer and more precise formal structure than UML, while still supporting many of the intuitive and diagrammatic features which engineers appreciate in UML.  Deep ties connect CT to formal logic, physics and computer science, helping to connect our CT-based models to simulation and implementation.  We proceed by walking through the constructs of the class diagram and showing how the same information can be captured using CT constructions.  As we do, we see that some UML constructs are redundant while others smuggle in assumptions which ought to be made explicit.  Thus we argue that the use of CT in information modeling can make our models less ambiguous, more precise and more formal.
+#+end_quote
+* (nvlpubs.nist.gov) Deconstructing UML, Part 1: Modeling Classes with Categories - NIST.IR.8358.pdf :mathematics:research:website:
+:PROPERTIES:
+:ID:       46b115ae-6e57-485e-b19d-80f9bad4e769
+:ROAM_REFS: https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8358.pdf
+:END:

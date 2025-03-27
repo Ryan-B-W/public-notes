@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       cf51779c-9bcb-473a-969f-8500a90fae37
+:ROAM_REFS: https://github.com/Snowiiii/Pumpkin
+:END:
+#+title: (github.com) Snowiiii/Pumpkin: Empowering everyone to host fast and efficient Minecraft servers.
+#+filetags: :open_source:rust_lang:server:games:minecraft:website:
+
+#+begin_quote
+  Pumpkin is a Minecraft server built entirely in Rust, offering a fast, efficient, and customizable experience.  It prioritizes performance and player enjoyment while adhering to the core mechanics of the game.
+#+end_quote

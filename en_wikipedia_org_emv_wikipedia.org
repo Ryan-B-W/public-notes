@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       220d7ac5-1b2a-4832-8079-3cec8d41d347
+:ROAM_REFS: https://en.wikipedia.org/wiki/EMV
+:END:
+#+title: (en.wikipedia.org) EMV - Wikipedia
+#+filetags: :electronics:website:
+
+#+begin_quote
+  *EMV* is a payment method based on a technical standard for [[https://en.wikipedia.org/wiki/Smart_card][smart]] [[https://en.wikipedia.org/wiki/Payment_card][payment cards]] and for [[https://en.wikipedia.org/wiki/Payment_terminal][payment terminals]] and [[https://en.wikipedia.org/wiki/Automated_teller_machine][automated teller machines]] which can accept them.  EMV stands for "[[https://en.wikipedia.org/wiki/Europay_International][Europay]], [[https://en.wikipedia.org/wiki/Mastercard][Mastercard]], and [[https://en.wikipedia.org/wiki/Visa_Inc.][Visa]]", the three companies that created the standard.
+
+  EMV cards are [[https://en.wikipedia.org/wiki/Smart_cards][smart cards]], also called chip cards, integrated circuit cards, or IC cards, which store their data on [[https://en.wikipedia.org/wiki/Integrated_circuit][integrated circuit]] chips, in addition to [[https://en.wikipedia.org/wiki/Magnetic_stripe_card][magnetic stripes]] for [[https://en.wikipedia.org/wiki/Backward_compatibility][backward compatibility]].  These include cards that must be physically inserted or "dipped" into a reader, as well as [[https://en.wikipedia.org/wiki/Contactless_smart_card][contactless cards]] that can be read over a short distance using [[https://en.wikipedia.org/wiki/Near-field_communication][near-field communication]] technology.  Payment cards which comply with the EMV standard are often called *chip and PIN* or *chip and signature* cards, depending on the authentication methods employed by the card issuer, such as a [[https://en.wikipedia.org/wiki/Personal_identification_number][personal identification number]] (PIN) or [[https://en.wikipedia.org/wiki/Electronic_signature][electronic signature]].  Standards exist, based on [[https://en.wikipedia.org/wiki/ISO/IEC_7816][ISO/IEC 7816]], for contact cards, and based on [[https://en.wikipedia.org/wiki/ISO/IEC_14443][ISO/IEC 14443]] for contactless cards ([[https://en.wikipedia.org/wiki/Mastercard#Mastercard_Contactless][Mastercard Contactless]], Visa [[https://en.wikipedia.org/wiki/PayWave][PayWave]], American Express [[https://en.wikipedia.org/wiki/ExpressPay][ExpressPay]]).
+#+end_quote

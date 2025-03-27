@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       d2091f2a-1890-4215-847c-27258ecbb0e0
+:ROAM_REFS: https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51
+:END:
+#+title: (gist.github.com) A guide to Markdown on Discord.
+#+filetags: :markdown:markup:documentation:website:
+
+#+begin_quote
+  * Markdown Text 101
+
+  Want to inject some flavor into your everyday text chat?  You're in luck!  Discord uses Markdown, a simple plain text formatting system that'll help you *make your sentences stand out*.  Here's how to do it!  Just add a few characters before & after your desired text to change your text!  I'll show you some examples...
+
+  *What this guide covers:*
+
+  - [[https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51#text-formatting][Text Formatting]]
+  - [[https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51#organizational-text-formatting][Organizational Text Formatting]]
+    - [[https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51#headers][Headers]]
+    - [[https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51#subtext][Subtext]]
+    - [[https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51#masked-links][Masked Links]]
+    - [[https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51#unordered-lists][Unordered Lists]]
+    - [[https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51#ordered-lists][Ordered Lists]]
+  - [[https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51#code-blocks][Code Blocks]]
+  - [[https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51#block-quotes][Block Quotes]]
+  - [[https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51#spoiler-tags][Spoiler Tags]]
+  - [[https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51#syntax-highlighting][Syntax Highlighting]]
+#+end_quote

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       87c63ea4-7bf4-4f3a-9822-2a41fe5fc31b
+:ROAM_REFS: https://en.wikipedia.org/wiki/Integrated_electric_propulsion
+:END:
+#+title: (en.wikipedia.org) Integrated electric propulsion - Wikipedia
+#+filetags: :vehicle_technology:website:
+
+#+begin_quote
+  Integrated electric propulsion (IEP), full electric propulsion (FEP) or integrated full electric propulsion (IFEP) is an arrangement of marine propulsion systems such that gas turbines or diesel generators or both generate three-phase electricity which is then used to power electric motors turning either propellers or waterjet impellors.  It is a modification of the combined diesel-electric and gas propulsion system for ships which eliminates the need for clutches and reduces or eliminates the need for gearboxes by using electrical transmission rather than mechanical transmission of energy, so it is a series hybrid electric propulsion, instead of parallel.
+
+  Some newer nuclear-powered warships also use a form of IEP.  A nuclear power plant produces the steam to operate turbine generators; these in turn power electric propulsion motors.
+#+end_quote

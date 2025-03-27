@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       d3b747d4-2a1d-46da-ac48-467de6f8c7c3
+:ROAM_REFS: https://github.com/ThomasOrlita/awesome-bookmarklets
+:END:
+#+title: (github.com) ThomasOrlita/awesome-bookmarklets: Collection of useful bookmarklets for developers.
+#+filetags: :lists:software_development:www:website:
+
+#+begin_quote
+  Collection of useful bookmarklets for developers.
+#+end_quote

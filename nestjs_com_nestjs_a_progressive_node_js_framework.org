@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       aadec5e1-d2b4-4f70-956d-012b7e3c1ac0
+:ROAM_REFS: https://nestjs.com/
+:END:
+#+title: (nestjs.com) NestJS - A progressive Node.js framework
+#+filetags: :www:programming:javascript:website:
+
+#+begin_quote
+  A progressive Node.js framework for building efficient, reliable and scalable server-side applications.
+#+end_quote

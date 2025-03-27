@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       540146f4-c0ef-423f-8598-9a9dc4e3a4df
+:END:
+#+title: Dynabook
+
+A concept by [[id:022e5ea5-fb05-4899-981e-ca4b992dc497][Alan Kay]] initially described as the KiddiComp in 1968 and later refined as the Dynabook in 1972.  The basic idea of the Dynabook is a portable computer designed with children in mind that provides a computer in a notebook form-factor but still providing full-sized computer functionality wrapped up in a more intuitive interface.
+* See Also
+ - [[https://en.wikipedia.org/wiki/Dynabook][Dynabook - Wikipedia]]

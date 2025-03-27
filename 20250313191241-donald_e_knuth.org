@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       98408d03-2cf9-4897-905d-02781a1b8a6b
+:END:
+#+title: Donald Ervin Knuth
+#+filetags: :computer_science:people:
+
+Famous computer scientist and mathematician.  The author of [[id:b63e99ff-3b78-4b44-8683-91df13ef08fb][The Art of Computer Programming]].
+* (en.wikipedia.org) Donald Knuth - Wikipedia                       :website:
+:PROPERTIES:
+:ID:       24c7ba9c-2b23-4112-9803-1b9950775856
+:ROAM_REFS: https://en.wikipedia.org/wiki/Donald_Knuth
+:END:
+
+#+begin_quote
+  *Donald Ervin Knuth* ([[https://en.wikipedia.org/wiki/Help:IPA/English][/kəˈnuːθ/]] [[https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key][/kə-NOOTH/]]; born January 10, 1938) is an American computer scientist and mathematician.  He is a [[https://en.wikipedia.org/wiki/Professor_emeritus][professor emeritus]] at [[https://en.wikipedia.org/wiki/Stanford_University][Stanford University]].  He is the 1974 recipient of the [[https://en.wikipedia.org/wiki/Acm_Turing_award][ACM Turing Award]], informally considered the [[https://en.wikipedia.org/wiki/Nobel_Prize][Nobel Prize]] of computer science.  Knuth has been called the "father of the [[https://en.wikipedia.org/wiki/Analysis_of_algorithms][analysis of algorithms]]".
+
+  Knuth is the author of the multi-volume work /[[https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming][The Art of Computer Programming]]/.  He contributed to the development of the rigorous analysis of the [[https://en.wikipedia.org/wiki/Computational_complexity][computational complexity]] of algorithms and systematized formal mathematical techniques for it.  In the process, he also popularized the [[https://en.wikipedia.org/wiki/Big_O_notation][asymptotic notation]].  In addition to fundamental contributions in several branches of [[https://en.wikipedia.org/wiki/Theoretical_computer_science][theoretical computer science]], Knuth is the creator of the [[https://en.wikipedia.org/wiki/TeX][TeX]] computer typesetting system, the related [[https://en.wikipedia.org/wiki/METAFONT][METAFONT]] font definition language and rendering system, and the [[https://en.wikipedia.org/wiki/Computer_Modern][Computer Modern]] family of typefaces.
+
+  As a writer and scholar, Knuth created the [[https://en.wikipedia.org/wiki/WEB][WEB]] and [[https://en.wikipedia.org/wiki/CWEB][CWEB]] computer programming systems designed to encourage and facilitate [[https://en.wikipedia.org/wiki/Literate_programming][literate programming]], and designed the [[https://en.wikipedia.org/wiki/MIX_(abstract_machine)][MIX]]/[[https://en.wikipedia.org/wiki/MMIX][MMIX]] [[https://en.wikipedia.org/wiki/Instruction_set][instruction set architectures]].  He strongly opposes the granting of [[https://en.wikipedia.org/wiki/Software_patent][software patents]], and has expressed [[https://en.wikipedia.org/wiki/Donald_Knuth#Opinion_on_software_patents][his opinion]] to the [[https://en.wikipedia.org/wiki/United_States_Patent_and_Trademark_Office][United States Patent and Trademark Office]] and [[https://en.wikipedia.org/wiki/European_Patent_Organisation][European Patent Organisation]].
+#+end_quote

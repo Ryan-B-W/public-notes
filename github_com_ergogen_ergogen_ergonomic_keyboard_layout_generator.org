@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       c1c58f17-6a72-4283-969d-8f55006ec4d0
+:ROAM_REFS: https://github.com/ergogen/ergogen
+:END:
+#+title: (github.com) ergogen/ergogen: Ergonomic keyboard layout generator
+#+filetags: :open_source:software:keyboard:electronics:website:
+
+#+Begin_quote
+  * Ergogen
+
+  /*Ergonomic Keyboard Generator*/
+
+  The project aims to provide a common configuration format to describe /*ergonomic*/ 2D layouts and generate automatic plates, cases, as well as un-routed PCBs for them.  The project grew out of (and is an integral part of) the [[https://zealot.hu/absolem][Absolem keyboard]], and shares its [[http://discord.ergogen.xyz/][Discord]] server as well.
+#+end_quote

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       a14ab5a1-0a94-4344-88a9-de8901286f61
+:ROAM_REFS: https://github.com/emacsorphanage/dired-k
+:END:
+#+title: (github.com) emacsorphanage/dired-k: Highlighting dired buffer like k
+#+filetags: :lisp:emacs:software:website:
+
+#+begin_quote
+  dired-k.el highlights dired buffer like k.
+#+end_quote

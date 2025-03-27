@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       e8c2ec3d-1f3d-4383-a78d-23fed1fe4098
+:ROAM_REFS: https://www.tweag.io/blog/2017-08-24-linear-types-packed-data/
+:END:
+#+title: (www.tweag.io) Compact normal forms + linear types = efficient network communication - Tweag
+#+filetags: :programming:software_development:blog_post:website:
+
+#+begin_quote
+  ** Compact normal forms + linear types = efficient network communication
+
+  We saw [[https://www.tweag.io/posts/2017-08-03-linear-typestates.html/][last time]] that with linear types, we could precisely capture the state of sockets /in their types/.  In this post, I want to use the same idea of tracking states in types, but applied to a more unusual example from our [[https://github.com/tweag/linear-types/releases/download/v2.0/hlt.pdf][paper]]: sending rich structured data types across the network and back with as little copying as possible.
+
+  Our approach to this problem works for values of any datatype, but for the sake of simplicity, we'll consider here simple tree values of the following datatype:
+
+  #+begin_src language-haskell
+    data Tree = Branch Tree Tree | Leaf Int
+  #+end_src
+#+end_quote

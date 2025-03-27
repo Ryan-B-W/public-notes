@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       2cb04117-0df5-424d-8cbb-ad567f660cd6
+:ROAM_REFS: https://github.com/conventional-changelog/commitlint/tree/master/@commitlint/config-conventional
+:END:
+#+title: (github.com) commitlint/@commitlint/config-conventional at master · conventional-changelog/commitlint
+#+filetags: :website:
+
+#+begin_quote
+  Shareable commitlint config enforcing conventional commits. Use with @commitlint/cli and @commitlint/prompt-cli.
+#+end_quote

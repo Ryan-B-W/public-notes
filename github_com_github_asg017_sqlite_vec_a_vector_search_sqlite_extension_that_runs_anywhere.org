@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       bcfa5e40-5742-47e9-b121-0c93d88daaf0
+:ROAM_REFS: https://github.com/asg017/sqlite-vec
+:END:
+#+title: (github.com) GitHub - asg017/sqlite-vec: A vector search SQLite extension that runs anywhere!
+#+filetags: :sql:databases:software:website:
+
+#+begin_quote
+  An extremely small, "fast enough" vector search SQLite extension that runs anywhere! A successor to sqlite-vss
+#+end_quote

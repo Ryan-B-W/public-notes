@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       ddda79f4-10ef-4fa2-bcd1-5f3d9e764c07
+:END:
+#+title: GURPS (Generic Universal Role Playing System)
+#+filetags: :ttrpg:rpg:tabletop_games:games:
+
+The Generic Universal Role Playing System by Steve Jackson Games.
+* (www.sjgames.com) GURPS On Demand                                 :website:
+:PROPERTIES:
+:ID:       796a5296-74c3-40d6-a48a-0da40fb29e7c
+:ROAM_REFS: https://www.sjgames.com/gurps/ondemand/
+:END:
+
+#+begin_quote
+  */GURPS/* first hit the scene in 1986, and over 200 sourcebooks have been released in print since then (with many more [[http://www.warehouse23.com/products?utf8=✓&search%5Bdigital_prod%5D%5B%5D=Show+Only+Digital&taxons%5B%5D=558398545-sb][digital-only sourcebooks as well]]).  But, with having so many printed sourcebooks, it's been challenging to /keep/ them in print… until now.
+
+  The future is here with print-on-demand options for some of our most popular releases, thanks to Amazon's service.  The books on this page -- all previously out of print -- are now available as affordable black-and-white softcovers with full-color covers.  Known errata have been implemented, and books that were originally printed in color have been tweaked to look their best in black and white.
+
+  The links below will let you buy them directly from Amazon.  Get your books your way, on demand!
+#+end_quote
+* (en.wikipedia.org) GURPS - Wikipedia                              :website:
+:PROPERTIES:
+:ID:       2a385294-1d18-412c-a851-ef1b7883b509
+:ROAM_REFS: https://en.wikipedia.org/wiki/GURPS
+:END:
+
+#+begin_quote
+  The /*Generic Universal Role Playing System*/, or /*GURPS*/, is a [[https://en.wikipedia.org/wiki/Role-playing_game_(pen_and_paper)][tabletop]] [[https://en.wikipedia.org/wiki/Role-playing_game_system][role-playing game system]] published by [[https://en.wikipedia.org/wiki/Steve_Jackson_Games][Steve Jackson Games]].  The system is designed to run any genre using the same core mechanics.  The core rules were first written by [[https://en.wikipedia.org/wiki/Steve_Jackson_(American_game_designer)][Steve Jackson]] and published in 1986, at a time when most such systems were story- or genre-specific.  Since then, four editions have been published.  The current line editor is [[https://en.wikipedia.org/wiki/Sean_Punch][Sean Punch]].
+
+  Sessions are run by a [[https://en.wikipedia.org/wiki/Gamemaster][game master]] (GM), who controls the world and adjudicates the rules, with any number of players controlling the actions of a character.  Most actions are resolved by rolling three six-sided dice (3d6), trying to roll below a certain number, usually a skill.  GURPS uses a point-based character creation system; characters are represented by four basic stats (Strength, Dexterity, IQ and Health), and players can buy any number of advantages, disadvantages, perks, quirks and skills.
+
+  GURPS consists of a [[https://en.wikipedia.org/wiki/GURPS_Basic_Set][GURPS Basic Set]], which contains the core rules required to run most games.  In addition, more than a hundred [[https://en.wikipedia.org/wiki/List_of_GURPS_books][supplemental books]] provide optional rules and details about different settings and genres ([[https://en.wikipedia.org/wiki/GURPS_Martial_Arts][GURPS Martial Arts]], for example).  By adapting the various optional rules and systems, GURPS can be run with as much or as little detail as required, and can accommodate virtually any genre, character or style of play.
+
+  /GURPS/ won the [[https://en.wikipedia.org/wiki/Origins_Award][Origins Award]] for /Best Roleplaying Rules of 1988/, and in 2000 it was inducted into the [[https://en.wikipedia.org/wiki/Origins_Game_Fair#Hall_of_Fame][Origins Hall of Fame]].  Many of its expansions have also won awards.
+#+end_quote

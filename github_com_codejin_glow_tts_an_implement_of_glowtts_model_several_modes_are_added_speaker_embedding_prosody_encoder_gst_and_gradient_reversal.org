@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       ce6e06fb-c66a-42d8-bfd4-e6a5e090e629
+:ROAM_REFS: https://github.com/CODEJIN/Glow_TTS
+:END:
+#+title: (github.com) CODEJIN/Glow_TTS: An implement of GlowTTS model. Several modes are added: speaker embedding, prosody encoder(GST), and gradient reversal.
+#+filetags: :text_to_speech:machine_learning:software:website:
+
+#+begin_quote
+  This code is a replication of official Glow TTS code.  If you want to use Glow TTS model, I recommend that you refer to the official code.
+#+end_quote

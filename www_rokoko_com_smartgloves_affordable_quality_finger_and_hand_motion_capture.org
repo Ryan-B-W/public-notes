@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       cdffa05d-110a-4ff2-b036-5b5d97cc5b6a
+:ROAM_REFS: https://www.rokoko.com/products/smartgloves
+:END:
+#+title: (www.rokoko.com) Smartgloves - affordable quality finger and hand motion capture
+#+filetags: :virtual_reality:hardware:website:

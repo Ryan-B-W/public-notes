@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       0e577511-f3f0-4cc0-b404-fa104f9da645
+:ROAM_REFS: https://www.google.com/search?q=open+source+alternative+to+bionic+reading
+:END:
+#+title: (www.google.com) open source alternative to bionic reading - Google Search
+#+filetags: :searches:website:
+
+Results:
+* (www.reddit.com) Projects similar to Bionic Reading for Browsers : r/ADHD :forums:www:fonts:website:
+:PROPERTIES:
+:ID:       156fb267-e507-4b4d-aab4-24805dfe114a
+:ROAM_REFS: https://www.reddit.com/r/ADHD/comments/uvzs79/projects_similar_to_bionic_reading_for_browsers/
+:END:
+* [[id:7accc315-db94-4429-b492-6523078c95ba][(not-br.neocities.org) Not BR]]
+* (alternativeto.net) Bionic Reading Alternatives: Top 8 Speed Reading Tools & Similar Apps | AlternativeTo :lists:website:
+:PROPERTIES:
+:ID:       5ccaad32-0f9f-4d0e-9db5-a0ef8b9a5001
+:ROAM_REFS: https://alternativeto.net/software/bionic-reading/
+:END:
+* [[id:3c410e49-80e5-4ad2-80dc-7a5aa401fa7c][(github.com) Gumball12/text-vide: An Open-Source JavaScript Implementation of Bionic Reading.]]

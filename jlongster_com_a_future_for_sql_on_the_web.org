@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       827b53e0-dc95-4ef3-a52a-f87cba0c2bbf
+:ROAM_REFS: https://jlongster.com/future-sql-web
+:END:
+#+title: (jlongster.com) A future for SQL on the web
+#+filetags: :sql:databases:software:blog_post:website:
+
+#+begin_quote
+  I discovered something absurd recently and I’m very excited to tell you about it.
+
+  The end result is absurd-sql, and it’s a persistent backend for SQLite on the web. That means it doesn’t have to load the whole db into memory, and writes persist. In this post I will explain the absurdities of the web’s storage APIs (mainly IndexedDB), show how SQLite provides a 10x perf improvement, explain all the cool tricks that make it work, and explain the locking/transactional semantics that make it robust.
+#+end_quote

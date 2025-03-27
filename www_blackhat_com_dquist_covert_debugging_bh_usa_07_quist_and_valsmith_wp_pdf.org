@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       2986672f-55bb-44bd-bd73-ab29440cd939
+:ROAM_REFS: https://www.blackhat.com/presentations/bh-usa-07/Quist_and_Valsmith/Whitepaper/bh-usa-07-quist_and_valsmith-WP.pdf
+:END:
+#+title: (www.blackhat.com) dquist-covert-debugging - bh-usa-07-quist_and_valsmith-WP.pdf
+#+filetags: :mime_type_application_pdf:research:programming:software_development:security:website:
+
+#+begin_quote
+  Covert Debugging: Circumventing Software Armoring Techniques
+  Danny Quist & Valsmith, Offensive Computing, LLC, {dquist,valsmith}@offensivecomputing.net
+
+  ABSTRACT
+  Software armoring techniques have increasingly created problems for reverse engineers and software security analysts.  As protections such as packers, run-time obfuscators, virtual machine and debugger detectors become common, newer methods must be developed to cope with them.  In this paper we will present our covert debugging platform named Saffron.  Saffron is based upon dynamic instrumentation techniques as well as a newly developed page fault assisted debugger.  We show that the combination of these two techniques is effective in removing armoring from most software armoring systems.
+#+end_quote

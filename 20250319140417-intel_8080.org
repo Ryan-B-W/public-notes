@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       dd6df822-9782-41ae-b96d-9990884b7cca
+:END:
+#+title: Intel 8080
+#+filetags: :intel_corp:electronics:processor:microprocessor:computer_architecture:computer_science:
+
+Intel [[id:96b6fc36-5b86-4108-b2b4-39b85a38f385][CISC]] microprocessor, and corresponding [[id:c980a340-2564-437e-a79f-388122a206ad][ISA]], that eventually formed the basis for their [[id:04f28544-1c6f-4519-8c5d-88c0ff07c656][x86]] architecture.
+* (en.wikipedia.org) Intel 8080 - Wikipedia                         :website:
+:PROPERTIES:
+:ID:       a9a98011-031e-4005-9c8a-c24135681d61
+:ROAM_REFS: https://en.wikipedia.org/wiki/Intel_8080
+:END:
+
+#+begin_quote
+  The *Intel 8080* (pronounced /"eighty-eighty"/) is [[https://en.wikipedia.org/wiki/Intel][Intel]]'s second [[https://en.wikipedia.org/wiki/8-bit_computing][8-bit]] microprocessor that played an important role in the evolution of early computing.  Introduced in April 1974, the 8080 was an enhanced successor to the earlier [[https://en.wikipedia.org/wiki/Intel_8008][Intel 8008]] microprocessor, although without [[https://en.wikipedia.org/wiki/Binary_compatibility][binary compatibility]].  Originally intended for use in [[https://en.wikipedia.org/wiki/Embedded_system][embedded systems]] such as [[https://en.wikipedia.org/wiki/Calculator][calculators]], [[https://en.wikipedia.org/wiki/Cash_register][cash registers]], [[https://en.wikipedia.org/wiki/Computer_terminal][computer terminals]], and [[https://en.wikipedia.org/wiki/Industrial_robot][industrial robots]], its robust performance soon led to adoption in a broader range of systems, ultimately helping to launch the [[https://en.wikipedia.org/wiki/Microcomputer][microcomputer]] industry.
+
+  Several key design choices contributed to the 8080's success.  Its 40‑pin package simplified interfacing compared to the 8008's 18‑pin design, enabling a more efficient [[https://en.wikipedia.org/wiki/Data_bus][data bus]].  The transition to [[https://en.wikipedia.org/wiki/NMOS_logic][NMOS]] technology provided faster transistor speeds than the 8008's [[https://en.wikipedia.org/wiki/PMOS_logic][PMOS]] while also simplifying interfacing by making it [[https://en.wikipedia.org/wiki/Transistor–transistor_logic][TTL]] compatible.  An expanded [[https://en.wikipedia.org/wiki/Instruction_set_architecture][instruction set]] and a full [[https://en.wikipedia.org/wiki/16-bit_computing][16-bit]] address bus allowed the 8080 to access up to 64 KB of memory, quadrupling the capacity of its predecessor.  A broader selection of support chips further enhanced its functionality.  Many of these improvements stemmed from customer feedback, as designer [[https://en.wikipedia.org/wiki/Federico_Faggin][Federico Faggin]] and others at Intel heard about shortcomings in the 8008 architecture.
+
+  The 8080 found its way into early [[https://en.wikipedia.org/wiki/Personal_computers][personal computers]] such as the [[https://en.wikipedia.org/wiki/Altair_8800][Altair 8800]] and subsequent [[https://en.wikipedia.org/wiki/S-100_bus][S-100 bus]] systems, and it served as the original target CPU for the [[https://en.wikipedia.org/wiki/CP/M][CP/M]] operating systems.  It also directly influenced the later [[https://en.wikipedia.org/wiki/X86_architecture][x86 architecture]] which was designed so that its [[https://en.wikipedia.org/wiki/Assembly_language][assembly language]] closely resembled that of the 8080, permitting many instructions to map directly from one to the other.
+
+  Originally operating at a [[https://en.wikipedia.org/wiki/Clock_rate][clock rate]] of 2 [[https://en.wikipedia.org/wiki/Megahertz][MHz]], with common instructions taking between 4 and 11 clock cycles, the 8080 was capable of executing several hundred thousand [[https://en.wikipedia.org/wiki/Instructions_per_second][instructions per second]].  Later, two faster variants, the 8080A-1 and 8080A-2, offered improved clock speeds of 3.125 MHz and 2.63 MHz, respectively.  In most applications, the processor was paired with two support chips, the 8224 clock generator/driver and the 8228 bus controller, to manage its timing and data flow.
+#+end_quote

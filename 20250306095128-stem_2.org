@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       2c8ad95a-c46d-4043-bd0f-4ef7db2773b1
+:END:
+#+title: STEM^2
+#+filetags: :organization:college:education:
+
+STEM academic excellence association of [[id:d93f44b8-ca95-470d-8865-8c6e0142de41][Cypress College]].

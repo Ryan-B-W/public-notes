@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3dbff371-51e0-496f-a41d-5ce5576d9699
+:ROAM_REFS: https://reproducible-builds.org/
+:END:
+#+title: (reproducible-builds.org) Reproducible Builds — a set of software development practices that create an independently-verifiable path from source to binary code
+#+filetags: :software_distributions:software_development:programming:computer_science:website:
+
+A project centered around reproducible software builds.
+
+#+begin_quote
+  Reproducible builds are a set of software development practices that create an independently-verifiable path from source to binary code.
+#+end_quote
+
+* Projects involved include
+ - [[id:9af45692-b2f1-4d4e-a9b3-03d355ffacd0][Guix]]
+ - [[id:30ae24e9-8b87-4412-ae94-484b5c72216b][NixOS]]
+ - and many others
+* See Also
+ - [[id:eb15a671-b6de-48c6-9342-b0960e73eaf5][Bootstrappable Builds]]

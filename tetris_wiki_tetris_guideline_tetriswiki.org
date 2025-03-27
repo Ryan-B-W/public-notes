@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       a0c99b6f-ec37-4bf5-b85f-0a186c728c89
+:ROAM_REFS: https://tetris.wiki/Tetris_Guideline
+:END:
+#+title: (tetris.wiki) Tetris Guideline - TetrisWiki
+#+filetags: :specification:documentation:games:website:
+
+#+begin_quote
+  * Tetris Guideline
+
+  The *Tetris Guideline* is a yearly specification which [[https://tetris.wiki/The_Tetris_Company][The Tetris Company]] stipulates for developing new Tetris titles from 2001 and onward, beginning with /[[https://tetris.wiki/Tetris_Worlds][Tetris Worlds]]/.  The reason for creating a guideline was to standardize Tetris play.  Anyone around the world can pick up a new Tetris game and know how to play it.  It was originally called "What is Tetris?", and is developed by [[https://tetris.wiki/Blue_Planet_Software][Blue Planet Software]].  The rules are decided by a committee, with [[https://tetris.wiki/Alexey_Pajitnov][Alexey Pajitnov]] having the final say.  In later years, summits were held to discuss the Tetris Guideline with other developers.
+
+  The Tetris Company's relationship with the guideline has changed over the years, once requiring all new games, even re-releases, to include a guideline compliant mode.
+
+  In 2011, a copy of the Tetris Guideline was leaked, dating to 2009.  It is likely that the Guideline has been modified since that time, but most of the rules specified are still followed by new releases.
+#+end_quote

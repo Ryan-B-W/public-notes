@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       92f695a9-c1dc-433b-b508-73f3aef9e124
+:ROAM_REFS: https://datatracker.ietf.org/doc/bcp
+:END:
+#+title: (datatracker.ietf.org) Best Current Practices
+#+filetags: :website:

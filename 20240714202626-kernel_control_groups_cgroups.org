@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       a29f2f24-2eb7-45dd-ad90-b10d4df99191
+:END:
+#+title: Kernel Control Groups (cgroups)
+#+filetags: :containers:linux:computer_science:operating_systems:
+
+A mechanism in the [[id:bf0bc2d7-17df-413c-823b-93904faffc58][Linux]], and some related, [[id:925a80bf-d4d4-4061-9ac1-2d0224e1590a][kernel]] that, in conjunction with other kernel namespaces, provides the functionality needed for implementing [[id:77fd9b85-e09e-4011-b09c-e9a7bff5463e][containers]].
+* See Also
+ - [[man:cgroups(7)][cgroups(7) man page]]
+ - [[man:namespaces(7)][namespaces(7) man page]]

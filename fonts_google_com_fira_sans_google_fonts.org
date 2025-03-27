@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       286c75d0-0324-46be-b990-b75625b19d3a
+:ROAM_REFS: https://fonts.google.com/specimen/Fira+Sans
+:END:
+#+title: (fonts.google.com) Fira Sans - Google Fonts
+#+filetags: :fonts_sans:fonts_proportional:fonts:website:

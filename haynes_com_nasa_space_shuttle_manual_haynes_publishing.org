@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       3b83a23e-e88c-4758-80da-c557c8ad7759
+:ROAM_REFS: https://haynes.com/en-gb/nasa-space-shuttle-manual
+:END:
+#+title: (haynes.com) NASA Space Shuttle Manual | Haynes Publishing
+#+filetags: :books:website:

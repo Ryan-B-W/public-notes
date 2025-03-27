@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       d1b85642-36c4-49ca-91d5-0ab1b849b37e
+:ROAM_REFS: https://hms.harvard.edu/news/new-field-neuroscience-aims-map-connections-brain
+:END:
+#+title: (hms.harvard.edu) A New Field of Neuroscience Aims to Map Connections in the Brain | Harvard Medical School
+#+filetags: :article:news:neuroscience:biology:website:
+
+#+begin_quote
+  Many of us have seen microscopic images of neurons in the brain — each neuron appearing as a glowing cell in a vast sea of blackness.  This image is misleading: Neurons don’t exist in isolation.  In the human brain, some 86 billion neurons form 100 trillion connections to each other — numbers that, ironically, are far too large for the human brain to fathom.
+  Wei-Chung Allen Lee, Harvard Medical School associate professor of neurology at Boston Children’s Hospital, is working in a new field of neuroscience called connectomics, which aims to comprehensively map connections between neurons in the brain.
+  “The brain is structured so that each neuron is connected to thousands of other neurons, and so to understand what a single neuron is doing, ideally you study it within the context of the rest of the neural network,” Lee explained.
+  Lee recently spoke to Harvard Medicine News about the promise of connectomics.  He also described his own research, which combines connectomics with information on neural activity to explore neural circuits that underlie behavior.
+#+end_quote

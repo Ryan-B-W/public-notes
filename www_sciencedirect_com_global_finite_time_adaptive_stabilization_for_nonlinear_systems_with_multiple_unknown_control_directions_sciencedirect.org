@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ca75f3ea-7169-423a-b8ad-c6fad1a525a9
+:ROAM_REFS: https://www.sciencedirect.com/science/article/abs/pii/S000510981630084X https://doi.org/10.1016/j.automatica.2016.03.005
+:END:
+#+title: (www.sciencedirect.com) Global finite-time adaptive stabilization for nonlinear systems with multiple unknown control directions - ScienceDirect
+#+filetags: :control_systems:website:
+
+#+begin_quote
+  Abstract
+  In this paper, the problem of global finite-time stabilization is addressed for a class of nonlinear systems with multiple unknown control directions.  Unlike all the existing works on finite-time stabilization, our work allows the control directions of the considered systems to be unknown.  This paper is the first to focus on the global finite-time control of such uncertain systems.  To overcome the main obstacle arising from unknown control directions, we develop a novel Lyapunov-based logic switching rule, and then the desired adaptive switching controllers are designed, where the controller parameters are to be tuned online in a switching manner according to the proposed switching logic.  It is shown that the obtained controllers guarantee the closed-loop systems being globally finite-time stable.  A simulation example is provided to illustrate the effectiveness of the proposed control algorithms.
+#+end_quote

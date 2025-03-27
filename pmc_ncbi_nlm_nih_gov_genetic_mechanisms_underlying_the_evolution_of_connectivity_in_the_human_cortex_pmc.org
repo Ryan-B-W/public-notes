@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       c5bdd608-f215-43c5-a71e-4abb834864f7
+:ROAM_REFS: https://pmc.ncbi.nlm.nih.gov/articles/PMC8777274/
+:END:
+#+title: (pmc.ncbi.nlm.nih.gov) Genetic Mechanisms Underlying the Evolution of Connectivity in the Human Cortex - PMC
+#+filetags: :science_paper:neuroscience:biology:website:
+
+#+begin_quote
+  Abstract
+  One of the most salient features defining modern humans is our remarkable cognitive capacity, which is unrivaled by any other species.  Although we still lack a complete understanding of how the human brain gives rise to these unique abilities, the past several decades have witnessed significant progress in uncovering some of the genetic, cellular, and molecular mechanisms shaping the development and function of the human brain.  These features include an expansion of brain size and in particular cortical expansion, distinct physiological properties of human neurons, and modified synaptic development.  Together they specify the human brain as a large primate brain with a unique underlying neuronal circuit architecture.  Here, we review some of the known human-specific features of neuronal connectivity, and we outline how novel insights into the human genome led to the identification of human-specific genetic modifiers that played a role in the evolution of human brain development and function.  Novel experimental paradigms are starting to provide a framework for understanding how the emergence of these human-specific genomic innovations shaped the structure and function of neuronal circuits in the human brain.
+  Keywords: evolution, human brain, neuronal connectivity, synapses, human-specific genes, dendritic morphology, human neuron physiology
+#+end_quote

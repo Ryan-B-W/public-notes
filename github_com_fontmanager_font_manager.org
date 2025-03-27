@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       1d78f3a4-ed38-486a-b23c-558ef96a91c2
+:ROAM_REFS: https://github.com/FontManager/font-manager
+:END:
+#+title: (github.com) FontManager/font-manager
+#+filetags: :software:fonts:website:
+
+#+begin_quote
+  A simple font management application for GTK Desktop Environments
+#+end_quote

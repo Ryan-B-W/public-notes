@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       4bf1ed9b-2bc7-468b-9756-8730193d4617
+:ROAM_REFS: https://www.nesdis.noaa.gov/imagery/interactive-maps/the-world-real-time
+:END:
+#+title: (www.nesdis.noaa.gov) The World in Real-Time | NESDIS
+#+filetags: :map:satellite_imagery:government_site:website:

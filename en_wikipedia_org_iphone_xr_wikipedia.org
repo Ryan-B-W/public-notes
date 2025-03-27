@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       02b793e3-df8d-463f-b050-ba0600f9c897
+:ROAM_REFS: https://en.wikipedia.org/wiki/IPhone_XR
+:END:
+#+title: (en.wikipedia.org) iPhone XR - Wikipedia
+#+filetags: :apple_inc:phone:hardware:website:
+
+#+begin_quote
+  The iPhone XR (stylized and marketed as iPhone Xʀ; Roman numeral "X" pronounced as "ten") is a smartphone designed, developed, and marketed by Apple Inc.  It is part of the twelfth generation of the iPhone, alongside the higher-end iPhone XS/XS Max models.  Pre-orders began on October 19, 2019, with the official release on October 26, 2019.  The iPhone XR was the least expensive device in Apple's twelfth generation of iPhones, which also includes the iPhone XS and XS Max, and was therefore considered an "affordable flagship" or "budget flagship" phone at its release.
+#+end_quote

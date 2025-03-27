@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       0a2b212b-b57c-491a-85c6-d87f2b8b8757
+:ROAM_REFS: https://datatracker.ietf.org/doc/html/rfc5322
+:END:
+#+title: (datatracker.ietf.org) RFC 5322 - Internet Message Format
+#+filetags: :website:
+
+#+begin_quote
+  * Internet Message Format
+
+  ** Status of This Memo
+
+  This document specifies an Internet standards track protocol for the Internet community, and requests discussion and suggestions for improvements.  Please refer to the current edition of the "Internet Official Protocol Standards" (STD 1) for the standardization state and status of this protocol.  Distribution of this memo is unlimited.
+
+  ** Abstract
+
+  This document specifies the Internet Message Format (IMF), a syntax for text messages that are sent between computer users, within the framework of "electronic mail" messages.  This specification is a revision of Request For Comments (RFC) [[https://datatracker.ietf.org/doc/html/rfc2822][2822]], which itself superseded Request For Comments (RFC) [[https://datatracker.ietf.org/doc/html/rfc822][822]], "Standard for the Format of ARPA Internet Text Messages", updating it to reflect current practice and incorporating incremental changes that were specified in other RFCs.
+#+end_quote

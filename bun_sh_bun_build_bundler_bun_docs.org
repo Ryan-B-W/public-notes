@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       e9809e35-4628-4718-b146-604fc1087aac
+:ROAM_REFS: https://bun.sh/docs/bundler
+:END:
+#+title: (bun.sh) Bun.build – Bundler | Bun Docs
+#+filetags: :documentation:www:javascript:programming:software:website:
+
+#+begin_quote
+  Bun's fast native bundler is now in beta. It can be used via the =bun build= CLI command or the =Bun.build()= JavaScript API.
+#+end_quote

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       882dda28-d8ea-4ab5-800d-20bc9cfde75b
+:END:
+#+title: Dynamic Types
+#+filetags: :programming:programming_language_design:computer_science:
+
+Aspect of some [[id:b24601aa-09df-41e1-aa7e-25ead342db34][programming languages]] where variables aren't restricted to holding a single type and/or functions don't have type restrictions on arguments allowing use of any type with variables or arguments.  The opposite of [[id:d7560e61-28f8-406d-933f-95ca750f0112][static types]].

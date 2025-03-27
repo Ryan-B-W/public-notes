@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       61491964-1a49-4eca-a46e-4531c4ae28bd
+:ROAM_REFS: https://peterlyons.com/problog/2021/04/squeezebox-keyboard/
+:END:
+#+title: (peterlyons.com) Squeezebox Keyboard | Peter Lyons
+#+filetags: :blog_post:keyboard:electronics:website:
+
+#+begin_quote
+  * Squeezebox Keyboard
+
+  I designed and built a split ergonomic keyboard with some ideas I've been wanting to try for over a year.  Here are the main features of the keyboard:
+
+  - Split design, obvs
+  - staggered linear columns
+  - customizable tailor fit column offsets
+  - tailor fit per-finger vertical offsets
+  - thumb cluster with 6 keys
+#+end_quote

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       22860df7-d4ce-441c-9fba-4c1cab439c69
+:ROAM_REFS: https://www.windy.com/
+:END:
+#+title: (www.windy.com) Windy: Wind map & weather forecast
+#+filetags: :maps:software_as_a_service:software:website:
+
+Online map tool.

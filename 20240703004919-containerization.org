@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       77fd9b85-e09e-4011-b09c-e9a7bff5463e
+:END:
+#+title: Containerization
+#+filetags: :computer_science:linux:unix:containers:
+
+Containerization is where processes are sandboxed under [[id:bf0bc2d7-17df-413c-823b-93904faffc58][Linux]] via =namespaces= and [[id:a29f2f24-2eb7-45dd-ad90-b10d4df99191][cgroups]]—or via jails under BSDs—to limit the process's access to the [[id:412bbcad-6c00-4f13-b748-d1ffde0588e1][larger system]].  Common features of this are limiting [[id:a4c2de37-5317-44f3-b877-ec0b5777c61f][filesystem]] access via a changed root—commonly called a =chroot=​—which changes the root of the filesystem as the process sees it to a specified path, restricting the process namespace, and other such changes to restrict the process.

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       6809d1c1-e024-4efa-b6b5-2f2ac28669f7
+:ROAM_REFS: https://news.ycombinator.com/item?id=42655283
+:END:
+#+title: (news.ycombinator.com) Northeastern's redesign of the CS curriculum | Hacker News
+#+filetags: :news:forums:website:
+
+Hacker News thread for [[id:eaba2143-eb66-464b-b94e-915f5ed23d2c]["Northeastern’s redesign of the Khoury curriculum abandons the fundamentals of computer science"]].
+* Comments of Notes
+** User "pclmulqdq"
+#+begin_quote
+  I went to Caltech when they were contemplating similar things in the CS curriculum, although the normal curriculum was less radical than Northeastern's seems to be.
+
+  There is a tension here that is being understated which is that people of /every/ major now take the intro-level CS class because programming is integral to everything. Teaching algorithm design in that class is not particularly useful to a biologist who just wants to be able to cobble something together to analyze some data (usually in Python). As a result, the non-computer-scientists and non-software-engineers at the school would rather have a curriculum that is more "practical" and directly applies to research (or later class projects) the students might be doing.
+
+  Some time not far in the future, we are going to accept that this is not the same thing at all as /computer science/ and give the computer scientists a curriculum that is a lot heavier on math and theory while adding elective or core courses for non-major students on programming. That will end the compromised state that intro CS courses currently sit in. Right now, there isn't enough teaching talent to run those non-core courses (because that talent is earning the big bucks doing something else).
+#+end_quote

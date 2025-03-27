@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       bb7eca60-a3e5-406d-99c9-ad55b2227de8
+:ROAM_REFS: https://opensourcealternative.to/alternativesto/notion
+:END:
+#+title: (opensourcealternative.to) 5 Open Source Alternatives to Notion
+#+filetags: :information_management:lists:website:

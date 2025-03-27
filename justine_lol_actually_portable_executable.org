@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       90a4ff99-9e56-4a12-af93-7d12f33ff1a8
+:ROAM_REFS: https://justine.lol/ape.html
+:END:
+#+title: (justine.lol) Actually Portable Executable
+#+filetags: :software_development:programming:software:blog_post:website:
+
+#+begin_quote
+  * αcτµαlly pδrταblε εxεcµταblε
+
+  One day, while studying old code, I found out that it's possible to encode Windows Portable Executable files as a UNIX Sixth Edition shell script, due to the fact that the Thompson Shell didn't use a shebang line.  Once I realized it's possible to create a synthesis of the binary formats being used by Unix, Windows, and MacOS, I couldn't resist the temptation of making it a reality, since it means that high-performance native code can be almost as pain-free as web apps.  Here's how it works:
+
+  #+begin_src sh
+    MZqFpD='
+    BIOS BOOT SECTOR'
+    exec 7<> $(command -v $0)
+    printf '\177ELF...LINKER-ENCODED-FREEBSD-HEADER' >&7
+    exec "$0" "$@"
+    exec qemu-x86_64 "$0" "$@"
+    exit 1
+    REAL MODE...
+    ELF SEGMENTS...
+    OPENBSD NOTE...
+    NETBSD NOTE...
+    MACHO HEADERS...
+    CODE AND DATA...
+    ZIP DIRECTORY...
+  #+end_src
+
+  I started a project called [[https://github.com/jart/cosmopolitan][Cosmopolitan]] which implements the [[https://raw.githubusercontent.com/jart/cosmopolitan/1.0/ape/ape.S][αcτµαlly pδrταblε εxεcµταblε]] format.  I chose the name because I like the idea of having the freedom to write software without restrictions that transcends traditional boundaries.  My goal has been helping C become a build-once run-anywhere language, suitable for greenfield development, while avoiding any assumptions that would prevent software from being shared between tech communities.  Here's how simple it is to get started:
+
+  #+begin_src sh
+    gcc -g -O -static -fno-pie -no-pie -mno-red-zone -nostdlib -nostdinc -o hello.com hello.c   -Wl,--oformat=binary -Wl,--gc-sections -Wl,-z,max-page-size=0x1000 -fuse-ld=bfd -gdwarf-4   -Wl,-T,ape.lds -include cosmopolitan.h crt.o ape.o cosmopolitan.a
+  #+end_src
+
+  In the above one-liner, we've basically reconfigured the stock compiler on Linux so it outputs binaries that'll run on MacOS, Windows, FreeBSD, OpenBSD, and NetBSD too.  They also boot from the BIOS.  Please note this is intended for people who don't care about desktop GUIs, and just want stdio and sockets without devops toil.
+#+end_quote

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       62bf9e90-34a6-4273-b96b-30d4fcba6f81
+:END:
+#+title: Large Language Model (LLM)
+#+filetags: :machine_learning:artificial_intelligence:computer_science:
+
+A contextual recurrent neural-network or transformer based natural language generative [[id:b10990c2-d056-42f5-a4e7-145a405d9550][AI]] model.

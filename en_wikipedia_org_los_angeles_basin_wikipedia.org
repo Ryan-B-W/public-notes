@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       def4dc62-909e-47a6-879e-ac5a4d98cb8a
+:ROAM_REFS: https://en.wikipedia.org/wiki/Los_Angeles_Basin
+:END:
+#+title: (en.wikipedia.org) Los Angeles Basin - Wikipedia
+#+filetags: :geography:website:
+
+#+begin_quote
+  The Los Angeles Basin is a sedimentary basin located in Southern California, in a region known as the Peninsular Ranges.  The basin is also connected to an anomalous group of east-west trending chains of mountains collectively known as the Transverse Ranges.  The present basin is a coastal lowland area, whose floor is marked by elongate low ridges and groups of hills that is located on the edge of the Pacific Plate.  The Los Angeles Basin, along with the Santa Barbara Channel, the Ventura Basin, the San Fernando Valley, and the San Gabriel Basin, lies within the greater Southern California region.  The majority of the jurisdictional land area of the city of Los Angeles physically lies within this basin.
+#+end_quote

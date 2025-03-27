@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       cd4c3564-4d70-49d1-92d9-bf4c6a36afe6
+:END:
+#+title: SAT Solver
+#+filetags: :software:computer_science:mathematics:
+
+A piece of software that solves (some or most) [[id:1563348b-b611-45a4-9f7e-9ea9b70e4aad][SAT]] problems.
+* See Also
+** SAT solver - Wikipedia
+:PROPERTIES:
+:ID:       9c559c0d-e728-46cf-bdaf-f3ef0dc39980
+:ROAM_REFS: https://en.wikipedia.org/wiki/SAT_solver
+:END:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Computer_science][computer science]] and [[https://en.wikipedia.org/wiki/Formal_methods][formal methods]], a *SAT solver* is a [[https://en.wikipedia.org/wiki/Computer_program][computer program]] which aims to solve the [[https://en.wikipedia.org/wiki/Boolean_satisfiability_problem][Boolean satisfiability problem]] (SAT).  On input a formula over [[https://en.wikipedia.org/wiki/Boolean_data_type][Boolean]] variables, such as "(/x/ or /y/) and (/x/ or not /y/)", a SAT solver outputs whether the formula is [[https://en.wikipedia.org/wiki/Satisfiability][satisfiable]], meaning that there are possible values of /x/ and /y/ which make the formula true, or unsatisfiable, meaning that there are no such values of /x/ and /y/.  In this case, the formula is satisfiable when /x/ is true, so the solver should return "satisfiable".  Since the introduction of [[https://en.wikipedia.org/wiki/Algorithm][algorithms]] for SAT in the 1960s, modern SAT solvers have grown into complex [[https://en.wikipedia.org/wiki/Software][software artifacts]] involving a large number of [[https://en.wikipedia.org/wiki/Heuristic][heuristics]] and [[https://en.wikipedia.org/wiki/Program_optimization][program optimizations]] to work efficiently.
+
+  By a result known as the [[https://en.wikipedia.org/wiki/Cook–Levin_theorem][Cook--Levin theorem]], Boolean satisfiability is an [[https://en.wikipedia.org/wiki/NP-completeness][NP-complete]] problem in general.  As a result, only algorithms with exponential worst-case complexity are known.  In spite of this, efficient and scalable algorithms for SAT were developed during the 2000s, which have contributed to dramatic advances in the ability to automatically solve problem instances involving tens of thousands of variables and millions of constraints.
+
+  SAT solvers often begin by converting a formula to [[https://en.wikipedia.org/wiki/Conjunctive_normal_form][conjunctive normal form]].  They are often based on core algorithms such as the [[https://en.wikipedia.org/wiki/DPLL_algorithm][DPLL algorithm]], but incorporate a number of extensions and features.  Most SAT solvers include time-outs, so they will terminate in reasonable time even if they cannot find a solution, with an output such as "unknown" in the latter case.  Often, SAT solvers do not just provide an answer, but can provide further information including an example assignment (values for /x/, /y/, etc.) in case the formula is satisfiable or minimal set of unsatisfiable clauses if the formula is unsatisfiable.
+
+  Modern SAT solvers have had a significant impact on fields including [[https://en.wikipedia.org/wiki/Software_verification][software verification]], [[https://en.wikipedia.org/wiki/Program_analysis][program analysis]], [[https://en.wikipedia.org/wiki/Constraint_satisfaction_problem][constraint solving]], [[https://en.wikipedia.org/wiki/Artificial_intelligence][artificial intelligence]], [[https://en.wikipedia.org/wiki/Electronic_design_automation][electronic design automation]], and [[https://en.wikipedia.org/wiki/Operations_research][operations research]].  Powerful solvers are readily available as [[https://en.wikipedia.org/wiki/Free_and_open-source_software][free and open-source software]] and are built into some programming languages such as exposing SAT solvers as constraints in [[https://en.wikipedia.org/wiki/Constraint_logic_programming][constraint logic programming]].
+#+end_quote

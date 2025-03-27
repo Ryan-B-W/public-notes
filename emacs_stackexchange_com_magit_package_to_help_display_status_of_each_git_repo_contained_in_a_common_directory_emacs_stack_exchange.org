@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       8b924705-a856-425a-8b2e-9c378e4bd83d
+:ROAM_REFS: https://emacs.stackexchange.com/questions/48452/package-to-help-display-status-of-each-git-repo-contained-in-a-common-directory
+:END:
+#+title: (emacs.stackexchange.com) magit - Package to help display status of each git repo contained in a common directory - Emacs Stack Exchange
+#+filetags: :emacs:version_control:website:
+
+Answer:
+#+begin_quote
+  dired-k and dired-git-info show information about files within a repository in Dired.  Not what you asked for but you might find these packages useful anyway.
+  If your repositories are actually submodules of an outer repository, then these packages should show information about the repositories themselves too.  If not, then I would consider that a bug.
+  Magit provides some support for showing information about a list of repositories, but it doesn't use the Dired interface to do so.  See List Repositories.
+#+end_quote
+Links to:
+ - [[id:a14ab5a1-0a94-4344-88a9-de8901286f61][dired-k]]
+ - [[id:4f71e40e-6751-4932-96d1-b3dcffbd025b][dired-git-info]]
+ - [[id:d3be0300-c0d8-42c9-97c7-3c0bd87fb87d][(magit.vc) Repository List (Magit User Manual)]]

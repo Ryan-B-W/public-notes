@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       02be8ba1-0e32-44dc-95d6-f71253597ae4
+:ROAM_REFS: https://www.youtube.com/watch?v=rRbY3TMUcgQ
+:END:
+#+title: (www.youtube.com) Erlang the Movie II: the Sequel - YouTube
+#+filetags: :erlang:programming_language:computer_science:video:website:
+
+#+begin_quote
+  Erlang's creators discuss the aging language and meet a surprise helper.
+
+  For anyone having trouble with the dialog, here's a complete transcript:
+
+  http://www.gar1t.com/blog/2013/03/21/erlang-the-movie-ii-the-sequel/
+#+end_quote

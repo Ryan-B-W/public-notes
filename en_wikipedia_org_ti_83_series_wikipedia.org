@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       64e58cd9-3015-4697-b76e-6f38ee847dd1
+:ROAM_REFS: https://en.wikipedia.org/wiki/TI-83_series
+:END:
+#+title: (en.wikipedia.org) TI-83 series - Wikipedia
+#+filetags: :electronics:calculator:website:
+
+#+begin_quote
+  The *TI-83 series* is a series of [[https://en.wikipedia.org/wiki/Graphing_calculator][graphing calculators]] manufactured by [[https://en.wikipedia.org/wiki/Texas_Instruments][Texas Instruments]].
+
+  The original TI-83 is itself an upgraded version of the [[https://en.wikipedia.org/wiki/TI-82][TI-82]].  Released in 1996, it was one of the most popular graphing calculators for students.  In addition to the functions present on normal [[https://en.wikipedia.org/wiki/Scientific_calculator][scientific calculators]], the TI-83 includes many features, including function graphing, polar/parametric/sequence graphing modes, statistics, trigonometric, and algebraic functions, along with many useful [[https://en.wikipedia.org/wiki/Application_software][applications]].  Although it does not include as many calculus functions, applications and programs can be written on the calculator or loaded from external sources.
+
+  The TI-83 was redesigned twice, first in 1999 and again in 2001.  TI replaced the TI-83 with the /TI-83 Plus/ in 1999.  The 2001 redesign introduced a design very similar to the [[https://en.wikipedia.org/wiki/TI-73][TI-73]] and TI-83 Plus, eliminating the sloped screen that had been common on TI graphing calculators since the TI-81.  Beginning with the 1999 release of the TI-83 Plus, it has included [[https://en.wikipedia.org/wiki/Flash_memory][Flash memory]], enabling the device's operating system to be updated if needed, or for large new Flash Applications to be stored, accessible through a new Apps key.  The Flash memory can also be used to store user programs and data.  In 2001, the TI-83 Plus Silver Edition was released, which featured approximately nine times the available flash memory, and over twice the processing speed (15 [[https://en.wikipedia.org/wiki/Megahertz][MHz]]) of a standard TI-83 Plus, all in a translucent grey case inlaid with small "sparkles".  The 2001 redesign (nicknamed the TI-83 "Parcus") introduced a slightly different shape to the calculator itself, eliminated the glossy grey screen border, and reduced cost by streamlining the printed circuit board to four units.
+#+end_quote

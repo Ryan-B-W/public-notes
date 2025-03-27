@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       82d90c75-a218-4575-b8e9-a15b6b9f7646
+:END:
+#+title: Donald Knuth: "…premature optimization is the root of all evil…"
+#+filetags: :software_optimization:software_development:programming:computer_science:quotes:
+
+The more complete quote of the famous [[id:98408d03-2cf9-4897-905d-02781a1b8a6b][Donald Knuth]] quote is
+#+begin_quote
+  The real problem is that programmers have spent far too much time worrying about efficiency in the wrong places and at the wrong times; premature optimization is the root of all evil (or at least most of it) in programming.
+#+end_quote
+
+Earlier in the same document, Knuth also says
+#+begin_quote
+  Another important aspect of program quality is the efficiency with which the computer's resources are actually being used.  I am sorry to say that many people nowadays are condemning program efficiency, telling us that it is in bad taste.  The reason for this is that we are now experiencing a reaction from the time when efficiency was the only reputable criterion of goodness, and programmers in the past have tended to be so preoccupied with efficiency that they have produced needlessly complicated code; the result of this unnecessary complexity has been that net efficiency has gone down, due to difficulties of debugging and maintenance.
+#+end_quote
+
+Source: [[id:8f2f9c86-3c10-4f5d-a6c7-965560e307b1][(dl.acm.org) Computer programming as an art | Communications of the ACM]].

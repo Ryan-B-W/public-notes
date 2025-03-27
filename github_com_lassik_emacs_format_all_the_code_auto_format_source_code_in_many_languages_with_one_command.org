@@ -1,0 +1,172 @@
+:PROPERTIES:
+:ID:       ca0fa9f9-896f-45aa-a60b-dcb0ed5eb8e2
+:ROAM_REFS: https://github.com/lassik/emacs-format-all-the-code
+:END:
+#+title: (github.com) lassik/emacs-format-all-the-code: Auto-format source code in many languages with one command
+#+filetags: :open_source:emacs:programming:software_development:software:website:
+
+#+begin_quote
+  * /format-all/ for Emacs
+
+  : /NOTE:/ The package is actively maintained but due to lack of time, complex tasks are done at a slow pace.  Simple tasks like adding or fixing formatter definitions are often done immediately.  For faster progress, additional maintainers are welcome.
+
+  ** What does it do
+
+  Lets you auto-format source code in many languages using the same command for all languages, instead of learning a different Emacs package and formatting command for each language.
+
+  Just do *M-x* =format-all-region-or-buffer= and it will try its best to do the right thing.  To auto-format code on save, use the minor mode =format-all-mode=.  Please see the documentation for that function for instructions.
+
+  ** Supported languages
+
+  *Angular* ([[https://prettier.io/][/prettier/]])
+
+  *Assembly* ([[https://github.com/klauspost/asmfmt][/asmfmt/]])
+
+  *ATS* ([[https://hackage.haskell.org/package/ats-format][/atsfmt/]])
+
+  *Awk* ([[https://www.gnu.org/software/gawk/][/gawk/]])
+
+  *AZSL* ([[https://clang.llvm.org/docs/ClangFormat.html][/clang-format/]])
+
+  *Bazel Starlark* ([[https://github.com/bazelbuild/buildtools/tree/master/buildifier][/buildifier/]])
+
+  *Beancount* ([[https://beancount.github.io/][/bean-format/]])
+
+  *BibTeX* (Emacs)
+
+  *C/C++/Objective-C* ([[https://clang.llvm.org/docs/ClangFormat.html][/clang-format/]], [[http://astyle.sourceforge.net/][/astyle/]])
+
+  *C#* ([[https://clang.llvm.org/docs/ClangFormat.html][/clang-format/]], [[http://astyle.sourceforge.net/][/astyle/]], [[https://github.com/belav/csharpier][/csharpier/]])
+
+  *Cabal* ([[https://github.com/phadej/cabal-fmt][/cabal-fmt/]])
+
+  *Caddyfile* ([[https://caddyserver.com/docs/command-line#caddy-fmt][/caddy-fmt/]])
+
+  *Clojure/ClojureScript* ([[https://github.com/weavejester/cljfmt][/cljfmt/]], [[https://github.com/kkinnear/zprint][/zprint/]])
+
+  *CMake* ([[https://github.com/cheshirekow/cmake_format][/cmake-format/]])
+
+  *Crystal* ([[http://www.motion-express.com/blog/crystal-code-formatter][/crystal tool format/]])
+
+  *CSS/Less/SCSS* ([[https://prettier.io/][/prettier/]], [[https://github.com/fsouza/prettierd][/prettierd/]])
+
+  *Cuda* ([[https://clang.llvm.org/docs/ClangFormat.html][/clang-format/]])
+
+  *D* ([[https://github.com/dlang-community/dfmt][/dfmt/]])
+
+  *Dart* ([[https://github.com/dart-lang/dart_style][/dartfmt/]], [[https://dart.dev/tools/dart-format][/dart-format/]])
+
+  *Dhall* ([[https://github.com/dhall-lang/dhall-lang][/dhall format/]])
+
+  *Dockerfile* ([[https://github.com/jessfraz/dockfmt][/dockfmt/]])
+
+  *Elixir* ([[https://hexdocs.pm/mix/master/Mix.Tasks.Format.html][/mix format/]])
+
+  *Elm* ([[https://github.com/avh4/elm-format][/elm-format/]])
+
+  *Emacs Lisp* (Emacs)
+
+  *Erb* ([[https://github.com/nebulab/erb-formatter][/erb-format/]])
+
+  *Erlang* ([[https://github.com/sile/efmt][/efmt/]])
+
+  *F#* ([[https://github.com/fsprojects/fantomas][/fantomas/]])
+
+  *Fish Shell* ([[https://fishshell.com/docs/current/commands.html#fish_indent][/fish_indent/]])
+
+  *Fortran Free Form* ([[https://github.com/pseewald/fprettify][/fprettify/]])
+
+  *Gleam* ([[https://gleam.run/][/gleam format/]])
+
+  *GLSL* ([[https://clang.llvm.org/docs/ClangFormat.html][/clang-format/]])
+
+  *Go* ([[https://golang.org/cmd/gofmt/][/gofmt/]], [[https://godoc.org/golang.org/x/tools/cmd/goimports][/goimports/]])
+
+  *GraphQL* ([[https://prettier.io/][/prettier/]], [[https://github.com/fsouza/prettierd][/prettierd/]])
+
+  *Haskell* ([[https://github.com/lspitzner/brittany][/brittany/]], [[https://github.com/fourmolu/fourmolu][/fourmolu/]], [[https://github.com/commercialhaskell/hindent][/hindent/]], [[https://github.com/tweag/ormolu][/ormolu/]], [[https://github.com/jaspervdj/stylish-haskell][/stylish-haskell/]])
+
+  *HCL* ([[https://github.com/hashicorp/hcl/tree/main/cmd/hclfmt][/hclfmt/]])
+
+  *HLSL* ([[https://clang.llvm.org/docs/ClangFormat.html][/clang-format/]])
+
+  *HTML/XHTML/XML* ([[http://www.html-tidy.org/][/tidy/]])
+
+  *Hy* (Emacs)
+
+  *Java* ([[http://astyle.sourceforge.net/][/astyle/]], [[https://clang.llvm.org/docs/ClangFormat.html][/clang-format/]], [[https://github.com/google/google-java-format][/google-java-format/]])
+
+  *JavaScript/JSON/JSX* ([[https://prettier.io/][/prettier/]], [[https://standardjs.com/][/standard/]], [[https://github.com/fsouza/prettierd][/prettierd/]], [[https://deno.land/manual/tools/formatter][/deno/]])
+
+  *Jsonnet* ([[https://jsonnet.org/][/jsonnetfmt/]])
+
+  *Kotlin* ([[https://github.com/shyiko/ktlint][/ktlint/]])
+
+  *LaTeX* ([[https://github.com/cmhughes/latexindent.pl][/latexindent/]], [[https://www.gnu.org/software/auctex/][/auctex/]])
+
+  *Ledger* ([[https://github.com/ledger/ledger-mode][/ledger-mode/]])
+
+  *Lua* ([[https://github.com/trixnz/lua-fmt][/lua-fmt/]], [[https://github.com/JohnnyMorganz/StyLua][stylua]], [[https://github.com/prettier/plugin-lua][/prettier plugin/]])
+
+  *Markdown* ([[https://prettier.io/][/prettier/]], [[https://github.com/fsouza/prettierd][/prettierd/]], [[https://deno.land/manual/tools/formatter][/deno/]])
+
+  *Meson* ([[https://sr.ht/~lattis/muon/][/muon fmt/]])
+
+  *Nginx* ([[https://github.com/slomkowski/nginx-config-formatter][/nginxfmt/]])
+
+  *Nix* ([[https://github.com/nix-community/nixpkgs-fmt][/nixpkgs-fmt/]], [[https://github.com/serokell/nixfmt][/nixfmt/]], [[https://github.com/kamadorueda/alejandra][/alejandra/]])
+
+  *OCaml* ([[https://opam.ocaml.org/packages/ocp-indent/][/ocp-indent/]], [[https://github.com/ocaml-ppx/ocamlformat][/ocamlformat/]])
+
+  *Perl* ([[http://perltidy.sourceforge.net/][/perltidy/]])
+
+  *PHP* ([[https://github.com/prettier/plugin-php][/prettier plugin/]])
+
+  *Protocol Buffers* ([[https://clang.llvm.org/docs/ClangFormat.html][/clang-format/]])
+
+  *PureScript* ([[https://gitlab.com/joneshf/purty][/purty/]], [[https://github.com/natefaubion/purescript-tidy][/purescript-tidy/]])
+
+  *Python* ([[https://github.com/ambv/black][/black/]], [[https://github.com/PyCQA/isort][/isort/]], [[https://docs.astral.sh/ruff/formatter/][/ruff format/]], [[https://github.com/google/yapf][/yapf/]])
+
+  *R* ([[https://github.com/r-lib/styler][/styler/]])
+
+  *Racket* ([[https://docs.racket-lang.org/fmt/][/raco fmt/]])
+
+  *Reason* ([[https://github.com/glennsl/bs-refmt][/bsrefmt/]])
+
+  *ReScript* ([[https://www.npmjs.com/package/rescript][/rescript format/]])
+
+  *Ruby* ([[https://github.com/rubocop/rubocop][/rubocop/]], [[https://github.com/ruby-formatter/rufo][/rufo/]], [[https://github.com/testdouble/standard][/standardrb/]], [[https://github.com/ruby-syntax-tree/syntax_tree][/stree (syntax_tree)/]])
+
+  *Rust* ([[https://github.com/rust-lang-nursery/rustfmt][/rustfmt/]])
+
+  *Scala* ([[https://github.com/scalameta/scalafmt][/scalafmt/]])
+
+  *Shell script* ([[https://github.com/lovesegfault/beautysh][/beautysh/]], [[https://github.com/mvdan/sh][/shfmt/]])
+
+  *Snakemake* ([[https://github.com/snakemake/snakefmt][/snakefmt/]])
+
+  *Solidity* ([[https://github.com/prettier-solidity/prettier-plugin-solidity][/prettier plugin/]])
+
+  *SQL* ([[https://github.com/darold/pgFormatter][/pgformatter/]], [[https://pypi.org/project/sqlparse/][/sqlformat/]])
+
+  *Svelte* ([[https://github.com/sveltejs/prettier-plugin-svelte][/prettier plugin/]])
+
+  *Swift* ([[https://github.com/nicklockwood/SwiftFormat][/swiftformat/]])
+
+  *Terraform* ([[https://www.terraform.io/docs/commands/fmt.html][/terraform fmt/]])
+
+  *TOML* ([[https://github.com/bd82/toml-tools/tree/master/packages/prettier-plugin-toml][/prettier plugin/]], [[https://taplo.tamasfe.dev/cli/usage/formatting.html][/taplo fmt/]])
+
+  *TypeScript/TSX* ([[https://prettier.io/][/prettier/]], [[https://standardjs.com/][/ts-standard/]], [[https://github.com/fsouza/prettierd][/prettierd/]], [[https://deno.land/manual/tools/formatter][/deno/]])
+
+  *V* ([[https://github.com/vlang/v][/v fmt/]])
+
+  *Vue* ([[https://prettier.io/][/prettier/]], [[https://github.com/fsouza/prettierd][/prettierd/]])
+
+  *Verilog* ([[https://github.com/thomasrussellmurphy/istyle-verilog-formatter][/iStyle/]], [[https://github.com/chipsalliance/verible/tree/master/verilog/tools/formatter][/Verible/]])
+
+  *YAML* ([[https://prettier.io/][/prettier/]], [[https://github.com/fsouza/prettierd][/prettierd/]])
+
+  *Zig* ([[https://ziglang.org/][/zig/]])
+#+end_quote

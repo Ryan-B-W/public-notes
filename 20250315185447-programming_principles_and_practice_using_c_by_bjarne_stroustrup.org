@@ -1,0 +1,83 @@
+:PROPERTIES:
+:ID:       7d7eba82-87b7-4772-ab7e-ce43b165d697
+:END:
+#+title: Programming: Principles and Practice Using C++ by Bjarne Stroustrup
+#+filetags: :education_resource:cpp_lang:programming:computer_science:books:
+
+* (www.stroustrup.com) Stroustrup: Programming -- Principles and Practice Using C++ (3rd Edition) :website:
+:PROPERTIES:
+:ID:       1fd8cfb5-1d64-4c06-8bd1-a1956b4426ec
+:ROAM_REFS: https://www.stroustrup.com/programming.html
+:END:
+
+#+begin_quote
+  * Programming -- Principles and Practice Using C++ (3rd Edition)
+
+  **** Addison-Wesley ISBN 978-0-13-830868-1. April 2024.
+
+  [[https://www.stroustrup.com/PPP3cover.jpg]]
+
+  [[https://www.informit.com/store/programming-principles-and-practice-using-c-plus-plus-9780138308681][You can buy directly from the publisher]].
+
+  --------------
+
+  * Back cover copy
+
+  ** An Introduction to Programming by the Inventor of C++
+
+  Programming: Principles and Practice Using C++, Third Edition, will help anyone who is willing to work hard learn the fundamental principles of programming and develop the practical skills needed for programming in the real world.  Previous editions have been used successfully by many thousands of students.  This revised and updated edition
+
+  - Assumes that your aim is to eventually write programs that are good enough for others to use and maintain
+  - Focuses on fundamental concepts and techniques, rather than on obscure language-technical details
+  - Is an introduction to programming in general, including procedural, object-oriented, and generic programming, rather than just an introduction to a programming language
+  - Covers both contemporary high-level techniques and the lower-level techniques needed for efficient use of hardware
+  - Will give you a solid foundation for writing useful, correct, type-safe, maintainable, and efficient code
+  - Is primarily designed for people who have never programmed before, but even seasoned programmers have found previous editions useful as an introduction to more effective concepts and techniques
+  - Covers a wide range of essential concepts, design and programming techniques, language features, and libraries
+  - Uses contemporary C++ (C++20 and C++23)
+  - Covers the design and use of both built-in types and user-defi ned types, complete with input, output, computation, and simple graphics/GUI
+  - Offers an introduction to the C++ standard library containers and algorithms
+
+  *ABOUT THE AUTHOR* Bjarne Stroustrup is the designer and original implementer of C++, as well as the author of [[https://www.stroustrup.com/4th.html][The C++ Programming Language]] and [[https://www.stroustrup.com/tour3.html][A Tour of C++]], and many popular and academic publications.  He is a professor of Computer Science at Columbia University in New York City.  Dr. Stroustrup is a member of the US National Academy of Engineering, and an IEEE, ACM, and CHM fellow.  He received the 2018 Charles Stark Draper Prize, the IEEE Computer Society's 2018 Computer Pioneer Award, and the 2017 IET Faraday Medal.
+
+  informit.com/aw informit.com/series/indepth stroustrup.com/Programming
+
+  Pearson, Addison-Wesley ISBN 978-0-13-830868-1
+
+  --------------
+
+  * PPP3
+
+  "Programming: Principles and Practice using C++ (3rd Edition)", aka PPP3, is an introduction to programming for people who have never programmed before.  It will also be useful for people who have programmed a bit and want to improve their style and technique - or simply learn modern C++.  It is designed for classroom use, but written with an eye on self study. [[https://www.stroustrup.com/PPP2.html][Ealier versions of this book]] have been used as the basis for first programming classes for electrical engineering, computer engineering, and computer science students at Texas A&M University and in many other places.
+
+  People who have seen PPP2 will notice that PPP3 is about half its size.  What I have done to keep the weight down is to
+
+  - strengthen the foundational chapters usually covered in a one-semester course, utilizing key parts of C++20 and C+23, and re-basing the Graphics/GUI chapter code on [[https://en.wikipedia.org/wiki/Qt_(software)][Qt]] for portability (e.g., to browsers and phones).
+  - placed the more specialized chapters (known as "broadening the view" in PPP2) on the Web for people to use as needed.  See below.
+  - eliminate the pure reference material.  You now can find more and more up-to-date material on the web, e.g. [[https://en.cppreference.com/w/][cppreference.com]].
+
+  The [[https://www.stroustrup.com/PPP2.html][supporting material for PPP2]] is available as ever (lecture slides, code, etc.).
+
+  Here are some PPP3 samples
+
+  - [[https://www.stroustrup.com/PPP3_Preface.pdf][Preface]].  What the book promises, and what it does not promise.
+  - [[https://www.stroustrup.com/PPP3_TOC.pdf][Table of Contents]].
+  - [[https://www.stroustrup.com/PPP3_Ch0.pdf][Chapter 0: Notes to the Reader]].  Some notes on the approach taken by the book.
+  - [[https://www.stroustrup.com/PPP3_Ch10-Display.pdf][Chapter 10: A Display Model]].  A sample chapter.  If you are a real novice, don't read this chapter quite yet.  I post it to show teachers and more experienced readers where the book gets to in the 5th week or so (assuming two chapters a week).  Also, to show off a little bit of contemporary C++.
+
+  --------------
+
+  * Supporting information
+
+  - [[https://www.stroustrup.com/C++links.html][Links]] to C++ implementations and Software Development Environments (and a little advice on getting started).
+  - [[https://www.stroustrup.com/module_use.html][How to use modules?]] including an explanation of how to build module PPP using [[https://www.stroustrup.com/PPP_support.h][PPP_support.h]].
+  - [[https://www.stroustrup.com/PPP.ixx][module PPP]] for when you can use modules.
+  - [[https://www.stroustrup.com/PPP.h][header "PPP.h"]] for the easiest use of modules std and PPP.
+  - [[https://www.stroustrup.com/PPPheaders.h][header "PPPheaders.h"]] for when you have to fall back to using header files.
+  - [[https://github.com/villevoutilainen/ProgrammingPrinciplesAndPracticeUsingQt][GUI support]] including PPP3's Graphics/GUI user interface library (from chapters 10-14).  To run this code you need to install [[https://en.wikipedia.org/wiki/Qt_(software)][Qt]].  Note [[https://github.com/villevoutilainen/ProgrammingPrinciplesAndPracticeUsingQt/blob/main/UserGuide.pdf][The User Manual]].
+  - [[https://www.stroustrup.com/chapter_code.html][Sample code from the various chapters]] (TBD)
+  - [[https://www.stroustrup.com/PPP3_errata.html][Errata]]
+  - Slides for [[https://www.stroustrup.com/PPP3_slides.html][Lectures based on PPP]] updated for PPP3.
+  - [[https://www.stroustrup.com/PPP-style.pdf][PPP Coding Style Guide]]
+  - [[https://www.stroustrup.com/PPP3-exercises.html][Exercise Material]] (TBD)
+#+end_quote

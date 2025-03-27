@@ -1,0 +1,79 @@
+:PROPERTIES:
+:ID:       5bef8d55-b4f3-437a-af98-403eb1956d00
+:ROAM_REFS: https://wiki.wisdpi.com/network/usb-3.2-5gbps-wired-base-t-ethernet-adapter
+:END:
+#+title: (wiki.wisdpi.com) USB 3.2 5Gbps Wired Base-T Ethernet Adapter | WisdPi
+#+filetags: :store:electronics:website:
+
+#+begin_quote
+  * USB 3.2 5Gbps Wired Base-T Ethernet Adapter
+
+  Model: WP-UT5
+
+  ** Features
+
+  - Chip: Realtek RTL8157.  All support 10/100/1000/2500/5000 Mbps links and consumes under 1.5 watts, against 0.7W for 2.5 GbE networking.
+  - Hyper Fast 5Gbps Networking-- provides stable connection to save you from weak network trouble.
+  - Easily portable, ideal for working, traveling and business -- WP-UT5 is so compact and lightweight that makes it perfect for working, traveling and business.  Wide compatibility for USB 3.2 port -- Compatible with Windows, Mac OSX, and Linux.  Conveniently upgrade your NAS, laptop or desktop to hyper fast 5G transfer speed
+  - No more smudge or corrosion -- The stylish aluminum case provide premium protection of corrosion, and no more worry about tearing or fraying from everyday use with the high quality nylon-braided cable.
+  - Split cable design, provides A-C and C-C cable backup, compatible with all USB 3.2 Gen2 data ports
+
+  ** Hardware
+
+  - Supports USB 3.2 Gen1/2 and USB2.0
+  - Supports 5G Lite (2.5G data rate) mode, 2.5G Lite (1G data rate) and GlGA Lite (500M data rate) mode
+  - Auto-Negotiation with Extended Next Page capability (XNP)
+  - Compatible with NBASE-T TM Alliance PHY Specification
+  - Supports pair swap/polarity/skew correction
+  - Crossover Detection & Auto-Correction
+  - Supports CDC-ECM & CDC-NCM
+  - Supports hardware CRC (Cyclic Redundancy Check) function
+  - Supports ECMA-393 ProxZzzy Standard for sleeping hosts
+
+  ** IEEE
+
+  - Compatible with IEEE 802.3, IEEE 802.3u, IEEE802.3ab
+  - Supports lEEE 802.1P Layer 2 Priority Encoding
+  - Supports IEEE 802.1Q VLAN tagging
+  - Supports lEEE 802.3az (Energy Efficient Ethernet)
+  - Supports IEEE 802.3bz (5G Base-T)
+  - Supports Full Duplex flow control (802.3x)
+
+  ** Software Offload
+
+  - Microsoft NDIS5, NDIS6 Checksum Offload (IPv4, IPv6, TCP, UDP) and Segmentation Task
+  - offload (Large send v1 and Large send v2)support
+  - Supports jumbo frame to 16k bytes
+  - Supports Protocol Offload (ARP & NS)
+  - Microsoft AOAC (Always On Always Connected)/Modern Standby
+  - Supports 32-set 128-byte Wake-Up Frame pattemn exact matching
+  - Supports link change wake up
+
+  ** Supports Microsoft WPD (Wake Packet Detection)
+
+  - Intel CPPM (Converged Platform Power Management)
+  - Supports L1 with 3ms BESL (USB 2.0)
+  - Dynamic LTM messaging (USB 3.2Gen1/2)
+  - Supports U1/U2/U3 (USB 3.2 Gen1/2)
+  - Supports selective suspend
+
+  ** Temp
+
+  - Ambient Operating Temperature TA: 70°C
+  - Storage Temperature:-55~+125°C
+
+  ** System Supported
+
+  - [[https://wiki.wisdpi.com/network/usb-3.2-5gbps-wired-base-t-ethernet-adapter#windows-11][Windows]]
+  - [[https://wiki.wisdpi.com/network/usb-3.2-5gbps-wired-base-t-ethernet-adapter#linux-kernel-up-to-5.17][Linux]]
+  - Mac OS 10.7 or later
+  - [[https://wiki.wisdpi.com/network/usb-3.2-5gbps-wired-base-t-ethernet-adapter#synology-dsm-support][Synology DSM]]
+  - [[https://wiki.wisdpi.com/network/usb-3.2-5gbps-wired-base-t-ethernet-adapter#articlecontentid][Proxmox VE (PVE)]]
+
+  ** Package Contents
+
+  - 1 x USB 3.2 5G Base-T Ethernet Adapter
+  - 1 x 15cm USB 3.2 C-C
+  - 1 x 15cm USB 3.2 A-C
+  - 1 x User Manual
+#+end_quote

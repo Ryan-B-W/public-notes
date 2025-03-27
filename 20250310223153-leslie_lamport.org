@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       6d7f20f8-b669-43ce-a5ee-b5e842ef8dab
+:END:
+#+title: Leslie Lamport
+#+filetags: :person:
+
+American computer scientist and mathematician.  Known for work in distributed systems, [[id:669335f2-8499-4ee6-b6b8-317c0c4f96ed][LaTeX]], and work on formal verification (such as [[id:4f26c5af-ba73-4a88-8915-9cc7de26e549][TLA+]]).
+* (en.wikipedia.org) Leslie Lamport - Wikipedia                     :website:
+:PROPERTIES:
+:ID:       fe9ec98a-8317-45ef-b8b7-77041b6857c3
+:ROAM_REFS: https://en.wikipedia.org/wiki/Leslie_Lamport
+:END:
+
+#+begin_quote
+  *Leslie B. Lamport* (born February 7, 1941) is an American [[https://en.wikipedia.org/wiki/Computer_scientist][computer scientist]] and [[https://en.wikipedia.org/wiki/Mathematician][mathematician]].  Lamport is best known for his seminal work in [[https://en.wikipedia.org/wiki/Distributed_system][distributed systems]], and as the initial developer of the document preparation system [[https://en.wikipedia.org/wiki/LaTeX][LaTeX]] and the author of its first manual.
+
+  Lamport was the winner of the 2013 [[https://en.wikipedia.org/wiki/Turing_Award][Turing Award]] for imposing clear, well-defined coherence on the seemingly chaotic behavior of [[https://en.wikipedia.org/wiki/Distributed_computing][distributed computing]] systems, in which several autonomous computers communicate with each other by passing messages.  He devised important [[https://en.wikipedia.org/wiki/Algorithm][algorithms]] and developed [[https://en.wikipedia.org/wiki/Formal_model][formal modeling]] and verification protocols that improve the quality of real distributed systems.  These contributions have resulted in improved correctness, performance, and reliability of computer systems.
+#+end_quote

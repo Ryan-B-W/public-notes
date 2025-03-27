@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       f569efb7-7112-4080-957d-e9e0eb480e74
+:ROAM_REFS: https://github.com/phoe/portable-condition-system
+:END:
+#+title: (github.com) GitHub - phoe/portable-condition-system: A portable Common Lisp condition system
+#+filetags: :common_lisp:lisp:website:

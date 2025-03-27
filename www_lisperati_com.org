@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       cb289f33-47b8-4e75-a9d1-85ce57ab26f7
+:ROAM_REFS: https://www.lisperati.com/logo.html
+:END:
+#+title: (www.lisperati.com) Lisp Logo
+#+filetags: :lisp:website:

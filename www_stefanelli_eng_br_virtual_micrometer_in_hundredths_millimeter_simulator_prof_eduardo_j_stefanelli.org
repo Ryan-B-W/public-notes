@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       320a4b21-c176-4bb6-8587-5127c07d7f02
+:ROAM_REFS: https://www.stefanelli.eng.br/en/simulator-virtual-micrometer-hundredths-millimeter/#swiffycontainer_2
+:END:
+#+title: (www.stefanelli.eng.br) Virtual Micrometer in Hundredths Millimeter - Simulator | Prof. Eduardo J. Stefanelli
+#+filetags: :education:metrology:website:
+
+#+begin_quote
+  ** How to use, read and interpretate the linear reading instrument ‘micrometer' in hundredths of a millimeter
+
+  *** measuring range 0 to 25 mm and resolution 0.01 mm
+
+  Roll until the end of the page, drag and drop the thimble of the bigger visualization in vertical to fine approximation or the thimble of the smaller visualization in the horizontal to fast avance.
+
+  **** Know the [[https://www.stefanelli.eng.br/en/use-reading-micrometer-hundredth-millimeter/][method of reading and interpreting of the centesimal micrometer]]
+
+  *** Use of micrometer in millimeter centesimal (hundredths of millimeter)
+
+  The resolution of the micrometer is obtained from the interaction between the so-called ‘micrometric thread', which is stoned in the spindle, and the thread of the ‘inner bush'.  Generally, in the micrometer in millimeter, the micrometric thread is of an entrance and its step is 0.50 mm (fifty hundredths of a millimeter, five tenths of a millimeter or half millimeter).  This means that a complete (360°) rotation of the drum, and of the spindle that supports it, will produce an advance equivalent to the pitch (fifty centimeters of millimeter), two full turns will produce an advance of 1.00 mm (one millimeter).
+
+  The resolution of this instrument is obtained thanks to the perimeter of the drum, where 50 equidistant divisions are minted.  A complete spin of it will produce an advance of 0.50 mm and the fifty divisions will ‘sweep' the ‘reference line'.  In this way, each division of the drum ‘marks' the advance of 0,01 mm (one hundredth of a millimeter) of the spindle.  That is the resolution of this instrument.
+#+end_quote

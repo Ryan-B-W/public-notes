@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       58e302ba-cd67-40b4-995d-fdd306ca4bf8
+:ROAM_REFS: https://www.lg.com/us/monitors/lg-28mq780-b-dualup-monitor
+:END:
+#+title: (www.lg.com) 28-inch 16:18 DualUp Monitor - 28MQ780-B | LG USA
+#+filetags: :electronics:hardware:store:website:
+
+#+begin_quote
+  Key Features
+  - 28" SDQHD (2560 x 2880) Nano IPS Display
+  - Up to DCI-P3 98% (Typ.) with HDR10
+  - Ergonomic Stand with C-Clamp
+  - USB Type-C™ (Up to 90W Power Delivery)
+  - Ambient Light Sensor
+#+end_quote")

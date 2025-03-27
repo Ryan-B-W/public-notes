@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       293eed6c-a611-466a-b4e5-45a1fa5bda8b
+:ROAM_REFS: https://en.wikipedia.org/wiki/Turbine–electric_powertrain
+:END:
+#+title: (en.wikipedia.org) Turbine–electric powertrain - Wikipedia
+#+filetags: :vehicle_technology:website:
+
+#+begin_quote
+  A turbine–electric transmission system includes a turboshaft gas turbine connected to an electrical generator, creating electricity that powers electric traction motors. No clutch is required.
+
+  Turbine–electric transmissions are used to drive both gas turbine locomotives (rarely) and warships.
+#+end_quote

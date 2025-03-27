@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       8adc7f5f-bc26-4225-87f3-8e3ea4d05a05
+:ROAM_REFS: https://en.wikipedia.org/wiki/Soap_scum
+:END:
+#+title: (en.wikipedia.org) Soap scum - Wikipedia
+#+filetags: :chemistry:website:
+
+#+begin_quote
+  *Soap scum* or *lime soap* is the white solid composed of [[https://en.wikipedia.org/wiki/Calcium_stearate][calcium stearate]], [[https://en.wikipedia.org/wiki/Magnesium_stearate][magnesium stearate]], and similar [[https://en.wikipedia.org/wiki/Alkaline_earth_metal][alkaline earth metal]] derivatives of fatty acids.  These materials result from the addition of [[https://en.wikipedia.org/wiki/Soap][soap]] and other [[https://en.wikipedia.org/wiki/Anionic_surfactant][anionic surfactants]] to [[https://en.wikipedia.org/wiki/Hard_water][hard water]].  Hard water contains [[https://en.wikipedia.org/wiki/Calcium][calcium]] and [[https://en.wikipedia.org/wiki/Magnesium][magnesium]] ions, which react with the surfactant anion to give these [[https://en.wikipedia.org/wiki/Metallic_soap][metallic]] or lime soaps.
+
+  \[2 C_{17}H_{35}COO^{−}Na^{+} + Ca^{2+} \longrightarrow (C_{17}H_{35}COO)_{2}Ca + 2 Na^{+}\]
+
+  In this reaction, the [[https://en.wikipedia.org/wiki/Sodium][sodium]] cation in soap is replaced by calcium to form [[https://en.wikipedia.org/wiki/Calcium_stearate][calcium stearate]].
+
+  Lime soaps build deposits on fibres, washing machines, and sinks.  Synthetic [[https://en.wikipedia.org/wiki/Surfactant][surfactants]] are less susceptible to the effects of hard water.  Most [[https://en.wikipedia.org/wiki/Detergent][detergents]] contain [[https://en.wikipedia.org/wiki/Builder_(detergent)][builders]] that prevent the formation of lime soaps.
+#+end_quote

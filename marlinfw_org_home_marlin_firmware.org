@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       20614214-edba-4c63-8231-a3056f5ede82
+:ROAM_REFS: https://marlinfw.org/
+:END:
+#+title: (marlinfw.org) Home | Marlin Firmware
+#+filetags: :3d_printing:software:firmware:website:
+
+#+begin_quote
+  * Marlin Firmware
+
+  ** Speed, accuracy, and finesse
+
+  First created in 2011 for RepRap and Ultimaker by [[https://github.com/ErikZalm][Erik van der Zalm]] et. al., today Marlin drives most of the world's 3D printers.  Reliable and precise, Marlin delivers outstanding print quality while keeping you in full control of the process.
+#+end_quote

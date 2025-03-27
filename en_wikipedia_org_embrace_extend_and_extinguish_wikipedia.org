@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       3af96b57-4716-4ca8-b70c-e5ac80f67d61
+:ROAM_REFS: https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish
+:END:
+#+title: (en.wikipedia.org) Embrace, extend, and extinguish - Wikipedia
+#+filetags: :microsoft:website:
+
+#+begin_quote
+  "Embrace, extend, and extinguish" (EEE), also known as "embrace, extend, and exterminate", is a phrase that the U.S. Department of Justice found was used internally by Microsoft to describe its strategy for entering product categories involving widely used open standards, extending those standards with proprietary capabilities, and using the differences to strongly disadvantage its competitors.
+#+end_quote

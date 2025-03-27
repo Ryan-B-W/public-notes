@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       2f1f9306-91aa-4485-bac9-b2dc52f9f5fd
+:ROAM_REFS: https://plausible.io/self-hosted-web-analytics
+:END:
+#+title: (plausible.io) Plausible: Self-Hosted Google Analytics alternative | Plausible Analytics
+#+filetags: :analytics:software:www:website:
+
+#+begin_quote
+  Plausible Analytics is an open source web analytics tool.  Our mission is to reduce corporate surveillance by making a useful and privacy-friendly website analytics tool that doesn’t come from the adtech world.
+#+end_quote

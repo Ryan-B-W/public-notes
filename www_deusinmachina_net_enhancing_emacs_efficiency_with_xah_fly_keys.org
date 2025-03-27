@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       62d8fe4a-73f8-48af-8a54-3c21ff22f757
+:ROAM_REFS: https://www.deusinmachina.net/p/modal-editing-with-emacs-using-xah
+:END:
+#+title: (www.deusinmachina.net) Enhancing Emacs Efficiency with Xah Fly Keys
+#+filetags: :emacs:blog_post:website:

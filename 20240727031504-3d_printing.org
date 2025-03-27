@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       9df83862-bbc6-4917-a164-823c96009542
+:END:
+#+title: 3D Printing/Additive Manufacturing
+#+filetags: :3d_printing:manufacturing:
+
+A manufacturing technology more specifically and technically referred to as additive manufacturing.
+
+Common forms include:
+* Fused Deposition Modeling™ (FDM)/Fused Filament Fabrication (FFF)
+:PROPERTIES:
+:ID:       4852bbc5-c5bf-4339-9604-8e2296b888a6
+:END:
+A manufacturing method that typically uses a plastic filament and a hotend to melt said filament to build up parts layer by layer.  The most common form of 3D printing with plastic.
+* Stereolithography (SLA) Printing
+:PROPERTIES:
+:ID:       83b2992d-eadb-41d7-8c0a-e1f0b3fcb44d
+:END:
+Another popular form of 3D printing that uses UV curable resin and a UV laser with mirror galvanometers to cure single layers of the resin on a build plate and build up the part from the clear bottom of a tank.  The parts need to be cleaned and cured after printing to fully cure the partially cured resin.
+** See Also
+ - [[https://en.wikipedia.org/wiki/Stereolithography][Stereolithography - Wikipedia]]
+* Masked-Stereolithography (MSLA)
+Very similar to [[id:83b2992d-eadb-41d7-8c0a-e1f0b3fcb44d][SLA]] except that it uses a photo-mask, typically an LCD panel, to mask a UV lamp to cure a whole layer of resin at once instead of scanning with a UV laser.  In recent years, more popular than classic SLA since it is much faster.
+* Powder Bed Fusion (DMLS, SLS, SLM, MJF, & EBM)
+:PROPERTIES:
+:ID:       379eb0fe-c313-4131-bb25-e17949e51386
+:END:
+* Directed-Energy Deposition (DED)
+:PROPERTIES:
+:ID:       9285ceb8-f874-40de-b3bc-99a4cc9e6620
+:END:
+A family of deposition methods for 3D printing, typically in metal.
+** Powder-Fed Directed-energy Deposition (PFDED)
+:PROPERTIES:
+:ID:       43434d73-7ffa-4e87-b7e1-0de8efc58a16
+:END:
+** Metal Wire Process
+:PROPERTIES:
+:ID:       3546fe93-6925-4d8a-96b2-135d7c0a40a0
+:END:
+*** Laser Metal Deposition-wire (LMD-w)
+:PROPERTIES:
+:ID:       df80dea5-e323-46ed-9ede-1bd6b4a8be45
+:END:
+*** Electron Beam Freeform Fabrication (EBF³)
+:PROPERTIES:
+:ID:       94c6a27a-efab-4e4e-aee1-9355f97cd46a
+:END:
+*** Directed-Energy Deposition (DED) with Gas Metal Arc Welding (GMAW)
+:PROPERTIES:
+:ID:       f7f264bb-c6d4-4b05-a8b8-270e97ffd6b5
+:END:
+* Selective Powder Deposition (SPD)
+:PROPERTIES:
+:ID:       90510990-2131-44c5-9fa7-06cd6dd599a4
+:END:
+* See Also
+ - [[https://en.wikipedia.org/wiki/3D_printing][3D printing - Wikipedia]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       882e7f64-3d91-4f95-b7c8-602a8ebbaf02
+:ROAM_REFS: https://github.com/alphapapa/org-web-tools
+:END:
+#+title: (github.com) alphapapa/org-web-tools: View, capture, and archive Web pages in Org-mode
+#+filetags: :www:lisp:emacs:software:website:
+
+#+begin_quote
+  This file contains library functions and commands useful for retrieving web page content and processing it into Org-mode content.
+  For example, you can copy a URL to the clipboard or kill-ring, then run a command that downloads the page, isolates the “readable” content with eww-readable, converts it to Org-mode content with Pandoc, and displays it in an Org-mode buffer.  Another command does all of that but inserts it as an Org entry instead of displaying it in a new buffer.
+#+end_quote

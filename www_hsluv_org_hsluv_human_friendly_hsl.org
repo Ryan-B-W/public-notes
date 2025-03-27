@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       ecddf99a-1d76-4541-96c7-c8531be48a2f
+:ROAM_REFS: https://www.hsluv.org/
+:END:
+#+title: (www.hsluv.org) HSLuv - Human-friendly HSL
+#+filetags: :website:
+
+#+begin_quote
+  HSLuv is a [[https://www.boronine.com/2012/03/26/Color-Spaces-for-Human-Beings/][human-friendly]] alternative to HSL.
+
+  Here you can see [[http://en.wikipedia.org/wiki/CIELUV][CIELUV]], a color space designed for perceptual uniformity based on human experiments.  When accessed by polar coordinates, it becomes functionally similar to HSL with a single problem: its chroma component doesn't fit into a specific range.
+
+  HSLuv extends CIELUV with a new saturation component that allows you to span all the available chroma as a neat percentage.
+#+end_quote

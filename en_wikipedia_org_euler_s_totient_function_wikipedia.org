@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       11b422e7-3f78-403a-8c94-a4371191d82f
+:ROAM_REFS: https://en.wikipedia.org/wiki/Euler's_totient_function
+:END:
+#+title: (en.wikipedia.org) Euler's totient function - Wikipedia
+#+filetags: :mathematics:website:
+
+#+begin_quote
+  In number theory, Euler's totient function counts the positive integers up to a given integer n that are relatively prime to n.  It is written using the Greek letter phi as φ(n) or ϕ(n), and may also be called Euler's phi function.  In other words, it is the number of integers k in the range 1 ≤ k ≤ n for which the greatest common divisor gcd(n, k) is equal to 1.  The integers k of this form are sometimes referred to as totatives of n.
+#+end_quote
+* See Also
+** [[id:82fb19d5-4914-4ed3-9b21-24a2126987b7][Riemann hypothesis - Wikipedia]]

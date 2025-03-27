@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       2ae59cc2-a6be-4f51-a19b-9800bceea827
+:ROAM_REFS: https://en.wikipedia.org/wiki/Gartner_hype_cycle
+:END:
+#+title: (en.wikipedia.org) Gartner hype cycle - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  The Gartner hype cycle is a graphical presentation developed, used and branded by the American research, advisory and information technology firm Gartner to represent the maturity, adoption, and social application of specific technologies.  The hype cycle claims to provide a graphical and conceptual presentation of the maturity of emerging technologies through five phases.
+#+end_quote

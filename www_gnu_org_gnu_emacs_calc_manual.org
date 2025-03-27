@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       7ee00e1e-0fd7-480f-a1ad-8285bfa26e5a
+:ROAM_REFS: https://www.gnu.org/software/emacs/manual/html_mono/calc.html
+:END:
+#+title: (www.gnu.org) GNU Emacs Calc Manual
+#+filetags: :documentation:emacs:lisp:software:computer_algebra:mathematics:website:
+
+#+begin_quote
+  Calc is an advanced desk calculator and mathematical tool written by Dave Gillespie that runs as part of the GNU Emacs environment.
+#+end_quote

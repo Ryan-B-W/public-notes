@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       c74b8d11-ae90-46a1-ada5-9e8cfea22fbb
+:ROAM_REFS: https://www.microsoft.com/en-us/research/project/z3-3/
+:END:
+#+title: (www.microsoft.com) Z3 - Microsoft Research
+#+filetags: :mathematics:security:software:programming:computer_science:website:

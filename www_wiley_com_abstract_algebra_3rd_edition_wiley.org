@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       2d615e11-0d55-4454-92b9-acbeae5dfb99
+:ROAM_REFS: https://www.wiley.com/en-us/Abstract+Algebra,+3rd+Edition-p-9780471433347
+:END:
+#+title: (www.wiley.com) Abstract Algebra, 3rd Edition | Wiley
+#+filetags: :mathematics:books:website:
+
+#+begin_quote
+  This revision of Dummit and Foote's widely acclaimed introduction to abstract algebra helps students experience the power and beauty that develops from the rich interplay between different areas of mathematics.
+  The book carefully develops the theory of different algebraic structures, beginning from basic definitions to some in-depth results, using numerous examples and exercises to aid the student's understanding.  With this approach, students gain an appreciation for how mathematical structures and their interplay lead to powerful results and insights in a number of different settings.
+  The text is designed for a full-year introduction to abstract algebra at the advanced undergraduate or graduate level, but contains substantially more material than would normally be covered in one year.  Portions of the book may also be used for various one-semester topics courses in advanced algebra, each of which would provide a solid background for a follow-up course delving more deeply into one of many possible areas: algebraic number theory, algebraic topology, algebraic geometry, representation theory, Lie groups, etc.
+#+end_quote

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       aae5dc7c-4f40-45e4-ab19-ad34fdccbbd5
+:ROAM_REFS: https://www.cpace.csulb.edu/open-university
+:END:
+#+title: (www.cpace.csulb.edu) Open University | CSULB
+#+filetags: :education:website:
+
+#+begin_quote
+  Want to take a class without being admitted to CSULB?
+
+  Open University offers the opportunity for anyone to enroll in a course without being admitted to the university.  You can take courses on a space-available basis and earn college credit during the Fall and Spring semesters.
+
+  Students registering through Open University do not need instructor or department approval to add a class.  However, if prerequisites are required, the class is full, and/or the department requires permission, you will need to obtain approval.
+
+  The Spring 2025 semester will begin on January 21.  Students should consult the online Schedule of Classes for information specific to their course.  Students who need further clarity should consult with the course instructor.
+#+end_quote

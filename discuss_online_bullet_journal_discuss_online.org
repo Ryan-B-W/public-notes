@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       63ede1d3-111f-4d2b-8bb1-76bedc807261
+:ROAM_REFS: https://discuss.online/c/bulletjournal
+:END:
+#+title: (discuss.online) Bullet Journal - Discuss Online
+#+filetags: :information_management:website:
+
+A [[id:e0ce32e7-da4d-4005-b891-174247c9b686][Lemmy]] community dedicated to the [[id:cd0fff7f-2afb-44a8-9a1a-f4082a62d9a5][Bullet Journal]] method.

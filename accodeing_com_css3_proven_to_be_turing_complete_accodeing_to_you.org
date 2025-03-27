@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       1d314232-9c91-4ecb-9572-157e614e93cc
+:ROAM_REFS: https://accodeing.com/blog/2015/css3-proven-to-be-turing-complete
+:END:
+#+title: (accodeing.com) CSS3 proven to be turing complete., Accodeing to you
+#+filetags: :website:

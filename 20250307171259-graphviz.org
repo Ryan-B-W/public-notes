@@ -1,0 +1,51 @@
+:PROPERTIES:
+:ID:       5054a179-805a-4bda-9668-994a2c954416
+:END:
+#+title: Graphviz
+#+filetags: :programming_language:graphs:graphics:open_source:software:
+
+[[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][Open-source]] graph visualization software.
+* (graphviz.org) Graphviz                                           :website:
+:PROPERTIES:
+:ID:       9022b84d-1aaf-4687-bc4e-b1827256af96
+:ROAM_REFS: https://graphviz.org/
+:END:
+
+#+begin_quote
+  * Graphviz
+
+  Please join the [[https://forum.graphviz.org/][Graphviz forum]] to ask questions and discuss Graphviz.
+
+  ** What is Graphviz?
+
+  Graphviz is open source graph visualization software.  Graph visualization is a way of representing structural information as diagrams of abstract graphs and networks.  It has important applications in networking, bioinformatics, software engineering, database and web design, machine learning, and in visual interfaces for other technical domains.
+
+  ** Features
+
+  The Graphviz layout programs take descriptions of graphs in a simple text language, and make diagrams in useful formats, such as images and SVG for web pages; PDF or Postscript for inclusion in other documents; or display in an interactive graph browser.  Graphviz has many useful features for concrete diagrams, such as options for colors, fonts, tabular node layouts, line styles, hyperlinks, and custom shapes.
+
+  ** Download
+
+  The current release of Graphviz can be downloaded here: [[https://graphviz.org/download/][Download]] The code base is stored [[https://gitlab.com/graphviz/graphviz/][here]] on GitLab.
+
+  ** Documentation
+
+  Documentation is available in the released package and from here: [[https://graphviz.org/documentation][Documentation]]
+
+  ** Discussions
+
+  You can post questions and comments in the [[https://forum.graphviz.org/][Graphviz forum]].
+
+  ** Bug And Issue Tracking
+
+  You can report or view Graphviz bugs and issues by visiting the Graphviz [[https://gitlab.com/graphviz/graphviz/issues][Issues]] page.
+#+end_quote
+* (en.wikipedia.org) Graphviz - Wikipedia                           :website:
+:PROPERTIES:
+:ID:       89ea65ef-3f78-4053-9ad2-8b0b1d3031a3
+:ROAM_REFS: https://en.wikipedia.org/wiki/Graphviz
+:END:
+
+#+begin_quote
+  *Graphviz* (short for /Graph Visualization Software/) is a package of [[https://en.wikipedia.org/wiki/Open-source_software][open-source]] tools initiated by [[https://en.wikipedia.org/wiki/AT&T_Labs][AT&T Labs Research]] for [[https://en.wikipedia.org/wiki/Graph_drawing][drawing]] [[https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)][graphs]] (as in [[https://en.wikipedia.org/wiki/Vertex_(graph_theory)][nodes]] and [[https://en.wikipedia.org/wiki/Edge_(graph_theory)][edges]], not as in [[https://en.wikipedia.org/wiki/Bar_chart][bar charts]]) specified in [[https://en.wikipedia.org/wiki/DOT_(graph_description_language)][DOT language]] scripts having the [[https://en.wikipedia.org/wiki/File_name_extension][file name extension]] "gv".  It also provides libraries for software applications to use the tools.  Graphviz is [[https://en.wikipedia.org/wiki/Free_software][free software]] licensed under the [[https://en.wikipedia.org/wiki/Eclipse_Public_License][Eclipse Public License]].
+#+end_quote

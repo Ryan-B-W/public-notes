@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5f613d2c-771b-4275-abf5-02a3ccdaaeb3
+:ROAM_REFS: https://0branch.com/notes/tco-cl.html
+:END:
+#+title: (0branch.com) Tail Call Optimisation in Common Lisp Implementations
+#+filetags: :programming_language_design:lisp:programming:website:
+
+An article on guarantees of tail-call elimination in various [[id:b5fb5c4b-d10f-4bca-91e1-a5e946ef0c83][Common Lisp]] implementations.
+
+For SBCL, the following is the constraints on when tail-call elimination is done for both self-calls and general tail-calls:
+: Tail-merging is done if (> SPACE DEBUG) or (> SPEED DEBUG) – not by default.

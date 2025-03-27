@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       59914a97-d624-4512-b470-f65bac9568e4
+:ROAM_REFS: https://biologicalsciences.uchicago.edu/news/simple-model-brain-cells-connect
+:END:
+#+title: (biologicalsciences.uchicago.edu) Surprisingly simple model explains how brain cells organize and connect | Biological Sciences Division | The University of Chicago
+#+filetags: :article:news:neuroscience:biology:website:
+
+#+begin_quote
+  A new study by physicists and neuroscientists from the University of Chicago, Harvard and Yale describes how connectivity among neurons comes about through general principles of networking and self-organization, rather than the biological features of an individual organism.
+  The research, published on January 17, 2024 in Nature Physics, accurately describes neuronal connectivity in a variety of model organisms and could apply to non-biological networks like social interactions as well.
+  “When you’re building simple models to explain biological data, you expect to get a good rough cut that fits some but not all scenarios,” said Stephanie Palmer, PhD, Associate Professor of Physics and Organismal Biology and Anatomy at UChicago and senior author of the paper.  “You don’t expect it to work as well when you dig into the minutiae, but when we did that here, it ended up explaining things in a way that was really satisfying.”
+#+end_quote

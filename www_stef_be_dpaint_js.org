@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       c62e82db-2dc2-47b7-9f4c-23558e1beb27
+:ROAM_REFS: https://www.stef.be/dpaint/
+:END:
+#+title: (www.stef.be) DPaint JS
+#+filetags: :image_editing:software:website:
+
+#+begin_quote
+  Webbased image editor modeled after the legendary Deluxe Paint with a focus on retro Amiga file formats.
+#+end_quote

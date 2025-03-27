@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       89c93ee7-1e6a-4350-9d6f-f9155ae8b6d1
+:ROAM_REFS: https://en.wikipedia.org/wiki/TI-82
+:END:
+#+title: (en.wikipedia.org) TI-82 - Wikipedia
+#+filetags: :electronics:calculator:website:
+
+#+begin_quote
+  The *TI-82* is a [[https://en.wikipedia.org/wiki/Graphing_calculator][graphing calculator]] made by [[https://en.wikipedia.org/wiki/Texas_Instruments][Texas Instruments]].  The TI-82 was designed in 1993 as an upgraded version of and replacement for the [[https://en.wikipedia.org/wiki/TI-81][TI-81]].  It was the direct predecessor of the [[https://en.wikipedia.org/wiki/TI-83_series][TI-83]].  It shares with the TI-85 a 6 [[https://en.wikipedia.org/wiki/Hertz][MHz]] [[https://en.wikipedia.org/wiki/Zilog_Z80][Zilog Z80]] [[https://en.wikipedia.org/wiki/Microprocessor][microprocessor]].  Like the TI-81, the TI-82 features a 96×64 pixel display, and the core feature set of the TI-81 with many new features.
+#+end_quote

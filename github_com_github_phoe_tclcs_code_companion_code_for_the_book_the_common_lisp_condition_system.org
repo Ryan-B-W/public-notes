@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       ceb47e89-bff1-40fa-a774-10f77c58216a
+:ROAM_REFS: https://github.com/phoe/tclcs-code
+:END:
+#+title: (github.com) GitHub - phoe/tclcs-code: Companion code for the book "The Common Lisp Condition System"
+#+filetags: :common_lisp:lisp:website:

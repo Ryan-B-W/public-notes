@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       0a286e76-6fe1-4869-b6d9-cc1ddfe4184d
+:ROAM_REFS: https://octave.org/
+:END:
+#+title: (octave.org) GNU Octave
+#+filetags: :graphics:computer_algebra:open_source:mathematics:software:website:
+
+#+begin_quote
+  ** GNU Octave
+
+  *Scientific Programming Language*
+
+  - Powerful mathematics-oriented syntax with built-in 2D/3D plotting and visualization tools
+  - Free software, runs on GNU/Linux, macOS, BSD, and Microsoft Windows
+  - Drop-in compatible with many Matlab scripts
+#+end_quote

@@ -1,0 +1,73 @@
+:PROPERTIES:
+:ID:       d5e68f52-2433-449d-9def-64e4ac3a30ed
+:ROAM_REFS: https://bruijn.marvinborner.de/
+:END:
+#+title: (bruijn.marvinborner.de) bruijn programming language
+#+filetags: :programming_language:website:
+
+#+begin_quote
+  * bruijn
+
+  #+begin_example
+    pow [index (iterate (mul 0) (+1))]
+
+    …**… pow
+
+    :test ((+2) ** (+3) =? (+8)) (true)
+  #+end_example
+
+  Functional programming language based on pure de Bruijn indexed lambda calculus.
+
+  *Hint*: Click on anything you don't understand.
+
+  Lambdas all the way down.
+  No primitive functions.
+
+  #+begin_example
+    > (+5)
+    [[[[2 (2 (1 3))]]]]
+    > 'a'
+    [[[1 (0 (0 (0 (0 (1 (1 (0 2)))))))]]]
+    > add
+    [[(([([[1 0 [[0]]]] ((((0 [[(((0...
+  #+end_example
+
+  #+begin_example
+    > :time factorial (+42)
+    0.01 seconds
+  #+end_example
+
+  [[https://bruijn.marvinborner.de/wiki/technical/performance/][Efficient]] reduction using abstract machines and higher-order encodings.
+
+  Substantial standard library.
+  [[https://bruijn.marvinborner.de/std/][Source]]
+
+  #+begin_example
+    > ∏ (+1) → (+3) | ++‣
+    > number! <$> (lines "42
+    25")
+    > sum (take (+3) (repeat (+4)))
+    > (+10b) ⋀! (+12b)
+  #+end_example
+
+  #+begin_example
+    $ echo "main [0]" > echo.bruijn
+    $ bruijn -b echo.bruijn > echo
+    $ wc -c echo
+    2 echo
+    $ echo "hello world!" | bruijn -e echo
+    hello world!
+  #+end_example
+
+  [[https://bruijn.marvinborner.de/wiki/coding/compilation/][Compilation]] to Tromp's binary lambda calculus.
+  Support for byte and ASCII encoding.
+
+  [[https://bruijn.marvinborner.de/wiki/coding/meta-programming/][Meta-programming]]
+  and self-interpretation.
+
+  #+begin_example
+    > length `factorial
+    > !(swap `((+2u) (+3u)))
+    > lhs (blc→meta "010000100000110")
+  #+end_example
+#+end_quote

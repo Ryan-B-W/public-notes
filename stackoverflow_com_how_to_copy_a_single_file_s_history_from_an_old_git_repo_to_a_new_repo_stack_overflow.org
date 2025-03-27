@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       99e40087-3c87-4b05-ba9c-d29087d5cec6
+:ROAM_REFS: https://stackoverflow.com/questions/53819500/how-to-copy-a-single-files-history-from-an-old-git-repo-to-a-new-repo
+:END:
+#+title: (stackoverflow.com) How to copy a single file's history from an old Git repo to a new repo? - Stack Overflow
+#+filetags: :version_control:website:

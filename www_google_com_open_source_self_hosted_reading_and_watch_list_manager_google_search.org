@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       8da0d3a0-64b3-410a-817c-0fec5f0af012
+:ROAM_REFS: https://www.google.com/search?q=open+source+self+hosted+reading+and+watch+list+manager
+:END:
+#+title: (www.google.com) open source self hosted reading and watch list manager - Google Search
+#+filetags: :www:searches:website:
+
+Results:
+* [[id:9f6c6cd7-7008-4fcc-9d7c-251f03ab4c02][(www.reddit.com) What tool do you use for a personal reading list / watch list? : r/selfhosted]]
+* [[id:f2f07361-fcbb-42de-b14e-8b8aa96bb17d][(www.reddit.com) Watcharr: Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup. : r/selfhosted]]
+* [[id:9f61caf6-c9c6-42f5-92a8-2799b75c3566][(forum.cloudron.io) koillection : A self-hosted website to manage all your collections | Cloudron Forum]]
+* [[id:c5cf25d2-9b1e-4eea-b63f-6230753e626e][(github.com) awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers]]
+* [[id:1a549534-1123-47fc-a7f6-9ced7906f7ef][(github.com) bayang/jelu: Self hosted read and to-read list book tracker]]
+* [[id:2da47842-184d-43cb-8d40-43f2d0ae68d5][(selfh.st) Self-Hosted Software and Apps]]
+* [[id:5547e5f5-d81c-41fb-a32b-309e1debabbf][(www.devopsschool.com) List of Top Free Open Source & Self Hosted Application for Document Management - E-books - DevOpsSchool.com]]
+* [[id:2f1f9306-91aa-4485-bac9-b2dc52f9f5fd][(plausible.io) Plausible: Self-Hosted Google Analytics alternative | Plausible Analytics]]

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       34690fb5-f6d1-4fb0-9086-7e9fc4e97c65
+:ROAM_REFS: https://protesilaos.com/emacs/iosevka-comfy-pictures
+:END:
+#+title: (protesilaos.com) Screen shots of Iosevka Comfy font | Protesilaos Stavrou
+#+filetags: :open_source:fonts_slab_serif:fonts_sans:fonts_quasi_proportional:fonts_monospace:fonts:website:

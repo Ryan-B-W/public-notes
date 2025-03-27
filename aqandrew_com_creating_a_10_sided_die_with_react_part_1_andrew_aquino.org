@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       6a3da8a5-4b8e-4e62-a5bf-ea6b1a9e0783
+:ROAM_REFS: https://aqandrew.com/blog/10-sided-die-react/
+:END:
+#+title: (aqandrew.com) Creating a 10-Sided Die with React, Part 1 | Andrew Aquino
+#+filetags: :website:
+
+#+begin_quote
+  * Creating a 10-Sided Die with React, Part 1
+
+  Published February 10, 2021
+
+  - [[https://aqandrew.com/tags/react][#react]]
+  - [[https://aqandrew.com/tags/r3f][#r3f]]
+
+  This is a 10-sided die.  Below is my attempt to recreate one with JavaScript---just the shape for now.  Click it to see it move!
+
+  Check out the latest code [[https://github.com/aqandrew/react-3d-dice][on GitHub]] or [[https://codesandbox.io/s/github/dawneraq/react-3d-dice][in CodeSandbox]].
+
+  You can create 3D graphics with React!  This is how I built a custom three.js geometry to use in react-three-fiber.  Hopefully documenting my process can help someone get started^{*} with 3D programming.
+
+  I'm assuming that you have some basic knowledge of three.js and React.  I'm no expert; that's all I had when I figured this stuff out.
+
+  Also, I hope you like math.
+#+end_quote

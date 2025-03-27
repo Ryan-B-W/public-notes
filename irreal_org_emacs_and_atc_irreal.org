@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       842e429e-c109-4968-ba9c-133ba2d535b8
+:ROAM_REFS: https://irreal.org/blog/?p=12204
+:END:
+#+title: (irreal.org) Emacs and ATC | Irreal
+#+filetags: :emacs:stories:lisp:programming:computer_science:website:
+
+Links to [[id:0d857dce-5da1-4849-8157-d2ee9cb5b056][EmacsWiki: Emacs Stories: Emacs being used as a message router in Germany's air traffic control systems for a time in the 1990s]].

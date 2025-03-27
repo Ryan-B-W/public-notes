@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       71021274-081e-4518-b556-3fc8e46cef33
+:ROAM_REFS: https://web.archive.org/web/20231001230621/https:/web.cn.edu/kwheeler/fallacies_list.html
+:END:
+#+title: (web.archive.org) Logical Fallacies Handlist
+#+filetags: :archive_org:reasoning:argument:writing:website:

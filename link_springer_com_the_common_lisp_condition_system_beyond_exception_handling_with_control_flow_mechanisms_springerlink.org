@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       3c7df3f7-a551-4f8c-97b6-8ef3296cd36a
+:ROAM_REFS: https://link.springer.com/book/10.1007/978-1-4842-6134-7
+:END:
+#+title: (link.springer.com) The Common Lisp Condition System: Beyond Exception Handling with Control Flow Mechanisms | SpringerLink
+#+filetags: :common_lisp:lisp:books:website:

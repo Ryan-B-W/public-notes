@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9a533362-6ccb-4eea-a4ca-e9f2db1d4955
+:ROAM_REFS: https://mrandri19.github.io/2019/07/24/modern-text-rendering-linux-overview.html
+:END:
+#+title: (mrandri19.github.io) Modern text rendering with Linux: Overview | Home
+#+filetags: :website:
+
+#+begin_quote
+  Text is an essential part of Human-computer Interaction.  In the age of Instagram, YouTube, and VR we still consume information primarily through text.  Computing started with text-only interfaces and every major Operating System provides libraries to render text.
+  Text rendering, despite being ubiquitous, has little up to date documentation, especially on Linux systems.  The goal of this post is to give an overview of the modern Linux text rendering stack and to give the reader an understanding of the complexity behind it.
+#+end_quote

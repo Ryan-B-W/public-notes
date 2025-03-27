@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       646350ef-bced-4eb3-82b2-bd3aae58e699
+:ROAM_REFS: https://news.ycombinator.com/item?id=43137586
+:END:
+#+title: (news.ycombinator.com) Why Clojure? | Hacker News
+#+filetags: :software_development:programming:lisp:forums:website:
+
+Hacker News thread for [[id:37c4f3f0-c0c4-45fb-a739-5349068b35fe]["Why Clojure?"]].

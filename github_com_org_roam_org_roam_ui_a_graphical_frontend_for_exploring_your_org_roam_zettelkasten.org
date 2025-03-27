@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       839d0ada-08b6-4ef0-aaf2-aa3f39c78c65
+:ROAM_REFS: https://github.com/org-roam/org-roam-ui
+:END:
+#+title: (github.com) org-roam/org-roam-ui: A graphical frontend for exploring your org-roam Zettelkasten
+#+filetags: :website:
+
+#+begin_quote
+  * org-roam-ui: a graphical frontend for your org-roam Zettelkasten
+
+  Org-Roam-UI is a frontend for exploring and interacting with your [[https://github.com/org-roam/org-roam][org-roam]] notes.
+
+  Org-Roam-UI is meant a successor of [[https://github.com/org-roam/org-roam-server][org-roam-server]] that extends functionality of org-roam with a Web app that runs side-by-side with Emacs.
+#+end_quote

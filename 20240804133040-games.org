@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       dd50fdc6-97f0-4245-944d-0b1ce0da892d
+:END:
+#+title: Games
+#+filetags: :games:
+
+* See Also
+** [[id:6b508558-90f8-4371-a8be-92504af97207][Tabletop Games]]
+** [[id:1fb5644a-e77c-43b0-82af-4f2a4c0c852d][Video Games]]

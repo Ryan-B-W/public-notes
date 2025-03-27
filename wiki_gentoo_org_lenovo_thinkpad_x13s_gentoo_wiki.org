@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       6af72de0-d6bd-4bb1-a8fd-a931a040d6c0
+:ROAM_REFS: https://wiki.gentoo.org/wiki/Lenovo_ThinkPad_X13s
+:END:
+#+title: (wiki.gentoo.org) Lenovo ThinkPad X13s - Gentoo wiki
+#+filetags: :gentoo:documentation:linux:website:
+
+#+begin_quote
+  The *Lenovo ThinkPad X13s* is an ARM64 based laptop with good support under Linux and Gentoo.  Most features work flawlessly with a few still being under active development.  For details on the support of each feature check [[https://github.com/jhovold/linux/wiki/X13s][this page]].
+
+  This laptop isn't the fastest ever, but performs well and gets 12-16 hours of battery life under normal use conditions.
+#+end_quote

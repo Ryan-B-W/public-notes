@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       f9af3084-6617-4fac-9f6c-e836473a77b6
+:ROAM_REFS: https://huggingface.co/blog/Esmail-AGumaan/attention-is-all-you-need
+:END:
+#+title: (huggingface.co) Transformers
+#+filetags: :blog_post:article:nlp:machine_learning:artificial_intelligence:website:

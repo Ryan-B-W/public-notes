@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       12e948c9-ff7b-4b71-82f9-8b6182923e2e
+:ROAM_REFS: https://coredumped.dev/2021/05/26/taking-org-roam-everywhere-with-logseq/
+:END:
+#+title: (coredumped.dev) Taking org-roam everywhere with logseq • Core Dumped
+#+filetags: :information_management:emacs:software:website:
+
+#+begin_quote
+  I love [[id:ad5b1807-db6f-47de-b957-2537a489021c][org-roam]].  It lets me take notes in a way that matches how I think.  It makes it easy to recall what I have learned and find connections between ideas.  But there has always been one big problem with org-roam: it ties me to the desktop.  When I am on the go and all I have is my phone, I don’t have access to my notes.
+  There are some stop gap solutions to try and fix this.  [[id:2daf3272-070b-4096-b5a6-f8b3fe57b94f][Beorg]] is iOS app that supports editing org files on mobile.  However, it is more focused on task management than note taking.  It does not offer text search, has no way to insert “org-roam-links”, and does not supported nested directories of org files.  [[id:95665463-a8fa-4262-bf6b-ca38650e1faa][Organice]] is another org mobile solution that can be used as PWA.  However, it suffers from the same limitations as beorg, and has a poor editing experience (when you switch away from the app it will close your text box, making it hard to take notes on something you are reading).  In the end, I was not satisfied with anything that I found: nothing allowed the same workflow I had on desktop.
+  Then I happened upon [[id:7698e55e-4120-42e8-87d9-c5918baf887b][logseq]].  It is open-source, privacy-centric note taking app inspired by [[id:5ab4a0b0-95e2-40cf-b924-709db3115d48][org-mode]] and [[id:b83f6ef7-85bc-4465-ac86-94fe8d3efbec][roam-research]].  It has native support for the org mode format.  Since both org-roam and logseq are based around roam itself, I can use the same workflow on both apps.  It has all the features you would expect of a roam replica, including full text search, page links, inline images/video’s, etc.  As a bonus, it is fairly easy to make it work with org-roam.
+#+end_quote

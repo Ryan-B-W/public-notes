@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       155f917a-2b05-423a-b81a-c93b992f37ec
+:ROAM_REFS: https://dev.yorhel.nl/ncdu
+:END:
+#+title: (dev.yorhel.nl) NCurses Disk Usage
+#+filetags: :open_source:system_administration:software:website:
+
+#+begin_quote
+  * NCurses Disk Usage
+
+  Ncdu is a disk usage analyzer with a text-mode user interface.  It is designed to find space hogs on a remote server where you don't have an entire graphical setup available, but it is a useful tool even on regular desktop systems.  Ncdu aims to be fast, simple, easy to use, and should be able to run on any POSIX-like system.
+#+end_quote

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       63f32102-5c84-47e0-95ac-b43d1b9a85cf
+:ROAM_REFS: https://gitlab.com/gentoo-racket/racket-pmsf
+:END:
+#+title: (gitlab.com) Gentoo Racket / Racket-PMSF · GitLab
+#+filetags: :linux:gentoo:scheme:lisp:website:
+
+#+begin_quote
+  * Package Manager Specification Formats
+
+  Package Manager Specification formatting and parsing functions.
+
+  ** About
+
+  Racket library to providing PMS formatting and parsing functions.
+
+  The Package Manager Specification document: [[https://dev.gentoo.org/~ulm/pms/head/pms.html][dev.gentoo.org/~ulm/pms]]
+#+end_quote

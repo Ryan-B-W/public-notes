@@ -1,0 +1,72 @@
+:PROPERTIES:
+:ID:       25cafa8b-118c-4eef-9903-70d4a208c806
+:ROAM_REFS: https://mausimus.itch.io/shaderglass
+:END:
+#+title: (mausimus.itch.io) ShaderGlass by mausimus
+#+filetags: :open_source:microsoft_windows:software:website:
+
+#+begin_quote
+  ** ShaderGlass
+
+  Overlay applying retro shaders on top of Windows desktop
+
+  *** [[https://github.com/rohatsu/ShaderGlass#features][Features]]
+
+  - applies shader effects on top of any window on the desktop in realtime
+  - includes 800+ shaders from [[https://github.com/libretro/RetroArch][RetroArch]] library covering:
+  -
+    - CRT monitor simulation
+    - image upscaling
+    - TV / VHS simulation
+    - softening, denoising, blur and sharpen
+  - works with most emulators and retro platforms (in windowed/borderless modes) including [[https://www.dosbox.com/][DOSBox]] [[https://github.com/FrodeSolheim/fs-uae][FS-UAE]] [[http://www.virtualdub.org/altirra.html][Altirra]] [[https://github.com/scummvm/scummvm][ScummVM]] [[https://github.com/adventuregamestudio/ags][AGS]] any many more
+  - you can even use it on top of YouTube or Twitch, albeit with some option tuning necessary to clean up video scaling
+  - works with OBS (in Game Capture mode)
+
+  Check out [[https://github.com/mausimus/ShaderGlass/blob/master/README.md][README]] and [[https://github.com/mausimus/ShaderGlass/blob/master/FAQ.md][FAQ]] for detailed instructions.
+#+end_quote
+* (github.com) mausimus/ShaderGlass: Overlay for running GPU shaders on top of Windows desktop
+:PROPERTIES:
+:ID:       8d0dd28b-d643-4667-8e45-68c13a8325d4
+:ROAM_REFS: https://github.com/mausimus/ShaderGlass
+:END:
+
+#+begin_quote
+  ** ShaderGlass
+
+  Overlay for running GPU shaders on top of Windows desktop.
+
+  *** Features
+
+  applies shader effects on top of any window on the desktop
+
+  includes [[https://github.com/libretro/RetroArch][RetroArch]] shader library covering:
+
+  - CRT monitor simulation
+  - image upscaling
+  - TV / VHS simulation
+  - softening, denoising, blur, sharpen and many more
+
+  works with most emulators, retro platforms and pixel art editors including:
+
+  - [[https://www.dosbox.com/][DOSBox]], [[https://github.com/FrodeSolheim/fs-uae][FS-UAE]], [[http://www.virtualdub.org/altirra.html][Altirra]], [[https://github.com/scummvm/scummvm][ScummVM]], [[https://github.com/adventuregamestudio/ags][AGS]], [[https://sf.net/projects/vice-emu][VICE]], [[https://www.aseprite.org/][Aseprite]] etc.
+
+  excellent companion for pixel art drawing showing shaded and/or aspect-ratio corrected preview
+
+  you can even use it on top of YouTube, Twitch or modern games
+
+  saving and loading profiles
+
+  multiple operating modes, including borderless fullscreen
+
+  can be captured by OBS (using Game Capture source)
+#+end_quote
+* (bsky.app) @mausimus.bsky.social: "ShaderGlass 1.0 has been released! Big update! 🚨 Apply shaders to any app on your desktop: gaming, pixel art and video. 📺 Free and open source! Links in reply." — Bluesky
+:PROPERTIES:
+:ID:       bcd947d0-7775-4aeb-bdc7-c56767ce35c8
+:ROAM_REFS: https://bsky.app/profile/mausimus.bsky.social/post/3linwxzjusc2c
+:END:
+
+#+begin_quote
+  ShaderGlass 1.0 has been released!  Big update!  🚨 Apply shaders to any app on your desktop: gaming, pixel art and video.  📺 Free and open source!  Links in reply.
+#+end_quote

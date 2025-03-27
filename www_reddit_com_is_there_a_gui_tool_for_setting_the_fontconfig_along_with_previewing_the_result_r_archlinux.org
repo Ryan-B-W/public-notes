@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       74f5babc-4bcd-45b6-bddc-da6113ed76c6
+:ROAM_REFS: https://www.reddit.com/r/archlinux/comments/aq2al4/is_there_a_gui_tool_for_setting_the_fontconfig/
+:END:
+#+title: (www.reddit.com) Is there a GUI tool for setting the fontconfig along with previewing the result? : r/archlinux
+#+filetags: :fonts:forums:website:
+
+Links to:
+* [[id:1d78f3a4-ed38-486a-b23c-558ef96a91c2][(github.com) FontManager/font-manager]]

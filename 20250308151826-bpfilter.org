@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       1fb58335-6ed0-496c-97f2-8abd55ea139d
+:END:
+#+title: bpfilter
+#+filetags: :linux:networking:
+
+A [[id:b7fe46b5-84f5-494e-9442-b356d8a44c15][BPF]]-based packet filtering framework.  Has frontends for compatibility with [[id:abd50a09-4c8a-4648-b73d-67b2a1724d27][iptables]] and [[id:78c9c8fd-611c-496e-9103-ea8cc061d6fa][nftables]].
+* (bpfilter.io) bpfilter documentation                              :website:
+:PROPERTIES:
+:ID:       c0230b58-a50d-4607-9b27-289bbdf06e27
+:ROAM_REFS: https://bpfilter.io/
+:END:
+
+#+begin_quote
+  * =bpfilter=
+
+  =bpfilter= is a BPF-based packet filtering framework.  It is composed of a shared library (=libbpfilter=) and a daemon (=bpfilter=).
+
+  The =bpfilter= daemon running on the system receives a request from a client (=iptables=, =nftables=, or any other client that could be created) and converts the client-provided ruleset into one or more BPF program(s).
+
+  If you want to try =bpfilter= with =nftables= or =iptables=, have a look at [[https://bpfilter.io/usage/index.html][Usage]] and [[https://bpfilter.io/developers/build.html][Build from sources]].
+
+  If you want to know more about =bpfilter='s internals, take a look at the following talks about the project:
+
+  - [[https://www.youtube.com/watch?v=UDZhCubE-Kk&list=PLbzoR-pLrL6rlmdpJ3-oMgU_zxc1wAhjS&index=47][BPF and firewall: kernel support to ease more complex packets filtering (LSFMMBPF 2023)]]
+  - [[https://media.ccc.de/v/all-systems-go-2023-196-bpfilter-a-bpf-based-packet-filtering-framework][bpfilter: a BPF-based packet filtering framework (All Systems Go 2023)]]
+  - [[https://www.youtube.com/watch?v=J5Hm6PrJWI4&t=27649s][bpfilter: a BPF-based packet filtering framework (Linux Plumbers Conference 2023)]]
+  - [[https://mirror.as35701.net/video.fosdem.org/2024/ub5230/fosdem-2024-2143-netfilter-or-ebpf-use-both-with-bpfilter-.mp4][Netfilter or eBPF? Use both with bpfilter! (FOSDEM 2024)]]
+  - [[https://www.youtube.com/watch?v=fzaPEm4PXn0][bpfilter: packet filtering with BPF and nftables (Scale21x)]]
+#+end_quote
+* (github.com) facebook/bpfilter: BPF-based packet filtering framework :website:
+:PROPERTIES:
+:ID:       b8cdb852-96d5-4b9a-bbb0-90195288d397
+:ROAM_REFS: https://github.com/facebook/bpfilter
+:END:
+
+#+begin_quote
+  *** An [[https://ebpf.io/][eBPF]]-based packet filtering framework.
+
+  *bpfilter* is an eBPF-based packet filtering framework designed to translate filtering rules into BPF programs.  It comprises three main components:
+
+  1. A daemon that runs on the host, translating filtering rules into BPF programs.
+  2. A lightweight library to facilitate communication with the daemon.
+  3. A dedicated command line interface to define the filtering rules.
+
+  A typical usage workflow would be to start the =bpfilter= daemon, then define the filtering rules using =bfcli= (part of the =bpfilter= project), =nftables= or =iptables=.  The =bpfilter= daemon will be responsible for translating the filtering rules into custom BPF programs, and loading them on the system.
+
+  Detailed information can be found in the [[https://bpfilter.io/][documentation]].
+#+end_quote

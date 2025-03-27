@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       fc7f106e-215c-48c1-9351-d6667c9735c4
+:ROAM_REFS: https://orgmode.org/manual/Citation-handling.html
+:END:
+#+title: (orgmode.org) Citation handling (The Org Manual)
+#+filetags: :documentation:information_management:lisp:emacs:software:website:
+
+#+begin_quote
+  While links (see Hyperlinks) are often sufficient to refer to external or internal information from [[id:5ab4a0b0-95e2-40cf-b924-709db3115d48][Org]], they have their limitations when referring to multiple targets or typesetting printed publications.
+  Org mode provides a more sophisticated markup to “cite” external resources.
+#+end_quote
+* (orgmode.org) Citations (The Org Manual) (online)
+:PROPERTIES:
+:ID:       c7c8d2d4-5689-4819-b736-5c2b3729fc5f
+:ROAM_REFS: https://orgmode.org/manual/Citations.html
+:END:

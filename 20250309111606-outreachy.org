@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       df6267de-9bd3-428e-b1d2-1a95d11a4ea7
+:END:
+#+title: Outreachy
+#+filetags: :diversity_equity_inclusion:organization:
+
+Organization dedicated to [[id:afed701e-fc95-4581-9a5f-5600664c07d2][DEI]] in [[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][open-source]] projects by providing internships to underrepresented groups.
+* (www.outreachy.org) Outreachy | Internships Supporting Diversity in Tech - Outreachy :website:
+:PROPERTIES:
+:ID:       a4868a90-2567-45fe-8c5e-bcbaf70246d1
+:ROAM_REFS: https://www.outreachy.org/
+:END:
+
+#+begin_quote
+  ** Outreachy
+
+  Outreachy provides *internships in open source.*  Outreachy provides internships to people subject to systemic bias and impacted by underrepresentation in the technical industry where they are living.
+
+  Outreachy internships are:
+
+  💵 *Paid* - $7,000 USD total internship stipend
+
+  🌍 *Remote* - both interns and mentors work remotely
+
+  🕰 *3 months* - internships run May to August, or December to March
+
+  ** Work on Open Source
+
+  Outreachy has internship projects in open source.  Outreachy internship projects may include programming, research, user experience, documentation, graphical design, data science, marketing, user advocacy, event planning, and more!
+
+  📘 [[https://www.outreachy.org/docs/applicant/#outreachy-schedule][Read the Outreachy applicant guide]] for details.
+#+end_quote
+* (en.wikipedia.org) Outreachy - Wikipedia                          :website:
+:PROPERTIES:
+:ID:       7c0a2c6d-d8eb-4ce7-89d7-8ec2d76b6fff
+:ROAM_REFS: https://en.wikipedia.org/wiki/Outreachy
+:END:
+
+#+begin_quote
+  *Outreachy* (previously the *Free and Open Source Software Outreach Program for Women*) is a program that organizes three-month paid internships with [[https://en.wikipedia.org/wiki/Free_and_open-source_software][free and open-source software]] projects for people who are typically underrepresented in those projects.  The program is organized by the [[https://en.wikipedia.org/wiki/Software_Freedom_Conservancy][Software Freedom Conservancy]] and was formerly organized by the [[https://en.wikipedia.org/wiki/GNOME_Project][GNOME Project]] and the [[https://en.wikipedia.org/wiki/GNOME_Foundation][GNOME Foundation]].
+
+  It is open to [[https://en.wikipedia.org/wiki/Cisgender][cisgender]] and [[https://en.wikipedia.org/wiki/Transgender][transgender]] women, people of other gender identities that are minorities in [[https://en.wikipedia.org/wiki/Open_source][open source]] (including transgender men and genderqueer people), and people of any gender in the United States who have racial/ethnic identities underrepresented in the US technology industry (Black/African American, Hispanic/Latino, American Indian, Alaska Native, Native Hawaiian, and Pacific Islander).  Participants can be of any background and any age older than 18.  Internships can focus on programming, design, documentation, marketing, or other kinds of contributions.
+
+  The program began in 2006 with a round of internships for women working on the [[https://en.wikipedia.org/wiki/GNOME][GNOME]] [[https://en.wikipedia.org/wiki/Desktop_environment][desktop environment]] (which primarily runs on [[https://en.wikipedia.org/wiki/Linux][Linux]]), and it resumed in 2010 with internships twice a year, adding projects from other organizations starting in 2012.  As of 2014, these rounds of internships have had up to 16 participating organizations, including [[https://en.wikipedia.org/wiki/Mozilla][Mozilla]] and the [[https://en.wikipedia.org/wiki/Wikimedia_Foundation][Wikimedia Foundation]].  Funding comes from the GNOME Foundation, [[https://en.wikipedia.org/wiki/Google][Google]], organizations participating in the internships, and other software companies.
+#+end_quote

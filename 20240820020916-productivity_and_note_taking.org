@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3cb36cde-9b51-4dc1-8b60-577cde5c72a8
+:END:
+#+title: Productivity and note taking
+#+filetags: :productivity:directory:information_management:lists:
+
+* [[id:cd0fff7f-2afb-44a8-9a1a-f4082a62d9a5][Bullet Journal]]
+* [[id:f9dfd6e9-b3d3-498a-a315-3a5a4de1d792][The Ultimate System for Documenting Business Systems - itGenius 🤓 Biz Tech Experts - YouTube]]
+* [[id:93139082-e5b5-4029-8f88-a22e21a5b044][How to Build Business Processes & Systems - systemHUB - YouTube]]
+* [[id:0e86bca4-e1bb-49d3-9d63-8b90db43d6fb][Zen and the Art of Motorcycle Maintenance - Wikipedia]]
+* [[id:4f0b2ff3-1674-4433-a289-88df29a6add0][Third Time: a better way to work — LessWrong]]

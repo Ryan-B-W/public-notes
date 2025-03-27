@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       36c834d7-b9ff-4a5e-9d21-1e45c58b9999
+:ROAM_REFS: https://en.wikipedia.org/wiki/Smartbook
+:END:
+#+title: (en.wikipedia.org) Smartbook - Wikipedia
+#+filetags: :electronics:website:
+
+A subtype of [[id:9f6589f5-4fa8-42ce-af90-012ea90fe9f7][Subnotebook]].
+
+#+begin_quote
+  A *smartbook* was a class of [[https://en.wikipedia.org/wiki/Mobile_device][mobile device]] that combined certain features of both a [[https://en.wikipedia.org/wiki/Smartphone][smartphone]] and [[https://en.wikipedia.org/wiki/Netbook][netbook]] computer, produced between 2009 and 2010.  Smartbooks were advertised with features such as [[https://en.wiktionary.org/wiki/always-on][always on]], all-day battery life, [[https://en.wikipedia.org/wiki/3G][3G]], or [[https://en.wikipedia.org/wiki/Wi-Fi][Wi-Fi]] connectivity and [[https://en.wikipedia.org/wiki/GPS][GPS]] (all typically found in smartphones) in a [[https://en.wikipedia.org/wiki/Laptop][laptop]] or tablet-style body with a screen size of 5 to 10 inches and a physical or soft [[https://en.wikipedia.org/wiki/Touchscreen][touchscreen]] keyboard.
+
+  A German company sold [[https://en.wikipedia.org/wiki/Laptop][laptops]] under the brand /Smartbook/ and held a [[https://en.wikipedia.org/wiki/Trademark][trademark]] for the word in many countries (not including some big markets like [[https://en.wikipedia.org/wiki/United_States][United States]], [[https://en.wikipedia.org/wiki/China][China]], [[https://en.wikipedia.org/wiki/Japan][Japan]], or [[https://en.wikipedia.org/wiki/India][India]]).  It acted to preempt others from using the term /smartbook/ to describe their products.
+
+  Smartbooks tended to be designed more for entertainment purposes than for productivity and typically targeted to work with online applications.  They were projected to be sold subsidized through [[https://en.wikipedia.org/wiki/Mobile_network_operator][mobile network operators]], like [[https://en.wikipedia.org/wiki/Mobile_phone][mobile phones]], along with a wireless data plan.
+
+  The advent of much more popular [[https://en.wikipedia.org/wiki/Tablet_computer][tablets]] like [[https://en.wikipedia.org/wiki/Android_(operating_system)][Android]] tablets and the [[https://en.wikipedia.org/wiki/IPad][iPad]], coupled with the prevailing popularity of conventional [[https://en.wikipedia.org/wiki/Desktop_computer][desktop computers]] and [[https://en.wikipedia.org/wiki/Laptops][laptops]] have displaced the smartbook.
+#+end_quote

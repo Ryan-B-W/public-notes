@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       e81b6e91-1ce9-41d1-a944-1e77814c806f
+:ROAM_REFS: https://www.reddit.com/r/cpp_questions/
+:END:
+#+title: (www.reddit.com) c++ questions and answers
+#+filetags: :cpp_lang:programming:forums:website:
+
+#+begin_quote
+  c++ questions and answers
+  a subreddit for c++ questions and answers
+#+end_quote
+* Linked in subreddit information
+** [[id:12b295fd-f141-4166-8f21-901a6efe2ffd][(www.catb.org) How To Ask Questions The Smart Way]]
+** [[id:d239b1eb-c57b-4d8b-9995-780d61e8593c][(stackoverflow.com) c++ faq - The Definitive C++ Book Guide and List - Stack Overflow]]

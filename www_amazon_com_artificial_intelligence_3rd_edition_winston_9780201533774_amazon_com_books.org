@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       89c7cea3-3bc0-4e1e-9ade-f35eca34fad6
+:ROAM_REFS: https://www.amazon.com/dp/0201533774
+:END:
+#+title: (www.amazon.com) Artificial Intelligence (3rd Edition): Winston: 9780201533774: Amazon.com: Books
+#+filetags: :textbooks:artificial_intelligence:computer_science:books:website:
+
+#+begin_quote
+  * Artificial Intelligence (3rd Edition)   3rd Edition
+
+  by [[https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&field-author=Winston&text=Winston&sort=relevancerank&search-alias=books][Winston]] (Author)
+
+  This is an eagerly awaited revision of the single bestselling introduction to Artificial Intelligence ever published.  It retains the best features of the earlier works including superior readability, currency, and excellence in the selection of the examples.
+#+end_quote

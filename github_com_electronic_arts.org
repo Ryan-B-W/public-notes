@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       14c86b57-4bcd-4590-a4bc-192b44ca3f62
+:ROAM_REFS: https://github.com/electronicarts
+:END:
+#+title: (github.com) Electronic Arts
+#+filetags: :website:
+
+#+begin_quote
+  * Electronic Arts
+
+  Electronic Arts, inspiring a global community of players to explore new ways to play every day
+#+end_quote

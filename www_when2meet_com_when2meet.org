@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       5bd390d2-bb13-4166-8f83-7c006e4b3e3f
+:ROAM_REFS: https://www.when2meet.com/
+:END:
+#+title: (www.when2meet.com) When2meet
+#+filetags: :website:
+
+Meeting time scheduler/voter tool.

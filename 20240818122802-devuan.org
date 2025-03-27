@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       5f36ec1b-f40b-4375-b613-e33e2bf99dbe
+:END:
+#+title: Devuan
+#+filetags: :software:software_distributions:operating_systems:
+
+Fork of [[id:eea001f0-f697-4e08-a759-bb26d07b14de][Debian]] without [[id:c45f0bda-cf14-42d4-b777-895fa0d43e49][systemd]].
+* See Also
+** [[id:a87c8515-6494-4dc8-a1bd-cd0235ad4867][Welcome to devuan.org | Devuan GNU+Linux Free Operating System]]

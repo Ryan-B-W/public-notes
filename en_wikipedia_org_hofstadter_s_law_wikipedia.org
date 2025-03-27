@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       3cf252ff-2238-4451-be53-2f2cfec26a9d
+:ROAM_REFS: https://en.wikipedia.org/wiki/Hofstadter's_law
+:END:
+#+title: (en.wikipedia.org) Hofstadter's law - Wikipedia
+#+filetags: :adage:website:
+
+#+begin_quote
+  Hofstadter's law is a self-referential adage, coined by Douglas Hofstadter in his book Gödel, Escher, Bach: An Eternal Golden Braid (1979) to describe the widely experienced difficulty of accurately estimating the time it will take to complete tasks of substantial complexity:
+  : Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
+  The law is often cited by programmers in discussions of techniques to improve productivity, such as The Mythical Man-Month or extreme programming.
+#+end_quote

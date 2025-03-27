@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       97c89f07-19a1-4aa8-ba5e-fb3525dc3d47
+:ROAM_REFS: https://wger.readthedocs.io/en/latest/production.html
+:END:
+#+title: (wger.readthedocs.io) Production — wger Workout Manager 2.3 alpha documentation
+#+filetags: :fitness:open_source:software:website:

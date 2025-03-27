@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       96b6fc36-5b86-4108-b2b4-39b85a38f385
+:END:
+#+title: Complex Instruction Set Computer (CISC)
+#+filetags: :computer_architecture:computer_science:
+
+An [[id:c980a340-2564-437e-a79f-388122a206ad][ISA]] that has operations that combine multiple primitive operations, such as memory access with arithmetic.  In contrast to [[id:321ba3cc-d73a-4620-88f7-2527cbae1aac][RISC]] ISA.
+* (en.wikipedia.org) Complex instruction set computer - Wikipedia   :website:
+:PROPERTIES:
+:ID:       5e950738-aa12-4bf2-b6f3-3e8d9fedfe1e
+:ROAM_REFS: https://en.wikipedia.org/wiki/Complex_instruction_set_computer
+:END:
+
+#+begin_quote
+  A *complex instruction set computer* (*CISC* [[https://en.wikipedia.org/wiki/Help:IPA/English][/ˈsɪsk/]]) is a [[https://en.wikipedia.org/wiki/Computer_architecture][computer architecture]] in which single [[https://en.wikipedia.org/wiki/Instruction_set_architecture][instructions]] can execute several low-level operations (such as a load from [[https://en.wikipedia.org/wiki/Memory_(computers)][memory]], an [[https://en.wikipedia.org/wiki/Arithmetic][arithmetic]] [[https://en.wikipedia.org/wiki/Operator_(programming)][operation]], and a memory store) or are capable of multi-step operations or [[https://en.wikipedia.org/wiki/Addressing_mode][addressing modes]] within single instructions.  The term was retroactively coined in contrast to [[https://en.wikipedia.org/wiki/Reduced_instruction_set_computer][reduced instruction set computer]] (RISC) and has therefore become something of an [[https://en.wikipedia.org/wiki/Umbrella_term][umbrella term]] for everything that is not RISC, where the typical differentiating characteristic is that most RISC designs use uniform instruction length for almost all instructions, and employ strictly separate load and store instructions.
+
+  Examples of CISC architectures include complex [[https://en.wikipedia.org/wiki/Mainframe_computer][mainframe computers]] to simplistic microcontrollers where memory load and store operations are not separated from arithmetic instructions.  Specific instruction set architectures that have been retroactively labeled CISC are [[https://en.wikipedia.org/wiki/System/360][System/360]] through [[https://en.wikipedia.org/wiki/Z/Architecture][z/Architecture]], the [[https://en.wikipedia.org/wiki/PDP-11][PDP-11]] and [[https://en.wikipedia.org/wiki/VAX][VAX]] architectures, and many others.  Well known microprocessors and microcontrollers that have also been labeled CISC in many academic publications include the [[https://en.wikipedia.org/wiki/Motorola_6800][Motorola 6800]], [[https://en.wikipedia.org/wiki/6809][6809]] and [[https://en.wikipedia.org/wiki/Motorola_68000_series][68000]] families; the Intel [[https://en.wikipedia.org/wiki/8080][8080]], [[https://en.wikipedia.org/wiki/IAPX_432][iAPX 432]], [[https://en.wikipedia.org/wiki/X86][x86]] and [[https://en.wikipedia.org/wiki/8051][8051]] families; the Zilog [[https://en.wikipedia.org/wiki/Z80][Z80]], [[https://en.wikipedia.org/wiki/Zilog_Z8][Z8]] and [[https://en.wikipedia.org/wiki/Z8000][Z8000]] families; the [[https://en.wikipedia.org/wiki/National_Semiconductor][National Semiconductor]] [[https://en.wikipedia.org/wiki/NS32000][NS320xx]] family; the MOS Technology [[https://en.wikipedia.org/wiki/6502][6502]] family; and others.
+
+  Some designs have been regarded as borderline cases by some writers.  For instance, the [[https://en.wikipedia.org/wiki/Microchip_Technology][Microchip Technology]] [[https://en.wikipedia.org/wiki/PIC_microcontroller][PIC]] has been labeled RISC in some circles and CISC in others.
+#+end_quote

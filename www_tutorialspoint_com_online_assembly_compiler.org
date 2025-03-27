@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       40b05697-d1d8-4e30-8e9d-b619bd86dc53
+:ROAM_REFS: https://www.tutorialspoint.com/compile_assembly_online.php
+:END:
+#+title: (www.tutorialspoint.com) Online Assembly Compiler
+#+filetags: :programming:software:website:

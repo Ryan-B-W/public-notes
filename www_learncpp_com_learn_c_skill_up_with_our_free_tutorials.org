@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       a1662346-5725-4784-a7d1-355d54381f51
+:ROAM_REFS: https://www.learncpp.com/
+:END:
+#+title: (www.learncpp.com) Learn C++ – Skill up with our free tutorials
+#+filetags: :computer_science:education_resource:learning:cpp_lang:programming:website:
+
+#+begin_quote
+  LearnCpp.com is a free website devoted to teaching you how to program in modern C++.  The lessons on this site will walk you through all the steps needed to write, compile, and debug your C++ programs.  No prior programming experience is necessary, but programmers of all levels will benefit from our best practices, tips, and insights.
+
+  Becoming an expert won't happen overnight, but with a bit of patience, you'll get there.  And LearnCpp.com will show you the way.
+#+end_quote

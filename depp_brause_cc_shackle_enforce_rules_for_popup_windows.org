@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       b3df9ec9-43cc-4aec-84f3-478269311a51
+:ROAM_REFS: https://depp.brause.cc/shackle/
+:END:
+#+title: (depp.brause.cc) shackle: Enforce rules for popup windows
+#+filetags: :desktop_environment:open_source:emacs:software:website:
+
+#+begin_quote
+  ** About
+
+  =shackle= gives you the means to put an end to popped up buffers not behaving they way you'd like them to.  By setting up simple rules you can for instance make Emacs always select help buffers for you or make everything reuse your currently selected window.
+#+end_quote

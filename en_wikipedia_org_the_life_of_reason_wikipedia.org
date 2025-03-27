@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       cffa1fa5-c308-4570-aa33-b3f74b017455
+:ROAM_REFS: https://en.wikipedia.org/wiki/The_Life_of_Reason
+:END:
+#+title: (en.wikipedia.org) The Life of Reason - Wikipedia
+#+filetags: :books:philosophy:website:
+
+Book in three volumes by [[id:7ca93552-d506-4f4e-bc29-fc15e9d9f489][George Santayana]].
+
+* The Life of Reason, Volume 1: Reason in Society
+:PROPERTIES:
+:ID:       e9419239-5b82-46ab-b646-2dd8c695f8ed
+:END:
+** Quotes                                           :quotes:books:philosophy:
+*** Those who cannot remember the past are condemned to repeat it
+:PROPERTIES:
+:ID:       ea41f2ad-fc4a-421f-b675-206e328ae1a3
+:END:
+#+begin_quote
+Progress, far from consisting in change, depends on retentiveness.  When change is absolute there remains no being to improve and no direction is set for possible improvement: and when experience is not retained, as among savages, infancy is perpetual.  Those who cannot remember the past are condemned to repeat it.
+#+end_quote
+
+See also:
+ - [[id:ef876954-6856-436c-ae4e-cf60914fcd76][George Santayana - Wikiquote]]

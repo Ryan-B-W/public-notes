@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       5c8573ea-391c-41db-87b9-75c7bdb1ddbe
+:ROAM_REFS: https://en.wikipedia.org/wiki/Wim_Crouwel
+:END:
+#+title: (en.wikipedia.org) Wim Crouwel - Wikipedia
+#+filetags: :design:people:website:
+
+#+begin_quote
+  Willem Hendrik "Wim" Crouwel was a Dutch graphic designer, type designer, and typographer.
+#+end_quote

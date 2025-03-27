@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       fb1106c5-d4fc-475f-849e-9c7bd288f633
+:ROAM_REFS: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template
+:END:
+#+title: (developer.mozilla.org) <template>: The Content Template element - HTML: HyperText Markup Language | MDN
+#+filetags: :documentation:www:website:

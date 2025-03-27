@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       ba84d011-98eb-4eb4-8eca-d3b0bca8ed65
+:END:
+#+title: ELisp Snippet: convert buffer from html to org using org-web-tools and Pandoc
+#+filetags: :emacs_lisp:lisp:emacs:snippets:
+
+#+begin_src elisp
+  (insert (org-web-tools--html-to-org-with-pandoc (delete-and-extract-region (point-min) (point-max))))
+#+end_src

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       5d05853c-20b4-426d-9309-0eec949e5cd6
+:END:
+#+title: Blogging
+#+filetags: :www:writing:blogging:
+
+Blogs, short for [[id:05f2a17c-4ceb-42fa-bcc8-16d61473804b][web]] logs, are online publication usually by a single individual and generally amateur rather than professional.  Often, blogging takes to form of serialized [[id:5ee4322f-6a78-4132-9a38-a3e81698c383][essay]] writing.

@@ -1,0 +1,68 @@
+:PROPERTIES:
+:ID:       c46dcae5-7607-406b-a794-a1838735e6f6
+:ROAM_REFS: https://github.com/andreyorst/dotfiles/tree/master/.config/emacs#smartparens
+:END:
+#+title: (github.com) dotfiles/.config/emacs at master · andreyorst/dotfiles
+#+filetags: :software:emacs_lisp:lisp:configuration:emacs:website:
+* (github.com) dotfiles/.config/emacs/init.el at 6849f27cea5d2dfa0222b74dd3414b16a028ddde · andreyorst/dotfiles :website:
+:PROPERTIES:
+:ID:       1477a777-e31e-4cba-9966-8f295b5c3d44
+:ROAM_REFS: https://github.com/andreyorst/dotfiles/blob/6849f27cea5d2dfa0222b74dd3414b16a028ddde/.config/emacs/init.el
+:END:
+
+Snippet of interest relating to [[id:8278042c-72a7-4eac-806f-e369ffdd82c3][Smartparens]] configuration:
+#+begin_src elisp
+  (use-package smartparens
+    :hook (((clojure-mode
+             emacs-lisp-mode
+             common-lisp-mode
+             scheme-mode
+             lisp-mode
+             racket-mode
+             fennel-mode
+             cider-repl-mode
+             racket-repl-mode
+             geiser-repl-mode
+             inferior-lisp-mode
+             inferior-emacs-lisp-mode
+             sly-mrepl-mode)
+            . smartparens-strict-mode)
+           ((eval-expression-minibuffer-setup
+             lisp-data-mode)
+            . aorst/minibuffer-enable-sp)
+           (prog-mode . smartparens-mode))
+    :bind (:map smartparens-mode-map
+           ("C-M-q" . sp-indent-defun)
+           :map smartparens-strict-mode-map
+           (";" . sp-comment))
+    :custom
+    (sp-highlight-pair-overlay nil)
+    (sp-highlight-wrap-overlay nil)
+    (sp-highlight-wrap-tag-overlay nil)
+    (sp-show-pair-delay 0)
+    (sp-echo-match-when-invisible nil)
+    :config
+    (require 'smartparens-config)
+    (sp-use-paredit-bindings)
+    (define-key smartparens-mode-map (kbd "M-r") 'sp-rewrap-sexp) ; needs to be set manually, because :bind section runs before config
+    (add-to-list 'sp-lisp-modes 'fennel-mode t)
+    (defun aorst/minibuffer-enable-sp ()
+      "Enable `smartparens-strict-mode' in the minibuffer, during `eval-expression'."
+      (setq-local comment-start ";")
+      (sp-local-pair 'minibuffer-pairs "'" nil :actions nil)
+      (sp-local-pair 'minibuffer-pairs "`" nil :actions nil)
+      (sp-update-local-pairs 'minibuffer-pairs)
+      (smartparens-strict-mode 1)))
+#+end_src
+* (github.com) dotfiles/.config/emacs/early-init.el at master · andreyorst/dotfiles :website:
+:PROPERTIES:
+:ID:       722e82d0-61fc-4c8b-b4a3-85efcac506d2
+:ROAM_REFS: https://github.com/andreyorst/dotfiles/blob/master/.config/emacs/early-init.el
+:END:
+
+Relevant snippet for silencing [[id:aca1324c-b142-4e34-a121-a8bb0a79ddf8][Emacs]] native compilation warnings:
+#+begin_src elisp
+  (when (featurep 'native-compile)
+    (defvar native-comp-async-report-warnings-errors)
+    (setq native-comp-async-report-warnings-errors 'silent))
+#+end_src

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       5cd02f7a-4e8d-42fe-88dd-91a7ad70307d
+:ROAM_REFS: https://link.springer.com/book/10.1007/978-1-4613-0041-0
+:END:
+#+title: (link.springer.com) Algebra | SpringerLink
+#+filetags: :mathematics:books:website:
+
+#+begin_quote
+  From April 1999 Notices of the AMS, announcing that the author was awarded the Leroy P. Steele Prize for Mathematical Exposition for his many mathematics books: "Lang's Algebra changed the way graduate algebra is taught, retaining classical topics but introducing language and ways of thinking from category theory and homological algebra.  It has affected all subsequent graduate-level algebra books."
+  From MathSciNet's review of the first edition:
+  "The author has an impressive knack for presenting the important and interesting ideas of algebra in just the "right" way, and he never gets bogged down in the dry formalism which pervades some parts of algebra."
+  This book is intended as a basic text for a one-year course in Algebra at the graduate level, or as a useful reference for mathematicians and professionals who use higher-level algebra.  This book successfully addresses all of the basic concepts of algebra.  For the new edition, the author has added exercises and made numerous corrections to the text.
+#+end_quote

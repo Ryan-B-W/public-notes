@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e04d2064-2fa9-49ac-b236-593d3a48ef8c
+:ROAM_REFS: https://en.wikipedia.org/wiki/SQUID
+:END:
+#+title: (en.wikipedia.org) SQUID - Wikipedia
+#+filetags: :quantum_mechanics:physics:website:
+
+#+begin_quote
+  A SQUID (superconducting quantum interference device) is a very sensitive magnetometer used to measure extremely weak magnetic fields, based on superconducting loops containing Josephson junctions.
+  SQUIDs are sensitive enough to measure fields as low as 5×10−18 T with a few days of averaged measurements.[1] Their noise levels are as low as 3 fT·Hz−1⁄2.[2] For comparison, a typical refrigerator magnet produces 0.01 tesla (10−2 T), and some processes in animals produce very small magnetic fields between 10−9 T and 10−6 T. SERF atomic magnetometers, invented in the early 2000s are potentially more sensitive and do not require cryogenic refrigeration but are orders of magnitude larger in size (~1 cm3) and must be operated in a near-zero magnetic field.
+#+end_quote

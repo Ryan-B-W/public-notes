@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       7c724181-8c7a-47fe-b692-82daa1735588
+:ROAM_REFS: https://www.eveonline.com/news/view/information-is-power-excel-release
+:END:
+#+title: (www.eveonline.com) INFORMATION IS POWER | EVE Online
+#+filetags: :microsoft:blog_post:games:website:

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2ca0e26b-4ebc-4918-90ea-6501dffcdab1
+:ROAM_REFS: https://github.com/yokoffing/Betterfox
+:END:
+#+title: (github.com) yokoffing/Betterfox: Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
+#+filetags: :www:configuration:software:website:
+
+#+begin_quote
+  about:config tweaks to enhance Mozilla Firefox.
+  31% faster than regular Firefox 🚀
+#+end_quote

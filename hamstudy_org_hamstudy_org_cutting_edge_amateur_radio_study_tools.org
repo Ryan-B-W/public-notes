@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       1766178e-0cf3-413d-8425-6aa7112644f0
+:ROAM_REFS: https://hamstudy.org/
+:END:
+#+title: (hamstudy.org) HamStudy.org: Cutting edge amateur radio study tools
+#+filetags: :education:amateur_radio:radio:website:

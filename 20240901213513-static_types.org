@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       d7560e61-28f8-406d-933f-95ca750f0112
+:END:
+#+title: Static Types
+#+filetags: :programming:programming_language_design:computer_science:
+
+Aspect of some [[id:b24601aa-09df-41e1-aa7e-25ead342db34][programming languages]] where the type system is fixed and variables and/or function arguments cannot be automatically recast to hold a new type.  The opposite of [[id:882dda28-d8ea-4ab5-800d-20bc9cfde75b][dynamic types]].

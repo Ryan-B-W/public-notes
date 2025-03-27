@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       de62e175-11b3-419c-b6ad-8860c94ae32b
+:END:
+#+title: Information Architecture (IA)
+#+filetags: :human_interaction:design:
+* (en.wikipedia.org) Information architecture - Wikipedia           :website:
+:PROPERTIES:
+:ID:       f807ddfa-e42f-4d59-af9f-2133ab83766d
+:ROAM_REFS: https://en.wikipedia.org/wiki/Information_architecture
+:END:
+
+#+begin_quote
+  Information architecture (IA) is the structural design of shared information environments; the art and science of organizing and labelling websites, intranets, online communities and software to support usability and findability; and an emerging community of practice focused on bringing principles of design, architecture and information science to the digital landscape.  Typically, it involves a model or concept of information that is used and applied to activities which require explicit details of complex information systems.  These activities include library systems and database development.
+#+end_quote

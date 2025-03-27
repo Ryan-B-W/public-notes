@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5c26cece-1673-4489-a197-391133b4e839
+:END:
+#+title: Free Application for Federal Student Aid (FAFSA)
+#+filetags: :education:college:
+
+* FAFSA® Application | Federal Student Aid        :education:college:website:
+:PROPERTIES:
+:ID:       17e238f1-20e2-4e54-843e-27e3f686155e
+:ROAM_REFS: https://studentaid.gov/h/apply-for-aid/fafsa https://www.fafsa.gov/
+:END:
+* FAFSA - Wikipedia                               :education:college:website:
+:PROPERTIES:
+:ID:       e24cf7c6-81aa-475d-af3b-4d2530da421c
+:ROAM_REFS: https://en.wikipedia.org/wiki/FAFSA
+:END:
+
+#+begin_quote
+  The Free Application for Federal Student Aid (FAFSA) is a form completed by current and prospective college students (undergraduate and graduate) in the United States to determine their eligibility for student financial aid.
+  The FAFSA is different from CSS Profile (short for "College Scholarship Service Profile"), which is also required by some colleges (primarily private ones).  The CSS is a fee-based product of the College Board (a private non-profit organization) and is used by the colleges to distribute their own institutional funds, rather than federal or state funding.
+#+end_quote

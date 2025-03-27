@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       915cfc97-0233-4303-879a-19e23100a04f
+:ROAM_REFS: https://git-scm.com/docs/git-interpret-trailers
+:END:
+#+title: (git-scm.com) Git - git-interpret-trailers Documentation
+#+filetags: :website:
+
+#+begin_quote
+  git-interpret-trailers - Add or parse structured information in commit messages
+#+end_quote

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       097f1b09-ad77-4307-b9df-71c6124ed7d6
+:END:
+#+title: Rethinking Common Lisp's =format= Function
+#+filetags: :programming_language_design:security:lisp:programming_language:programming:computer_science:
+
+An issue with [[id:b5fb5c4b-d10f-4bca-91e1-a5e946ef0c83][Common Lisp]]'s =format= function is that it follows the C tradition that many languages have also followed of using a format string for the templates.  This causes several issues, namely, input sanitization being needed in all cases where an externally supplied string may end up being consumed by a =format= function call.  It'd be much safer to have something that instead consumes a template sequence (such as a list) that contains strings and symbols that are used for literal text and templating placeholders respectively.
+
+In a language with a more sophisticated type system and more strict type safety mechanisms this could be further refined with a template type to avoid issues where sequences get consumed by a templating function on accident.
+
+Are there any other [[id:84ae6e85-a6a2-4133-bc53-274238081c2d][Lisp]]s that implement something like this?  Feels more likely for a [[id:6246f8d4-6cd4-489d-b19f-9c1142b51b60][Scheme]] like [[id:2ce20b11-e9e9-48b0-ab32-de7f4158ea33][Racket]] or [[id:064be3a0-bb32-4312-9868-73e9c77ba7cf][Guile]] to do so?

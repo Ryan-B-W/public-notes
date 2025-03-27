@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       37c4f3f0-c0c4-45fb-a739-5349068b35fe
+:ROAM_REFS: https://gaiwan.co/blog/why-clojure/
+:END:
+#+title: (gaiwan.co) Why Clojure?
+#+filetags: :lisp:software_development:programming:blog_post:website:
+
+#+begin_quote
+  Clojure is not one of the handful of "big" mainstream languages. This means that sometimes people are surprised that we are /all in/ on Clojure. Why go against the grain? Why make it harder for yourself by building on niche technology?
+
+  [[https://gaiwan.co/hi-were-gaiwan/][Gaiwan]] is mostly known as a Clojure consultancy, but we don't consider ourselves as being defined by Clojure. Rather, we are group of experienced technologists (10+ years of industry experience on average) who are deliberate and intentional about the technologies we build upon. Rather than choosing tech that is fashionable, or that has the biggest marketing budget, *we choose tech that gives us the highest leverage*. Tech that allows a small team like ours to be maximally productive, to maintain velocity as systems grow, and that allows us to keep overall complexity low. Right now, that tech is Clojure.
+
+  In this article I want cover some of the reasons of why that is. In the first place I'm writing this for engineers or technical leaders who are trying to decide if Clojure is worth investing time in. It should for the most part also be understandable by business leaders, who want to understand the business benefits of building on Clojure.
+
+  The reasons I'll outline below fall into three main categories:
+
+  - *Developer productivity*: Clojure development is interactive, low ceremony, and high leverage. Clojure developers are happy developers that can ship quickly.
+  - *Long-term maintainability*: the Clojure language and ecosystem are mature and stable, with a culture of stability that no other language ecosystem I'm aware of can match. This lets you build high-quality systems that last, while keeping maintenance costs down.
+  - *Culture of Ideas*: while not a benefit of the language per se, adopting Clojure means you become part of a community which actively explores ideas from the past and present, academia and industry, to find better ways of building software. Clojure will challenge you in the best way possible.
+#+end_quote

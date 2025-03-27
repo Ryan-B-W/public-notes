@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       24a1803f-9220-4bd5-8c50-a7f0acc15a83
+:ROAM_REFS: https://github.com/yjs/yjs
+:END:
+#+title: (github.com) GitHub - yjs/yjs: Shared data types for building collaborative software
+#+filetags: :programming:javascript:website:
+
+#+begin_quote
+  > A CRDT framework with a powerful abstraction of shared data
+  Yjs is a CRDT implementation that exposes its internal data structure as shared types. Shared types are common data types like Map or Array with superpowers: changes are automatically distributed to other peers and merged without merge conflicts.
+  Yjs is network agnostic (p2p!), supports many existing rich text editors, offline editing, version snapshots, undo/redo and shared cursors. It scales well with an unlimited number of users and is well suited for even large documents.
+#+end_quote

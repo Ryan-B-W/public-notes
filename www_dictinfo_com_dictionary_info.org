@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       541545cb-dd74-4902-8070-b145dcf01b42
+:ROAM_REFS: https://www.dictinfo.com/
+:END:
+#+title: (www.dictinfo.com) Dictionary info
+#+filetags: :dictionary:website:
+
+#+begin_quote
+  The archives are free StarDict conversions of word definitions available at various Wiktionary sites.  They contain the main (most important) entry information.  For now mostly the definition part is included, not e.g. etymologies, phonetics etc.
+  The all languages versions of the archives include also entries for foreign languages explained in the language used by the particular Wiktionary site.  E.g. for the English wiktionary, both English and foreign words are explained in English.
+#+end_quote

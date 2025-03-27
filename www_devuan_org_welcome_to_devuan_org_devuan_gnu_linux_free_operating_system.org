@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       a87c8515-6494-4dc8-a1bd-cd0235ad4867
+:ROAM_REFS: https://www.devuan.org/
+:END:
+#+title: (www.devuan.org) Welcome to devuan.org | Devuan GNU+Linux Free Operating System
+#+filetags: :software_distributions:software:operating_systems:website:
+
+#+begin_quote
+  Devuan GNU+Linux is a fork of Debian without systemd that allows users to reclaim control over their system by avoiding unnecessary entanglements and ensuring Init Freedom.
+#+end_quote

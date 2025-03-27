@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       5fe779c6-165e-4e65-b7d0-04aae086b2b5
+:ROAM_REFS: https://esrh.me/posts/2021-12-18-switching-to-meow.html
+:END:
+#+title: (esrh.me) eshan ramesh: Switching to the meow modal editing system from evil
+#+filetags: :emacs:blog_post:website:

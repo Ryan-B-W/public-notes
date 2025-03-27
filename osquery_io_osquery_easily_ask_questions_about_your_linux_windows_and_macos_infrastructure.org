@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ID:       f023f66b-99fa-4314-bb7f-cf89154e36bd
+:ROAM_REFS: https://osquery.io/
+:END:
+#+title: (osquery.io) osquery | Easily ask questions about your Linux, Windows, and macOS infrastructure
+#+filetags: :security:system_administration:software:website:
+
+#+begin_quote
+  osquery/osquery
+
+  * Performant endpoint visibility
+
+  ** Query your devices like a database
+
+  Osquery uses basic SQL commands to leverage a relational data-model to describe a device.
+
+  *osquery>* SELECT name, path, pid FROM processes WHERE on_disk = 0;name = Drop_Agentpath = /Users/jim/bin/dropagepid = 561
+
+  *** Processes running without a binary on disk
+
+  Frequently, attackers will leave a malicious process running but delete the original binary on disk. This query returns any process whose original binary has been deleted, which could be an indicator of a suspicious process.
+
+  [[https://osquery.io/schema][See Available Tables]]
+
+  ** Three things you should know about osquery
+
+  *** It's fast and tested
+
+  Our build infrastructure ensures that newly introduced code is benchmarked and tested. We perform continuous testing for memory leaks, thread safety, and binary reproducibility on all supported platforms.
+
+  [[https://github.com/osquery/osquery][View the Code]]
+
+  *** It runs everywhere
+
+  Windows, macOS, CentOS, and almost every Linux OS released since 2011 are supported with no dependencies. osquery powers some of the most demanding companies, including Facebook.
+
+  [[https://osquery.io/downloads][Download Osquery]]
+
+  *** It's open source
+
+  Osquery is released under the Apache License. Ever since we open-sourced it in 2014, organizations and individuals have contributed an ever-growing list of impressive features, useful tools, and helpful documentation.
+
+  [[https://osquery.io/blog][Read Community Articles]]
+#+end_quote

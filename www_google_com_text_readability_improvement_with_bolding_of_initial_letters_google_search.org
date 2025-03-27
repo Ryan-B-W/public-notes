@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       3db455fd-e859-4e71-bdaf-2fb6a1f53cf0
+:ROAM_REFS: https://www.google.com/search?q=text+readability+improvement+with+bolding+of+initial+letters
+:END:
+#+title: (www.google.com) text readability improvement with bolding of initial letters - Google Search
+#+filetags: :lists:searches:website:
+
+Results:
+* (readabilitymatters.org) Research Highlight: How Bold Can We Be? | Readability Matters :fonts:accessibility:article:research:website:
+:PROPERTIES:
+:ID:       3af37dcd-7b7e-4953-ae27-11b7488bd4a4
+:ROAM_REFS: https://readabilitymatters.org/articles/research-highlight-how-bold-can-we-be
+:END:
+
+#+begin_quote
+  New Google Study Evaluates the Impact of Adjusting Font Grade on Readability in Light and Dark Polarities
+#+end_quote
+* (www.creativebloq.com) Will ‘Bionic Reading’ turn us all into speed readers? | Creative Bloq :accessibility:fonts:news:article:website:
+:PROPERTIES:
+:ID:       5fc29f59-23e9-47d5-930d-897245b4a134
+:ROAM_REFS: https://www.creativebloq.com/news/bionic-reading
+:END:
+* (www.reddit.com) There was a post that claimed you can read faster if the first letter of each word was bold, I asked ChatGPT to replicate that. Did it help you read faster? : r/ChatGPT :accessibility:fonts:forums:website:
+:PROPERTIES:
+:ID:       af665480-3997-4e65-84d3-58fe84c30053
+:ROAM_REFS: https://www.reddit.com/r/ChatGPT/comments/18bkx9r/there_was_a_post_that_claimed_you_can_read_faster/
+:END:
+* (ux.stackexchange.com) copywriting - Does using bold font for keywords and key points increase readability of user manuals? - User Experience Stack Exchange :writing:accessibility:website:
+:PROPERTIES:
+:ID:       bacfd52c-b4a4-4204-a1ab-b38c09ffafe2
+:ROAM_REFS: https://ux.stackexchange.com/questions/28762/does-using-bold-font-for-keywords-and-key-points-increase-readability-of-user-ma
+:END:
+** (www.stc.org) Society for Technical Communication :writing:organization:website:
+:PROPERTIES:
+:ID:       10b0456a-7a75-4853-9f39-dd8beda3186c
+:ROAM_REFS: https://www.stc.org/
+:END:
+
+#+begin_quote
+  STC is a professional association dedicated to the advancement of technical communication across all fields.  Technical communicators research and create information about technical processes or products directed to a targeted audience through various forms of media.
+#+end_quote
+* (lithub.com) Will this “bionic” font help you read faster? ‹ Literary Hub :fonts:accessibility:news:article:website:
+:PROPERTIES:
+:ID:       a5e72868-0472-490f-adca-cf7115cf77b9
+:ROAM_REFS: https://lithub.com/will-this-bionic-font-help-you-read-faster/
+:END:
+* (bionic-reading.com) BR for You.                            :fonts:website:
+:PROPERTIES:
+:ID:       6c2f4f00-6c59-4f51-98d4-f8d6cb91a064
+:ROAM_REFS: https://bionic-reading.com/
+:END:
+
+The Bionic Reading® website.
+** (bionic-reading.com) BR Apps for You.           :mobile_app:fonts:website:
+:PROPERTIES:
+:ID:       23831e23-1b62-43f3-8414-df1de08e83e8
+:ROAM_REFS: https://bionic-reading.com/br-apps/
+:END:

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       b6ce0658-0dd5-4503-9310-9c1d629df85e
+:ROAM_REFS: https://trac.ffmpeg.org/wiki/Encode/H.264
+:END:
+#+title: (trac.ffmpeg.org) Encode/H.264 – FFmpeg
+#+filetags: :software:video:graphics:documentation:website:
+
+#+begin_quote
+  * H.264 Video Encoding Guide
+
+  This guide focuses on the encoder x264.  It assumes you have =ffmpeg= compiled with =--enable-libx264=.  If you need help compiling and installing see one of our [[https://trac.ffmpeg.org/wiki/CompilationGuide][compiling guides]].  See [[https://trac.ffmpeg.org/wiki/HWAccelIntro][HWAccelIntro]] for information on supported hardware H.264 encoders.
+
+  --------------
+
+  There are two rate control modes that are usually suggested for general use: [[https://trac.ffmpeg.org/wiki/Encode/H.264#crf][Constant Rate Factor (CRF)]] or [[https://trac.ffmpeg.org/wiki/Encode/H.264#twopass][Two-Pass ABR]].  Rate control decides how many bits will be used for each frame.  This will determine the file size and also how quality is distributed.  To know more about what the different rate control modes do see [[https://slhck.info/video/2017/03/01/rate-control.html][​this post]].
+#+end_quote

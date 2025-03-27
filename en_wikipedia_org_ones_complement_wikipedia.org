@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       e177cce6-57c0-48ac-81da-d22aa20747ba
+:ROAM_REFS: https://en.wikipedia.org/wiki/Ones'_complement
+:END:
+#+title: (en.wikipedia.org) Ones' complement - Wikipedia
+#+filetags: :computer_science:mathematics:website:
+
+#+begin_quote
+  The *ones' complement* of a [[https://en.wikipedia.org/wiki/Binary_number][binary number]] is the value obtained by inverting (flipping) all the bits in the [[https://en.wikipedia.org/wiki/Binary_number][binary]] representation of the number.  The name "ones' complement" refers to the fact that such an inverted value, if added to the original, would always produce an "all ones" number (the term "[[https://en.wikipedia.org/wiki/Method_of_complements][complement]]" refers to such pairs of mutually [[https://en.wikipedia.org/wiki/Additive_inverse][additive inverse]] numbers, here in respect to a non-0 base number).  This mathematical operation is primarily of interest in [[https://en.wikipedia.org/wiki/Computer_science][computer science]], where it has varying effects depending on how a specific computer represents numbers.
+
+  A *ones' complement system* or *ones' complement arithmetic* is a system in which negative numbers are represented by the inverse of the binary representations of their corresponding positive numbers.  In such a system, a number is negated (converted from positive to negative or vice versa) by computing its ones' complement.  An N-bit ones' complement numeral system can only represent integers in the range −(2^{N−1}−1) to 2^{N−1}−1 while [[https://en.wikipedia.org/wiki/Two's_complement][two's complement]] can express −2^{N−1} to 2^{N−1}−1.  It is one of three common representations for [[https://en.wikipedia.org/wiki/Signed_number_representations][negative integers in binary computers]], along with [[https://en.wikipedia.org/wiki/Two's_complement][two's complement]] and [[https://en.wikipedia.org/wiki/Sign-magnitude][sign-magnitude]].
+
+  The *ones' complement binary* [[https://en.wikipedia.org/wiki/Numeral_system][numeral system]] is characterized by the [[https://en.wikipedia.org/wiki/Bit_complement][bit complement]] of any integer value being the arithmetic negative of the value.  That is, inverting all of the bits of a number (the logical complement) produces the same result as subtracting the value from 0.
+
+  Many early computers, including the [[https://en.wikipedia.org/wiki/UNIVAC_1101][UNIVAC 1101]], [[https://en.wikipedia.org/wiki/CDC_160][CDC 160]], [[https://en.wikipedia.org/wiki/CDC_6600][CDC 6600]], the [[https://en.wikipedia.org/wiki/LINC][LINC]], the [[https://en.wikipedia.org/wiki/PDP-1][PDP-1]], and the [[https://en.wikipedia.org/wiki/UNIVAC_1100/2200_series#1107][UNIVAC 1107]], used ones' complement arithmetic.  Successors of the CDC 6600 continued to use ones' complement arithmetic until the late 1980s, and the descendants of the UNIVAC 1107 (the [[https://en.wikipedia.org/wiki/UNIVAC_1100/2200_series][UNIVAC 1100/2200 series]]) still do, but the majority of modern computers use [[https://en.wikipedia.org/wiki/Two's_complement][two's complement]].
+#+end_quote

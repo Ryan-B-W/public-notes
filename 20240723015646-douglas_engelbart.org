@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       83007e59-4910-4f5f-8a9f-88aa5a3c36cd
+:END:
+#+title: Douglas Engelbart
+#+filetags: :person:
+
+American inventor, engineer, and computer science pioneer.  Known for inventing the computer mouse, pioneering early forms of [[id:88db686f-0d77-4ecc-a9d6-43017ef7440f][graphical user interface (GUI)]], working on [[id:a0ac6689-ad9b-4a28-b630-0dd12f15cff1][hypertext]], and his famous [[id:0bd7a57b-5428-4342-8b2f-4150683ba086]["The Mother of All Demos"]] demonstration of the [[id:27e4afc4-d162-452f-8c86-ac2062ec1fb9][oN-Line System (NLS)]] in 1968.
+* See Also
+ - [[https://en.wikipedia.org/wiki/Douglas_Engelbart][Douglas Engelbart - Wikipedia]]

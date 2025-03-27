@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       8fea5cce-20aa-4b4e-a042-13c181d54714
+:ROAM_REFS: https://org-roam.discourse.group/t/v2-migration-issues-with-roam-refs-org-open-at-point-and-the-graph/2112
+:END:
+#+title: (org-roam.discourse.group) V2 Migration: issues with roam-refs, org-open-at-point and the graph - Troubleshooting - Org-roam
+#+filetags: :emacs_lisp:lisp:emacs:website:

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       8320df48-2177-40e5-b689-e068af69293e
+:ROAM_REFS: https://postmarketos.org/
+:END:
+#+title: (postmarketos.org) postmarketOS // real Linux distribution for phones
+#+filetags: :phones:unix:linux:software_distributions:operating_systems:website:

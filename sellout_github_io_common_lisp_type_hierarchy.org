@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       51b32334-4cba-4ff3-a063-e31eccbd7f52
+:ROAM_REFS: https://sellout.github.io/2012/03/03/common-lisp-type-hierarchy
+:END:
+#+title: (sellout.github.io) Common Lisp Type Hierarchy ←
+#+filetags: :programming_type_systems:programming:lisp:website:

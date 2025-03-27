@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       17fc96c5-d8da-490d-8282-8202cddb7138
+:ROAM_REFS: https://www.youtube.com/watch?v=opKbELbJEQQ
+:END:
+#+title: (www.youtube.com) The Rules of Gaelic Handball (American Handball & Wallball) - Explained - YouTube
+#+filetags: :rules:sports:video:website:
+
+#+begin_quote
+  Ninh explains - The Rules of Gaelic Handball, which is sometimes referred to as ‘GAA or Irish Handball’.  It’s a variation of the sport of Handball that’s played around the world and is very similar to American Handball.  It’s played in several variations – one wall (wallball), 40x20 and 60x30 in both hardball and softball events.
+  Specific to the Gaelic Athletic Association Rules, watch this short beginner’s tutorial video guide on how Gaelic Handball is played, Gaelic Handball rules, and how to play and watch Irish Handball.
+  Learn about hinder, fault, serve, points, highlights and more.
+#+end_quote

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       90b93195-dfe9-498d-82b7-55378a4b2c7e
+:ROAM_REFS: https://en.wikipedia.org/wiki/Handheld_PC
+:END:
+#+title: (en.wikipedia.org) Handheld PC - Wikipedia
+#+filetags: :electronics:website:
+
+A subtype of [[id:9f6589f5-4fa8-42ce-af90-012ea90fe9f7][Subnotebook]].
+
+#+begin_quote
+  A *handheld computer*, also called a *palmtop computer*, is a term that has variously been used to describe a small-sized [[https://en.wikipedia.org/wiki/Personal_computer][personal computer]] (PC) typically built around a [[https://en.wikipedia.org/wiki/Clamshell_design][clamshell]] form factor and a [[https://en.wikipedia.org/wiki/Laptop][laptop]]-like [[https://en.wikipedia.org/wiki/Computer_keyboard][keyboard]], including: [[https://en.wikipedia.org/wiki/Palmtop_PC][Palmtop PCs]], [[https://en.wikipedia.org/wiki/Personal_digital_assistants][personal digital assistants]] (PDA), [[https://en.wikipedia.org/wiki/Ultra-mobile_PC][ultra-mobile PCs]] (UMPC) or portable [[https://en.wikipedia.org/wiki/Gaming_computer][gaming PCs]].  The brand *Handheld PC* specifically is a now-defunct class of computers introduced in the 1990s that was marketed by [[https://en.wikipedia.org/wiki/Microsoft][Microsoft]], and is detailed below.
+#+end_quote

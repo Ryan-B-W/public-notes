@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       d89586ff-3144-49b9-a559-3f5524452056
+:ROAM_REFS: https://github.com/tempesta-tech/tempesta
+:END:
+#+title: (github.com) tempesta-tech/tempesta: All-in-one solution for high performance web content delivery and advanced protection against DDoS and web attacks
+#+filetags: :programming:data_structures:software:website:

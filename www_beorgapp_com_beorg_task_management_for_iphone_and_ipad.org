@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       2daf3272-070b-4096-b5a6-f8b3fe57b94f
+:ROAM_REFS: https://www.beorgapp.com/
+:END:
+#+title: (www.beorgapp.com) beorg - Task management for iPhone and iPad
+#+filetags: :apple_ios:apple_inc:information_management:software:website:
+
+#+begin_quote
+  Your tasks. Your projects. Your notes.
+  beorg is a powerful task management app that uses plain text files.
+  Sync with iCloud, Dropbox, WebDAV enabled services and more
+#+end_quote

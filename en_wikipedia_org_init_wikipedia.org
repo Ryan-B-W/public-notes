@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       45e5fe29-3244-4f4b-abe8-7fcf6bff10f3
+:ROAM_REFS: https://en.wikipedia.org/wiki/Init
+:END:
+#+title: (en.wikipedia.org) init - Wikipedia
+#+filetags: :software:operating_systems:computer_science:website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Unix][Unix]]-based computer [[https://en.wikipedia.org/wiki/Operating_system][operating systems]], *init* (short for /initialization/) is the first [[https://en.wikipedia.org/wiki/Process_(computer_science)][process]] started during [[https://en.wikipedia.org/wiki/Booting][booting]] of the operating system.  Init is a [[https://en.wikipedia.org/wiki/Daemon_(computing)][daemon]] process that continues running until the system is shut down.  It is the direct or indirect [[https://en.wikipedia.org/wiki/Parent_process][ancestor]] of all other processes and automatically adopts all [[https://en.wikipedia.org/wiki/Orphan_process][orphaned processes]].  Init is started by the [[https://en.wikipedia.org/wiki/Kernel_(operating_system)][kernel]] during the [[https://en.wikipedia.org/wiki/Booting][booting]] process; a [[https://en.wikipedia.org/wiki/Kernel_panic][kernel panic]] will occur if the kernel is unable to start it, or it should die for any reason.  Init is typically assigned [[https://en.wikipedia.org/wiki/Process_identifier][process identifier]].
+
+  In Unix systems such as [[https://en.wikipedia.org/wiki/UNIX_System_III][System III]] and [[https://en.wikipedia.org/wiki/UNIX_System_V][System V]], the design of init has diverged from the functionality provided by the init in [[https://en.wikipedia.org/wiki/Research_Unix][Research Unix]] and its [[https://en.wikipedia.org/wiki/Berkeley_Software_Distribution][BSD]] derivatives.  Up until the early 2010s, most [[https://en.wikipedia.org/wiki/Linux_distribution][Linux distributions]] employed a traditional init that was somewhat compatible with System V, while some distributions such as [[https://en.wikipedia.org/wiki/Slackware_Linux][Slackware]] use BSD-style startup scripts, and other distributions such as [[https://en.wikipedia.org/wiki/Gentoo_Linux][Gentoo]] have their own customized versions.
+
+  Since then, several additional init implementations have been created, attempting to address design limitations in the traditional versions.  These include [[https://en.wikipedia.org/wiki/Launchd][launchd]], the [[https://en.wikipedia.org/wiki/Service_Management_Facility][Service Management Facility]], [[https://en.wikipedia.org/wiki/Systemd][systemd]], [[https://en.wikipedia.org/wiki/Runit][Runit]] and [[https://en.wikipedia.org/wiki/OpenRC][OpenRC]].
+#+end_quote

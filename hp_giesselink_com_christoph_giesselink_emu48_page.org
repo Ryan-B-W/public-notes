@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       9054c00a-5b4c-438f-ac8c-949bf646b351
+:ROAM_REFS: https://hp.giesselink.com/emu48.htm
+:END:
+#+title: (hp.giesselink.com) Christoph Giesselink Emu48 Page
+#+filetags: :emulator:calculator:website:
+
+#+begin_quote
+  The HP48 Emulator Emu48 was originally created by Sébastien Carlier and is published under the GPL.  The latest version of Emu48 can emulate a HP38G, HP39G, HP40G, HP48SX, HP48GX and a HP49G.  The emulator is running on all Win32 platforms and the Mobile version should run on all ARM CPU based Pocket PC 2002, Windows Mobile 2003 (SE), 5.0 and 6 Professional versions.  Emu48 need ROM images to work.  Because of license reasons ROM's aren't included, but they can be downloaded on several other sites.  Sorry I will not answer any ROM image related questions.  For further information how to extract the ROM images from the real calculators read the Emu48 manual please.  If you use patches, you have to install a complete executable package before.  I fixed several bugs and many other problems.  But are still some emulation problems left.  Many thanks to Jean-Yves Avenard for his help on hardware specific problems.  I also want to thank Cyrille de Brebisson for his first implementation of the HP49G in the HP49 SDK.
+#+end_quote
+* See Also
+** [[id:91062197-4b54-418f-8eef-dd56c3432c55][HP 50g Calculator]]

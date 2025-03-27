@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       2144794c-9619-444f-b42b-e2886efc81a4
+:ROAM_REFS: https://www.gnu.org/software/emacs/manual/html_node/eieio/index.html
+:END:
+#+title: (www.gnu.org) Top (Enhanced Implementation of Emacs Interpreted Objects)
+#+filetags: :documentation:emacs_lisp:lisp:emacs:website:
+
+#+begin_quote
+  EIEIO (“Enhanced Implementation of Emacs Interpreted Objects”) provides an Object Oriented layer for Emacs Lisp, following the basic concepts of the Common Lisp Object System (CLOS).  It provides a framework for writing object-oriented applications in Emacs.
+#+end_quote

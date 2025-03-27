@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       ba7c26c8-7bab-45af-b59e-99992dd0c0f2
+:ROAM_REFS: https://github.com/electronicarts/CnC_Generals_Zero_Hour
+:END:
+#+title: (github.com) electronicarts/CnC_Generals_Zero_Hour: Command and Conquer: Generals - Zero Hour
+#+filetags: :open_source:games:software:website:
+
+#+begin_quote
+  * Command & Conquer Generals (inc. Zero Hour) Source Code
+
+  This repository includes source code for Command & Conquer Generals, and its expansion pack Zero Hour.  This release provides support to the Steam Workshop for both games ([[https://steamcommunity.com/workshop/browse/?appid=2229870][C&C Generals]] and [[https://steamcommunity.com/workshop/browse/?appid=2732960][C&C Generals - Zero Hour]]).
+#+end_quote

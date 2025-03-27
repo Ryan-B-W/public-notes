@@ -1,0 +1,68 @@
+:PROPERTIES:
+:ID:       a36c13b8-bee2-4436-a02a-9ef99b11e224
+:ROAM_REFS: https://www.overleaf.com/learn/latex/How_TeX_macros_actually_work:_Part_1
+:END:
+#+title: (www.overleaf.com) How TeX macros actually work: Part 1 - Overleaf, Online LaTeX Editor
+#+filetags: :documentation:software:typesetting:latex:website:
+
+Documentation series from [[id:77d17fca-fcac-429e-a0ee-d7d5ffd6cb9c][Overleaf]] on how TeX macros work.
+
+#+begin_quote
+  This article series has an ambitious goal: to explain how TeX macros (such as [[id:669335f2-8499-4ee6-b6b8-317c0c4f96ed][LaTeX]] commands) actually work—at the most fundamental level, inside the actual TeX engine software.  Instead of relying solely on a suite of example macros designed to demonstrate various features, edge cases and behaviours of TeX, we’ll look inside TeX itself to see how and why its macro programming methods work the way they do.
+#+end_quote
+* (www.overleaf.com) How TeX macros actually work: Part 2 - Overleaf, Online LaTeX Editor
+:PROPERTIES:
+:ID:       125df194-ee3e-4124-8a44-3bc5571caa86
+:ROAM_REFS: https://www.overleaf.com/learn/latex/How_TeX_macros_actually_work:_Part_2
+:END:
+
+#+begin_quote
+  As noted in Part 1, TeX has to “read” every character within your .tex file and that process of reading is more correctly referred to as scanning.  Traditionally, TeX’s input-processing (scanning) is likened to TeX having “eyes” with which to observe the input, so we’ll adopt that time-tested analogy within the graphics below.
+#+end_quote
+* (www.overleaf.com) How TeX macros actually work: Part 3 - Overleaf, Online LaTeX Editor
+:PROPERTIES:
+:ID:       7dae4a68-64b4-44eb-a5c5-842572748534
+:ROAM_REFS: https://www.overleaf.com/learn/latex/How_TeX_macros_actually_work:_Part_3
+:END:
+
+#+begin_quote
+  Before moving on to the next part of this story we need to have a recap: remind ourselves of where we are going and gather our thoughts to make sure all the key ideas are in place.  Just a reminder, our worked example is based on the assumption that TeX has read a line of text containing Hello World \jobname and that TeX is typesetting this to build a paragraph.
+#+end_quote
+* (www.overleaf.com) How TeX macros actually work: Part 4 - Overleaf, Online LaTeX Editor
+:PROPERTIES:
+:ID:       6537e3f2-9fa0-47af-abdc-b44f37f1af3e
+:ROAM_REFS: https://www.overleaf.com/learn/latex/How_TeX_macros_actually_work:_Part_4
+:END:
+
+#+begin_quote
+  In Parts 1–3 we took a deep-dive into some low-level backgound details in preparation for understanding how TeX macros work.  In this article we are going to “come up for some air” to review some basic practical principles of TeX macros in readiness for another deep-dive in Parts 5 and 6.  Throughout this article we are going to show example macros defined using the TeX primitive command \def: we won’t use the, perhaps more familiar, LaTeX command \newcommand.  There’s a very good reason for this: our objective is to understand the fundamental principles underlying TeX’s macro behaviour but to do that we need to use core commands built into TeX software.  LaTeX commands, such as \newcommand, are themselves macros: commands with specific programmed behaviour which are, ultimately, constructed from layers of lower-level TeX primitive commands.  To better understand the fundamental behaviour of TeX we have to use TeX primitives, not LaTeX macros.
+#+end_quote
+* (www.overleaf.com) How TeX macros actually work: Part 5 - Overleaf, Online LaTeX Editor
+:PROPERTIES:
+:ID:       c11f9d74-7894-4045-87bc-0259c6fc8f14
+:ROAM_REFS: https://www.overleaf.com/learn/latex/How_TeX_macros_actually_work:_Part_5
+:END:
+
+#+begin_quote
+  In Part 4 we reviewed some basic properties of TeX macros in preparation for the next two articles where we take a close look at the underlying mechanics of TeX macros: specialized token lists.  In these final two articles we use diagrams, called node lists, that were prepared from data generated using a specially modified version of Knuth’s original TeX software—those modifications were designed to access internal TeX data structures which are normally inaccessible to the user.  By “hooking into” TeX’s internal macro-processing and execution routines it was possible to write out graphical data which enables a more detailed and accurate discussion of TeX’s macro-processing behaviour.  Overleaf hopes that these diagrams assist readers to achieve a better understanding of how TeX macros really work.
+#+end_quote
+* (www.overleaf.com) How TeX macros actually work: Part 6 - Overleaf, Online LaTeX Editor
+:PROPERTIES:
+:ID:       bac728d4-6c15-4358-a639-291860e1b80b
+:ROAM_REFS: https://www.overleaf.com/learn/latex/How_TeX_macros_actually_work:_Part_6
+:END:
+
+#+begn_quote
+  Over the previous 5 parts of this series we have seen:
+   - how TeX reads the characters within an input file and uses category codes to recognize different “classes” of character and subsequently convert them to character tokens and command tokens;
+   - that a macro is, in effect, comprised of four sections:
+     : <TeX macro primitive><macro name><parameter text>{<replacement text>}
+     where:
+     - <TeX macro primitive> = one of \def, \edef, \gdef or \xdef;
+     - <macro name>=the name of your macro, such as \foo;
+     - <parameter text> can be “null” (not present) or it can be an string of delimiter tokens and macro parameter tokens;
+     - <replacement text> is the actual body of your macro: the section that is “executed” (expanded) when you call the macro.
+   - how the <parameter text> section can contain a wide range of tokens and that TeX uses this section as a “token template” to match a macro call to its original definition and work out the arguments used with the macro—and how TeX expects your use of a macro to match its original definition;
+   - that, inside TeX, a macro definition is stored as continuous sequence of tokens representing the <parameter text> and <replacement text> sections.
+  When you use a macro command TeX will first check to see if it takes any parameters.  If so, TeX then has to identify the actual arguments being used in your macro call.  TeX has to test your macro call against the “token template” definition it has stored in memory.  Specifically, TeX uses its internal (stored) definition of your macro’s <parameter text> section as the template through which it can pick out tokens that are the actual arguments, and which tokens are just there to act as delimiters.
+#+end_quote

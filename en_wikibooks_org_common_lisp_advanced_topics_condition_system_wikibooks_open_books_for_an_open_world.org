@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2c8702fa-bf9e-41aa-a13c-257a02f28fa7
+:ROAM_REFS: https://en.wikibooks.org/wiki/Common_Lisp/Advanced_topics/Condition_System
+:END:
+#+title: (en.wikibooks.org) Common Lisp/Advanced topics/Condition System - Wikibooks, open books for an open world
+#+filetags: :programming:common_lisp:lisp:website:
+
+#+begin_quote
+  Common Lisp has an advanced condition system.  The condition system allows the program to deal with exceptional situations, or situations which are outside the normal operation of the program as defined by the programmer.  A common example of an exceptional situation is an error, however the Common Lisp condition system encompasses much more than error handling.
+  The condition system can be broken into three parts, signalling or raising conditions, handling conditions, and providing recovery from conditions.  Almost every modern programming language offers the first two protocols, but very few offer the last (or distinguish between the last two).  This last protocol, providing restarts, or ways for the program to recover, is in some ways the most important aspect of Common Lisp condition handling.
+#+end_quote

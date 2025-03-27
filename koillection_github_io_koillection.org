@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       26e3157c-9f99-4da5-a665-00abe4783d55
+:ROAM_REFS: https://koillection.github.io/
+:END:
+#+title: (koillection.github.io) Koillection
+#+filetags: :software:organization:www:website:
+
+#+begin_quote
+  A self-hosted website to manage all your collections
+#+end_quote

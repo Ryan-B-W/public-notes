@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       ca62f4ef-4ff2-47a6-b48d-f0c2cc7f154d
+:ROAM_REFS: https://github.com/jyp/boon
+:END:
+#+title: (github.com) jyp/boon: Ergonomic Command Mode for Emacs
+#+filetags: :emacs_lisp:lisp:emacs:software:website:
+
+#+begin_quote
+  Boon is a complete package for modal editing, which is not Evil.
+  Strong points:
+   - Ergonomic: common commands are easy to type.
+   - Emacs-friendly: Emacs conventions are respected as much as compatible with design goals.  This means that Boon integrates well with existing Emacs infrastructure, and leverages it.  Existing user configuration can often be re-used.
+   - Modular: No need to buy into the whole system: mix-and-match the parts you want.
+#+end_quote

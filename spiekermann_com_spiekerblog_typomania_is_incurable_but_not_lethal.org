@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       ac240fd4-3141-4587-ad0d-7a0735f02881
+:ROAM_REFS: https://spiekermann.com/en/
+:END:
+#+title: (spiekermann.com) Spiekerblog | Typomania is incurable but not lethal.
+#+filetags: :fonts:typesetting:blogs:design:website:
+
+Personal typography blog of Erik Spierkermann.

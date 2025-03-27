@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       c24dc245-efe6-47c3-a891-ccd934b01625
+:ROAM_REFS: https://gentoo-racket.gitlab.io/
+:END:
+#+title: (gentoo-racket.gitlab.io) Gentoo-Racket
+#+filetags: :scheme:programming:linux:gentoo:lisp:website:
+
+#+begin_quote
+  * Welcome to the Gentoo Racket project!
+
+  Currently our projects' home is the official GitLab instance.  They can be found at [[https://gitlab.com/gentoo-racket/][gitlab.com/gentoo-racket]].
+
+  Origianlly they were split between [[https://gitlab.com/xgqt/][XGQT]]'s and [[https://gitlab.com/src_prepare/][src_prepare]]'s repositories but were later merged into one.
+#+end_quote

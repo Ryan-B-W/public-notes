@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       c45f0bda-cf14-42d4-b777-895fa0d43e49
+:END:
+#+title: systemd
+#+filetags: :linux:unix:software:
+
+[[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][Open-Source]] [[id:412bbcad-6c00-4f13-b748-d1ffde0588e1][operating system]] init system and collection of system service daemons.
+* See Also
+** [[id:91423fd6-9107-4e98-a427-44029f026891][System and Service Manager]] systemd website

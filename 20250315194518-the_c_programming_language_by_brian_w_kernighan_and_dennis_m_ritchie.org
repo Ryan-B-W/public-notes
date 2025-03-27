@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       d460e2b6-72bf-4203-b442-a06013c28d04
+:END:
+#+title: The C Programming Language by Brian W. Kernighan and Dennis M. Ritchie
+#+filetags: :education_resource:c_lang:programming:computer_science:books:
+
+* (en.wikipedia.org) The C Programming Language - Wikipedia         :website:
+:PROPERTIES:
+:ID:       0d9208d0-f018-4bfb-8fe4-86abae3b58d3
+:ROAM_REFS: https://en.wikipedia.org/wiki/The_C_Programming_Language
+:END:
+
+#+begin_quote
+  /*The C Programming Language*/ (sometimes termed /*K&R*/, after its authors' initials) is a [[https://en.wikipedia.org/wiki/Computer_programming][computer programming]] book written by [[https://en.wikipedia.org/wiki/Brian_Kernighan][Brian Kernighan]] and [[https://en.wikipedia.org/wiki/Dennis_Ritchie][Dennis Ritchie]], the latter of whom originally designed and implemented the [[https://en.wikipedia.org/wiki/C_programming_language][C programming language]], as well as co-designed the [[https://en.wikipedia.org/wiki/Unix][Unix]] [[https://en.wikipedia.org/wiki/Operating_system][operating system]] with which development of the language was closely intertwined.  The book was central to the development and popularization of C and is still widely read and used today.  Because the book was co-authored by the original language designer, and because the first edition of the book served for many years as the /[[https://en.wikipedia.org/wiki/De_facto][de facto]]/ standard for the language, the book was regarded by many to be the authoritative reference on C.
+#+end_quote

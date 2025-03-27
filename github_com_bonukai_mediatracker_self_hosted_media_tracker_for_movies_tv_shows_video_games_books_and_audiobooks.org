@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       5df34769-9c97-4c37-af61-ceec6119f823
+:ROAM_REFS: https://github.com/bonukai/MediaTracker
+:END:
+#+title: (github.com) bonukai/MediaTracker: Self hosted media tracker for movies, tv shows, video games, books and audiobooks
+#+filetags: :software:organization:www:website:
+
+#+begin_quote
+  Self hosted platform for tracking movies, tv shows, video games, books and audiobooks, highly inspired by flox
+#+end_quote

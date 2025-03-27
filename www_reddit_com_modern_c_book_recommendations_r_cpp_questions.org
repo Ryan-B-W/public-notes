@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       83d08aeb-973b-4c3e-8aed-97e40d44878f
+:ROAM_REFS: https://www.reddit.com/r/cpp_questions/comments/1fnefz8/modern_c_book_recommendations/
+:END:
+#+title: (www.reddit.com) Modern C++ book recommendations. : r/cpp_questions
+#+filetags: :cpp_lang:programming:forums:website:
+
+#+begin_quote
+  * Modern C++ book recommendations.
+
+  Hey, i just finished Bjarne's programming principles C++ book, i want to go into more advanced texts that teach standard practices(i don't mean for specifics like templates, functional programming etc.), i found some by Scott Meyers and Herb Sutter, but they are pre C++11, and we are already going to 26, so i am guessing they are outdated, but if they aren't please mention it.
+
+  Any books recommendations by decent authors would be fine, thanks.
+#+end_quote
+* Comments Mention the Following
+** [[id:a1662346-5725-4784-a7d1-355d54381f51][(www.learncpp.com) Learn C++ – Skill up with our free tutorials]]
+** [[id:7d7eba82-87b7-4772-ab7e-ce43b165d697][Programming: Principles and Practice Using C++ by Bjarne Stroustrup]]
+** [[id:70c111d8-44a2-4fb5-afdf-093d22d63525][Professional C++ by Marc Gregoire]]
+** [[id:c724183c-b996-49d0-8095-0dfd5f8500f2][Effective Modern C++ by Scott Meyers]]
+** [[id:b7cbaaeb-6e1c-46d0-bf3d-f6fd1401b4d9][C++ Concurrency in Action by Anthony Williams]]
+** [[id:1e5c33d9-cb58-485b-9e36-19f6815838c9][C++ Templates: The Complete Guide by David Vandevoorde, Nicolai M. Josuttis, and Douglas Gregor]]
+** [[id:eb6cee5b-daaf-47cd-9abe-6cd7874f9ef4][C++ Move Semantics: The Complete Guide by Nicolai M. Josuttis]]
+** [[id:a332c7cc-1bd6-4158-80d3-917934e34da0][A Tour of C++ by Bjarne Stroustrup]]
+** [[id:389c2f88-703b-49ba-9e57-b24257b4e974][Computer Systems: A Programmer's Perspective by Randal E. Bryant and David Richard O'Hallaron]]
+* See Also
+** [[id:e81b6e91-1ce9-41d1-a944-1e77814c806f][(www.reddit.com) c++ questions and answers]], the subreddit where the question was posted

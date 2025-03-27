@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       707dfa22-d41d-4a5b-906d-126fcc377070
+:ROAM_REFS: https://panadestein.github.io/emacsd/
+:END:
+#+title: (panadestein.github.io) Emacs literate configuration
+#+filetags: :lisp:emacs_lisp:emacs:website:

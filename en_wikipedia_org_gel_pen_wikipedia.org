@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       19116f08-fa4d-4bc3-8028-4c8be36ffb2b
+:ROAM_REFS: https://en.wikipedia.org/wiki/Gel_pen
+:END:
+#+title: (en.wikipedia.org) Gel pen - Wikipedia
+#+filetags: :stationary:website:
+
+#+begin_quote
+  A *gel pen* uses ink in which [[https://en.wikipedia.org/wiki/Pigment][pigment]] is [[https://en.wikipedia.org/wiki/Suspension_(chemistry)][suspended]] in a [[https://en.wikipedia.org/wiki/Water][water]]-based [[https://en.wikipedia.org/wiki/Gel][gel]].  Because the ink is thick and [[https://en.wikipedia.org/wiki/Opacity_(optics)][opaque]], it shows up more clearly on slick surfaces than the typical inks used in [[https://en.wikipedia.org/wiki/Ballpoint_pen][ballpoint]] or [[https://en.wikipedia.org/wiki/Marker_pen][felt tip]] pens.  Gel pens can be used for many types of writing and illustration.
+
+  The general design of a gel pen is similar to that of a regular [[https://en.wikipedia.org/wiki/Ballpoint][ink-based pen]], with a barrel containing the writing mechanism and a cap, and a reservoir filled with ink.  At the end of the ink tube is an ink "follower", made of more viscous gelled material which is usually translucent and follows the water-based ink.  The follower mainly prevents leakage and back flow of the ink.  The barrels can be created in many different sizes and designs; some have finger grips of rubber or plastic.  The size of the [[https://en.wikipedia.org/wiki/Nib_(pen)][nib]] or pen tip ranges from 0.18 millimetres (0.0071 in) to 1.5 millimetres (0.059 in).
+#+end_quote

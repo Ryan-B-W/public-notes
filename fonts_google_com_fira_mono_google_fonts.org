@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       d9da36a8-2a1d-4a59-9a23-b19689debfee
+:ROAM_REFS: https://fonts.google.com/specimen/Fira+Mono
+:END:
+#+title: (fonts.google.com) Fira Mono - Google Fonts
+#+filetags: :fonts_monospace:fonts:website:

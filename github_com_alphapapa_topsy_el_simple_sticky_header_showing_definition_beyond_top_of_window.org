@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       7b7e106a-dec0-40c4-b8e3-e57f10390b5b
+:ROAM_REFS: https://github.com/alphapapa/topsy.el
+:END:
+#+title: (github.com) alphapapa/topsy.el: Simple sticky header showing definition beyond top of window
+#+filetags: :open_source:lisp:emacs_lisp:emacs:software:website:
+
+#+begin_quote
+  * topsy.el
+
+  This library shows a sticky header at the top of the window.  The header shows which definition the top line of the window is within.  It's intended as a simple alternative to =semantic-stickyfunc-mode=.  It's especially helpful when, for example, browsing a list of =occur= results: when a line is in the middle of a definition, and the top of the definition is beyond the top of the window, =topsy= shows what definition the line is in.
+
+  Mode-specific functions may be added to =topsy-mode-functions=.
+
+  *NOTE:* For Org mode buffers, please use [[https://github.com/alphapapa/org-sticky-header][org-sticky-header]].
+#+end_quote

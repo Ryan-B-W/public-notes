@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       ce8c40c9-b42d-45d4-8d0e-b99ba492dd19
+:ROAM_REFS: https://wiki.gentoo.org/wiki/Useful_Portage_tools
+:END:
+#+title: (wiki.gentoo.org) Useful Portage tools - Gentoo wiki
+#+filetags: :lists:gentoo:linux:operating_systems:website:
+
+#+begin_quote
+  This article provides a list of Gentoo-specific system management tools, notably for Portage, available in the ebuild repository.
+#+end_quote

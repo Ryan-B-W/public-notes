@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       7af4ea15-8638-4af9-bbae-b7e8de0089b3
+:ROAM_REFS: https://datatracker.ietf.org/doc/std
+:END:
+#+title: (datatracker.ietf.org) Standards
+#+filetags: :directory:standards:website:

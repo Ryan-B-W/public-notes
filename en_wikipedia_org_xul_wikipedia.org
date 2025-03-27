@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       adacedb0-b8e9-4e1a-8692-358eaa3d9410
+:ROAM_REFS: https://en.wikipedia.org/wiki/XUL
+:END:
+#+title: (en.wikipedia.org) XUL - Wikipedia
+#+filetags: :software_development:programming:www:website:
+
+#+begin_quote
+  XUL (/ˈzuːl/ ZOOL), which stands for XML User Interface Language, is a user interface markup language developed by Mozilla.  XUL is an XML dialect for writing graphical user interfaces, enabling developers to write user interface elements in a manner similar to web pages.
+  XUL applications rely on the Mozilla codebase or a fork of it.  The most prominent example is the Firefox web browser.  However, Mozilla has significantly reduced the usage of XUL in Firefox after their rewrite of the browser engine in version 57.  This resulted in the removal of the legacy add-on system, which relied on XUL and XPCOM, another cross-platform technology Mozilla decided to deprecate shortly before the release of Firefox 57.  Firefox originally permitted add-ons to extensively alter its user interface, but this capability was removed in 2017 and replaced with the less-permissive WebExtensions API.  Several forks of Firefox retain support for XUL and XPCOM-based add-ons.  Waterfox maintains a fork of the legacy Mozilla codebase for the Waterfox Classic browser.  The Pale Moon browser, Basilisk browser, Hyperbola operating system, and numerous smaller projects collectively use and maintain the Unified XUL Platform (UXP) implementation.
+#+end_quote

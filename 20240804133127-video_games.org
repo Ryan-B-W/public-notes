@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       1fb5644a-e77c-43b0-82af-4f2a4c0c852d
+:END:
+#+title: Video Games
+#+filetags: :games:
+
+Electronic games played on a [[id:bf5900d9-5be8-49ca-bfcc-46587cc787dc][computer]] or console.

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       8d2db666-deaa-4f49-9f7c-70653bd5d6b5
+:ROAM_REFS: https://irreal.org/blog/?p=10867
+:END:
+#+title: (irreal.org) Dictionaries and Emacs | Irreal
+#+filetags: :writing:emacs:website:

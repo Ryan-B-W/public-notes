@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       dec0e1d2-f146-492c-a398-783f4e952196
+:ROAM_REFS: https://witscad.com/course/computer-architecture
+:END:
+#+title: (witscad.com) Computer Architecture
+#+filetags: :education_resource:computer_science:electronics:website:
+
+#+begin_quote
+  *** Description
+
+  This course is specially designed for the Computer Science students.  If you are studying this subject in your college or institution or want to study, this course will help you in understanding the concepts in an easy and concise way.  This course covers the overall computer architecture course in 24 chapters divided in 3 phases.  After each phase, yYou will get 2 online tests to evaluate your progress making a total of 6 online tests.  Lets enroll to get started.
+#+end_quote
+* (witscad.com) CPU's Data Path | Computer Architecture
+:PROPERTIES:
+:ID:       f1acbb91-0355-45ac-86c0-a200dfa54dcf
+:ROAM_REFS: https://witscad.com/course/computer-architecture/chapter/cpu-data-path
+:END:

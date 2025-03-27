@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       e46d533e-66a0-4fda-9001-ba3df8f98b07
+:END:
+#+title: Asymptote
+#+filetags: :typesetting:programming_language:programming:computer_science:graphics:open_source:
+
+[[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][Open-source]] plotting and diagramming language.
+* (asymptote.sourceforge.io) Asymptote                              :website:
+:PROPERTIES:
+:ID:       c313c079-97d7-4e09-9cc0-b897724fb6eb
+:ROAM_REFS: https://asymptote.sourceforge.io/
+:END:
+
+#+begin_quote
+  ** Asymptote: The Vector Graphics Language
+
+  Asymptote is a powerful descriptive vector graphics language that provides a natural coordinate-based framework for technical drawing.  Labels and equations are typeset with LaTeX, the de-facto standard for typesetting mathematics.
+
+  A major advantage of Asymptote over other graphics packages is that it is a programming language, as opposed to just a graphics program.
+
+  You can even run it in your browser without installing it, using the [[https://tinyurl.com/asyweb][Asymptote Web Application]].  Just enter the code
+
+  *import workcone;*
+
+  (including the semicolon) and click the Run button.
+
+  Features of Asymptote:
+
+  - provides a portable standard for typesetting mathematical figures, just as TeX/LaTeX has become the standard for typesetting equations;
+  - generates high-quality PostScript, OpenGL, PDF, SVG, WebGL, [[https://github.com/vectorgraphics/v3d][V3D]], and PRC vector graphics;
+  - embeds 3D vector WebGL graphics within HTML files;
+  - embeds 3D vector PRC graphics within PDF files;
+  - inspired by MetaPost, with a much cleaner, powerful C++-like programming syntax and IEEE floating-point numerics;
+  - runs on all major platforms (UNIX, MacOS, Microsoft Windows);
+  - mathematically oriented (e.g. rotation of vectors by complex multiplication);
+  - LaTeX typesetting of labels (for document consistency);
+  - uses the simplex method and deferred drawing to solve overall size constraint issues between fixed-sized objects (labels and arrowheads) and objects that should scale with figure size;
+  - fully generalizes MetaPost path construction algorithms to three dimensions;
+  - compiles commands into virtual machine code for speed without sacrificing portability;
+  - high-level graphics commands are implemented in the Asymptote language itself, allowing them to be tailored to specific applications.
+#+end_quote
+* (en.wikipedia.org) Asymptote (vector graphics language) - Wikipedia :website:
+:PROPERTIES:
+:ID:       ddc2e2c8-a415-416c-bc9f-71adebac0f89
+:ROAM_REFS: https://en.wikipedia.org/wiki/Asymptote_(vector_graphics_language)
+:END:
+
+#+begin_quote
+  *Asymptote* is a descriptive [[https://en.wikipedia.org/wiki/Vector_graphics][vector graphics]] language -- developed by Andy Hammerlindl, John C. Bowman (University of Alberta), and Tom Prince -- which provides a natural coordinate-based framework for [[https://en.wikipedia.org/wiki/Technical_drawing][technical drawing]].  Asymptote runs on all major platforms ([[https://en.wikipedia.org/wiki/Unix][Unix]], [[https://en.wikipedia.org/wiki/Mac_OS][Mac OS]], [[https://en.wikipedia.org/wiki/Microsoft_Windows][Microsoft Windows]]).  It is [[https://en.wikipedia.org/wiki/Free_software][free software]], available under the terms of the [[https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License][GNU Lesser General Public License]] (LGPL).
+#+end_quote

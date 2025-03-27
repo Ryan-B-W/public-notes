@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7b4ede32-be3c-414b-9ded-7242988cc5a1
+:ROAM_REFS: https://en.wikipedia.org/wiki/Windows_Presentation_Foundation
+:END:
+#+title: (en.wikipedia.org) Windows Presentation Foundation - Wikipedia
+#+filetags: :programming:software_development:microsoft:website:
+
+#+begin_quote
+  Windows Presentation Foundation (WPF) is a free and open-source user interface framework for Windows-based desktop applications.  WPF applications are based in .NET, and are primarily developed using C# and XAML.
+  Originally developed by Microsoft, WPF was initially released as part of .NET Framework 3.0 in 2006.  In 2018, Microsoft released WPF as open source under the MIT License.  WPF's design and its layout language XAML have been adopted by multiple other UI frameworks, such as UWP, .NET MAUI, and Avalonia.
+#+end_quote

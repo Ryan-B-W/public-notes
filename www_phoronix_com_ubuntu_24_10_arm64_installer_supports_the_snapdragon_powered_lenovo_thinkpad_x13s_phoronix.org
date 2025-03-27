@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       4d832f2e-b121-45c1-becf-0643cd989e60
+:ROAM_REFS: https://www.phoronix.com/news/Ubuntu-24.10-ThinkPad-X13s
+:END:
+#+title: (www.phoronix.com) Ubuntu 24.10 ARM64 Installer Supports The Snapdragon-Powered Lenovo ThinkPad X13s - Phoronix
+#+filetags: :article:news:linux:website:

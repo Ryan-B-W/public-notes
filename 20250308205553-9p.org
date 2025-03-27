@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       aae3c230-a383-4d95-a4c9-fd9f8889c5de
+:END:
+#+title: 9P
+#+filetags: :computer_science:networking:software:
+
+9P, aka Plan 9 Filesystem Protocol, is a network [[id:a4c2de37-5317-44f3-b877-ec0b5777c61f][file system]] protocol developed as part of [[id:75a57056-0931-4f17-949f-8732f473728a][Plan 9]].

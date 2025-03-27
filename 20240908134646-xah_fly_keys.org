@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       a7bec62f-e2c3-4923-83f2-abe1e790a620
+:END:
+#+title: Xah Fly Keys (XFK)
+#+filetags: :software:emacs:
+
+A modal editing binding set and mode for [[id:aca1324c-b142-4e34-a121-a8bb0a79ddf8][Emacs]].  Specifically doesn't do [[id:37c53f5b-c586-41ff-a4fe-b44c05ed3c1f][Vim]]-style command composition.
+* (xahlee.info) Emacs: Xah Fly Keys 📦               :software:emacs:website:
+:PROPERTIES:
+:ID:       9701848a-b85f-492b-a8d6-b7dcae468f91
+:ROAM_REFS: http://xahlee.info/emacs/misc/xah-fly-keys.html
+:END:
+
+#+begin_quote
+  Xah Fly Keys is more efficient than vim, or any keybinding set in history.
+  xah-fly-keys.el is a modal editing mode for emacs, like vi, but the design of key/command choice is based on command frequency statistics and ease-of-key score.  Most frequently used commands have most easy keys.
+  If you have hand pain from using emacs, consider using Xah Fly Keys.  Never need to press Ctrl+x and never need to press Meta anymore.
+#+end_quote
+* (github.com) xahlee/xah-fly-keys: the most efficient keybinding for emacs :software:emacs:website:
+:PROPERTIES:
+:ID:       7153dff6-0a8c-4f0a-99a8-c9cdeed2cc4c
+:ROAM_REFS: https://github.com/xahlee/xah-fly-keys
+:END:
+
+#+begin_quote
+  A modal keybinding for emacs (like vim), but based on command frequency and ergonomics.
+  This is the most efficient editing system in the universe.
+  Xah Fly Keys home page at http://xahlee.info/emacs/misc/xah-fly-keys.html
+#+end_quote

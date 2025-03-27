@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c5cf25d2-9b1e-4eea-b63f-6230753e626e
+:ROAM_REFS: https://github.com/awesome-selfhosted/awesome-selfhosted
+:END:
+#+title: (github.com) awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers
+#+filetags: :software:lists:www:website:
+
+#+begin_quote
+  Self-hosting is the practice of hosting and managing applications on your own server(s) instead of consuming from SaaSS providers.
+  This is a list of Free Software network services and web applications which can be hosted on your own server(s).  Non-Free software is listed on the Non-Free page.
+#+end_quote

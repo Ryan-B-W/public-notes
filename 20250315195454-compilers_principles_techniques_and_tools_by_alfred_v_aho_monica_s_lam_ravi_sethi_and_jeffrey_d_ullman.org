@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       bb745c1e-75c6-4b55-ad83-045619052c0c
+:END:
+#+title: Compilers: Principles, Techniques, and Tools by Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman
+#+filetags: :compilers:parsers:education_resource:textbooks:programming:computer_science:books:
+
+* (en.wikipedia.org) Compilers: Principles, Techniques, and Tools - Wikipedia :website:
+:PROPERTIES:
+:ID:       de38d34f-28f5-4fa8-9209-6bfdb327a1e8
+:ROAM_REFS: https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
+:END:
+
+#+begin_quote
+  /*Compilers: Principles, Techniques, and Tools*/ is a [[https://en.wikipedia.org/wiki/Computer_science][computer science]] textbook by [[https://en.wikipedia.org/wiki/Alfred_V._Aho][Alfred V. Aho]], [[https://en.wikipedia.org/wiki/Monica_S._Lam][Monica S. Lam]], [[https://en.wikipedia.org/wiki/Ravi_Sethi][Ravi Sethi]], and [[https://en.wikipedia.org/wiki/Jeffrey_D._Ullman][Jeffrey D. Ullman]] about [[https://en.wikipedia.org/wiki/Compiler][compiler]] construction for [[https://en.wikipedia.org/wiki/Programming_language][programming languages]].  First published in 1986, it is widely regarded as the classic definitive compiler technology text.
+
+  It is known as the /*Dragon Book*/ to generations of computer scientists as its cover depicts a [[https://en.wikipedia.org/wiki/Knight][knight]] and a [[https://en.wikipedia.org/wiki/Western_dragon][dragon]] in battle, a [[https://en.wikipedia.org/wiki/Metaphor][metaphor]] for conquering complexity.  This name can also refer to Aho and Ullman's older /[[https://en.wikipedia.org/wiki/Principles_of_Compiler_Design][Principles of Compiler Design]]/.
+#+end_quote

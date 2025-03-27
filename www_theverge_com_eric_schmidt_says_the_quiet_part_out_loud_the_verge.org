@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       24816252-bb42-462a-880a-a1432e8726aa
+:ROAM_REFS: https://www.theverge.com/2024/8/16/24221353/eric-schmidt-says-the-quiet-part-out-loud
+:END:
+#+title: (www.theverge.com) Eric Schmidt says the quiet part out loud - The Verge
+#+filetags: :news:website:
+
+#+begin_quote
+  It’s increasingly rare to hear what the power players of Silicon Valley really think these days.  Over the last decade, armies of PR professionals and lawyers have cocooned tech executives with talking points they’re trained to never deviate from.
+  Sometimes, though, a slipup still happens and the quiet part is said out loud.  Such was the case during ex-Google CEO Eric Schmidt’s recent talk at Stanford University, which has mostly garnered headlines for his now-walked-back comments about Google’s slowness to compete with OpenAI.  The more eye-popping thing he said during the talk, however, was his advice for AI startups: that it’s okay to steal content if you’re successful because you can just hire lawyers to “clean up the mess.”  As he told the room full of students: “If nobody uses your product, it doesn’t matter that you stole all the content.”
+  Having run Google from 2001 to 2011, Schmidt knows a thing or two about having lawyers clean up messes.  YouTube grew in its earliest days off the backs of videos it didn’t have the rights to.  One could argue that the business of Google Search itself was initially built by speedrunning the legal system.
+#+end_quote

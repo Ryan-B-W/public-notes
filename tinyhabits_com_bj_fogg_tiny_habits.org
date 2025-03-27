@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       f44c61f9-ba31-4c7f-9b13-dc7eb77cfd88
+:ROAM_REFS: https://tinyhabits.com/
+:END:
+#+title: (tinyhabits.com) BJ Fogg | Tiny Habits
+#+filetags: :self_help:books:website:
+
+#+begin_quote
+  Tiny Habits, Big Results: Your method for success
+
+  Change your life for good with the Tiny Habits method—where simple changes lead to real, life-changing results.  It's easier than you think, surprisingly fun, and designed for real-world success.
+#+end_quote
+* (www.amazon.com) Tiny Habits: The Small Changes That Change Everything: PhD, BJ Fogg: 9780358003328: Amazon.com: Books :store:self_help:books:website:
+:PROPERTIES:
+:ID:       3a8a0862-28db-4db1-971c-d319dadd0d63
+:ROAM_REFS: https://www.amazon.com/dp/0358003326
+:END:

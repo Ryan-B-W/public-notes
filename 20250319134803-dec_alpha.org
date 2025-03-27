@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4467ec8c-6e6e-45fe-8e90-b2d7c520e9fe
+:END:
+#+title: DEC Alpha
+#+filetags: :dec_corp:electronics:processor:microprocessor:computer_architecture:computer_science:
+
+The Alpha family of [[id:321ba3cc-d73a-4620-88f7-2527cbae1aac][RISC]] [[id:c980a340-2564-437e-a79f-388122a206ad][ISA]]s and corresponding microprocessors developed by DEC.
+* (en.wikipedia.org) DEC Alpha - Wikipedia                          :website:
+:PROPERTIES:
+:ID:       cd8248d2-7f81-45b6-97c5-69b1a59b5adb
+:ROAM_REFS: https://en.wikipedia.org/wiki/DEC_Alpha
+:END:
+
+#+begin_quote
+  *Alpha* (original name *Alpha AXP*) is a [[https://en.wikipedia.org/wiki/64-bit_computing][64-bit]] [[https://en.wikipedia.org/wiki/Reduced_instruction_set_computer][reduced instruction set computer]] (RISC) [[https://en.wikipedia.org/wiki/Instruction_set_architecture][instruction set architecture]] (ISA) developed by [[https://en.wikipedia.org/wiki/Digital_Equipment_Corporation][Digital Equipment Corporation]] (DEC).  Alpha was designed to replace [[https://en.wikipedia.org/wiki/32-bit_computing][32-bit]] [[https://en.wikipedia.org/wiki/VAX][VAX]] [[https://en.wikipedia.org/wiki/Complex_instruction_set_computer][complex instruction set computers]] (CISC) and to be a highly competitive RISC processor for [[https://en.wikipedia.org/wiki/Unix_workstation][Unix workstations]] and similar markets.
+
+  Alpha was implemented in a series of [[https://en.wikipedia.org/wiki/Microprocessor][microprocessors]] originally developed and [[https://en.wikipedia.org/wiki/Semiconductor_device_fabrication][fabricated]] by DEC.  These microprocessors were most prominently used in a variety of DEC workstations and servers, which eventually formed the basis for almost all of their mid-to-upper-scale lineup.  Several third-party vendors also produced Alpha systems, including [[https://en.wikipedia.org/wiki/PC_motherboard_form_factor][PC form factor]] motherboards.
+
+  [[https://en.wikipedia.org/wiki/Operating_system][Operating systems]] that support Alpha included [[https://en.wikipedia.org/wiki/OpenVMS][OpenVMS]] (formerly named OpenVMS AXP), [[https://en.wikipedia.org/wiki/Tru64_UNIX][Tru64 UNIX]] (formerly named DEC OSF/1 AXP and Digital UNIX), [[https://en.wikipedia.org/wiki/Windows_NT][Windows NT]] (discontinued after [[https://en.wikipedia.org/wiki/Windows_NT_4.0][NT 4.0]]; and prerelease [[https://en.wikipedia.org/wiki/Windows_2000][Windows 2000]] [[https://en.wikipedia.org/wiki/Software_release_life_cycle][RC2]]), [[https://en.wikipedia.org/wiki/Linux][Linux]] ([[https://en.wikipedia.org/wiki/Debian][Debian]], [[https://en.wikipedia.org/wiki/SUSE_Linux][SUSE]], [[https://en.wikipedia.org/wiki/Gentoo_Linux][Gentoo]] and [[https://en.wikipedia.org/wiki/Red_Hat_Linux][Red Hat]]), [[https://en.wikipedia.org/wiki/Berkeley_Software_Distribution][BSD]] UNIX ([[https://en.wikipedia.org/wiki/NetBSD][NetBSD]], [[https://en.wikipedia.org/wiki/OpenBSD][OpenBSD]] and [[https://en.wikipedia.org/wiki/FreeBSD][FreeBSD]] up to 6.x), [[https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs][Plan 9 from Bell Labs]], and the [[https://en.wikipedia.org/wiki/L4_microkernel_family][L4Ka::Pistachio]] kernel.  A port of [[https://en.wikipedia.org/wiki/Ultrix][Ultrix]] to Alpha was carried out during the initial development of the Alpha architecture, but was never released as a product.
+
+  The Alpha architecture was sold, along with most parts of DEC, to [[https://en.wikipedia.org/wiki/Compaq][Compaq]] in 1998.  Compaq, already an [[https://en.wikipedia.org/wiki/Intel][Intel]] x86 customer, announced that they would phase out Alpha in favor of the forthcoming [[https://en.wikipedia.org/wiki/Hewlett-Packard][Hewlett-Packard]]/Intel [[https://en.wikipedia.org/wiki/Itanium][Itanium]] architecture, and sold all Alpha [[https://en.wikipedia.org/wiki/Intellectual_property][intellectual property]] to Intel, in 2001, effectively killing the product.  Hewlett-Packard purchased Compaq in 2002, continuing development of the existing product line until 2004, and selling Alpha-based systems, largely to the existing customer base, until April 2007.
+#+end_quote

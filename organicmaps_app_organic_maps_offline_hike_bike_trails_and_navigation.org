@@ -1,0 +1,96 @@
+:PROPERTIES:
+:ID:       7c58e054-e272-481a-a3f6-0a0c3290d69a
+:ROAM_REFS: https://organicmaps.app/
+:END:
+#+title: (organicmaps.app) Organic Maps: Offline Hike, Bike, Trails and Navigation
+#+filetags: :open_source:software:apple_ios:android_os:maps:mobile_app:website:
+
+#+begin_quote
+  * Organic Maps: Offline Hike, Bike, Trails and Navigation
+
+  *Organic Maps* is a free Android & iOS offline maps app for travelers, tourists, hikers, drivers and cyclists based on *[[https://www.openstreetmap.org/about][OpenStreetMap]]* data created by the community.  It is a privacy-focused, open-source [[https://en.wikipedia.org/wiki/Fork_(software_development)][fork]] of *Maps.me* app (previously known as [[https://en.wikipedia.org/wiki/Maps.me][*MapsWithMe*]]), maintained by the same people who created *MapsWithMe* in 2011.
+
+  *Organic Maps* is one of the few applications nowadays that supports 100% of features without an active Internet connection.  Install Organic Maps, download maps, throw away your SIM card, and go for a weeklong trip on a single battery charge without any byte sent to the network.
+
+  : In 2023, Organic Maps [[https://organicmaps.app/news/2023-12-23/in-2023-organic-maps-got-its-first-million-users/][got its first million]] users. [[https://organicmaps.app/donate/][Help us]] to scale!
+
+  *** Download and install Organic Maps from [[https://apps.apple.com/app/organic-maps/id1567437057][AppStore]], [[https://play.google.com/store/apps/details?id=app.organicmaps&hl=en][Google Play]], [[https://appgallery.huawei.com/#/app/C104325611?local=en][Huawei AppGallery]], [[https://github.com/organicmaps/organicmaps/wiki/Installing-Organic-Maps-from-GitHub-using-Obtainium][Obtainium]], [[https://f-droid.org/en/packages/app.organicmaps/][FDroid]]
+
+  ** Features
+
+  Organic Maps is the ultimate companion app for travelers, tourists, hikers, and cyclists:
+
+  - Detailed offline maps with places that don't exist on other maps, thanks to [[https://www.openstreetmap.org/about][OpenStreetMap]]
+  - Cycling routes, hiking trails, and walking paths
+  - Contour lines, elevation profiles, peaks, and slopes
+  - Turn-by-turn walking, cycling, and car navigation with voice guidance and Android Auto
+  - Fast offline search on the map
+  - Export/import bookmarks in KML/KMZ, import GPX
+  - Dark Mode to protect your eyes
+  - Countries and regions don't take a lot of space
+  - Free and open-source
+
+  ** Why Organic?
+
+  Organic Maps is pure and organic, made with love:
+
+  - Respects your privacy
+  - Saves your battery
+  - No unexpected mobile data charges
+
+  Organic Maps app is free from trackers and other bad stuff:
+
+  - No ads
+  - No tracking
+  - No data collection
+  - No phoning home
+  - No annoying registration
+  - No mandatory tutorials
+  - No noisy email spam
+  - No push notifications
+  - No crapware
+  - +No pesticides+ Purely organic!
+
+  The application is verified by [[https://reports.exodus-privacy.eu.org/en/reports/app.organicmaps/latest/][Exodus Privacy Project]]:
+
+  [[https://organicmaps.app/images/privacy/exodus.png]]
+
+  The iOS application is verified by [[https://ios.trackercontrol.org/analysis/app.organicmaps][TrackerControl for iOS]]:
+
+  [[https://organicmaps.app/images/privacy/trackercontrol.png]]
+
+  Organic Maps doesn't request excessive permissions to spy on you:
+
+  [[https://organicmaps.app/images/privacy/om.jpg]] [[https://organicmaps.app/images/privacy/mm.jpg]]
+
+  At Organic Maps, we believe that privacy is a fundamental human right:
+
+  - Organic Maps is an indie community-driven open-source project
+  - We protect your privacy from Big Tech's prying eyes
+  - Stay safe no matter wherever you are
+
+  Reject surveillance - embrace your freedom.
+
+  *[[https://organicmaps.app/#install][Give Organic Maps a try!]]*
+
+  ** Who is paying for the free app?
+
+  The app is free for everyone.  Please [[https://organicmaps.app/donate/][donate]] to support us!
+
+  ** Community
+
+  Organic Maps is an [[https://github.com/organicmaps/organicmaps][open-source software]] licensed under the Apache License 2.0.
+
+  - Please join our beta program, suggest your features, and report bugs:
+    - [[https://testflight.apple.com/join/lrKCl08I][iOS Beta (TestFlight)]]
+    - [[https://appdistribution.firebase.dev/i/2f0fee463107b137][Android Beta (Firebase)]]
+    - [[https://flathub.org/apps/details/app.organicmaps.desktop][Linux Desktop Beta (Flatpak)]]
+    - [[https://repology.org/project/organicmaps/versions][Linux Desktop Beta (packages)]]
+  - Report bugs or issues to [[https://github.com/organicmaps/organicmaps/issues][the issue tracker]] or [[https://organicmaps.app/cdn-cgi/l/email-protection#f88b8d8888978a8cb8978a9f9996919b9599888bd6998888][email us]].
+  - [[https://github.com/organicmaps/organicmaps/discussions/categories/ideas][Discuss]] ideas or propose feature requests.
+  - Subscribe to our [[https://t.me/OrganicMapsApp][Telegram Channel]] or to the [[https://matrix.to/#/#organicmaps:matrix.org][matrix space]] for updates.
+  - Join our [[https://t.me/OrganicMaps][Telegram Group]] to discuss with other users.
+  - Visit our [[https://github.com/organicmaps/organicmaps][GitHub page]].
+  - Follow our updates in [[https://fosstodon.org/@organicmaps][FOSStodon]], [[https://mastodon.social/@organicmaps][Mastodon]], [[https://facebook.com/OrganicMaps][Facebook]], [[https://twitter.com/OrganicMapsApp][Twitter]], [[https://instagram.com/organicmaps.app/][Instagram]], [[https://www.reddit.com/r/organicmaps/][Reddit]], [[https://www.linkedin.com/company/organic-maps/][LinkedIn]].
+  - Join (or create and let us know) local communities: [[https://matrix.to/#/#organicmapstranslate_hu:matrix.org][Hungarian Matrix room]], [[https://t.me/OrganicMapsZh][Chinese-]], [[https://t.me/OrganicMapsFr][French-]], [[https://t.me/OrganicMapsRu][Russian-]], [[https://t.me/OrganicMapsTr][Turkish-]]speaking Telegram chats.
+#+end_quote

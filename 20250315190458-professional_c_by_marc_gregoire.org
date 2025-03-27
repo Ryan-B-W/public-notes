@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       70c111d8-44a2-4fb5-afdf-093d22d63525
+:END:
+#+title: Professional C++ by Marc Gregoire
+#+filetags: :education_resource:cpp_lang:programming:computer_science:books:
+
+* (www.wiley.com) Professional C++, 6th Edition | Wiley             :website:
+:PROPERTIES:
+:ID:       f57a3de5-586f-46b0-ba1d-838dd86cd71e
+:ROAM_REFS: https://www.wiley.com/en-us/Professional+C++,+6th+Edition-p-9781394193172
+:END:
+
+#+begin_quote
+  ** Professional C++, 6th Edition
+
+  [[https://www.wiley.com/en-us/search?filters%5Bauthor%5D=Marc%20Gregoire&pq=++][Marc Gregoire]]
+
+  ISBN: 978-1-394-19317-2
+
+  February 2024
+
+  1376 pages
+
+  Description
+
+  *Expand your C++ *knowledge* quickly and efficiently with this advanced resource*
+
+  In the newly revised sixth edition of /Professional C++/, veteran software engineer and developer Marc Gregoire delivers yet another volume that raises the bar for advanced programming manuals. Covering almost all features of the new C++ standard codenamed C++23, the book offers case studies with working code that's been tested on Windows and Linux.
+
+  As the leading resource for dedicated and knowledgeable professionals seeking to advance their C++ skills, this book provides resources that help readers:
+
+  - Master new features of the latest standard, C++23
+  - Maximize C++ capabilities with effective design solutions
+  - Discover little-known elements and learn about pitfalls and what practices to avoid
+  - Grasp testing and debugging best practices
+  - Learn about tips and tricks for efficiency and performance
+
+  C++ is a complex language. /Professional C++,/ 6th Edition/,/ allows dedicated practitioners to remain current and abreast of the latest developments and advances.
+#+end_quote

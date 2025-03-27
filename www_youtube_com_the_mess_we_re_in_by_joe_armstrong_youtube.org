@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       3dc83a5c-ac0f-4def-b7c5-58f351fb5122
+:ROAM_REFS: https://www.youtube.com/watch?v=lKXe3HUG2l4
+:END:
+#+title: (www.youtube.com) "The Mess We're In" by Joe Armstrong - YouTube
+#+filetags: :programming:computer_science:video:website:
+
+#+begin_quote
+  Joe Armstrong is one of the inventors of Erlang.  When at the Ericsson computer science lab in 1986, he was part of the team who designed and implemented the first version of Erlang.  He has written several Erlang books including Programming Erlang Software for a Concurrent World.  Joe has a PhD in computer science from the Royal Institute of Technology in Stockholm, Sweden.
+#+end_quote

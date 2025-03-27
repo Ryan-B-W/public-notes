@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       fc012d90-995b-4146-9bec-fc641675521b
+:END:
+#+title: Hugo Static Site Generator
+#+filetags: :go_lang:static_site_generator:web_development:www:
+
+Static site generator written in [[id:da7ac241-9670-4684-a42a-0fc46aed8890][Go]].
+* (gohugo.io) The world’s fastest framework for building websites | Hugo :website:go_lang:static_site_generator:web_development:www:
+:PROPERTIES:
+:ID:       f6bb2fba-9aa0-42ce-bdbc-88310e2ccf28
+:ROAM_REFS: https://gohugo.io/
+:END:

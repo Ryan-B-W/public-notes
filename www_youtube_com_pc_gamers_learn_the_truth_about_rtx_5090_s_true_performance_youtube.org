@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       8e02ef96-ce1a-40a2-8f31-9c5ade7939c9
+:ROAM_REFS: https://www.youtube.com/watch?v=ORXoOKND1Tk&t=92s
+:END:
+#+title: (www.youtube.com) PC Gamers Learn the Truth About RTX 5090's True Performance - YouTube
+#+filetags: :shitpost:meme:electronics:video:website:
+
+#+begin_quote
+  Nvidia has just unveiled their brand new Blackwell RTX 50 Series GPUs, their claim is that The RTX 5070 achieves the same performance as The RTX 5090 but the truth is that not even RTX 5090 is that much better than the RTX 4090 at native resolution.
+
+  This is generated framerates aside, we will have to wait for more benchmarks to compare these GPUs in more detail but as of right now, The RTX 5090 starts at 2000$!
+#+end_quote

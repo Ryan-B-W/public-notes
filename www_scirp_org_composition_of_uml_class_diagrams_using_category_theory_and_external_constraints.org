@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       88b14fae-4eed-4ebb-b488-7d612e04060e
+:ROAM_REFS: https://www.scirp.org/journal/paperinformation?paperid=122223
+:END:
+#+title: (www.scirp.org) Composition of UML Class Diagrams Using Category Theory and External Constraints
+#+filetags: :mathematics:research:website:
+
+#+begin_quote
+  In large software development projects, there is always a need for refactoring and optimization of the design.  Usually software designs are represented using UML diagrams (e.g., class diagrams).  A software engineering team may create multiple versions of class diagrams satisfying some external constraints.  In some cases, subdiagrams of the developed diagrams can be selected and combined into one diagram.  It is difficult to perform this task manually since the manual process is very time consuming, is prone to human errors, and is not manageable for large projects.  In this paper, we present algorithmic support for automating the generation of composing diagrams, where the composed diagram satisfies a given collection of external constraints and is optimal with respect to a given objective function.  The composition of diagrams is based on the colimit operation from category theory.  The developed approach was verified experimentally by generating random external constraints (expressed in SPARQL and OWL), generating random class diagrams using these external constraints, generating composed diagrams that satisfy these external constraints and computing class diagram metrics for each composed diagram.
+#+end_quote
+* (www.scirp.org) Composition of UML Class Diagrams Using Category Theory and External Constraints - jsea_2022123015510461.pdf :mathematics:research:website:
+:PROPERTIES:
+:ID:       24f0449d-8a90-4bc7-8d6a-ecf1efa76959
+:ROAM_REFS: https://www.scirp.org/pdf/jsea_2022123015510461.pdf
+:END:

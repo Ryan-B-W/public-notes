@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       baa53ada-4ec4-4de6-bb7b-ed03947a0216
+:END:
+#+title: SCALE (Southern California Linux Expo)
+#+filetags: :linux:conference:events:
+
+Annual [[id:bf0bc2d7-17df-413c-823b-93904faffc58][Linux]] conference and expo.
+* (www.socallinuxexpo.org) Home                                     :website:
+:PROPERTIES:
+:ID:       4f1246b7-9a06-44b9-bc2c-528089521c1f
+:ROAM_REFS: https://www.socallinuxexpo.org/ https://www.socallinuxexpo.org/scale/22x
+:END:
+* Occurrences
+** [[id:ea2c64f7-6e9a-4b63-8c6a-6a9a4da55682][SCALE 22x]]

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       228ac783-0c67-4bab-b1de-a4e976da643d
+:ROAM_REFS: https://www.pcgamer.com/they-actually-did-it-eve-online-becomes-the-first-videogame-with-microsoft-excel-integration/
+:END:
+#+title: (www.pcgamer.com) They actually did it: EVE Online becomes the first videogame with Microsoft Excel integration | PC Gamer
+#+filetags: :microsoft:games:article:website:

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       dde13ebd-824f-42ef-ae9e-13b5b45e6958
+:ROAM_REFS: https://en.wikipedia.org/wiki/Robustness_principle
+:END:
+#+title: (en.wikipedia.org) Robustness principle - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Computing][computing]], the *robustness principle* is a design guideline for software that states: "be conservative in what you do, be liberal in what you accept from others".  It is often reworded as: "be conservative in what you send, be liberal in what you accept".  The principle is also known as *Postel's law*, after [[https://en.wikipedia.org/wiki/Jon_Postel][Jon Postel]], who used the wording in an early specification of [[https://en.wikipedia.org/wiki/Transmission_Control_Protocol][TCP]].
+
+  In other words, programs that send messages to other machines (or to other programs on the same machine) should conform completely to the specifications, but programs that receive messages should accept non-conformant input as long as the meaning is clear.
+
+  Among programmers, to produce [[https://en.wikipedia.org/wiki/Liskov_substitution_principle][compatible functions]], the principle is also known in the form: be [[https://en.wikipedia.org/wiki/Contravariant_(programming)][contravariant]] in the input type and [[https://en.wikipedia.org/wiki/Covariant_(programming)][covariant]] in the output type.
+#+end_quote

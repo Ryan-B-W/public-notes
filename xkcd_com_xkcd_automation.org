@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       4bbad24c-8dbb-4727-bf6b-923b4d52f3e4
+:ROAM_REFS: https://xkcd.com/1319/
+:END:
+#+title: (xkcd.com) xkcd: Automation
+#+filetags: :automation:comic:website:

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       0c008ae8-8031-48ea-808a-ce4c104e2527
+:ROAM_REFS: https://datatracker.ietf.org/doc/html/rfc1958
+:END:
+#+title: (datatracker.ietf.org) RFC 1958 - Architectural Principles of the Internet
+#+filetags: :website:
+
+#+begin_quote
+  * Architectural Principles of the Internet
+
+  ** Status of This Memo
+
+  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.  Distribution of this memo is unlimited.
+
+  ** Abstract
+
+  The Internet and its architecture have grown in evolutionary fashion from modest beginnings, rather than from a Grand Plan.  While this process of evolution is one of the main reasons for the technology's success, it nevertheless seems useful to record a snapshot of the current principles of the Internet architecture.  This is intended for general guidance and general interest, and is in no way intended to be a formal or invariant reference model.
+#+end_quote

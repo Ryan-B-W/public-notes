@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       70d210bc-d96b-4b45-aa4a-d13948c9781f
+:ROAM_REFS: https://www.youtube.com/c/ScienceAsylum https://www.youtube.com/c/@ScienceAsylum https://www.youtube.com/channel/UCXgNowiGxwwnLeQ7DXTwXPg
+:END:
+#+title: (www.youtube.com) The Science Asylum - YouTube
+#+filetags: :physics:education_resource:video:website:
+
+#+begin_quote
+  At the Science Asylum, Nick Lucid is absurdly excited about science and math.  We hope that you feel safe to be excited about it too.
+
+  Crazy = Very enthusiastic, passionate, fanatical, excited, and/or obsessed.
+  Asylum = Haven, refuge, sanctuary, shelter, and/or safe house.
+#+end_quote

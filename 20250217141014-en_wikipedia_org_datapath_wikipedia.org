@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       c9054719-8f9f-4171-b71d-1647df36ac07
+:ROAM_REFS: https://en.wikipedia.org/wiki/Datapath
+:END:
+#+title: (en.wikipedia.org) Datapath - Wikipedia
+#+filetags: :computer_science:electronics:website:
+
+#+begin_quote
+  A *data path* is a collection of [[https://en.wikipedia.org/wiki/Functional_unit][functional units]] such as [[https://en.wikipedia.org/wiki/Arithmetic_logic_unit][arithmetic logic units]] (ALUs) or [[https://en.wikipedia.org/wiki/Binary_multiplier][multipliers]] that perform data processing operations, [[https://en.wikipedia.org/wiki/Processor_register][registers]], and [[https://en.wikipedia.org/wiki/Bus_(computing)][buses]].  Along with the [[https://en.wikipedia.org/wiki/Control_unit][control unit]] it composes the [[https://en.wikipedia.org/wiki/Central_processing_unit][central processing unit]] (CPU).  A larger data path can be made by joining more than one data paths using [[https://en.wikipedia.org/wiki/Multiplexers][multiplexers]].
+
+  A *data path* is the ALU, the set of registers, and the CPU's internal bus(es) that allow data to flow between them.
+
+  The simplest design for a CPU uses one common internal bus.  Efficient addition requires a slightly more complicated three-internal-bus structure.  Many relatively simple CPUs have a 2-read, 1-write [[https://en.wikipedia.org/wiki/Register_file][register file]] connected to the 2 inputs and 1 output of the ALU.
+
+  During the late 1990s, there was growing research in the area of [[https://en.wikipedia.org/wiki/Reconfigurable_computing][reconfigurable]] data paths—data paths that may be re-purposed at run-time using [[https://en.wikipedia.org/wiki/Field-programmable_gate_array][programmable fabric]]—as such designs may allow for more efficient processing as well as substantial power savings.
+#+end_quote

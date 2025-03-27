@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       ca6457fc-75b8-4ac6-8fda-f069aa38a601
+:ROAM_REFS: https://www.nasm.us/xdoc/2.16.01/nasmdoc.pdf
+:END:
+#+title: (www.nasm.us) nasmdoc.pdf
+#+filetags: :documentation:programming:computer_science:mime_type_application_pdf:ATTACH:

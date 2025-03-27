@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       311cf7df-9f19-40c5-82dc-89a95007c84e
+:ROAM_REFS: https://www.emacswiki.org/emacs/ModalEditingModes
+:END:
+#+title: (www.emacswiki.org) EmacsWiki: Modal Editing Modes
+#+filetags: :lists:emacs:website:
+
+#+begin_quote
+   - [[https://github.com/jyp/boon][Boon]]
+   - [[https://github.com/stephendavidmarsh/control-mode][Control mode]]
+   - [[https://www.emacswiki.org/emacs/DotMode][DotMode]]
+   - [[https://github.com/ergoemacs/ergoemacs-mode][ErgoEmacs]]
+   - [[https://www.emacswiki.org/emacs/Evil][Evil]]
+   - [[https://github.com/fgeller/fingers.el][Fingers]]
+   - [[https://www.emacswiki.org/emacs/GodMode][GodMode]]
+   - [[https://github.com/jmorag/kakoune.el][Kakoune.el]]
+   - [[https://www.emacswiki.org/emacs/Meow][Meow]]
+   - [[https://github.com/mrkkrp/modalka][modalka]]
+   - [[https://github.com/Kungsgeten/ryo-modal][Ryo modal]]
+   - [[https://www.emacswiki.org/emacs/VimPulse][VimPulse]]
+   - [[https://www.emacswiki.org/emacs/ViperMode][ViperMode]]
+   - [[http://xahlee.info/emacs/misc/xah-fly-keys.html][Xah Fly Keys]]
+#+end_quote

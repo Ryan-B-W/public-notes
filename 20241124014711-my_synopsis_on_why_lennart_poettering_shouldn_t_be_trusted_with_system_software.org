@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       e0f7dd23-1833-48e6-b332-834dc8304bb1
+:END:
+#+title: My synopsis on why Lennart Poettering shouldn't be trusted with system software
+#+filetags: :linux:security:software:self_quotes:opinion:
+
+As I put it when talking on the Cyberspace #the-computer Discord room for LCOLONQ's community:
+#+begin_quote
+  Also, just since I already composed this in regards to `systemd` talk earlier:
+
+  The one I like to bring up for people who aren't well initiated in the mater is Lenart Poettering's stance on security.  Namely, that he seem to think security researchers are glory hounds and CVEs aren't useful (both of these are laregely false).  Examples:
+
+  - https://github.com/systemd/systemd/pull/6214
+  - https://github.com/systemd/systemd/pull/5998
+  - https://github.com/systemd/systemd/issues/6237
+
+  Also, [a fun video](<https://www.youtube.com/watch?v=Nn-SGblUhi4>) where Lennart Poettering MCs a panel with the Linux kernel maintainers and it just turns into a roast of Poettering when they start arguing over userspace ABI stability.  See also, [the original on the ELCE 2011 site](<https://bootlin.com/blog/elce-2011-videos/>).
+#+end_quote

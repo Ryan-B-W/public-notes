@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       32e3f3df-0a62-4a11-b05e-c77c4380b38b
+:ROAM_REFS: https://3d.laingame.net/
+:END:
+#+title: (3d.laingame.net) < index >
+#+filetags: :games:website:
+
+#+begin_quote
+  This is a web reimplementation of the Serial Experiments Lain PSX game with the aim to provide multi-language support.
+
+  *Please make sure to read the [[https://3d.laingame.net/#/notes][notes]] before you start playing.*
+
+  FAQ:
+
+  Q: I'm extremely confused about the game and I'm not sure what I'm doing.
+  A: The game is meant to be confusing, if you feel like you can't enjoy it the way it is, check out the [[https://3d.laingame.net/#/guide][guide]].  Keep in mind though that this is only my interpretation of the game and what I pieced together while developing it, it could be wrong.
+
+  Q: Source code?
+  A: [[https://github.com/ad044/lainTSX][On my github]].
+
+  Q: I found an issue/have a suggestion/etc.
+  A: Use the [[https://github.com/ad044/lainTSX/issues][Github issue tracker]] and tell us about it!
+
+  Q: Is it possible to run the game offline?
+  A: Yes, please follow [[https://laingame.net/offline.html][this guide]].
+#+end_quote

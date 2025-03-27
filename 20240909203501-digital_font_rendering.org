@@ -1,0 +1,104 @@
+:PROPERTIES:
+:ID:       a6052eb1-9ded-4f75-9a41-c8de0be355f9
+:END:
+#+title: Digital Font Rendering
+#+filetags: :fonts:
+
+Rendering of fonts digitally.  Namely, computers.
+* Subpixel Rendering
+:PROPERTIES:
+:ID:       1f807398-9548-46d5-8098-2651736c0cc0
+:END:
+
+Rendering of fonts using a display's subpixels to further increase resolution in one axis.  Most commonly used with LCD displays.  Microsoft's brand of subpixel rendering is branded ClearType.
+
+This also tends to be quite controversial, see [[id:72a47beb-2749-4056-92f6-ab391fccc651][(www.reddit.com) Turning on Subpixel rendering makes a Day and Night difference! : r/linux]].
+** (en.wikipedia.org) Subpixel rendering - Wikipedia                :website:
+:PROPERTIES:
+:ID:       a52d4909-41db-4c3f-ab6e-a457bfce4c4b
+:ROAM_REFS: https://en.wikipedia.org/wiki/Subpixel_rendering
+:END:
+
+#+begin_quote
+  Subpixel rendering is a method used to increase the effective resolution of a color display device.  It takes advantage of each pixel's composition of individually addressable red, green, and blue components adjacent on the display matrix, called subpixels, and uses them as rendering units instead of pixels.
+  Subpixel rendering is primarily used for text rendering on standard DPI displays.
+  Despite the inherent color anomalies, it can also be used to render general graphics.
+#+end_quote
+** (www.grc.com) GRC | How Sub-Pixel Font Rendering Works           :website:
+:PROPERTIES:
+:ID:       148ded9e-5378-42e5-96fc-c195432211bb
+:ROAM_REFS: https://www.grc.com/ct/ctwhat.htm
+:END:
+** (www.lagom.nl) Subpixel layout - Lagom LCD test           :website:ATTACH:
+:PROPERTIES:
+:ID:       7fa712ba-1781-4d9a-9d52-68256ce74ca2
+:ROAM_REFS: http://www.lagom.nl/lcd-test/subpixel.php
+:END:
+
+#+begin_quote
+  Each pixel on an LCD screen consists of three subpixels: red, green, and blue (RGB), that are sitting next to each other.  Most operating systems since about 2003 can improve the quality of on-screen text by using these subpixels.  However, this only works if the operating system knows how the subpixels are arranged.  For the majority of the monitors, the arrangement is RGB (red on the left, green in the middle, and blue on the right).  However, on an occasional monitor, it is the other way around (BGR).  And if you orient your monitor in portrait mode, the subpixel layout can be V-RGB (vertical RGB) or V-BGR.
+#+end_quote
+* Fontconfig
+:PROPERTIES:
+:ID:       bdd9ee2d-b0ad-4935-bd45-76bab9d4e382
+:END:
+
+System used on [[id:bf0bc2d7-17df-413c-823b-93904faffc58][Linux]] for configuring font rendering.  Namely, [[id:71db43c6-1a39-4e98-8cb9-1305958a5978][FreeType]].
+** (wiki.gentoo.org) Fontconfig - Gentoo wiki                       :website:
+:PROPERTIES:
+:ID:       1899f0db-5e4e-44fe-8d13-c8a2760f94a1
+:ROAM_REFS: https://wiki.gentoo.org/wiki/Fontconfig
+:END:
+
+#+begin_quote
+  Fontconfig (~media-libs/fontconfig~) is intended to provide uniform font selection and configuration amongst all GUI applications.  Although it is common for a desktop environment to provide its own font overrides and configuration utilities, Fontconfig is still the underlying system.
+  Refer to the Fonts page for more general information about using fonts on Gentoo, and to the Fonts/Background page for background information about font-related concepts, terminology and systems.
+#+end_quote
+
+See Also:
+*** [[id:c3579d32-363c-4800-a255-37e070d41b24][(wiki.gentoo.org) Fonts - Gentoo wiki]]
+*** [[id:44f80123-0e70-4fa1-9c12-66a9cfdf6105][(wiki.gentoo.org) Fonts/Background - Gentoo wiki]]
+** (wiki.archlinux.org) Font configuration - ArchWiki               :website:
+:PROPERTIES:
+:ID:       23050dcb-a29f-4039-975c-912c77a7b353
+:ROAM_REFS: https://wiki.archlinux.org/title/Font_configuration
+:END:
+
+#+begin_quote
+  Fontconfig is a library designed to provide a list of available fonts to applications, as well as configuration for how fonts get rendered.  The FreeType library renders fonts based on this configuration.  The freetype2 font rendering package includes the bytecode interpreter (BCI) enabled for better font rendering, especially with an LCD monitor.  See #Fontconfig configuration and Font configuration/Examples.
+  Although Fontconfig is used often in modern Unix and Unix-like operating systems, some applications rely on the original method of font selection and display, the X Logical Font Description.
+#+end_quote
+
+See also:
+*** [[id:71db43c6-1a39-4e98-8cb9-1305958a5978][FreeType]]
+** (www.linuxfromscratch.org) Tuning Fontconfig                     :website:
+:PROPERTIES:
+:ID:       db089c5f-15c7-4e7c-8eef-fdb5d391a102
+:ROAM_REFS: https://www.linuxfromscratch.org/blfs/view/svn/x/tuning-fontconfig.html
+:END:
+* Linux Font Handling
+:PROPERTIES:
+:ID:       8555b189-29a5-45de-a3b8-f607759bb901
+:END:
+
+How [[id:bf0bc2d7-17df-413c-823b-93904faffc58][Linux]] handles font rendering.
+** (wiki.gentoo.org) Fonts - Gentoo wiki                            :website:
+:PROPERTIES:
+:ID:       c3579d32-363c-4800-a255-37e070d41b24
+:ROAM_REFS: https://wiki.gentoo.org/wiki/Fonts
+:END:
+
+#+begin_quote
+  Fonts are a core part of the system and are necessary in order to represent text on a display.
+  The best starting point for general information about configuration, use and management of fonts on Gentoo, particularly for software running under X or a Wayland compositor (including terminal emulators), is the Fontconfig page.
+#+end_quote
+
+See also:
+*** [[id:1899f0db-5e4e-44fe-8d13-c8a2760f94a1][(wiki.gentoo.org) Fontconfig - Gentoo wiki]]
+*** [[id:df42dbd3-dd99-42ad-bad9-4e5ab48b721e][(wiki.gentoo.org) Fonts/Console - Gentoo wiki]]
+*** [[id:aca3027d-14d0-43e1-ab13-de86640ed0c8][(wiki.gentoo.org) Fonts/Software - Gentoo wiki]]
+*** [[id:9a533362-6ccb-4eea-a4ca-e9f2db1d4955][(mrandri19.github.io) Modern text rendering with Linux: Overview | Home]]
+** [[id:bdd9ee2d-b0ad-4935-bd45-76bab9d4e382][Fontconfig]]
+** Tools for working with fonts on Linux
+*** [[id:3681e8da-7fe6-4ce0-98c8-7384de6ce324][ftview]]
+*** [[id:1d78f3a4-ed38-486a-b23c-558ef96a91c2][(github.com) FontManager/font-manager]]

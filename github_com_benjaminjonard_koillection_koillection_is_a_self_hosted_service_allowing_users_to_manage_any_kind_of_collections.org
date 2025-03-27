@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       84c2577e-3ec0-4932-b70f-192201d55a17
+:ROAM_REFS: https://github.com/benjaminjonard/koillection
+:END:
+#+title: (github.com) benjaminjonard/koillection: Koillection is a self-hosted service allowing users to manage any kind of collections.
+#+filetags: :software:organization:www:website:
+
+#+begin_quote
+  Koillection is a self-hosted collection manager created to keep track of physical (mostly) collections of any kind like books, DVDs, stamps, games...  Koillection is meant to be used for any kind of collections and doesn't come with pre-built metadata download.  But you can tailor your own HTML scraper, or you can add your own metadata freely.
+#+end_quote

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       a2bba5c7-e248-4048-a252-9204d89febff
+:ROAM_REFS: https://codeclimate.com/cc/velocity-demo-codeclimate
+:END:
+#+title: (codeclimate.com) Maximize business impact with Code Climate Velocity | Code Climate
+#+filetags: :software_development:software_as_a_service:website:
+
+#+begin_quote
+  Code Climate Velocity
+  Get the Visibility You Need to Drive Results
+
+  In order to effectively mitigate surprises and take corrective action, you need objective insight into what your engineering team is working on, how efficiently and effectively your team is working, and where things are going off-track.
+
+  Code Climate's Software Engineering Intelligence platform, Velocity, empowers leaders at all levels with the critical context and visibility needed to improve everything from efficiency and on-time delivery to code quality and developer retention.
+#+end_quote

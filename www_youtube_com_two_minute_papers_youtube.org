@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       8866f2b1-5b87-42be-ad72-93774a7b409b
+:ROAM_REFS: https://www.youtube.com/@TwoMinutePapers
+:END:
+#+title: (www.youtube.com) Two Minute Papers - YouTube
+#+filetags: :website:
+
+YouTube channel dedicated to quickly summarizing current interesting research papers.  In recent years, mostly [[id:b10990c2-d056-42f5-a4e7-145a405d9550][artificial intelligence]].

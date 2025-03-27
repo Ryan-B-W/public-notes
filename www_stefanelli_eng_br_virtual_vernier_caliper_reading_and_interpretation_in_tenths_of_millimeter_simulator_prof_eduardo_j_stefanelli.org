@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f89e54a6-54c5-4a86-8203-383dcedf4549
+:ROAM_REFS: https://www.stefanelli.eng.br/en/virtual-vernier-caliper-reading-tenths-millimeter-simulator/#swiffycontainer_1
+:END:
+#+title: (www.stefanelli.eng.br) Virtual Vernier Caliper - Reading and Interpretation in Tenths of Millimeter Simulator | Prof. Eduardo J. Stefanelli
+#+filetags: :education:metrology:website:
+
+#+begin_quote
+  ** Vernier simulator with ten divisions and in millimeter
+
+  The vernier scale is one rechnological device that raises the sensitivity of one scale when its division is subdivided.
+
+  On this simulator the scale is 1:100, that means that the graved numbers are tenth hundredth part of the meter or the centimeter—bigger marks, that were subdivided by ten—smaller marks, the millimeter.  The vernier has ten spaces between the vertical spaces, so, the instrument divides by ten the millimeter, the smaller division of the main scale, obtaining the tenth of millimeter 0.1mm.
+
+  In the metrology at metal mechanich section, this principle is used in many measurement instruments: caliper; micrometer and goniometer.
+#+end_quote
+* See Also
+** [[id:3259372b-081f-4281-ae62-e23986874161][(www.stefanelli.eng.br) Use of the Vernier Caliper - Four-Dimensional | Prof. Eduardo J. Stefanelli]]
+** [[id:320a4b21-c176-4bb6-8587-5127c07d7f02][(www.stefanelli.eng.br) Virtual Micrometer in Hundredths Millimeter - Simulator | Prof. Eduardo J. Stefanelli]]

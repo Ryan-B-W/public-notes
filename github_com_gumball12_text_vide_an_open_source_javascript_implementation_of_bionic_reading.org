@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       3c410e49-80e5-4ad2-80dc-7a5aa401fa7c
+:ROAM_REFS: https://github.com/Gumball12/text-vide
+:END:
+#+title: (github.com) Gumball12/text-vide: An Open-Source JavaScript Implementation of Bionic Reading.
+#+filetags: :open_source:accessibility:fonts:website:
+
+#+begin_quote
+  An Open-Source JavaScript Implementation of Bionic Reading.
+#+end_quote

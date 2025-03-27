@@ -1,0 +1,53 @@
+:PROPERTIES:
+:ID:       03b037a0-92e1-4a0f-829b-01c81a225e35
+:ROAM_REFS: https://trekarta.info/
+:END:
+#+title: (trekarta.info) Trekarta (former MapTrek)
+#+filetags: :open_source:software:android_os:maps:mobile_app:website:
+
+#+begin_quote
+  * Trekarta
+
+  Simple, responsive map for your trek.
+  You decide how to journey today,
+  not the application!
+
+  ** Trekarta is designed for hiking, geocaching, off-roading, cycling, boating and all other outdoor activities.  It uses offline maps so you do not need to have internet connection.  You can easily import points and tracks from GPX and KML data formats or create places in application and share them to others.  It lets you write the track of your journey, even in background, so you will never get lost and be able later see where you've been.
+
+  - [[https://trekarta.info/#maps][Maps]]
+  - [[https://trekarta.info/#hiking][Hiking]]
+  - [[https://trekarta.info/#skiing][Skiing]]
+  - [[https://trekarta.info/#offroad][Off-road]]
+  - [[https://trekarta.info/#places][Places]]
+  - [[https://trekarta.info/#tracks][Tracks]]
+
+  *** Offline maps
+
+  Trekarta uses OpenStreetMap based vector maps that are lightweight, offline and are constantly enhanced by contributors.  Maps contain detailed topological data with elevation contours.  Some map elements can be filtered out for cleaner look.  Trekarta has built-in hillshades support.  You can add custom maps in /sqlite/ or /mbtiles/ format to cover your area of interest.  Custom maps will be shaded as well.  Such maps can be created by yourself with SAS.Planet application from mostly any online source or converted with MapTiler and other applications from other map formats.
+
+  *** Hiking
+
+  Special hiking activity mode emphasises paths and tracks on map.  It visualizes path difficulty and visibility and displays hiking routes.  It also displays special OSMC symbols that help you identify desired route.
+
+  *** Skiing and skating
+
+  Skiing activity mode displays clean winter map with mostly all skiing activities: downhill, nordic, hiking and touring.  As a bonus freestyle snow-boarding, skating and sleighing areas are displayed.
+
+  *** Off-road
+
+  Unpaved, dirt, winter and ice roads are specially visualized.  4wd only roads have specific marking.  Fords are displayed on all roads, even primary.
+
+  *** Places
+
+  Places can be easily imported from GPX and KML files or can be created within application.  You can navigate to points and share them with others.
+
+  *** Tracks
+
+  Trekarta is designed to record tracks of your journey.  Simply press a button when you start and press it once more when you finish.  You can quit the application if you do not need to look at the map, the track will be recorded in the background.
+
+  ** Trekarta is an open source software
+
+  Trekarta is developed as a hobby for personal use but is generously shared to public on as-is basis.  Developers are welcome to contribute to the project.  Specifically experts in OpenGL are much needed.
+
+  The development is managed on GitHub, there you can find the source code and the list of [[https://github.com/andreynovikov/trekarta/issues][open issues]].  You are welcome to join beta testing program by following the link: [[https://play.google.com/apps/testing/mobi.maptrek]].
+#+end_quote

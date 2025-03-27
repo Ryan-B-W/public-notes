@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       d6cafd89-3c22-4058-8d9e-c266533c330d
+:ROAM_REFS: https://en.wikipedia.org/wiki/Netbook
+:END:
+#+title: (en.wikipedia.org) Netbook - Wikipedia
+#+filetags: :electronics:website:
+
+A subtype of [[id:9f6589f5-4fa8-42ce-af90-012ea90fe9f7][Subnotebook]].
+
+#+begin_quote
+  A *netbook* is a small-sized [[https://en.wikipedia.org/wiki/Laptop][laptop computer]]; they were primarily sold from 2007 until around 2013, designed mostly as a [[https://en.wikipedia.org/wiki/Internet_appliance][means of accessing the Internet]] and being significantly less expensive.
+
+  At their inception in late 2007, as smaller-than-typical laptop computers optimized for low weight and low cost, netbooks began appearing without certain then-standard laptop features (such as [[https://en.wikipedia.org/wiki/Optical_disc_drive][an optical drive]]), and with less computing power than in full-sized laptops.  They ranged in size from about 5" screen diagonal to 12", with a typical weight of about 1 kg (2.2 pounds), and were often significantly less expensive than other laptops.  Soon after their appearance, netbooks grew in size and features, and converged with smaller laptops and [[https://en.wikipedia.org/wiki/Subnotebook][subnotebooks]] until the specifications were so similar that there was little distinction between the devices.  At their peak, the low cost gave them a significant portion of the laptop computer market.
+
+  When [[https://en.wikipedia.org/wiki/Windows_7][Windows 7]] released, netbook manufacturers had to increase specifications in order for their devices to run it.  This had the effect of pushing netbooks into a [[https://en.wikipedia.org/wiki/Niche_market][market niche]] where they had few distinctive advantages over traditional laptops.  With these constraints and the increasing popularity of [[https://en.wikipedia.org/wiki/Tablet_computer][tablet computers]] in 2011, it led to declining sales of netbooks.  By the end of 2012, few new laptops were marketed as "netbooks", and the term disappeared from common usage.
+#+end_quote

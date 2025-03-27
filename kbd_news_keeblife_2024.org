@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       7da084d9-596b-4ef6-ab49-2ca8d5e1695e
+:ROAM_REFS: https://kbd.news/meetup/Keeblife-2024-184.html
+:END:
+#+title: (kbd.news) Keeblife 2024
+#+filetags: :events:keyboard:website:

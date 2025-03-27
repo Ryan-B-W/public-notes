@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       b64d57fc-1fa0-4311-b3a4-9ea1a06647f8
+:ROAM_REFS: https://www.mheducation.com/highered/product/Essentials-of-Corporate-Finance-Ross.html
+:END:
+#+title: (www.mheducation.com) Essentials of Corporate Finance
+#+filetags: :finance:books:website:

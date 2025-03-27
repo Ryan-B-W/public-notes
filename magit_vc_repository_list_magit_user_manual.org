@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       d3be0300-c0d8-42c9-97c7-3c0bd87fb87d
+:ROAM_REFS: https://magit.vc/manual/magit/Repository-List.html
+:END:
+#+title: (magit.vc) Repository List (Magit User Manual)
+#+filetags: :documentation:software:version_control:emacs_lisp:lisp:emacs:website:
+

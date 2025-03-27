@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       3d32daf7-61e9-4b22-b040-d5d5c39f332f
+:ROAM_REFS: https://github.com/termux/termux-language-server
+:END:
+#+title: (github.com) termux/termux-language-server: 🛠️ A language server for some specific bash scripts
+#+filetags: :development_environment:software:programming:website:
+
+#+begin_quote
+  Language server for some specific bash scripts:
+   - Android Termux
+     - build.sh
+     - *.subpackage.sh
+   - ArchLinux/Windows Msys2
+     - PKGBUILD
+     - *.install
+     - makepkg.conf
+   - Gentoo
+     - *.ebuild
+     - *.eclass
+     - make.conf
+     - color.map
+   - Debian/Ubuntu
+     - devscripts.conf and .devscripts
+   - zsh
+     - *.mdd
+#+end_quote

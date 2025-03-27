@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       06e71de7-aa32-4e41-b340-c3b41a5b924d
+:ROAM_REFS: https://www.reddit.com/r/orgmode/comments/nvv1ze/capture_from_web_pages_orgroam/
+:END:
+#+title: (www.reddit.com) Capture from web pages & org-roam : r/orgmode
+#+filetags: :information_management:emacs:website:

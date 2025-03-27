@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       61f0387a-010e-40fa-8e99-9241e0fc978a
+:ROAM_REFS: https://finance.wharton.upenn.edu/~stambaug/Mispricing_Measure_Documentation.pdf
+:END:
+#+title: (finance.wharton.upenn.edu) Mispricing_Measure_Documentation.DVI - Mispricing_Measure_Documentation.pdf
+#+filetags: :mime_type_application_pdf:article:finance:website:

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       6a05e138-0368-41c7-879c-240e1576fa1d
+:ROAM_REFS: https://en.wikipedia.org/wiki/TempleOS
+:END:
+#+title: (en.wikipedia.org) TempleOS - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  *TempleOS* (formerly *J Operating System*, *LoseThos*, and *SparrowOS*) is a [[https://en.wikipedia.org/wiki/Bible][biblical]]-themed lightweight [[https://en.wikipedia.org/wiki/Operating_system][operating system]] (OS) designed to be the [[https://en.wikipedia.org/wiki/Third_Temple][Third Temple]] prophesized in the Bible.  It was created by American programmer [[https://en.wikipedia.org/wiki/Terry_A._Davis][Terry A. Davis]], who developed it alone over the course of a decade after a series of [[https://en.wikipedia.org/wiki/Mania#Signs_and_symptoms][manic episodes]] that he later described as a [[https://en.wikipedia.org/wiki/Revelation][revelation]] from God.
+
+  The system was characterized as a modern [[https://en.wikipedia.org/wiki/X86-64][x86-64]] [[https://en.wikipedia.org/wiki/Commodore_64][Commodore 64]], using an interface similar to a mixture of [[https://en.wikipedia.org/wiki/DOS][DOS]] and [[https://en.wikipedia.org/wiki/Turbo_C][Turbo C]].  Davis proclaimed that the system's features, such as its 640x480 resolution, 16-color display, and single-voice audio, were designed according to explicit instructions from God.  It was programmed with an original variation of [[https://en.wikipedia.org/wiki/C_(programming_language)][C]]/[[https://en.wikipedia.org/wiki/C++][C++]] (named [[https://en.wikipedia.org/wiki/TempleOS#Holy_C][HolyC]]) in place of [[https://en.wikipedia.org/wiki/BASIC][BASIC]], and included an original [[https://en.wikipedia.org/wiki/Flight_simulation_video_game][flight simulator]], [[https://en.wikipedia.org/wiki/Compiler][compiler]], and [[https://en.wikipedia.org/wiki/Kernel_(operating_system)][kernel]].
+
+  First released in 2005 as J Operating System, TempleOS was renamed in 2013 and was last updated in 2017.
+#+end_quote

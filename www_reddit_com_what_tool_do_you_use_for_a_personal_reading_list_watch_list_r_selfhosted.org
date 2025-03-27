@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9f6c6cd7-7008-4fcc-9d7c-251f03ab4c02
+:ROAM_REFS: https://www.reddit.com/r/selfhosted/comments/17drv3f/what_tool_do_you_use_for_a_personal_reading_list/
+:END:
+#+title: (www.reddit.com) What tool do you use for a personal reading list / watch list? : r/selfhosted
+#+filetags: :www:software:forums:website:
+
+Sites linked to from comments:
+* [[id:3fa283cf-2d75-489c-aac0-25f07f202557][(github.com) IgnisDa/ryot: Roll your own tracker!]]
+* [[id:5df34769-9c97-4c37-af61-ceec6119f823][(github.com) bonukai/MediaTracker: Self hosted media tracker for movies, tv shows, video games, books and audiobooks]]
+* [[id:55161338-cdf7-4289-b2b8-38f5ae1954fb][(github.com) wars2k/booktracker: Selfhosted app for organizing your library and tracking your reading habits.]]

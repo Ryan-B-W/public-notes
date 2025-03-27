@@ -1,0 +1,125 @@
+:PROPERTIES:
+:ID:       ab017e6e-a5e4-4cd8-82c7-6105538a85f6
+:END:
+#+title: LXQt
+#+filetags: :open_source:software:
+
+[[id:bf0bc2d7-17df-413c-823b-93904faffc58][Linux]] desktop environment forked from [[id:8c5805fc-efff-4036-beea-6a482bec8728][LXDE]] and uses the [[id:54112cdb-7d52-425d-ab76-f2494035a609][Qt Widget Toolkit]] instead of [[id:0682b89b-3d34-4ef5-b703-1c70d435173f][GTK Widget Toolkit]].
+* (lxqt-project.org) LXQt - The Lightweight Qt Desktop Environment  :website:
+:PROPERTIES:
+:ID:       8b71c8d0-0fc2-48b8-b51d-bc0293ae7b3f
+:ROAM_REFS: https://lxqt-project.org/
+:END:
+** (lxqt-project.org) Screenshots | LXQt
+:PROPERTIES:
+:ID:       2206205a-3dba-4dc5-8f09-8506020d543c
+:ROAM_REFS: https://lxqt-project.org/screenshots/
+:END:
+
+#+begin_quote
+  * Screenshots
+
+  Some LXQt themes with different configurations.
+
+  The settings of LXQt-Panel, Desktop and Appearance offer many possibilities for individual customizations.  More information about theming can be found in the [[https://github.com/lxqt/lxqt/wiki/Theming][LXQt Wiki]].
+#+end_quote
+* (github.com) Home · lxqt/lxqt Wiki                                :website:
+:PROPERTIES:
+:ID:       d837763c-d84f-4745-bf5c-be304abb9834
+:ROAM_REFS: https://github.com/lxqt/lxqt/wiki
+:END:
+
+#+begin_quote
+  * Home
+
+  ** Welcome to the LXQt wiki
+
+  This is the wiki of [[https://lxqt-project.org/][the LXQt project]], which is the fusion of the [[https://blog.lxde.org/2013/07/03/lxde-qt-preview/][LXDE-Qt]] and [[https://github.com/Razor-qt/razor-qt][Razor-qt]] projects, as well as the continuation of [[https://www.lxde.org/][the LXDE project]].
+
+  *** Introduction
+
+  LXQt is a free and open source lightweight [[https://en.wikipedia.org/wiki/Desktop_environment][desktop environment]].
+#+end_quote
+** (github.com) Theming · lxqt/lxqt Wiki
+:PROPERTIES:
+:ID:       d405201a-804f-436b-b25b-983bb25731a1
+:ROAM_REFS: https://github.com/lxqt/lxqt/wiki/Theming
+:END:
+
+#+begin_quote
+  * Theming
+
+  ** LXQt themes
+
+  LXQt themes are [[http://doc.qt.io/qt-4.8/stylesheet.html][qss stylesheets]].  They are either located in =/usr/share/lxqt/themes/= or =~/.local/share/lxqt/themes=.
+#+end_quote
+*** (gitlab.com) Mahe / LXQt Breeze Theme · GitLab
+:PROPERTIES:
+:ID:       62cc8d51-da7e-4bc8-83eb-22927b20fd77
+:ROAM_REFS: https://gitlab.com/M4he/lxqt-theme-breeze
+:END:
+
+#+begin_quote
+  * LXQt Breeze Theme
+
+  An LXQt theme inspired by KDE/Plasma and Breeze based on the redesign of Breeze in Plasma 5.24 and later.  Comes in a dark and light variant.  It was originally based on the included "KDE-Plasma" theme of LXQt and has been modified to include a dark theme, apply consistent styling throughout all widgets using a variable-based build process and apply Breeze-inspired styling to many elements not covered by the original theme.
+#+end_quote
+*** (www.opendesktop.org) QTStep - OpenDesktop.org
+:PROPERTIES:
+:ID:       e85555a8-f96e-4970-812c-eb9d8dd6e69b
+:ROAM_REFS: https://www.opendesktop.org/p/1211687/
+:END:
+
+#+begin_quote
+  *Description:*
+
+  An LXQt theme to resemble the square tiles from the WindowMaker/GNUStep environment.  The tiles share the titlebar colors of the aurorae or xfwm4 themes of the same name.  I included the 'source' version of the theme, it contains scripts so you can generate different variants.
+#+end_quote
+*** (www.opendesktop.org) LXQt Themes - OpenDesktop.org
+:PROPERTIES:
+:ID:       a338ae0c-28ad-4a99-b89d-893aabdc5b89
+:ROAM_REFS: https://www.opendesktop.org/browse?cat=446
+:END:
+**** (www.opendesktop.org) Windows 98 theme for LXQt - OpenDesktop.org
+:PROPERTIES:
+:ID:       e13cd3c1-9d1f-4a8a-a146-4bde2d31e85e
+:ROAM_REFS: https://www.opendesktop.org/p/2113541
+:END:
+
+#+begin_quote
+  *Description:*
+
+  Modified version of the Windows Classic theme by PixelOCDguy, which can be found here:
+  https://www.opendesktop.org/p/1718306
+  It's changed to have its colors resemble more the actual Windows classic colors, insted of the Windows default from 2000/ME/XP, and the start menu banner was changed to Windows 98's
+#+end_quote
+**** (www.opendesktop.org) Clearlooks-LXQt - OpenDesktop.org
+:PROPERTIES:
+:ID:       3500c1e7-5da2-4093-883a-685f021f1a97
+:ROAM_REFS: https://www.opendesktop.org/p/1388153
+:END:
+
+#+begin_quote
+  *Description:*
+
+  This is one of those things I'm really surprised no one's made yet: a Clearlooks-inspired LXQt theme.  It only took a couple of hours to make, and I'm hoping it will eventually get added into LXQt proper to help it blend in with existing programs and themes.  LXQt's panel, like the standalone tint2 taskbar, offers almost unlimited theming potential; I expect to build on this as a base and perhaps release more adventurous themes as time goes on.
+#+end_quote
+**** (www.opendesktop.org) Win10 - OpenDesktop.org
+:PROPERTIES:
+:ID:       4f084055-b857-4483-9ba8-f2970cc6d018
+:ROAM_REFS: https://www.opendesktop.org/p/1319223/
+:END:
+
+#+begin_quote
+  *Description:*
+
+  - Bismillah
+  - Theme is modified by hendra (hendra_mayendra@yahoo.co.id)
+  - Theme inspired by Windows 10 (c) Microsoft
+  - Buttons from Lubuntu Arc LXQT theme
+  - Based on dark LXQT theme
+  - Bigger start menu
+
+  For best result, combine it with this icons theme https://www.pling.com/p/1319212/ and
+  this openbox theme https://www.pling.com/p/1319225/
+#+end_quote

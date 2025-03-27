@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       aaa1085d-165a-40e5-84e5-60e94ddf1ce2
+:ROAM_REFS: https://www.artifactsmmo.com/
+:END:
+#+title: (www.artifactsmmo.com) Artifacts - API-Based MMORPG Game for programmers
+#+filetags: :games:website:
+
+#+begin_quote
+  * code lovers.
+
+  Artifacts is a Sandbox MMORPG where you can use any programming language to control your characters with our API.
+#+end_quote

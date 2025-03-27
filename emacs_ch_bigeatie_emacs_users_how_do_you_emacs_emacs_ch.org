@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       dddbc370-97e4-4ad2-b0a9-de5c9f957b33
+:ROAM_REFS: https://emacs.ch/@bigeatie/112180778398353837
+:END:
+#+title: (emacs.ch) BigEatie: "#Emacs users, how do you emacs…" - Emacs.ch
+#+filetags: :emacs:social_media:website:
+
+Mastodon poll results:
+#+begin_quote
+  61% Vanilla Keybindings
+  28% Evil Keybindings
+  4% Meow Mode
+  2% God Mode
+  5% Other (please comment)
+#+end_quote

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       f3e2f666-1d6d-4888-99ad-9c66c57b25b1
+:ROAM_REFS: https://priyank-vaghela.github.io/Awesome-Bookmarklets/
+:END:
+#+title: (priyank-vaghela.github.io) List of Awesome Bookmarklets :rocket: | Awesome-Bookmarklets
+#+filetags: :lists:www:website:

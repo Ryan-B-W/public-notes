@@ -1,0 +1,319 @@
+:PROPERTIES:
+:ID:       b7cbaaeb-6e1c-46d0-bf3d-f6fd1401b4d9
+:END:
+#+title: C++ Concurrency in Action by Anthony Williams
+#+filetags: :education_resource:cpp_lang:programming:computer_science:books:
+
+* (www.cplusplusconcurrencyinaction.com) C++ Concurrency in Action by Anthony Williams :website:
+:PROPERTIES:
+:ID:       c13556a2-1308-458b-b614-17e5e417685d
+:ROAM_REFS: http://www.cplusplusconcurrencyinaction.com/
+:END:
+
+#+begin_quote
+  C++ Concurrency in Action (second edition, published 2019 by Manning Publications) is the definitive reference and guide to writing multithreaded code with Standard C++.  It is suitable for all levels of C++ programmers, including those who have never previously written any multithreaded code.  This book will show you how to write robust multithreaded applications in C++ while avoiding common pitfalls.
+
+  #+begin_quote
+  It's not just the best current treatment of C++11's threading facilities ... it's likely to remain the best for some time to come.[[http://scottmeyers.blogspot.co.uk/2012/04/information-on-c11-memory-model.html][Scott Meyers]]
+  #+end_quote
+
+  #+begin_quote
+  This book should be on every C++ programmer's desk.  It's clear, concise, and valuable.Rob Green, Bowling Green State University
+  #+end_quote
+
+  ** Overview
+
+  Systems with multiple processors or processors with multiple cores are the norm these days; even many phones have multicore processors.  To take advantage of these processor cores you need to use concurrency, either in the form of multiple processes or multiple threads.
+
+  The C++17 standard provides extensive support for writing multithreaded code to take advantage of these multicore and multiprocessor systems.  C++ Concurrency in Action explains how these facilities work, and how to use them to best effect.
+
+  This book provides a tutorial covering the use of the library facilities introduced in the last three C++ standards.  It covers everything from the basics such as =std::thread=, =std::future= and =std::condition_variable=, to an in-depth description of the new memory model and =std::atomic= classes for low level synchronization and the new C++17 parallel algorithms.  In later chapters, the book then goes on to cover the design of multithreaded code, including lock-free data structures and thread pools.  Finally, there is a chapter on testing and debugging multithreaded applications.
+
+  It doesn't stop there though: the appendices include a brief overview of the some of the C++ language features either used by the multithreading facilties, or commonly used in conjunction with them, such as variadic templates, lambda functions and rvalue references, as well as a 150 page reference covering every class and function in the C++ Standard Thread Library.  The book also covers the additional facilities from the Concurrency TS that aren't yet part of the main C++ standard.
+
+  *** Additional material in the second edition
+
+  In addition to all the material from the first edition, the second edition (published in 2019) includes full coverage of the library changes from C++14 and C++17:
+
+  - =std::shared_mutex= and =std::shared_timed_mutex=.  These provide for multiple-reader/single-writer mutex locks.
+  - =std::scoped_lock= from C++17 for locking multiple mutexes together.
+  - Parallel overloads of many standard library algorithms include =std::sort=, =std::for_each= and =std::transform_reduce=.
+
+  Plus, full coverage of the library extensions from the concurrency TS:
+
+  - =std::experimental::latch= to allow waiting for a set number of events to occur
+  - =std::experimental::barrier= and =std::experimental::flex_barrier= to synchronize groups of threads
+  - =std::experimental::atomic_shared_ptr= to allow atomic accesses to a single =shared_ptr= instance from multiple threads, as a better alternative that the =std::atomic_load= and =std::atomic_store= free functions.
+  - Extended futures that allow continuations, so additional functions can be scheduled for when a future is ready.
+  - =std::experimental::when_all= and =std::experimental::when_any= to allow waiting for either all of a set of futures to be ready, or the first of a set of futures to be ready.
+#+end_quote
+* (www.manning.com) C++ Concurrency in Action, Second Edition       :website:
+:PROPERTIES:
+:ID:       87dc353e-753f-4f80-b8d5-6a3e5dcb9624
+:ROAM_REFS: https://www.manning.com/books/c-plus-plus-concurrency-in-action-second-edition
+:END:
+
+#+begin_quote
+  C++ Concurrency in Action, Second Edition
+
+  Anthony Williams
+
+  - February 2019
+  - ISBN 9781617294693
+  - 592 pages
+
+  This bestseller has been updated and revised to cover all the latest changes to C++ 14 and 17! /C++ Concurrency in Action, Second Edition/ teaches you everything you need to write robust and elegant multithreaded applications in C++17.
+
+  ** about the technology
+
+  You choose C++ when your applications need to run fast. Well-designed concurrency makes them go even faster. C++ 17 delivers strong support for the multithreaded, multiprocessor programming required for fast graphic processing, machine learning, and other performance-sensitive tasks. This exceptional book unpacks the features, patterns, and best practices of production-grade C++ concurrency.
+
+  ** about the book
+
+  /C++ Concurrency in Action, Second Edition/ is the definitive guide to writing elegant multithreaded applications in C++. Updated for C++ 17, it carefully addresses every aspect of concurrent development, from starting new threads to designing fully functional multithreaded algorithms and data structures. Concurrency master Anthony Williams presents examples and practical tasks in every chapter, including insights that will delight even the most experienced developer.
+
+  ** what's inside
+
+  - Full coverage of new C++ 17 features
+  - Starting and managing threads
+  - Synchronizing concurrent operations
+  - Designing concurrent code
+  - Debugging multithreaded applications
+
+  ** about the reader
+
+  Written for intermediate C and C++ developers. No prior experience with concurrency required.
+
+  ** about the author
+
+  *Anthony Williams* has been an active member of the BSI C++ Panel since 2001 and is the developer of the just::thread Pro extensions to the C++ 11 thread library.
+
+  ** table of contents
+
+  You can see this entire book for free. Click anywhere in the table of contents to start reading
+
+  *** [[https://livebook.manning.com/book/c-plus-plus-concurrency-in-action-second-edition/chapter-1?origin=product-toc][1 Hello, world of concurrency in C+!]]
+  **** 1.1 What is concurrency?
+  ***** 1.1.1 Concurrency in computer systems
+  ***** 1.1.2 Approaches to concurrency
+  ***** 1.1.3 Concurrency vs. Parallelism
+  **** 1.2 Why use concurrency?
+  ***** 1.2.1 Using concurrency for separation of concerns
+  ***** 1.2.2 Using concurrency for performance: task parallelism and data parallelism
+  ***** 1.2.3 When not to use concurrency
+  **** 1.3 Concurrency and multithreading in C+
+  ***** 1.3.1 History of multithreading in C+
+  ***** 1.3.2 Concurrency support in the C+11 standard
+  ***** 1.3.3 More support for concurrency and parallelism in C+14 and C+17
+  ***** 1.3.4 Efficiency in the C+ Thread Library
+  ***** 1.3.5 Platform-specific facilities
+  **** 1.4 Getting started
+  ***** 1.4.1 Hello, Concurrent World
+  **** 1.5 Summary
+  *** [[https://livebook.manning.com/book/c-plus-plus-concurrency-in-action-second-edition/chapter-2?origin=product-toc][2 Managing threads]]
+  **** 2.1 Basic thread management
+  ***** 2.1.1 Launching a thread
+  ***** 2.1.2 Waiting for a thread to complete
+  ***** 2.1.3 Waiting in exceptional circumstances
+  ***** 2.1.4 Running threads in the background
+  **** 2.2 Passing arguments to a thread function
+  **** 2.3 Transferring ownership of a thread
+  **** 2.4 Choosing the number of threads at runtime
+  **** 2.5 Identifying threads
+  **** 2.6 Summary
+  *** [[https://livebook.manning.com/book/c-plus-plus-concurrency-in-action-second-edition/chapter-3?origin=product-toc][3 Sharing data between threads]]
+  **** 3.1 Problems with sharing data between threads
+  ***** 3.1.1 Race conditions
+  ***** 3.1.2 Avoiding problematic race conditions
+  **** 3.2 Protecting shared data with mutexes
+  ***** 3.2.1 Using mutexes in C+
+  ***** 3.2.2 Structuring code for protecting shared data
+  ***** 3.2.3 Spotting race conditions inherent in interfaces
+  ***** 3.2.4 Deadlock: the problem and a solution
+  ***** 3.2.5 Further guidelines for avoiding deadlock
+  ***** 3.2.6 Flexible locking with =std::unique_lock=
+  ***** 3.2.7 Transferring mutex ownership between scopes
+  ***** 3.2.8 Locking at an appropriate granularity
+  **** 3.3 Alternative facilities for protecting shared data
+  ***** 3.3.1 Protecting shared data during initialization
+  ***** 3.3.2 Protecting rarely updated data structures
+  ***** 3.3.3 Recursive locking
+  **** 3.4 Summary
+  *** [[https://livebook.manning.com/book/c-plus-plus-concurrency-in-action-second-edition/chapter-4?origin=product-toc][4 Synchronizing concurrent operations]]
+  **** 4.1 Waiting for an event or other condition
+  ***** 4.1.1 Waiting for a condition with condition variables
+  ***** 4.1.2 Building a thread-safe queue with condition variables
+  **** 4.2 Waiting for one-off events with futures
+  ***** 4.2.1 Returning values from background tasks
+  ***** 4.2.2 Associating a task with a future
+  ***** 4.2.3 Making (=std::=)promises
+  ***** 4.2.4 Saving an exception for the future
+  ***** 4.2.5 Waiting from multiple threads
+  **** 4.3 Waiting with a time limit
+  ***** 4.3.1 Clocks
+  ***** 4.3.2 Durations
+  ***** 4.3.3 Time points
+  ***** 4.3.4 Functions that accept timeouts
+  **** 4.4 Using synchronization of operations to simplify code
+  ***** 4.4.1 Functional programming with futures
+  ***** 4.4.2 Synchronizing operations with message passing
+  ***** 4.4.3 Continuation-style concurrency with the Concurrency TS
+  ***** 4.4.4 Chaining continuations
+  ***** 4.4.5 Waiting for more than one future
+  ***** 4.4.6 Waiting for the first future in a set with when_any
+  ***** 4.4.7 Latches and barriers in the Concurrency TS
+  ***** 4.4.8 A basic latch type: =std::experimental::latch=
+  ***** 4.4.9 =std::experimental::barrier:= a basic barrier
+  ***** 4.4.10 =std::experimental::flex_barrier—​std::experimental::barrier= 's flexible friend
+  **** 4.5 Summary
+  *** [[https://livebook.manning.com/book/c-plus-plus-concurrency-in-action-second-edition/chapter-5?origin=product-toc][5 The C+ memory model and operations on atomic types]]
+  **** 5.1 Memory model basics
+  ***** 5.1.1 Objects and memory locations
+  ***** 5.1.2 Objects, memory locations, and concurrency
+  ***** 5.1.3 Modification orders
+  **** 5.2 Atomic operations and types in C+
+  ***** 5.2.1 The standard atomic types
+  ***** 5.2.2 Operations on =std::atomic_flag=
+  ***** 5.2.3 Operations on =std::atomic<bool>=
+  ***** 5.2.4 Operations on =std::atomic<T*>:= pointer arithmetic
+  ***** 5.2.5 Operations on standard atomic integral types
+  ***** 5.2.6 The =std::atomic<>= primary class template
+  ***** 5.2.7 Free functions for atomic operations
+  **** 5.3 Synchronizing operations and enforcing ordering
+  ***** 5.3.1 The synchronizes-with relationship
+  ***** 5.3.2 The happens-before relationship
+  ***** 5.3.3 Memory ordering for atomic operations
+  ***** 5.3.4 Release sequences and synchronizes-with
+  ***** 5.3.5 Fences
+  ***** 5.3.6 Ordering non-atomic operations with atomics
+  ***** 5.3.7 Ordering non-atomic operations
+  **** 5.4 Summary
+  *** [[https://livebook.manning.com/book/c-plus-plus-concurrency-in-action-second-edition/chapter-6?origin=product-toc][6 Designing lock-based concurrent data structures]]
+  **** 6.1 What does it mean to design for concurrency?
+  ***** 6.1.1 Guidelines for designing data structures for concurrency
+  **** 6.2 Lock-based concurrent data structures
+  ***** 6.2.1 A thread-safe stack using locks
+  ***** 6.2.2 A thread-safe queue using locks and condition variables
+  ***** 6.2.3 A thread-safe queue using fine-grained locks and condition variables
+  **** 6.3 Designing more complex lock-based data structures
+  ***** 6.3.1 Writing a thread-safe lookup table using locks
+  ***** 6.3.2 Writing a thread-safe list using locks
+  **** 6.4 Summary
+  *** [[https://livebook.manning.com/book/c-plus-plus-concurrency-in-action-second-edition/chapter-7?origin=product-toc][7 Designing lock-free concurrent data structures]]
+  **** 7.1 Definitions and consequences
+  ***** 7.1.1 Types of nonblocking data structures
+  ***** 7.1.2 Lock-free data structures
+  ***** 7.1.3 Wait-free data structures
+  ***** 7.1.4 The pros and cons of lock-free data structures
+  **** 7.2 Examples of lock-free data structures
+  ***** 7.2.1 Writing a thread-safe stack without locks
+  ***** 7.2.2 Stopping those pesky leaks: managing memory in lock-free data structures
+  ***** 7.2.3 Detecting nodes that can't be reclaimed using hazard pointers
+  ***** 7.2.4 Detecting nodes in use with reference counting
+  ***** 7.2.5 Applying the memory model to the lock-free stack
+  ***** 7.2.6 Writing a thread-safe queue without locks
+  **** 7.3 Guidelines for writing lock-free data structures
+  ***** 7.3.1 Guideline: use =std::memory_order_seq_cst= for prototyping
+  ***** 7.3.2 Guideline: use a lock-free memory reclamation scheme
+  ***** 7.3.3 Guideline: watch out for the ABA problem
+  ***** 7.3.4 Guideline: identify busy-wait loops and help the other thread
+  **** 7.4 Summary
+  *** [[https://livebook.manning.com/book/c-plus-plus-concurrency-in-action-second-edition/chapter-8?origin=product-toc][8 Designing concurrent code]]
+  **** 8.1 Techniques for dividing work between threads
+  ***** 8.1.1 Dividing data between threads before processing begins
+  ***** 8.1.2 Dividing data recursively
+  ***** 8.1.3 Dividing work by task type
+  **** 8.2 Factors affecting the performance of concurrent code
+  ***** 8.2.1 How many processors?
+  ***** 8.2.2 Data contention and cache ping-pong
+  ***** 8.2.3 False sharing
+  ***** 8.2.4 How close is your data?
+  ***** 8.2.5 Oversubscription and excessive task switching
+  **** 8.3 Designing data structures for multithreaded performance
+  ***** 8.3.1 Dividing array elements for complex operations
+  ***** 8.3.2 Data access patterns in other data structures
+  **** 8.4 Additional considerations when designing for concurrency
+  ***** 8.4.1 Exception safety in parallel algorithms
+  ***** 8.4.2 Scalability and Amdahl's law
+  ***** 8.4.3 Hiding latency with multiple threads
+  ***** 8.4.4 Improving responsiveness with concurrency
+  **** 8.5 Designing concurrent code in practice
+  ***** 8.5.1 A parallel implementation of =std::for_each=
+  ***** 8.5.2 A parallel implementation of =std::find=
+  ***** 8.5.3 A parallel implementation of =std::partial_sum=
+  **** 8.6 Summary
+  *** [[https://livebook.manning.com/book/c-plus-plus-concurrency-in-action-second-edition/chapter-9?origin=product-toc][9 Advanced thread management]]
+  **** 9.1 Thread pools
+  ***** 9.1.1 The simplest possible thread pool
+  ***** 9.1.2 Waiting for tasks submitted to a thread pool
+  ***** 9.1.3 Tasks that wait for other tasks
+  ***** 9.1.4 Avoiding contention on the work queue
+  ***** 9.1.5 Work stealing
+  **** 9.2 Interrupting threads
+  ***** 9.2.1 Launching and interrupting another thread
+  ***** 9.2.2 Detecting that a thread has been interrupted
+  ***** 9.2.3 Interrupting a condition variable wait
+  ***** 9.2.4 Interrupting a wait on =std::condition_variable_any=
+  ***** 9.2.5 Interrupting other blocking calls
+  ***** 9.2.6 Handling interruptions
+  ***** 9.2.7 Interrupting background tasks on application exit
+  **** 9.3 Summary
+  *** [[https://livebook.manning.com/book/c-plus-plus-concurrency-in-action-second-edition/chapter-10?origin=product-toc][10 Parallel algorithms]]
+  **** 10.1 Parallelizing the standard library algorithms
+  **** 10.2 Execution policies
+  ***** 10.2.1 General effects of specifying an execution policy
+  ***** 10.2.2 =std::execution::sequenced_policy=
+  ***** 10.2.3 =std::execution::parallel_policy=
+  ***** 10.2.4 =std::execution::parallel_unsequenced_policy=
+  ***** 10.3 The parallel algorithms from the C+ Standard Library
+  ***** 10.3.1 Examples of using parallel algorithms
+  ***** 10.3.2 Counting visits
+  **** 10.4 Summary
+  *** [[https://livebook.manning.com/book/c-plus-plus-concurrency-in-action-second-edition/chapter-11?origin=product-toc][11 Testing and debugging multithreaded applications]]
+  **** 11.1 Types of concurrency-related bugs
+  ***** 11.1.1 Unwanted blocking
+  ***** 11.1.2 Race conditions
+  **** 11.2 Techniques for locating concurrency-related bugs
+  ***** 11.2.1 Reviewing code to locate potential bugs
+  ***** 11.2.2 Locating concurrency-related bugs by testing
+  ***** 11.2.3 Designing for testability
+  ***** 11.2.4 Multithreaded testing techniques
+  ***** 11.2.5 Structuring multithreaded test code
+  ***** 11.2.6 Testing the performance of multithreaded code
+  **** 11.3 Summary
+  ** Appendixes
+  *** [[https://livebook.manning.com/book/c-plus-plus-concurrency-in-action-second-edition/appendix-a?origin=product-toc][Appendix A: Brief reference for some C+11 language features]]
+  **** A.1 Rvalue references
+  ***** A.1.1 Move semantics
+  ***** A.1.2 Rvalue references and function templates
+  **** A.2 Deleted functions
+  **** A.3 Defaulted functions
+  **** A.4 constexpr functions
+  ***** A.4.1 constexpr and user-defined types
+  ***** A.4.2 constexpr objects
+  ***** A.4.3 constexpr function requirements
+  ***** A.4.4 constexpr and templates
+  **** A.5 Lambda functions
+  ***** A.5.1 Lambda functions that reference local variables
+  **** A.6 Variadic templates
+  ***** A.6.1 Expanding the parameter pack
+  **** A.7 Automatically deducing the type of a variable
+  **** A.8 Thread-local variables
+  **** A.9 Class Template Argument Deduction
+  **** A.10 Summary
+  *** [[https://livebook.manning.com/book/c-plus-plus-concurrency-in-action-second-edition/appendix-b?origin=product-toc][Appendix B: Brief comparison of concurrency libraries]]
+  *** [[https://livebook.manning.com/book/c-plus-plus-concurrency-in-action-second-edition/appendix-c?origin=product-toc][Appendix C: A message-passing framework and complete ATM example]]
+  *** [[https://livebook.manning.com/book/c-plus-plus-concurrency-in-action-second-edition/appendix-d?origin=product-toc][Appendix D: C+ Thread Library reference]]
+
+  : This book should be on every C++ programmer's desk. It's clear, concise, and valuable.
+  Rob Green, Bowling Green State University
+
+  : A thorough presentation of C++ concurrency capabilities.
+  Maurizio Tomasi, University of Milan
+
+  : Highly recommended for programmers who want to further their knowledge of the latest C++ standard.
+  Frédéric Flayol, 4Pro Web C++
+
+  : The guide contains snippets for everyday use in your own projects and to help take your concurrency C++ skills from the Padawan to the Jedi level.
+  Jura Shikin, IVI Technologies
+#+end_quote

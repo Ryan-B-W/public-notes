@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       eaba2143-eb66-464b-b94e-915f5ed23d2c
+:ROAM_REFS: https://huntnewsnu.com/82511/editorial/op-eds/op-ed-northeasterns-redesign-of-the-khoury-curriculum-abandons-the-fundamentals-of-computer-science/
+:END:
+#+title: (huntnewsnu.com) Op-ed: Northeastern’s redesign of the Khoury curriculum abandons the fundamentals of computer science - The Huntington News
+#+filetags: :computer_science:programming:article:news:website:

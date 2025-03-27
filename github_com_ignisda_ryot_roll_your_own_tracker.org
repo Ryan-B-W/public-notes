@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       3fa283cf-2d75-489c-aac0-25f07f202557
+:ROAM_REFS: https://github.com/IgnisDa/ryot
+:END:
+#+title: (github.com) IgnisDa/ryot: Roll your own tracker!
+#+filetags: :software:organization:www:website:
+
+#+begin_quote
+  A self hosted platform for tracking various facets of your life - media, fitness etc.
+#+end_quote

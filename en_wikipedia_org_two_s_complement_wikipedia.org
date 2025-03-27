@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       5e412ce2-5e92-4ff3-90c4-1bbe39810014
+:ROAM_REFS: https://en.wikipedia.org/wiki/Two's_complement
+:END:
+#+title: (en.wikipedia.org) Two's complement - Wikipedia
+#+filetags: :computer_science:mathematics:website:
+
+#+begin_quote
+  *Two's complement* is the most common [[https://en.wikipedia.org/wiki/Signed_number_representations][method of representing signed]] (positive, negative, and zero) [[https://en.wikipedia.org/wiki/Integer_(computer_science)][integers]] on computers, and more generally, [[https://en.wikipedia.org/wiki/Fixed-point_arithmetic][fixed point binary]] values.  Two's complement uses the [[https://en.wikipedia.org/wiki/Most_significant_bit][binary digit with the /greatest/ value]] as the /sign/ to indicate whether the binary number is positive or negative; when the [[https://en.wikipedia.org/wiki/Most_significant_bit][most significant bit]] is /1/ the number is signed as negative and when the most significant bit is /0/ the number is signed as positive.  As a result, non-negative numbers are represented as themselves: 6 is 0110, zero is 0000, and −6 is 1010 (NOT 6 + 1).  Note that while the number of binary bits is fixed throughout a computation it is otherwise arbitrary.
+
+  Unlike the [[https://en.wikipedia.org/wiki/Ones'_complement][ones' complement]] scheme, the two's complement scheme has only one representation for zero.  Furthermore, arithmetic implementations can be used on signed as well as unsigned integers and differ only in the integer overflow situations.
+#+end_quote

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       93e0b7ff-84cc-44cb-a8ab-f4369be28a6f
+:ROAM_REFS: https://www.ushandball.org/
+:END:
+#+title: (www.ushandball.org) Home - US HANDBALL
+#+filetags: :sports:website:
+
+* (www.ushandball.org) Four-Wall Rulebook - US HANDBALL :rules:sports:website:
+:PROPERTIES:
+:ID:       5e1c7bd5-3fd2-43be-ac89-71e967caf885
+:ROAM_REFS: https://www.ushandball.org/four-wall-rulebook/
+:END:
+
+#+begin_quote
+  These are the official published USHA handball rules, as of January 26, 2024.  Any changes in these rules will be maintained by the USHA available in the most recent USHA Board Meeting Minutes and added to the USHA web site at www.ushandball.org.
+#+end_quote

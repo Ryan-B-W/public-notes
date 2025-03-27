@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       cc9de298-38e5-41d5-85da-9433552a3cda
+:ROAM_REFS: https://www.mheducation.com/highered/product/Statistical-Techniques-in-Business-and-Economics-Lind.html
+:END:
+#+title: (www.mheducation.com) Statistical Techniques in Business and Economics
+#+filetags: :finance:books:website:

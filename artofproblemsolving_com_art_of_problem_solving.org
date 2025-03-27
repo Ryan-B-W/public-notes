@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       64517333-1d59-456e-b431-567413e06360
+:ROAM_REFS: https://artofproblemsolving.com/
+:END:
+#+title: (artofproblemsolving.com) Art of Problem Solving
+#+filetags: :website:
+
+* (artofproblemsolving.com) MATHCOUNTS Trainer
+:PROPERTIES:
+:ID:       d2a1c6f0-9ee5-436a-a2ed-1f3a3877ba35
+:ROAM_REFS: https://artofproblemsolving.com/mathcounts_trainer
+:END:

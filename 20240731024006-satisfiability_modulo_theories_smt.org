@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       6dc0e86e-3016-4a1e-987a-569f934e9ca1
+:END:
+#+title: Satisfiability Modulo Theories (SMT)
+#+filetags: :mathematics:computer_science:
+
+SMT is the problem of determining if a mathematical formula is satisfiable.  It is a generalization of the [[id:1563348b-b611-45a4-9f7e-9ea9b70e4aad][Boolean satisfiability problem (SAT)]].
+* See Also
+** Satisfiability modulo theories - Wikipedia
+:PROPERTIES:
+:ID:       c5dfdf39-fe95-4f63-b443-778c67652aa7
+:ROAM_REFS: https://en.wikipedia.org/wiki/Satisfiability_modulo_theories
+:END:

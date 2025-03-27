@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       f9460e73-c6bf-42dd-9064-6eb677d7f7be
+:ROAM_REFS: https://www.youtube.com/watch?v=agTTZsP25Uc
+:END:
+#+title: (www.youtube.com) 7DRL Challenge 2025 - Theme Reveal - YouTube
+#+filetags: :contest:programming:games:video:website:
+
+#+begin_quote
+  The games of the 21th 7DRL Challenge are coming; from March 1st to March 9th, 2025, developers are challenged to create a complete roguelike game in 7 days!
+
+  You have about one month to consider the theme, and plan your entry!
+#+end_quote

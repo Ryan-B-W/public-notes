@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       166068cf-115f-4fd0-b664-6244a23647ad
+:ROAM_REFS: https://www.reddit.com/r/emacs/comments/v3v4j1/evil_mode_to_xah_fly_keys/
+:END:
+#+title: (www.reddit.com) evil mode to xah fly keys : r/emacs
+#+filetags: :emacs:forums:website:

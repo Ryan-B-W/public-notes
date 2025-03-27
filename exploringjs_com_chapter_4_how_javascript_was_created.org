@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       e8a28fe4-59af-4a95-8d70-295cb3cd4ebd
+:ROAM_REFS: https://exploringjs.com/es5/ch04.html
+:END:
+#+title: (exploringjs.com) Chapter 4. How JavaScript Was Created
+#+filetags: :books:javascript:www:history:website:

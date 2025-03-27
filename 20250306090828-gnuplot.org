@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       8ce71873-caf9-465a-a282-c2bd968b3dba
+:END:
+#+title: Gnuplot
+#+filetags: :statistics_and_probability:analytics:open_source:software:
+
+[[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][Open-source]] graphing and plotting software.
+* (www.gnuplot.info) gnuplot homepage                               :website:
+:PROPERTIES:
+:ID:       f5d97584-c5f3-47b8-a61a-e7c606fd12e5
+:ROAM_REFS: http://www.gnuplot.info/
+:END:
+
+#+begin_quote
+  *Gnuplot* is a portable command-line driven graphing utility for Linux, Windows, macOS, OS/2, VMS, and other platforms.  The source code is copyrighted but freely distributed (you don't have to pay for it).  It was originally created to allow scientists and students to visualize mathematical functions and data interactively, but has grown to support many non-interactive uses such as web scripting.  It is also used as a plotting engine by third-party applications like Octave.  Gnuplot has been supported and under active development since 1986.
+
+  **** Gnuplot supports many different types of 2D and 3D plots
+
+  Here is a [[http://gnuplot.sourceforge.net/demo][Gallery of demos]].
+
+  **** Gnuplot supports many different types of output
+
+  | interactive screen display:    |  | cross-platform (Qt, wxWidgets, x11) or system-specific (MS Windows, OS/2)       |
+  | direct output to file:         |  | postscript (including eps), pdf, png, gif, jpeg, LaTeX, metafont, emf, svg, ... |
+  | mouseable web display formats: |  | HTML5, svg                                                                      |
+#+end_quote
+* (en.wikipedia.org) gnuplot - Wikipedia                            :website:
+:PROPERTIES:
+:ID:       4e08c6bb-d2e9-4f26-b870-caaa7d5f59db
+:ROAM_REFS: https://en.wikipedia.org/wiki/Gnuplot
+:END:
+
+#+begin_quote
+  *gnuplot* is a [[https://en.wikipedia.org/wiki/Command-line][command-line]] and [[https://en.wikipedia.org/wiki/GUI][GUI]] program that can generate two- and three-dimensional [[https://en.wikipedia.org/wiki/Plot_(graphics)][plots]] of [[https://en.wikipedia.org/wiki/Function_(mathematics)][functions]], [[https://en.wikipedia.org/wiki/Data][data]], and [[https://en.wikipedia.org/wiki/Curve_fitting][data fits]].  The program runs on all major [[https://en.wikipedia.org/wiki/Computer][computers]] and [[https://en.wikipedia.org/wiki/Operating_system][operating systems]] ([[https://en.wikipedia.org/wiki/Linux][Linux]], [[https://en.wikipedia.org/wiki/Unix][Unix]], [[https://en.wikipedia.org/wiki/Microsoft_Windows][Microsoft Windows]], [[https://en.wikipedia.org/wiki/MacOS][macOS]], [[https://en.wikipedia.org/wiki/FreeDOS][FreeDOS]], and many others).  Originally released in 1986, its listed authors are Thomas Williams, Colin Kelley, Russell Lang, Dave Kotz, John Campbell, Gershon Elber, Alexander Woo "and many others."  Despite its name, this software is not part of the [[https://en.wikipedia.org/wiki/GNU_Project][GNU Project]].
+#+end_quote

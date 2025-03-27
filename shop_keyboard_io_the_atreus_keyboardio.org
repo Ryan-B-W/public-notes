@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       a4ed7dc6-bf05-4291-b365-df8075fec220
+:ROAM_REFS: https://shop.keyboard.io/products/keyboardio-atreus
+:END:
+#+title: (shop.keyboard.io) The Atreus – Keyboardio
+#+filetags: :store:keyboard:electronics:website:
+
+#+begin_quote
+  Until you see an Atreus in person, it's hard to comprehend just how compact it is.  But don't let that tiny package fool you.  The Atreus is a serious mechanical keyboard, with customizable firmware, full-travel keyswitches mounted in an anodized aluminum plate, PBT keycaps, and the same generous key spacing as a desktop keyboard.
+#+end_quote
+* (shop.keyboard.io) The Atreus Layout – Keyboardio
+:PROPERTIES:
+:ID:       12e757b5-d50e-40bf-9117-4b4acd436848
+:ROAM_REFS: https://shop.keyboard.io/pages/the-atreus-layout
+:END:
+* (shop.keyboard.io) Getting started with your new Atreus – Keyboardio
+:PROPERTIES:
+:ID:       6d160378-f9c5-4172-a4b3-9afc8c696f66
+:ROAM_REFS: https://shop.keyboard.io/pages/atreus-getting-started
+:END:
+
+#+begin_quote
+  Your Keyboardio Atreus works like any other USB keyboard.  You don't need any special drivers to use your keyboard with a device running macOS, Windows, Linux, ChromeOS, iOS, iPadOS, or Android.
+  We ship a 1.5 meter USB A to USB C cable in the box with the Keyboardio Atreus.  If your device doesn't have a USB A port, you will need a cable or adapter to connect your new keyboard.
+  As soon as you plug in your Keyboardio Atreus, your computer should recognize it as a keyboard.
+#+end_quote
+* (github.com) keyboardio/Chrysalis: Graphical configurator for Kaleidoscope-powered keyboards
+:PROPERTIES:
+:ID:       2a2df55d-c717-4d09-9cb3-9699cda031a0
+:ROAM_REFS: https://github.com/keyboardio/Chrysalis
+:END:
+* (github.com) Kaleidoscope/examples/Devices/Keyboardio/Atreus/Atreus.ino at master · keyboardio/Kaleidoscope
+:PROPERTIES:
+:ID:       400373cd-fdd1-42a1-8ca2-591b70643f02
+:ROAM_REFS: https://github.com/keyboardio/Kaleidoscope/blob/master/examples/Devices/Keyboardio/Atreus/Atreus.ino
+:END:
+* (kaleidoscope.readthedocs.io) Setting up your development environment — Kaleidoscope documentation
+:PROPERTIES:
+:ID:       adfeeba7-cb8c-47b5-8919-baef254d276e
+:ROAM_REFS: https://kaleidoscope.readthedocs.io/en/latest/setup_toolchain.html
+:END:
+* (shop.keyboard.io) A peek inside the Atreus – Keyboardio
+:PROPERTIES:
+:ID:       5d2e09bc-300b-4d93-8a17-738f18783990
+:ROAM_REFS: https://shop.keyboard.io/pages/a-peek-inside-the-atreus
+:END:

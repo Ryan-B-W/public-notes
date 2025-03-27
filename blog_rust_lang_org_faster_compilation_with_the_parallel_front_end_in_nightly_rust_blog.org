@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       a9c0eeef-4c10-498e-bd68-caac655d4224
+:ROAM_REFS: https://blog.rust-lang.org/2023/11/09/parallel-rustc.html
+:END:
+#+title: (blog.rust-lang.org) Faster compilation with the parallel front-end in nightly | Rust Blog
+#+filetags: :software_development:blog_post:software:website:
+
+#+begin_quote
+  The Rust compiler's front-end can now use parallel execution to significantly reduce compile times.  To try it, run the nightly compiler with the -Z threads=8 option.  This feature is currently experimental, and we aim to ship it in the stable compiler in 2024.
+
+  Keep reading to learn why a parallel front-end is needed and how it works, or just skip ahead to the How to use it section.
+#+end_quote

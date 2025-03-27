@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       81189399-1550-4b0c-88d4-eef39511d9b0
+:ROAM_REFS: https://onecompiler.com/assembly/
+:END:
+#+title: (onecompiler.com) Assembly Online Compiler & Emulator
+#+filetags: :programming:website:
+
+#+begin_quote
+  * Assembly Online Compiler
+
+  Write, Run & Share Assembly code online using OneCompiler's Assembly online compiler for free.  It's one of the robust, feature-rich online compilers for Assembly language.  Getting started with the OneCompiler's Assembly compiler is simple and pretty fast.  The editor shows sample boilerplate code when you choose language as =Assembly= and start coding.
+#+end_quote

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       0e268244-7200-426e-935a-79058a93ac0e
+:ROAM_REFS: https://clang.llvm.org/docs/ClangFormatStyleOptions.html
+:END:
+#+title: (clang.llvm.org) Clang-Format Style Options — Clang 21.0.0git documentation
+#+filetags: :documentation:programming:software_development:software:website:
+
+#+begin_quote
+  * Clang-Format Style Options
+
+  [[https://clang.llvm.org/docs/ClangFormatStyleOptions.html][Clang-Format Style Options]] describes configurable formatting style options supported by [[https://clang.llvm.org/docs/LibFormat.html][LibFormat]] and [[https://clang.llvm.org/docs/ClangFormat.html][ClangFormat]].
+
+  When using *clang-format* command line utility or =clang::format::reformat(...)= functions from code, one can either use one of the predefined styles (LLVM, Google, Chromium, Mozilla, WebKit, Microsoft) or create a custom style by configuring specific style options.
+#+end_quote

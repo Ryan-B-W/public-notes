@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       141ebc5c-f1d7-4fe5-87c7-b06f63f02d19
+:ROAM_REFS: https://www.ifixit.com/Device/OnePlus_7_Pro
+:END:
+#+title: (www.ifixit.com) OnePlus 7 Pro Repair Help: Learn How to Fix It Yourself.
+#+filetags: :phones:store:documentation:hardware:electronics:website:

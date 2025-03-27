@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       92173b7f-1f35-4a3d-927e-eb386b4dff78
+:ROAM_REFS: https://www.reddit.com/r/Notion/comments/16zon95/are_there_any_offlineopensource_alternatives_to/
+:END:
+#+title: (www.reddit.com) Are there any offline/open-source alternatives to Notion that have a good UI? : r/Notion
+#+filetags: :information_management:forums:website:

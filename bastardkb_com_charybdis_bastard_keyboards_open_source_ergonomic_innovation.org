@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       097a1f2a-a274-42a2-9e47-c95d68e59723
+:ROAM_REFS: https://bastardkb.com/charybdis/
+:END:
+#+title: (bastardkb.com) Charybdis - Bastard Keyboards - Open-source Ergonomic Innovation
+#+filetags: :store:keyboard:electronics:website:

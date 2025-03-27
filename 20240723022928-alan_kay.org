@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       022e5ea5-fb05-4899-981e-ca4b992dc497
+:END:
+#+title: Alan Kay
+#+filetags: :person:
+
+American computer scientist known for work on windowed [[id:88db686f-0d77-4ecc-a9d6-43017ef7440f][graphical user interfaces (GUI)]], [[id:1a857a79-1bc3-42c2-92ee-897a864b10de][object-oriented programming]], the [[id:c00306de-35c9-4f91-9f4f-23c2462435ea][Smalltalk]] [[id:b24601aa-09df-41e1-aa7e-25ead342db34][programming language]], and the [[id:540146f4-c0ef-423f-8598-9a9dc4e3a4df][Dynabook]] concept.
+* See Also
+ - [[https://en.wikipedia.org/wiki/Alan_Kay][Alan Kay - Wikipedia]]

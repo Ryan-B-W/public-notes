@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       85a125e7-e8b5-49a7-873d-7fcd6a7ea6fd
+:ROAM_REFS: https://osmand.net/
+:END:
+#+title: (osmand.net) OsmAnd | OsmAnd
+#+filetags: :apple_ios:android_os:open_source:maps:mobile_app:software:website:
+
+#+begin_quote
+  * OsmAnd
+
+  Offline Maps and Navigation
+
+  * Screenshots
+
+  - Android
+  - iOS
+
+  *** Map
+
+  - Carry highly detailed, fully offline maps of any region world wide on your device!
+  - Display your position and orientation on the map
+  - Optionally align the map according to compass or your direction of motion
+  - Save your most important places as Favorites
+  - Display POIs (points of interest) around you
+  - Can also display specialized online tile maps
+  - Can display different overlays like touring/navigation GPX tracks and additional maps with customizable transparency
+  - Optionally display place names in English, local, or phonetic spelling
+
+  *** Navigation
+
+  - Works totally offline (no roaming charges when you are abroad)
+  - Turn-by-turn voice guidance (recorded and synthesized voices)
+  - Announce traffic warnings like stop signs, pedestrian crosswalks, or when you are exceeding the speed limit
+  - Optional lane guidance, street name display, and estimated time of arrival
+  - Supports intermediate points on your itinerary
+  - Automatic re-routing whenever you deviate from the route
+  - Search for places by address, by type (e.g.: restaurant, hotel, gas station, museum), or by geographical coordinates
+
+  *** Bicycle and pedestrian routes
+
+  - The offline maps include foot, hiking, and bike paths, great for outdoor activities
+  - Map display and navigation mode for bicycle and pedestrian
+  - Optionally display public transport stops (bus, tram, train) including line names
+  - Optional trip recording to local GPX file or online service
+  - Optional speed and altitude display
+  - Display of contour lines and hill-shading (via additional plugin)
+
+  *** Open Source
+
+  - High quality information from the 2 best collaborative projects of the world
+  - Compact offline vector maps
+  - Global maps from OpenStreetMap, available per country or region
+  - Wikipedia POIs, great for sightseeing
+  - Always up-to-date maps (updated once a month)
+  - Hourly map updates (OsmAnd Live)
+  - Online or cached raster tile maps
+#+end_quote

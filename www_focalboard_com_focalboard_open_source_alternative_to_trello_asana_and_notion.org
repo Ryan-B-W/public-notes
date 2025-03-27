@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       c15e7d26-2818-4abe-8120-50dc46e6e441
+:ROAM_REFS: https://www.focalboard.com/
+:END:
+#+title: (www.focalboard.com) Focalboard: Open source alternative to Trello, Asana, and Notion
+#+filetags: :open_source:information_management:website:

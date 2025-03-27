@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       19c60c77-9ebd-457d-80f5-623363d4854e
+:ROAM_REFS: https://svalboard.com/
+:END:
+#+title: (svalboard.com) Svalboard - Datahand forever!
+#+filetags: :keyboard:store:electronics:website:
+
+#+begin_quote
+  lightly
+
+  Banish pain with the most adaptable ergonomic typing and mousing instrument ever made
+#+end_quote

@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       e3798840-a52b-4268-9327-878f92722313
+:ROAM_REFS: https://blog.pimaker.at/texts/rvc1/
+:END:
+#+title: (blog.pimaker.at) Linux in a Pixel Shader - A RISC-V Emulator for VRChat
+#+filetags: :linux:programming:software:blog_post:website:
+
+#+begin_quote
+  * Linux in a Pixel Shader - A RISC-V Emulator for VRChat
+
+  for comments see [[https://news.ycombinator.com/item?id=28312632][Hacker News]], [[https://www.reddit.com/r/programming/comments/pbw5ze/linux_in_a_pixel_shader_a_riscv_emulator_for/][r/programming]] or [[https://www.reddit.com/r/VRchat/comments/pbwae1/i_made_linux_run_in_vrchat_info_in_comments/][r/vrchat]]
+
+  * Intro
+
+  Sometimes you get hit with ideas for side-projects that sound absolutely plausible in your head.  The idea grips you, your mind's eye can practically visualize it already.  And then reality strikes, and you realize how utterly insane this would be, and just /how much/ work would need to go into it.
+
+  Usually these ideas appear, I enjoy dissecting them for a few days, and then I move on.  But sometimes.  Sometimes I decide to double down and get Linux running on my graphics card.
+
+  This is the story of how I made the =rvc= RISC-V emulator within VRChat, and a deep-dive into the unusual techniques required to do it.
+
+  Here are some specs up front, if you're satisfied with piecing the story together yourself:
+
+  - the code is on *[[https://github.com/pimaker/rvc][GitHub]]*
+  - emulated RISC-V =rv32ima/su+Zifencei+Zicsr= instruction set
+  - 64 MiB of RAM minus CPU state is stored in a 2048x2048 pixel Integer-Format texture (128 bpp)
+  - Unity Custom Render Texture with buffer-swapping allows encoding/decoding state between frames
+  - a pixel shader is used for emulation since compute shaders and UAV are not supported in VRChat
+
+  /Be warned that this post might be a bit rambly at times, as I try to recall the many pitfalls of writing this shader.  Let's hope it will at least turn out entertaining./
+#+end_quote

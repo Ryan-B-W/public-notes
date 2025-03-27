@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       8d70d8dc-cecc-4503-89cc-e1c4e450f98d
+:END:
+#+title: SPARC
+#+filetags: :sun_microsystems:electronics:processor:microprocessor:computer_architecture:computer_science:
+
+SPARC, short for Scalable Processor ARChitecture, is a family of [[id:321ba3cc-d73a-4620-88f7-2527cbae1aac][RISC]] [[id:c980a340-2564-437e-a79f-388122a206ad][ISA]]s and corresponding microprocessors developed by Sun Microsystems.
+* (en.wikipedia.org) SPARC - Wikipedia                              :website:
+:PROPERTIES:
+:ID:       fe3235a7-3fb4-498b-b5a8-4eb4ffff089b
+:ROAM_REFS: https://en.wikipedia.org/wiki/SPARC
+:END:
+
+#+begin_quote
+  *SPARC* (*Scalable Processor ARChitecture*) is a [[https://en.wikipedia.org/wiki/Reduced_instruction_set_computer][reduced instruction set computer]] (RISC) [[https://en.wikipedia.org/wiki/Instruction_set_architecture][instruction set architecture]] originally developed by [[https://en.wikipedia.org/wiki/Sun_Microsystems][Sun Microsystems]].  Its design was strongly influenced by the experimental [[https://en.wikipedia.org/wiki/Berkeley_RISC][Berkeley RISC]] system developed in the early 1980s.  First developed in 1986 and released in 1987, SPARC was one of the most successful early commercial RISC systems, and its success led to the introduction of similar RISC designs from many vendors through the 1980s and 1990s.
+
+  The first implementation of the original [[https://en.wikipedia.org/wiki/32-bit_computing][32-bit]] architecture (SPARC V7) was used in Sun's [[https://en.wikipedia.org/wiki/Sun-4][Sun-4]] computer [[https://en.wikipedia.org/wiki/Workstation][workstation]] and [[https://en.wikipedia.org/wiki/Server_(computing)][server]] systems, replacing their earlier [[https://en.wikipedia.org/wiki/Sun-3][Sun-3]] systems based on the [[https://en.wikipedia.org/wiki/Motorola_68000_series][Motorola 68000 series]] of processors.  SPARC V8 added a number of improvements that were part of the [[https://en.wikipedia.org/wiki/SuperSPARC][SuperSPARC]] series of processors released in 1992.  SPARC V9, released in 1993, introduced a [[https://en.wikipedia.org/wiki/64-bit_computing][64-bit]] architecture and was first released in Sun's [[https://en.wikipedia.org/wiki/UltraSPARC][UltraSPARC]] processors in 1995.  Later, SPARC processors were used in [[https://en.wikipedia.org/wiki/Symmetric_multiprocessing][symmetric multiprocessing]] (SMP) and [[https://en.wikipedia.org/wiki/Non-uniform_memory_access][non-uniform memory access]] ([[https://en.wikipedia.org/wiki/CC-NUMA][CC-NUMA]]) servers produced by Sun, [[https://en.wikipedia.org/wiki/Solbourne_Computer][Solbourne]], and [[https://en.wikipedia.org/wiki/Fujitsu][Fujitsu]], among others.
+
+  The design was turned over to the SPARC International trade group in 1989, and since then its architecture has been developed by its members.  SPARC International is also responsible for licensing and promoting the SPARC architecture, managing SPARC trademarks (including SPARC, which it owns), and providing [[https://en.wikipedia.org/wiki/Conformance_testing][conformance testing]].  SPARC International was intended to grow the SPARC architecture to create a larger ecosystem; SPARC has been licensed to several manufacturers, including [[https://en.wikipedia.org/wiki/Atmel][Atmel]], [[https://en.wikipedia.org/wiki/Bipolar_Integrated_Technology][Bipolar Integrated Technology]], [[https://en.wikipedia.org/wiki/Cypress_Semiconductor][Cypress Semiconductor]], [[https://en.wikipedia.org/wiki/Fujitsu][Fujitsu]], [[https://en.wikipedia.org/wiki/Panasonic][Matsushita]] and [[https://en.wikipedia.org/wiki/Texas_Instruments][Texas Instruments]].  Due to SPARC International, SPARC is fully open, non-proprietary and royalty-free.
+
+  As of 2024, the latest commercial high-end SPARC processors are [[https://en.wikipedia.org/wiki/Fujitsu][Fujitsu]]'s [[https://en.wikipedia.org/wiki/SPARC64_V#SPARC64_XII][SPARC64 XII]] (introduced in September 2017 for its SPARC M12 server) and [[https://en.wikipedia.org/wiki/Oracle_Corporation][Oracle]]'s [[https://en.wikipedia.org/wiki/SPARC_M8][SPARC M8]] introduced in September 2017 for its high-end servers.
+
+  On September 1, 2017, after a round of layoffs that started in Oracle Labs in November 2016, Oracle terminated SPARC design after completing the M8.  Much of the processor core development group in Austin, Texas, was dismissed, as were the teams in Santa Clara, California, and Burlington, Massachusetts.
+
+  Fujitsu will also discontinue their SPARC production (has already shifted to producing their own [[https://en.wikipedia.org/wiki/ARM_architecture_family][ARM]]-based CPUs), after two "enhanced" versions of Fujitsu's older SPARC M12 server in 2020–22 (formerly planned for 2021) and again in 2026–27, end-of-sale in 2029, of UNIX servers and a year later for their [[https://en.wikipedia.org/wiki/Mainframe_computer][mainframe]] and end-of-support in 2034 "to promote customer modernization".
+#+end_quote

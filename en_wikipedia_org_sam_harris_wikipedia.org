@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       595c9667-04ad-46ff-a106-c969f62f7ab5
+:ROAM_REFS: https://en.wikipedia.org/wiki/Sam_Harris
+:END:
+#+title: (en.wikipedia.org) Sam Harris - Wikipedia
+#+filetags: :people:website:
+
+#+begin_quote
+  Samuel Benjamin Harris (born April 9, 1967) is an American philosopher, neuroscientist, author, and podcast host.  His work touches on a range of topics, including rationality, religion, ethics, free will, neuroscience, meditation, psychedelics, philosophy of mind, politics, terrorism, and artificial intelligence.  Harris came to prominence for his criticism of religion, and he is known as one of the "Four Horsemen" of New Atheism, along with Richard Dawkins, Christopher Hitchens, and Daniel Dennett.
+#+end_quote

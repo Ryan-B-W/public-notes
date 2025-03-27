@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       1f3d146b-4af3-4350-a0c0-04137f65634c
+:ROAM_REFS: https://orgmode.org/worg/org-contrib/org-depend.html
+:END:
+#+title: (orgmode.org) org-depend.el – TODO dependencies for Org-mode
+#+filetags: :emacs:software:website:
+
+#+begin_quote
+  org-depend.el demonstrates a mechanism for creating TODO dependencies.  Note that [[id:5ab4a0b0-95e2-40cf-b924-709db3115d48][Org-mode]] does already have built-in local dependencies which are simpler and cover most of what one usually wants to do.  However, the built-in implementation covers only the following two concepts:
+   - blocking an entry from changing its state to DONE while it still has children that are not done, or checkboxes that are unchecked
+   - blocking an entry from changing its state to DONE while it still has un-done siblings above it, in this way enforcing sequential work on the siblings
+  org-depend.el was originally a proof-of-concept implementation of TODO dependencies, using two special hooks, org-blocker-hook and org-trigger-hook.  It remains in the distribution as an example on how more complex dependencies between entries can be implemented.  In particular it shows how to implement the following:
+   - Dependencies on remote entries identified by ID.  These entries do not have to be near-by and may even be located in a different file.
+   - The possibility to trigger actions in other entries.
+#+end_quote

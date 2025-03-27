@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       32e1a1fd-586a-46db-8870-19f2e348a63b
+:ROAM_REFS: https://developer.mozilla.org/en-US/docs/Web/API/DocumentFragment
+:END:
+#+title: (developer.mozilla.org) DocumentFragment - Web APIs | MDN
+#+filetags: :documentation:www:website:

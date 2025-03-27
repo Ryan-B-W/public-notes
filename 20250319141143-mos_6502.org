@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2abf38db-4aaf-4bca-87c8-0c1ab211b9d6
+:END:
+#+title: MOS 6502
+#+filetags: :mos_inc:electronics:processor:microprocessor:computer_architecture:computer_science:
+
+8-bit [[id:96b6fc36-5b86-4108-b2b4-39b85a38f385][CISC]] microprocessor, and corresponding [[id:c980a340-2564-437e-a79f-388122a206ad][ISA]], developed by MOS Technology.
+* (en.wikipedia.org) MOS Technology 6502 - Wikipedia                :website:
+:PROPERTIES:
+:ID:       78f46619-3ff1-4813-8964-6f51072a606a
+:ROAM_REFS: https://en.wikipedia.org/wiki/MOS_Technology_6502
+:END:
+
+#+begin_quote
+  The *MOS Technology 6502* (typically pronounced "sixty-five-oh-two" or "six-five-oh-two") is an [[https://en.wikipedia.org/wiki/8-bit_computing][8-bit]] [[https://en.wikipedia.org/wiki/Microprocessor][microprocessor]] that was designed by a small team led by [[https://en.wikipedia.org/wiki/Chuck_Peddle][Chuck Peddle]] for [[https://en.wikipedia.org/wiki/MOS_Technology][MOS Technology]].  The design team had formerly worked at [[https://en.wikipedia.org/wiki/Motorola][Motorola]] on the [[https://en.wikipedia.org/wiki/Motorola_6800][Motorola 6800]] project; the 6502 is essentially a simplified, less expensive and faster version of that design.
+
+  When it was introduced in 1975, the 6502 was the least expensive microprocessor on the market by a considerable margin.  It initially sold for less than one-sixth the cost of competing designs from larger companies, such as the 6800 or [[https://en.wikipedia.org/wiki/Intel_8080][Intel 8080]].  Its introduction caused rapid decreases in pricing across the entire processor market.  Along with the [[https://en.wikipedia.org/wiki/Zilog_Z80][Zilog Z80]], it sparked a series of projects that resulted in the [[https://en.wikipedia.org/wiki/Home_computer][home computer]] [[https://en.wikipedia.org/wiki/Microcomputer_revolution][revolution]] of the early 1980s.
+
+  [[https://en.wikipedia.org/wiki/Home_video_game_console][Home video game consoles]] and home computers of the 1970s through the early 1990s, such as the [[https://en.wikipedia.org/wiki/Atari_2600][Atari 2600]], [[https://en.wikipedia.org/wiki/Atari_8-bit_computers][Atari 8-bit computers]], [[https://en.wikipedia.org/wiki/Apple_II][Apple II]], [[https://en.wikipedia.org/wiki/Nintendo_Entertainment_System][Nintendo Entertainment System]], [[https://en.wikipedia.org/wiki/Commodore_64][Commodore 64]], [[https://en.wikipedia.org/wiki/Atari_Lynx][Atari Lynx]], [[https://en.wikipedia.org/wiki/BBC_Micro][BBC Micro]] and others, use the 6502 or variations of the basic design.  Soon after the 6502's introduction, MOS Technology was purchased outright by [[https://en.wikipedia.org/wiki/Commodore_International][Commodore International]], who continued to sell the microprocessor and licenses to other manufacturers.  In the early days of the 6502, it was [[https://en.wikipedia.org/wiki/Second_source][second-sourced]] by [[https://en.wikipedia.org/wiki/Rockwell_International][Rockwell]] and [[https://en.wikipedia.org/wiki/Synertek][Synertek]], and later licensed to other companies.
+
+  In 1981, the [[https://en.wikipedia.org/wiki/Western_Design_Center][Western Design Center]] started development of a [[https://en.wikipedia.org/wiki/CMOS][CMOS]] version, the [[https://en.wikipedia.org/wiki/WDC_65C02][65C02]].  This continues to be widely used in [[https://en.wikipedia.org/wiki/Embedded_system][embedded systems]], with estimated production volumes in the hundreds of millions.
+#+end_quote

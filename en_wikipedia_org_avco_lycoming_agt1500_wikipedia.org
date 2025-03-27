@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       c9421df1-8119-4e0b-b324-f94bb3e7d453
+:ROAM_REFS: https://en.wikipedia.org/wiki/Avco-Lycoming_AGT1500
+:END:
+#+title: (en.wikipedia.org) Avco-Lycoming AGT1500 - Wikipedia
+#+filetags: :engines:website:
+
+#+begin_quote
+  The Avco-Lycoming AGT1500 is a gas turbine engine.  It is the main powerplant of the M1 Abrams series of tanks.  The engine was originally designed and produced by the Lycoming Turbine Engine Division in the Stratford Army Engine Plant.  In 1995, production was moved to the Anniston Army Depot in Anniston, Alabama, after the Stratford Army Engine Plant was shut down.
+#+end_quote

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       98f06e6b-39cb-4641-8c1f-07b80bb90fba
+:ROAM_REFS: https://support.mozilla.org/en-US/kb/firefox-reader-view-clutter-free-web-pages
+:END:
+#+title: (support.mozilla.org) Firefox Reader View for clutter-free web pages | Firefox Help
+#+filetags: :www:software:website:
+
+#+begin_quote
+  Reader View in Firefox helps you strip away clutter like buttons, ads, background images and videos, providing a clean and customizable reading experience.
+#+end_quote

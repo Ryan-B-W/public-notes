@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       8a4570a5-ea56-4920-ae6d-6525eab3a684
+:ROAM_REFS: https://archive.org/
+:END:
+#+title: (archive.org) Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
+#+filetags: :archival:archive_org:www:website:
+
+The legendary Internet Archive project.
+* (web.archive.org) Wayback Machine
+:PROPERTIES:
+:ID:       e3b02fb9-efb2-4a3f-a2ed-eb2f0562d021
+:ROAM_REFS: https://web.archive.org/
+:END:
+
+The legendary Wayback Machine of the Internet Archive project.

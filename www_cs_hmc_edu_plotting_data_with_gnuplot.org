@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       db392922-6b83-4f43-a44e-95739d47f86c
+:ROAM_REFS: https://www.cs.hmc.edu/~vrable/gnuplot/using-gnuplot.html
+:END:
+#+title: (www.cs.hmc.edu) Plotting Data with gnuplot
+#+filetags: :analytics:statistics_and_probability:tutorial:website:
+
+Guide on plotting data with [[id:8ce71873-caf9-465a-a282-c2bd968b3dba][Gnuplot]].
+
+#+begin_quote
+  * Plotting Data with gnuplot
+
+  This tutorial is intended as a supplement to the information contained on the Physics' Department website: [[http://www.physics.hmc.edu/howto/FittingExercise.html][Plotting and Fitting Data]] and [[http://www.physics.hmc.edu/howto/kaleidagraph.html][Plotting Data with Kaleidagraph]]. It shows how to perform the same functions described in those tutorials using gnuplot, a command-line-driven plotting program commonly available on Unix machines (though available for other platforms as well). You may find it helpful to look at the other tutorials as well; this one is intended to follow them quite closely.
+
+  The instructions and samples given correspond to version 3.7 running under Linux, but the results should be similar everywhere. If you are using an older version, however, you might find a few of the more advanced features missing.
+
+  * Introduction
+
+  gnuplot seems almost the antithesis of Kaleidagraph: the the Kaleidagraph tutorial calls Kaleidagraph "an easy-to-use if somewhat limited graphics program". gnuplot is a not-quite-as-easy-to use, though extremely powerful, command-line plotting program.
+
+  Running gnuplot is easy: from a command prompt on any system, type =gnuplot=. It is even possible to do this over a telnet or ssh connection, and preview the graphs in text mode! For best results, however, you should run gnuplot from within X Window, so that you can see better previews of your plots.
+#+end_quote

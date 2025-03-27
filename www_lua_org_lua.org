@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       49a32d26-7d4f-413f-a5f4-833304aaece8
+:ROAM_REFS: https://www.lua.org/
+:END:
+#+title: (www.lua.org) Lua
+#+filetags: :programming_language:programming:computer_science:website:
+
+From the about page:
+#+begin_quote
+  Lua is a powerful, efficient, lightweight, embeddable scripting language.  It supports procedural programming, [[id:1a857a79-1bc3-42c2-92ee-897a864b10de][object-oriented programming]], functional programming, data-driven programming, and data description.
+
+  Lua combines simple procedural syntax with powerful data description constructs based on associative arrays and extensible semantics.  Lua is dynamically typed, runs by interpreting bytecode with a register-based virtual machine, and has automatic memory management with incremental garbage collection, making it ideal for configuration, scripting, and rapid prototyping.
+#+end_quote

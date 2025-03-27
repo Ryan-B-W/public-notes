@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       d4cad03f-36f8-40e2-bef8-b8b92252982e
+:ROAM_REFS: https://lisp-docs.github.io/cl-language-reference/chap-9/j-b-condition-system-concepts
+:END:
+#+title: (lisp-docs.github.io) 9.1 Condition System Concepts | Common Lisp (New) Language Reference
+#+filetags: :documentation:common_lisp:lisp:website:

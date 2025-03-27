@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       f335d857-d5d5-41da-8e2c-7414f4c2dbf3
+:ROAM_REFS: https://spacetraders.io/
+:END:
+#+title: (spacetraders.io)
+#+filetags: :games:website:
+
+#+begin_quote
+  SpaceTraders is a space-themed economic game with HTTP endpoints for automating gameplay and building custom tools.
+
+  ** How It Works
+
+  How do I play a game through a Web API?
+
+  Our platform allows you to use any programming language to play or automate the game.  Every action you can take in the game is an HTTP endpoint you can hit with code.  Learn a new language, demo your skills, or just build something interesting to share with the community.
+
+  Community Support
+
+  We are a young platform with an active community of learners and builders working on very cool open source apps.  Join our Discord to share your app or find help.
+
+  Space Trading Game
+
+  Build a fleet of ships, explore the galaxy for hidden secrets, and automate trade routes.  Join a faction to compete with other players for the best routes and the most credits.
+
+  Automation With Code
+
+  Our game presents a unique opportunity to automate your gameplay using any programming language you know or want to learn.  Every action you can take in the game is an endpoint you can hit with code.
+
+  Dynamic Universe
+
+  SpaceTraders is both a learning platform as well as a dynamic game world with real balance and community-driven goals.  Join a universe driven by player activity and cooperation.
+#+end_quote

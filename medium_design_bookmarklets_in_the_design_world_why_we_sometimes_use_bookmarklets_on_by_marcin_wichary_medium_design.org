@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       4717a9a1-d9e8-4a1d-b970-48f587e960bb
+:ROAM_REFS: https://medium.design/bookmarklets-in-the-design-world-cbb10493286d?gi=9d0d62471086
+:END:
+#+title: (medium.design) Bookmarklets in the design world. Why we sometimes use bookmarklets on… | by Marcin Wichary | Medium.design
+#+filetags: :article:www:website:

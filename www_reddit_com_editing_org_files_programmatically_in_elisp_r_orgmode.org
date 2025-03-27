@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       6dae2c76-7966-44a8-9811-a5d5b7384cd2
+:ROAM_REFS: https://www.reddit.com/r/orgmode/comments/fobjxp/editing_org_files_programmatically_in_elisp/
+:END:
+#+title: (www.reddit.com) Editing org files programmatically in Elisp : r/orgmode
+#+filetags: :forums:programming:emacs_lisp:lisp:emacs:website:

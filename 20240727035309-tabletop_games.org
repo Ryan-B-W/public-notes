@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       6b508558-90f8-4371-a8be-92504af97207
+:END:
+#+title: Tabletop Games
+#+filetags: :tabletop_games:games:
+
+Tabletop games, board games played with physical pieces on a table.
+* Tabletop Role-Playing Games (TTRPGs)             :rpg:tabletop_games:games:
+:PROPERTIES:
+:ID:       a5ea8f20-b0a8-482d-9388-5f82f3c218d0
+:END:
+* Eurogame, AKA German-Style Board Game, AKA German Game, AKA, Euro-Style Game :eurogame:rpg:tabletop_games:games:
+:PROPERTIES:
+:ID:       3e6ea951-a134-41cc-be67-af08e2a8dff0
+:END:
+Classic genre of tabletop games.  Popularized internationally with The Settlers of Catan.  Classically involves more strategy than [[id:cff2b323-e97b-44e9-9173-bcc2f04a1f74][American-Style Board Games]] and usually includes features like multiple objectives and indirect player-to-player interaction.
+** See Also
+ - [[https://en.wikipedia.org/wiki/Eurogame][Eurogame - Wikipedia]]
+* American-Style Board Games
+:PROPERTIES:
+:ID:       cff2b323-e97b-44e9-9173-bcc2f04a1f74
+:END:
+Common American board games like Monopoly, Clue, and other such games.  Usually feature a high level of direct player-to-layer conflict and high amounts of luck.  Usually also centralized around a theme or gimmick.

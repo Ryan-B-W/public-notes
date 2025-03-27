@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5547e5f5-d81c-41fb-a32b-309e1debabbf
+:ROAM_REFS: https://www.devopsschool.com/blog/list-of-top-free-open-source-self-hosted-application-for-document-management-e-books/
+:END:
+#+title: (www.devopsschool.com) List of Top Free Open Source & Self Hosted Application for Document Management - E-books - DevOpsSchool.com
+#+filetags: :software:organization:lists:website:
+
+#+begin_quote
+  Ebook library management software.
+   - BicBucStriim – Provides web-based access to your Calibre Library’s e-book collection.  MIT PHP
+   - Calibre Web – Web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database.  GPL-3.0 Python
+   - Calibre – E-book library manager that can view, convert, and catalog e-books in most of the major e-book formats and provides a built-in Web server for remote clients.  GPL-3.0 Python
+   - Kavita – Cross-platform e-book/manga/comic/pdf server and web reader with user management, ratings and reviews, and metatdata support.  GPL-3.0 .NET Core/Docker
+   - Komga – Media server for comics/mangas/BDs with API and OPDS support, a modern web interface for exploring your libraries, as well as a web reader.  MIT Java/Docker
+   - Mango – Manga server and web reader with a built-in MangaDex downloader.  MIT Crystal
+   - pyShelf – Lightweight Ebook Server.  GPL-3.0 Python
+   - Stump – A fast, free and open source comics, manga and digital book server with OPDS support.  MIT Rust
+   - Tanoshi – Selfhosted web manga reader with extensions.  MIT Rust
+   - The Epube – Self-hosted web EPUB reader using EPUB.js, Bootstrap, and Calibre.  GPL-3.0 PHP
+   - VanDAM – Digital asset manager for 3d print files; STL, OBJ, 3MF and more.  MIT Ruby/Docker
+#+end_quote

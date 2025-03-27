@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       596f9b2c-b86e-4bba-a4b9-01f0080681e9
+:ROAM_REFS: https://argo-cd.readthedocs.io/en/stable/
+:END:
+#+title: (argo-cd.readthedocs.io) Argo CD - Declarative GitOps CD for Kubernetes
+#+filetags: :devops:software_development:ci_cd:software:website:
+
+#+begin_quote
+  Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes.
+#+end_quote

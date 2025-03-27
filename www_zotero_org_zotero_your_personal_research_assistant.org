@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       0c44b04d-5b1e-4e49-87df-8c5290c9c028
+:ROAM_REFS: https://www.zotero.org/
+:END:
+#+title: (www.zotero.org) Zotero | Your personal research assistant
+#+filetags: :software:bibliography:research:website:
+
+#+begin_quote
+  Your personal
+
+  research assistant
+
+  Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research.
+#+end_quote

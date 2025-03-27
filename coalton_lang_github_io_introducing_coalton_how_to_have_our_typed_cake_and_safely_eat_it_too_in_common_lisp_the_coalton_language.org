@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       80296036-52b2-45d6-a09c-06a5f43970bc
+:ROAM_REFS: https://coalton-lang.github.io/20211010-introducing-coalton/
+:END:
+#+title: (coalton-lang.github.io) Introducing Coalton: How to Have Our (Typed) Cake and (Safely) Eat It Too, in Common Lisp | The Coalton Language
+#+filetags: :blog_post:programming:programming_language:lisp:website:
+
+#+begin_quote
+  Coalton is a statically typed functional programming language built with Common Lisp.
+#+end_quote

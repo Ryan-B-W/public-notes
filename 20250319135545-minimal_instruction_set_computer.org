@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a8d02b0f-47be-4c40-bdb8-5ccc1938582d
+:END:
+#+title: Minimal Instruction Set Computer (MISC)
+#+filetags: :computer_architecture:computer_science:
+
+A type of [[id:c980a340-2564-437e-a79f-388122a206ad][ISA]] that focuses on a minimal set of opcodes and is generally stack-based rather than register-based.
+* (en.wikipedia.org) Minimal instruction set computer - Wikipedia   :website:
+:PROPERTIES:
+:ID:       9e802d92-b760-43f6-9158-1ca9d8e3976b
+:ROAM_REFS: https://en.wikipedia.org/wiki/Minimal_instruction_set_computer
+:END:
+
+#+begin_quote
+  *Minimal instruction set computer* (*MISC*) is a [[https://en.wikipedia.org/wiki/Central_processing_unit][central processing unit]] (CPU) architecture, usually in the form of a [[https://en.wikipedia.org/wiki/Microprocessor][microprocessor]], with a very small number of basic operations and corresponding [[https://en.wikipedia.org/wiki/Opcode][opcodes]], together forming an [[https://en.wikipedia.org/wiki/Instruction_set][instruction set]].  Such sets are commonly [[https://en.wikipedia.org/wiki/Stack_(abstract_data_type)][stack-based]] rather than [[https://en.wikipedia.org/wiki/Processor_register][register-based]] to reduce the size of [[https://en.wikipedia.org/wiki/Operand][operand]] specifiers.
+
+  Such a [[https://en.wikipedia.org/wiki/Stack_machine][stack machine]] architecture is inherently simpler since all instructions operate on the top-most stack entries.
+
+  One result of the stack architecture is an overall smaller instruction set, allowing a smaller and faster instruction decode unit with overall faster operation of individual instructions.
+#+end_quote

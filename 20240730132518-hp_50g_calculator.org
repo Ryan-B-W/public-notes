@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       91062197-4b54-418f-8eef-dd56c3432c55
+:END:
+#+title: HP 50g Calculator
+#+filetags: :mathematics:programming:electronics:
+
+The latest in the HP 48 calculator series, and the direct successor to the HP 49, the HP 50g is a sophisticated graphing calculator with advanced programmability, [[id:e9002321-7592-4465-a256-0104be238b42][RPN]] input, [[id:371adb97-458f-4539-8051-444335a429e5][CAS]], onboard and external storage, and an okay keypad.
+* See Also
+** (en.wikipedia.org) HP 49/50 series - Wikipedia                   :website:
+:PROPERTIES:
+:ID:       d06f3056-a558-4068-a97a-333f3ae7327c
+:ROAM_REFS: https://en.wikipedia.org/wiki/HP_49/50_series
+:END:
+
+#+begin_quote
+  The *HP 49/50 series* are [[https://en.wikipedia.org/wiki/Hewlett-Packard][Hewlett-Packard]] (HP) manufactured [[https://en.wikipedia.org/wiki/Graphing_calculator][graphing calculators]].  They are the successors of the [[https://en.wikipedia.org/wiki/HP_48_series][HP 48 series]].
+
+  There are five calculators in the 49/50 series of HP graphing calculators.  These calculators have both algebraic and [[https://en.wikipedia.org/wiki/Reverse_Polish_Notation][RPN]] entry modes, and can perform numeric and symbolic calculations using the built-in [[https://en.wikipedia.org/wiki/Computer_algebra_system][Computer Algebra System (CAS)]], which is an improved [[https://en.wikipedia.org/w/index.php?title=ALG48&action=edit&redlink=1][ALG48]] and [[https://en.wikipedia.org/wiki/Erable][Erable]] combination from the [[https://en.wikipedia.org/wiki/HP_48_series][HP 48 series]].
+
+  Along with the HP 15C and the HP 48, it is widely considered the greatest calculator ever designed for engineers, scientists, and surveyors.  It has advanced functions suitable for applications in [[https://en.wikipedia.org/wiki/Mathematics][mathematics]], [[https://en.wikipedia.org/wiki/Linear_algebra][linear algebra]], [[https://en.wikipedia.org/wiki/Physics][physics]], [[https://en.wikipedia.org/wiki/Statistical_analysis][statistical analysis]], [[https://en.wikipedia.org/wiki/Numerical_analysis][numerical analysis]], [[https://en.wikipedia.org/wiki/Computer_science][computer science]], and others.  Although out of production, its popularity has led to high prices on the used market.
+#+end_quote
+*** (en.wikipedia.org) RPL (programming language) - Wikipedia :programming_language:website:
+:PROPERTIES:
+:ID:       1cd00722-0174-481f-b769-f173df328960
+:ROAM_REFS: https://en.wikipedia.org/wiki/RPL_(programming_language)
+:END:
+
+#+begin_quote
+  *RPL* is a [[https://en.wikipedia.org/wiki/Calculator][handheld calculator]] operating system and application [[https://en.wikipedia.org/wiki/Programming_language][programming language]] used on [[https://en.wikipedia.org/wiki/Hewlett-Packard][Hewlett-Packard]]'s scientific graphing [[https://en.wikipedia.org/wiki/Reverse_Polish_Notation][RPN]] (Reverse Polish Notation) calculators of the [[https://en.wikipedia.org/wiki/HP-28_series][HP 28]], [[https://en.wikipedia.org/wiki/HP_48_series][48]], [[https://en.wikipedia.org/wiki/HP_49_series][49]] and [[https://en.wikipedia.org/wiki/HP_50g][50]] series, but it is also usable on non-RPN calculators, such as the [[https://en.wikipedia.org/wiki/HP_38G][38]], [[https://en.wikipedia.org/wiki/HP_39/40_series][39 and 40]] series.  Internally, it was also utilized by the [[https://en.wikipedia.org/wiki/HP-17B][17B]], [[https://en.wikipedia.org/wiki/HP-18C][18C]], [[https://en.wikipedia.org/wiki/HP-19B][19B]] and [[https://en.wikipedia.org/wiki/HP-27S][27S]].
+
+  RPL is a [[https://en.wikipedia.org/wiki/Structured_programming][structured programming]] language based on RPN, but equally capable of processing [[https://en.wikipedia.org/wiki/Infix_notation][algebraic]] expressions and formulae, implemented as a [[https://en.wikipedia.org/wiki/Threaded_code][threaded interpreter]].  RPL has many similarities to [[https://en.wikipedia.org/wiki/Forth_(programming_language)][Forth]], both languages being [[https://en.wikipedia.org/wiki/Stack-oriented_programming_language][stack]]-based, as well as the list-based [[https://en.wikipedia.org/wiki/LISP][LISP]].  Contrary to previous HP RPN calculators, which had a fixed [[https://en.wikipedia.org/wiki/4-level_RPN][four-level stack]], the [[https://en.wikipedia.org/wiki/Dynamic_RPN_stack][dynamic stack]] used by RPL is only limited by available [[https://en.wikipedia.org/wiki/Random-access_memory][RAM]], with the calculator displaying an error message when running out of memory rather than silently dropping arguments off the stack as in fixed-sized RPN stacks.
+
+  RPL originated from HP's [[https://en.wikipedia.org/wiki/Corvallis,_Oregon][Corvallis, Oregon]] development facility in 1984 as a replacement for the previous practice of implementing the [[https://en.wikipedia.org/wiki/Operating_systems][operating systems]] of calculators in [[https://en.wikipedia.org/wiki/Assembly_language][assembly language]].  The first calculator utilizing it internally was the HP-18C and the first calculator making it available to users was the HP-28C, both from 1986.  The last pocket calculator supporting RPL, the HP 50g, was discontinued in 2015.  However, multiple emulators that can emulate HP's RPL calculators exist that run on a range of operating systems, and devices, including iOS and Android smartphones.  There are also a number of community projects to recreate and extend RPL on newer calculators, like [[https://en.wikipedia.org/wiki/NewRPL][newRPL]] or [[https://en.wikipedia.org/wiki/DB48X][DB48X]], which may add features or improve performance.
+#+end_quote

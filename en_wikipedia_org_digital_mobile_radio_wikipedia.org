@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       9c6213c8-2d81-40e9-a9ec-d38c93616002
+:ROAM_REFS: https://en.wikipedia.org/wiki/Digital_mobile_radio
+:END:
+#+title: (en.wikipedia.org) Digital mobile radio - Wikipedia
+#+filetags: :digital_radio:radio:website:
+
+#+begin_quote
+  Digital mobile radio (DMR) is a digital radio standard for voice and data transmission in non-public radio networks.  It was created by the European Telecommunications Standards Institute (ETSI), and is designed to be low-cost and easy to use.  DMR, along with P25 phase II and NXDN are the main competitor technologies in achieving 6.25 kHz equivalent bandwidth using the proprietary AMBE+2 vocoder.  DMR and P25 II both use two-slot TDMA in a 12.5 kHz channel, while NXDN uses discrete 6.25 kHz channels using frequency division and TETRA uses a four-slot TDMA in a 25 kHz channel.
+  DMR was designed with three tiers.  DMR tiers I (Unlicensed) and II (Conventional Licensed) were first published in 2005, and DMR III (Trunked version) was published in 2012, with manufacturers producing products within a few years of each publication.
+  The primary goal of the standard is to specify a digital system with low complexity, low cost and interoperability across brands, so radio communications purchasers are not locked into a proprietary solution.
+#+end_quote

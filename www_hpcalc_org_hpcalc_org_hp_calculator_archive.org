@@ -1,0 +1,297 @@
+:PROPERTIES:
+:ID:       3e48a95f-72f7-4a74-a704-07eebc605524
+:ROAM_REFS: https://www.hpcalc.org/
+:END:
+#+title: (www.hpcalc.org) hpcalc.org - HP Calculator Archive
+#+filetags: :calculator:website:
+
+#+begin_quote
+  Welcome to *hpcalc.org* ([[https://www.hpcalc.org/][https://www.hpcalc.org]]), the premier source of software for and information about the HP Prime, HP 50, HP 49, HP 48, and HP 28 RPN programmable graphic calculators and the HP 38G, HP 39, and HP 40 programmable graphic calculators, with 9653 files by 2678 authors and 4447 screenshots totaling 2555.03 MB.
+
+  If you are interested in *purchasing HP calculator-related items* to help support this site, please [[http://commerce.hpcalc.org/][see my commerce site]].  I now have the *HHC 2024 USB drive* in stock, with almost 350 GB of calculator-related material.
+#+end_quote
+* See Also
+** [[id:91062197-4b54-418f-8eef-dd56c3432c55][HP 50g Calculator]]
+* (www.hpcalc.org) HP 49G FAQ                                 :documentation:
+:PROPERTIES:
+:ID:       3e422aa9-f9dc-4e2b-b957-425b6d48183c
+:ROAM_REFS: https://www.hpcalc.org/hp49/docs/faq/
+:END:
+* (www.hpcalc.org) Hewlett-Packard - author detailed information
+:PROPERTIES:
+:ID:       cb49e8d1-40e6-4124-a3f2-1ed5fae32f5e
+:ROAM_REFS: https://www.hpcalc.org/authors/54
+:END:
+** (www.hpcalc.org) HP 50g User's Manual - detailed information :documentation:
+:PROPERTIES:
+:ID:       7ee05910-98e2-42ff-9a23-4512bd208774
+:ROAM_REFS: https://www.hpcalc.org/details/6513
+:END:
+
+#+begin_quote
+  Complete English-language 184-page user's manual for the HP 50g.  A printed version of this manual is included with the calculator.
+#+end_quote
+** (www.hpcalc.org) HP 50g User's Guide - detailed information :documentation:
+:PROPERTIES:
+:ID:       6344fc49-0f38-4bf4-9ecf-45bd075fa116
+:ROAM_REFS: https://www.hpcalc.org/details/6512
+:END:
+
+#+begin_quote
+  Complete English-language 887-page user's guide for the HP 50g.
+#+end_quote
+** (www.hpcalc.org) HP 50g Advanced User's Reference Manual Edition 2 - detailed information :documentation:
+:PROPERTIES:
+:ID:       a60fa502-d52e-43e8-bb97-b391bfe1d3d4
+:ROAM_REFS: https://www.hpcalc.org/details/7141
+:END:
+
+#+begin_quote
+  Advanced User's Reference Manual for the HP 50g, HP 49g+ and HP 48gII, though also applicable to the HP 49G.  This is essentially the AUR from the HP 48G series updated for the 49 series, documenting all commands in the 49 series and filling 693 US Letter pages.  Also [[http://commerce.hpcalc.org/50gaur.php][available in printed form]].
+#+end_quote
+** (www.hpcalc.org) HP 50g Learning Modules - detailed information :documentation:
+:PROPERTIES:
+:ID:       3c9b8b71-4357-484a-8318-403321cc3d49
+:ROAM_REFS: https://www.hpcalc.org/details/6585
+:END:
+
+#+begin_quote
+  Contains 56 training aids to help engineers and scientists, students and educators, business and finance professionals, and real estate professionals to better use the HP 50g.  Includes contributions by various members of the HP calculator community.
+#+end_quote
+** (www.hpcalc.org) HP 49G Pocket Guide - detailed information :documentation:
+:PROPERTIES:
+:ID:       0dc3c2ba-8225-4bbe-8ac9-d35474ec0cbe
+:ROAM_REFS: https://www.hpcalc.org/details/3000
+:END:
+
+#+begin_quote
+  This contains the 80 page Pocket Guide for the HP 49G. In Adobe PDF format.
+#+end_quote
+** (www.hpcalc.org) HP 48G Series Quick Start Guide - detailed information :documentation:
+:PROPERTIES:
+:ID:       88a87967-8c32-47c6-b26c-d35193e4474e
+:ROAM_REFS: https://www.hpcalc.org/details/6402
+:END:
+
+#+begin_quote
+  Complete copy of the fifth edition of the HP 48G Series Quick Start Guide.  This PDF document has 116 pages and was scanned from the original book.
+#+end_quote
+** (www.hpcalc.org) MASD Documentation - detailed information :documentation:
+:PROPERTIES:
+:ID:       5346045c-1201-49ee-8c0d-814c21aaeb3d
+:ROAM_REFS: https://www.hpcalc.org/details/2986
+:END:
+
+#+begin_quote
+  In progress version of the documentation for MASD, the assembly language and System RPL development software in the 49.  Now covers the version included with the 49G+, including ARM development.  In both Adobe PDF and Word format.
+#+end_quote
+** (www.hpcalc.org) RPLComp Docs - detailed information       :documentation:
+:PROPERTIES:
+:ID:       f4923f97-c743-49f8-bfcd-59dd590429ca
+:ROAM_REFS: https://www.hpcalc.org/details/1740
+:END:
+
+#+begin_quote
+  Documentation for RPLComp, the RPL compiler from Goodies Disk 4.
+#+end_quote
+** (www.hpcalc.org) RPLMan from Goodies Disk 4 - detailed information :documentation:
+:PROPERTIES:
+:ID:       984d9c65-9ded-4228-ad11-4cb4174b5468
+:ROAM_REFS: https://www.hpcalc.org/details/1743
+:END:
+
+#+begin_quote
+  RPL Programming Guide from Goodies Disk 4.
+#+end_quote
+*** (www.hpcalc.org) RPLMan in PDF format - detailed information
+:PROPERTIES:
+:ID:       7a19db1b-ebed-46e3-8072-ee0a60d21f86
+:ROAM_REFS: https://www.hpcalc.org/details/1745
+:END:
+
+#+begin_quote
+  RPL Programming Guide from Goodies Disk 4 in Adobe Acrobat PDF format.
+#+end_quote
+** (www.hpcalc.org) SASM Docs - detailed information          :documentation:
+:PROPERTIES:
+:ID:       abe9fa95-0b05-4d5c-9d7a-ac32a1d044f8
+:ROAM_REFS: https://www.hpcalc.org/details/1746
+:END:
+
+#+begin_quote
+  Information on assembly language programming of the HP 48 from Goodies Disk 4.
+#+end_quote
+*** (www.hpcalc.org) SASM Docs in HTML - detailed information
+:PROPERTIES:
+:ID:       81703bdd-91e1-41f5-9e41-02f9d6645a73
+:ROAM_REFS: https://www.hpcalc.org/details/1747
+:END:
+
+#+begin_quote
+  Information on assembly language programming of the HP 48 from Goodies Disk 4.  In HTML format.
+#+end_quote
+*** (www.hpcalc.org) SASM Docs in PDF Format - detailed information
+:PROPERTIES:
+:ID:       920f1b0f-5227-4796-8da5-6bc764acbf5b
+:ROAM_REFS: https://www.hpcalc.org/details/1751
+:END:
+
+#+begin_quote
+  Information on assembly language programming of the HP 48 from Goodies Disk 4.  In Adobe Acrobat PDF format.
+#+end_quote
+** (www.hpcalc.org) HP 49g+ and HP 50g ARM Bootloader Binary Code 2.15 - detailed information :firmware:software:
+:PROPERTIES:
+:ID:       561be4ea-bde6-4a0b-af6d-86ccfedc81aa
+:ROAM_REFS: https://www.hpcalc.org/details/9335
+:END:
+
+#+begin_quote
+  These binary files contain ARM code that is copyrighted by Hewlett Packard Corporation.  They are reproduced here solely for the historic preservation of these discontinued models through emulation.
+#+end_quote
+** (www.hpcalc.org) ROM 2.15 - detailed information  :firmware:software:roms:
+:PROPERTIES:
+:ID:       f2d068f1-7800-44dc-b3d2-c9b2f7442c95
+:ROAM_REFS: https://www.hpcalc.org/details/7097
+:END:
+
+#+begin_quote
+  Flash update file to update the ROM of the HP 49g+ and HP 50g to version C-2.15.  Also includes updates to the equation library and periodic table library.  This is the latest official supported release.
+#+end_quote
+** (www.hpcalc.org) ROM for Emulators 2.15 - detailed information :firmware:software:roms:emulator:
+:PROPERTIES:
+:ID:       6126b5d9-bdda-4198-a07b-2b97f73b2fe6
+:ROAM_REFS: https://www.hpcalc.org/details/6744
+:END:
+
+#+begin_quote
+  ROM image from the 48gII/49g+/50g for use with emulators such as Emu48+.
+#+end_quote
+*** See Also
+**** [[id:9054c00a-5b4c-438f-ac8c-949bf646b351][Christoph Giesselink Emu48 Page]]
+**** [[id:96aa1f47-f5cb-4ac0-adc5-8d22dc29693f][dgis/emu48android: Emu48 for Android]]
+** (www.hpcalc.org) Equation Library and Periodic Table - detailed information
+:PROPERTIES:
+:ID:       67900cba-f043-47f7-9ca8-2d54fdcce355
+:ROAM_REFS: https://www.hpcalc.org/details/6515
+:END:
+
+#+begin_quote
+  Contains the old Equation Library and Periodic Table libraries from HP's Equation Library card for the 48SX, ported to the 49g+ and 50g.  The Equation Library libraries are the same as those included with ROM 2.08 and higher, and are included here in case they are accidentally deleted from the calculator.
+#+end_quote
+** (www.hpcalc.org) HP Periodic Table Library - detailed information
+:PROPERTIES:
+:ID:       3ff8595f-d71f-4305-a165-247bc0c40969
+:ROAM_REFS: https://www.hpcalc.org/details/1987
+:END:
+
+#+begin_quote
+  This is Hewlett Packard's own periodic table of elements library for the 48G series.
+#+end_quote
+** (www.hpcalc.org) Library Numbers - detailed information
+:PROPERTIES:
+:ID:       bd96e089-8eca-4110-b994-66a79a734ca2
+:ROAM_REFS: https://www.hpcalc.org/details/6824
+:END:
+
+#+begin_quote
+  Lists the original rules for assignment of library numbers.
+#+end_quote
+** (www.hpcalc.org) Entry Point Table - detailed information
+:PROPERTIES:
+:ID:       fe1cac98-9301-44d3-b4ec-1381a52e2879
+:ROAM_REFS: https://www.hpcalc.org/details/3245
+:END:
+
+#+begin_quote
+  Table of System RPL and assembly language entry points for the HP 49's built in assembler, along with a Windows 9x/NT entry point table creator and source code.
+#+end_quote
+** (www.hpcalc.org) Supported Entry Points 1.12 - detailed information
+:PROPERTIES:
+:ID:       e842e904-42eb-47a2-ab31-3109880b9a3b
+:ROAM_REFS: https://www.hpcalc.org/details/3247
+:END:
+
+#+begin_quote
+  Listing of all supported entry points in the HP 49 for System RPL and assembly language programmers.  Also includes a header file, which has key definitions, flags, and more, and a memory map.
+#+end_quote
+** (www.hpcalc.org) TEACH 48G - detailed information
+:PROPERTIES:
+:ID:       83c4eb20-c7b4-48cb-b24f-f2126a9d307e
+:ROAM_REFS: https://www.hpcalc.org/details/6080
+:END:
+
+#+begin_quote
+  The TEACH command from the 48G series to be used with the HP 49G(+).  Available as a library and as a program.
+#+end_quote
+** (www.hpcalc.org) HP Prime Quick Start Guide - detailed information :documentation:
+:PROPERTIES:
+:ID:       ebce4fcf-00c7-4a33-81f4-ad82c35e3289
+:ROAM_REFS: https://www.hpcalc.org/details/7880
+:END:
+
+#+begin_quote
+  HP Prime Graphing Calculator Quick Start Guide, the 52-page PDF full document included in printed form with the calculator.
+#+end_quote
+** (www.hpcalc.org) HP Prime User Guide 3rd Edition - detailed information :documentation:
+:PROPERTIES:
+:ID:       da18660f-acfa-4fe4-aa44-f5d824e1d277
+:ROAM_REFS: https://www.hpcalc.org/details/7445
+:END:
+
+#+begin_quote
+  HP Prime Graphing Calculator User Guide, the 761-page PDF full document included on the CD with the calculator.
+#+end_quote
+** (www.hpcalc.org) HP Prime Datasheet - detailed information :documentation:
+:PROPERTIES:
+:ID:       b324c7a8-bcd6-4a94-9aaa-e6a366dbe734
+:ROAM_REFS: https://www.hpcalc.org/details/7888
+:END:
+
+#+begin_quote
+  Promotional two-page data sheet advertising the Prime.
+#+end_quote
+** (www.hpcalc.org) HP Prime Algebra Workshop Materials - detailed information :documentation:
+:PROPERTIES:
+:ID:       51a026fd-073d-460f-a266-28f59ad8e6d4
+:ROAM_REFS: https://www.hpcalc.org/details/7904
+:END:
+
+#+begin_quote
+  A comprehensive 21-page PDF introducing teachers of Algebra 1 and Algebra 2 to using the Prime and the Prime Wireless Network, following the themes of the power of visualization and looking for patterns.  Includes identity graphing, systems of linear equations, infinite series, powers of a binomial, the Sierpinski Triangle, and solving trigonometric equations.
+#+end_quote
+** (www.hpcalc.org) HP Prime AP Calculus Summer Institute - detailed information :documentation:
+:PROPERTIES:
+:ID:       f90cf1de-9861-4e6f-93ec-8c634af0b25a
+:ROAM_REFS: https://www.hpcalc.org/details/7903
+:END:
+
+#+begin_quote
+  A comprehensive 65-page PDF explaining how to best use the Prime in an AP Calculus class.  Includes lots of screenshots and detailed step-by-step directions.
+#+end_quote
+** (www.hpcalc.org) HP Prime AP Statistics Summer Institute - detailed information :documentation:
+:PROPERTIES:
+:ID:       4c3c8d50-28cd-4d7f-839f-3be6c63d677f
+:ROAM_REFS: https://www.hpcalc.org/details/7902
+:END:
+
+#+begin_quote
+  A comprehensive 64-page PDF explaining how to best use the Prime in an AP Statistics class.  Includes lots of screenshots and detailed step-by-step directions.
+#+end_quote
+** (www.hpcalc.org) HP Prime Technology Corners - detailed information :documentation:
+:PROPERTIES:
+:ID:       70919cce-5933-4f6f-8dbf-59dd6bbe5892
+:ROAM_REFS: https://www.hpcalc.org/details/7890
+:END:
+
+#+begin_quote
+  A set of PDFs explaining how to do various statistical operations on the Prime.  Aimed at AP Statistics students.
+#+end_quote
+** (www.hpcalc.org) HP Prime Help Text - detailed information :documentation:
+:PROPERTIES:
+:ID:       2fead87d-ad23-4064-aa56-88316466ecc2
+:ROAM_REFS: https://www.hpcalc.org/details/9286
+:END:
+
+#+begin_quote
+  Full extract of the English-language help text built into the HP Prime.  In XML format.
+#+end_quote

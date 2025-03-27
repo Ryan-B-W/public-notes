@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       08a30cbd-6a87-4527-9d64-0807669fe01a
+:ROAM_REFS: https://socratic.org/
+:END:
+#+title: (socratic.org) Get unstuck. Learn better. | Socratic
+#+filetags: :education:website:
+
+General education resource site and mobile app.
+* (socratic.org) Solve the system of equations using matrices? 16x + 5y = 211 and 16x + y = 183 | Socratic :forums:education:mathematics:website:
+:PROPERTIES:
+:ID:       de068196-7dfc-46f7-a8a6-1f81f8e9b2ea
+:ROAM_REFS: https://socratic.org/questions/5a3c3b8bb72cff77f45192bd
+:END:

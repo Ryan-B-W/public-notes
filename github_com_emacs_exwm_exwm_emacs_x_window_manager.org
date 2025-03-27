@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       8691dc07-5037-4c01-bf25-736674e6b108
+:ROAM_REFS: https://github.com/emacs-exwm/exwm
+:END:
+#+title: (github.com) emacs-exwm/exwm: Emacs X Window Manager
+#+filetags: :open_source:x11:linux:lisp:emacs_lisp:emacs:software:website:
+
+#+begin_quote
+  * Emacs X Window Manager
+
+  EXWM (Emacs X Window Manager) is a full-featured tiling X window manager for Emacs built on top of [[https://github.com/emacs-exwm/xelb][XELB]].
+
+  It features:
+
+  - Fully keyboard-driven operations
+  - Hybrid layout modes (tiling & stacking)
+  - Dynamic workspace support
+  - ICCCM/EWMH compliance
+
+  Optional features:
+
+  - RandR (multi-monitor) support
+  - System tray
+  - Input method
+  - Background setting support
+  - XSETTINGS server
+
+  Please check out the [[https://github.com/emacs-exwm/exwm/wiki/Screenshots][screenshots]] to get an overview of what EXWM is capable of, and the [[https://github.com/emacs-exwm/exwm/wiki][user guide]] for installation instructions and a detailed explanation of its usage.
+#+end_quote

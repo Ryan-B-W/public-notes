@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       89f6dc73-352c-47de-9220-f79a80388679
+:ROAM_REFS: https://en.wikipedia.org/wiki/Michael_Bierut
+:END:
+#+title: (en.wikipedia.org) Michael Bierut - Wikipedia
+#+filetags: :design:people:website:
+
+#+begin_quote
+  Michael Bierut (born 1957) is a graphic designer, design critic and educator, who has been a partner at design firm Pentagram since 1990.  He designed the logo for Hillary Clinton's 2016 presidential campaign.
+#+end_quote

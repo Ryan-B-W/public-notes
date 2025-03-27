@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       f3c700d6-1a8a-4a9a-a7b6-8290ed9134c3
+:ROAM_REFS: https://m17project.org/
+:END:
+#+title: (m17project.org) Home | M17 Project
+#+filetags: :software:hardware:open_source:amateur_radio:radio:website:
+
+#+begin_quote
+  Open Source Amateur Radio.
+  We are M17.
+  M17 is a community of open source developers and radio enthusiasts.  We're building understandable systems in support of the hackers and experimenters' history of ham radio.
+#+end_quote

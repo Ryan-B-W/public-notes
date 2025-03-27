@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       b58f0c21-7d5c-4ff3-ba2c-2bacece84350
+:ROAM_REFS: https://vine.dev/docs/features/inverse
+:END:
+#+title: (vine.dev) The Inverse - The Vine Programming Language
+#+filetags: :documentation:programming:website:
+
+#+begin_quote
+  * [[https://vine.dev/docs/features/inverse#the-inverse][The Inverse]]
+
+  Vine's concept of the /inverse/ is not something seen in other programming languages, as it is a concept that is only possible due to the unique properties of interaction nets.
+
+  The /inverse type/ =~N32= represents an /expectation/ of an =N32=.  Such an expectation must be /fulfilled/ with an =N32=.  The type =~~N32= is equivalent to the type =N32=.
+
+  The /inverse operator/ can be applied to a value, a space, or a place.
+
+  - The inverse operator, when applied to a space =s= of type =T=, evaluates to a value of type =~T=.  This value is the expectation of a =T= that will be put into the space =s=.
+
+  - The inverse operator, when applied to a value =v= of type =T=, evaluates to a space of type =~T=.  Whatever expectation is put into the space will be fulfilled with the value =v=.
+
+  - The inverse operator, when applied to a place =p= of type =T=, evaluates to a place =q= of type =~T=.  The value of =q= is the inverse of the space of =p=; the space of =q= is the inverse of the value of =p=.
+
+  The /inverse pattern/ is essentially the reverse of the inverse operator, and can be used to unwrap inverse types.
+#+end_quote

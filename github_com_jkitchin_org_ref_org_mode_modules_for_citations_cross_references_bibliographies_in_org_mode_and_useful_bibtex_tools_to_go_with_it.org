@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       30632feb-caa2-486c-920c-915183c90430
+:ROAM_REFS: https://github.com/jkitchin/org-ref
+:END:
+#+title: (github.com) jkitchin/org-ref: org-mode modules for citations, cross-references, bibliographies in org-mode and useful bibtex tools to go with it.
+#+filetags: :emacs_lisp:writing:lisp:information_management:emacs:software:website:
+
+#+begin_quote
+  org-ref makes it easy to insert citations, cross-references, indexes and glossaries as hyper-functional links into org files.  The links are fontified so you can tell them apart from other links, and each link is clickable to access functions like opening a pdf, notes or url associated with the link.  Each link also can be exported to LaTeX to build a PDF.  For citations, export to other formats is supported by citeproc for high quality export to HTML, markdown, plain text, or stand-alone (i.e. independent of a bibtex file) LaTeX.  For a full explanation of the features in org-ref see ./org-ref.org.
+#+end_quote

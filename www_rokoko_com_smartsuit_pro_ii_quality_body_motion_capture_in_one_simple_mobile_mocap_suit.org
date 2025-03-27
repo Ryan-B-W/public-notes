@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       8a65b4d9-2d62-4057-b3b7-645229476c35
+:ROAM_REFS: https://www.rokoko.com/products/smartsuit-pro
+:END:
+#+title: (www.rokoko.com) Smartsuit Pro II - Quality body motion capture in one simple mobile mocap suit
+#+filetags: :virtual_reality:hardware:website:

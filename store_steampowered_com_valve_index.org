@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       55d4fc01-cedf-4f0c-a8b6-0bc47f947b3e
+:ROAM_REFS: https://store.steampowered.com/valveindex
+:END:
+#+title: (store.steampowered.com) Valve Index
+#+filetags: :virtual_reality:hardware:website:

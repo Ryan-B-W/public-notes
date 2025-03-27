@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       aa1753c2-74df-4ae8-8a2a-77743941a0da
+:ROAM_REFS: https://mitpress.mit.edu/9780262047760/essentials-of-compilation/
+:END:
+#+title: (mitpress.mit.edu) Essentials of Compilation
+#+filetags: :textbooks:computer_science:books:website:
+
+#+begin_quote
+  A hands-on approach to understanding and building compilers.
+
+  Compilers are notoriously some of the most difficult programs to teach and understand.  Most books about compilers dedicate one chapter to each progressive stage, a structure that hides how language features motivate design choices.  By contrast, this innovative textbook provides an incremental approach that allows students to write every single line of code themselves. /Essentials of Compilation/ guides the reader in constructing their own compiler for a small but powerful programming language, adding complex language features as the book progresses.  Jeremy Siek explains the essential concepts, algorithms, and data structures that underlie modern compilers and lays the groundwork for future study of advanced topics.  Already in wide use by students and professionals alike, this rigorous but accessible book invites readers to learn by doing.
+
+  - Deconstructs the challenge of compiler construction into bite-sized pieces
+  - Enhances learning by connecting language features to compiler design choices
+  - Develops understanding of how programs are mapped onto computer hardware
+  - Learn-by-doing approach suitable for students and professionals
+  - Proven in the classroom
+  - Extensive ancillary resources include source code and solutions
+#+end_quote
+* (github.com) Release Racket manuscript to MIT Press for editing · IUCompilerCourse/Essentials-of-Compilation
+:PROPERTIES:
+:ID:       d58bbd46-90a2-411d-96c8-9e53f9bba298
+:ROAM_REFS: https://github.com/IUCompilerCourse/Essentials-of-Compilation/releases/tag/racket-MIT-press
+:END:
+
+#+begin_quote
+  * Racket manuscript to MIT Press for editing (Pre-release)
+
+  This is the Racket of the version of the book sent to MIT Press for editing.
+#+end_quote
+** (github.com) Release Racket Release Oct. 2023 · IUCompilerCourse/Essentials-of-Compilation
+:PROPERTIES:
+:ID:       d0dcfb1e-27f4-4ba1-9958-816080bd52c7
+:ROAM_REFS: https://github.com/IUCompilerCourse/Essentials-of-Compilation/releases/tag/racket-october-2023
+:END:
+
+#+begin_quote
+  * Racket Release Oct. 2023 ([[https://github.com/IUCompilerCourse/Essentials-of-Compilation/releases/latest][Latest]])
+
+  This version includes the PDF for the Racket version.
+#+end_quote

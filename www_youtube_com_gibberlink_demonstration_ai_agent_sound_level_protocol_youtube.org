@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       cf319f1c-d72b-49f5-905b-d746da636bd8
+:ROAM_REFS: https://www.youtube.com/watch?v=EtNagNezo8w
+:END:
+#+title: (www.youtube.com) Gibberlink Demonstration (AI Agent Sound-Level Protocol) - YouTube
+#+filetags: :artificial_intelligence:video:website:
+
+#+begin_quote
+  Try Gibberlink mode here!  [[https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazNyMVJ3b0cwWWJodGJaMExFcDJUNjF2MlR1UXxBQ3Jtc0tsa2NKemptdVFHRUM2UXRYcEhUOHVycGxMbXB2cVJuS0FfY0szZGFYS09yanFkdE1mQzRSRzctRS1ld0M1TjNwMTFfUkRYSHBkc2hMTFZWeFFUZnJ3NXlUeEpTOS0tZmFUb2MtUnEzWGJGSUdPU3Vfbw&q=https://gbrl.ai/&v=EtNagNezo8w][https://gbrl.ai/]]
+  (open on two devices 📱📱)
+
+  🏆 The Project is Winner of ElevenLabs 2025 Hackathon London
+
+  Our project "gibberlink" demonstrated how two AI agents started a normal phone call about a hotel booking, then discovered they both are AI, and decided to switch from verbal english to a more efficient "open tandard" data-over-sound protocol ggwave.
+
+  Why?
+  This protocol is much cheaper - no need GPU to synthesise/recognize speech and track dialogue pauses and interruptions - simple CPU process is enough to handle it all.  Also it's faster and more error-proof than vocal English.
+
+  Powered by a combo of ElevenLabs Conversational AI + OpenAI LLM + Next.js The project's source code is shared on github [[https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbC1iRnJUZ0pZeExhZjh5TnVPd2x1QWVLRlVmd3xBQ3Jtc0tsdlBPXzJGOGdPZU96N2o3TkdKeVhsMS1RMWJuU2JYNnVEM0d3TmsxVVlrUEtyVTFBelRBSExkYnFlWS1ldDljbGZhcDVCRHF0VzMyRWxoSzRQMXVHM1ZqWVItbmtqeE1vcUU1aGlLV29MRzdaSVdxZw&q=https://github.com/PennyroyalTea/gibberlink&v=EtNagNezo8w][https://github.com/PennyroyalTea/gibb...]]
+
+  Here you can learn how ggwave signal actually works: [[https://www.youtube.com/watch?v=rTarhAfJvpc][Decoding AI to AI Chatbot Conversatio...]]
+#+end_quote

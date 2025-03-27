@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       476fe96b-a3a8-4703-a4de-fe1bca399ad2
+:ROAM_REFS: https://docs.angr.io/en/latest/
+:END:
+#+title: (docs.angr.io) angr documentation
+#+filetags: :reverse_engineering:development_environment:software_development:software:programming:computer_science:website:

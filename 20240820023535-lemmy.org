@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e0ce32e7-da4d-4005-b891-174247c9b686
+:END:
+#+title: Lemmy
+#+filetags: :open_source:fediverse:software:
+
+An [[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][open-source]], federated link-aggregator web-service.
+* Lemmy - A link aggregator for the fediverse :open_source:software:fediverse:website:
+:PROPERTIES:
+:ID:       78876c6f-caae-4ae6-9cc2-a2850404fa4a
+:ROAM_REFS: https://join-lemmy.org/
+:END:
+* Lemmy (social network) - Wikipedia :open_source:software:fediverse:website:
+:PROPERTIES:
+:ID:       c6482da5-cc39-45a9-a0f4-629ea44fc9a1
+:ROAM_REFS: https://en.wikipedia.org/wiki/Lemmy_(social_network)
+:END:
+
+#+begin_quote
+  Lemmy is a free and open-source software for running self-hosted social news aggregation and discussion forums.  These hosts, known as "instances", communicate with each other using the ActivityPub protocol.
+#+end_quote

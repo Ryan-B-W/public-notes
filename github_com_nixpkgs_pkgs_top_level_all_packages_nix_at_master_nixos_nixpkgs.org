@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       58a129d5-85e0-4e32-971f-65bd5946f288
+:ROAM_REFS: https://github.com/NixOS/nixpkgs/blob/master/pkgs/top-level/all-packages.nix
+:END:
+#+title: (github.com) nixpkgs/pkgs/top-level/all-packages.nix at master · NixOS/nixpkgs
+#+filetags: :nix:website:

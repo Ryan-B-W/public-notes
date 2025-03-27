@@ -1,0 +1,82 @@
+:PROPERTIES:
+:ID:       96e0b320-61ec-4e48-b5b8-e0d6d64577ef
+:ROAM_REFS: https://www.reddit.com/r/emacs/comments/14kgnsh/evil_modes_kinda_hacky/
+:END:
+#+title: (www.reddit.com) Evil mode's kinda hacky : r/emacs
+#+filetags: :vim:emacs:website:
+
+#+begin_quote
+  Evil mode's kinda hacky
+
+  Been using Neovim as my "ide", like to switch to Emacs.
+  Neovim pros:
+   - Very fast workflow
+   - well chosen keybindings
+   - great Project overview
+   - works in Terminal
+   - Tabs ❤️
+  Cons:
+   - lack of features (no standardized)
+   - many plugins unstable
+   - sometimes freezes
+   - not all plugins Crossplatform
+  Emacs Pros:
+   - Lots of features for development and more
+   - Lisp better than lua or vimscript
+   - GUI and Terminal
+   - Org-mode, Magit, ...
+   - self documentation, file opening, ...
+  Cons:
+   - Bad default movement
+   - complicated Keybindings general
+  Some things that are important to me.  Biggest thing holding me off from switching are the Keybindings.  Just Moving the cursor is already such a strech.  I've installed Evil mode but you have to configure it with every other plugin and often end up with doubled behaviour and not everything working as expected.  It's still very hacky and i'm not sute if i should be using it.
+  My Question is if i should just commit to the default binding?  I've heard that they are subjectively bad and cause pinky strain and don't allow a fast workflow, and i can see that being the case.  But maybe it just comes down to practice.
+  Any of you had the same experience coming from Vim?  Who uses the default bindings?  Do you experience any problems with them?
+  Thank you in advance!
+#+end_quote
+* Comments of note
+** MitchellMarquez42
+#+begin_quote
+  : you have to configure it with every other plugin and often end up with doubled behaviour and not everything working as expected
+  What??? How??? Install evil-collection for universal navigation.  evil-surround is literally vim-surround, evil-commentary is literally vim-commentary, they've been ported perfectly.
+  If you need more fine-grained keybindings control use https://github.com/noctuid/general.el
+  : It's still very hacky and i'm not sure if i should be using it.
+  Evil-mode is a very mature package.  It does some fundamentally hacky things, but sees them thru very well.
+  I switched from neovim just over a year ago.  Following along with various tutorials, vim keys took a couple hours to get perfect then everything else is still evolving.  It feels like emacs is the vim I always wanted.
+  Finally, if you really think evil-mode is bad, go try vscode vim extension and come back and say it again.  I dare you.
+#+end_quote
+** [deleted]
+#+begin_quote
+  Depending on how deep you are into neovim, staying on that plattform is viable, but since you want to switch I'd like to point you to some posts I've written on my personal blog reflecting on my journey from neovim to emacs.
+  [[id:2b75fd71-ae14-45dd-aea7-c3cd036b61a7][Emacs: One year later]] is a critical review of emacs.
+  [[id:abbb53d5-7505-421a-8538-bf64e63d9c0b][Neovim customization is inexcusably bad]] was published shortly after.
+  I recommend starting with doom emacs either way.
+  Configuring global keybindings, like with the leader key not evil mode, is a huge chore to the point that I booked a coaching session with protesilaos to help me out.
+  Especially if you choose to go with vanilla emacs right away, and if you can afford it, you should consider booking him as a coach for some of the inevitable roadblocks in this editor.
+#+end_quote
+** yaglo
+Links to [[id:b5d3b275-82a8-4906-b87f-a83c31e64c5a][god-mode]].
+#+begin_quote
+  You can try https://github.com/emacsorphanage/god-mode
+#+end_quote
+*** the-15th-standard
+#+begin_quote
+  These days there is also devil-mode: https://susam.github.io/devil/
+#+end_quote
+**** yaglo
+#+begin_quote
+  This is interesting as I kind of got to a similar set up.  I use a similar approach with , acting as a control key, but when I hold it. I use MTGAP layout and , is in the middle of the keyboard in addition to caps lock.  Also, in MTGAP p/n and b/f are placed together, which also adds a bit of convenience.
+
+  Now I think I should have added my experience in the original comment.
+
+  I personally don’t like modes in UIs.  But the devil-mode looks like a good alternative, being a quasi mode, which is still good and doesn’t have issues arising from modes.
+#+end_quote
+*** emacsomancer
+Links to [[id:f366f971-e924-448e-be1a-14484ed21994][meow]].
+#+begin_quote
+  also meow
+#+end_quote
+*** fast-90
+#+begin_quote
+  +1 for meow. I switched over from using Evil for a while, and got used to meow faster than I expected. Meow works much better for me as I don’t have to use evil-collection/general, and can still use the default emacs keybindings.
+#+end_quote

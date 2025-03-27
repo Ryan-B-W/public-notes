@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       32941e7b-4314-4f76-aa90-dce1c60de117
+:ROAM_REFS: https://www.mathandcode.com/nks/
+:END:
+#+title: (www.mathandcode.com) New Kind of Science Reading Group
+#+filetags: :stephen_wolfram:website:
+
+#+begin_quote
+  * New Kind of Science Reading Group
+
+  These are the meeting notes and associated notebooks for a reading group on A New Kind of Science.  Our goals in this reading group are to read (or re-read) Stephen Wolfram's A New Kind of Science, and also to collect the code snippets and ideas of all reading group attendees.  At the end, we want to end up with curated notebooks containing all of our interesting ideas, questions, and code snippets
+
+  We have meetings every Sunday at 10:00am PST / 11:00am CDMX.
+
+  Feel free to join us in the [[https://wolframinstitute.org/community][Wolfram Institute Community Discord]].  Please note that you're expected to use your real identity in this server.  You may have to search for the [[https://discord.com/channels/1031080662880505906/1269744710549770304][#nks_bookclub]] channel.
+#+end_quote

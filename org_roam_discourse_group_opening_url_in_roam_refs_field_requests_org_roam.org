@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       3aeaf091-3677-45ee-9069-91255847cf18
+:ROAM_REFS: https://org-roam.discourse.group/t/opening-url-in-roam-refs-field/2564
+:END:
+#+title: (org-roam.discourse.group) Opening URL in ROAM_REFS field? - Requests - Org-roam
+#+filetags: :emacs_lisp:lisp:emacs:website:
+
+One of the replies:
+#+begin_quote
+  Thank you for your ideas @nobiot. Based on them, I’ve written this up, which is simple and does the trick:
+  : (defun gpc/open-node-roam-ref-url ()
+  :   "Open the URL in this node's ROAM_REFS property, if one exists"
+  :   (interactive)
+  :   (when-let ((ref-url (org-entry-get-with-inheritance "ROAM_REFS")))
+  :     (browse-url ref-url)))
+  I bound it to a keystroke under my roam prefix in Doom, and am happy now :slight_smile:
+#+end_quote

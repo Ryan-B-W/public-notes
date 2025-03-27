@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       012bbce5-7ebe-4a71-9e7f-a63a8124fab3
+:ROAM_REFS: https://www.jetify.com/devbox
+:END:
+#+title: (www.jetify.com) Devbox: Portable, Isolated Dev Environments
+#+filetags: :software:development_environment:software_development:website:

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       f5a204a4-a193-4277-bc50-9f77547a2290
+:ROAM_REFS: https://imagekit.io/lp/cloudinary-alternative/
+:END:
+#+title: (imagekit.io) Cloudinary alternative | Feature, integration & price comparison | ImageKit.io
+#+filetags: :website:
+
+#+begin_quote
+  Spend over 40% less with ImageKit. Get a world-class media processing and management product that ALSO works with your own storage.
+#+end_quote

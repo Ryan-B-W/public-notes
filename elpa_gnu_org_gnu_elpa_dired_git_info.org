@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       4f71e40e-6751-4932-96d1-b3dcffbd025b
+:ROAM_REFS: https://elpa.gnu.org/packages/dired-git-info.html
+:END:
+#+title: (elpa.gnu.org) GNU ELPA - dired-git-info
+#+filetags: :version_control:software:lisp:emacs:website:
+
+#+begin_quote
+  This Emacs packages provides a minor mode which shows git information inside the dired buffer
+#+end_quote

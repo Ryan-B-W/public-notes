@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       0ea5d529-69a2-4b0a-a7c9-ef4500c53971
+:ROAM_REFS: https://en.wikipedia.org/wiki/Yamata_no_Orochi
+:END:
+#+title: (en.wikipedia.org) Yamata no Orochi - Wikipedia
+#+filetags: :folklore:japan:website:
+
+#+begin_quote
+  Yamata no Orochi (ヤマタノオロチ, also 八岐大蛇, 八俣遠呂智 or 八俣遠呂知), or simply Orochi (大蛇), is a legendary eight-headed and eight-tailed Japanese dragon/serpent.
+#+end_quote

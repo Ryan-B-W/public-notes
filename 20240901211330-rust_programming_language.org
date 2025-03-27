@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       8d57c4b9-a378-42be-8a0d-30f55b39c869
+:END:
+#+title: Rust Programming Language
+#+filetags: :static_analysis:rust_lang:programming:programming_language:computer_science:
+
+Popular statically typed compiled [[id:b24601aa-09df-41e1-aa7e-25ead342db34][programming language]].  Has a rigorous static analysis system focused on memory safety.
+* (www.rust-lang.org) Rust Programming Language :website:static_analysis:rust_lang:programming:programming_language:computer_science:
+:PROPERTIES:
+:ID:       e94d9a57-60c9-465f-b608-970f3741200e
+:ROAM_REFS: https://www.rust-lang.org/
+:END:
+** (www.rust-lang.org) Learn Rust - Rust Programming Language :documentation:website:static_analysis:rust_lang:programming:programming_language:computer_science:
+:PROPERTIES:
+:ID:       ca104cca-902c-4db2-bd90-f3f331de0b92
+:ROAM_REFS: https://www.rust-lang.org/learn
+:END:
+*** (doc.rust-lang.org) The Rust Programming Language - The Rust Programming Language :documentation:books:website:static_analysis:rust_lang:programming:programming_language:computer_science:
+:PROPERTIES:
+:ID:       994360ee-6dad-4313-bb8b-572ed7e646dc
+:ROAM_REFS: https://doc.rust-lang.org/book/
+:END:
+*** (doc.rust-lang.org) Introduction - Rust By Example :documentation:website:static_analysis:rust_lang:programming:programming_language:computer_science:
+:PROPERTIES:
+:ID:       f5c3a961-6ed4-4914-88dd-3712f64bceb9
+:ROAM_REFS: https://doc.rust-lang.org/rust-by-example/
+:END:

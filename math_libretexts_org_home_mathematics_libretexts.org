@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       8cd0c801-54a7-44f3-ba58-d79e20f70836
+:ROAM_REFS: https://math.libretexts.org/
+:END:
+#+title: (math.libretexts.org) Home - Mathematics LibreTexts
+#+filetags: :web_books:education:textbooks:mathematics:website:
+
+#+begin_quote
+  Welcome to the Mathematics Library.  This Living Library is a principal hub of the LibreTexts project, which is a multi-institutional collaborative venture to develop the next generation of open-access texts to improve postsecondary education at all levels of higher learning.  The LibreTexts approach is highly collaborative where an Open Access textbook environment is under constant revision by students, faculty, and outside experts to supplant conventional paper-based books.
+#+end_quote
+* (math.libretexts.org) 4.6: Solve Systems of Equations Using Matrices - Mathematics LibreTexts
+:PROPERTIES:
+:ID:       13ca4247-fb1b-4bae-83a8-2f0fb7f46083
+:ROAM_REFS: https://math.libretexts.org/Bookshelves/Algebra/Intermediate_Algebra_1e_(OpenStax)/04:_Systems_of_Linear_Equations/4.06:_Solve_Systems_of_Equations_Using_Matrices
+:END:

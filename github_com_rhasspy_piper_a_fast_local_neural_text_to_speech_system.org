@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       21e7f1fb-2957-49bd-bc1a-5e7068368191
+:ROAM_REFS: https://github.com/rhasspy/piper
+:END:
+#+title: (github.com) rhasspy/piper: A fast, local neural text to speech system
+#+filetags: :text_to_speech:machine_learning:software:website:
+
+#+begin_quote
+  A fast, local neural text to speech system that sounds great and is optimized for the Raspberry Pi 4. Piper is used in a variety of projects.
+
+  #+begin_src bash
+    echo 'Welcome to the world of speech synthesis!' | \
+      ./piper --model en_US-lessac-medium.onnx --output_file welcome.wav
+  #+end_src
+
+  Listen to voice samples and check out a video tutorial by Thorsten Müller
+
+  Voices are trained with VITS and exported to the onnxruntime.
+
+  This is a project of the Open Home Foundation.
+#+end_quote

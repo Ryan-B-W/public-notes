@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       6cdae524-7b0d-484f-b2e0-79af542f79ad
+:ROAM_REFS: https://github.com/sheijk/hideshowvis
+:END:
+#+title: (github.com) sheijk/hideshowvis: Add little +/- icons in the Emacs fringe for regions which hideshow.el can hide.
+#+filetags: :lisp:emacs:software:website:
+
+#+begin_quote
+  Add little +/- icons in the Emacs fringe for regions which hideshow.el can hide.
+#+end_quote

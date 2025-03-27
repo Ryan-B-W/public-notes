@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c1107bd6-06e7-4e55-86d2-854c241da5ca
+:END:
+#+title: North Orange County Community College District (NOCCCD)
+#+filetags: :organization:college:education:
+
+* (www.nocccd.edu) North Orange County Community College District | North Orange County Community College District :website:
+:PROPERTIES:
+:ID:       df287199-ec56-4e49-80ad-88d6c000b45e
+:ROAM_REFS: https://www.nocccd.edu/
+:END:

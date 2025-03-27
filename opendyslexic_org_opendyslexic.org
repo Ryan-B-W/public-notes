@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       1d1da52e-0dff-49da-a755-f866caa3c701
+:ROAM_REFS: https://opendyslexic.org/
+:END:
+#+title: (opendyslexic.org) OpenDyslexic
+#+filetags: :open_source:fonts_sans:fonts_proportional:fonts:accessibility:website:
+
+#+begin_quote
+  *OpenDyslexic: A typeface for Dyslexia*
+  OpenDyslexic is a typeface designed against some common symptoms of dyslexia.  If you like the way you are able to read this page, and others, then this typeface is for you!
+  OpenDyslexic is free to use: The newest version of OpenDyslexic now uses the SIL-OFL license, giving you freedom to use it for personal use, business use, education, commercial, books, ebook readers, applications, websites, and any other project or purpose you need.
+#+end_quote

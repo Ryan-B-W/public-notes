@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       64a4e298-a5b2-4058-963f-f7c60adf853e
+:ROAM_REFS: https://github.com/shushcat/mla_paper_template
+:END:
+#+title: (github.com) shushcat/mla_paper_template: Generate MLA-formatted PDFs with Markdown and Pandoc
+#+filetags: :software:writing:website:

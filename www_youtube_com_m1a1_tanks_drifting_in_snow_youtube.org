@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       c9017a22-9d66-4fca-ada8-db4b38a23575
+:ROAM_REFS: https://www.youtube.com/watch?v=tnTVbsfixfM&t=455s
+:END:
+#+title: (www.youtube.com) M1A1 Tanks Drifting in Snow - YouTube
+#+filetags: :military_tanks:military_equipment:video:website:
+
+#+begin_quote
+  U.S. Marines M1A1 tank crews work with the Norwegian Telemark Battalion on techniques of driving tracked vehicles in winter conditions on an snow/ice track.
+
+  A Norwegian Leopard 2 Main Battle Tank leads U.S. Marine M1 Abrams, from the Combined Arms Company, to various cold-weather training sites for tracked vehicles in Rena, Norway.
+
+  The training exercise is designed to improve U.S. Marine Corps capability to operate in cold-weather environments.
+#+end_quote

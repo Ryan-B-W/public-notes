@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       89a84234-c81d-4d2b-ab2f-7fa3e4d86808
+:ROAM_REFS: https://strapi.io/features/media-library
+:END:
+#+title: (strapi.io) Media Library - Strapi Features
+#+filetags: :website:
+
+#+begin_quote
+  All your media assets in one place
+  Upload your images, videos, audio or documents to the media library. Easily find the right asset, edit and reuse it.
+#+end_quote

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       e93c3d6e-962b-4584-9991-4888ef788816
+:ROAM_REFS: https://t6.fyi/guides/inets
+:END:
+#+title: (t6.fyi) An Illustrated Guide to Interaction Nets - t6.fyi
+#+filetags: :website:
+
+#+begin_quote
+  * An Illustrated Guide to Interaction Nets
+
+  Interaction nets are an alternate model of computation that is inherently parallel. An interaction net consists of several agents.
+#+end_quote

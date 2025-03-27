@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       371adb97-458f-4539-8051-444335a429e5
+:END:
+#+title: Computer Algebra System (CAS)
+#+filetags: :mathematics:programming:computer_science:
+
+A piece of software that can do symbolic algebraic manipulations and calculations instead of the simpler rational arithmetic of simple calculators.
+
+Common examples:
+ - [[id:95ed9369-26d3-4050-b079-016f3114ba9a][Maxima]], an open source CAS written in [[id:b5fb5c4b-d10f-4bca-91e1-a5e946ef0c83][Common Lisp]]
+ - Mathematica, a proprietary CAS and simulation suite from Wolfram
+ - Symbolica, a proprietary CAS library
+ - MATLAB, a proprietary mathematics and simulation suite that includes the Symbolic Math Toolbox CAS
+ - Wolfram Alpha, a proprietary online CAS from Wolfram

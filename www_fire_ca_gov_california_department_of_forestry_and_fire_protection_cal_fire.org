@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       8fc97c9f-a6e4-424e-a382-4b8c4580e5fd
+:ROAM_REFS: https://www.fire.ca.gov/
+:END:
+#+title: (www.fire.ca.gov) California Department of Forestry and Fire Protection | CAL FIRE
+#+filetags: :emergency_resource:government_site:website:

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       587195e0-05b2-4d98-8fc0-83002892bbf4
+:ROAM_REFS: https://en.wikipedia.org/wiki/Z3_Theorem_Prover
+:END:
+#+title: (en.wikipedia.org) Z3 Theorem Prover - Wikipedia
+#+filetags: :mathematics:programming:software:computer_science:website:

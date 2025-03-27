@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       62f9bf99-8345-4e3f-8a86-d5ae697d98c9
+:ROAM_REFS: https://en.wikipedia.org/wiki/Megami_Tensei
+:END:
+#+title: (en.wikipedia.org) Megami Tensei - Wikipedia
+#+filetags: :jrpg:rpg:games:franchise:japanese_media:website:
+
+#+begin_quote
+  /*Megami Tensei*/, marketed internationally as /*Shin Megami Tensei*/ (formerly /Revelations/), is a Japanese [[https://en.wikipedia.org/wiki/Media_franchise][media franchise]] created by Aya Nishitani, [[https://en.wikipedia.org/wiki/Kouji_Okada][Kouji "Cozy" Okada]], Ginichiro Suzuki, and Kazunari Suzuki.  Primarily developed and published by [[https://en.wikipedia.org/wiki/Atlus][Atlus]], and owned by [[https://en.wikipedia.org/wiki/Sega][Sega]], the franchise consists of multiple subseries and covers multiple [[https://en.wikipedia.org/wiki/Role-playing_video_game][role-playing video game]] genres including [[https://en.wikipedia.org/wiki/Tactical_role-playing_game][tactical role-playing]], [[https://en.wikipedia.org/wiki/Action_role-playing_game][action role-playing]], and [[https://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game][massively multiplayer online role-playing]].  The first two titles in the series were published by [[https://en.wikipedia.org/wiki/Namco][Namco]] (now [[https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment][Bandai Namco Entertainment]]), but have been almost always published by Atlus in Japan and North America since the release of /[[https://en.wikipedia.org/wiki/Shin_Megami_Tensei_(video_game)][Shin Megami Tensei]]/.  For Europe, Atlus publishes the games through third-party companies.
+
+  The series was originally based on /Digital Devil Story/, a science fiction novel series by Aya Nishitani.  The series takes its name from the first book's subtitle.  Most /Megami Tensei/ titles are stand-alone entries with their own stories and characters.  Recurring elements include plot themes, a story shaped by the player's choices, and the ability to fight using and often recruit creatures (demons, Personas) to aid the player in battle.  Elements of philosophy, religion, occultism, and science fiction have all been incorporated into the series at different times.
+
+  While not maintaining as high a profile as series such as /[[https://en.wikipedia.org/wiki/Final_Fantasy][Final Fantasy]]/ and /[[https://en.wikipedia.org/wiki/Dragon_Quest][Dragon Quest]]/, it is highly popular in Japan and maintains a strong cult following in the West, finding critical and commercial success.  The series has become well known for its artistic direction, challenging gameplay, and music, but raised controversy over its mature content, dark themes, and use of Christian religious imagery.  Additional media include manga adaptations, anime films, and television series.
+
+  In Japan, some games in the series do not use the "/Megami Tensei/" title, such as the /[[https://en.wikipedia.org/wiki/Persona_(series)][Persona]]/ sub-series.  Many of the early games in the series were not localized due to potentially controversial content including religious references, and later due to their age.  English localizations have used the "/Shin Megami Tensei/" moniker since the release of /[[https://en.wikipedia.org/wiki/Shin_Megami_Tensei:_Nocturne][Shin Megami Tensei: Nocturne]]/ in 2004.
+#+end_quote

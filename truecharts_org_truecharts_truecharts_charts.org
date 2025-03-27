@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       77f0e122-3ed7-41d6-bad3-4d515ac8525e
+:ROAM_REFS: https://truecharts.org/
+:END:
+#+title: (truecharts.org) TrueCharts | TrueCharts Charts
+#+filetags: :website:
+
+#+begin_quote
+  TrueCharts
+  Your Source for Awesome Helm-Charts!
+#+end_quote

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       03a48b1b-2c60-4829-bce0-2fa4bb7a9f35
+:ROAM_REFS: https://www.reddit.com/r/emacs/comments/xex6dk/modal_editing_evil_boon_or_meow/
+:END:
+#+title: (www.reddit.com) Modal editing: Evil, Boon or Meow? : r/emacs
+#+filetags: :emacs:forums:website:

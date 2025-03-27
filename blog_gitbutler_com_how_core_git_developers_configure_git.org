@@ -1,0 +1,83 @@
+:PROPERTIES:
+:ID:       f3ab2fb7-34c7-4ec5-956a-00c1935c93d1
+:ROAM_REFS: https://blog.gitbutler.com/how-git-core-devs-configure-git/
+:END:
+#+title: (blog.gitbutler.com) How Core Git Developers Configure Git
+#+filetags: :version_control:software_development:blog_post:website:
+
+#+begin_quote
+  * How Core Git Developers Configure Git
+
+  What `git config` settings should be defaults by now? Here are some settings that even the core developers change.
+
+  [[https://blog.gitbutler.com/tag/git/][git]]
+
+  A few weeks ago I [[https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/][wrote about]] Git's =help.autocorrect= setting and the strange tale of the origin of it's deciseconds value.
+
+  It got me to thinking about other =git config= settings that most people likely don't know about and which should probably be defaulted differently.
+
+  In this post, I'll go through some of the perhaps obscure Git config settings that I have personally globally enabled and go into them to explain what they do and why they should /probably/ be the default settings.
+
+  Also, it turns out that I learned most of these from the people who actually work on the core Git codebase every day.
+
+  ** TLDR
+
+  First, though, some of you may not particularly care about the wonderful and sordid history of the =rerere= values or whatever. You may just be thinking “just give me the settings so I can blindly throw them into my =~/.gitconfig= file."
+
+  Well, fair enough. Here is the fun stuff:
+
+  #+begin_src ini
+    # clearly makes git better
+
+    [column]
+            ui = auto
+    [branch]
+            sort = -committerdate
+    [tag]
+            sort = version:refname
+    [init]
+            defaultBranch = main
+    [diff]
+            algorithm = histogram
+            colorMoved = plain
+            mnemonicPrefix = true
+            renames = true
+    [push]
+            default = simple
+            autoSetupRemote = true
+            followTags = true
+    [fetch]
+            prune = true
+            pruneTags = true
+            all = true
+
+    # why the hell not?
+
+    [help]
+            autocorrect = prompt
+    [commit]
+            verbose = true
+    [rerere]
+            enabled = true
+            autoupdate = true
+    [core]
+            excludesfile = ~/.gitignore
+    [rebase]
+            autoSquash = true
+            autoStash = true
+            updateRefs = true
+
+    # a matter of taste (uncomment if you dare)
+
+    [core]
+            # fsmonitor = true
+            # untrackedCache = true
+    [merge]
+            # (just 'diff3' if git version < 2.3)
+            # conflictstyle = zdiff3
+    [pull]
+            # rebase = true
+    #+end_src
+
+    Copypasta, my friends.
+#+end_quote

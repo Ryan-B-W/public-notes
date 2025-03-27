@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       877ea096-5068-482d-b369-208c7157bc34
+:ROAM_REFS: https://byjus.com/
+:END:
+#+title: (byjus.com) BYJU'S Online learning Programs For K3, K10, K12, NEET, JEE, UPSC & Bank Exams
+#+filetags: :education:website:
+
+From the "About Us" section:
+#+begin_quote
+  BYJU'S is India's largest ed-tech company and the creator of India's most loved school learning app.  Launched in 2015, BYJU'S offers highly personalised and effective learning programs for classes 1 - 12 (K-12), and aspirants of competitive exams like JEE, IAS etc.  With 50 million registered students and 3.5 million paid subscriptions, BYJU'S has become one of the most preferred education platforms across the globe.
+#+end_quote
+* (byjus.com) Solution of Linear Equations using Matrix Method | BYJU'S :textbooks:education:mathematics:website:
+:PROPERTIES:
+:ID:       23e0b6fa-2d9f-4cbe-a569-4fde517619ce
+:ROAM_REFS: https://byjus.com/jee/solving-linear-equations-using-matrix/
+:END:
+
+#+begin_quote
+  Solving linear equations using matrix is done by two prominent methods, namely the matrix method and row reduction or the Gaussian elimination method.  In this article, we will look at solving linear equations with matrix and related examples.  With the study notes provided below, students will develop a clear idea about the topic.
+#+end_quote

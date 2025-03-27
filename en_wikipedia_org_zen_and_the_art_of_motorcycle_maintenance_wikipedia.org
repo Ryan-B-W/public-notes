@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       0e86bca4-e1bb-49d3-9d63-8b90db43d6fb
+:ROAM_REFS: https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance
+:END:
+#+title: (en.wikipedia.org) Zen and the Art of Motorcycle Maintenance - Wikipedia
+#+filetags: :philosophy:books:website:
+
+#+begin_quote
+  Zen and the Art of Motorcycle Maintenance: An Inquiry into Values is a book by Robert M. Pirsig first published in 1974.  It is a work of fictionalized autobiography and the first of Pirsig's texts in which he discusses his concept of Quality.
+#+end_quote

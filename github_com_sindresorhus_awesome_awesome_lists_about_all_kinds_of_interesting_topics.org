@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       b68f6790-2653-40f7-8061-9ee7215cbecd
+:ROAM_REFS: https://awesome.re/ https://github.com/sindresorhus/awesome
+:END:
+#+title: (github.com) sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics
+#+filetags: :lists:website:
+
+An awesome list that lists other awesome lists.

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       98a36fbe-bf32-4a8c-a030-9e76cd637852
+:ROAM_REFS: https://www.royalroad.com/home
+:END:
+#+title: (www.royalroad.com) Home | Royal Road
+#+filetags: :fiction:www:content_host:website:
+
+Popular website for hosting fiction.  Namely books and similar written works.  Occasionally also hosts light novels and graphic novels.
+* (www.royalroad.com) Terms of Service | Royal Road :contract_tos:contracts:website:ATTACH:
+:PROPERTIES:
+:ID:       933358dd-e81a-4f18-977a-b80d23da4960
+:ROAM_REFS: https://www.royalroad.com/tos
+:END:

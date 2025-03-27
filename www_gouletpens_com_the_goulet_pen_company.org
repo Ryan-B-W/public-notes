@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       9dff5716-abe9-400c-a21e-adea7135eab1
+:ROAM_REFS: https://www.gouletpens.com/
+:END:
+#+title: (www.gouletpens.com) The Goulet Pen Company
+#+filetags: :stationary:store:website:
+
+#+begin_quote
+  *** About Us
+
+  Our mission is to provide fountain pen enthusiasts with the most personal online shopping experience through comprehensive education, exemplary service, and products we believe in.
+#+end_quote

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       89832fb0-a58f-4a02-855a-77708a506f48
+:ROAM_REFS: https://web.archive.org/web/20181130160540/https:/maa.org/sites/default/files/pdf/devlin/LockhartsLament.pdf
+:END:
+#+title: (web.archive.org) A Mathematician’s Lament by Paul Lockhart [pdf]
+#+filetags: :mime_type_application_pdf:education:mathematics:essay:website:
+
+#+begin_quote
+  A musician wakes from a terrible nightmare.  In his dream he finds himself in a society where music education has been made mandatory.  “We are helping our students become more competitive in an increasingly sound-filled world.”  Educators, school systems, and the state are put in charge of this vital project.  Studies are commissioned, committees are formed, and decisions are made— all without the advice or participation of a single working musician or composer.
+#+end_quote

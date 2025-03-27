@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       69b7cd1b-b9f6-47a9-ac70-6fe9ff0d26a8
+:ROAM_REFS: https://en.wikipedia.org/wiki/Flutter_(software)
+:END:
+#+title: (en.wikipedia.org) Flutter (software) - Wikipedia
+#+filetags: :google:programming:software_development:website:
+
+#+begin_quote
+  Flutter is an open-source UI software development kit created by Google.  It can be used to develop cross platform applications from a single codebase for the web, Fuchsia, Android, iOS, Linux, macOS, and Windows.  First described in 2015, Flutter was released in May 2017.  Flutter is used internally by Google in apps such as Google Pay and Google Earth as well as other software developers including ByteDance and Alibaba.
+  Flutter ships applications with its own rendering engine which directly outputs pixel data to the screen.  This is in contrast to many other UI frameworks that rely on the target platform to provide a rendering engine, such as native Android apps which rely on the device-level Android SDK or React Native which dynamically uses the target platform's built-in UI stack.  Flutter's control of its rendering pipeline simplifies multi-platform support as identical UI code can be used for all target platforms.
+#+end_quote

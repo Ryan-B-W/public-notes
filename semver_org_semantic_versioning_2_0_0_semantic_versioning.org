@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       4d3d54e9-bdee-44c2-91c0-45e7fcd18e04
+:ROAM_REFS: https://semver.org/
+:END:
+#+title: (semver.org) Semantic Versioning 2.0.0 | Semantic Versioning
+#+filetags: :website:
+
+#+begin_quote
+  Given a version number MAJOR.MINOR.PATCH, increment the:
+   1. MAJOR version when you make incompatible API changes
+   2. MINOR version when you add functionality in a backward compatible manner
+   3. PATCH version when you make backward compatible bug fixes
+  Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
+#+end_quote

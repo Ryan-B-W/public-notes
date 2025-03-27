@@ -1,0 +1,85 @@
+:PROPERTIES:
+:ID:       5164a4cd-b02e-4a3d-b8a2-8563e8cc1c8d
+:ROAM_REFS: https://gpd.hk/
+:END:
+#+title: (gpd.hk) Shenzhen GPD Technology Co., Ltd.
+#+filetags: :electronics:website:
+
+Shenzhen, China based electronics manufacturer specializing in ultraportable PCs.
+* (gpd.hk) Product - Shenzhen GPD Technology Co., Ltd.                :store:
+:PROPERTIES:
+:ID:       1ad8442c-e9f3-404e-9b25-363c60f8dd77
+:ROAM_REFS: https://gpd.hk/product
+:END:
+
+** (gpd.hk) GPD Pocket 4 - Shenzhen GPD Technology Co., Ltd.
+:PROPERTIES:
+:ID:       d6cce14a-5c5d-49e8-ad63-7a1014f464ef
+:ROAM_REFS: https://gpd.hk/gpdpocket4
+:END:
+
+#+begin_quote
+  *GPD Pocket 4*
+
+  8.8-inch Screen, Modular Full-featured Handheld AI PC
+
+  Ultra-portable | 144Hz High-refresh Iris Display | Expandable Modules | Versatile Ports | Sleek Design | 28W TDP | Multi-modal | AI PC
+#+end_quote
+** (gpd.hk) GPD WIN Mini (2025) - Shenzhen GPD Technology Co., Ltd.
+:PROPERTIES:
+:ID:       d243c9ba-ea7d-45bb-962b-b23c4e64d6b4
+:ROAM_REFS: https://gpd.hk/gpdwinmini2025
+:END:
+
+#+begin_quote
+  *GPD WIN Mini (2025)*
+
+  7-inch Handheld Console, Truly Compact, Truly Portable, Truly Powerful
+
+  120Hz High-refresh Gaming Display | Supports VRR | AMD Ryzen Processor | Integrated Quick-release Grip | 35W TDP | New Cooling Module + Fan | 2280 SSD | Independent Amplifier IC | New Touchpad, No Drift
+#+end_quote
+** (gpd.hk) GPD WIN Max 2 2025 - Shenzhen GPD Technology Co., Ltd.
+:PROPERTIES:
+:ID:       cba217f8-17c0-4e14-857a-1cdba862bb13
+:ROAM_REFS: https://gpd.hk/gpdwinmax22025
+:END:
+
+#+begin_quote
+  *GPD WIN Max 2 (2025)*
+
+  10.1-inch Full-screen Handheld Gaming Laptop
+
+  Ultra-Portable | Versatile Ports | Integrated Design | 35W TDP | Maximized Performance | Multimodal | AI PC
+#+end_quote
+** (gpd.hk) GPD WIN 4 2025 - Shenzhen GPD Technology Co., Ltd.
+:PROPERTIES:
+:ID:       726b9c46-e6f3-4569-8a20-76bd10bd5299
+:ROAM_REFS: https://gpd.hk/gpdwin42025
+:END:
+
+#+begin_quote
+  *GPD WIN 4 (2025)*
+
+  Heat Dissipation, Power Consumption
+
+  Never Compromise
+
+  AMD Ryzen™ AI 9 HX 370 / AMD Ryzen™ 7 8840U
+
+  32GB  LPDDR5x 7500 MT/s
+
+  1TB / 2TB，PCIe 4.0 M.2 2280 SSD
+#+end_quote
+** (gpd.hk) GPD DUO - Shenzhen GPD Technology Co., Ltd.
+:PROPERTIES:
+:ID:       dc5d0194-5ca0-4522-bb8b-ddc1f85300b8
+:ROAM_REFS: https://gpd.hk/gpdduo
+:END:
+
+#+begin_quote
+  *GPD DUO* Dual-Screen
+
+  13.3-inch Dual Screen Productivity Laptop for Engineers
+
+  Ultra-Portable | Versatile Ports | Integrated Design | 60W TDP | Max Performance | Multi-Modal | AI PC
+#+end_quote

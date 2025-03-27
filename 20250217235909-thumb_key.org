@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       1fc70253-94a1-49fd-b81f-fad95a8a5213
+:END:
+#+title: Thumb-key
+#+filetags: :keyboard:open_source:software:
+
+Open-source software keyboard for Android.
+* (github.com) dessalines/thumb-key: A privacy-conscious Android keyboard made for your thumbs :website:
+:PROPERTIES:
+:ID:       d43fbe91-389b-4092-9a1a-206b7d9801d5
+:ROAM_REFS: https://github.com/dessalines/thumb-key
+:END:
+
+#+begin_quote
+  Thumb-Key is a /privacy-conscious/ smart keyboard, made specifically for your thumbs.
+
+  It features a *3x3 grid layout*, and uses swipes for the less common letters.  Its easy to learn, and designed for fast typing speeds.
+
+  Instead of relying on profit-driven, privacy-offending word and sentence prediction for accuracy, as do most popular phone keyboards like Gboard and Swiftkey, Thumb-Key uses *large keys with predictable positions*, to prevent your eyes from [[https://www.keyboardingonline.com/hunting-and-pecking/][hunting and pecking]] for letters.
+
+  As the key positions get ingrained into your muscle memory, eventually you'll be able to approximate the fast speeds of [[https://en.m.wikipedia.org/wiki/Touch_typing][touch-typing]], your eyes never having to leave the text edit area.
+
+  This project is a follow-up to the now unmaintained (and closed-source) [[https://www.exideas.com/ME/][MessagEase Keyboard]], which is its main inspiration.
+
+  *** Features
+
+  - Highly configurable.
+  - Customizeable sizing, ThumbKey and MessagEase layouts, dynamic / Material v3 themes, animations, haptic feedback, and audio feedback.
+  - Open-source, [[https://github.com/dessalines/thumb-key/blob/main/LICENSE][AGPL License]].
+#+end_quote
+* (f-droid.org) Thumb-Key | F-Droid - Free and Open Source Android App Repository :website:
+:PROPERTIES:
+:ID:       0a076ff0-e615-4cff-a066-a68d5cd95d56
+:ROAM_REFS: https://f-droid.org/packages/com.dessalines.thumbkey/
+:END:
+* (play.google.com) Thumb-Key - Apps on Google Play                 :website:
+:PROPERTIES:
+:ID:       04f08afa-d95f-405f-afdf-cbda40664fb0
+:ROAM_REFS: https://play.google.com/store/apps/details?id=com.dessalines.thumbkey
+:END:

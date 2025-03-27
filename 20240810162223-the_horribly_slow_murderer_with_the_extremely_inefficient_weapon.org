@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       19764ee1-6ce1-4e1a-9a9c-2cf99e9f7da2
+:END:
+#+title: The Horribly Slow Murderer with the Extremely Inefficient Weapon
+#+filetags: :genre_horror:genre_comedy:video:
+
+* The Horribly Slow Murderer with the Extremely Inefficient Weapon - YouTube :genre_horror:genre_comedy:website:video:
+:PROPERTIES:
+:ID:       874fd29b-01c4-44dc-b079-f9e74d576c11
+:ROAM_REFS: https://www.youtube.com/watch?v=zwVuGmgISoU
+:END:
+* The Horribly Slow Murderer with the Extremely Inefficient Weapon - Wikipedia :website:genre_comedy:genre_horror:video:
+:PROPERTIES:
+:ID:       6e3cec4a-6a64-46bf-acdf-722a34c650b6
+:ROAM_REFS: https://en.wikipedia.org/wiki/The_Horribly_Slow_Murderer_with_the_Extremely_Inefficient_Weapon
+:END:
+
+#+begin_quote
+  The Horribly Slow Murderer with the Extremely Inefficient Weapon is a 10-minute short film that was released in 2008.  It was filmed entirely in California over the course of 22 days.  It was written, directed, and narrated by Richard Gale.
+#+end_quote

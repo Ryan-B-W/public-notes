@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       a332c7cc-1bd6-4158-80d3-917934e34da0
+:END:
+#+title: A Tour of C++ by Bjarne Stroustrup
+#+filetags: :education_resource:cpp_lang:programming:computer_science:books:
+
+* (www.stroustrup.com) Stroustrup: A Tour of C++ (Third edition)    :website:
+:PROPERTIES:
+:ID:       72568ced-473a-401b-9304-220d73309f2c
+:ROAM_REFS: https://www.stroustrup.com/tour3.html
+:END:
+
+#+begin_quote
+  * A Tour of C++ (Third edition)
+
+  Addison-Wesley. ISBN-10: 0-13-681648-7. September 2022.
+
+  The ``tour'' is a quick (254 pages + index, historical information, etc.) tutorial overview of all of standard C++ (language and standard library) at a moderately high level for people who already know C++ or at least are experienced programmers.  It covers C++20 plus a few likely features of C++23.
+
+  [[https://www.informit.com/store/tour-of-c-plus-plus-9780136816485?utm_source=referral&utm_medium=author&utm_campaign=cpptour3e][Information from the publisher]].
+
+  Available here:
+
+  - [[https://www.stroustrup.com/tour3preface.pdf][The Preface]]
+  - [[https://www.stroustrup.com/tour3toc.pdf][Table of Contents]]
+  - [[https://www.stroustrup.com/tour3-12-Cont.pdf][Chapter 12: Containers]]
+  - [[https://www.stroustrup.com/tour3_errata.html][Errata]]
+  - [[https://www.stroustrup.com/4thExercises.pdf][Exercises]] from [[https://www.stroustrup.com/4th.html][The C++ Programming Language (4th Edition)]]
+  - [[https://www.stroustrup.com/books.html][My book list]]
+  - [[https://www.stroustrup.com/covers.html][My book covers]]
+
+  If you are looking for a more complete description of C++ and the styles of programming it supports, consider [[https://www.stroustrup.com/4th.html][The C++ Programming Language (4th Edition)]].
+
+  If you are looking for an an introduction to programming for people who has never programmed before, consider [[https://www.stroustrup.com/programming.html][Programming -- Principles and Practice Using C++]].  That book is also be useful for people who have programmed a bit and want to improve their style and technique - or to simply learn modern C++.  It is designed for classroom use, but written with an eye on self study.
+#+end_quote

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b3f373ec-c050-450a-a37a-ddf6c33b4e17
+:END:
+#+title: Information Doesn't Exist in a Vacuum.  Without Context that Informs Meaning, it is Just Data
+#+filetags: :epistemology:philosophy:self_quotes:
+
+#+begin_quote
+  Information doesn't exist in a vacuum.  Without context that informs meaning, it is just data.
+#+end_quote
+
+That is to say, things lack inherent meaning.  It's only with the context of experience and environment that anything has meaning.  A good example is language.  Language can only exist with the context of shared biology, shared experiences, and, by extension, shared culture.  Without this context, language is just meaningless noise or symbols on a medium.

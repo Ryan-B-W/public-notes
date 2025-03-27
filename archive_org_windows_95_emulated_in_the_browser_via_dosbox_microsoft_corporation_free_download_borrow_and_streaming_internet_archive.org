@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       2be85392-5879-465b-9a3b-795e6a398661
+:ROAM_REFS: https://archive.org/details/win95_in_dosbox#
+:END:
+#+title: (archive.org) Windows 95 emulated in the browser via DOSBox : Microsoft Corporation : Free Download, Borrow, and Streaming : Internet Archive
+#+filetags: :software:microsoft_windows:microsoft:emulator:website:
+
+#+begin_quote
+  ** Windows 95 emulated in the browser via DOSBox
+
+  Compact pre-installed [[https://en.wikipedia.org/wiki/Windows_95][Windows 95]] hard disk image and AUTOEXEC.BAT file packaged for [[https://www.dosbox.com/][DOSBox]], which runs in the browser thanks to hard work of contributors to [[https://github.com/dreamlayers/em-dosbox][Em-DOSBox]], [[https://www.dosbox.com/][DOSBox]], [[https://emscripten.org/][Emscripten]], and web browser engines.
+
+  This was originally hosted at [[https://win95.ajf.me/][win95.ajf.me]], a site created by myself in May 2015, and inspired by the Internet Archive's DOS game emulation efforts (and using the same tech).  Now it's on the Internet Archive itself.  You can still go to that site if you want to know more about how this was done.
+#+end_quote

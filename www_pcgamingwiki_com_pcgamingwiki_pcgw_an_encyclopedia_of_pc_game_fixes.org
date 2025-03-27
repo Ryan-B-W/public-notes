@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       3e122cef-b1ab-422a-93e1-4ab935a21543
+:ROAM_REFS: https://www.pcgamingwiki.com/wiki/Home
+:END:
+#+title: (www.pcgamingwiki.com) PCGamingWiki PCGW - an encyclopedia of PC game fixes
+#+filetags: :games:website:
+
+A [[id:b99c6a7c-958b-4d70-8900-9162b935c574][wiki]] that aims to document how to get every game running on modern systems with tweaks and workarounds.
+
+#+begin_quote
+  PCGamingWiki aims to list fixes and workarounds [[https://pcgamingwiki.com/wiki/Category:Games][for every single PC game]].
+#+end_quote

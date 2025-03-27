@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       eeaf025c-818c-4619-9247-d2697d111567
+:ROAM_REFS: https://coal-rock.github.io/latex-tutor/
+:END:
+#+title: (coal-rock.github.io) LaTeX TuToR
+#+filetags: :education_resource:software:latex:www:website:
+
+#+begin_quote
+  * LaTeX TuToR
+
+  *** A minimal application for accelerating your knowledge of LaTex!
+#+end_quote

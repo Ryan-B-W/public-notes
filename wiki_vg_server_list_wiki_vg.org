@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       8cb653d8-8ca3-416c-902b-a18ca0c5b6f3
+:ROAM_REFS: https://wiki.vg/Server_List
+:END:
+#+title: (wiki.vg) Server List - wiki.vg
+#+filetags: :lists:server:games:minecraft:website:
+
+#+begin_quote
+  This is a rather incomplete list of Minecraft Modern servers currently in development.  This page only lists servers written from scratch.  For mods and wrappers, see the Utility List and the Wrapper List.
+#+end_quote

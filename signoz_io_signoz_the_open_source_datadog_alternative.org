@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       fe8b946b-9633-4cca-a5e2-9074e57ce9cc
+:ROAM_REFS: https://signoz.io/
+:END:
+#+title: (signoz.io) SigNoz | The Open Source Datadog Alternative
+#+filetags: :www:tracing:monitoring:devops:software:website:
+
+#+begin_quote
+  SigNoz is an open-source Datadog or New Relic alternative. Get APM, logs, traces, metrics, exceptions, & alerts in a single tool.
+#+end_quote

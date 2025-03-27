@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       2f922218-b526-4ec7-929c-79af6c48b20f
+:ROAM_REFS: https://en.wikipedia.org/wiki/SCION_(Internet_architecture)
+:END:
+#+title: (en.wikipedia.org) SCION (Internet architecture) - Wikipedia
+#+filetags: :networking:website:
+
+#+begin_quote
+  SCION (Scalability, Control, and Isolation On Next-Generation Networks) is a Future Internet architecture that aims to offer high availability and efficient point-to-point packet delivery with network path selection, even in the presence of actively malicious network operators and devices.  It has been developed by researchers at ETH Zurich since 2009, is deployed in production networks, and is currently being explored by the IETF Path Aware Networking Research Group.
+#+end_quote

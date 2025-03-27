@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       fa31ba50-4619-45a9-befb-a4f307124cca
+:ROAM_REFS: https://www.reddit.com/r/emacs/comments/iyp2zc/comment/g6fr9a7/ https://www.reddit.com/r/emacs/comments/iyp2zc/how_do_i_integrate_orgroam_on_mobile/
+:END:
+#+title: (www.reddit.com) How do I integrate org-roam on mobile? : r/emacs
+#+filetags: :information_management:forums:website:
+
+Comments:
+#+begin_quote
+  [[https://www.reddit.com/user/alexkehayias/][alexkehayias]]
+
+  I had a similar issue with org-roam and mobile.  I'm not a fan of the options mentioned in this thread (e.g. organice, orgzly, beorg).  I ended up creating a workflow around Working Copy and Scriptable.  As a developer, a git based workflow is quite natural and avoids the pitfalls of syncing files with Dropbox or god forbid iCloud.  It also opens up the possibilities for what mobile editor you want to use (although I stick with Working Copy since it has an org-mode format which is fine).
+
+  I wrote about my setup (including scripts and automated publishing) here [[https://www.alexkehayias.com/essays/zettelkasten-setup/]]
+#+end_quote
+Which links to:
+ - [[id:489c6ac1-b4c5-4353-aad6-88f0d680e819][(www.alexkehayias.com) Zettelkasten, Emacs, and Creative Thinking]]

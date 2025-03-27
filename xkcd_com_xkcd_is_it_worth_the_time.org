@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       c01ea40f-8c23-4ee1-9924-f4aa5f1cd622
+:ROAM_REFS: https://xkcd.com/1205/
+:END:
+#+title: (xkcd.com) xkcd: Is It Worth the Time?
+#+filetags: :automation:comic:website:

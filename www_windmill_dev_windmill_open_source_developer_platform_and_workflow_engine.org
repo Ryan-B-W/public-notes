@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       f1b2f326-0a7b-4771-a5fe-cf32dd720e2f
+:ROAM_REFS: https://www.windmill.dev/
+:END:
+#+title: (www.windmill.dev) Windmill | Open-source developer platform and workflow engine
+#+filetags: :automation:software:website:
+
+#+begin_quote
+  Open-source developer platform and workflow engine
+  Turn scripts into auto-generated UIs, APIs and cron jobs.
+  Compose them as workflows or data pipelines.
+  Build complex, data-intensive apps with ease.
+  Write and deploy software 10x faster, and run it with the highest reliability and observability on the fastest self-hostable job orchestrator.
+#+end_quote

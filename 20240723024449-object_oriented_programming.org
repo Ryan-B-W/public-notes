@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       1a857a79-1bc3-42c2-92ee-897a864b10de
+:END:
+#+title: Object-Oriented Programming
+#+filetags: :programming_language_design:software_development:programming_language:programming:computer_science:
+
+Object-oriented programming (OOP) is a [[id:bbdbd1d6-ce5c-4aeb-85ea-96ab26afc28a][programming paradigm]] built around objects, constructs that combine data and code.  In particular, object have properties—sometimes called fields—that store data and have methods that contain code that act on the properties of the object and form an interface for the object.
+
+Object-oriented programming can be further broken down into two main types: class-based where objects are instantiated from classes that have inheritance; and, prototype-based where there aren't classes but rather objects are derived from each other an inherit properties and methods at time of copying.
+
+The first language to be designed around object-oriented programming is [[id:c00306de-35c9-4f91-9f4f-23c2462435ea][Smalltalk]] by [[id:022e5ea5-fb05-4899-981e-ca4b992dc497][Alan Kay]].
+* See Also
+ - [[https://en.wikipedia.org/wiki/Object-oriented_programming][Object-oriented programming - Wikipedia]]

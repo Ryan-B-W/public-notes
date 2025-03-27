@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       13c60951-9d3b-4e68-98a2-895d2c10daa6
+:ROAM_REFS: https://www.youtube.com/watch?v=5y1Oin7CcI4
+:END:
+#+title: (www.youtube.com) Exploring Game Engine Shader Language Abstractions, and Implementing Some for Godot - YouTube
+#+filetags: :graphics:video:website:
+
+#+begin_quote
+  Shaders are difficult to get a handle on but modern commercial engines have done as much as they can to make them as easy as possible!  Today we learn how shaders work under the hood and how we can recreate Unity's shader APIs.  Topics covered: what is a graphics engine, shader language wrapping, shader uniform caching, automated shader compilation
+#+end_quote

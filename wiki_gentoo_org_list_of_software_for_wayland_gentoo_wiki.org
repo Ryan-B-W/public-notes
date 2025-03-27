@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       f4ee249c-9a44-4c57-b182-ecb87578e789
+:ROAM_REFS: https://wiki.gentoo.org/wiki/List_of_software_for_Wayland
+:END:
+#+title: (wiki.gentoo.org) List of software for Wayland - Gentoo wiki
+#+filetags: :software:wayland:linux:gentoo:lists:website:

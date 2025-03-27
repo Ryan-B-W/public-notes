@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       85073269-70f9-4690-95fa-ebaadb0a9200
+:ROAM_REFS: https://learn.microsoft.com/en-us/cpp/build/reference/dumpbin-reference?view=msvc-170
+:END:
+#+title: (learn.microsoft.com) DUMPBIN Reference | Microsoft Learn
+#+filetags: :software_development:software:documentation:programming:microsoft_windows:microsoft:website:
+
+#+begin_quote
+  The Microsoft COFF Binary File Dumper (DUMPBIN.EXE) displays information about Common Object File Format (COFF) binary files.  You can use DUMPBIN to examine COFF object files, standard libraries of COFF objects, executable files, and dynamic-link libraries (DLLs).
+#+end_quote

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d8f5169e-9db6-435f-bc69-6eb391be99c4
+:ROAM_REFS: https://www.samharris.org/
+:END:
+#+title: (www.samharris.org) Sam Harris | Home of the Making Sense Podcast
+#+filetags: :podcast:website:
+
+* (www.samharris.org) Making Sense Episodes | Sam Harris
+:PROPERTIES:
+:ID:       e76097dd-d5b0-4219-80fb-f8a0caee4d03
+:ROAM_REFS: https://www.samharris.org/podcasts/making-sense-episodes
+:END:
+** (www.wakingup.com) Waking Up | Free 30-Day Trial
+:PROPERTIES:
+:ID:       571423a2-3532-4ce1-9985-7fc9d674173f
+:ROAM_REFS: https://www.wakingup.com/makingsense
+:END:
+* (www.samharris.org) Sam Harris | Home of the Making Sense Podcast - subscription success
+:PROPERTIES:
+:ID:       be554fc0-eebd-40e9-8e75-a5465a5afa4a
+:ROAM_REFS: https://www.samharris.org/subscription-success
+:END:

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       bb5fbfee-12fe-4eab-9dde-7a89a6584fea
+:ROAM_REFS: https://wiki.gentoo.org/wiki/ARM_hardware_list
+:END:
+#+title: (wiki.gentoo.org) ARM hardware list - Gentoo wiki
+#+filetags: :gentoo:linux:electronics:website:
+
+#+begin_quote
+  This is a list of *ARM hardware* owned by people in the [[ircs:////irc.libera.chat/#gentoo-embedded][#gentoo-embedded]] and [[ircs:////irc.libera.chat/#gentoo-arm][#gentoo-arm]] channels have running Gentoo.  Feel free to add to the list!
+
+  The [[https://wiki.gentoo.org/wiki/Hardware_probe][hardware probe]] system may be used to provide detailed hardware information, by uploading a probe using the available tool, and providing a link to that probe along with the entry here (see entry by /Jens3/ for an example).
+#+end_quote

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       b39cb683-1693-4a98-af49-cc8ca2265b34
+:ROAM_REFS: http://www.dklevine.com/general/intellectual/againstfinal.htm
+:END:
+#+title: (www.dklevine.com) Against Intellectual Monopoly
+#+filetags: :intellectual_property:economics:books:website:
+
+#+begin_quote
+  It is common to argue that intellectual property in the form of copyright and patent is necessary for the innovation and creation of ideas and inventions such as machines, drugs, computer software, books, music, literature and movies.  In fact intellectual property is a government grant of a costly and dangerous private monopoly over ideas.  We show through theory and example that intellectual monopoly is not necessary for innovation and as a practical matter is damaging to growth, prosperity and liberty.
+#+end_quote

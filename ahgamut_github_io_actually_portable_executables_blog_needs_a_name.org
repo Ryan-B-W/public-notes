@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       4f9841ec-9209-41d5-9621-eba7067081f3
+:ROAM_REFS: https://ahgamut.github.io/2021/02/27/ape-cosmo/
+:END:
+#+title: (ahgamut.github.io) Actually Portable Executables | Blog Needs a Name
+#+filetags: :software:programming:blog_post:website:
+
+#+begin_quote
+  ** Actually Portable Executables
+
+  I came across [[https://github.com/jart/cosmopolitan][Cosmopolitan]] on Hacker News, and I was initially confused, due to a few memories of cross-compilation nightmares: while it should be possible to compile for the same architecture regardless of operating system, wouldn't the OS get confused by the leading bytes of the executable? I read the [[https://justine.lol/ape.html][article]] explaining how it works, but most of it went over my head.
+
+  The example on the [[https://github.com/jart/cosmopolitan][Github README]] used the following script for compilation:
+
+  #+begin_src chroma :tabindex 0
+  gcc -g -O -static -nostdlib -nostdinc -fno-pie -no-pie -mno-red-zone   -o hello.com.dbg hello.c -fuse-ld=bfd -Wl,-T,ape.lds   -include cosmopolitan.h crt.o ape.o cosmopolitan.a
+  objcopy -S -O binary hello.com.dbg hello.com
+  #+end_src
+
+  I converted it into a simple Makefile to run the compilation commands. I tried a bunch of simple C programs (basic arithmetic, reading and writing to files) on Linux+Windows (compiled on Linux), and all of them worked.
+#+end_quote
+* See Also
+** [[id:90a4ff99-9e56-4a12-af93-7d12f33ff1a8][(justine.lol) Actually Portable Executable]]

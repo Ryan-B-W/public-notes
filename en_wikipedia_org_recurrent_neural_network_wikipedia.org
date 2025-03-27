@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       1b3226fc-2c1e-4e1d-8ac6-296f68e79918
+:ROAM_REFS: https://en.wikipedia.org/wiki/Recurrent_neural_network
+:END:
+#+title: (en.wikipedia.org) Recurrent neural network - Wikipedia
+#+filetags: :artificial_intelligence:machine_learning:website:
+
+#+begin_quote
+  Recurrent neural networks (RNNs) are a class of artificial neural network commonly used for sequential data processing.  Unlike feedforward neural networks, which process data in a single pass, RNNs process data across multiple time steps, making them well-adapted for modelling and processing text, speech, and time series.
+  The building block of RNNs is the recurrent unit.  This unit maintains a hidden state, essentially a form of memory, which is updated at each time step based on the current input and the previous hidden state.  This feedback loop allows the network to learn from past inputs, and incorporate that knowledge into its current processing.
+  Early RNNs suffered from the vanishing gradient problem, limiting their ability to learn long-range dependencies.  This was solved by the long short-term memory (LSTM) variant in 1997, thus making it the standard architecture for RNN.
+  RNNs have been applied to tasks such as unsegmented, connected handwriting recognition, speech recognition, natural language processing, and neural machine translation.
+#+end_quote

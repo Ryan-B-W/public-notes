@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       a8507169-ec70-4bdb-a7a0-7249e38d8f0a
+:ROAM_REFS: https://pbelmans.ncag.info/blog/2014/11/06/software-for-computations-in-algebraic-geometry/
+:END:
+#+title: (pbelmans.ncag.info) Pieter Belmans—Software for computations in algebraic geometry
+#+filetags: :computer_science:computer_algebra:mathematics:software:lists:blog_post:website:
+
+#+begin_quote
+  * Software for computations in algebraic geometry
+
+  Because somehow I ended up with a degree in computer science people sometimes ask me how to do certain computations in algebra or algebraic geometry on a computer (not that I ever learnt such a thing in my computer science degree to be honest).  In this blog post I try to give a summary of the tools (together with direct links to documentation, libraries, extra packages, ... so I never have to look for them again myself and don't forget to consider one when someone asks a question) that I am aware of for these computations, and which one is the most suited for which type of problems.
+
+  Of course, there is a [[http://en.wikipedia.org/wiki/List_of_computer_algebra_systems][big list on Wikipedia]], but I restrict myself here to things related to algebra and algebraic geometry, and discuss my experiences, and give explicit links to interesting related documents.
+
+  Moreover, if you have a very specific problem, there might be someone who wrote specific code for it, not related to an existing computer algebra system.  Google is your friend.  I have found really nice C++ implementations for specific problems that were really helpful for me.  Maybe I should compile a list of these things and put it as an actual page on my website...  This blog post would be a good start.
+#+end_quote

@@ -1,0 +1,93 @@
+:PROPERTIES:
+:ID:       1e5c33d9-cb58-485b-9e36-19f6815838c9
+:END:
+#+title: C++ Templates: The Complete Guide by David Vandevoorde, Nicolai M. Josuttis, and Douglas Gregor
+#+filetags: :education_resource:cpp_lang:programming:computer_science:books:
+
+* (www.tmplbook.com) C++ Templates - The Complete Guide, 2nd Edition :website:
+:PROPERTIES:
+:ID:       2b205137-8559-4bf7-a19a-a53d291a14ce
+:ROAM_REFS: http://www.tmplbook.com/ http://www.tmplbook.com/tmplbook.html
+:END:
+
+#+begin_quote
+  *C++ Templates - The Complete Guide/, 2nd Edition/*
+
+  *by David Vandevoorde, Nicolai M. Josuttis, and Douglas Gregor*
+
+  - Giving guidance on how to use *Templates in Modern C++*
+  - For programmers, who just use templates, who provide class and function templates, and who provide generic and foundation libraries
+  - Covering *C++11, C++14, and C++17*
+  - Explaining *all type traits* of the C++ Standard Library in depth
+  - On 822 pages in 33 Chapters (12 Chapters are brand new)
+
+  Note: There is another C++17 book available now: [[http://www.josuttis.com/cppstd17/][*C++17 - The Complete Guide*]]
+
+  Templates are among the most powerful features of C++, but they remain misunderstood and underutilized, even as the C++ language and development community have advanced. In C++ Templates, Second Edition, three pioneering C++ experts show why, when, and how to use modern templates to build software that's cleaner, faster, more efficient, and easier to maintain.
+
+  Now extensively updated for the C++11, C++14, and C++17 standards, this new edition presents state-of-the-art techniques for a wider spectrum of applications. The authors provide authoritative explanations of all new language features that either improve templates or interact with them, including variadic templates, generic lambdas, class template argument deduction, compile-time if, inline namespaces, and user-defined literals. They also deeply delve into fundamental language concepts (like value categories) and fully cover all standard type traits.
+
+  The book starts with an insightful tutorial on basic concepts and relevant language features. The remainder of the book serves as a comprehensive reference, focusing first on language details and then on coding techniques, advanced applications and sophisticated idioms. Throughout, examples clearly illustrate abstract concepts and demonstrate best practices for exploiting all that C++ templates can do.
+
+  - Understand exactly how templates behave, and avoid common pitfalls
+  - Use templates to write more efficient, flexible, and maintainable software
+  - Master today's most effective idioms and techniques
+  - Reuse source code without compromising performance or safety
+  - Benefit from utilities for generic programming in the C++ Standard Library
+  - Preview the upcoming concepts feature\\
+
+  Topics (see the [[http://www.tmplbook.com/tmplbooktoc.pdf][Table of Contents]] for details):
+
+  - *Basics*
+    - Function Templates
+    - Class Templates
+    - Nontype Template Parameters
+    - Variadic Templates
+    - Keyword typename, Zero Initialization, Templates for Raw Array and String Literals
+    - Variable Templates and Template Template Parameters
+    - Move Semantics and enable_if<>
+    - Template Template Parameters
+    - By Value or By Reference?
+    - Compile-Time Programming
+    - Using Templates in Practice
+    - Template Terminology
+    - Generic Libraries
+  - *Technical Details*
+    - Declarations, Arguments, and Parameters
+    - Names and Parsing
+    - Instantiation
+    - Argument Deduction
+    - Specialization and Overloading
+    - Future Directions
+  - *Templates and Design*
+    - Static Polymorphism
+    - Traits and Policy Classes
+    - Type Overloading
+    - Templates and Inheritance
+    - std::function<>
+    - Metaprogramming
+    - Typelists, Tuples, and Discriminated Unions
+    - Expression Templates
+    - Debugging Templates
+  - *Appendix*
+    - One Definition Rule (ODR)
+    - Value Categories
+    - Overload Resolution
+    - Standard Type Utilities and Type Traits Reference
+    - Concepts
+
+  *[[http://www.vandevoorde.com/][David Vandevoorde]]*, vice president of engineering at [[http://www.edg.com/][the Edison Design Group, Inc (EDG)]], architects key features of the company's C++ compiler. A co-founder of the renowned comp.lang.c++.moderated forum, he is also active in C++ standardization. He holds a PhD and MSc in computer science from [[http://www.rpi.edu/][Rensselaer Polytechnic Institute]], and an MEng from Brussels Free University. His technical interests include algorithm development and teaching.
+
+  *[[http://www.tmplbook.com/welcomee.html][Nicolai M. Josuttis]]* is an independent systems architect, technical manager, consultant and trainer being active in C++ standardization for 20 years. Sitting in the Library Working Group he especially cares for the view of the ordinary application programmer. He is well known in the C++ Community for speaking and writing with authority, being the author of [[http://www.cppstdlib.com/][/The C++ Standard Library - A Tutorial and Reference, 2nd Edition/]] (Addison-Wesley, 2012), [[http://www.cppstd17.com/][/C++17 - The Complete Guide/]] , (leanpub, 2017), and several other books on object-oriented programming, C++, and service-oriented architecture (SOA).
+
+  *[[https://twitter.com/dgregor79][Douglas Gregor]]* is a senior compiler developer with a background in C++ library design. As an early contributor to Boost, he developed several libraries that became part of the C++ standard. Later, he led the implementation of the open-source Clang C++ compiler as its code owner through the completion of C++11 support, and was active in the standardization of C++11. He holds a PhD in computer science from [[http://www.rpi.edu/][Rensselaer Polytechnic Institute]].
+
+  - Look at the [[http://www.tmplbook.com/code/code.html][*source code of the examples*]].
+
+  David Vandevoorde, Nicolai M. Josuttis, Douglas Gregor
+  *C++ Templates - The Complete Guide, 2nd Edition*
+  Addison-Wesley, 2017
+  Hardcover  ISBN-13: 978-0-321-71412-1 (see here [[https://www.pearson.com/en-us/subject-catalog/p/c-templates-the-complete-guide/P200000000663/9780321714121][https://www.pearson.com/]])
+             ISBN-10:     0-321-71412-1
+  eBook      ISBN-13: 978-0-134-77874-7 (see here [[https://www.pearson.com/en-us/subject-catalog/p/c-templates-the-complete-guide/P200000000663/9780134778747][https://www.pearson.com/]])
+#+end_quote

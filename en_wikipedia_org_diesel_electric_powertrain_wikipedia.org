@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       eebf7e9f-f8e1-4bf1-ba93-96e0e66656d6
+:ROAM_REFS: https://en.wikipedia.org/wiki/Diesel–electric_powertrain
+:END:
+#+title: (en.wikipedia.org) Diesel–electric powertrain - Wikipedia
+#+filetags: :vehicle_technology:website:
+
+#+begin_quote
+  A diesel–electric transmission, or diesel–electric powertrain, is a transmission system powered by diesel engines for vehicles in road, rail, and marine transport.  Diesel–electric transmission is similar to petrol–electric transmission, which is powered by petrol engines.
+
+  Diesel–electric transmission is used on railways by diesel–electric locomotives and diesel–electric multiple units, as electric motors are able to supply full torque from 0 RPM.  Diesel–electric systems are also used in marine transport, including submarines, and on some other land vehicles.
+#+end_quote

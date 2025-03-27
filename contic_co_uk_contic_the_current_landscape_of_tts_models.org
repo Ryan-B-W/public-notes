@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       be9b214f-9285-4adb-b2b6-ef54aee0005b
+:ROAM_REFS: https://contic.co.uk/blogs/the-current-landscape-of-tts-models
+:END:
+#+title: (contic.co.uk) Contic | The current landscape of TTS models
+#+filetags: :text_to_speech:machine_learning:blog_post:website:

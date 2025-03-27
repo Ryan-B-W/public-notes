@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d849959c-3087-4a45-aba3-b996bdab4ef5
+:ROAM_REFS: https://wiki.c2.com/?CommonLispConditionSystem=
+:END:
+#+title: (wiki.c2.com) Common Lisp Condition System
+#+filetags: :common_lisp:lisp:website:
+
+#+begin_quote
+  Common Lisp Condition System is one of the best error handling system I have ever seen.  The advantage of Condition System is the ability to separate the handling code from the decision code.
+  When a condition that should trigger an error is encounter you signal an event, providing choices of how to handle the error.  Up in the higher level of the code, the condition handler is set, and when the signal is received, the handler get to choose the choice of action to do with that error.
+#+end_quote

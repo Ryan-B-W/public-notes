@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       abf55a4f-dc49-4364-b748-5f18a6ed9924
+:ROAM_REFS: https://github.com/marcobiedermann/awesome-bookmarklets
+:END:
+#+title: (github.com) marcobiedermann/awesome-bookmarklets: 🔖 Awesome collection of helpful bookmarklets
+#+filetags: :lists:www:website:
+
+#+begin_quote
+  🔖 Awesome collection of helpful bookmarklets
+#+end_quote

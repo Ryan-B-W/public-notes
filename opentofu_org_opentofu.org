@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       84f4f67f-4464-40bd-a270-947dc8c02a2c
+:ROAM_REFS: https://opentofu.org/
+:END:
+#+title: (opentofu.org) OpenTofu
+#+filetags: :devops:software:website:
+
+#+begin_quote
+  The open source infrastructure as code tool.
+  Previously named OpenTF, OpenTofu is a fork of Terraform that is open-source, community-driven, and managed by the Linux Foundation.
+#+end_quote

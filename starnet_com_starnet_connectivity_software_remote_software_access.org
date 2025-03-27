@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       aa4ec27a-70c3-4df2-b10d-f14c7c9df677
+:ROAM_REFS: https://starnet.com/
+:END:
+#+title: (starnet.com) Starnet Connectivity Software - Remote Software Access
+#+filetags: :networking:software:linux:website:

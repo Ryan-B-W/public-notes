@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       dc1dfb12-0f42-4d3b-93fb-65593524ff2b
+:ROAM_REFS: https://desandro.com/
+:END:
+#+title: (desandro.com) David DeSandro
+#+filetags: :design:people:website:
+
+#+begin_quote
+  Designer, developer running Metafizzy
+#+end_quote

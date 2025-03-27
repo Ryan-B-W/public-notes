@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       23604d29-36da-4611-b672-f7832fcddaac
+:ROAM_REFS: https://joplinapp.org/
+:END:
+#+title: (joplinapp.org) Joplin
+#+filetags: :open_source:information_management:website:

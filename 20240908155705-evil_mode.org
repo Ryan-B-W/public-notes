@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       a5094857-0ab6-4566-b32d-6cb9adae21fc
+:END:
+#+title: Evil Mode
+#+filetags: :emacs_lisp:lisp:software:emacs:
+
+Popular [[id:37c53f5b-c586-41ff-a4fe-b44c05ed3c1f][Vim]] emulation package for [[id:aca1324c-b142-4e34-a121-a8bb0a79ddf8][Emacs]].  Implements pretty much the entirety of Vim inside of Emacs with a plethora of configuration options.
+* (github.com) emacs-evil/evil: The extensible vi layer for Emacs.  :website:
+:PROPERTIES:
+:ID:       00cb531f-b473-4f07-b684-5b958674e597
+:ROAM_REFS: https://github.com/emacs-evil/evil
+:END:
+
+#+begin_quote
+  Evil is an extensible vi layer for Emacs.  It emulates the main features of Vim, and provides facilities for writing custom extensions.  Also see our page on EmacsWiki.
+#+end_quote
+* (evil.readthedocs.io) Evil — Evil documentation     :documentation:website:
+:PROPERTIES:
+:ID:       36bf81f0-e455-49b5-856f-f2ab2801a4a8
+:ROAM_REFS: https://evil.readthedocs.io/en/latest/
+:END:
+** (evil.readthedocs.io) Overview — Evil documentation              :website:
+:PROPERTIES:
+:ID:       31242478-bae2-4408-9429-672700b8b473
+:ROAM_REFS: https://evil.readthedocs.io/en/latest/overview.html
+:END:
+
+#+begin_quote
+  Evil is an extensible vi layer for Emacs.  It emulates the main features of Vim, turning Emacs into a modal editor.  Like Emacs in general, Evil is extensible in Emacs Lisp.
+#+end_quote
+* (www.emacswiki.org) EmacsWiki: Evil                               :website:
+:PROPERTIES:
+:ID:       bf292791-6c38-4c52-a8f4-cece60e49438
+:ROAM_REFS: https://www.emacswiki.org/emacs/Evil
+:END:
+
+#+begin_quote
+  Evil is an extensible vi layer for Emacs.  It provides Vim features like Visual selection and text objects, and is the successor to the now-obsolete [[https://www.emacswiki.org/emacs/Vimpulse][Vimpulse]] and [[https://www.emacswiki.org/emacs/VimMode][vim-mode]].  You can find its GitHub repository, [[https://github.com/emacs-evil/evil][here]].
+  Current stable version: 1.14.0
+  There’s a [[http://youtu.be/Uz_0i27wYbg][four-minute Evil demo]] on YouTube, created by Bailey Ling.  The captions in the corner of the frame show the keystrokes which Bailey is entering.
+#+end_quote

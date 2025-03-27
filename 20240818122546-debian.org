@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       eea001f0-f697-4e08-a759-bb26d07b14de
+:END:
+#+title: Debian
+#+filetags: :software:software_distributions:operating_systems:
+
+Popular [[id:bf0bc2d7-17df-413c-823b-93904faffc58][Linux]] [[id:412bbcad-6c00-4f13-b748-d1ffde0588e1][operating system]] distribution.  One of the earliest Linux distributions.  Controversially adopted the [[id:c45f0bda-cf14-42d4-b777-895fa0d43e49][systemd]] init system and service manager.
+* See Also
+** [[id:9feb8e73-b344-40cb-bbf6-ebc7b2040ec3][Debian -- The Universal Operating System]]

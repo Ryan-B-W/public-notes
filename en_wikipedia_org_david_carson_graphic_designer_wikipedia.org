@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       f7a9604a-a4aa-458e-a5d4-29733358fff1
+:ROAM_REFS: https://en.wikipedia.org/wiki/David_Carson_(graphic_designer)
+:END:
+#+title: (en.wikipedia.org) David Carson (graphic designer) - Wikipedia
+#+filetags: :design:people:website:
+
+#+begin_quote
+  David Carson is an American graphic designer and design director.
+#+end_quote

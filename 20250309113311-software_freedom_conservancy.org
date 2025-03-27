@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       f162fea8-6481-41f0-abc4-c32a46d51005
+:END:
+#+title: Software Freedom Conservancy
+#+filetags: :open_source:nonprofit:organization:
+
+A non-profit organization dedicated supporting [[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][open-source]] projects via funding and legal help.
+* (sfconservancy.org) Software Freedom Conservancy                  :website:
+:PROPERTIES:
+:ID:       8959297b-47cb-4807-8953-f4e1e977715d
+:ROAM_REFS: https://sfconservancy.org/
+:END:
+
+#+begin_quote
+  Software Freedom Conservancy is a nonprofit organization centered around ethical technology.  Our mission is to ensure the right to repair, improve and reinstall software.  We promote and defend these rights through fostering free and open source software (FOSS) projects, driving initiatives that actively make technology more inclusive, and advancing policy strategies that defend FOSS (such as copyleft). [[https://sfconservancy.org/about][Learn more.]]
+#+end_quote
+** (sfconservancy.org) Use The Source - Software Freedom Conservancy
+:PROPERTIES:
+:ID:       ae85b914-7cc2-481b-a16b-2573b8450cfe
+:ROAM_REFS: https://sfconservancy.org/usethesource/
+:END:
+
+#+begin_quote
+  * [[https://sfconservancy.org/usethesource/][Use The Source]]
+
+  Software Freedom Conservancy works for your right to repair and modify the software on your devices. *Use The Source* shows you how we evaluate the source code candidates companies must provide for GPLed software.  Join us as we highlight common issues in source candidates, and what companies need to do to fix them.  Check out the options below, or subscribe to our [[https://lists.sfconservancy.org/mailman/listinfo/ccs-review][mailing list]] to participate in the public discussion on these candidates.
+#+end_quote
+** (sfconservancy.org) Support Conservancy - Software Freedom Conservancy
+:PROPERTIES:
+:ID:       5546bcab-4678-439b-9d04-505b1143327f
+:ROAM_REFS: https://sfconservancy.org/sustainer/
+:END:
+* (en.wikipedia.org) Software Freedom Conservancy - Wikipedia       :website:
+:PROPERTIES:
+:ID:       0c1d90b5-857c-454b-ad97-2c571e216666
+:ROAM_REFS: https://en.wikipedia.org/wiki/Software_Freedom_Conservancy
+:END:
+
+#+begin_quote
+  *Software Freedom Conservancy, Inc.* (also known as "*Conservancy*") is an organization that provides a [[https://en.wikipedia.org/wiki/Nonprofit_organization][non-profit]] home, infrastructure support, and legal support for [[https://en.wikipedia.org/wiki/Free_software][free]] and [[https://en.wikipedia.org/wiki/Open_source_software][open source software]] projects.  The organization was established in 2006, and as of June 2022, had over 40 member projects.
+#+end_quote

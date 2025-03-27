@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       aa19e69d-6030-4f0b-8449-43515dc8425d
+:ROAM_REFS: https://langserver.org/
+:END:
+#+title: (langserver.org) Langserver.org
+#+filetags: :programming:computer_science:website:
+
+Website documenting available language servers (language server protocol server-side implementations) for various [[id:b24601aa-09df-41e1-aa7e-25ead342db34][programming languages]].

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       d5176148-8920-4b0a-9ab3-dda20e8dceb0
+:ROAM_REFS: https://www.reddit.com/r/Common_Lisp/comments/epneya/common_lisp_type_hierarchy/
+:END:
+#+title: (www.reddit.com) Common Lisp Type Hierarchy : r/Common_Lisp
+#+filetags: :website:

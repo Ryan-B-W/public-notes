@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       c5745639-777b-4098-9dd6-cd2dc83c2d87
+:ROAM_REFS: https://en.wikipedia.org/wiki/List_of_computer_algebra_systems
+:END:
+#+title: (en.wikipedia.org) List of computer algebra systems - Wikipedia
+#+filetags: :computer_algebra:mathematics:software:lists:website:
+
+#+begin_quote
+  The following tables provide a *comparison of [[https://en.wikipedia.org/wiki/Computer_algebra_system][computer algebra systems]]* (CAS).  A CAS is a package comprising a set of algorithms for performing symbolic manipulations on algebraic objects, a language to implement them, and an environment in which to use the language.  A CAS may include a user interface and graphics capability; and to be effective may require a large library of algorithms, efficient data structures and a fast kernel.
+#+end_quote

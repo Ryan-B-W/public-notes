@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7bb9cb41-b56e-4a30-b9e7-d5f89caa9e92
+:ROAM_REFS: https://datatracker.ietf.org/doc/html/rfc2418/
+:END:
+#+title: (datatracker.ietf.org) RFC 2418 - IETF Working Group Guidelines and Procedures
+#+filetags: :website:
+
+#+begin_quote
+  * IETF Working Group Guidelines and Procedures
+
+  ** Status of this Memo
+
+  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.  Distribution of this memo is unlimited.
+
+  ** Copyright Notice
+
+  Copyright (C) The Internet Society (1998).  All Rights Reserved.
+
+  ** Abstract
+
+  The Internet Engineering Task Force (IETF) has responsibility for developing and reviewing specifications intended as Internet Standards.  IETF activities are organized into working groups (WGs).  This document describes the guidelines and procedures for formation and operation of IETF working groups.  It also describes the formal relationship between IETF participants WG and the Internet Engineering Steering Group (IESG) and the basic duties of IETF participants, including WG Chairs, WG participants, and IETF Area Directors.
+#+end_quote

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       10446258-d2dd-45e3-bce6-f82b5b373027
+:ROAM_REFS: https://en.wikipedia.org/wiki/Windows_Forms
+:END:
+#+title: (en.wikipedia.org) Windows Forms - Wikipedia
+#+filetags: :programming:software_development:microsoft:website:
+
+#+begin_quote
+  Windows Forms (WinForms) is a free and open-source graphical (GUI) class library included as a part of Microsoft .NET, .NET Framework or Mono, providing a platform to write client applications for desktop, laptop, and tablet PCs.  While it is seen as a replacement for the earlier and more complex C++ based Microsoft Foundation Class Library, it does not offer a comparable paradigm and only acts as a platform for the user interface tier in a multi-tier solution.
+  At the Microsoft Connect event on December 4, 2018, Microsoft announced releasing Windows Forms as an open source project on GitHub.  It is released under the MIT License.  With this release, Windows Forms has become available for projects targeting the .NET Core framework.  However, the framework is still available only on the Windows platform, and Mono's incomplete implementation of Windows Forms remains the only cross-platform implementation.
+#+end_quote

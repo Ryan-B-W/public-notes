@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a76c53c2-6365-409d-a8ed-6ef1719c1e23
+:ROAM_REFS: https://wren.io/
+:END:
+#+title: (wren.io) Wren
+#+filetags: :programming_language:programming:computer_science:website:
+
+#+begin_quote
+  Wren is a small, fast, class-based concurrent scripting [[id:b24601aa-09df-41e1-aa7e-25ead342db34][language]]
+
+  Think [[id:c00306de-35c9-4f91-9f4f-23c2462435ea][Smalltalk]] in a [[id:49a32d26-7d4f-413f-a5f4-833304aaece8][Lua]]-sized package with a dash of [[id:8519d697-220f-4b16-bfb8-474595986669][Erlang]] and wrapped up in a familiar, modern syntax.
+#+end_quote
+* See Also
+** (github.com) wren-lang/wren: The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
+:PROPERTIES:
+:ID:       05161d6d-6344-4b2d-a4e2-3141aacca62d
+:ROAM_REFS: https://github.com/wren-lang/wren
+:END:
+
+#+begin_quote
+  The Wren [[id:b24601aa-09df-41e1-aa7e-25ead342db34][Programming Language]]. Wren is a small, fast, class-based concurrent scripting language.
+#+end_quote

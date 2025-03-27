@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       cce57d2b-4eb9-40f6-9f98-1ffae1b7ac30
+:ROAM_REFS: https://wiki.haskell.org/The_Monad.Reader/Issue4/Why_Attribute_Grammars_Matter
+:END:
+#+title: (wiki.haskell.org) The Monad.Reader/Issue4/Why Attribute Grammars Matter - HaskellWiki
+#+filetags: :haskell_lang:website:
+
+#+begin_quote
+  * Why Attribute Grammars Matter
+
+  /by Wouter Swierstra for The Monad.Reader Issue Four/; 01-07-05
+
+  ** Introduction
+
+  Almost twenty years have passed since John Hughes influential paper [[http://www.math.chalmers.se/~rjmh/Papers/whyfp.html][Why Functional Programming Matters]].  At the same time the first work on attribute grammars and their relation to functional programming appeared.  Despite the growing popularity of functional programming, attribute grammars remain remarkably less renown.
+
+  The purpose of this article is twofold.  On the one hand it illustrates how functional programming sometimes scales poorly and how attribute grammars can remedy these problems.  On the other hand it aims to provide a gentle introduction to attribute grammars for seasoned functional programmers.
+#+end_quote

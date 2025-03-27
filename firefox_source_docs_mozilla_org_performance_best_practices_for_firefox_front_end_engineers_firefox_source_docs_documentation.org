@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       1f9fb689-f663-4373-b997-c7d667bbd8a9
+:ROAM_REFS: https://firefox-source-docs.mozilla.org/performance/bestpractices.html
+:END:
+#+title: (firefox-source-docs.mozilla.org) Performance best practices for Firefox front-end engineers — Firefox Source Docs documentation
+#+filetags: :software_optimization:software_development:software:documentation:website:
+
+#+begin_quote
+  This guide will help Firefox developers working on front-end code produce code which is as performant as possible—not just on its own, but in terms of its impact on other parts of Firefox.  Always keep in mind the side effects your changes may have, from blocking other tasks, to interfering with other user interface elements.
+#+end_quote

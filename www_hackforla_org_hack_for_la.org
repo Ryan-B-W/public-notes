@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       7662c0ef-5847-469e-b2db-e74d1a889f06
+:ROAM_REFS: https://www.hackforla.org/
+:END:
+#+title: (www.hackforla.org) Hack for LA
+#+filetags: :events:programming:website:
+
+#+begin_quote
+  You can change LA for the better!
+  Can you design, write, or code? You can help Los Angeles live up to its full potential at Hack for LA.
+  All of our meetings are remote. Everyone is welcome!
+#+end_quote

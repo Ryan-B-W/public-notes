@@ -1,0 +1,31 @@
+#+title: Paper Long Title
+#+author: Author Name
+#+bibliography: bibliography.bib
+#+options: toc:nil
+#+options: num:nil
+#+latex_class: mla
+#+latex_header: \course{Class Name}
+#+latex_header: \professor{Professor Name}
+#+latex_header: \usepackage[letterpaper]{geometry}
+#+latex_header: \usepackage{setspace}
+#+latex_header: \doublespace
+#+latex_header: \usepackage{breakcites}
+#+latex_header: \usepackage{paralist}
+#+latex_header: \usepackage{ifpdf}
+#+latex_header: \usepackage{enotez}
+#+latex_header: \let\footnote\endnote
+#+latex_header: \let\itemize\compactitem
+#+latex_header: \let\description\compactdesc
+#+latex_header: \let\enumerate\compactenum
+
+Document body.
+
+\clearpage
+* Endnotes
+\printendnotes
+* COMMENT Local Variables
+# Local Variables:
+# org-latex-title-command: ""
+# org-latex-toc-command: ""
+# org-latex-caption-above: nil
+# End:

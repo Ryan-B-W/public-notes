@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       67602568-4921-4a23-80b2-eab6a344046b
+:ROAM_REFS: https://www.xda-developers.com/is-arm-efficient-x86/
+:END:
+#+title: (www.xda-developers.com) Is Arm actually more efficient than x86?
+#+filetags: :computer_science:electronics:article:website:
+
+#+begin_quote
+  *** Summary
+
+  - Arm's energy-efficient computing approach has given its partners an edge in power consumption and performance.
+  - Intel aims to challenge Arm's efficiency claim with Lunar Lake, but improving x86 will require significant work.
+  - While Intel believes x86 can match Arm's efficiency, hardware limitations may hinder immediate gains.
+
+  Arm is often lauded for its efficiency; after all, there's a reason it's become the most pervasive architecture keeping portable devices going for longer.  It's been in our smartphones for well over a decade (sans a brief x86 stint that very few phones took part in), and [[https://www.xda-developers.com/best-laptops/][laptops]] are starting to make the transition thanks to the extended battery life that those machines can get.
+#+end_quote

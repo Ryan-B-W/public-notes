@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       9feb8e73-b344-40cb-bbf6-ebc7b2040ec3
+:ROAM_REFS: https://www.debian.org/
+:END:
+#+title: (www.debian.org) Debian -- The Universal Operating System
+#+filetags: :software_distributions:software:operating_systems:website:

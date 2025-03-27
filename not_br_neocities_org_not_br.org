@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       7accc315-db94-4429-b492-6523078c95ba
+:ROAM_REFS: https://not-br.neocities.org/
+:END:
+#+title: (not-br.neocities.org) Not BR
+#+filetags: :accessibility:open_source:fonts:website:
+
+#+begin_quote
+  Not Bionic Reading
+#+end_quote

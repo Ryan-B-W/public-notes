@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       b207c67d-05f8-49ad-b1e1-5e041ca78324
+:ROAM_REFS: https://www.klipper3d.org/
+:END:
+#+title: (www.klipper3d.org) Welcome - Klipper documentation
+#+filetags: :3d_printing:electronics:firmware:website:
+
+#+begin_quote
+  The Klipper firmware controls 3d-Printers.  It combines the power of a general purpose computer with one or more micro-controllers.  See the [[https://www.klipper3d.org/Features.html][features document]] for more information on why you should use the Klipper software.
+#+end_quote

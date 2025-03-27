@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       006b7566-b025-4729-929b-c5ae602a3915
+:ROAM_REFS: https://natureofcode.com/
+:END:
+#+title: (natureofcode.com) Nature of Code
+#+filetags: :programming:mathematics:books:website:

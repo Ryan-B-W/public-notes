@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       2ad71708-8ed1-499f-986b-cbb5c047c467
+:ROAM_REFS: https://medium.com/@MartinCracauer/static-type-checking-in-the-programmable-programming-language-lisp-79bb79eb068a
+:END:
+#+title: (medium.com) Static type checking in the programmable programming language (Lisp) | by Martin Cracauer | Medium
+#+filetags: :programming_type_systems:programming_language:programming:lisp:website:

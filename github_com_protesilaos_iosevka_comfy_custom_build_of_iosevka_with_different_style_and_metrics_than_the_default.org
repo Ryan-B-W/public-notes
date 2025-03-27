@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       5f719f07-ec63-4b7b-863f-36ed182f73b4
+:ROAM_REFS: https://github.com/protesilaos/iosevka-comfy
+:END:
+#+title: (github.com) protesilaos/iosevka-comfy: Custom build of Iosevka with different style and metrics than the default.
+#+filetags: :open_source:fonts_slab_serif:fonts_sans:fonts_quasi_proportional:fonts_monospace:fonts:website:
+
+#+begin_quote
+  Custom build of Iosevka with different style and metrics than the default.
+#+end_quote
+* See Also
+** [[id:34690fb5-f6d1-4fb0-9086-7e9fc4e97c65][(protesilaos.com) Screen shots of Iosevka Comfy font | Protesilaos Stavrou]]
+** [[id:0aebfe46-276b-42d5-801d-b4f39cb7bacf][(gitlab.com) Protesilaos Stavrou / iosevka-comfy · GitLab]]

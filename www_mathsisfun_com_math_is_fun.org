@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       30a51f10-fef4-41e4-a7ce-0a3896d08ce5
+:ROAM_REFS: https://www.mathsisfun.com/
+:END:
+#+title: (www.mathsisfun.com) Math is Fun
+#+filetags: :mathematics:education:website:
+
+A general mathematics learning resource site.
+* (www.mathsisfun.com) Solving Systems of Linear Equations Using Matrices
+:PROPERTIES:
+:ID:       c7d8584f-9b52-4f0a-bc90-7011914968d2
+:ROAM_REFS: https://www.mathsisfun.com/algebra/systems-linear-equations-matrices.html
+:END:

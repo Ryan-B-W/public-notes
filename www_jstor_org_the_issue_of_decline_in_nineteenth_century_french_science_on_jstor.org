@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       80042653-aff1-49b4-82a2-ca3450d6d271
+:ROAM_REFS: https://www.jstor.org/stable/286222
+:END:
+#+title: (www.jstor.org) The Issue of Decline in Nineteenth-Century French Science on JSTOR
+#+filetags: :science_paper:history:website:
+* (www.jstor.org) The Issue of Decline in Nineteenth-Century French Science - Paul-IssueDeclineNineteenthCentury-1972.pdf
+:PROPERTIES:
+:ID:       b09fa7ff-881f-4d03-b95b-b2569529260c
+:ROAM_REFS: https://www.jstor.org/stable/pdf/286222.pdf
+:END:

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       44889415-c229-404e-b99d-c7398c621497
+:ROAM_REFS: https://raw.githubusercontent.com/g-truc/glm/refs/heads/master/copying.txt
+:END:
+#+title: (raw.githubusercontent.com) OpenGL Mathematics (GLM) license, The Happy Bunny License
+#+filetags: :website:
+
+#+begin_quote
+  OpenGL Mathematics (GLM)
+  GLM is licensed under The Happy Bunny License or MIT License
+  The Happy Bunny License (Modified MIT License)
+#+end_quote

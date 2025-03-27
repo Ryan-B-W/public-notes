@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       2d32cd95-0ecb-4feb-a880-5683cc6c81e3
+:ROAM_REFS: https://leo3418.github.io/2023/01/03/windows-98-in-vanilla-dosbox.html
+:END:
+#+title: (leo3418.github.io) Run Windows 98 in Vanilla DOSBox - Leo3418's Personal Site
+#+filetags: :blog_post:software:microsoft:microsoft_windows:emulator:website:
+
+#+begin_quote
+  ** Run Windows 98 in Vanilla DOSBox
+
+  As a DOS emulator, DOSBox is theoretically capable of running DOS-based versions of Windows, like Windows 3.1, 95, and 98.  Certainly, the [[https://www.dosbox.com/comp_list.php?letter=W][compatibility list]] on DOSBox official website classifies Windows 3.1 and 95 as /supported/; but for Windows 98, it is just rated [[https://www.dosbox.com/comp_list.php?showID=3485&letter=W][/runnable/]] -- even lower than the intermediate /playable/ tier.  Perhaps for this reason, most people would just resort to other DOSBox forks that offer better support for Windows 98, like [[https://dosbox-x.com/wiki/Guide:Installing-Windows-98][DOSBox-X]], when they want to run this version of Windows.
+
+  But, I did not give up getting Windows 98 to run in vanilla DOSBox and discovered that only a little special care would be required to bring it to at least the /playable/ territory, if the ability to run games like Solitaire and 3D Pinball would justify a “playable” rating.  So, I decided to write this tutorial for people who wish to try it out.
+#+end_quote

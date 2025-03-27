@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       bf31091e-e7a1-4b88-8393-5afbe5f34117
+:ROAM_REFS: https://org-roam.discourse.group/t/possible-to-ignore-directories-within-the-org-directory/2454
+:END:
+#+title: (org-roam.discourse.group) Possible to ignore directories within the org-directory? - Troubleshooting - Org-roam
+#+filetags: :emacs_lisp:lisp:emacs:website:
+
+Answer, by liam:
+#+begin_quote
+  For this case, ~org-roam-file-exclude-regexp~, which is referenced by ~org-roam-file-p~, is probably a better option than ~org-roam-db-node-include-function~, which is referenced by ~org-roam-db-node-p~.  It’s missing from the manual at the moment.  Including the full path to the subdirectory in the regular expression should work:
+  : (setq org-roam-file-exclude-regexp
+  :       (concat "^" (expand-file-name org-roam-directory) "/exclude-this-subdir/")
+#+end_quote

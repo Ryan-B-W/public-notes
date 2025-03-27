@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       5dfe39dc-7d6c-47b9-ae2c-23e72e78ac2c
+:ROAM_REFS: https://en.wikipedia.org/wiki/Rice–Shapiro_theorem
+:END:
+#+title: (en.wikipedia.org) Rice–Shapiro theorem - Wikipedia
+#+filetags: :mathematics:computer_science:website:
+
+#+begin_quote
+  In computability theory, the Rice–Shapiro theorem is a generalization of Rice's theorem, named after Henry Gordon Rice and Norman Shapiro.  It states that when a semi-decidable property of partial computable functions is true on a certain partial function, one can extract a finite subfunction such that the property is still true.
+
+  The informal idea of the theorem is that the "only general way" to obtain information on the behavior of a program is to run the program, and because a computation is finite, one can only try the program on a finite number of inputs.
+
+  A closely related theorem is the Kreisel-Lacombe-Shoenfield-Tseitin theorem, which was obtained independently by Georg Kreisel, Daniel Lacombe and Joseph R. Shoenfield, and by Grigori Tseitin.
+#+end_quote

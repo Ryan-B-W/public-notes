@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       10d81c8a-24e9-4b25-978a-a15f7311f166
+:ROAM_REFS: https://www.mheducation.com/highered/product/Financial-Accounting-11e-Libby.html
+:END:
+#+title: (www.mheducation.com) Financial Accounting 11
+#+filetags: :finance:books:website:

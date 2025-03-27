@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       7e1a4011-6746-4064-b3fb-6745383a6d08
+:ROAM_REFS: https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/
+:END:
+#+title: (it-notes.dragas.net) FediMeteo: How a Tiny €4 FreeBSD VPS Became a Global Weather Service for Thousands - IT Notes
+#+filetags: :blog_post:website:
+
+#+begin_quote
+  * FediMeteo: How a Tiny €4 FreeBSD VPS Became a Global Weather Service for Thousands
+
+  ** Personal Introduction
+
+  Weather has always significantly influenced my life.  When I was a young athlete, knowing the forecast in advance would have allowed me to better plan my training sessions.  As I grew older, I could choose whether to go to school on my motorcycle or, for safety reasons, have my grandfather drive me.  And it was him, my grandfather, who was my go-to meteorologist.  He followed all weather patterns and forecasts, a remnant of his childhood in the countryside and his life on the move.  It's to him that I dedicate [[https://fedimeteo.com/][FediMeteo]].
+
+  The idea for [[https://fedimeteo.com/][FediMeteo]] started almost by chance while I was checking the holiday weather forecast to plan an outing.  Suddenly, I thought how nice it would be to receive regular weather updates for my city directly in my timeline.  After reflecting for a few minutes, I registered a domain and started planning.
+#+end_quote

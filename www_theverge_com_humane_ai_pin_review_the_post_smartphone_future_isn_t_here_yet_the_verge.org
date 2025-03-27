@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       bdbc5ed1-c35f-431b-ae53-6aae9c6fb3d2
+:ROAM_REFS: https://www.theverge.com/24126502/humane-ai-pin-review
+:END:
+#+title: (www.theverge.com) Humane AI Pin review: the post-smartphone future isn’t here yet - The Verge
+#+filetags: :artificial_intelligence:news:article:website:

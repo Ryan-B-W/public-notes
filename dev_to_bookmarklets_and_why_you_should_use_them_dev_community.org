@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       ce2a3ec9-d4a2-4b4f-9bda-b18ca041ca72
+:ROAM_REFS: https://dev.to/yawaramin/bookmarklets-and-why-you-should-use-them-33j0
+:END:
+#+title: (dev.to) Bookmarklets, and why you should use them - DEV Community
+#+filetags: :www:article:website:
+
+#+begin_quote
+  MOST of us have been using web browsers for a long time, yet relatively few of us know this somewhat obscure feature: browsers understand URLs that begin with javascript: instead of http: or https: protocols, and can actually execute the JavaScript code in the URL when you request it.  Sounds like a security nightmare?  Potentially, yes.  You should be careful about what URLs you click on.
+  However!  Harnessed in the right way, these javascript: URLs can be incredibly useful–enter bookmarklets.
+#+end_quote
+* Links in article
+** [[id:14922e43-d6a0-49e0-9a0d-d4b9d608799c][(yawaramin.github.io) Bookmarklets]]

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       705ad812-70b2-455a-a463-928776c7b4d6
+:ROAM_REFS: https://datatracker.ietf.org/doc/html/rfc5321
+:END:
+#+title: (datatracker.ietf.org) RFC 5321 - Simple Mail Transfer Protocol
+#+filetags: :website:
+
+#+begin_quote
+  * Simple Mail Transfer Protocol
+
+  ** Status of This Memo
+
+  This document specifies an Internet standards track protocol for the Internet community, and requests discussion and suggestions for improvements.  Please refer to the current edition of the "Internet Official Protocol Standards" (STD 1) for the standardization state and status of this protocol.  Distribution of this memo is unlimited.
+
+  ** Abstract
+
+  This document is a specification of the basic protocol for Internet electronic mail transport.  It consolidates, updates, and clarifies several previous documents, making all or parts of most of them obsolete.  It covers the SMTP extension mechanisms and best practices for the contemporary Internet, but does not provide details about particular extensions.  Although SMTP was designed as a mail transport and delivery protocol, this specification also contains information that is important to its use as a "mail submission" protocol for "split-UA" (User Agent) mail reading systems and mobile environments.
+#+end_quote

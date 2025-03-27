@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       5c995632-d1b2-46fb-8fe1-c6ed109a9034
+:ROAM_REFS: https://iolanguage.org/
+:END:
+#+title: (iolanguage.org) io language
+#+filetags: :io_lang:programming_language:website:
+
+From the about page:
+#+begin_quote
+  Io is a programming language focused on expressiveness through simplicity.
+
+  inspirations:   Self, Lua, Smalltalk, NewtonScript, Act1, LISP
+  pure:           minimal syntax
+                  all values are objects
+                  prototype-based object model
+                  everything is a message, even assignment
+                  no keywords, no globals
+  dynamic:        all messages are dynamic
+                  code is a runtime modifiable tree of messages
+                  arguments passed by expression, receiver controls eval
+                  differential inheritance
+                  become, transparent proxies, weak links
+  concurrent:     coroutine based actors
+                  transparent futures
+                  automatic lock detection
+  implementation: small
+                  open source
+                  embeddable
+                  multi-state
+                  incremental collector
+#+end_quote

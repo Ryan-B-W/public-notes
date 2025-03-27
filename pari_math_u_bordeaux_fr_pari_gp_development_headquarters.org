@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       d0c848ac-a64d-4e00-8f4d-f30f0ff28f9a
+:ROAM_REFS: http://pari.math.u-bordeaux.fr/
+:END:
+#+title: (pari.math.u-bordeaux.fr) PARI/GP Development Headquarters
+#+filetags: :programming:computer_algebra:open_source:software:mathematics:website:
+
+#+begin_quote
+  PARI/GP is a cross platform and open-source computer algebra system designed for fast computations in number theory: factorizations, algebraic number theory, elliptic curves, modular forms, /L/ functions...  It also contains a wealth of functions to compute with mathematical entities such as matrices, polynomials, power series, algebraic numbers, etc., and a lot of transcendental functions as well as numerical summation and integration routines.  PARI is also available as a C library to allow for faster computations.
+
+  Developed since the [[http://pari.math.u-bordeaux.fr/timeline.html][early eighties]] in the University of Bordeaux, PARI is free software, available under the [[http://www.fsf.org/licenses/gpl.html][GPL]].
+
+  - *PARI* is a C library, allowing fast computations.
+  - *gp* is an easy-to-use interactive shell giving access to the PARI functions.
+  - *GP* is the name of gp's scripting language.
+  - *gp2c*, the GP-to-C compiler, combines the best of both worlds by compiling GP scripts to the C language and transparently loading the resulting functions into gp. (gp2c-compiled scripts will typically run 3 or 4 times faster.) gp2c currently only understands a subset of the GP language.
+#+end_quote

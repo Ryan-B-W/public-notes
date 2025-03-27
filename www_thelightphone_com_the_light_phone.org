@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       45eefb60-0709-4554-a90d-e7c16271f3e0
+:ROAM_REFS: https://www.thelightphone.com/
+:END:
+#+title: (www.thelightphone.com) The Light Phone
+#+filetags: :store:phone:electronics:website:

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       12f82a48-7f6a-40ce-a08e-cd7bbe8cb5ed
+:ROAM_REFS: https://archives.loomcom.com/genera/genera-install.html
+:END:
+#+title: (archives.loomcom.com) Running Open Genera 2.0 on Linux
+#+filetags: :operating_systems:lisp:website:

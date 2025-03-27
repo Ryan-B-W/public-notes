@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       3681e8da-7fe6-4ce0-98c8-7384de6ce324
+:END:
+#+title: ftview
+#+filetags: :fonts:software:
+
+[[id:71db43c6-1a39-4e98-8cb9-1305958a5978][FreeType]] tool for testing fonts and font settings.
+* (gitlab.freedesktop.org) src/ftview.c · master · FreeType / FreeType Demo Programs · GitLab :website:
+:PROPERTIES:
+:ID:       1cad8a66-22b4-478e-aa1e-84dd4d17a95b
+:ROAM_REFS: https://gitlab.freedesktop.org/freetype/freetype-demos/-/blob/master/src/ftview.c
+:END:

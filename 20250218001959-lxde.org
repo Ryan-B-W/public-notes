@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       8c5805fc-efff-4036-beea-6a482bec8728
+:END:
+#+title: LXDE
+#+filetags: :open_source:software:
+
+Lightweight [[id:bf0bc2d7-17df-413c-823b-93904faffc58][Linux]] desktop environment using the [[id:0682b89b-3d34-4ef5-b703-1c70d435173f][GTK Widget Toolkit]].
+* (www.lxde.org) LXDE                                               :website:
+:PROPERTIES:
+:ID:       791df3f0-7626-444b-a75c-c6b95cd94729
+:ROAM_REFS: https://www.lxde.org/
+:END:

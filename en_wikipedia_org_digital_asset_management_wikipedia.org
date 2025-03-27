@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       4db3c4a9-9328-4594-a907-e96cb32cc7f7
+:ROAM_REFS: https://en.wikipedia.org/wiki/Digital_asset_management
+:END:
+#+title: (en.wikipedia.org) Digital asset management - Wikipedia
+#+filetags: :information_technology:information_management:asset_management:digital_asset_management:website:
+
+#+begin_quote
+  *Digital asset management* (*DAM*) and the implementation of its use as a computer application is required in the collection of [[https://en.wikipedia.org/wiki/Digital_asset][digital assets]] to ensure that the owner, and possibly their delegates, can perform operations on the data files.
+#+end_quote
+* See Also
+** [[id:cfaa405b-1c15-4adf-aba3-70afb19dd6ce][(en.wikipedia.org) Image organizer - Wikipedia]]

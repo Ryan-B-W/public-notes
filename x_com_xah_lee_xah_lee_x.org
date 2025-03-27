@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       0c4a88ad-ca09-4b15-a081-17d1c6654e18
+:ROAM_REFS: https://twitter.com/xah_lee
+:END:
+#+title: (twitter.com) Xah Lee (@xah_lee) / Twitter
+#+filetags: :social_media:website:
+
+#+begin_quote
+  Math and Programing Nerd.  Author of JavaScript in Depth, Practical Emacs Lisp, WolframLang Tutorial.  I post mostly nerd stuff.
+#+end_quote

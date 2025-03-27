@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       d36507af-d835-4613-ae04-58d82a25579f
+:ROAM_REFS: https://www.amazon.com/dp/0134277554
+:END:
+#+title: (www.amazon.com) UNIX and Linux System Administration Handbook: Nemeth, Evi, Snyder, Garth, Hein, Trent, Whaley, Ben, Mackin, Dan: 9780134277554: Amazon.com: Books
+#+filetags: :system_administration:operating_systems:linux:unix:books:website:

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       968eb552-c9f5-4877-b4e3-97462c038c02
+:ROAM_REFS: https://huggingface.co/spaces/open-llm-leaderboard/blog
+:END:
+#+title: (huggingface.co) Open-LLM performances are plateauing, let’s make the leaderboard steep again
+#+filetags: :artificial_intelligence:computer_science:website:
+
+Huggingface blog post on their creation of the Open LLM Leaderboard version 2.  The Huggingface Open LLM Leaderboard is a popular leaderboard of benchmark evaluation performance of various freely available LLM [[id:b10990c2-d056-42f5-a4e7-145a405d9550][AI]] models.
+
+Of note, they accounted for contamination of various models with benchmark data:
+#+begin_quote
+  Some newer models also showed signs of contamination. By this, we mean that models were possibly trained on benchmark data or on data very similar to benchmark data. As such, some scores stopped reflecting the general performance of the model and started to overfit on some evaluation datasets instead of reflecting the more general performance of the task being tested. This was, in particular, the case for GSM8K and TruthfulQA, which were included in some instruction fine-tuning sets.
+#+end_quote
+* See Also
+ - [[https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard][Open LLM Leaderboard 2 - a Hugging Face Space by open-llm-leaderboard]]

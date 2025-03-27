@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       d9bb1af5-8693-4825-b631-d874e52a9a99
+:ROAM_REFS: https://irreal.org/blog/?p=9865
+:END:
+#+title: (irreal.org) Writing Academic Papers With Org-mode | Irreal
+#+filetags: :writing:emacs:blog_post:website:
+
+Links to:
+* [[id:82086793-1674-48a0-a980-9d70318c7be6][(www.wouterspekkink.org) Writing academic papers with org-mode | Wouter A. H. Spekkink]]
+* [[id:30632feb-caa2-486c-920c-915183c90430][(github.com) jkitchin/org-ref: org-mode modules for citations, cross-references, bibliographies in org-mode and useful bibtex tools to go with it.]]
+* [[id:2bfe3e43-a672-421c-b5f6-744223fb7699][(www.orgroam.com) Org-roam]]
+* [[id:cdffce59-0413-4e8f-94ff-8777352ec6de][(github.com) weirdNox/org-noter: Emacs document annotator, using Org-mode]]

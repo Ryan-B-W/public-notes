@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       b4ef4af9-e992-4f69-8240-34ac3ba917a9
+:ROAM_REFS: http://www.arrl.org/what-to-bring-to-an-exam-session
+:END:
+#+title: (www.arrl.org) What to Bring to an Exam Session
+#+filetags: :education:amateur_radio:radio:website:

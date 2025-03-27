@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       1a398b8a-8d90-4531-a850-98b0e8939ee5
+:END:
+#+title: Polish Notation (PN or NPN)
+#+filetags: :lisp:mathematics:programming:computer_science:
+
+Polish notation (PN or NPN for normal polish notation) is a mathematical notation where operators come before operands.  In contrast to [[id:e9002321-7592-4465-a256-0104be238b42][Reverse Polish Notation]], it is a form of prefix notation instead of suffix or infix notation.  Most common modern usage is probably [[id:84ae6e85-a6a2-4133-bc53-274238081c2d][Lisp]].
+* Polish notation - Wikipedia
+:PROPERTIES:
+:ID:       82ecd3d8-ed3c-47e8-b2ed-533f6c8965fc
+:ROAM_REFS: https://en.wikipedia.org/wiki/Polish_notation
+:END:

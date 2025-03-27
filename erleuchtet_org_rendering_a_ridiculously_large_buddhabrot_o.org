@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       62f28760-5b48-4447-b7d6-8e947247b58e
+:ROAM_REFS: https://erleuchtet.org/2010/07/ridiculously-large-buddhabrot.html
+:END:
+#+title: (erleuchtet.org) Rendering a ridiculously large Buddhabrot - \o/
+#+filetags: :blog_post:computer_science:graphics:lisp:mathematics:website:
+
+#+begin_quote
+  * Rendering a ridiculously large Buddhabrot
+
+  This article describes how to render a ridicuously large 500 Megapixel Buddhabrot with iteration depths in the range of millions.  Lisp source included.  Scroll down for the final image.
+
+
+  [[http://erleuchtet.org/buddhabrot_small_detail.jpg][[[http://erleuchtet.org/assets_c/2010/07/buddhabrot_small_detail-thumb-250x318-365.jpg]]]]Why would you want to do this?  To have it printed and on your wall, of course (see pictures below).
+
+  I will begin by outlining the general idea of the Buddhabrot (see the [[http://en.wikipedia.org/wiki/Buddhabrot][Wikipedia article]] for more), then talk about my optimizations and rendering choices.
+#+end_quote

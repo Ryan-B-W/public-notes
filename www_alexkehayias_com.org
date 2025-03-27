@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       489c6ac1-b4c5-4353-aad6-88f0d680e819
+:ROAM_REFS: https://www.alexkehayias.com/essays/zettelkasten-setup/
+:END:
+#+title: (www.alexkehayias.com) Zettelkasten, Emacs, and Creative Thinking
+#+filetags: :emacs:information_management:blog_post:website:
+
+#+begin_quote
+  * Zettelkasten, Emacs, and Creative Thinking
+
+  An in-depth description of a Zettelkasten note taking practice that helps me improve clarity of thinking and creativity.
+#+end_quote

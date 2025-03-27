@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       1611a128-79f1-416a-9323-62f4afe8ebf6
+:ROAM_REFS: https://github.com/Kungsgeten/yankpad
+:END:
+#+title: (github.com) Kungsgeten/yankpad: Paste snippets from an org-mode file
+#+filetags: :emacs:software:website:
+
+#+begin_quote
+  Paste snippets from an [[id:5ab4a0b0-95e2-40cf-b924-709db3115d48][org-mode]] file
+#+end_quote

@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       6ccbb6af-0acb-4d4d-8cf8-1dd4618666f0
+:ROAM_REFS: https://www.acm.org/chapters/students/how-to-start-a-student-chapter
+:END:
+#+title: (www.acm.org) How to Start a Student Chapter
+#+filetags: :website:
+
+#+begin_quote
+  * How to Start a Student Chapter
+
+  A Student chapter serves as a gateway to forums, panel discussions, and symposia that further a student's professional development.  Preparation and presentation of technical reports and papers and cooperative efforts on research projects allow students to test their technical expertise.
+
+  [[https://www.acm.org/chapter_charter][Start]] an ACM Student Chapter in 4 easy steps.
+
+  * Entries made during the application process may be saved and completed at a later time by visiting the URL sent to the chapter email address.
+
+  Step 1: Enter chapter name, chapter email address, chapter type, and chapter sub-type.
+
+  Step 2: Enter the names of the individuals to serve as Chair, Vice Chair and Treasurer.  These individuals must be [[https://www.acm.org/membership/join][ACM Student Members]].  In addition, a Faculty Sponsor with an [[https://www.acm.org/membership/join][ACM Professional Membership]] is required.
+
+  Step 3: Enter chapter contact information (postal address and phone number).
+
+  Step 4: Enter the names of at least ten (10) individuals willing to carry out the chapter's mission and participate in activities.  The last name, first name, and email addresses of these members will be required through the automated chartering application.
+
+  Chapters in India are required to have at least fifteen (15) ACM members.
+
+  Once the completed application is submitted, it will be reviewed by the Local Activities Manager within 5-7 business days.
+
+  Note:\\
+  FOR UNITED STATES CHAPTERS: An Employer Identification Number (EIN) is also known as a Federal Tax Identification Number, and is used to identify a business entity.  ACM chapters that conduct financial business or need to open a bank account will require an EIN number.  Chapters will have to designate one of their officers as the responsible party and have their information be submitted within the EIN application.  That information, which includes a social security number, can be provided to ACM via phone and ACM will apply for the EIN on the chapter's behalf.  If your chapter would like an EIN, please contact us at [[mailto://local_activities@hq.acm.org][local_activities@hq.acm.org]] after your chapter is chartered.  Please do not create your own EIN as it needs to be submitted by ACM to ensure your chapter is confirmed as a subordinate organization under ACM and therefore included in our returns.
+#+end_quote

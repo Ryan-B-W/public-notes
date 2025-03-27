@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       2da47842-184d-43cb-8d40-43f2d0ae68d5
+:ROAM_REFS: https://selfh.st/apps/?
+:END:
+#+title: (selfh.st) Self-Hosted Software and Apps
+#+filetags: :search:www:software:lists:website:

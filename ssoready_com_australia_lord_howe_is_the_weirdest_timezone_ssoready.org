@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       925c0a6d-d379-4888-990e-7308adc07937
+:ROAM_REFS: https://ssoready.com/blog/engineering/truths-programmers-timezones/
+:END:
+#+title: (ssoready.com) Australia/Lord_Howe is the weirdest timezone | SSOReady
+#+filetags: :time:timezone:blog_post:website:

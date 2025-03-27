@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       109d6c79-679e-4a58-9955-1811c0da032d
+:ROAM_REFS: https://git.sr.ht/~swflint/emacs-universal-sidecar
+:END:
+#+title: (git.sr.ht) ~swflint/emacs-universal-sidecar - A universal "sidecar" buffer for emacs, inspired by the `org-roam-mode` buffer. - sourcehut git
+#+filetags: :lisp:emacs:software:website:
+
+#+begin_quote
+  A universal "sidecar" buffer for emacs in the spirit of the org-roam-mode buffer.
+#+end_quote

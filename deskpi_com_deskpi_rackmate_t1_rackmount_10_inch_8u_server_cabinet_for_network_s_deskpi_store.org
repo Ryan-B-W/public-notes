@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       b4466610-8001-4d73-8eeb-15709c7c4fe8
+:ROAM_REFS: https://deskpi.com/products/deskpi-rackmate-t1-2
+:END:
+#+title: (deskpi.com) DeskPi RackMate T1 Rackmount, 10 Inch 8U Server Cabinet for Network, S – DeskPi Store
+#+filetags: :hardware:electronics:store:website:
+
+#+begin_quote
+  * DeskPi RackMate T1 Rackmount, 10 Inch 8U Server Cabinet for Network, Servers, Audio, and Video Equipment
+
+  SKU:DP-0022
+
+  Regular price $119.99 USD
+#+end_quote

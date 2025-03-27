@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       68d3606e-f00c-49d0-971d-6edc29084f8c
+:ROAM_REFS: https://blog.pragmaticengineer.com/section-174/
+:END:
+#+title: (blog.pragmaticengineer.com) The Pulse: Will US companies hire fewer engineers due to Section 174? - The Pragmatic Engineer
+#+filetags: :software_development:finance:blog_post:news:website:
+
+#+begin_quote
+  * The Pulse: Will US companies hire fewer engineers due to Section 174?
+
+  In October, we looked into [[https://newsletter.pragmaticengineer.com/p/lessons-from-bootstrapped-companies?ref=blog.pragmaticengineer.com][bootstrapped companies founded by software engineers]] and the article resonated with many readers; I got lots of messages from bootstrapped founders following that issue.  Many messages were complaints about something called “Section 174 changes.” Here's what one founder said:
+
+  : “Have you heard of a change in Section 174 of the US tax law that kicked in a few years ago?  This change is making bootstrapped software businesses completely unsustainable.
+
+  : Basically, all costs related to R&D cannot be expensed, including labor for software development.  These costs have to be capitalized and amortized over 5 years -- or 15 if labor is done outside of the US.  I have no other way to put it: this change is completely insane.  Everyone I talk to says the same.
+
+  : I am curious if this has come up in your discussions with other bootstrapped companies?”
+
+  I did some research, and The Wall Street Journal and a handful of other news outlets have [[https://www.wsj.com/articles/small-businesses-face-big-tax-bills-from-research-deduction-change-a189b113?ref=blog.pragmaticengineer.com][covered]] this change since last March.  Still, founders reaching out shared that it feels like public awareness is low about just how large a problem this tax change is.  Back last April, Ben Thompson at Stratechery [[https://stratechery.com/2023/buzzfeed-shutters-news-startups-and-the-rd-tax-credit/?ref=blog.pragmaticengineer.com][covered]] this change, also expressing his surprise on how impacted companies seemed to be blissfully unaware of this regulation:
+
+  : “I've been very surprised that few people in tech seem to know about this issue, at least in the private conversations that I have had, even though startups are arguably the hardest hit companies of all.”
+
+  I [[https://x.com/GergelyOrosz/status/1735030983173230944?ref=blog.pragmaticengineer.com][took to social media]] to gather more information, and a surprising number of complaints from US tech businesses came in.
+
+  In this issue, we cover:
+
+  - An unexpectedly high tax bill out of nowhere
+  - A tax change never intended to make it into law
+  - Why did Big Tech and VCs not raise the alarm?”
+  - The impact of this change on US tech companies and devs working at them
+  - Why is forced amortization of software labor objectively bad?
+  - Will the US be content being a less competitive place for startups?
+
+  /If you're more of a YouTube videos type, [[https://www.youtube.com/watch?v=1ecu0YsCGxg&ref=blog.pragmaticengineer.com][Theo.gg created a video on this topic]]./
+#+end_quote

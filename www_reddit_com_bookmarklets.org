@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       5e801330-a5d7-4ee9-aef4-38e77d5d204e
+:ROAM_REFS: https://www.reddit.com/r/bookmarklets/
+:END:
+#+title: (www.reddit.com) Bookmarklets
+#+filetags: :www:forums:website:
+
+Subreddit description:
+#+begin_quote
+  *Bookmarklets*
+  A javascript bookmarklet aims to modify the display of a website, but it can do much more. Post your favorite bookmarklets here.
+#+end_quote

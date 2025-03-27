@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       45f3449b-d42d-4498-81ea-8ed7b60e1590
+:ROAM_REFS: https://devmanual.gentoo.org/index.html
+:END:
+#+title: (devmanual.gentoo.org) Master index – Gentoo Development Guide
+#+filetags: :gentoo:operating_systems:linux:website:
+
+#+begin_quote
+  This document is an ongoing work in progress.  It contains gaps, inaccuracies, omissions, typos and the occasional outright lie.  The intent is to make a handbook giving developers and users correct, detailed, up to date technical content.
+#+end_quote
+* (devmanual.gentoo.org) Ebuild writing – Gentoo Development Guide
+:PROPERTIES:
+:ID:       0b74ebfc-5c41-49e9-9d06-f62a79396d56
+:ROAM_REFS: https://devmanual.gentoo.org/ebuild-writing/index.html
+:END:
+
+#+begin_quote
+  This section describes how to write an ebuild.  It covers the basic format of an ebuild and the variables and functions available, and finishes off with some general notes and extended examples.
+#+end_quote
+** (devmanual.gentoo.org) Using eclasses – Gentoo Development Guide
+:PROPERTIES:
+:ID:       4667144a-7525-427d-86a1-39eb06dbb65a
+:ROAM_REFS: https://devmanual.gentoo.org/ebuild-writing/using-eclasses/index.html
+:END:
+
+#+begin_quote
+  An eclass is a collection (library) of functions or functionality that is shared between packages.  See Eclass writing guide for the full story on what eclasses can do, how they work and how to write them, and Eclass reference for documentation on various commonly used eclasses.  This section only explains how to use an eclass which has already been written.
+#+end_quote

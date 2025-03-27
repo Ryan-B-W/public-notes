@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       98ab8bb6-1059-4ff8-9614-21ba5db1221d
+:ROAM_REFS: https://github.com/MikhailProg/elf/blob/master/src/z_printf.c
+:END:
+#+title: (github.com) elf/src/z_printf.c at master · MikhailProg/elf
+#+filetags: :programming:software:website:

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       709c6612-bcea-4527-9592-b3ebe63706df
+:ROAM_REFS: https://systemdynamics.org/
+:END:
+#+title: (systemdynamics.org) System Dynamics Society | Home for Systems Thinkers and Modelers
+#+filetags: :system_dynamics:website:

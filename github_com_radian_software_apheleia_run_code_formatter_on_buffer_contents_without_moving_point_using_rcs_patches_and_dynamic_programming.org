@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       207e0315-b4aa-420e-baef-8f3b1498c5dc
+:ROAM_REFS: https://github.com/radian-software/apheleia
+:END:
+#+title: (github.com) radian-software/apheleia: 🌷 Run code formatter on buffer contents without moving point, using RCS patches and dynamic programming.
+#+filetags: :open_source:programming:software_development:software:website:
+
+#+begin_quote
+  * Apheleia
+
+  Good code is automatically formatted by tools like [[https://github.com/python/black][Black]] or [[https://prettier.io/][Prettier]] so that you and your team spend less time on formatting and more time on building features.  It's best if your editor can run code formatters each time you save a file, so that you don't have to look at badly formatted code or get surprised when things change just before you commit.  However, running a code formatter on save suffers from the following two problems:
+
+  1. It takes some time (e.g. around 200ms for Black on an empty file), which makes the editor feel less responsive.
+  2. It invariably moves your cursor (point) somewhere unexpected if the changes made by the code formatter are too close to point's position.
+
+  Apheleia is an [[https://www.gnu.org/software/emacs/][Emacs]] package which solves both of these problems comprehensively for all languages, allowing you to say goodbye to language-specific packages such as [[https://github.com/proofit404/blacken][Blacken]] and [[https://github.com/prettier/prettier-emacs][prettier-js]].
+
+  The approach is as follows:
+
+  1. Run code formatters on =after-save-hook=, rather than =before-save-hook=, and do so asynchronously.  Once the formatter has finished running, check if the buffer has been modified since it started; only apply the changes if not.
+  2. After running the code formatter, generate an [[https://web.archive.org/web/20220527003730/https://tools.ietf.org/doc/tcllib/html/rcs.html#section4][RCS patch]] showing the changes and then apply it to the buffer.  This prevents changes elsewhere in the buffer from moving point.  If a patch region happens to include point, then use a [[https://en.wikipedia.org/wiki/Needleman–Wunsch_algorithm][dynamic programming algorithm for string alignment]] to determine where point should be moved so that it remains in the same place relative to its surroundings.  Finally, if the vertical position of point relative to the window has changed, adjust the scroll position to maintain maximum visual continuity. (This includes iterating through all windows displaying the buffer, if there are more than one.) The dynamic programming algorithm runs in quadratic time, which is why it is only applied if necessary and to a single patch region.
+#+end_quote

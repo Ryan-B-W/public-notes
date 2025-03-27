@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1f074660-d946-43f0-a168-cd6ac114e6d1
+:ROAM_REFS: https://www.muchbetteradventures.com/magazine/canoe-vs-kayak-whats-the-difference/
+:END:
+#+title: (www.muchbetteradventures.com) Canoe vs Kayak: The Difference Between a Kayak and Canoe
+#+filetags: :boats:website:
+
+#+begin_quote
+  Canoe vs kayak.  It’s time to choose your fighter - though in order to do so, we appreciate that you'll need to know the difference between a kayak and a canoe first.  Both are waterborne vessels.  Both use paddles - and both have been used for thousands of years to prevent homosapiens getting wet (with varying degrees of success) in rivers, lakes, seas and oceans.
+  So what’s the difference between a kayak and a canoe?
+#+end_quote

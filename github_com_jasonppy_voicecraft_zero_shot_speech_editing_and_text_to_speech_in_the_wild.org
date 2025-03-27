@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       0bff1810-e553-410d-8373-9eb21277d3e7
+:ROAM_REFS: https://github.com/jasonppy/VoiceCraft
+:END:
+#+title: (github.com) jasonppy/VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild
+#+filetags: :machine_learning:text_to_speech:software:website:
+
+#+begin_quote
+  TL;DR
+
+  VoiceCraft is a token infilling neural codec language model, that achieves state-of-the-art performance on both speech editing and zero-shot text-to-speech (TTS) on in-the-wild data including audiobooks, internet videos, and podcasts.
+
+  To clone or edit an unseen voice, VoiceCraft needs only a few seconds of reference.
+#+end_quote

@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       8e1bda84-ba8e-4e65-a27f-79bbfe203ae5
+:END:
+#+title: Zilog Z80
+#+filetags: :zilog_inc:electronics:processor:microprocessor:computer_architecture:computer_science:
+
+A popular [[id:96b6fc36-5b86-4108-b2b4-39b85a38f385][CISC]] microprocessor developed by Zilog and designed to be largely compatible with the [[id:dd6df822-9782-41ae-b96d-9990884b7cca][Intel 8080]] and its [[id:c980a340-2564-437e-a79f-388122a206ad][ISA]].
+* (en.wikipedia.org) Zilog Z80 - Wikipedia                          :website:
+:PROPERTIES:
+:ID:       b45ceabd-f482-4f24-bbc1-c00bfe601515
+:ROAM_REFS: https://en.wikipedia.org/wiki/Zilog_Z80
+:END:
+
+#+begin_quote
+  The *Zilog Z80* is an [[https://en.wikipedia.org/wiki/8-bit_computing][8-bit]] microprocessor designed by [[https://en.wikipedia.org/wiki/Zilog][Zilog]] that played an important role in the evolution of early computing.  Launched in 1976, it was designed to be [[https://en.wikipedia.org/wiki/Backward_compatible][software-compatible]] with the [[https://en.wikipedia.org/wiki/Intel_8080][Intel 8080]], offering a compelling alternative due to its better integration and increased performance.  In addition to the 8080's seven [[https://en.wikipedia.org/wiki/Processor_register][registers]] and flags register, the Z80 featured an alternate register set, two 16-bit index registers, and additional instructions, including [[https://en.wikipedia.org/wiki/Bit_manipulation][bit manipulation]] and block copy/search.
+
+  Originally intended for use in [[https://en.wikipedia.org/wiki/Embedded_system][embedded systems]] like the 8080, the Z80's combination of compatibility, affordability, and superior performance led to widespread adoption in [[https://en.wikipedia.org/wiki/Video_game][video game]] systems and [[https://en.wikipedia.org/wiki/Home_computer][home computers]] throughout the late 1970s and early 1980s, helping to fuel the [[https://en.wikipedia.org/wiki/Personal_computing][personal computing]] revolution.  The Z80 was used in iconic products such as the [[https://en.wikipedia.org/wiki/Osborne_1][Osborne 1]], [[https://en.wikipedia.org/wiki/TRS-80][Radio Shack TRS-80]], [[https://en.wikipedia.org/wiki/ColecoVision][ColecoVision]], [[https://en.wikipedia.org/wiki/ZX_Spectrum][ZX Spectrum]], Sega's [[https://en.wikipedia.org/wiki/Master_System][Master System]] and the /[[https://en.wikipedia.org/wiki/Pac-Man][Pac-Man]]/ arcade cabinet.  It continued to be utilized in portable devices, including the [[https://en.wikipedia.org/wiki/Game_Gear][Game Gear]] and the [[https://en.wikipedia.org/wiki/TI-83_series][TI-83 series]] of graphing calculators.
+
+  The Z80 was the brainchild of [[https://en.wikipedia.org/wiki/Federico_Faggin][Federico Faggin]], a key figure behind the creation of the Intel 8080.  After leaving Intel in 1974, Faggin co-founded Zilog with [[https://en.wikipedia.org/wiki/Ralph_Ungermann][Ralph Ungermann]].  The Z80 was released in July 1976.  With the revenue from the Z80, the company built its own [[https://en.wikipedia.org/wiki/Semiconductor_fabrication_plant][chip factories]].  Zilog licensed the Z80 to the US-based [[https://en.wikipedia.org/wiki/Synertek][Synertek]] and [[https://en.wikipedia.org/wiki/Mostek][Mostek]], which assisted with initial production, as well as to a European [[https://en.wikipedia.org/wiki/Second-source][second-source]] manufacturer [[https://en.wikipedia.org/wiki/Società_Generale_Semiconduttori][SGS]].  The [[https://en.wikipedia.org/wiki/Semiconductor_intellectual_property_core][design]] was also copied by various Japanese, Eastern European, and Soviet manufacturers, gaining global market acceptance as major companies like [[https://en.wikipedia.org/wiki/NEC][NEC]], [[https://en.wikipedia.org/wiki/Toshiba][Toshiba]], [[https://en.wikipedia.org/wiki/Sharp_Corporation][Sharp]], and [[https://en.wikipedia.org/wiki/Hitachi][Hitachi]] produced their own versions or compatible clones of the Z80.
+
+  The Z80 remained in use in embedded systems for decades after its introduction, with ongoing improvements.  The latest iteration, the [[https://en.wikipedia.org/wiki/Zilog_eZ80][eZ80]], was introduced in 2001 and continues to be available for purchase.  Zilog announced the discontinuation of the Z80 in April 2024 and officially ceased production in June 2024, after nearly five decades.
+#+end_quote
+* (en.wikipedia.org) Zilog eZ80 - Wikipedia                         :website:
+:PROPERTIES:
+:ID:       cf36a986-1324-4343-8093-cc7eac37affc
+:ROAM_REFS: https://en.wikipedia.org/wiki/Zilog_eZ80
+:END:
+
+#+begin_quote
+  The *Zilog eZ80* is an [[https://en.wikipedia.org/wiki/8-bit_computing][8-bit]] microprocessor designed by [[https://en.wikipedia.org/wiki/Zilog][Zilog]] as an updated version of the company's first product, the highly-successful [[https://en.wikipedia.org/wiki/Zilog_Z80][Zilog Z80]].  The eZ80 is [[https://en.wikipedia.org/wiki/Binary_compatible][binary compatible]] with the Z80, but operating almost three times faster at the same [[https://en.wikipedia.org/wiki/Clock_frequency][clock frequency]].
+#+end_quote

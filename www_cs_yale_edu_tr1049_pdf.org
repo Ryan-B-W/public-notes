@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       8591f245-d89a-49d9-bcb0-0446dee6abb3
+:ROAM_REFS: https://www.cs.yale.edu/publications/techreports/tr1049.pdf
+:END:
+#+title: (www.cs.yale.edu) Haskell vs. Ada vs. C++ vs. Awk vs. …: An Experiment in Software Prototyping Productivity
+#+filetags: :cpp_lang:ada_lang:haskell_lang:mime_type_application_pdf:software_development:programming:computer_science:science_paper:research:article:website:
+
+#+begin_quote
+  * Haskell vs. Ada vs. C++ vs. Awk vs. …: An Experiment in Software Prototyping Productivity
+
+  Paul Hudak, Mark P. Jones
+
+  Yale University
+  Department of Computer Science
+  New Haven, CT 06518
+  {hudak-paul,jones-mark}@cs.yale.edu
+
+  July 4, 1994
+
+  ** Abstract
+
+  We describe the results of an experiment in which several conventional programming languages, together with the functional language Haskell, were used to prototype a Naval Surface Warfare Center (NSWC) requirement for a /Geometric Region Server/.  The resulting programs and development metrics were reviewed by a committee chosen by the Navy.  The results indicate that the Haskell prototype took significantly less time to develop and was considerably more concise and easier to understand than the corresponding prototypes written in several different imperative languages, including Ada and C++.
+#+end_quote

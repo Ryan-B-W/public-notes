@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3d72c161-37ce-4abb-a41f-713a225380d6
+:ROAM_REFS: https://en.wikipedia.org/wiki/SKI_combinator_calculus
+:END:
+#+title: (en.wikipedia.org) SKI combinator calculus - Wikipedia
+#+filetags: :programming_language_design:mathematics:website:
+
+#+begin_quote
+  The SKI combinator calculus is a combinatory logic system and a computational system.  It can be thought of as a computer programming language, though it is not convenient for writing software.  Instead, it is important in the mathematical theory of algorithms because it is an extremely simple Turing complete language.  It can be likened to a reduced version of the untyped lambda calculus.  It was introduced by Moses Schönfinkel and Haskell Curry.
+  All operations in lambda calculus can be encoded via abstraction elimination into the SKI calculus as binary trees whose leaves are one of the three symbols S, K, and I (called combinators).
+#+end_quote

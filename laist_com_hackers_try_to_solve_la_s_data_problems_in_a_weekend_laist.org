@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       57698f1e-2335-4d34-b717-fe8867d9c5c5
+:ROAM_REFS: https://laist.com/shows/take-two/hackers-try-to-solve-las-data-problems-in-a-weekend
+:END:
+#+title: (laist.com) Hackers try to solve LA's data problems in a weekend | LAist
+#+filetags: :events:programming:article:news:website:

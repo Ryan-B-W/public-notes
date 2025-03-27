@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       6ca49e67-3c9a-41ff-b6c0-7b2e5d68fdb1
+:ROAM_REFS: https://wiki.gentoo.org/wiki/Comparison_of_init_systems
+:END:
+#+title: (wiki.gentoo.org) Comparison of init systems - Gentoo wiki
+#+filetags: :operating_systems:gentoo:linux:website:

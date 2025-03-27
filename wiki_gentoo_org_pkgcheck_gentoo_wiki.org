@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       9162a43b-fbdd-4546-97a4-9ccb1bf7252e
+:ROAM_REFS: https://wiki.gentoo.org/wiki/Pkgcheck
+:END:
+#+title: (wiki.gentoo.org) pkgcheck - Gentoo wiki
+#+filetags: :gentoo:linux:operating_systems:software:website:
+
+#+begin_quote
+  pkgcheck is a pkgcore-based QA utility for ebuild repos.
+#+end_quote

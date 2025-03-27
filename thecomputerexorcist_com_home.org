@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       c29e9b2a-f98c-4f5c-aa52-9b02ccd828a4
+:ROAM_REFS: https://thecomputerexorcist.com/
+:END:
+#+title: (thecomputerexorcist.com) Home
+#+filetags: :website:

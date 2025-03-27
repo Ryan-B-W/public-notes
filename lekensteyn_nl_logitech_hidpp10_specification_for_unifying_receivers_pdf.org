@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       ef3a105a-f2be-4771-80c1-75655fc5fe29
+:ROAM_REFS: https://lekensteyn.nl/files/logitech/logitech_hidpp10_specification_for_Unifying_Receivers.pdf
+:END:
+#+title: (lekensteyn.nl) logitech_hidpp10_specification_for_Unifying_Receivers.pdf
+#+filetags: :radio:electronics:documentation:mime_type_application_pdf:website:
+
+#+begin_quote
+  * 2 INTRODUCTION
+
+  ** 2.1 Hidpp10 vs Hidpp20
+
+  Both protocols use the same transport. From a host SW perspective the API used to send/receive already crafted hidpp10 and hidpp20 messages should be the same.
+
+  Hidpp20 enumeration process is described elsewhere. This document exposes a subset of the hidpp10 specification that targets the Logitech Unifying receiver. Among other things, device connect/disconnect, pairing/unpairing is covered by this document.
+
+  The Logitech Unifying receiver carries the USB VID 046d and PID 0xc52b
+#+end_quote

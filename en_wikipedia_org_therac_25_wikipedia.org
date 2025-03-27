@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       82dd83e3-6cab-4b31-b707-ab32f7522b54
+:ROAM_REFS: https://en.wikipedia.org/wiki/Therac-25
+:END:
+#+title: (en.wikipedia.org) Therac-25 - Wikipedia
+#+filetags: :radiation:engineering:safety:website:
+
+#+begin_quote
+  The Therac-25 is a [[id:bf5900d9-5be8-49ca-bfcc-46587cc787dc][computer]]-controlled radiation therapy machine produced by Atomic Energy of Canada Limited (AECL) in 1982 after the Therac-6 and Therac-20 units (the earlier units had been produced in partnership with Compagnie générale de radiologie (CGR) of France).
+  The Therac-25 was involved in at least six accidents between 1985 and 1987, in which some patients were given massive overdoses of radiation.  Because of concurrent [[id:b24601aa-09df-41e1-aa7e-25ead342db34][programming]] errors (also known as race conditions), it sometimes gave its patients radiation doses that were hundreds of times greater than normal, resulting in death or serious injury.  These accidents highlighted the dangers of software control of safety-critical systems.
+  The Therac-25 has become a standard case study in health informatics, software engineering, and computer ethics, where it's highlighted as an example of engineer overconfidence after they failed to believe end user report and caused drastic repercussions.
+#+end_quote

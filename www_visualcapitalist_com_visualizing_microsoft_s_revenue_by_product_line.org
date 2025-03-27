@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       dee36483-65a9-40a1-a5b7-af8e5b04b5e8
+:ROAM_REFS: https://www.visualcapitalist.com/microsofts-revenue-by-product-line/
+:END:
+#+title: (www.visualcapitalist.com) Visualizing Microsoft's Revenue, by Product Line
+#+filetags: :website:
+
+#+begin_quote
+  * Visualizing Microsoft's Revenue, by Product Line
+
+  Published on February 26, 2024
+
+  By [[https://www.visualcapitalist.com/author/marcus/][Marcus Lu]]
+
+  ** Article/Editing:
+
+  - [[https://www.visualcapitalist.com/author/dorothy-neufeld][Dorothy Neufeld]]
+
+  ** Graphics/Design:
+
+  - [[https://www.visualcapitalist.com/author/sabrinaf][Sabrina Fortin]]
+
+  [[https://www.visualcapitalist.com/wp-content/uploads/2024/02/Microsoft-Revenue-by-Segment-site.jpeg]]
+  [[https://posts.voronoiapp.com/business/Breaking-Down-Microsofts-Record-Revenues-in-FY2023-676]]
+
+  ** Visualizing Microsoft's Revenue, by Product Line
+
+  /This was originally posted on our [[https://posts.voronoiapp.com/business/Breaking-Down-Microsofts-Record-Revenues-in-FY2023-676][Voronoi app]]. Download the app for free on [[https://apps.apple.com/ca/app/voronoi-app/id6447905904][iOS]] or [[https://play.google.com/store/apps/details?id=com.voronoi.organization.app&pli=1][Android]] and discover incredible data-driven charts from a variety of trusted sources./
+
+  Over the last decade, Microsoft's revenue has more than doubled, driven by key product lines like its intelligent cloud infrastructure.
+
+  Adding to this, Microsoft launched its AI-enabled search engine, Copilot last year, which has already generated $12 billion for the company. Beyond this search engine, Microsoft is developing a range of AI-based services, such as Azure Arc, a cloud computing platform with 18,000 customers.
+
+  This graphic breaks down Microsoft's revenue in 2023, based on data from Affinity powered by [[https://www.syntaxdata.com/affinity][Syntax]].
+#+end_quote

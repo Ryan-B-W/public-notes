@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       26a227bb-1fb3-40dc-abd4-79534fb67d2d
+:ROAM_REFS: https://en.wikipedia.org/wiki/Design_Trilogy
+:END:
+#+title: (en.wikipedia.org) Design Trilogy - Wikipedia
+#+filetags: :design:documentary:film:video:website:
+
+#+begin_quote
+  The Design Trilogy is the collective name of a series of three documentary films about design directed by film director Gary Hustwit.
+  The films are:
+   - 2007: Helvetica, on the famous typeface of the same name
+   - 2009: Objectified, on industrial design
+   - 2011: Urbanized, on architecture and urban design
+  Later in 2013 through crowdfunding, Hustwit began editing and compiling transcripts of the interviews with his subjects into a book.  It was subsequently completed and released in 2015.
+#+end_quote

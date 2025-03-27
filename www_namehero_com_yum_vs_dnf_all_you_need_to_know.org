@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       fce372f3-7b81-436c-b4e7-f7692d34eabf
+:ROAM_REFS: https://www.namehero.com/blog/yum-vs-dnf-all-you-need-to-know/
+:END:
+#+title: (www.namehero.com) Yum vs. Dnf: All You Need To Know
+#+filetags: :website:
+
+#+begin_quote
+  * Yum vs. Dnf: All You Need To Know
+
+  **** [[https://www.namehero.com/blog/author/bhagwad/][Bhagwad Park]]
+
+  Published on: January 3, 2024
+
+  Categories: [[https://www.namehero.com/blog/category/linux-command-line/][Linux Command Line]], [[https://www.namehero.com/blog/category/vps-hosting/][VPS Hosting]] [[https://www.namehero.com/blog/yum-vs-dnf-all-you-need-to-know/#comments][0]]
+
+  Those of you who work on Fedora, CentOS, or RHEL are familiar with yum.  Fedora users might have forgotten yum altogether because it was replaced by dnf so long ago.  But other, downstream releases like RHEL and CentOS, took another four years to catch up and continued using yum.  Dnf is yum's replacement and is superior in every way.  But it can be hard to switch to another package manager, so here are all the ways in which dnf is superior to yum, and how you can make the transition.
+#+end_quote

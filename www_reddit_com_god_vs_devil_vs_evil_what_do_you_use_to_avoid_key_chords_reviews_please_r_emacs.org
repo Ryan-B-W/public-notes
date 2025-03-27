@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       867a853b-b5c9-4b6e-9189-1d3804be05ad
+:ROAM_REFS: https://www.reddit.com/r/emacs/comments/1763ohv/god_vs_devil_vs_evil_what_do_you_use_to_avoid_key/
+:END:
+#+title: (www.reddit.com) God vs. Devil vs. Evil: What do you use to avoid key chords? Reviews please! : r/emacs
+#+filetags: :emacs:forums:website:
+
+Links to:
+* [[id:9701848a-b85f-492b-a8d6-b7dcae468f91][(xahlee.info) Emacs: Xah Fly Keys 📦]]

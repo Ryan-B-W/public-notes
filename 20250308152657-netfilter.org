@@ -1,0 +1,71 @@
+:PROPERTIES:
+:ID:       4902673c-f336-4a97-8ea2-99d258c4e42a
+:END:
+#+title: Netfilter
+#+filetags: :linux:networking:
+
+[[id:bf0bc2d7-17df-413c-823b-93904faffc58][Linux]] kernel network framework.
+* (netfilter.org) netfilter/iptables project homepage - The netfilter.org project :website:
+:PROPERTIES:
+:ID:       ad7f43f0-d679-4c8d-8d03-b3811fc813ed
+:ROAM_REFS: https://netfilter.org/
+:END:
+
+#+begin_quote
+  * The netfilter.org project
+
+  ** What is the netfilter.org project?
+
+  The netfilter project is a community-driven collaborative [[https://en.wikipedia.org/wiki/Free_and_open-source_software][FOSS]] project that provides packet filtering software for the [[http://www.kernel.org/][Linux]] 2.4.x and later kernel series.  The netfilter project is commonly associated with [[https://netfilter.org/projects/iptables/index.html][iptables]] and its successor [[https://netfilter.org/projects/nftables/index.html][nftables]].
+
+  The netfilter project enables packet filtering, network address [and port] translation (NA[P]T), packet logging, userspace packet queueing and other packet mangling.
+
+  The netfilter hooks are a framework inside the Linux kernel that allows kernel modules to register callback functions at different locations of the Linux network stack.  The registered callback function is then called back for every packet that traverses the respective hook within the Linux network stack.
+
+  [[https://netfilter.org/projects/iptables/index.html][iptables]] is a generic firewalling software that allows you to define rulesets.  Each rule within an IP table consists of a number of classifiers (iptables matches) and one connected action (iptables target).
+
+  [[https://netfilter.org/projects/nftables/index.html][nftables]] is the successor of [[https://netfilter.org/projects/iptables/index.html][iptables]], it allows for much more flexible, scalable and performance packet classification.  This is where all the fancy new features are developed.
+
+  ** Main Features
+
+  - stateless packet filtering (IPv4 and IPv6)
+  - stateful packet filtering (IPv4 and IPv6)
+  - all kinds of network address and port translation, e.g. NAT/NAPT (IPv4 and IPv6)
+  - flexible and extensible infrastructure
+  - multiple layers of API's for 3rd party extensions
+
+  ** What can I do with netfilter?
+
+  - build internet firewalls based on stateless and stateful packet filtering
+  - deploy highly available stateless and stateful firewall clusters
+  - use NAT and masquerading for sharing internet access if you don't have enough public IP addresses
+  - use NAT to implement transparent proxies
+  - aid the tc and iproute2 systems used to build sophisticated QoS and policy routers
+  - do further packet manipulation (mangling) like altering the TOS/DSCP/ECN bits of the IP header
+
+  ** What value does nftables provide?
+
+  - a single tool with consistent syntax as opposed to the fragmented {ip,ip6,eb,arp}tables and ipset
+  - faster kernel-side transactional ruleset updates, no need for user-space locking
+  - sets are more flexible and powerful than ipset, maps push the concept even further
+  - full ruleset flexibility:
+    - no pre-defined tables and chains
+    - arbitrary number of user-defined tables to separate the ruleset into "namespaces"
+    - base chain's hook and priority are configurable
+  - more flexible rules: No mandatory parts (like counters), multiple actions allowed (e.g. log and drop)
+  - ingress hook attaching a chain to an interface for early filtering right after TC
+  - egress hook attaching a chain to an interface for transmit path filtering right before TC
+  - flowtables provide a software fast path and hardware acceleration
+  - some limited scripting ability embedded in the syntax (define variables, include other files), support for extensive scripting via JSON input and output
+#+end_quote
+* (en.wikipedia.org) Netfilter - Wikipedia                          :website:
+:PROPERTIES:
+:ID:       687df53b-aafa-4eb1-9a51-d03b7a0b8673
+:ROAM_REFS: https://en.wikipedia.org/wiki/Netfilter
+:END:
+
+#+begin_quote
+  *Netfilter* is a [[https://en.wikipedia.org/wiki/Software_framework][framework]] provided by the [[https://en.wikipedia.org/wiki/Linux_kernel][Linux kernel]] that allows various [[https://en.wikipedia.org/wiki/Computer_network][networking]]-related operations to be implemented in the form of customized handlers.  Netfilter offers various functions and operations for [[https://en.wikipedia.org/wiki/Packet_filter][packet filtering]], [[https://en.wikipedia.org/wiki/Network_address_translation][network address translation]], and [[https://en.wikipedia.org/wiki/Port_translation][port translation]], which provide the functionality required for directing packets through a network and [[https://en.wikipedia.org/wiki/Firewall_(computing)][prohibiting]] packets from reaching sensitive locations within a network.
+
+  Netfilter represents a set of [[https://en.wikipedia.org/wiki/Hooking][hooks]] inside the Linux kernel, allowing specific [[https://en.wikipedia.org/wiki/Kernel_module][kernel modules]] to register [[https://en.wikipedia.org/wiki/Callback_(computer_programming)][callback]] functions with the kernel's networking stack.  Those functions, usually applied to the traffic in the form of filtering and modification rules, are called for every packet that traverses the respective hook within the networking stack.
+#+end_quote

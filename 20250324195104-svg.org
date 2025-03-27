@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       3f01f509-25f5-45b2-9b5f-0825e39e983e
+:END:
+#+title: SVG (Scalable Vector Graphics)
+#+filetags: :file_formats:image_editing:graphics:
+
+An [[id:17fb5de5-dedc-46ce-a5ed-dd67f3ce9f27][XML]]-based vector image format.
+* (en.wikipedia.org) SVG - Wikipedia                                :website:
+:PROPERTIES:
+:ID:       562e1256-4511-49bb-956b-d2ce99f57b95
+:ROAM_REFS: https://en.wikipedia.org/wiki/SVG
+:END:
+
+#+begin_quote
+  *Scalable Vector Graphics* (*SVG*) is an [[https://en.wikipedia.org/wiki/XML][XML]]-based [[https://en.wikipedia.org/wiki/Vector_graphics][vector image format]] for defining [[https://en.wikipedia.org/wiki/Plane_(mathematics)][two-dimensional]] graphics, having support for interactivity and animation.  The SVG specification is an [[https://en.wikipedia.org/wiki/Open_standard][open standard]] developed by the [[https://en.wikipedia.org/wiki/World_Wide_Web_Consortium][World Wide Web Consortium]] since 1999.
+
+  SVG images are defined in a vector graphics format and stored in XML text files.  SVG images can thus be [[https://en.wikipedia.org/wiki/Scale_(ratio)][scaled]] in size without loss of quality, and SVG files can be [[https://en.wikipedia.org/wiki/Search_algorithm][searched]], [[https://en.wikipedia.org/wiki/Subject_indexing][indexed]], [[https://en.wikipedia.org/wiki/Scripting_language][scripted]], and [[https://en.wikipedia.org/wiki/Data_compression][compressed]].  The XML text files can be created and edited with [[https://en.wikipedia.org/wiki/Text_editor][text editors]] or [[https://en.wikipedia.org/wiki/Vector_graphics_editor][vector graphics editors]], and are rendered by most [[https://en.wikipedia.org/wiki/Web_browser][web browsers]].  If used for images, SVG can host scripts or CSS, potentially leading to cross-site scripting attacks or other security vulnerabilities.
+#+end_quote

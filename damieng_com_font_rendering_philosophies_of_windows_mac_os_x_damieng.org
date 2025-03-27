@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       d7ed43c6-5077-4e93-9b17-f70e070ff36d
+:ROAM_REFS: https://damieng.com/blog/2007/06/13/font-rendering-philosophies-of-windows-and-mac-os-x/
+:END:
+#+title: (damieng.com) Font rendering philosophies of Windows & Mac OS X » DamienG
+#+filetags: :fonts:blog_post:website:

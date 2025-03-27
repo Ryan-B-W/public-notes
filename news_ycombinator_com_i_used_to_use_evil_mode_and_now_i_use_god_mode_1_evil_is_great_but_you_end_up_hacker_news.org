@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       02d41d6f-a69b-4851-8f5f-d75d8238a450
+:ROAM_REFS: https://news.ycombinator.com/item?id=25001632
+:END:
+#+title: (news.ycombinator.com) I used to use Evil mode and now I use God-mode[1]. Evil is great, but you end up... | Hacker News
+#+filetags: :emacs:forums:website:
+
+#+begin_quote
+  I used to use Evil mode and now I use God-mode[1].
+  Evil is great, but you end up having to know Vim keybindings and some Emacs keybindings since Evil doesn't cover everything.
+  It certainly can with additional Evil extensions and modifying your .emacs, but I still felt like there were some parts of Emacs where I needed to know Emacs key bindings.
+  God-mode works since it just makes it so that you can use Emacs keybindings without modifier keys.  Everything works out of the box.  Best part is that you can install extensions without needing to come up with Evil keybindings for them.
+  [1] https://github.com/emacsorphanage/god-mode
+#+end_quote

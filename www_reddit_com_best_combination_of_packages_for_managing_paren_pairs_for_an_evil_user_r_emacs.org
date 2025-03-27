@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       16105faf-e869-480f-8ddf-051bdf8e580b
+:ROAM_REFS: https://www.reddit.com/r/emacs/comments/a6uepj/best_combination_of_packages_for_managing_paren/
+:END:
+#+title: (www.reddit.com) Best combination of packages for managing paren pairs for an Evil user? : r/emacs
+#+filetags: :emacs:forums:website:

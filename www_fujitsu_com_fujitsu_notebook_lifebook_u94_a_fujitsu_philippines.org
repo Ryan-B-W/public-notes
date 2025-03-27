@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       7b70797f-c21b-450d-aa45-a0ac5f29f6ea
+:ROAM_REFS: https://www.fujitsu.com/ph/products/computing/pc/ap/notebooks/lifebook-u94a/index.html
+:END:
+#+title: (www.fujitsu.com) Fujitsu Notebook LIFEBOOK U94/A : Fujitsu Philippines
+#+filetags: :electronics:hardware:store:website:

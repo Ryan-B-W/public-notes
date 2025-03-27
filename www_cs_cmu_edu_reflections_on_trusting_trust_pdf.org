@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       60005e00-0c1f-4b71-be75-36b216d6b0a1
+:ROAM_REFS: https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf
+:END:
+#+title: (www.cs.cmu.edu) Reflections on Trusting Trust [PDF]
+#+filetags: :mime_type_application_pdf:security:c_lang:software:programming:computer_science:website:
+
+Ken Thompson's seminal 1984 paper on trust in computer software toolchains and supply chains.
+
+#+begin_quote
+  To what extent should one trust a statement that a program is free of Trojan horses?  Perhaps it is more important to trust the people who wrote the software.
+#+end_quote
+* See Also
+ - [[id:eb15a671-b6de-48c6-9342-b0960e73eaf5][Bootstrappable Builds]]
+ - [[id:f2a247ba-afc1-462c-9373-34b677a9da64][research!rsc: Running the “Reflections on Trusting Trust” Compiler]]
+ - [cite:@Thompson_1984]

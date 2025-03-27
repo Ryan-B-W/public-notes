@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       4650591a-030e-4ea9-bbc7-b30afccf97c5
+:ROAM_REFS: https://infosecmap.com/
+:END:
+#+title: (infosecmap.com) InfoSecMap – Mapping out the best InfoSec events & groups!
+#+filetags: :security:directory:website:

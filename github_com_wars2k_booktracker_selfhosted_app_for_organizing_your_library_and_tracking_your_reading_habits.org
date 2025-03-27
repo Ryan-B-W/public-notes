@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       55161338-cdf7-4289-b2b8-38f5ae1954fb
+:ROAM_REFS: https://github.com/wars2k/booktracker
+:END:
+#+title: (github.com) wars2k/booktracker: Selfhosted app for organizing your library and tracking your reading habits.
+#+filetags: :software:organization:www:website:
+
+#+begin_quote
+  Booktracker is an open source application for managing and tracking a personal book library.
+  Using metadata grabbed from Google Books, easily add books and organize them into collections.  Set each book’s status, give it a rating, and track how long it took to read.
+#+end_quote

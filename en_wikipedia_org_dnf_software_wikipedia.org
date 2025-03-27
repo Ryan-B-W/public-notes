@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       68f940b5-37ff-403d-9ec1-892af330c870
+:ROAM_REFS: https://en.wikipedia.org/wiki/DNF_(software)
+:END:
+#+title: (en.wikipedia.org) DNF (software) - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  *DNF* ([[https://en.wikipedia.org/wiki/Abbreviation][abbreviation]] for *Dandified YUM*) is a [[https://en.wikipedia.org/wiki/Package_manager][package manager]] for [[https://en.wikipedia.org/wiki/Red_Hat][Red Hat]]-based [[https://en.wikipedia.org/wiki/Linux][Linux]] [[https://en.wikipedia.org/wiki/Linux_distribution][distributions]] and derivatives.  DNF was introduced in [[https://en.wikipedia.org/wiki/Fedora_version_history#Fedora_18][Fedora 18]] in 2013 as a replacement for [[https://en.wikipedia.org/wiki/Yum_(software)][yum]]; it has been the default package manager since [[https://en.wikipedia.org/wiki/Fedora_version_history#Fedora_22][Fedora 22]] in 2015 and [[https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux][Red Hat Enterprise Linux]] 8 and is also an alternative package manager for [[https://en.wikipedia.org/wiki/Mageia][Mageia]].  DNF performs package management tasks on top of [[https://en.wikipedia.org/wiki/RPM_Package_Manager][RPM]], and supporting libraries.
+#+end_quote

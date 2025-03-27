@@ -1,0 +1,95 @@
+:PROPERTIES:
+:ID:       776affc8-2d5a-4df1-9d06-c51ac2399981
+:ROAM_REFS: https://vekatze.github.io/neut/overview.html
+:END:
+#+title: (vekatze.github.io) Overview - Neut Programming Language
+#+filetags: :programming:programming_language:website:
+
+#+begin_quote
+  * [[https://vekatze.github.io/neut/overview.html#neut-programming-language][Neut Programming Language]]
+
+  Neut is a functional programming language with static memory management.
+
+  Its key features include:
+
+  - Full λ-calculus support
+  - Predictable automatic memory management
+  - /The absence of annotations to the type system/ when achieving both of the above
+
+  Neut doesn't use GCs or regions. Instead, it takes a /type-directed approach/ to handle resources.
+
+  ** [[https://vekatze.github.io/neut/overview.html#what-does-it-look-like][What Does it Look Like?]]
+
+  Like the following:
+
+  #+begin_src neut
+  // the obligated hello world
+  define hello(): unit {
+    print("Hello, world!
+  ")
+  }
+
+  // algebraic data types
+  data my-list(a) {
+  | Nil
+  | Cons(a, my-list(a))
+  }
+
+  // a recursive function with pattern matching
+  define noisy-length<a>(xs: my-list(a)): int {
+    match xs {
+    | Nil =>
+      0
+    | Cons(_, ys) =>
+      let my-message = "hey
+  " in
+      print(my-message);
+      add-int(1, noisy-length(ys))
+    }
+  }
+  #+end_src
+
+  ** [[https://vekatze.github.io/neut/overview.html#static-memory-management--but-how][Static Memory Management --- But How?]]
+
+  /Neut translates a type into a function/ that can discard/copy the values of the type. By using those functions, the compiler translates programs so that every variable is used exactly once.
+
+  For example, if a variable is used twice, a translation like the following will happen:
+
+  #+begin_src neut
+  // (before)
+  let xs: list(a) = [value-1, value-2] in
+  some-func(xs, xs) // `xs` is used twice
+
+  // ↓
+
+  // (after)
+  let xs: list(a) = [value-1, value-2] in
+  let (xs1, xs2) = copy-list-a(xs) in  // `xs` is used once
+  some-func(xs1, xs2)
+  #+end_src
+
+  If you need more, see [[https://vekatze.github.io/neut/how-to-execute-types.html][How to Execute Types]].
+
+  You may wonder: /"So we need to, for example, copy the whole list just to get its length? Isn't it the end of the world?"/. This topic is covered in [[https://vekatze.github.io/neut/static-memory-management.html][Static Memory Management]]. As written there, Neut avoids such copyings by using the /T-necessity operator/ in modal logic to achieve something like borrowing in Rust.
+
+  ** [[https://vekatze.github.io/neut/overview.html#how-fast-is-this][How Fast is This?]]
+
+  [[https://vekatze.github.io/neut/benchmarks.html][Please see the benchmarks]].
+
+  ** [[https://vekatze.github.io/neut/overview.html#list-of-other-basic-characteristics][List of Other Basic Characteristics?]]
+
+  - Call by value
+  - Impure
+  - Compiles to [[https://llvm.org/docs/LangRef.html][LLVM IR]] and binary
+  - The type system ≒ [[https://en.wikipedia.org/wiki/Calculus_of_constructions][CoC]] + [[https://en.wikipedia.org/wiki/Algebraic_data_type][ADT]] + (T-necessity) + (fix) - (universe hierarchy)
+    - That is, the usual one in functional programming, but a bit generalized
+  - Built-in [[https://vekatze.github.io/neut/lovely-lsp-showcase.html][LSP support]]
+  - Built-in [[https://vekatze.github.io/neut/rapid-prototyping.html][rapid prototyping experience]] like scripting languages
+  - Built-in formatter like Go
+
+  ** [[https://vekatze.github.io/neut/overview.html#anything-else][Anything Else?]]
+
+  You might also find Neut's module system interesting. /It distinguishes modules using the digests (checksums) of tarballs/ and defines module identities using version information. Although this is not the main point of the language, it still might be of interest. This topic is covered in the [[https://vekatze.github.io/neut/hello-external-world.html][tutorial]].
+
+  Also, Neut includes an LSP server, which provides things like code completion, error reporting on save, etc. See [[https://vekatze.github.io/neut/lovely-lsp-showcase.html][Lovely LSP Showcase]] to see it in action.
+#+end_quote

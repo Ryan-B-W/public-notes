@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       eb15a671-b6de-48c6-9342-b0960e73eaf5
+:ROAM_REFS: https://bootstrappable.org/
+:END:
+#+title: (bootstrappable.org) Bootstrappable Builds
+#+filetags: :security:c_lang:programming:computer_science:website:
+
+Project to bootstrap compiler toolchains from human-auditable sources.
+
+#+begin_quote
+  Do you know how to make yoghurt? The first step is to add yoghurt to milk! How can you build a compiler like [[id:c40f8163-bc08-4dcc-b9b6-b53ee8f6ef02][GCC]]? The first step is to get a compiler that can compile the compiler.
+  Compilers are often written in the language they are compiling.  This creates a chicken-and-egg problem that leads users and distributors to rely on opaque, pre-built binaries of those compilers that they use to build newer versions of the compiler.
+  To gain trust in our computing platforms, we need to be able to tell how each part was produced from source.  We believe that opaque binaries are a threat to user security and user freedom since they are not auditable; our goal is to minimize the amount of bootstrap binaries.
+#+end_quote
+* See Also
+ - [[id:60005e00-0c1f-4b71-be75-36b216d6b0a1][Reflections on Trusting Trust]]
+ - [[id:3dbff371-51e0-496f-a41d-5ce5576d9699][Reproducible Builds — a set of software development practices that create an independently-verifiable path from source to binary code]]

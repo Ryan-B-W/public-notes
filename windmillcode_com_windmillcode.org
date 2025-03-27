@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       fe9f87a2-df83-46b0-b367-83eb3c0b954b
+:ROAM_REFS: https://windmillcode.com/
+:END:
+#+title: (windmillcode.com) WindMillCode
+#+filetags: :website:
+
+#+begin_quote
+  Transform your idea into reality
+  Here at WindmillCode, our day to day operations is with a focus on the customer in mind.  We leverage many tools to create applications for several industries, including blockchain, career coaching and AI.  What sets us apart is our ability to quickly assess your business needs and apply our previous infrastructure and development experience to deliver solutions that gets your project off to a viable first start.  So if you are looking for an organization that is eager to take on new challenges, apply their expertise, and deliver results that exceed expectations, then look no further.  Contact us today!
+#+end_quote
+* (windmillcode.github.io) WML Three | Windmillcode CDK             :website:
+:PROPERTIES:
+:ID:       df645424-bc88-4926-a8f0-3f4c89281cca
+:ROAM_REFS: https://windmillcode.github.io/Windmillcode-Angular-CDK-Docs/intro/wml-three/
+:END:
+
+#+begin_quote
+  The WML Three.js library provides a streamlined way to integrate Three.js into your applications.  THIS LIBRARY DOES NOT DEPEND ON ANGULAR SO YOU CAN USE IN ANY PROJECT, Astro,React,Svelte,Vue,Next.js … It offers a set of classes and utilities that simplify the creation and management of 3D scenes, renderers, cameras, controls, lights, objects, and animations.  This library is designed to help developers quickly set up interactive 3D graphics without dealing with the boilerplate code typically associated with Three.js.
+#+end_quote

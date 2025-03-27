@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       0449cd53-43f2-4c48-a856-ff5cfcdd017b
+:ROAM_REFS: https://en.wikipedia.org/wiki/The_Art_of_the_Metaobject_Protocol
+:END:
+#+title: (en.wikipedia.org) The Art of the Metaobject Protocol - Wikipedia
+#+filetags: :programming:computer_science:books:website:
+
+#+begin_quote
+  The Art of the Metaobject Protocol (AMOP) is a 1991 book by Gregor Kiczales, Jim des Rivieres, and Daniel G. Bobrow (all three working for Xerox PARC) on the subject of metaobject protocol.
+#+end_quote

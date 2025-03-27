@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5b5f6c48-20bc-42b7-b385-78329906de73
+:ROAM_REFS: https://www.nand2tetris.org/
+:END:
+#+title: (www.nand2tetris.org) Home | nand2tetris
+#+filetags: :programming:computer_science:electronics:textbooks:books:website:
+
+#+begin_quote
+  ** [[https://www.nand2tetris.org/][The official website of Nand to Tetris courses]]
+
+  And of the book [[https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/ref=ed_oe_p][The Elements of Computing Systems, ]]By [[http://www.cs.huji.ac.il/~noam/][Noam Nisan]] and [[http://www.shimonschocken.com/][Shimon Schocken]] (MIT Press)
+
+  This website contains all the lectures, project materials and tools necessary for building a general-purpose computer system and a modern software hierarchy from the ground up.
+
+  The materials are aimed at students, instructors, and self-learners.  Everything is free and open-source, as long as you operate in a non-profit setting.  Here is a recent CACM article about the course: [[https://dl.acm.org/doi/10.1145/3626513][text]] / [[https://www.youtube.com/watch?v=qAF4kkUFU9I][video]].
+
+  The materials also support two on-line courses: [[https://www.coursera.org/learn/build-a-computer][Nand2Tetris Part]][[https://www.coursera.org/learn/build-a-computer][ ]][[https://www.coursera.org/learn/build-a-computer][I]]: Hardware (chapters/projects 1-6), and [[https://www.coursera.org/learn/nand2tetris2][Nand2Tetris Part II]]: Software (chapters/projects 7-12).
+
+  Nand to Tetris courses are taught at 400+ universities, high schools, and bootcamps.  The students who take them range from high schoolers to Ph.D. students to senior engineers.  Here is an [[https://drive.google.com/file/d/1EWCOVIcg0-dX0XtL3KwNyra6jzMogXLL/view?usp=sharing][extended syllabus]] of a typical academic-version course.
+
+  Instructors: For additional course materials, contact [[mailto://nand2tetris@gmail.com][nand2tetris@gmail.com]]
+#+end_quote

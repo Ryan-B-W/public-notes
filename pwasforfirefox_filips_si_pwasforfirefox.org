@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       17d10ef3-07c8-480e-b4f3-7237e97f83de
+:ROAM_REFS: https://pwasforfirefox.filips.si/
+:END:
+#+title: (pwasforfirefox.filips.si) PWAsForFirefox
+#+filetags: :open_source:www:software:website:
+
+#+begin_quote
+  Progressive Web Apps (PWAs) are web apps that use web APIs and features along with progressive enhancement strategy to bring a native app-like user experience to cross-platform web applications.  Although [[id:11f55adb-3785-4f14-9de5-719fde4906b8][Firefox]] supports many of Progressive Web App APIs, it does not support functionality to install them as a standalone system app with an app-like experience.  This functionality is often also known as a Site Specific Browser (SSB).
+  This project creates a custom modified Firefox runtime to allow websites to be installed as standalone apps and provides a console tool and browser extension to install, manage and use them.
+#+end_quote
+* See Also
+** [[id:7ea4a003-353f-42af-9c34-b13be9839ad0][filips123/PWAsForFirefox]]

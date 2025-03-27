@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       595b8175-f36d-4e2d-81ab-828777cf0e9d
+:ROAM_REFS: https://ryan-b-w.github.io/personal-notes-public/
+:END:
+#+title: (ryan-b-w.github.io) Personal Notes readme.org file
+#+filetags: :website:
+
+#+begin_quote
+  Personal Notes readme.org file
+#+end_quote

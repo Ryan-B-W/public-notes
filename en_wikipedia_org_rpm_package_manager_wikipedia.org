@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       b575f773-76ec-425d-866a-5851623857bf
+:ROAM_REFS: https://en.wikipedia.org/wiki/RPM_Package_Manager
+:END:
+#+title: (en.wikipedia.org) RPM Package Manager - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  *RPM Package Manager* (*RPM*) (originally *Red Hat Package Manager*, now a [[https://en.wikipedia.org/wiki/Recursive_acronym][recursive acronym]]) is a [[https://en.wikipedia.org/wiki/Free_and_open-source][free and open-source]] [[https://en.wikipedia.org/wiki/Package_management_system][package management system]].  The name RPM refers to the =.rpm= [[https://en.wikipedia.org/wiki/File_format][file format]] and the package manager program itself.  RPM was intended primarily for [[https://en.wikipedia.org/wiki/Linux_distribution][Linux distributions]]; the file format is the baseline package format of the [[https://en.wikipedia.org/wiki/Linux_Standard_Base][Linux Standard Base]].
+
+  Although it was created for use in [[https://en.wikipedia.org/wiki/Red_Hat_Linux][Red Hat Linux]], RPM is now used in many [[https://en.wikipedia.org/wiki/Linux_distributions][Linux distributions]] such as [[https://en.wikipedia.org/wiki/PCLinuxOS][PCLinuxOS]], [[https://en.wikipedia.org/wiki/Fedora_Linux][Fedora Linux]], [[https://en.wikipedia.org/wiki/AlmaLinux][AlmaLinux]], [[https://en.wikipedia.org/wiki/CentOS][CentOS]], [[https://en.wikipedia.org/wiki/OpenSUSE][openSUSE]], [[https://en.wikipedia.org/wiki/OpenMandriva][OpenMandriva]] and [[https://en.wikipedia.org/wiki/Oracle_Linux][Oracle Linux]].  It has also been ported to some other [[https://en.wikipedia.org/wiki/Operating_systems][operating systems]], such as [[https://en.wikipedia.org/wiki/NetWare][Novell NetWare]] (as of version 6.5 SP3), [[https://en.wikipedia.org/wiki/IBM_AIX][IBM's AIX]] (as of version 4), [[https://en.wikipedia.org/wiki/IBM_i][IBM i]], and [[https://en.wikipedia.org/wiki/ArcaOS][ArcaOS]].
+
+  An RPM package can contain an arbitrary set of files.  Most RPM files are "binary RPMs" (or BRPMs) containing the compiled version of some software.  There are also "source RPMs" (or SRPMs) containing the [[https://en.wikipedia.org/wiki/Source_code][source code]] used to build a binary package.  These have an appropriate tag in the file header that distinguishes them from normal (B)RPMs, causing them to be extracted to /usr/src on installation.  SRPMs customarily carry the file extension ".src.rpm" (.spm on file systems limited to 3 extension characters, e.g. old DOS [[https://en.wikipedia.org/wiki/File_Allocation_Table][FAT]]).
+#+end_quote

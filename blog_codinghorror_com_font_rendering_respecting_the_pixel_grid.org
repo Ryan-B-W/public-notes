@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       4204ddcd-6fe4-4873-9cdc-68809fe20359
+:ROAM_REFS: https://blog.codinghorror.com/font-rendering-respecting-the-pixel-grid/
+:END:
+#+title: (blog.codinghorror.com) Font Rendering: Respecting The Pixel Grid
+#+filetags: :fonts:blog_post:website:

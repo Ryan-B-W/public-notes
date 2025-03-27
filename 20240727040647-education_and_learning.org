@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       b49cb73a-945b-452c-9d1e-450252185605
+:END:
+#+title: Education and Learning
+#+filetags: :education:
+
+What it says on the tin.
+* See Also
+ - [[id:fc7c1182-a55b-4457-a69c-eb0a587150cb][College Progress]]
+ - [[id:fd886692-0c9b-4878-9484-5f8feb6871a2][Learning by Teaching]]
+ - [[id:6992d257-971d-40c7-a617-ec82e2541206][Note Taking Systems]]
+ - [[id:0b355b67-af80-4908-8f9d-04fc0052ed23][Zettelkasten]]

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       c5957e29-d3a0-4075-bc83-9e4fdf20bd10
+:ROAM_REFS: https://www.reddit.com/r/emacs/comments/weytub/are_you_using_modal_keybindings_like_evil_xah_fly/
+:END:
+#+title: (www.reddit.com) Are you using modal keybindings like Evil, Xah Fly Keys, etc.? : r/emacs
+#+filetags: :emacs:forums:website:

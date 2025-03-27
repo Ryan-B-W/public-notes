@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       a366c46b-0335-4cfb-bc29-6ee7294b96ff
+:ROAM_REFS: https://github.com/electronicarts/CnC_Renegade
+:END:
+#+title: (github.com) electronicarts/CnC_Renegade: Command and Conquer: Renegade
+#+filetags: :open_source:games:software:website:
+
+#+begin_quote
+  * Command & Conquer Renegade
+
+  This repository includes source code for Command & Conquer Renegade.  This release provides support to the [[https://steamcommunity.com/workshop/browse/?appid=2229890][Steam Workshop]] for the game.
+#+end_quote

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       2f1ea8a7-6ccb-4e9b-94c5-cb605729a317
+:END:
+#+title: Electrolyte Supplement Research
+#+filetags: :directory:lists:
+
+Old research into good electrolyte supplement options.  Originally did around [2024-05-30 Thu] or earlier.
+* [[id:b5a813f4-ca3c-4732-8f09-b16b7c1a2b2b][The 10 Best Electrolyte Powders and Mixes of 2024 - Sports Illustrated]]
+* [[id:57c9bf18-ea04-4749-a6ae-fb974a490689][The Best Electrolyte Drinks of 2023 - Sports Illustrated]]
+* [[id:f63eb033-cb44-49f6-9556-4631a03b3d52][Electrolytes: Types, Purpose & Normal Levels]]
+* [[id:09bc6c36-52e0-46ea-987d-7c6ee5991ffa][Electrolytes: Uses, imbalance, and supplementation]]
+* [[id:369824c6-091b-4518-ae5a-6ef2be11e01a][Water and Electrolytes - Recommended Dietary Allowances - NCBI Bookshelf]]

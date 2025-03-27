@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       d89e3566-db54-49ba-b756-9448a620eb04
+:ROAM_REFS: https://en.wikipedia.org/wiki/D-STAR
+:END:
+#+title: (en.wikipedia.org) D-STAR - Wikipedia
+#+filetags: :digital_radio:amateur_radio:radio:website:
+
+#+begin_quote
+  D-STAR (Digital Smart Technologies for Amateur Radio) is a digital voice and data protocol specification for amateur radio.  The system was developed in the late 1990s by the Japan Amateur Radio League and uses minimum-shift keying in its packet-based standard.  There are other digital modes that have been adapted for use by amateurs, but D-STAR was the first that was designed specifically for amateur radio.
+  Several advantages of using digital voice modes are that it uses less bandwidth than older analog voice modes such as amplitude modulation and frequency modulation.  The quality of the data received is also better than an analog signal at the same signal strength, as long as the signal is above a minimum threshold and as long as there is no multipath propagation.
+  D-STAR compatible radios are available for HF, VHF, UHF, and microwave amateur radio bands.  In addition to the over-the-air protocol, D-STAR also provides specifications for network connectivity, enabling D-STAR radios to be connected to the Internet or other networks, allowing streams of voice or packet data to be routed via amateur radio.
+  D-STAR compatible radios are manufactured by Icom, Kenwood, and FlexRadio Systems.
+#+end_quote

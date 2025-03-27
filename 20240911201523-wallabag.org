@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       f8a6f7c6-c230-4dc4-a27e-3fdf14c658c6
+:END:
+#+title: Wallabag
+#+filetags: :www:information_management:organization:open_source:software:
+
+[[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][Open-source]], self-hosted reading list software.
+* (wallabag.org) Save the web, freely | wallabag: a self hostable application for saving web pages :website:
+:PROPERTIES:
+:ID:       de36c768-b8f6-4705-9a53-303cbd73d077
+:ROAM_REFS: https://wallabag.org/
+:END:
+* (www.wallabag.it) wallabag.it - Read your articles later          :website:
+:PROPERTIES:
+:ID:       b9f2430d-5b3d-4592-9a67-b886413d69e4
+:ROAM_REFS: https://www.wallabag.it/
+:END:
+* (github.com) wallabag/wallabag: wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely. :website:
+:PROPERTIES:
+:ID:       21fcf9d7-3fd3-475f-8beb-4edf717af29f
+:ROAM_REFS: https://github.com/wallabag/wallabag
+:END:
+
+#+begin_quote
+  wallabag is a web application allowing you to save web pages for later reading.  Click, save and read it when you want.  It extracts content so that you won't be distracted by pop-ups and cie.
+  You can install it on your own server, or you can create an account on wallabag.it.
+#+end_quote
+* (doc.wallabag.org) Home · GitBook                                 :website:
+:PROPERTIES:
+:ID:       6138ed27-9e62-4bee-89fa-6277d1c48c12
+:ROAM_REFS: https://doc.wallabag.org/en/
+:END:
+
+#+begin_quote
+  wallabag is a read-it-later application: it saves a web page by keeping content only. Elements like navigation or ads are deleted.
+  The main documentation for this application is organized into multiple sections:
+   - user-related docs
+   - apps-related docs
+   - administator-related docs
+   - developer-related docs
+#+end_quote
+* (app.gitter.im) Gitter | wallabag/wallabag                        :website:
+:PROPERTIES:
+:ID:       35399b93-f157-4bef-b23f-412dd07f63b7
+:ROAM_REFS: https://app.gitter.im/#/room/#wallabag_wallabag:gitter.im
+:END:

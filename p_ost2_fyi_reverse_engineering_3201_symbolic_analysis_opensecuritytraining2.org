@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       e439a66c-7a3f-4e70-9032-9f1191c713d4
+:ROAM_REFS: https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+RE3201_symexec+2021_V1/
+:END:
+#+title: (p.ost2.fyi) Reverse Engineering 3201: Symbolic Analysis | OpenSecurityTraining2
+#+filetags: :courses:security:programming:computer_science:mathematics:website:
+
+An online course on [[id:6dc0e86e-3016-4a1e-987a-569f934e9ca1][SMT]] solvers for symbolic analysis of programs.
+
+From the course description:
+#+begin_quote
+  Symbolic execution is a way to analyze a program and determine which inputs (or input groups) cause which specific part of a program to execute. To do so, symbolic execution uses symbolic values instead of regular input values. This allows to construct a result that can be expressed as an equation (or a system of equations) of these symbolic values, and can be solved mathematically. This is where the [[https://en.wikipedia.org/wiki/Satisfiability_modulo_theories][SMT]] (satisfiability modulo theories) enters in play, and using all the different constraints, is able to say if there is a solution to our equation, and if so, which one.
+#+end_quote

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       52514017-306b-4998-8252-0fc6a5584d2a
+:ROAM_REFS: https://github.com/oantolin/orderless
+:END:
+#+title: (github.com) oantolin/orderless: Emacs completion style that matches multiple regexps in any order
+#+filetags: :programming:software:emacs_lisp:lisp:emacs:website:
+
+#+begin_quote
+  This package provides an orderless completion style that divides the pattern into space-separated components, and matches candidates that match all of the components in any order.  Each component can match in any one of several ways: literally, as a regexp, as an initialism, in the flex style, or as multiple word prefixes.  By default, regexp and literal matches are enabled.
+#+end_quote

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       befdddf0-de64-4552-9508-cdb224552838
+:ROAM_REFS: https://en.wikipedia.org/wiki/Sony_Vaio_P_series
+:END:
+#+title: (en.wikipedia.org) Sony Vaio P series - Wikipedia
+#+filetags: :electronics:website:
+
+#+begin_quote
+  The *[[https://en.wikipedia.org/wiki/Sony][Sony]] Vaio P series* is a range of ultraportable [[https://en.wikipedia.org/wiki/Subnotebook][subnotebook]] computers launched in January 2009.
+
+  It was marketed as a "lifestyle PC", although they share many characteristics with [[https://en.wikipedia.org/wiki/Netbook][netbook]] computers.
+#+end_quote

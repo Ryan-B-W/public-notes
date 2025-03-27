@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       efbee194-049a-409a-91c6-a4d4ed76896f
+:END:
+#+title: Apple iOS
+#+filetags: :mobile_telephony:apple_ios:apple_inc:software:phones:operating_systems:
+
+Proprietary [[id:412bbcad-6c00-4f13-b748-d1ffde0588e1][Operating System]] developed by Apple for their iPhone line of smartphones.
+* (en.wikipedia.org) iOS - Wikipedia                                :website:
+:PROPERTIES:
+:ID:       3d706f20-0c2e-4b21-bd1b-23db20133245
+:ROAM_REFS: https://en.wikipedia.org/wiki/IOS
+:END:
+
+#+begin_quote
+  *iOS* (formerly *iPhone OS*) is a [[https://en.wikipedia.org/wiki/Mobile_operating_system][mobile operating system]] developed by [[https://en.wikipedia.org/wiki/Apple_Inc.][Apple]] exclusively for [[https://en.wikipedia.org/wiki/List_of_iOS_devices][its mobile devices]].  It was unveiled in January 2007 for the [[https://en.wikipedia.org/wiki/IPhone_(1st_generation)][first-generation iPhone]], which launched in June 2007. [[https://en.wikipedia.org/wiki/IOS_version_history][Major versions of iOS]] are released annually; the current stable version, [[https://en.wikipedia.org/wiki/IOS_18][iOS 18]], was released to the public on September 16, 2024.
+
+  Besides powering iPhone, iOS is the basis for three other [[https://en.wikipedia.org/wiki/List_of_Apple_operating_systems][operating systems made by Apple]]: [[https://en.wikipedia.org/wiki/IPadOS][iPadOS]], [[https://en.wikipedia.org/wiki/TvOS][tvOS]], and [[https://en.wikipedia.org/wiki/WatchOS][watchOS]].  iOS formerly also powered [[https://en.wikipedia.org/wiki/IPad][iPads]] until iPadOS was introduced in 2019 and the [[https://en.wikipedia.org/wiki/IPod_Touch][iPod Touch]] line of devices until its discontinuation.  iOS is the world's [[https://en.wikipedia.org/wiki/Usage_share_of_operating_systems][second most widely installed mobile operating system]], after [[https://en.wikipedia.org/wiki/Android_(operating_system)][Android]].  As of December 2023, Apple's [[https://en.wikipedia.org/wiki/App_Store_(iOS)][App Store]] contains more than 3.8 million iOS [[https://en.wikipedia.org/wiki/Mobile_apps][mobile apps]].
+
+  iOS is based on [[https://en.wikipedia.org/wiki/MacOS][macOS]].  Like macOS, it includes components of the [[https://en.wikipedia.org/wiki/Mach_(kernel)][Mach]] microkernel and [[https://en.wikipedia.org/wiki/FreeBSD][FreeBSD]].  It is a [[https://en.wikipedia.org/wiki/Unix-like][Unix-like]] operating system.  Although some parts of iOS are open source under the [[https://en.wikipedia.org/wiki/Apple_Public_Source_License][Apple Public Source License]] and other licenses, iOS is [[https://en.wikipedia.org/wiki/Proprietary_software][proprietary software]].
+#+end_quote

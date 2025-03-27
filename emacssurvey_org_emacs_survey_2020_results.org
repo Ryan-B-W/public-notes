@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       4561b72e-0bed-421f-aadc-5130131d0c78
+:ROAM_REFS: https://emacssurvey.org/2020/
+:END:
+#+title: (emacssurvey.org) Emacs Survey 2020 Results
+#+filetags: :statistics_results:emacs:website:

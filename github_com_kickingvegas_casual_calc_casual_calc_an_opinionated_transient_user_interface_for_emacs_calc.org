@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       cf8f99a3-e8d4-43d7-ad5c-6b00fdabdd4c
+:ROAM_REFS: https://github.com/kickingvegas/casual-calc
+:END:
+#+title: (github.com) kickingvegas/casual-calc: Casual Calc - An opinionated Transient user interface for Emacs Calc.
+#+filetags: :lisp:emacs:software:website:
+
+#+begin_quote
+  An opinionated Transient-based user interface to support the casual usage of Emacs Calc.
+#+end_quote

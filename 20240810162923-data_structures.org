@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       06a2cb83-466e-4e40-ac36-6dd7110d9535
+:END:
+#+title: Data-Structures
+#+filetags: :programming:data_structures:computer_science:
+
+Data and algorithms that form data-structures that exhibit some well specified behavior and performance characteristics.
+* [[id:256031bb-d7f9-4317-981c-a77eab00f738][Conflict-free Replicated Data-Type (CRDT)]]

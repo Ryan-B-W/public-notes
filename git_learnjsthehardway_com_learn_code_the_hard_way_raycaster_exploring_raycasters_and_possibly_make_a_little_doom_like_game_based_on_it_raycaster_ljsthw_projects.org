@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       6bdfa99b-e8a0-4d16-9f81-bf23bbe8b91a
+:ROAM_REFS: https://git.learnjsthehardway.com/learn-code-the-hard-way/raycaster
+:END:
+#+title: (git.learnjsthehardway.com) learn-code-the-hard-way/raycaster: Exploring raycasters and possibly make a little "doom like" game based on it. - raycaster - LJSTHW Projects
+#+filetags: :graphics:games:software:website:
+
+#+begin_quote
+  * The Artisanal Handcrafted Retro-Future "3D" Dungeon Crawler
+
+  Welcome to my latest obsession, and turn based dungeon crawler in the style of old school raycasted games like /Wizardry/, /Might and Magic/, /Ultima/, and similar games.  The game uses SFML 3.x as it's "cross platform layer" but other than that everything is hand coded by me.  It's fully artisinal, created manually, with nothing but a terminal and vim.  No LSPs, AI, or anything.
+
+  This code is truly a work of art.  Like an espresso at that Speakeasy Coffee bar in Brooklyn nobody talks about.  You know the one?  You don't?  Oh sorry, I thought you were cool.
+#+end_quote

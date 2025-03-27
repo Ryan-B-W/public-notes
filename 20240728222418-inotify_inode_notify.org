@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       8da025f1-9f0f-435f-9802-ee646579aa0c
+:END:
+#+title: inotify (Inode Notify)
+#+filetags: :unix:computer_science:filesystems:operating_systems:linux:
+
+[[id:bf0bc2d7-17df-413c-823b-93904faffc58][Linux]] [[id:925a80bf-d4d4-4061-9ac1-2d0224e1590a][kernel]] subsystem that monitors changes to [[id:a4c2de37-5317-44f3-b877-ec0b5777c61f][file systems]] and reports those as events to subscribed processes.
+* See Also
+ - [[https://en.wikipedia.org/wiki/Inotify][inotify - Wikipedia]]
+ - [[man:inotify(7)]]

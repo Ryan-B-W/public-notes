@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       56264da1-94ff-4906-b080-6f3a3e8a2dae
+:END:
+#+title: Symbolic Execution, aka Symbolic Analysis, Symbolic Evaluation, or symbex
+#+filetags: :programming:mathematics:computer_science:
+
+A method of analyzing computer programs to determine what inputs will cause what parts of the program to execute.
+* See Also
+** [[id:1563348b-b611-45a4-9f7e-9ea9b70e4aad][Boolean Satisfiability Problem (SAT or B-SAT)]]
+** [[id:6dc0e86e-3016-4a1e-987a-569f934e9ca1][Satisfiability Modulo Theories (SMT)]]
+** Symbolic execution - Wikipedia
+:PROPERTIES:
+:ID:       53d5da1a-7414-4492-a006-49ec4c5e2b79
+:ROAM_REFS: https://en.wikipedia.org/wiki/Symbolic_execution
+:END:
+*** Overview - S²E: A Platform for In-Vivo Analysis of Software Systems
+:PROPERTIES:
+:ID:       fd3b03ef-04f1-49be-a37d-d066f64d6770
+:ROAM_REFS: http://s2e.systems/
+:END:
+*** Triton: A dynamic binary analysis library
+:PROPERTIES:
+:ID:       033be864-1564-4bd0-8f02-50d636dc033b
+:ROAM_REFS: https://triton-library.github.io/
+:END:
+** [[id:da0dcdbe-b7ce-4b2d-8309-f398cb574c03][angr/angr: A powerful and user-friendly binary analysis platform!]]

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       969cc071-cf4f-4415-8df5-7b579204c6dd
+:ROAM_REFS: https://angr.io/
+:END:
+#+title: (angr.io) angr
+#+filetags: :reverse_engineering:development_environment:programming:software:computer_science:website:

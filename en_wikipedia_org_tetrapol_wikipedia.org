@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       ecae06b1-50f1-4252-873c-b06ec4c420e2
+:ROAM_REFS: https://en.wikipedia.org/wiki/TETRAPOL
+:END:
+#+title: (en.wikipedia.org) TETRAPOL - Wikipedia
+#+filetags: :digital_radio:radio:website:
+
+#+begin_quote
+  TETRAPOL (short for Terrestrial Trunked Radio POLice) is a digital professional mobile radio standard, as defined by the Tetrapol Publicly Available Specification (PAS), used by professional user groups such as public safety, military, industry and transportation organizations throughout the world.  Airbus Defence and Space is the main supplier of this technology.
+#+end_quote

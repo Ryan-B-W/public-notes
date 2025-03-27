@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       92fa6e2f-2efa-4425-b63d-dc409c82b8c2
+:ROAM_REFS: https://en.wikipedia.org/wiki/List_of_interactive_geometry_software
+:END:
+#+title: (en.wikipedia.org) List of interactive geometry software - Wikipedia
+#+filetags: :computer_algebra:mathematics:software:lists:website:
+
+#+begin_quote
+  *Interactive geometry software (IGS)* or *dynamic geometry environments (DGEs)* are [[https://en.wikipedia.org/wiki/Computer_program][computer programs]] which allow one to create and then manipulate [[https://en.wikipedia.org/wiki/Geometry][geometric]] constructions, primarily in [[https://en.wikipedia.org/wiki/Euclidean_plane_geometry][plane geometry]].  In most IGS, one starts construction by putting a few points and using them to define new objects such as [[https://en.wikipedia.org/wiki/Line_(mathematics)][lines]], [[https://en.wikipedia.org/wiki/Circle][circles]] or other points.  After some construction is done, one can move the points one started with and see how the construction changes.
+#+end_quote

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       d620b09c-763b-4614-9b8b-5e984b591ef3
+:ROAM_REFS: https://facelessuser.github.io/coloraide/colors/hct/
+:END:
+#+title: (facelessuser.github.io) HCT - ColorAide Documentation
+#+filetags: :software:colorimetry:website:
+
+#+begin_quote
+  The HCT color space is Google's attempt at a perceptually accurate color system.  Essentially, it is two color spaces glued together: 'H' (hue) and 'C' (chroma) come from the CAM16 color appearance model and 'T' (tone) is the lightness from the CIELAB (D65) color space.  The space was created to take the more consistent perceptual hues from CAM16 and use the better lightness prediction found in CIELAB.  The color space has the advantage of being well suited for creating color schemes with decent contrast and makes it easy to create nice tonal palettes, but the downside is that it is expensive to translate to and from compared to other color spaces.
+#+end_quote

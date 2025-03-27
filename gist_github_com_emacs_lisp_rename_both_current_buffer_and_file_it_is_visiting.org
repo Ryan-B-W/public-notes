@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       2e51a51e-b0cc-4fee-bc68-e47bd0627d91
+:ROAM_REFS: https://gist.github.com/jamescherti/fc1054ce24606c4574cfa41d1ed67412
+:END:
+#+title: (gist.github.com) Emacs Lisp: Rename both current buffer and file it is visiting.
+#+filetags: :programming:emacs_lisp:lisp:emacs:website:
+
+#+begin_src elisp
+  ;; Language: Emacs Lisp (elisp)
+  ;; Description: Rename both current buffer and file it is visiting.
+  ;; Author: James Cherti
+  ;; License: MIT
+  ;; URL: https://gist.github.com/jamescherti/fc1054ce24606c4574cfa41d1ed67412
+
+  (defun rename-buffer-and-file ()
+    "Rename both current buffer and file it is visiting."
+    (interactive)
+    (let* ((bufname (buffer-name))
+           (filename (buffer-file-name))
+           (basename (file-name-nondirectory filename)))
+      (unless filename
+        (error "The buffer with the name '%s' is not visiting a file." bufname))
+      (unless (file-exists-p filename)
+        (error "The file '%s' cannot be found on the disk." filename))
+      (let ((new-basename (read-string "New name: " basename)))
+        (when (not (string= basename new-basename))
+          (save-buffer)
+          (rename-file filename new-basename 1)
+          (set-visited-file-name new-basename)))))
+#+end_src

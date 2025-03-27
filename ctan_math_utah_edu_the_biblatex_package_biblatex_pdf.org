@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       ff0aadc9-9766-4c26-bdba-efe15726dcd2
+:ROAM_REFS: https://ctan.math.utah.edu/ctan/tex-archive/macros/latex/contrib/biblatex/doc/biblatex.pdf
+:END:
+#+title: (ctan.math.utah.edu) The biblatex Package - biblatex.pdf
+#+filetags: :documentation:latex:website:
+
+The biber/bibtex/biblatex manual.

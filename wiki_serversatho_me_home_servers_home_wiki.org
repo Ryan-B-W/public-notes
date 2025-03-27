@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       8f9949a7-ed50-4f1e-ad32-d36baf3d7755
+:ROAM_REFS: https://wiki.serversatho.me/
+:END:
+#+title: (wiki.serversatho.me) Home | Servers@Home Wiki
+#+filetags: :documentation:website:
+
+#+begin_quote
+  Welcome to the Servers@Home wiki.
+
+  The goal of this site was to help people get set up with a media stack, and it is gradually expanding to include more aspects of server management.  The operating systems focused on are TrueNAS Scale, Proxmox, and Ubuntu Server running Docker.
+
+  This wiki is Wiki.js, which, while easy to work with, does not include the ability to update me when comments are made on pages, so please be patient if your comment goes unanswered for some time.
+#+end_quote
+* (wiki.serversatho.me) Install Instructions | Servers@Home Wiki
+:PROPERTIES:
+:ID:       0273c626-1b11-45d0-9574-c38768ec321b
+:ROAM_REFS: https://wiki.serversatho.me/en/InstallInstructions
+:END:

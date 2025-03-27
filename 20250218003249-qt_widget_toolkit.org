@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       54112cdb-7d52-425d-ab76-f2494035a609
+:END:
+#+title: Qt Widget Toolkit
+#+filetags: :software_development:human_interaction:open_source:software:
+
+[[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][Open-source]], cross-platform [[id:88db686f-0d77-4ecc-a9d6-43017ef7440f][UI]] widget toolkit.
+* (www.qt.io) Qt | Tools for Each Stage of Software Development Lifecycle :website:
+:PROPERTIES:
+:ID:       0d6560c8-bf32-4ff6-9fb9-dab508bb2486
+:ROAM_REFS: https://www.qt.io/
+:END:
+
+The Qt widgeting and UI system and libraries website.
+** (www.qt.io) Qt 6 - The latest version of Qt
+:PROPERTIES:
+:ID:       7b9f3d19-61da-4f36-af65-e7773958f00b
+:ROAM_REFS: https://www.qt.io/product/qt6
+:END:
+** (www.qt.io) Qt Licensing | Choose the Right License for Your Development Needs
+:PROPERTIES:
+:ID:       2e1dd4a3-8fc1-4a85-a24a-d92cb67e93a9
+:ROAM_REFS: https://www.qt.io/qt-licensing
+:END:
+* (en.wikipedia.org) Qt (software) - Wikipedia                      :website:
+:PROPERTIES:
+:ID:       a7d62932-6ca4-48ab-b21c-71b8a0c46f87
+:ROAM_REFS: https://en.wikipedia.org/wiki/Qt_(software)
+:END:
+
+#+begin_quote
+  *Qt* (/ˈkjuːt/ or /ˈkjuː ˈtiː/; pronounced "cute" or as an [[https://en.wikipedia.org/wiki/Initialism][initialism]]) is a cross-platform application development framework for creating [[https://en.wikipedia.org/wiki/Graphical_user_interfaces][graphical user interfaces]] as well as [[https://en.wikipedia.org/wiki/Cross-platform_software][cross-platform]] applications that run on various software and hardware platforms such as [[https://en.wikipedia.org/wiki/Linux][Linux]], [[https://en.wikipedia.org/wiki/Windows][Windows]], [[https://en.wikipedia.org/wiki/MacOS][macOS]], [[https://en.wikipedia.org/wiki/Android_(operating_system)][Android]] or [[https://en.wikipedia.org/wiki/Embedded_system][embedded systems]] with little or no change in the underlying codebase while still being a native application with native capabilities and speed.
+
+  Qt is currently being developed by [[https://en.wikipedia.org/wiki/The_Qt_Company][The Qt Company]], a publicly listed company, and the [[https://en.wikipedia.org/wiki/Qt_Project][Qt Project]] under [[https://en.wikipedia.org/wiki/Open-source_governance][open-source governance]], involving individual developers and organizations working to advance Qt.  Qt is available under both commercial licenses and [[https://en.wikipedia.org/wiki/Open-source][open-source]] [[https://en.wikipedia.org/wiki/GNU_General_Public_License][GPL]] 2.0, GPL 3.0, and [[https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License][LGPL]] 3.0 licenses.
+#+end_quote

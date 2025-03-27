@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1af855fb-ebd7-437c-84b3-6eb34b8cd65a
+:ROAM_REFS: https://www.youtube.com/watch?v=A5LiHj2UGgA
+:END:
+#+title: (www.youtube.com) Björk: Don't Let Poets Lie to You - YouTube
+#+filetags: :video:website:
+
+#+begin_quote
+  On the subject of legends, I came across this wonderful and timely clip recently. I owned a Sony Trinitron and I always suspected there was something more than electricity going on behind the screen. Enjoy 'Björk Teardown of Sony Trinitron TV & PCB 1988 4K AI Remaster Upscale HD'
+  Thanks to Retro Recipes for this great video.
+#+end_quote

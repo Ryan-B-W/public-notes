@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       b5202826-7e7c-4300-8dbc-8f34e62dcdca
+:ROAM_REFS: "https://www.watersportswhiz.com/sea-kayak-vs-river-kayak/"
+:END:
+#+title: (www.watersportswhiz.com) Sea Kayak Vs. River Kayak: A Closer Look At Their Differences
+#+filetags: :boats:website:
+
+#+begin_quote
+  No two kayaks are ever the same. Why am I pointing that out?  Deciding which kayak you should go with will depend on what kind of outdoor experience you’re hoping to get out of it.  The same applies to choosing between a sea kayak and a river kayak.
+#+end_quote

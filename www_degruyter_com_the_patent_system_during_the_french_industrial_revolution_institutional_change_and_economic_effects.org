@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       80a65766-56dc-4754-aaf9-499441058870
+:ROAM_REFS: https://www.degruyter.com/document/doi/10.1515/jbwg-2019-0003/html
+:END:
+#+title: (www.degruyter.com) The Patent System during the French Industrial Revolution: Institutional Change and Economic Effects
+#+filetags: :science_paper:intellectual_property:law:history:website:
+
+#+begin_quote
+  ** Abstract
+
+  The influence of the patent system on the economic performance of Western countries during the Industrial Revolution is an important but difficult question to address.  With the United Kingdom and the United States, France was one of the first countries to adopt a modern patent legislation in 1791.  The aim of this paper is to understand the paradox of such a system, which was based on a democratic and natural-right conception of invention but turned out to be restrictive.  It analyses the legal framework and its evolution from 1791 to the late 1850s and reveals its contradictory aspects: a natural right inspiration vs a restrictive access due to the cost of the patent.  It shows how the 1844 Patent Act reform did not end the criticism of the French patent system.  Then, in a second part, it considers the diffusion of patents in time, in different regions and industries and stresses the heterogeneity of the patent system.
+#+end_quote

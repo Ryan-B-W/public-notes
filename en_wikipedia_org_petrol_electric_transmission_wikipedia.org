@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       c5059524-423d-4f5c-9099-b4991cd53280
+:ROAM_REFS: https://en.wikipedia.org/wiki/Petrol–electric_transmission
+:END:
+#+title: (en.wikipedia.org) Petrol–electric transmission - Wikipedia
+#+filetags: :vehicle_technology:website:
+
+#+begin_quote
+  Petrol–electric transmission (UK English) or gasoline–electric transmission or gas–electric transmission (US English) is a transmission system for vehicles powered by petrol engines.  Petrol–electric transmission was used for a variety of applications in road, rail, and marine transport, in the early 20th century.  After World War I, it was largely superseded by diesel–electric transmission, a similar transmission system used for diesel engines; but petrol–electric has become popular again in modern hybrid electric vehicles.
+
+  Petrol–electric transmission was used in certain niche markets in the early 20th century, such as in the petrol–electric railway locomotives produced in Britain for use on the War Department Light Railways during World War I or for privately owned Arad & Csanad United Railways.  In France, the Crochat petrol–electric transmission system was used for standard gauge locomotives (up to 240 kW of electrical power).
+#+end_quote

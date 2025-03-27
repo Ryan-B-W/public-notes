@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       61ca4b18-81b7-471e-997b-602ab68892d2
+:ROAM_REFS: https://connect.mozilla.org/t5/ideas/bring-back-pwa-progressive-web-apps/idi-p/35
+:END:
+#+title: (connect.mozilla.org) Bring back PWA (progressive web apps) - Mozilla Connect
+#+filetags: :www:website:
+
+#+begin_quote
+  sfink
+
+  Is it clear what "PWA support" means?  Some pieces of PWA are still available on [[id:11f55adb-3785-4f14-9de5-719fde4906b8][Firefox]].  Some aren't.  Is there a clear description somewhere of what the PWA umbrella covers and what is or is not important?
+  Partly I'm wondering because although I voted for this bug, I realized I was only thinking of mobile.  Desktop support is far less interesting to me personally (though generally speaking, it seems like it'd be a cool thing to have).
+  https://bugzilla.mozilla.org/show_bug.cgi?id=1719080 leads to a number of links.
+  My impression is that the desktop feature is a fairly heavy feature to support. https://bugzilla.mozilla.org/show_bug.cgi?id=1602117 was the main bug for this, with https://bugzilla.mozilla.org/show_bug.cgi?id=1602117#c7 providing a list of pieces that were never implemented.
+  The strongest argument I see for desktop PWAs is for skipping an app store and pinning to the Windows taskbar.
+  I almost wonder if the best path for desktop would be some form of official support for https://github.com/filips123/PWAsForFirefox — as in, not trying to incorporate that, but adding it to continuous integration and otherwise trying not to break it?
+#+end_quote
+Links to [[id:7ea4a003-353f-42af-9c34-b13be9839ad0][filips123/PWAsForFirefox]].

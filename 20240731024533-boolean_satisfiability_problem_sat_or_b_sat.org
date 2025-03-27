@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       1563348b-b611-45a4-9f7e-9ea9b70e4aad
+:END:
+#+title: Boolean Satisfiability Problem (SAT or B-SAT)
+#+filetags: :computer_science:mathematics:
+
+SAT is the problem of determining the satisfiability a given Boolean formula.
+* See Also
+** Boolean satisfiability problem - Wikipedia
+:PROPERTIES:
+:ID:       625d943a-7f5a-47d7-a023-ca76a385fe20
+:ROAM_REFS: https://en.wikipedia.org/wiki/Boolean_satisfiability_problem
+:END:

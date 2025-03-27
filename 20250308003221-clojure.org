@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       e9d0b6b7-3235-4d51-96e3-4634bca979e2
+:END:
+#+title: Clojure
+#+filetags: :java_lang:lisp:programming:java_vm:open_source:programming_language:
+
+A Lisp designed for the JVM and for interoperability with [[id:e68f44a7-29bb-4d02-a5d9-a94ba0e757e4][Java]].

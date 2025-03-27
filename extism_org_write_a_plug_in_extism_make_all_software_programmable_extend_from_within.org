@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       dcb57d53-78b4-43d1-8d52-797c4f9d8501
+:ROAM_REFS: https://extism.org/docs/quickstart/plugin-quickstart/
+:END:
+#+title: (extism.org) Write a Plug-in | Extism - make all software programmable. Extend from within.
+#+filetags: :programming:software_development:software:documentation:website:
+
+#+begin_quote
+  * Quickstart
+
+  The following is a minimal guide to running writing an Extism plug-in in your language of choice.  This document should get you from =0= to ="Hello, World!"= as quickly as possible.
+
+  ** Choose A Language
+
+  In Extism, your plug-in code is compiled to a binary Wasm module.  We offer a variety of libraries, which we call PDKs (Plug-in Development Kits), to help you compile your code to a Wasm module that can be embedded in any Host SDK.
+#+end_quote

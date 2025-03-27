@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       1682f3e1-4985-4204-8fa3-6aa3bfe2d3e4
+:ROAM_REFS: https://github.com/tempesta-tech/blog/tree/master/htrie
+:END:
+#+title: (github.com) blog/htrie at master · tempesta-tech/blog
+#+filetags: :data_structures:programming:software:website:

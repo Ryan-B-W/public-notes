@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       81da7eff-04a9-4996-8cf9-00485affb259
+:ROAM_REFS: https://en.wikipedia.org/wiki/Enlightenment_Foundation_Libraries
+:END:
+#+title: (en.wikipedia.org) Enlightenment Foundation Libraries - Wikipedia
+#+filetags: :programming:software_development:website:
+
+#+begin_quote
+  The Enlightenment Foundation Libraries (EFL) are a set of graphics libraries that grew out of the development of Enlightenment, a window manager and Wayland compositor.  The project's focus is to make the EFL a flexible yet powerful and easy to use set of tools to extend the capabilities of both the Enlightenment window manager and other software projects based on the EFL.  The libraries are meant to be portable and optimized to be functional even on mobile devices such as smart phones and tablets.
+  The libraries were created for version 0.17 of the window manager.
+  EFL is developed by Enlightenment.org with some sponsorship from Samsung, ProFUSION and Free.fr.  EFL is free and open source software.
+#+end_quote

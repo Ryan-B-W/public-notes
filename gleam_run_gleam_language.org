@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       6ad60023-ea83-419a-b72e-5a6d7606d72b
+:ROAM_REFS: https://gleam.run/
+:END:
+#+title: (gleam.run) Gleam Language
+#+filetags: :programming_language:website:

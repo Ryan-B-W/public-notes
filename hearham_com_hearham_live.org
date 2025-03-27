@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       323e5e2b-b83d-440a-9654-8444a8f75cb9
+:ROAM_REFS: https://hearham.com/
+:END:
+#+title: (hearham.com) Hearham.live
+#+filetags: :website:
+
+#+begin_quote
+  * HearHam.live
+
+  *** The amateur radio listener for when you're not on the radio.
+
+  [[https://hearham.com/register][Register]] | [[https://hearham.com/help][Help]] | [[https://hearham.com/contribute][Contribute]]
+
+  Search the [[https://hearham.com/repeaters][ham radio repeater listing:]]
+
+  [[https://hearham.com/img/search.png]]
+
+  /As seen in [[https://hamweekly.com/archive/issues/amateur-radio-weekly-issue-366.html][Amateur Radio Weekly]], [[https://www.youtube.com/watch?v=wM8kUyN2-28][KM4ACK channel]], [[https://www.qsotodayhamexpo.com/][QSO Today,]] [[https://hackaday.io/project/173422-repeater-start][Hackaday.io]], [[https://lhspodcast.info/][Linux in the Ham Shack]], Panhandle preparedness expo, and Pacificon:/\\
+  Repeater-START, the offline repeater listing app is for iOS/Android, Windows, Linux, Raspberry Pi, Ubuntu, Librem Phone.
+
+  * An error occurred.
+
+  [[https://www.youtube.com/watch?v=4TMWtCwYNzg][Try watching this video on www.youtube.com]], or enable JavaScript if it is disabled in your browser.
+
+  [[https://play.google.com/store/apps/details?id=com.hearham.repeaterstartpremium]] [[https://apps.apple.com/us/app/repeaterstart-premium/id6738314675]] [[https://sourceforge.net/projects/repeater-start/][Repeater-START]]
+
+  [[https://sourceforge.net/projects/repeater-start/files/latest/download]]
+#+end_quote

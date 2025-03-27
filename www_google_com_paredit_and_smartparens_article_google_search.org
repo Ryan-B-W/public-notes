@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       09c3d560-e4ea-49d9-9b24-c0832b0918b8
+:ROAM_REFS: https://www.google.com/search?q=paredit-and-smartparens+article
+:END:
+#+title: (www.google.com) paredit-and-smartparens article - Google Search
+#+filetags: :emacs:searches:website:

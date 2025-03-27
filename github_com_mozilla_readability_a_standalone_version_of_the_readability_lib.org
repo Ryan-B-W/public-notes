@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       119e8f52-180c-4fc7-b809-389735210cd5
+:ROAM_REFS: https://github.com/mozilla/readability
+:END:
+#+title: (github.com) mozilla/readability: A standalone version of the readability lib
+#+filetags: :programming:www:software:website:
+
+#+begin_quote
+  A standalone version of the readability library used for Firefox Reader View.
+#+end_quote
+* See Also
+** [[id:98f06e6b-39cb-4641-8c1f-07b80bb90fba][(support.mozilla.org) Firefox Reader View for clutter-free web pages | Firefox Help]]

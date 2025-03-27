@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       5bb26770-7596-4cde-8dc7-4753eaaf4a92
+:ROAM_REFS: https://en.wikipedia.org/wiki/Projectively_extended_real_line
+:END:
+#+title: (en.wikipedia.org) Projectively extended real line - Wikipedia
+#+filetags: :mathematics:website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Real_analysis][real analysis]], the *projectively extended real line* (also called the [[https://en.wikipedia.org/wiki/One-point_compactification][one-point compactification]] of the [[https://en.wikipedia.org/wiki/Real_line][real line]]), is the extension of the [[https://en.wikipedia.org/wiki/Set_(mathematics)][set]] of the [[https://en.wikipedia.org/wiki/Real_number][real numbers]], \(\mathbb{R}\), by a point denoted ∞.  It is thus the set \(\mathbb{R} \cup \{\infty\}\) with the standard arithmetic operations extended where possible, and is sometimes denoted by \(\mathbb{R}^{\ast}\) or \(\hat{\mathbb{R}}.\) The added point is called the [[https://en.wikipedia.org/wiki/Point_at_infinity][point at infinity]], because it is considered as a neighbour of both [[https://en.wikipedia.org/wiki/End_(topology)][ends]] of the real line.  More precisely, the point at infinity is the [[https://en.wikipedia.org/wiki/Limit_of_a_sequence][limit]] of every [[https://en.wikipedia.org/wiki/Sequence][sequence]] of real numbers whose [[https://en.wikipedia.org/wiki/Absolute_value][absolute values]] are [[https://en.wikipedia.org/wiki/Sequence#Increasing_and_decreasing][increasing]] and [[https://en.wikipedia.org/wiki/Bounded_function][unbounded]].
+
+  The projectively extended real line may be identified with a [[https://en.wikipedia.org/wiki/Real_projective_line][real projective line]] in which three points have been assigned the specific values 0, 1 and ∞.  The projectively extended real number line is distinct from the [[https://en.wikipedia.org/wiki/Affinely_extended_real_number_line][affinely extended real number line]], in which +∞ and −∞ are distinct.
+#+end_quote

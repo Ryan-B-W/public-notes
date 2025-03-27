@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       658733ab-5860-408e-bdf4-cfb5ab2f9bb8
+:ROAM_REFS: https://www.aikido.dev/
+:END:
+#+title: (www.aikido.dev) Aikido — AppSec Platform For Code & Cloud Security
+#+filetags: :software_as_a_service:security:website:
+* (www.aikido.dev) Pricing - Aikido Security
+:PROPERTIES:
+:ID:       f9626325-4b42-4352-b0e9-6a7022a52b77
+:ROAM_REFS: https://www.aikido.dev/pricing
+:END:

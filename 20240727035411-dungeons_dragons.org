@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       8510f680-ab9a-40d9-afe7-c1ed70382c96
+:END:
+#+title: Dungeons & Dragons
+#+filetags: :rpg:tabletop_games:games:
+
+D&D is /the/ classic [[id:a5ea8f20-b0a8-482d-9388-5f82f3c218d0][TTRPG]].  It has been around for over 50 years.

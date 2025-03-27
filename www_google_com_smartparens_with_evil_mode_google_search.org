@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       cd1602f1-00c0-42ce-8a67-3ba7874580f2
+:ROAM_REFS: https://www.google.com/search?q=smartparens+with+evil-mode
+:END:
+#+title: (www.google.com) smartparens with evil-mode - Google Search
+#+filetags: :emacs:searches:website:

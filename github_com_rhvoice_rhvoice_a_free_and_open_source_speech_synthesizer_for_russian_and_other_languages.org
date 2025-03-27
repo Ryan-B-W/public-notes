@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       c1b8ca7f-c5be-4227-ad7a-4932a8c7482a
+:ROAM_REFS: https://github.com/RHVoice/RHVoice
+:END:
+#+title: (github.com) RHVoice/RHVoice: a free and open source speech synthesizer for Russian and other languages
+#+filetags: :text_to_speech:machine_learning:software:website:
+
+#+begin_quote
+  RHVoice uses statistical parametric synthesis.  It relies on existing open-source speech technologies (mainly HTS and related software).
+
+  Voices are built from recordings of natural speech.  They have small footprints, because only statistical models are stored on users' computers.  And though the voices lack the naturalness of the synthesizers which generate speech by combining segments of the recordings themselves, they are still very intelligible and resemble the speakers who recorded the source material.
+#+end_quote

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       bf5900d9-5be8-49ca-bfcc-46587cc787dc
+:END:
+#+title: Computer
+#+filetags: :electronics:computer_science:
+
+A piece of computing machinery that can be [[id:b24601aa-09df-41e1-aa7e-25ead342db34][programmed]] to perform tasks.
+* See Also
+** [[id:01b40f47-e5e8-46a2-a8f7-3c719e9f245c][Computer Science Concepts]]

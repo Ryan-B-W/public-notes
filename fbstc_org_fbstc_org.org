@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       b6118dfb-15f4-4c3b-bbd3-c6f306180288
+:ROAM_REFS: https://fbstc.org/
+:END:
+#+title: (fbstc.org) fbstc.org
+#+filetags: :www:linux:website:
+
+Linux running on an emulated [[id:d76dd6d0-cc93-40cd-b8de-9da49431281c][RISC-V]] in [[id:db0939e6-0c2e-4bb0-a626-2114209235af][JavaScript]] in the browser.
+* (github.com) fstachura/website
+:PROPERTIES:
+:ID:       de75db4b-92ed-42f1-bcdf-bf9c2cdb2772
+:ROAM_REFS: https://github.com/fstachura/website
+:END:
+
+#+begin_quote
+  TinyEMU with patches to work with (patched) Linux 6.10.11 and Buildroot 2024.02.06
+
+  TinyEMU code by Fabrice Bellard taken from [[https://bellard.org/tinyemu/]]
+
+  Some changes might have been also taken from the following repositories:
+
+  - [[https://github.com/drorgl/buildroot-tinyemu]], [[https://github.com/drorgl/esp32-tinyemu]] ([[https://blog.drorgluska.com/2022/07/risc-v-linux-on-esp32.html]])
+  - [[https://github.com/fernandotcl/TinyEMU]]
+  - [[https://github.com/michaelforney/tinyemu]]
+#+end_quote

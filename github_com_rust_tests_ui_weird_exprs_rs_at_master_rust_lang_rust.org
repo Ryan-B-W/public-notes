@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       0ef8d2b9-cd5b-4b6d-83bf-6b2adbf0d9f4
+:ROAM_REFS: https://github.com/rust-lang/rust/blob/master/tests/ui/weird-exprs.rs
+:END:
+#+title: (github.com) rust/tests/ui/weird-exprs.rs at master · rust-lang/rust
+#+filetags: :rust_lang:website:
+
+* (github.com) rust/tests/ui/weird-exprs.rs at 617aad8c2e8783f6df8e5d1f8bb1e4bcdc70aa7b · rust-lang/rust
+:PROPERTIES:
+:ID:       1d77ff12-e0a1-4ca3-9ed2-80731094a92d
+:ROAM_REFS: https://github.com/rust-lang/rust/blob/617aad8c2e8783f6df8e5d1f8bb1e4bcdc70aa7b/tests/ui/weird-exprs.rs
+:END:
+
+The revision at time of first seeing/adding it.

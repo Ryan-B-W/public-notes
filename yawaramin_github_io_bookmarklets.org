@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       14922e43-d6a0-49e0-9a0d-d4b9d608799c
+:ROAM_REFS: https://yawaramin.github.io/bookmarklets/
+:END:
+#+title: (yawaramin.github.io) Bookmarklets
+#+filetags: :lists:www:website:

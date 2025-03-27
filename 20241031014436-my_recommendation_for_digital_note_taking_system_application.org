@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       1825cded-0bd8-4eef-88df-18563ecfced7
+:END:
+#+title: My Recommendation for Digital Note Taking System/Application
+#+filetags: :self_quotes:information_management:opinion:
+
+As I put it when using Markdown in Discord:
+#+begin_example
+  I have friends who use [Logseq](<https://logseq.com/>).  It's what I'd recommend to most people.
+
+  I personally like using [Emacs](<https://www.gnu.org/software/emacs/>) with [Org Mode](<https://orgmode.org/>) (super powerful notes system and format with support for embedded files, code, and many other features), [Org Roam](<https://www.orgroam.com/>) (for having a powerful knowledge graph notes system, à la the [Zettelkasten Method](<https://luhmann.surge.sh/communicating-with-slip-boxes>), see also [this page](<https://zettelkasten.de/>)), [org-roam-ui](<https://github.com/org-roam/org-roam-ui>) (for having a nice view of the notes graph), [Org protocol](<https://orgmode.org/manual/Protocols.html>) (for grabbing snippets from browsers and other locations and storing them in a note), [Counsel](<https://github.com/abo-abo/swiper>) (for nice completion systems), [Company](<https://company-mode.github.io/>) (for on-demand autocompletion), [Citar](<https://github.com/emacs-citar/citar>) (for citation management), [biblio.el](<https://github.com/cpitclaudel/biblio.el>) (for completing citation information), [org-web-tools](<https://github.com/alphapapa/org-web-tools/>) (for grabbing web pages to attach to notes), [Verb](<https://github.com/federicotdn/verb>) (for doing REST API testing, etc, from inside Org Mode), [Projectile](<https://docs.projectile.mx/projectile/index.html>) (for project management), [Flyspell](<https://www.gnu.org/software/emacs/manual/html_node/emacs/Spelling.html>) (for on-the-fly spell checking), and [flymake-languagetool](<https://github.com/emacs-languagetool/flymake-languagetool>) (for on-the-fly grammar checking), with the notes directory checked into [git](<https://git-scm.com/>) using [Magit](<https://magit.vc/>).  Some people like to use Emacs with [Evil Mode](<https://evil.readthedocs.io/en/latest/index.html>).
+#+end_example

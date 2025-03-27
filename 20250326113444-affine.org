@@ -1,0 +1,107 @@
+:PROPERTIES:
+:ID:       4cc258cb-6113-4e92-96a5-7bd8f031375d
+:END:
+#+title: AFFiNE
+#+filetags: :open_source:software_as_a_service:writing:notes:information_management:software:
+
+[[id:05f2a17c-4ceb-42fa-bcc8-16d61473804b][Web]]-based, [[id:6992d257-971d-40c7-a617-ec82e2541206][note-taking]], [[id:d4dafaae-02cf-4a44-8fa9-afded413fe2a][PKM]], and project management software with collaborative features.
+* (affine.pro) AFFiNE - All In One KnowledgeOS                      :website:
+:PROPERTIES:
+:ID:       fbbb15fb-401e-4fa6-a4de-8f92d803d465
+:ROAM_REFS: https://affine.pro/
+:END:
+
+#+begin_quote
+  * Write, Draw, ✓ Plan, All at Once.  With AI.
+
+  AFFiNE is a workspace with fully merged docs, whiteboards and databases.  Get more things done, your creativity isn't monotone.
+
+  Explore on Desktop
+
+  *** Trusted by people from next-gen startups to established organizations.
+
+  ** Consolidate Your Workflow with Ease on a Hyperfused Platform
+
+  Say goodbye to the hassle of switchover
+
+  Tired of switching between different tools to meet your complex needs?
+
+  Stay focused, and unleash your wild creativity with AFFiNE
+
+  Your all-in-one KnowledgeOS solution for effortlessly writing, drawing, and planning on a hyper-fused platform.
+
+  Privacy-focused, local-first
+
+  You are in charge of your own data.
+
+  *** Write your way to better productivity
+
+  Build up your content like blocks and let your ideas run wild.
+
+  *** /Draw/ and visualise with /ease/ and /creativity/
+
+  Visualise your creativity with others.  No constraints, limited only by your imagination.
+
+  *** Plan, track, and collaborate efficiently
+
+  Stay on top of your workload and achieve more in less time.
+
+  ** AI partner helps you better write, draw and plan
+
+  Let you think bigger, create faster, work smarter in anytime, anywhere
+
+  [[https://affine.pro/ai]]
+
+  ** Ready-to-Use Templates for Any Project
+
+  [[https://affine.pro/templates]]
+
+  Digital Planner
+
+  [[https://affine.pro/templates/category-digital-planner]]
+
+  Story Board
+
+  [[https://affine.pro/templates/category-storyboard-template]]
+
+  Cornell Notes
+
+  [[https://affine.pro/templates/category-cornell-notes-template]]
+
+  One Pager
+
+  [[https://affine.pro/templates/category-one-pager-template-free]]
+
+  Checklist
+
+  [[https://affine.pro/templates/category-checklist-template]]
+
+  Vision Board
+
+  [[https://affine.pro/templates/category-vision-board-template]]
+
+  Itinerary template
+
+  [[https://affine.pro/templates/category-free-travel-itinerary-template]]
+
+  ** AFFiNE builds everything in public
+
+  *** Open-Source Code for Trust and Collaboration
+
+  We foster trust and enable everyone to contribute and enhance AFFiNE for a far wider audience.
+
+  [[https://github.com/toeverything/AFFiNE/issues][toeverything/AFFiNE/issues]]
+
+  Free for individuals, commercial and team usage fees apply.
+
+  *** User-Centric Community Engagement
+
+  Creating a vibrant space for users to connect, share, and inspire one another.
+
+  [[https://affine.pro/redirect/discord]]
+#+end_quote
+* (github.com) toeverything/AFFiNE: There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. :website:
+:PROPERTIES:
+:ID:       34dbc7f7-17c3-4321-b13a-2696a4bb7349
+:ROAM_REFS: https://github.com/toeverything/AFFiNE
+:END:

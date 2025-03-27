@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       d93f44b8-ca95-470d-8865-8c6e0142de41
+:END:
+#+title: Cypress College
+#+filetags: :organization:college:education:
+
+California community college in Cypress.  Part of the [[id:c1107bd6-06e7-4e55-86d2-854c241da5ca][NOCCCD]].

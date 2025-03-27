@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       488cc738-afcb-4214-9dc5-482709b0691a
+:ROAM_REFS: https://www.scientificamerican.com/article/the-surprisingly-difficult-mathematical-proof-that-anime-fans-helped-solve/
+:END:
+#+title: (www.scientificamerican.com) The Surprisingly Difficult Mathematical Proof That Anime Fans Helped Solve | Scientific American
+#+filetags: :article:news:mathematics:website:
+
+#+begin_quote
+  * How Anime Fans Stumbled upon a Mathematical Proof
+
+  When a fan of a cult anime series wanted to watch its episodes in every possible order, they asked a question that had perplexed combinatorial mathematicians for years
+
+  By [[https://www.scientificamerican.com/author/manon-bischoff/][Manon Bischoff]] edited by [[https://www.scientificamerican.com/author/daisy-yuhas/][Daisy Yuhas]]
+
+  Math solutions can be found in surprising places, including the dark realms of the Internet.  In 2011 an anonymous poster on the now infamously controversial image board 4chan posed a mathematical puzzle about the cult classic anime series /The Melancholy of Haruhi Suzumiya/.  Though the bulletin board has become littered with hateful, violent and extreme content, that original post led to a solution to the sophisticated math problem.
+
+  The first season of this anime series consists of 14 episodes that were designed so that you can watch them in any order you like.  (For people who are as unfamiliar with the anime world as I am: an eight-part live-action thriller called /Kaleidoscope/ on Netflix follows the same principle.)  At some point in a 2011 discussion of the series on 4chan, someone asked the minimum number of episodes they would have to watch to have seen it in every possible order.
+
+  In fact, this question is related to so-called superpermutations.  And as it turns out, this mathematical area holds many puzzles: to this day, mathematicians are still unable to fully answer the problem that the 4chan user had posed.
+#+end_quote

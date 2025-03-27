@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5ee4322f-6a78-4132-9a38-a3e81698c383
+:END:
+#+title: Essaying
+#+filetags: :writing:
+
+A short piece of writing on a single subject, generally expressing an opinion on it.
+
+Useful outside of academia for self directed learning and research as a form of [[id:fd886692-0c9b-4878-9484-5f8feb6871a2][learning by teaching]].
+
+Often, [[id:5d05853c-20b4-426d-9309-0eec949e5cd6][Blogging]] can be considered a form of this.

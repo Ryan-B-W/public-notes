@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       b385487c-8e57-40fd-b1fa-c74549f2e59e
+:ROAM_REFS: https://en.wikipedia.org/wiki/Connectome
+:END:
+#+title: (en.wikipedia.org) Connectome - Wikipedia
+#+filetags: :neuroscience:biology:website:
+
+#+begin_quote
+  A connectome (/kəˈnɛktoʊm/) is a comprehensive map of neural connections in the brain, and may be thought of as its "wiring diagram".  An organism's nervous system is made up of neurons which communicate through synapses.  A connectome is constructed by tracing the neuron in a nervous system and mapping where neurons are connected through synapses.
+  The significance of the connectome stems from the realization that the structure and function of the human brain are intricately linked, through multiple levels and modes of brain connectivity.  There are strong natural constraints on which neurons or neural populations can interact, or how strong or direct their interactions are.  Indeed, the foundation of human cognition lies in the pattern of dynamic interactions shaped by the connectome.
+  Despite such complex and variable structure-function mappings, the connectome is an indispensable basis for the mechanistic interpretation of dynamic brain data, from single-cell recordings to functional neuroimaging.
+#+end_quote

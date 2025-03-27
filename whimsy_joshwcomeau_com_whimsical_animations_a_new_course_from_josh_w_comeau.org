@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       603ecf9c-13c8-43a4-8f41-f9e571142b9c
+:ROAM_REFS: https://whimsy.joshwcomeau.com/
+:END:
+#+title: (whimsy.joshwcomeau.com) Whimsical Animations, a new course from Josh W. Comeau
+#+filetags: :website:
+
+#+begin_quote
+  * Whimsical Animations
+
+  Learn how to create charming interactions and delightful touches using the magic of CSS, JavaScript, SVG, and Canvas.
+
+  I'm sharing all my tricks in this one!
+#+end_quote

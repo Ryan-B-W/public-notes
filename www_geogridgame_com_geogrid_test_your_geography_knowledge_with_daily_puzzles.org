@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       3dfd1150-7bf9-4c27-9052-a68ba864f6e5
+:ROAM_REFS: https://www.geogridgame.com/
+:END:
+#+title: (www.geogridgame.com) GeoGrid - Test Your Geography Knowledge with Daily Puzzles!
+#+filetags: :geography:www:games:website:
+
+#+begin_quote
+  * About GeoGrid🌎
+
+  GeoGrid is a daily trivia game made to put your geography knowledge to the test!
+
+  ** How to Play
+
+  Guess a country for each box in the board that matches the criteria specified by the box's row and column categories.
+
+  Each box on any given board has anywhere from 5 to 30 unique answers.
+
+  A new game is available every day at 0:00 am, local time of your device!
+
+  *** Rules
+
+  Players have 10 guesses to fill out the grid, but can enable infinite mode for unlimited.
+  A country can only be used once per game board.
+
+  *** Objective
+
+  Complete the board by filling all 9 boxes with a country that matches the criteria for the intersection of categories.
+
+  Finish with the lowest score possible.
+
+  *** Scoring
+
+  The score is calculated by the sum of the rarities of each box on the board.
+
+  Empty cells are scored as 100.
+
+  The rarer the guess, the lower the score.
+
+  The lower the score, the better.
+#+end_quote

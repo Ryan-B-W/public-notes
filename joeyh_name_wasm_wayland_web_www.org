@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ce1623e0-fa76-45ff-8e6e-0bb6d574f06d
+:ROAM_REFS: https://joeyh.name/blog/entry/WASM_Wayland_Web_WWW/
+:END:
+#+title: (joeyh.name) WASM Wayland Web (WWW)
+#+filetags: :opinion:programming:www:software:blog_post:website:
+
+#+begin_quote
+  So there are only 2 web browser engines, and it seems likely there will soon only be 1, and making a whole new web browser from the ground up is effectively impossible because the browsers vendors have weaponized web standards complexity against any newcomers.  Maybe eventually someone will succeed and there will be 2 again.  Best case.  What a situation.
+
+  So throw out all the web standards.  Make a browser that just runs WASM blobs, and gives them a surface to use, sorta like Wayland does.  It has tabs, and a throbber, and urls, but no HTML, no javascript, no CSS.  Just HTTP of WASM blobs.
+
+  This is where the web browser is going eventually anyway, except in the current line of evolution it will be WASM with all the web standards complexity baked in and reinforcing the current situation.
+
+  Would this be a mass of proprietary software?  Have you looked at any corporate website's "source" lately?  But what's important is that this would make it easy enough to build new browsers that they would stop being a point of control.
+
+  Want a browser that natively supports RSS?  Poll the feeds, make a UI, download the WASM enclosures to view the posts.  Want a browser that supports IPFS or gopher?  Fork any browser and add it, the mantenance load will be minimal.  Want to provide access to GPIO pins or something?  Add an extension that can be accessed via the WASI component model.  This would allow for so many things like that which won't and can't happen with the current market duopoly browser situation.
+
+  And as for your WASM web pages, well you can still use HTML if you like.  Use the WASI component model to pull in a HTML engine.  It doesn't need to support /everything/, just the parts of web standards that you want to use.  Or you can do something entitely different in your WASM that is not HTML based at all but a better paradigm (oh hi Spritely or display postscript or gemini capsules or whatever).
+
+  Dual innovation sources or duopoly?  I know which I'd prefer.  This is not my project to build though.
+#+end_quote

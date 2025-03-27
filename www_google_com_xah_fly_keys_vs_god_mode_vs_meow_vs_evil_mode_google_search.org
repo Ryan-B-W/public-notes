@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       dd053082-3402-419d-8faf-62983fb024d4
+:ROAM_REFS: https://www.google.com/search?q=xah-fly-keys+vs+god+mode+vs+meow+vs+evil-mode
+:END:
+#+title: (www.google.com) xah-fly-keys vs god mode vs meow vs evil-mode - Google Search
+#+filetags: :emacs:searches:website:

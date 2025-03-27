@@ -1,0 +1,85 @@
+:PROPERTIES:
+:ID:       0dbf2a50-2b64-4072-aee6-4cd8c4b9b685
+:END:
+#+title: The C++ Programming Language by Bjarne Stroustrup
+#+filetags: :education_resource:cpp_lang:programming:computer_science:books:
+
+* (www.stroustrup.com) Stroustrup: The C++ Programming Language (4th Edition) :website:
+:PROPERTIES:
+:ID:       83ec80b7-4311-4249-a3e1-7999cba4d53c
+:ROAM_REFS: https://www.stroustrup.com/4th.html
+:END:
+
+#+begin_quote
+  * The C++ Programming Language (4th Edition)
+
+  Addison-Wesley ISBN 978-0321563842. May 2013.
+
+  [[http://click.linksynergy.com/fs-bin/click?id=/TDPPeRUMm4&offerid=163217.10000230&type=1&subid=0][Order directly from the publisher!]] (There is also an electronic version, and a hardcover version)
+
+  Modified October 27, 2018
+
+  [[http://www.bildelarstore.se/science/c-programming-language-4-edition/][Romainian translation of this page]].
+
+  See also [[https://www.stroustrup.com/C++11FAQ.html][C++11 FAQ]] and [[https://www.stroustrup.com/3rd.html][The C++ Programming Language (Special Edition)]].
+
+  Available here:
+
+  - [[https://www.stroustrup.com/4thPreface.pdf][The Preface]]
+  - [[https://www.stroustrup.com/4thContents.html][Extended Table of Contents]].  Not in printed version.  I didn't think it was worth an extra 1000 lines.  Each chapter starts with its own table of contents.
+  - [[https://www.stroustrup.com/4thExercises.pdf][Exercises]].  Not in printed version.  I did not want to add another 80 pages to the book and I want to be able to add and change exercises over the years.  The collection of exercises should be complete (if minimal) ASAP.
+  - Concept code.  I have so far failed to get my ``taylor made'' and stable version ready for posting, but see Andrew Sutton's [[http://code.google.com/p/origin/][Origin library]] on which the book's concepts are based.
+
+  If you are looking for a shorter and less complete introduction to C++, consider: Bjarne Stroustrup: [[https://www.stroustrup.com/tour3.html][A Tour of C++ (3rd Edition)]].  The ``tour'' is a quick (about 240 pages) tutorial overview of all of standard C++ at a moderately high level for people who already know C++ or at least are experienced programmers.
+
+  If you are looking for an an introduction to programming for people who has never programmed before, consider [[https://www.stroustrup.com/programming.html][Programming -- Principles and Practice Using C++]].  That book is also be useful for people who have programmed a bit and want to improve their style and technique - or to simply learn modern C++.  It is designed for classroom use, but written with an eye on self study.
+
+  --------------
+
+  ** Errata
+
+  Feel free to send me suggested errata.  I will fix every mistake that can be fixed within the constrains of the book.  I will post every errata that I think might impede understanding(eventually; I'm unfortunately way behind the printed books).
+
+  - [[https://www.stroustrup.com/4th_printing3.html][For the 3rd printing]]
+
+  People have pointed out that the {} doesn't work for copy construction:
+
+  : X x1 {2};      // construct from integer (assume suitable constructor)
+  : X x2 {x1};      // copy construction: fails on GCC 4.8 and Clang 3.2
+
+  I know that.  It's a bug in the standard.  Fixed for C++14.  For now use one of the traditional notations:
+
+  : X x3(x1);      // copy construction
+  : X x4 = x1;      // copy construction
+
+  Thanks to all who send me problems, correction, and clarifications: Ron Avitzur, Matt Austern, Charles A. Barr, Paul Bennett, Thaddeus Black, Andreas Boerner, Keith Boruff, A. Bresee, Juerg Bruggermann Ian Bruntlett, Henry Buckley, Vladimir Burenkov, Peter Cordell, Walter C. Daugherity, Francios Degros, Gabriel Dos Reis, Robert Drehmel, Yaakov Eisenberg, James Feister, Ted Felix, William Fisher, Paul Floyd, Elazar Gershuni, Douglas Gilbert, Matt Ginsberg, Raffaele Grosso, Ben Hanson, M. Harbeck, Jack Harvard, Craig Henderson, Matthew Hielsberg, Derek Hofmann, Ashley Holman, Niels Holst, Zhiheng Huang, Olaf Ippisch, Dainis Jonitis, Koehne Kai, Zlatko Karakaï¿½, Tiemo Keller, Brian Kernighan, Hadeed Khalid, Michael Kilpelainen, Klaus-Werner Konrad, Vlado Koval, David Krishfield, Daniel Kruegler, Amali Praveena Soban Kumar, Mantosh Kumar, John Lakos, Wanying Luo, Chintan Maggu, Jaydeep Marathe, Bruno Marques, Brono Martinez, Randy Merkel, Martin Moene, Thiemo Nagel, Tyson Nottingham, Toshiaki Ohkuma, Peter Olsen, Aidas Ozelis, Laszlo Papp, Nathan Panike, Dale Lukas Peterson, Marcelo Pinto, Timur Pocheptsov, Michael Price, Tim Prebble, Andrea Proli, Luca Risolia, Dan Rose, Ambitabha Roy, Jens Rï¿½mer Rohit Santhanam, Anubhav Saxena, Ian Scott, Richard Shepherd, Eric Sirko, Abe Skolnik, Edward M. Smith-Rowland, Marcin, Sobieszczanski, Soren Soe, Dean Stanton, Igor Stauder, Daniel Suen, Andrew Sutton, Edward M. Taffel, David A. Thomas, Felix Voigtlander, Alexey Voytenko, Johan Williamsson, Aaron Wong, Scott Wright, Guilliam Xavier, Geffrey Yerem, Muhammad Zahalqa, Alexei Zakharov.
+
+  Apologies if I missed a name.
+
+  Some might find it reassuring that many (most?) problems were spotted by several people.
+
+  --------------
+
+  ** Previous Editions
+
+  - [[https://www.stroustrup.com/3rd.html][The C++ Programming Language (Special Edition)]]
+  - [[https://www.stroustrup.com/books.html][Book list]]
+  - [[https://www.stroustrup.com/covers.html][My book covers]]
+
+  --------------
+
+  ** Reviews
+
+  I don't have to agree with a review or blog post to list it, but it helps if I think at least some parts make sense.
+
+  - June 17, 2012: Verity Stob: [[http://www.theregister.co.uk/2013/06/17/verity_stob_is_bjarne_again/][Software >Bjarne Again: Hallelujah for C++]] in The Register.
+  - June 17, 2013: The Meglomaniac Bore [[http://megalomaniacbore.blogspot.com/2013/06/the-c-programming-language-fourth.html][Blog entry]]. ``you can learn something new nearly every other page - even as a seasoned C++ developer I was still updating my knowledge.''
+  - June 8, 2013: Peter Lee: [[http://compublab.com/2013/06/08/the-c-programming-language-4th-edition-bjarne-stroustrup-thou-art-the-man/][The C++ Programming Language (4th edition): Bjarne Stroustrup, Thou Art The Man!]].
+  - [[http://www.amazon.com/The-Programming-Language-4th-Edition/dp/0321563840][Amazon]].  Please ignore the stars and focus on the comments that convey information.  Note that several comments were made before [[http://www.amazon.com/The-Programming-Language-hardcover-Edition/dp/0321958322/ref=tmm_hrd_title_0][hardcover]] and [[http://www.informit.com/store/c-plus-plus-programming-language-9780321563842][electronic]] versions were available.
+
+  --------------
+
+  ** Interviews
+
+  - [[http://www.informit.com/articles/article.aspx?p=2080042&WT.rss_f=Article&WT.rss_a=An%20Interview%20with%20Bjarne%20Stroustrup&WT.rss_ev=a][An interview by Danny Kalev for InformIT]].
+#+end_quote

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       aaf86ecb-2f0c-41f3-803b-7caed0b0784d
+:ROAM_REFS: https://www.hsluv.org/examples/
+:END:
+#+title: (www.hsluv.org) Usage examples - Human-friendly HSL
+#+filetags: :website:

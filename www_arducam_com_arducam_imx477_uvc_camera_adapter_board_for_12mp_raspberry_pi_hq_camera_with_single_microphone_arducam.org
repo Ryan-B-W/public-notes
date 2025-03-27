@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c31c2bfa-9b10-4929-abd4-2d7e41f63616
+:ROAM_REFS: https://www.arducam.com/product/arducam-uvc-camera-adapter-board-for-12mp-imx477-raspberry-pi-hq-camera/
+:END:
+#+title: (www.arducam.com) Arducam IMX477 UVC Camera Adapter Board for 12MP Raspberry Pi HQ Camera with Single Microphone - Arducam
+#+filetags: :electronics:cameras:hardware:store:website:
+* (www.uctronics.com) Arducam CSI-USB UVC Camera Adapter Board for 12.3MP IMX477 Raspberry Pi Camera
+:PROPERTIES:
+:ID:       9a5b1ddb-e3e3-4064-ac52-37089b56df02
+:ROAM_REFS: https://www.uctronics.com/arducam-csi-usb-uvc-camera-adapter-board-for-12-3mp-imx477-raspberry-pi-camera-b0278.html
+:END:

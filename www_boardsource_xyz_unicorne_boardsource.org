@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       edc4fa2e-5c3e-4ad7-9b97-230fd55ec287
+:ROAM_REFS: https://www.boardsource.xyz/products/unicorne
+:END:
+#+title: (www.boardsource.xyz) Unicorne | Boardsource
+#+filetags: :store:keyboard:electronics:website:
+
+#+begin_quote
+  ** Unicorne
+
+  **** Split Keyboard Innovation
+
+  *Ready to type comfortably and pain-free?*
+
+  The *Unicorne* by Boardsource is designed to help *solve ergonomic problems* that traditional keyboards cause, helping you work and type pain-free.  By combining an ergonomic *split layout*, a natural *column-staggered design*, and customizable angles, the Unicorne ensures your wrists, hands, and shoulders stay relaxed, even during long typing sessions.
+#+end_quote

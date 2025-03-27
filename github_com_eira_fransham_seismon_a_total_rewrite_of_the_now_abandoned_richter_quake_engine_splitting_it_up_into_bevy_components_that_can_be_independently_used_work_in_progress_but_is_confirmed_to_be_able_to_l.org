@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       45f5709f-2dbe-4664-afee-dbf56b34adc4
+:ROAM_REFS: https://github.com/eira-fransham/seismon
+:END:
+#+title: (github.com) eira-fransham/seismon: A total rewrite of the now-abandoned Richter Quake engine, splitting it up into Bevy components that can be independently used. Work-in-progress but is confirmed to be able to l…
+#+filetags: :open_source:games:software:website:
+
+#+begin_quote
+  * Seismon
+
+  *** An extensible, modern Quake engine
+
+  Seismon is a Quake engine written in Rust, based on the [[https://bevyengine.org/][Bevy]] framework.  It is extensible, written in a modern ECS style, has a modern deferred and pipelined rendering system, and includes a modern audio framework.  The engine is built of a set of plugins, and much of the work could be extracted to work in other games, especially the console.  Work to extract these pieces out is ongoing.
+
+  To my knowledge, this is the first full from-scratch rewrite of Quake 1, i.e. not built on top of the Quake 1 source code release.
+
+  Bevy has a lot of features related to rendering, audio and state management that in my [[https://github.com/eira-fransham/goeld][previous Quake-related project]] had to be implement manually - specifically, tonemapping/HDR and pipelined rendering.  The audio system has also been completely overhauled, and I even implemented a rewrite of Bevy's default audio framework to allow adding custom DSP effects using [[https://github.com/SamiPerttu/fundsp][=fundsp=]].  The way that it is currently written is very different from [[https://github.com/harudagondi/bevy_fundsp][=bevy_fundsp=]], which is essentially just a helper for writing DSP output to a buffer and then sending that buffer to Bevy's normal audio systems.  All audio is now heirarchically organised into mixers, with each mixer having control over the internal audio processing.  The use-case for this could be that game audio could have reverb applied while the menu audio could be left unchanged.  Mixers are just normal components and can be accessed as such.  The project for the fork of =bevy_audio= is at [[https://github.com/eira-fransham/bevy-mod-dynamicaudio][=bevy-mod-dynamicaudio=]].  The audio effects in the build of the game at time of writing are a subtle reverb and filter delay, but most importantly I have added a limiter so that the game audio doesn't completly blow the speakers out when there are more than a couple of sounds playing at once.
+
+  Based on [[https://github.com/cormac-obrien/richter][Richter]] by Cormac O'Brien, and still shares a lot of its DNA.  It should be at feature parity with Richter but as refactoring work is ongoing some things may be broken temporarily.  Started as a quick project to make Richter run on macOS, but ended up with some 15,000 lines added and 10,000 lines removed.
+#+end_quote

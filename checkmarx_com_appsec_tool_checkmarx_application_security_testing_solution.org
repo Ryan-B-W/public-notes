@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       4b551112-4273-4288-873e-06ea9715fc47
+:ROAM_REFS: https://checkmarx.com/
+:END:
+#+title: (checkmarx.com) Appsec Tool - Checkmarx Application Security Testing Solution
+#+filetags: :security:software_development:software:website:
+
+* (checkmarx.com) View Our Career Opportunities - Checkmarx
+:PROPERTIES:
+:ID:       e8d30758-f8d9-41a6-9927-fd105561f554
+:ROAM_REFS: https://checkmarx.com/company/careers/
+:END:

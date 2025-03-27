@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       c850345c-233e-485f-8cb4-57de2055f408
+:ROAM_REFS: https://www.reddit.com/r/MachineLearning/comments/1cdcbmx/d_what_is_the_state_of_art_for_text_to_speech/
+:END:
+#+title: (www.reddit.com) [D] What is the State of Art for text to speech synthesis? : r/MachineLearning
+#+filetags: :forums:software:website:

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       bb33845d-4e20-4244-9aeb-b9e492a815d3
+:ROAM_REFS: https://x.com/0x_shaq/status/1677006785373442048
+:END:
+#+title: (x.com) faulty *ptrrr (@0x_shaq) on Twitter: "CTF rev players discovering symbolic execution https://t.co/n0G5jBdIQG"
+#+filetags: :security:programming:mathematics:computer_science:website:
+
+Referenced in the post and comments:
+ - [[id:6bc3c353-7b3f-424b-9a69-de01b1a171d9][Z3Prover/z3: The Z3 Theorem Prover]]
+ - [[id:da0dcdbe-b7ce-4b2d-8309-f398cb574c03][angr/angr: A powerful and user-friendly binary analysis platform!]]
+ - [[id:e439a66c-7a3f-4e70-9032-9f1191c713d4][Reverse Engineering 3201: Symbolic Analysis | OpenSecurityTraining2]]
+* See Also
+ - [[id:6dc0e86e-3016-4a1e-987a-569f934e9ca1][Satisfiability Modulo Theories (SMT)]]
+ - [[id:56264da1-94ff-4906-b080-6f3a3e8a2dae][Symbolic Execution, aka Symbolic Analysis, Symbolic Evaluation, or symbex]]

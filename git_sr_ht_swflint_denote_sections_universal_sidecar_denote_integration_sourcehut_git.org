@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       bf7beb59-78c8-4f75-a6f5-814631f50798
+:ROAM_REFS: https://git.sr.ht/~swflint/denote-sections
+:END:
+#+title: (git.sr.ht) ~swflint/denote-sections - Universal Sidecar-Denote integration - sourcehut git
+#+filetags: :lisp:emacs:software:website:
+
+Integration between [[id:aca1324c-b142-4e34-a121-a8bb0a79ddf8][Emacs]]'s [[id:d04add2f-13d3-43e5-8922-8165977b271a][denote]] and [[id:109d6c79-679e-4a58-9955-1811c0da032d][universal sidecar]] packages.
+
+#+begin_quote
+  Denote Sidecar Sections
+
+  This package integrates denote with the Universal Sidecar.  As of now, it provides only one section, a backlinks section to mimic that of org-roam.
+  The backlinks section, denote-sections-backlinks-section may be used as any other, simply add it to universal-sidecar-sections, it has no present customization.
+
+  Citar-Denote
+
+  The citar-denote package provides the ability to link bibliographic entries and notes.  This subpackage provides some further universal-sidecar sections.  These are as follows:
+   - denote-citar-sections-abstract-section will display a formatted abstract if available.
+   - denote-citar-sections-reference-section will display a formatted reference.
+#+end_quote

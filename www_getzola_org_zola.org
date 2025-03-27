@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       17a9efe0-ac38-4245-8902-fde4a62f55e7
+:ROAM_REFS: https://www.getzola.org/
+:END:
+#+title: (www.getzola.org) Zola
+#+filetags: :rust_lang:web_development:static_site_generator:www:website:
+
+Single executable static site generator.  Written in [[id:8d57c4b9-a378-42be-8a0d-30f55b39c869][Rust]].

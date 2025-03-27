@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       5db7a16a-d5d2-4e9a-8304-70f9501b26d2
+:ROAM_REFS: https://www.ama-assn.org/practice-management/hipaa/hipaa-violations-enforcement
+:END:
+#+title: (www.ama-assn.org) HIPAA violations & enforcement | American Medical Association
+#+filetags: :regulations:law:website:

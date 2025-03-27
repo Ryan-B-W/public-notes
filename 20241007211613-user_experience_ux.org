@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       7a1c5720-4743-433b-9d21-59ace486d39a
+:END:
+#+title: User Experience (UX)
+#+filetags: :design:human_interaction:
+
+User experience—commonly shortened as UX—refers to the interactions a user has with a product, system, or service.  It is also used to refer to the discipline and practice of studying and designing user experiences.  Commonly conflated with, but distinct from, [[id:b9ce61e4-2fd7-460e-8583-2a3128d05dd6][User Interface (UI)]].
+* (en.wikipedia.org) User experience - Wikipedia                    :website:
+:PROPERTIES:
+:ID:       9ea939f4-00b7-41d7-9219-00fe43b0081f
+:ROAM_REFS: https://en.wikipedia.org/wiki/User_experience
+:END:
+
+#+begin_quote
+  User experience (UX) is how a user interacts with and experiences a product, system or service.  It includes a person's perceptions of utility, ease of use, and efficiency.  Improving user experience is important to most companies, designers, and creators when creating and refining products because negative user experience can diminish the use of the product and, therefore, any desired positive impacts.  Conversely, designing toward profitability as a main objective often conflicts with ethical user experience objectives and even causes harm.  User experience is subjective.  However, the attributes that make up the user experience are objective.
+#+end_quote

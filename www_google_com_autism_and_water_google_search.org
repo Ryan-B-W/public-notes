@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       f68253be-dc61-4191-bd58-a4a45b6875af
+:ROAM_REFS: https://www.google.com/search?q=autism+and+water
+:END:
+#+title: (www.google.com) autism and water - Google Search
+#+filetags: :mental_health:autism:searches:website:
+
+Results:
+* (www.autismfl.org) Why Water? The Science Behind Our Attraction to Aquatic Environments :article:mental_health:autism:website:
+:PROPERTIES:
+:ID:       264b96d0-9ab7-4945-97be-8b523f213ec9
+:ROAM_REFS: https://www.autismfl.org/post/why-water-the-science-behind-our-attraction-to-aquatic-environments
+:END:
+* (www.autismparentingmagazine.com) A Look at the Connection Between Autism and Water - Autism Parenting Magazine :article:mental_health:autism:website:
+:PROPERTIES:
+:ID:       ddfc0910-8b25-41a2-96a8-3478d8589dbe
+:ROAM_REFS: https://www.autismparentingmagazine.com/connection-autism-water/
+:END:
+* (www.angelsense.com) Why Are Children with Autism Drawn to Water? - AngelSense :article:mental_health:autism:website:
+:PROPERTIES:
+:ID:       0e667554-5bf5-4944-9ebb-83bd33e263a5
+:ROAM_REFS: https://www.angelsense.com/blog/autistic-children-drawn-water/
+:END:
+* (www.autismspeaks.org) Swim and water safety | Autism Speaks :article:mental_health:autism:website:
+:PROPERTIES:
+:ID:       86eade65-1fe0-401c-a617-877b8bd5db88
+:ROAM_REFS: https://www.autismspeaks.org/tool-kit-excerpt/swim-and-water-safety
+:END:

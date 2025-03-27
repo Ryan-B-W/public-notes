@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       9022708b-15a3-47a5-b37e-6ddf49b765a1
+:ROAM_REFS: https://discourse.doomemacs.org/t/turn-smartparens-strict-mode-on-for-clojure-mode/2502
+:END:
+#+title: (discourse.doomemacs.org) Turn smartparens-strict-mode ON for clojure-mode - Discussion - Doom Emacs Discourse
+#+filetags: :emacs_lisp:lisp:emacs:forums:website:

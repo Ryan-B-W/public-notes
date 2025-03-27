@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       1f8af048-574c-4ed1-b206-d9b2fe5e27d4
+:ROAM_REFS: https://github.com/EduApps-CDG/OpenDX/
+:END:
+#+title: (github.com) EduApps-CDG/OpenDX: Bring DirectX to Linux! This is a Open Source DirectX implementation for Linux, providing native support for DirectX-based applications and games, without relying on Wine's Windows compatibility layer.
+#+filetags: :linux:open_source:microsoft_windows:programming:software:website:
+
+#+begin_quote
+  OpenDX is a fully-featured implementation of DirectX for the Linux operating system, without the need for compatibility layers or emulators.  This allows Linux developers to build DirectX games and applications with improved performance thanks to Linux's built-in Direct Rendering Manager (DRM).
+#+end_quote

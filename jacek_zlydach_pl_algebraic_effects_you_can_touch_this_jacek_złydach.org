@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       f54613f2-d9fb-4a81-889e-82002685d8bd
+:ROAM_REFS: http://jacek.zlydach.pl/blog/2019-07-24-algebraic-effects-you-can-touch-this.html
+:END:
+#+title: (jacek.zlydach.pl) Algebraic Effects - You Can Touch This! — Jacek Złydach
+#+filetags: :blog_post:common_lisp:lisp:website:
+
+#+begin_quote
+  An article by Dan Abramov (of React fame) has been making rounds today on the Internet.  It introduces readers to a body of theoretical work called "algebraic effects", providing an overview and a set of examples of how these ideas could be implemented in hypothetical extension to JavaScript.
+  What jumped at me in this article were two things.  First, that the article claims this field of work is still theoretical, "only supported by a few languages that were created specifically to explore that idea" and definitely not production-ready.  Second, that I've seen code like the article's examples before - in fact, I write similar code frequently, both in professional and hobby settings.  The presented examples are a JavaScript pseudocode version of the Common Lisp's conditions and restarts system.
+  To be completely honest: I'm not familiar with the body of work under the name of "algebraic effects", though I've learned it has a larger scope than what's described here and in the original article (see remarks at the end of this post).  However, Dan's article describes a subset that's in actual, practical use, so this is what this article focuses on.
+#+end_quote

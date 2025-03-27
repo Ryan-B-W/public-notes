@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       417c0d0b-c68b-4e8f-859f-80178c11d427
+:ROAM_REFS: https://antennapod.org/
+:END:
+#+title: (antennapod.org) AntennaPod – The Open Podcast Player
+#+filetags: :software:website:
+
+#+begin_quote
+  The Open Podcast Player
+  AntennaPod is a podcast player that is completely open.  The app is open-source and you can subscribe to any RSS feed.  AntennaPod is built by volunteers without commercial interest, so it respects your privacy while giving you full control.
+#+end_quote

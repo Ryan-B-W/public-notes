@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       b8e8bb85-bf2c-4e93-9820-8efb40f7eaef
+:END:
+#+title: Org Mode English Paper Template
+#+filetags: :template:
+
+Attached is a template for an [[id:5ab4a0b0-95e2-40cf-b924-709db3115d48][Org Mode]] based English class-style paper using MLA style rules.

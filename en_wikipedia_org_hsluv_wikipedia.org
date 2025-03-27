@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       e306ba36-1eea-45ed-af6f-97b7c203c780
+:ROAM_REFS: https://en.wikipedia.org/wiki/HSLuv
+:END:
+#+title: (en.wikipedia.org) HSLuv - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Colorimetry][colorimetry]], the *HSLuv* *color space* is a human-friendly alternative to the [[https://en.wikipedia.org/wiki/HSL_and_HSV][HSL]] [[https://en.wikipedia.org/wiki/Color_space][color space]].  It was formerly known as "husl".  It is a variation of the CIE LCH(uv) color space, where the C ([[https://en.wikipedia.org/wiki/Colorfulness][colorfulness]]) component is replaced by a "Saturation" (S) component representing the colorfulness percentage relative to the maximum sRGB can provide given the L and H values.  The value has nothing to do with "saturation" in color theory.
+#+end_quote

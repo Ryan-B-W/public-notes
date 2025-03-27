@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d4b3f862-f320-4082-81fc-497eeda46f06
+:ROAM_REFS: https://www.gnu.org/software/guile/manual/html_node/PEG-Parsing.html
+:END:
+#+title: (www.gnu.org) PEG Parsing (Guile Reference Manual)
+#+filetags: :scheme:lisp:programming_language:programming:computer_science:
+
+#+begin_quote
+  *** 6.15 PEG Parsing [[https://www.gnu.org/software/guile/manual/html_node/PEG-Parsing.html#PEG-Parsing-1][¶]]
+
+  Parsing Expression Grammars (PEGs) are a way of specifying formal languages for text processing. They can be used either for matching (like regular expressions) or for building recursive descent parsers (like lex/yacc). Guile uses a superset of PEG syntax that allows more control over what information is preserved during parsing.
+
+  Wikipedia has a clear and concise introduction to PEGs if you want to familiarize yourself with the syntax: [[http://en.wikipedia.org/wiki/Parsing_expression_grammar]].
+
+  The =(ice-9 peg)= module works by compiling PEGs down to lambda expressions. These can either be stored in variables at compile-time by the define macros (=define-peg-pattern= and =define-peg-string-patterns=) or calculated explicitly at runtime with the compile functions (=compile-peg-pattern= and =peg-string-compile=).
+
+  They can then be used for either parsing (=match-pattern=) or searching (=search-for-pattern=). For convenience, =search-for-pattern= also takes pattern literals in case you want to inline a simple search (people often use regular expressions this way).
+
+  The rest of this documentation consists of a syntax reference, an API reference, and a tutorial.
+#+end_quote
+* See Also
+** [[id:f6311b42-cf2d-490f-ac69-0075b82828b9][(www.gnu.org) Top (Guile Reference Manual)]]

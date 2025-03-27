@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       1ec90eb7-9d3c-401e-875c-f5db5b18c42e
+:ROAM_REFS: https://github.com/emacs-evil/evil-cleverparens
+:END:
+#+title: (github.com) emacs-evil/evil-cleverparens: Evil normal-state minor-mode for editing lisp-like languages
+#+filetags: :emacs_lisp:lisp:emacs:software:website:
+
+A solid package for making [[id:aca1324c-b142-4e34-a121-a8bb0a79ddf8][Emacs]] [[id:a5094857-0ab6-4566-b32d-6cb9adae21fc][Evil Mode]] play nice with [[id:8278042c-72a7-4eac-806f-e369ffdd82c3][Smartparens]].  It even provides [[id:37c53f5b-c586-41ff-a4fe-b44c05ed3c1f][Vim]] text objects.
+
+#+begin_quote
+  evil-cleverparens is modal-editing optimized for editing Lisp.  It works under the following principles:
+   1. Act like Vim/evil where useful, but prevent actions that would throw the order of your parentheses and other delimiters into question.
+   2. Make the most out of the combination of structural and modal editing.
+   3. Provide but don't force additional features on the user.
+#+end_quote

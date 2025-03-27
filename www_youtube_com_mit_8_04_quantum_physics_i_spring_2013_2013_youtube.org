@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       905cf917-3801-481a-a936-5ae494b61a8d
+:ROAM_REFS: https://www.youtube.com/playlist?list=PLUl4u3cNGP61-9PEhRognw5vryrSEVLPr
+:END:
+#+title: (www.youtube.com) MIT 8.04 Quantum Physics I, Spring 2013 (2013) - YouTube
+#+filetags: :physics:education_resource:playlist:video:website:
+
+#+begin_quote
+  MIT 8.04 Quantum Physics I, Spring 2013 (2013)
+
+  View the complete course: http://ocw.mit.edu/8-04S13
+  Instructor: Allan Adams
+
+  This course covers the experimental basis of quantum physics.  It introduces wave mechanics, Schrödinger's equation in a single dimension, and Schrödinger's equation in three dimensions.
+
+  License: Creative Commons BY-NC-SA
+  More information at http://ocw.mit.edu/terms
+  More courses at http://ocw.mit.edu
+#+end_quote

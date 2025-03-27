@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       cacd68fe-900c-4519-8505-f55adcbebbf7
+:ROAM_REFS: https://github.com/Danipulok/mikumikubeam
+:END:
+#+title: (github.com) Danipulok/mikumikubeam: An open-source network stresser tool but it's Hatsune Miku
+#+filetags: :networking:software:website:
+
+#+begin_quote
+  * Miku Miku Beam 💥⚡ (Network Stresser)
+
+  A fun and visually appealing stress testing server with a *Miku-themed* frontend, where you can configure and run attacks while enjoying a banger song in the background! 🎤✨
+#+end_quote

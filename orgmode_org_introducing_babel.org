@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       ec0c5002-2e7f-4bc5-8d90-bfb33c34c959
+:ROAM_REFS: https://orgmode.org/worg/org-contrib/babel/intro.html
+:END:
+#+title: (orgmode.org) Introducing Babel
+#+filetags: :emacs:website:
+
+* Emacs Initialization with Babel
+:PROPERTIES:
+:ID:       60593635-ad78-4475-938a-cbab0b118426
+:ROAM_REFS: https://orgmode.org/worg/org-contrib/babel/intro.html#emacs-initialization
+:END:
+#+begin_quote
+  Babel has special support for embedding your Emacs initialization into Org files.  The org-babel-load-file function can be used to load the Emacs Lisp code blocks embedded in a literate Org file in the same way that you might load a regular Emacs Lisp file, such as .emacs.
+  This allows you to make use of Org features, such as folding, tags, notes, HTML export, etc., to organize and maintain your Emacs initialization.
+#+end_quote

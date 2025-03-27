@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       7ef1b6f5-a1d0-4cbe-ae1d-88d56c36edc4
+:ROAM_REFS: https://en.wikipedia.org/wiki/Smart_card
+:END:
+#+title: (en.wikipedia.org) Smart card - Wikipedia
+#+filetags: :electronics:website:
+
+#+begin_quote
+  A *smart card* (*SC*), *chip card*, or *integrated circuit card* (*ICC* or *IC card*), is a card used to control access to a resource.  It is typically a plastic credit card-sized card with an [[https://en.wikipedia.org/wiki/Embedded_system][embedded]] integrated circuit (IC) chip.  Many smart cards include a pattern of metal contacts to electrically connect to the internal chip.  Others are [[https://en.wikipedia.org/wiki/Contactless_smart_card][contactless]], and some are both.  Smart cards can provide personal identification, authentication, data storage, and application processing.  Applications include identification, financial, public transit, computer security, schools, and healthcare.  Smart cards may provide strong security authentication for single sign-on (SSO) within organizations.  Numerous nations have deployed smart cards throughout their populations.
+
+  The [[https://en.wikipedia.org/wiki/Universal_integrated_circuit_card][universal integrated circuit card]] (UICC) for mobile phones, installed as pluggable [[https://en.wikipedia.org/wiki/SIM_card][SIM card]] or embedded [[https://en.wikipedia.org/wiki/ESIM][eSIM]], is also a type of smart card.  As of 2015, 10.5 billion smart card IC chips are manufactured annually, including 5.44 billion SIM card IC chips.
+#+end_quote

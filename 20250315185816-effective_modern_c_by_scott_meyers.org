@@ -1,0 +1,200 @@
+:PROPERTIES:
+:ID:       c724183c-b996-49d0-8095-0dfd5f8500f2
+:END:
+#+title: Effective Modern C++ by Scott Meyers
+#+filetags: :education_resource:cpp_lang:programming:computer_science:books:
+
+* (www.oreilly.com) Effective Modern C++[Book]                      :website:
+:PROPERTIES:
+:ID:       92d16f8d-a1f3-41e4-8eeb-14edab6f948d
+:ROAM_REFS: https://www.oreilly.com/library/view/effective-modern-c/9781491908419/
+:END:
+
+#+begin_quote
+  * Effective Modern C++
+
+  Released
+
+  Publisher(s): O'Reilly Media, Inc.
+
+  ISBN: None
+
+  Read it now on the O'Reilly learning platform with a 10-day free trial.
+
+  O'Reilly members get unlimited access to books, live events, courses curated by job role, and more from O'Reilly and nearly 200 top publishers.
+
+  [[https://learning.oreilly.com/start-trial/?next=/library/view/effective-modern-c/9781491908419/][Start your free trial]]
+
+  ** Book description
+
+  None
+
+  Show and hide more
+
+  ** Table of contents
+
+  1. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/copyright-page01.html#idm396512][Copyright/Revision History]]
+  2. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/preface01.html#_preface][From the Publisher]]
+     1. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/preface01.html#_using_code_examples][Using Code Examples]]
+     2. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/preface01.html#_safari_books_online][SafariÂ® Books Online]]
+     3. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/preface01.html#_how_to_contact_us][How to Contact Us]]
+  3. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/preface02.html#acknowledgments][Acknowledgments]]
+  4. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/introduction01.html#introduction][Introduction]]
+     1. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/introduction01.html#terminology_and_conventions][Terminology and Conventions]]
+     2. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/introduction01.html#reporting_bugs_and_suggesting_improvemen][Reporting Bugs and Suggesting Improvements]]
+  5. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch01.html#deducing_types][1. Deducing Types]]
+     1. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch01.html#understand_template_type_deduction][Item 1:â€‚Understand template type deduction.]]
+        1. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch01.html#case_1_paramtype_is_a_reference_or_point][Case 1: ParamType is a Reference or Pointer, but not a Universal Reference]]
+        2. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch01.html#case_2_paramtype_is_a_universal_referenc][Case 2: ParamType is a Universal Reference]]
+        3. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch01.html#case_3_paramtype_is_neither_a_pointer_no][Case 3: ParamType is Neither a Pointer nor a Reference]]
+        4. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch01.html#array_arguments][Array Arguments]]
+        5. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch01.html#function_arguments][Function Arguments]]
+     2. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch01.html#understand_auto_type_deduction][Item 2:â€‚Understand auto type deduction.]]
+     3. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch01.html#understand_decltype][Item 3:â€‚Understand decltype.]]
+     4. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch01.html#know_how_to_view_deduced_types][Item 4:â€‚Know how to view deduced types.]]
+        1. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch01.html#ide_editors][IDE Editors]]
+        2. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch01.html#compiler_diagnostics][Compiler Diagnostics]]
+        3. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch01.html#runtime_output][Runtime Output]]
+  6. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch02.html#auto][2. auto]]
+     1. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch02.html#prefer_auto_to_explicit_type_declaration][Item 5:â€‚Prefer auto to explicit type declarations.]]
+     2. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch02.html#use_the_explicitly_typed_initializer_idi][Item 6:â€‚Use the explicitly typed initializer idiom when auto deduces undesired types.]]
+  7. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch03.html#moving_to_modern_cplusplus][3. Moving to Modern C++]]
+     1. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch03.html#distinguish_between_left_parenthesisrigh][Item 7:â€‚Distinguish between () and {} when creating objects.]]
+     2. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch03.html#prefer_nullptr_to_0_and_null][Item 8:â€‚Prefer nullptr to 0 and NULL.]]
+     3. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch03.html#prefer_alias_declarations_to_typedefs][Item 9:â€‚Prefer alias declarations to typedefs.]]
+     4. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch03.html#prefer_scoped_enums_to_unscoped_enums][Item 10:â€‚Prefer scoped enums to unscoped enums.]]
+     5. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch03.html#prefer_deleted_functions_to_private_unde][Item 11:â€‚Prefer deleted functions to private undefined ones.]]
+     6. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch03.html#declare_overriding_functions_override][Item 12:â€‚Declare overriding functions override.]]
+     7. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch03.html#prefer_const_iterators_to_iterators][Item 13:â€‚Prefer const_iterators to iterators.]]
+     8. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch03.html#declare_functions_noexcept_if_they_wonap][Item 14:â€‚Declare functions noexcept if they wonâ€™t emit exceptions.]]
+     9. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch03.html#use_constexpr_whenever_possible][Item 15:â€‚Use constexpr whenever possible.]]
+     10. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch03.html#make_const_member_functions_thread-safe][Item 16:â€‚Make const member functions thread safe.]]
+     11. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch03.html#understand_special_member_function_gener][Item 17:â€‚Understand special member function generation.]]
+  8. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch04.html#smart_pointers][4. Smart Pointers]]
+     1. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch04.html#use_stdunique_ptr_for_exclusive-ownershi][Item 18:â€‚Use std::unique_ptr for exclusive-ownership resource management.]]
+     2. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch04.html#use_stdshared_ptr_for_shared-ownership_r][Item 19:â€‚Use std::shared_ptr for shared-ownership resource management.]]
+     3. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch04.html#use_stdweak_ptr_for_stdshared_ptr-like_p][Item 20:â€‚Use std::weak_ptr for std::shared_ptr-like pointers that can dangle.]]
+     4. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch04.html#prefer_stdmake_unique_and_stdmake_shared][Item 21:â€‚Prefer std::make_unique and std::make_shared to direct use of new.]]
+     5. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch04.html#when_using_the_pimpl_idiomcomma_define_s][Item 22:â€‚When using the Pimpl Idiom, define special member functions in the implementation file.]]
+  9. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch05.html#rvalue_referencescomma_move_semanticscom][5. Rvalue References, Move Semantics, and Perfect Forwarding]]
+     1. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch05.html#understand_stdmove_and_stdforward][Item 23:â€‚Understand std::move and std::forward.]]
+     2. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch05.html#distinguish_universal_references_from_rv][Item 24:â€‚Distinguish universal references from rvalue references.]]
+     3. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch05.html#use_stdmove_on_rvalue_referencescomma_st][Item 25:â€‚Use std::move on rvalue references, std::forward on universal references.]]
+     4. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch05.html#avoid_overloading_on_universal_reference][Item 26:â€‚Avoid overloading on universal references.]]
+     5. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch05.html#familiarize_yourself_with_alternatives_t][Item 27:â€‚Familiarize yourself with alternatives to overloading on universal references.]]
+        1. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch05.html#abandon_overloading][Abandon overloading]]
+        2. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch05.html#pass_by_const_tampersand][Pass by const T&]]
+        3. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch05.html#pass_by_value][Pass by value]]
+        4. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch05.html#use_tag_dispatch][Use Tag dispatch]]
+        5. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch05.html#constraining_templates_that_take_univers][Constraining templates that take universal references]]
+        6. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch05.html#trade-offs][Trade-offs]]
+     6. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch05.html#understand_reference_collapsing][Item 28:â€‚Understand reference collapsing.]]
+     7. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch05.html#assume_that_move_operations_are_not_pres][Item 29:â€‚Assume that move operations are not present, not cheap, and not used.]]
+     8. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch05.html#familiarize_yourself_with_perfect_forwar][Item 30:â€‚Familiarize yourself with perfect forwarding failure cases.]]
+        1. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch05.html#braced_initializers][Braced initializers]]
+        2. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch05.html#zero_or_null_as_null_pointers][0 or NULL as null pointers]]
+        3. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch05.html#declaration-only_integral_static_const_d][Declaration-only integral static const and constexpr data members]]
+        4. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch05.html#overloaded_function_names_and_template_n][Overloaded function names and template names]]
+        5. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch05.html#bitfields][Bitfields]]
+        6. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch05.html#upshot][Upshot]]
+  10. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch06.html#lambda_expressions][6. Lambda Expressions]]
+      1. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch06.html#avoid_default_capture_modes][Item 31:â€‚Avoid default capture modes.]]
+      2. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch06.html#use_init_capture_to_move_objects_into_cl][Item 32:â€‚Use init capture to move objects into closures.]]
+      3. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch06.html#use_decltype_on_autoampersandampersand_p][Item 33:â€‚Use decltype on auto&& parameters to std::forward them.]]
+      4. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch06.html#prefer_lambdas_to_stdbind][Item 34:â€‚Prefer lambdas to std::bind.]]
+  11. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch07.html#concurrency_api][7. The Concurrency API]]
+      1. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch07.html#prefer_task-based_programming_to_thread][Item 35:â€‚Prefer task-based programming to thread-based.]]
+      2. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch07.html#specify_stdlaunchasync_if_asynchronicity][Item 36:â€‚Specify std::launch::async if asynchronicity is essential.]]
+      3. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch07.html#make_stdthreads_unjoinable_on_all_paths][Item 37:â€‚Make std::threads unjoinable on all paths.]]
+      4. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch07.html#be_aware_of_varying_thread_handle_destru][Item 38:â€‚Be aware of varying thread handle destructor behavior.]]
+      5. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch07.html#consider_void_futures_for_one-shot_event][Item 39:â€‚Consider void futures for one-shot event communication.]]
+      6. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch07.html#use_stdatomic_for_concurrencycomma_volat][Item 40:â€‚Use std::atomic for concurrency, volatile for special memory.]]
+  12. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch08.html#tweaks][8. Tweaks]]
+      1. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch08.html#consider_pass_by_value_for_copyable_para][Item 41:â€‚Consider pass by value for copyable parameters that are cheap to move and always copied.]]
+      2. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch08.html#consider_emplacement_instead_of_insertio][Item 42:â€‚Consider emplacement instead of insertion.]]
+  13. [[https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ix01.html#idp7554256][Index]]
+#+end_quote
+* (www.aristeia.com) Scott Meyers: Effective Modern C++             :website:
+:PROPERTIES:
+:ID:       7e12c466-c8f3-4801-b7f2-81098da5e71b
+:ROAM_REFS: https://www.aristeia.com/EMC++.html
+:END:
+
+#+begin_quote
+  * Scott Meyers Training Courses: Effective Modern C++
+
+  Truly understanding C++11 and C++14 requires more than just familiarizing yourself with =auto= type declarations, move semantics, lambda expressions, concurrency support, etc.  You also need to learn how to use those features /effectively/ so that your software is correct, efficient, maintainable, and portable.  That's where this seminar comes in.  It describes how to write truly great software using C++11 and C++14---i.e. using /modern C++/.
+
+  This course is based on Scott's best-selling [[http://www.jdoqocy.com/click-7708709-11290546?url=http://shop.oreilly.com/product/0636920033707.do?cmp=af-code-books-video-product_cj_0636920033707_%zp&cjsku=0636920033707][/Effective Modern C++/]].  All attendees will receive a copy of this book.
+
+  ** Course Highlights
+
+  Participants will gain:
+
+  - Familiarity with how best practices in "old" C++ programming (i.e., C++98) change for modern C++.
+  - Awareness of the often-subtle performance implications of modern C++ features and techniques.
+  - An understanding of the relationships among =std::move=, =std::forward=, rvalue references, and universal references.
+  - Techniques for writing clear, correct, /effective/ lambda expressions.
+  - Insights into the pros and cons of braced initialization, =noexcept= specifications, perfect forwarding, and smart pointer =make= functions.
+
+  ** Who Should Attend
+
+  Systems designers, programmers, and technical managers involved in the design, implementation, and maintenance of libraries and applications using C++11 and C++14.  Participants should be familiar with the fundamental concepts introduced by C++11 (e.g., move semantics, multithreading, lambda expressions, smart pointers, etc.), but expertise is not required. (One way to acquire the appropriate background is through Scott's more introductory course, [[https://www.aristeia.com/C++11.html][An Overview of the New C++ (C++11/14)]]).
+
+  ** Format
+
+  Lecture and question/answer.  There are no hands-on exercises, but participants are welcome --- /encouraged!/ --- to bring computers to experiment with the material as it is presented.
+
+  ** Length
+
+  Four full days (six to seven lecture hours per day).
+
+  ** Detailed Topic Outline
+
+  - Preliminaries
+    - Distinguish lvalues and rvalues.
+    - Understand type deduction.
+      - (=auto=-related) template type deduction
+      - =auto= type deduction
+      - Observing deduced types
+      - =decltype= type deduction
+      - Function return type deduction
+    - Understand =std::move= and =std::forward=.
+  - Moving to Modern C++
+    - Prefer =auto= to explicit types when declaring objects.
+    - Remember that =auto= + ={ =/=expr=/= }= ⇒ =std::initializer_list=.
+    - Distinguish =()= and ={}= when creating objects.
+    - Prefer =nullptr= to =0= and =NULL=.
+    - Prefer scoped enums to unscoped enums.
+    - Prefer deleted functions to private undefined ones.
+    - Declare overriding functions =override=.
+    - Declare functions =noexcept= if they won't emit exceptions.
+    - Use =constexpr= whenever possible.
+    - Make =const= member functions thread-safe.
+  - Smart Pointers
+    - Use =std::unique_ptr= for exclusive-ownership resource management.
+    - Use =std::shared_ptr= for shared-ownership resource management.
+    - Prefer =std::make_unique= and =std::make_shared= to direct use of =new=.
+  - Rvalue References, Move Semantics, and Perfect Forwarding
+    - Distinguish universal references from rvalue references.
+    - Pass and return rvalue references via =std::move=, universal references via =std::forward=.
+    - Avoid overloading on universal references.
+    - Understand reference collapsing.
+    - Assume that move operations are not present, not cheap, and not used.
+    - Familiarize yourself with perfect forwarding failure cases.
+  - Lambda Expressions
+    - Avoid default capture modes.
+    - Use init capture to move objects into closures.
+    - Prefer lambdas to =std::bind=.
+  - The Concurrency API
+    - Make =std::thread=s unjoinable on all paths.
+    - Use =std::launch::async= with =std::async= if asynchronicity is essential.
+    - Be aware of varying thread handle destructor behavior.
+    - Create tasks, not threads.
+    - Consider =void= futures for one-shot event communication.
+  - Miscellaneous
+    - Consider emplacement instead of insertion.
+  - Resources for Further Information
+
+  For more information on this course, [[https://www.aristeia.com/contactinfo.html][contact Scott directly]].
+#+end_quote

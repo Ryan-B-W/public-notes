@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       2e954fa3-209d-4bbc-a637-1476d50fc66e
+:ROAM_REFS: https://en.wikipedia.org/wiki/Floating-point_arithmetic
+:END:
+#+title: (en.wikipedia.org) Floating-point arithmetic - Wikipedia
+#+filetags: :computer_science:mathematics:website:

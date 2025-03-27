@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       1869e56d-f8ef-4f21-9efc-d319c14330a9
+:ROAM_REFS: https://en.wikipedia.org/wiki/Radio_calisthenics
+:END:
+#+title: (en.wikipedia.org) Radio calisthenics - Wikipedia
+#+filetags: :japan:exercise:website:
+
+#+begin_quote
+  Radio calisthenics (ラジオ体操, rajio taisō, literally, "radio exercises") are warm-up calisthenics performed to music and guidance from radio broadcasts.  Originating from the United States, they are popular in Japan and parts of China, North Korea and Taiwan.
+#+end_quote

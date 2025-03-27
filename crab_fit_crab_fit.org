@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       52f66cde-3c81-46e3-817f-1aff896be631
+:ROAM_REFS: https://crab.fit/
+:END:
+#+title: (crab.fit) Crab Fit
+#+filetags: :website:
+
+Meeting time scheduler and voting tool.
+
+#+begin_quote
+  About Crab Fit
+  Crab Fit helps you fit your event around everyone's schedules.  Simply create an event above and send the link to everyone that is participating.  Results update live and you will be able to see a heat-map of when everyone is free.
+#+end_quote

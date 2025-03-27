@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       9a22c5ea-b5f0-4bf3-a313-738fb89d1d7b
+:ROAM_REFS: https://github.com/Fuco1/.emacs.d/blob/master/files/smartparens.el
+:END:
+#+title: (github.com) .emacs.d/files/smartparens.el at master · Fuco1/.emacs.d
+#+filetags: :configuration:emacs_lisp:lisp:emacs:software:website:
+
+More-or-less the stock configuration of [[id:8278042c-72a7-4eac-806f-e369ffdd82c3][Smartparens]].

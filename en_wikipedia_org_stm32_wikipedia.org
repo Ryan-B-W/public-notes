@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       86d04d68-340e-45d3-af30-7b96181ac0c5
+:ROAM_REFS: https://en.wikipedia.org/wiki/STM32
+:END:
+#+title: (en.wikipedia.org) STM32 - Wikipedia
+#+filetags: :microcontroller:electronics:website:
+
+#+begin_quote
+  *STM32* is a family of 32-bit [[https://en.wikipedia.org/wiki/Microcontroller][microcontroller]] [[https://en.wikipedia.org/wiki/Integrated_circuit][integrated circuits]] by [[https://en.wikipedia.org/wiki/STMicroelectronics][STMicroelectronics]].  The STM32 chips are grouped into related series that are based around the same [[https://en.wikipedia.org/wiki/32-bit][32-bit]] [[https://en.wikipedia.org/wiki/ARM_architecture][ARM]] processor core: [[https://en.wikipedia.org/wiki/ARM_Cortex-M0][Cortex-M0]], [[https://en.wikipedia.org/wiki/ARM_Cortex-M0+][Cortex-M0+]], [[https://en.wikipedia.org/wiki/ARM_Cortex-M3][Cortex-M3]], [[https://en.wikipedia.org/wiki/ARM_Cortex-M4][Cortex-M4]], [[https://en.wikipedia.org/wiki/ARM_Cortex-M#Cortex-M7][Cortex-M7]], [[https://en.wikipedia.org/wiki/ARM_Cortex-M#Cortex-M33][Cortex-M33]].  Internally, each microcontroller consists of ARM processor core(s), [[https://en.wikipedia.org/wiki/Flash_memory][flash memory]], [[https://en.wikipedia.org/wiki/Static_RAM][static RAM]], debugging interface, and various peripherals.
+#+end_quote

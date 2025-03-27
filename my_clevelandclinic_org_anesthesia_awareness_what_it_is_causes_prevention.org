@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       faa84702-2aa6-4d57-8dd1-cc468a1c90a1
+:ROAM_REFS: https://my.clevelandclinic.org/health/articles/anesthesia-awareness
+:END:
+#+title: (my.clevelandclinic.org) Anesthesia Awareness: What It Is, Causes & Prevention
+#+filetags: :medicine:website:
+
+#+begin_quote
+  Anesthesia awareness happens when you become conscious or “wake up” during surgery under general anesthesia.  It’s rare, occurring in one or two out of every 1,000 cases.  People with anesthesia awareness report things like feeling pressure or hearing conversations that happened during their procedure.
+#+end_quote

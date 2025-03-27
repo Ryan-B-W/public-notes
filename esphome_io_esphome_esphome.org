@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       a1234912-d404-4993-be52-a45900351e4d
+:ROAM_REFS: https://esphome.io/
+:END:
+#+title: (esphome.io) ESPHome — ESPHome
+#+filetags: :automation:hardware:documentation:electronics:website:
+
+#+begin_quote
+  ESPHome is a system to control your microcontrollers by simple yet powerful configuration files and control them remotely through Home Automation systems.
+#+end_quote

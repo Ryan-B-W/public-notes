@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       e4237d9e-ce42-4702-add1-744a1a04190f
+:END:
+#+title: Is Learning as Much About the Past as Possible in Order to Avoid Mistakes Already Made Most Optimal or is Forging Ahead Ignorant of the Past Better
+#+filetags: :philosophy:open_questions:
+
+Inspired by the famous quote of [[id:7ca93552-d506-4f4e-bc29-fc15e9d9f489][George Santayana]] "[[id:ea41f2ad-fc4a-421f-b675-206e328ae1a3][Those who cannot remember the past are condemned to repeat it]]".  Which strategy is better?  Which ratio is best?  Is it actually better to spend a vast amount of time learning about the past to avoid mistakes already made, or is it actually a waste of time?  Does it only look foolish to repeat mistakes that are easily spotted in the past with the benefit of hindsight and in fact actually waste less time by not needlessly researching the past?  Or is there a benefit to doing some amount of research first?  If so, what is the optimal mix?

@@ -1,0 +1,117 @@
+:PROPERTIES:
+:ID:       eb6cee5b-daaf-47cd-9abe-6cd7874f9ef4
+:END:
+#+title: C++ Move Semantics: The Complete Guide by Nicolai M. Josuttis
+#+filetags: :education_resource:cpp_lang:programming:computer_science:books:
+
+* (www.cppmove.com) Nicolai M. Josuttis: C++ Move Semantics - The Complete Guide :website:
+:PROPERTIES:
+:ID:       44f24df5-b561-4d35-86e8-234f24ef780a
+:ROAM_REFS: https://www.cppmove.com/ https://www.cppmove.com/cppmove.html
+:END:
+
+#+begin_quote
+  ** */C++ Move Semantics - The Complete Guide/*
+
+  *by Nicolai M. Josuttis*
+
+  - Giving guidance on how to use *Language and Library Features of Move Semantics*
+  - For programmers, who want understand and benefit from one of the most important features of Modern C++
+
+  This book was written and published incrementally (step-by-step) at [[https://leanpub.com/cppmove][leanpub]],
+  so that readers could benefit from it without waiting until all is done.
+  And I got early feedback from readers to improve the content.
+  The first version was available in January, 2020.
+
+  Now, I am done. *All features are covered.*
+
+  *[[http://www.amazon.com/dp/3967309002][Order the printed book here]]*
+
+  *[[http://leanpub.com/cppmove][Order the ebook here]]*
+
+  *Move semantics*, introduced with C++11, has become a hallmark of modern C++ programming.  However, it also complicates the language in many ways.  After several years of support for move semantics, experienced programmers still struggle with all the details.  Even for trivial classes, style guides give conflicting or inappropriate advice on how to benefit from move semantics.
+
+  Time to explain all aspects of C++ move semantics in detail.
+
+  This book teaches C++ move semantics.  Starting from the basic principles, it motivates and explains all the corner cases of move semantics so that as a programmer, you can use move semantics correctly.  The book is valuable for those who are just starting to learn about move semantics and is essential for those who are using it already.
+
+  You will learn:
+  - The motivation for and terminology of move semantics
+  - How and why you benefit implicitly from move semantics
+  - How to benefit explicitly from move semantics
+  - All the traps involved in move semantics and how to deal with them
+  - All the consequences of move semantics for your programming style
+
+  As usual for books by Nicolai Josuttis, the focus lies on the application of the features described in practice.  Compelling examples and useful background information help you to understand and improve code, from trivial classes up to generic foundation libraries and frameworks.
+
+  *[[http://www.josuttis.com/welcomee.html][Nicolai M. Josuttis]]* is well known in the programming community for his authoritative books and talks.  For more than 20 years he is a member of the C++ Standard Committee.  He is the (co-)author of several worldwide best-sellers, including
+
+  - [[http://www.josuttis.com/libbook/][The C++ Standard Library]], /the/ book about the C++ Standard Library, first publication in 1999
+  - [[http://www.cppstd17.com/][C++17 - The Complete Guide]], all new features of C++17 (both language and library) in one book
+  - [[http://www.tmplbook.com/][C++ Templates - The Complete Guide]] (with David Vandevoorde and Doug Gregor), /the/ book about templates
+
+  *The book is now available as printed book:*
+
+  Nicolai M. Josuttis
+  C++ Move Semantics- The Complete Guide
+
+  ISBN-13: 978-3-96730-900-3
+  ISBN-10:     3-96730-900-2
+
+  **** Table of Content:
+
+  (all features covered):
+
+  *Basic Features of Move Semantics:*
+  - Motivation of move semantics
+  - Performance benefits
+  - Rvalue references
+  - std::move()
+  - std::move() for members and member functions
+  - Self-move
+  - Overload resolution with move semantics
+  - Value categories and xvalues
+  - decltype with expressions
+  - Enabling copy semantics only
+  - Rule of five or three
+  - How to initialize members with move semantics
+  - Overloading on reference qualifiers
+  - The return type of getters
+  - Move semantics in polymorphic class hierarchies
+  - const rvalue references (const&&)
+  - Using noexcept
+  - Dealing with moved-from states (invalid objects and broken invariants)
+
+  *Move Semantics in Generic Code:*
+  - Universal/forwarding references
+  - Perfect forwarding
+  - std::forward<>()
+  - Constructors with universal references
+  - Perfect passing
+  - auto&&
+  - Universal references as non-forwarding references
+  - Universal references of concrete types
+  - Generic raw rvalue references
+  - Perfect returning
+  - decltype(auto)
+  - Move semantics in lambdas
+  - Move semantics in range-based for loops
+
+  *Move Semantics in the C++ Standard Library :*
+  - Move-only types
+    - I/O streams
+    - Threads
+    - Unique Pointers
+    - When Scott Meyers and Herb Sutter contradict
+  - Moving algorithms
+  - Move semantics with removing algorithms
+  - Move iterators
+  - Move semantics for strings
+  - Move semantics for containers (especially std::vectors and std::arrays)
+  - Move semantics for std::shared_ptr<>
+  - Move semantics for std::pair<>
+    - std::make_pair() and std::decay<>
+  - Move semantics for std::optional<>
+
+  Note that you can also book *[[http://www.josuttis.de/trainings/cpp11_en.html][inhouse trainings about all topics of Modern C++]] and [[http://www.josuttis.de/trainings/cpp17_en.html][C++17]] (both the language and its standard library)*.
+#+end_quote

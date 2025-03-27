@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       96aa1f47-f5cb-4ac0-adc5-8d22dc29693f
+:ROAM_REFS: https://github.com/dgis/emu48android
+:END:
+#+title: (github.com) dgis/emu48android: Emu48 for Android
+#+filetags: :software:mobile_app:android_os:emulator:calculator:website:
+
+#+begin_quote
+  This project ports the Windows application Emu48 written in C to Android.  It uses the Android NDK.  The former Emu48 source code (written by Sébastien Carlier and Christoph Giesselink) remains untouched because of a thin win32 emulation layer above Linux/NDK!  This win32 layer will allow to easily update from the original Emu48 source code.  It can open or save the exact same state files (state.e48/e49) than the original Windows application!
+#+end_quote
+* (play.google.com) Emu48 for Android - Apps on Google Play
+:PROPERTIES:
+:ID:       63ec16f0-5925-4b87-9ad1-bc7ff536eee6
+:ROAM_REFS: https://play.google.com/store/apps/details?id=org.emulator.forty.eight
+:END:
+* (www.hpcalc.org) Emu48 for Android 2.8 - detailed information
+:PROPERTIES:
+:ID:       8842ce89-d0d9-4038-a370-cd0ecb9a3615
+:ROAM_REFS: https://www.hpcalc.org/details/8987
+:END:
+
+#+begin_quote
+  Android port of Emu48+ 1.66, to emulate the 38G, 39G, 40G, 48S, 48SX, 48G, 48G+, 48GX, and 49G, as well as the 39g+, 39gs, 40gs, 48gII, 49g+, and 50g.  Also available from [[https://play.google.com/store/apps/details?id=org.emulator.forty.eight][Google Play]].
+#+end_quote
+** See Also [[id:63ec16f0-5925-4b87-9ad1-bc7ff536eee6][(play.google.com) Emu48 for Android - Apps on Google Play]]
+* See Also
+** [[id:9054c00a-5b4c-438f-ac8c-949bf646b351][Christoph Giesselink Emu48 Page]]
+** [[id:91062197-4b54-418f-8eef-dd56c3432c55][HP 50g Calculator]]

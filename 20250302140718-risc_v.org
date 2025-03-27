@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d76dd6d0-cc93-40cd-b8de-9da49431281c
+:END:
+#+title: RISC-V
+#+filetags: :hardware:electronics:computer_architecture:computer_science:
+
+Open CPU [[id:c980a340-2564-437e-a79f-388122a206ad][ISA]].  A type of [[id:321ba3cc-d73a-4620-88f7-2527cbae1aac][RISC]] ISA.
+* (en.wikipedia.org) RISC-V - Wikipedia                             :website:
+:PROPERTIES:
+:ID:       f6101c33-c116-46e6-8c6a-34ceb91ab536
+:ROAM_REFS: https://en.wikipedia.org/wiki/RISC-V
+:END:
+
+#+begin_quote
+  *RISC-V* (pronounced "risk-five") is an [[https://en.wikipedia.org/wiki/Open_standard][open standard]] [[https://en.wikipedia.org/wiki/Instruction_set_architecture][instruction set architecture]] (ISA) based on established [[https://en.wikipedia.org/wiki/Reduced_instruction_set_computer][reduced instruction set computer]] (RISC) principles.  The project began in 2010 at the [[https://en.wikipedia.org/wiki/University_of_California,_Berkeley][University of California, Berkeley]], transferred to the RISC-V Foundation in 2015, and on to RISC-V International, a Swiss non-profit entity, in November 2019.  Like several other RISC ISAs, e.g. [[https://en.wikipedia.org/wiki/Amber_(processor)][Amber (ARMv2)]] or [[https://en.wikipedia.org/wiki/OpenRISC][OpenRISC]], RISC-V is offered under [[https://en.wikipedia.org/wiki/Royalty-free][royalty-free]] [[https://en.wikipedia.org/wiki/Open-source_license][open-source licenses]].  The documents defining the RISC-V instruction set architecture (ISA) are offered under a [[https://en.wikipedia.org/wiki/Creative_Commons_license][Creative Commons license]] or a [[https://en.wikipedia.org/wiki/BSD_licenses][BSD License]].
+
+  Mainline support for RISC-V was added to the Linux 5.17 kernel, in 2022, along with its [[https://en.wikipedia.org/wiki/Toolchain][toolchain]].  In July 2023, RISC-V, in its [[https://en.wikipedia.org/wiki/64-bit_computing][64-bit]] variant called riscv64, was included as an official architecture of Linux distribution [[https://en.wikipedia.org/wiki/Debian][Debian]], in its [[https://en.wikipedia.org/wiki/Debian_version_history#Naming_convention][unstable]] version.  The goal of this project was "to have Debian ready to install and run on systems implementing a variant of the RISC-V ISA." [[https://en.wikipedia.org/wiki/Gentoo_Linux][Gentoo]] also supports RISC-V. [[https://en.wikipedia.org/wiki/Fedora_Linux][Fedora]] supports RISC-V as an alternative architecture as of 2025.  The [[https://en.wikipedia.org/wiki/OpenSUSE][openSUSE]] Project added RISC-V support starting in 2018.
+
+  Some RISC-V International members, such as [[https://en.wikipedia.org/wiki/SiFive][SiFive]], [[https://en.wikipedia.org/wiki/Andes_Technology][Andes Technology]], [[https://en.wikipedia.org/wiki/Synopsys][Synopsys]], [[https://en.wikipedia.org/wiki/Alibaba_Group#Cloud_computing_and_artificial_intelligence_technology][Alibaba's Damo Academy]], [[https://en.wikipedia.org/wiki/Raspberry_Pi][Raspberry Pi]], and Akeana, are offering or have announced commercial [[https://en.wikipedia.org/wiki/System_on_a_chip][systems on a chip]] (SoCs) that incorporate one or more RISC-V compatible CPU cores.
+#+end_quote

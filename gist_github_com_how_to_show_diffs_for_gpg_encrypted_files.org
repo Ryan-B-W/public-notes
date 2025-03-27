@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       a8b7ada5-5ffb-4656-ab5c-c777247d9dde
+:ROAM_REFS: https://gist.github.com/marceloalmeida/e6593b93b388cdf1dbc282dffd424d1b
+:END:
+#+title: (gist.github.com) How to show diffs for gpg-encrypted files?
+#+filetags: :software:version_control:programming:website:
+
+#+begin_quote
+  How to show diffs for gpg-encrypted files?
+
+  [[id:003ec9df-d673-4336-aae0-9a034fd89997][Git]] supports showing diffs for encrypted files, but has to be told to do so.
+  : git config --global diff.gpg.textconv "gpg --no-tty --decrypt"
+
+  : echo "*.gpg filter=gpg diff=gpg" >> .gitattributes
+  : echo "*.asc filter=gpg diff=gpg" >> .gitattributes
+#+end_quote

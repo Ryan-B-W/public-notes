@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       b890d0c7-1a90-44ab-81b0-2a71cce8cff8
+:ROAM_REFS: https://www.nngroup.com/
+:END:
+#+title: (www.nngroup.com) Nielsen Norman Group: UX Training, Consulting, & Research
+#+filetags: :consulting:design:website:

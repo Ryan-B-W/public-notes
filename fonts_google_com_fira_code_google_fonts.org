@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       2047d377-11a1-4db9-aec8-639bcd552c5e
+:ROAM_REFS: https://fonts.google.com/specimen/Fira+Code
+:END:
+#+title: (fonts.google.com) Fira Code - Google Fonts
+#+filetags: :mozilla_org:fonts_monospace:fonts:website:

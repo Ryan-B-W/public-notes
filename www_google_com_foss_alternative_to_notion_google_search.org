@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       74bd1de9-e6b1-4756-89a2-f5cbc1ddadb9
+:ROAM_REFS: "https://www.google.com/search?q=foss alternative to notion"
+:END:
+#+title: (www.google.com) foss alternative to notion - Google Search
+#+filetags: :searches:website:
+
+Search query:
+: foss alternative to notion

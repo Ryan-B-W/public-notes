@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       53603cf2-ca78-417d-9ad4-3c8f513657a3
+:ROAM_REFS: https://en.wikipedia.org/wiki/Automatic_Packet_Reporting_System
+:END:
+#+title: (en.wikipedia.org) Automatic Packet Reporting System - Wikipedia
+#+filetags: :amateur_radio:digital_radio:radio:website:
+
+#+begin_quote
+  Automatic Packet Reporting System (APRS) is an amateur radio-based system for real time digital communications of information of immediate value in the local area.  Data can include object Global Positioning System (GPS) coordinates, non-directional beacon, weather station telemetry, text messages, announcements, queries, and other telemetry.  APRS data can be displayed on a map, which can show stations, objects, tracks of moving objects, weather stations, search and rescue data, and direction finding data.
+  APRS data is typically transmitted on a single shared frequency (depending on country) to be repeated locally by area relay stations (digipeaters) for widespread local consumption.  In addition, all such data are typically ingested into the APRS Internet System (APRS-IS) via an Internet-connected receiver (IGate) and distributed globally for ubiquitous and immediate access.  Data shared via radio or Internet are collected by all users and can be combined with external map data to build a shared live view.
+  APRS was developed from the late 1980s forward by Bob Bruninga, call sign WB4APR, a senior research engineer at the United States Naval Academy.  He maintained the main APRS Web site until his death in 2022.  The initialism "APRS" was derived from his call sign.
+#+end_quote

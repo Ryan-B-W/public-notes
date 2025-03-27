@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       8519d697-220f-4b16-bfb8-474595986669
+:ROAM_REFS: https://www.erlang.org/
+:END:
+#+title: (www.erlang.org) Erlang/OTP
+#+filetags: :programming_language:programming:computer_science:website:
+
+#+begin_quote
+  What is Erlang?
+
+  Erlang is a [[id:b24601aa-09df-41e1-aa7e-25ead342db34][programming language]] used to build massively scalable soft real-time systems with requirements on high availability.  Some of its uses are in telecoms, banking, e-commerce, computer telephony and instant messaging.  Erlang's runtime system has built-in support for concurrency, distribution and fault tolerance.
+
+  What is OTP?
+
+  OTP is set of Erlang libraries and design principles providing middle-ware to develop these systems.  It includes its own distributed database, applications to interface towards other languages, debugging and release handling tools.
+#+end_quote

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       93666677-8d2c-4cf9-8921-f578783aa9fe
+:ROAM_REFS: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Printing
+:END:
+#+title: (developer.mozilla.org) Printing - CSS: Cascading Style Sheets | MDN
+#+filetags: :documentation:www:website:

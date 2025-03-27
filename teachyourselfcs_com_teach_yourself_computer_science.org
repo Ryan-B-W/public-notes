@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       98c787ac-7745-4377-aabb-a75467d7c760
+:ROAM_REFS: https://teachyourselfcs.com/
+:END:
+#+title: (teachyourselfcs.com) Teach Yourself Computer Science
+#+filetags: :learning:education:education_resource:software_development:programming:website:
+
+#+begin_quote
+  * Teach Yourself Computer Science
+
+  Note: this guide was extensively updated in May 2020.  For the prior version, [[https://teachyourselfcs.com/2016/][see here]].
+
+  If you're a self-taught engineer or bootcamp grad, you owe it to yourself to learn computer science.  Thankfully, you can give yourself a world-class CS education without investing years and a small fortune in a degree program 💸.
+
+  There are plenty of resources out there, but some are better than others.  You don't need yet another “200+ Free Online Courses” listicle.  You need answers to these questions:
+
+  - *Which subjects* should you learn, and why?
+  - What is the *best book or video lecture series* for each subject?
+
+  This guide is our attempt to definitively answer these questions.
+#+end_quote

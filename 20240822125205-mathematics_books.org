@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       fa6ec024-4e2b-4e1d-ac57-37b7d82f0531
+:END:
+#+title: Mathematics Books
+#+filetags: :directory:books:lists:
+
+Directory of mathematics books.
+* [[id:1418137e-d5ab-40a4-b0d2-3eb537e01bef][Abstract Algebra: Theory and Applications (A Free Textbook)]]
+* [[id:88981330-cea8-44f8-90e5-74d12a48e6ba][A First Course in Linear Algebra (A Free Textbook)]]
+* [[id:164a50c8-82f1-490d-bf8a-c33f34043f74][Measurement — Harvard University Press]]
+* See Also
+** [[id:266e410a-c16d-40b0-8c50-65e9df7efa26][(hbpms.blogspot.com) How to Become a Pure Mathematician (or Statistician)]]

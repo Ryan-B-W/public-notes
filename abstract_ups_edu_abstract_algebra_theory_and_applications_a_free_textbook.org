@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       1418137e-d5ab-40a4-b0d2-3eb537e01bef
+:ROAM_REFS: http://abstract.ups.edu/
+:END:
+#+title: (abstract.ups.edu) Abstract Algebra: Theory and Applications (A Free Textbook)
+#+filetags: :mathematics:books:website:
+
+#+begin_quote
+  /Everything you wanted to know about abstract algebra, but were afraid to buy/
+
+  Tom Judson's Abstract Algebra: Theory and Applications is an open source textbook designed to teach the principles and theory of abstract algebra to college juniors and seniors in a rigorous manner.  Its strengths include a wide range of exercises, both computational and theoretical, plus many nontrivial applications.  Rob Beezer has contributed [[id:f3666cbb-35af-4304-ab15-321c825a2b04][complementary material]] using the open source system, [[id:70d66f8f-fea0-467d-bd96-7b562be89610][Sage]].
+  The first half of the book presents group theory, through the Sylow theorems, with enough material for a semester-long course.  The second-half is suitable for a second semester and presents rings, integral domains, Boolean algebras, vector spaces, and fields, concluding with Galois Theory.
+  This textbook has more freedom than most (but see [[id:f230c9e2-8c39-401f-80b3-52995246cdf4][some exceptions]]).  First, there is no cost to acquire this text, and you are under no obligation whatsoever to compensate or donate to the author or publisher.  So in this most basic sense, it is a free textbook.  Therefore you can also make as many copies as you like, ensuring that the book will never go out-of-print.  You may modify copies of the book for your own use—for example, you may wish to change to a prefered notation for certain objects or add a few new sections.  There is a copyright on the book, and subsequently it is licensed with a GNU Free Documentation License (GFDL).  It is this combination that allows the author to give you greater freedoms in how you use the text, thus liberating it from some of the antiquated notions of copyright that apply to books in physical form.  The main caveat is that if you make modifications and then distribute a modified version, you are required to again apply the GFDL license to the result so that others may benefit from your modifications.
+#+end_quote
+* See Also
+** (abstract.ups.edu) Abstract Algebra: Theory and Applications (A Free Textbook) - Complementary Material, Sage
+:PROPERTIES:
+:ID:       f3666cbb-35af-4304-ab15-321c825a2b04
+:ROAM_REFS: http://abstract.ups.edu/sage-aata.html
+:END:
+#+begin_quote
+  Sage is an open-source program for doing mathematics and is the ideal companion to Abstract Algebra: Theory and Applications.  Sage is designed to be a free, open source alternative to Magma, Maple, Mathematica and Matlab.  It includes many mature and powerful [[id:70d66f8f-fea0-467d-bd96-7b562be89610][open-source tools for mathematics]], such as [[id:89421267-26f7-4f14-af99-a5f57c632157][GAP]] for group theory.  With a strength in number theory, Sage also has excellent support for rings and fields.
+#+end_quote
+** (abstract.ups.edu) AATA Front Matter           :books:mathematics:website:
+:PROPERTIES:
+:ID:       ed4719c9-b0cc-45d7-9a55-9a3bde68ce8c
+:ROAM_REFS: http://abstract.ups.edu/aata/aata.html
+:END:
+** (abstract.ups.edu) Abstract Algebra: Theory and Applications (AATA) [epub] :mime_type_application_epub_zip:books:mathematics:
+:PROPERTIES:
+:ID:       f00c1e53-382d-45ad-a9f7-5907e974bb44
+:ROAM_REFS: http://abstract.ups.edu/download/aata-20220728.epub
+:END:
+** (abstract.ups.edu) Abstract Algebra: Theory and Applications (AATA) [pdf] :mathematics:books:mime_type_application_pdf:
+:PROPERTIES:
+:ID:       9625fc5c-2f10-450f-a67d-15f87f109f2b
+:ROAM_REFS: http://abstract.ups.edu/download/aata-20220728.pdf
+:END:

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       fa8857bc-0e38-4f7d-95be-997f12690125
+:ROAM_REFS: https://wikimpri.dptinfo.ens-cachan.fr/doku.php
+:END:
+#+title: (wikimpri.dptinfo.ens-cachan.fr) MPRI
+#+filetags: :education:website:

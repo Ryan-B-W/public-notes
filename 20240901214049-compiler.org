@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       d1f206c7-36f4-431e-af68-115df4d7a4ff
+:END:
+#+title: Compiler
+#+filetags: :software_development:software:programming:programming_language_design:computer_science:
+
+A piece of software that compiles the source code form of a [[id:b24601aa-09df-41e1-aa7e-25ead342db34][programming language]] into a machine readable form.  Usually that machine readable form is either an executable or a linkable library that can be executed on an appropriate [[id:bf5900d9-5be8-49ca-bfcc-46587cc787dc][computer]].  Programming languages that are used via compilation are called compiled languages.

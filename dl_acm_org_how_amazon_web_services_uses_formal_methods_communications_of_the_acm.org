@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       c6c76763-47bf-4738-88ec-fefd97060657
+:ROAM_REFS: https://dl.acm.org/doi/10.1145/2699417
+:END:
+#+title: (dl.acm.org) How Amazon web services uses formal methods | Communications of the ACM
+#+filetags: :website:
+
+#+begin_quote
+  ** Abstract
+
+  Engineers use TLA+ to prevent serious but subtle bugs from reaching production.
+#+end_quote

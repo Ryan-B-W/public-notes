@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       0e25bc44-58cc-4b29-929f-85b929fdcf0f
+:ROAM_REFS: https://fonts.google.com/specimen/Inconsolata
+:END:
+#+title: (fonts.google.com) Inconsolata - Google Fonts
+#+filetags: :fonts_sans:fonts_monospace:fonts:website:

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       d232a12f-e8dd-4f76-a9c1-995d796e3e4d
+:ROAM_REFS: http://eli.fox-epste.in/rule110-full.html
+:END:
+#+title: (eli.fox-epste.in) Rule 110
+#+filetags: :website:
+
+Cellular automata rule 110 (approximately) implemented in HTML5 and CSS3.

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       c2c9c016-8905-40db-aefd-660451de8bd7
+:ROAM_REFS: https://github.com/k2-fsa/sherpa-onnx
+:END:
+#+title: (github.com) k2-fsa/sherpa-onnx: Speech-to-text, text-to-speech, speaker diarization, and VAD using next-gen Kaldi with onnxruntime without Internet connection.
+#+filetags: :text_to_speech:machine_learning:software:website:

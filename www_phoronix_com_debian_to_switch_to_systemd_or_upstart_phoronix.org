@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       386a8803-e400-42ec-87ea-3e9b9291e12c
+:ROAM_REFS: https://www.phoronix.com/news/MTQ5NzQ
+:END:
+#+title: (www.phoronix.com) Debian To Switch To Systemd Or Upstart - Phoronix
+#+filetags: :linux:operating_systems:news:software:website:
+
+#+begin_quote
+  Debian developers have been in a very polarized discussion recently about replacing their default SysVinit system with a more modern init system; namely, Debian developers are evaluating whether to use systemd or Upstart.
+
+  Debian wants to switch a modern event-based init system that is more robust and provides more features, provides stable support for advanced environments (e.g. SAN), being more similar to the likes of Ubuntu and RHEL, and modern open-source packages like GNOME 3.x are easier to package.  Among other reasons, Debian hasn't been quick to switch init systems over lots of work needing to be accomplished.
+
+  In one of [[http://lists.debian.org/debian-devel/2013/10/msg00651.html][the latest init system discussions]], it was stated "since the init system strongly shapes many other packages, there has to be only one and no other supported options."
+
+  An increasing number of Linux distributions are using systemd due to more open-source software depending upon its services, but Debian cares more than just Linux support due to its Debian GNU/kFreeBSD spin and other reasons.  Upstart, meanwhile, is mostly just found on Ubuntu Linux among tier-one distributions.  Upstart's development continues to just be lead by Canonical.
+
+  Due to various threads having been started for carrying out an init system switch, it's been brought to the Debian tech committee ([[http://lists.debian.org/debian-ctte/2013/10/msg00013.html][tech-ctte]]) for deciding which system to use as the default.
+
+  Phoronix reader "Hans Wurst", who pointed out this Debian "flame fest" and init system situation in the Debian camp, also made mention of the fact that there's several (current and former) Canonical employees on the Debian committee so it could swing in favour of using Upstart over systemd.  "...here comes the funny stuff.  Two of the tech-ctte members are canonical developers and one is an ex-canonical dev.  Namely Steve Langasek, Colin Watson and Ian Jackson.  Steve and Colin are both members of the Upstart-Developers Launchpad Group.  Steve has been pretty vocal on his systemd hate as well.  It would be a miracle if they would vote against adopting upstart.  Sounds like a rigged vote for me, but ymmv."
+
+  Well, in due time we'll see what Debian decides to do about switching from SysVinit to systemd or Upstart.
+#+end_quote

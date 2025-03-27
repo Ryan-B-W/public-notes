@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       d26747d6-9e89-4de8-8d7b-9c422b5f012f
+:ROAM_REFS: https://en.wikipedia.org/wiki/No_free_lunch_theorem
+:END:
+#+title: (en.wikipedia.org) No free lunch theorem - Wikipedia
+#+filetags: :mathematics:website:
+
+#+begin_quote
+  In mathematical folklore, the "no free lunch" (NFL) theorem (sometimes pluralized) of David Wolpert and William Macready, alludes to the saying "no such thing as a free lunch", that is, there are no easy shortcuts to success.  It appeared in the 1997 "No Free Lunch Theorems for Optimization".  Wolpert had previously derived no free lunch theorems for machine learning (statistical inference).
+  In 2005, Wolpert and Macready themselves indicated that the first theorem in their paper "state[s] that any two optimization algorithms are equivalent when their performance is averaged across all possible problems".
+  The "no free lunch" (NFL) theorem is an easily stated and easily understood consequence of theorems Wolpert and Macready actually prove.  It is objectively weaker than the proven theorems, and thus does not encapsulate them.  Various investigators have extended the work of Wolpert and Macready substantively.  In terms of how the NFL theorem is used in the context of the research area, the no free lunch in search and optimization is a field that is dedicated for purposes of mathematically analyzing data for statistical identity, particularly search and optimization.
+  While some scholars argue that NFL conveys important insight, others argue that NFL is of little relevance to machine learning research.
+#+end_quote

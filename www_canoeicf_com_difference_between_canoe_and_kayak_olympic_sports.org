@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       aebb18df-5660-4be9-94bb-e5b26b6e877a
+:ROAM_REFS: https://www.canoeicf.com/canoe-kayak-difference
+:END:
+#+title: (www.canoeicf.com) Difference Between Canoe and Kayak - Olympic Sports
+#+filetags: :boats:website:
+
+#+begin_quote
+  What's the difference between a Canoe and Kayak?  Well the difference is relatively simple; it’s related to athlete’s position in the boat and the type of paddle they use to propel the boat.
+  In a kayak, the paddler is seated and uses a double-bladed paddle pulling the blade through the water on alternate sides to move forward.
+  In a canoe, the paddler kneels and uses a single-bladed paddle to propel the boat forward.
+#+end_quote

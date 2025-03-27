@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       b1ae87a7-ea87-43a2-92d4-d66b0cf092d8
+:ROAM_REFS: https://x.com/im_roy_lee/status/1895276427005845981
+:END:
+#+title: (x.com) Roy on X: "amazon execs r so mad LOLLL maybe stop asking dumb interview questions and people wouldn't build shit like this https://t.co/RMwouy3enr https://t.co/sBdWTx2aFJ" / X
+#+filetags: :programming:twitter:website:
+
+#+begin_quote
+  Roy @im_roy_lee
+
+  amazon execs r so mad LOLLL maybe stop asking dumb interview questions and people wouldn't build shit like this [[http://interviewcoder.co/][http://interviewcoder.co]]
+#+end_quote

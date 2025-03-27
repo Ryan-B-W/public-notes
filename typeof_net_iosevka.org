@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       3d3fc4a8-0cf6-404b-afdf-27f9cadf5065
+:ROAM_REFS: https://typeof.net/Iosevka/
+:END:
+#+title: (typeof.net) Iosevka
+#+filetags: :open_source:fonts_quasi_proportional:fonts_monospace:fonts_slab_serif:fonts_sans:fonts:website:
+
+#+begin_quote
+  Iosevka is an open-source, sans-serif + slab-serif, monospace + quasi-proportional typeface family, designed for writing code, using in terminals, and preparing technical documents.
+#+end_quote

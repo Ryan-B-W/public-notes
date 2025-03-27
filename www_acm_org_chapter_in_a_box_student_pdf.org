@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       f7701d97-7f22-44af-aef1-668af987bdad
+:ROAM_REFS: https://www.acm.org/binaries/content/assets/chapters/chapter-in-a-box_student.pdf
+:END:
+#+title: (www.acm.org) chapter-in-a-box_student.pdf
+#+filetags: :mime_type_application_pdf:website:

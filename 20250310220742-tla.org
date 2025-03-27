@@ -1,0 +1,75 @@
+:PROPERTIES:
+:ID:       4f26c5af-ba73-4a88-8915-9cc7de26e549
+:END:
+#+title: TLA+
+#+filetags: :mathematics:software_development:programming_language:programming:
+
+TLA⁺ (also written TLA+), a formal specification language for computer programs by [[id:6d7f20f8-b669-43ce-a5ee-b5e842ef8dab][Leslie Lamport]].
+* (lamport.azurewebsites.net) The TLA+ Home Page                    :website:
+:PROPERTIES:
+:ID:       5a1fef4b-439f-495c-9b0c-6948676d8ae4
+:ROAM_REFS: https://lamport.azurewebsites.net/tla/tla.html https://www.tlapl.us/
+:END:
+
+#+begin_quote
+  * The TLA+ Home Page
+
+  Leslie Lamport
+
+  /Last modified on 13 August 2024/
+
+  --------------
+
+  This is the home page of the TLA+ web site.  TLA+ is a high-level language for modeling programs and systems--especially concurrent and distributed ones.  It's based on the idea that the best way to describe things precisely is with simple mathematics.  TLA+ and its tools are useful for eliminating fundamental design errors, which are hard to find and expensive to correct in code.  The following are the top-level pages of the web site.
+
+  *Is it  TLA+  or  TLA+ ?*
+
+  ** [[https://lamport.azurewebsites.net/tla/high-level-view.html][High-Level View]]
+
+  An explanation of what TLA+ is all about.
+
+  ** [[https://lamport.azurewebsites.net/tla/news.html][News]]
+
+  Items of current interest.  Last modified on 13 August 2024.
+
+  ** [[https://lamport.azurewebsites.net/tla/industrial-use.html][Industrial Use]]
+
+  Some examples of how TLA+ has been used in industry.
+
+  ** [[https://lamport.azurewebsites.net/tla/learning.html][Learning TLA+]]
+
+  Resources for learning how to use TLA+, including an introductory video course.
+
+  ** [[https://lamport.azurewebsites.net/tla/toolbox.html][The Toolbox]]
+
+  An integrated development environment (IDE) for TLA+ and its tools.  There is also a [[https://marketplace.visualstudio.com/items?itemName=alygin.vscode-tlaplus][Visual Studio Code extension for TLA+]].
+
+  ** [[https://lamport.azurewebsites.net/tla/tools.html][The Tools]]
+
+  Tools for checking TLA+ models.  The primary ones are the TLC model checker and the TLAPS proof system.
+
+  ** [[https://lamport.azurewebsites.net/tla/advanced.html][Advanced Topics]]
+
+  For those who know enough about TLA+ to be able to read simple specifications.
+
+  ** [[https://lamport.azurewebsites.net/tla/more-stuff.html][More Stuff]]
+
+  A melange of miscellaneous material mostly about TLA+.
+#+end_quote
+* (en.wikipedia.org) TLA+ - Wikipedia                               :website:
+:PROPERTIES:
+:ID:       1d09f5c5-da5d-450b-bd6a-3f2f5904c9f3
+:ROAM_REFS: https://en.wikipedia.org/wiki/TLA+
+:END:
+
+#+begin_quote
+  *TLA⁺* is a [[https://en.wikipedia.org/wiki/Formal_specification][formal specification]] language developed by [[https://en.wikipedia.org/wiki/Leslie_Lamport][Leslie Lamport]].  It is used for designing, modelling, documentation, and verification of programs, especially [[https://en.wikipedia.org/wiki/Concurrent_systems][concurrent systems]] and [[https://en.wikipedia.org/wiki/Distributed_systems][distributed systems]].  TLA⁺ is considered to be exhaustively-testable [[https://en.wikipedia.org/wiki/Pseudocode][pseudocode]], and its use likened to [[https://en.wikipedia.org/wiki/Technical_drawing][drawing blueprints]] for software systems; /TLA/ is an [[https://en.wikipedia.org/wiki/Acronym][acronym]] for [[https://en.wikipedia.org/wiki/Temporal_Logic_of_Actions][Temporal Logic of Actions]].
+
+  For design and documentation, TLA⁺ fulfills the same purpose as informal [[https://en.wikipedia.org/wiki/Technical_specifications][technical specifications]].  However, TLA⁺ specifications are written in a formal language of [[https://en.wikipedia.org/wiki/Logic][logic]] and mathematics, and the precision of specifications written in this language is intended to uncover design flaws before system implementation is underway.
+
+  Since TLA⁺ specifications are written in a formal language, they are amenable to finite [[https://en.wikipedia.org/wiki/Model_checking][model checking]].  The model checker finds all possible system behaviours up to some number of execution steps, and examines them for violations of desired [[https://en.wikipedia.org/wiki/Invariant_(computer_science)][invariance]] properties such as [[https://en.wikipedia.org/wiki/Safety_(distributed_computing)][safety]] and [[https://en.wikipedia.org/wiki/Liveness][liveness]].  TLA⁺ specifications use basic [[https://en.wikipedia.org/wiki/Set_theory][set theory]] to define safety (bad things won't happen) and [[https://en.wikipedia.org/wiki/Temporal_logic][temporal logic]] to define liveness (good things eventually happen).
+
+  TLA⁺ is also used to write [[https://en.wikipedia.org/wiki/Automated_theorem_proving][machine-checked proofs of correctness]] both for [[https://en.wikipedia.org/wiki/Algorithms][algorithms]] and mathematical theorems.  The proofs are written in a declarative, hierarchical style independent of any single theorem prover backend.  Both formal and informal structured mathematical proofs can be written in TLA⁺; the language is similar to [[https://en.wikipedia.org/wiki/LaTeX][LaTeX]], and tools exist to translate TLA⁺ specifications to LaTeX documents.
+
+  TLA⁺ was introduced in 1999, following several decades of research into a verification method for concurrent systems.  Ever since, a toolchain has been developed, including an [[https://en.wikipedia.org/wiki/Interactive_development_environment][IDE]] and a distributed model checker.  The pseudocode-like language [[https://en.wikipedia.org/wiki/PlusCal][PlusCal]] was created in 2009; it [[https://en.wikipedia.org/wiki/Source-to-source_compiler][transpiles]] to TLA⁺ and is useful for specifying sequential algorithms.  TLA⁺2 was announced in 2014, expanding language support for proof constructs.  The current TLA⁺ reference is [[http://research.microsoft.com/en-us/um/people/lamport/tla/hyperbook.html][The TLA⁺ Hyperbook]] by Leslie Lamport.
+#+end_quote

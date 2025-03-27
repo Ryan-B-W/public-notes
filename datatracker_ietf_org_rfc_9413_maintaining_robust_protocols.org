@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       24d02639-7d49-4b66-84bb-be32f176de72
+:ROAM_REFS: https://datatracker.ietf.org/doc/html/rfc9413/ https://datatracker.ietf.org/doc/html/rfc9413
+:END:
+#+title: (datatracker.ietf.org) RFC 9413 - Maintaining Robust Protocols
+#+filetags: :website:
+
+#+begin_quote
+  * Maintaining Robust Protocols
+
+  ** Abstract
+
+  The main goal of the networking standards process is to enable the long-term interoperability of protocols.  This document describes active protocol maintenance, a means to accomplish that goal.  By evolving specifications and implementations, it is possible to reduce ambiguity over time and create a healthy ecosystem.
+
+  The robustness principle, often phrased as "be conservative in what you send, and liberal in what you accept", has long guided the design and implementation of Internet protocols.  However, it has been interpreted in a variety of ways.  While some interpretations help ensure the health of the Internet, others can negatively affect interoperability over time.  When a protocol is actively maintained, protocol designers and implementers can avoid these pitfalls.
+
+  ** Status of This Memo
+
+  This document is not an Internet Standards Track specification; it is published for informational purposes.
+
+  This document is a product of the Internet Architecture Board (IAB) and represents information that the IAB has deemed valuable to provide for permanent record.  It represents the consensus of the Internet Architecture Board (IAB).  Documents approved for publication by the IAB are not candidates for any level of Internet Standard; see Section 2 of RFC 7841.  Information about the current status of this document, any errata, and how to provide feedback on it may be obtained at [[https://www.rfc-editor.org/info/rfc9413]].
+#+end_quote
+* (github.com) intarchboard/draft-protocol-maintenance: Don't apply the robustness principle, look after your protocol instead
+:PROPERTIES:
+:ID:       843b822c-be25-4c14-83f3-d3d6b019f2ad
+:ROAM_REFS: https://github.com/intarchboard/draft-protocol-maintenance
+:END:
+
+#+begin_quote
+  * Maintaining Robust Protocols
+
+  This is the working area for the IAB Internet-Draft, "Maintaining RobustProtocols", formerly draft-thomson-postel-was-wrong.
+
+  - [[https://intarchboard.github.io/draft-protocol-maintenance/draft-iab-protocol-maintenance.html][Editor's Copy]]
+  - [[https://datatracker.ietf.org/doc/draft-iab-protocol-maintenance/][IAB Draft]]
+  - [[https://www.ietf.org/rfcdiff?url1=draft-iab-protocol-maintenance&url2=https://intarchboard.github.io/draft-protocol-maintenance/draft-iab-protocol-maintenance.txt][Compare Editor's Copy to Working Group Draft]]
+#+end_quote

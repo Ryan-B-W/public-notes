@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       636bb073-4fbb-4c39-9a0a-224a304cec90
+:END:
+#+title: The Pitfall of Futurists: Not Considering the Transition From One State to Another
+
+All to often futurists will make some grand prediction about the future and, while they my not be out right wrong, they fail to consider the transition from the present to the future they imagine and how messy that may be.  Furthermore, they don't consider how widely their prediction will be misconstrued during that transition.
+
+A great area for examples at time of writing.  People think of all the predictions around [[id:b10990c2-d056-42f5-a4e7-145a405d9550][artificial intelligence]] that hinge on _thinking/sentient_ and/or _sapient_ artificial intelligence that don't apply to the current state of AI where we have very powerful generative models that aren't capable of thought since they are just a fancy form of next word prediction like a phone's soft-keyboard's autocomplete but /are/ capable of convincing text output therefore tricking people into thinking that the text generator they are interacting with actually *thinks*.

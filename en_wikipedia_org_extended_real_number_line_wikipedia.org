@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       74d776a5-c205-4d13-8648-10457d2067fc
+:ROAM_REFS: https://en.wikipedia.org/wiki/Extended_real_number_line
+:END:
+#+title: (en.wikipedia.org) Extended real number line - Wikipedia
+#+filetags: :mathematics:website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Mathematics][mathematics]], the *extended real number system* is obtained from the [[https://en.wikipedia.org/wiki/Real_number][real number]] system \(\mathbb{R}\) by adding two elements denoted \(+ \infty\) and \(- \infty\) that are respectively greater and lower than every real number.  This allows for treating the [[https://en.wikipedia.org/wiki/Potential_infinity][potential infinities]] of infinitely increasing sequences and infinitely decreasing series as [[https://en.wikipedia.org/wiki/Actual_infinity][actual infinities]].  For example, the [[https://en.wikipedia.org/wiki/Infinite_sequence][infinite sequence]] \((1,2,\ldots)\) of the [[https://en.wikipedia.org/wiki/Natural_number][natural numbers]] increases /infinitively/ and has no [[https://en.wikipedia.org/wiki/Upper_bound][upper bound]] in the real number system (a potential infinity); in the extended real number line, the sequence has \(+ \infty\) as its [[https://en.wikipedia.org/wiki/Least_upper_bound][least upper bound]] and as its [[https://en.wikipedia.org/wiki/Limit_(mathematics)][limit]] (an actual infinity).  In [[https://en.wikipedia.org/wiki/Calculus][calculus]] and [[https://en.wikipedia.org/wiki/Mathematical_analysis][mathematical analysis]], the use of \(+ \infty\) and \(- \infty\) as actual limits extends significantly the possible computations.  It is the [[https://en.wikipedia.org/wiki/Dedekind–MacNeille_completion][Dedekind--MacNeille completion]] of the real numbers.
+
+  The extended real number system is denoted \(\overset{¯}{\mathbb{R}}\), \(\lbrack - \infty, + \infty\rbrack\), or \(\mathbb{R} \cup \left\{ {- \infty, + \infty} \right\}\).  When the meaning is clear from context, the symbol \(+ \infty\) is often written simply as \(\infty\).
+
+  There is also a distinct [[https://en.wikipedia.org/wiki/Projectively_extended_real_line][projectively extended real line]] where \(+ \infty\) and \(- \infty\) are not distinguished, i.e., there is a single actual infinity for both infinitely increasing sequences and infinitely decreasing sequences that is denoted as just \(\infty\) or as \(\pm \infty\).
+#+end_quote

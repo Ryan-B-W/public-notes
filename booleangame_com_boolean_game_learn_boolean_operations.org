@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       d53d4472-02fc-4294-b69e-8ad3c733360e
+:ROAM_REFS: https://booleangame.com/
+:END:
+#+title: (booleangame.com) Boolean Game | Learn Boolean Operations
+#+filetags: :games:website:
+
+#+begin_quote
+  ** Basic Boolean Operations:
+
+  *&* (conjunction), denoted x & y, satisfies x & y = 1 if x = y = 1 and x & y = 0 otherwise.
+
+  *or* (disjunction), denoted x or y, satisfies x or y = 0 if x = y = 0 and x or y = 1 otherwise.
+
+  *not* (negation), denoted not x, satisfies not x = 0 if x = 1 and not x = 1 if x = 0.
+
+  *nor* (negation of or), denoted not x & not y, satisfies x nor y = 1 if x = y = 0 and x nor y = 0 otherwise.
+
+  ** Game Rules:
+
+  You are given a boolean expression and 9 boxes (3 colors x 3 numbers).
+
+  Click on one or multiple boxes that satisfy the boolean expression.
+
+  You will receive 1 point for every correct box you click on.
+
+  The game is over if you select an incorrect box.
+
+  As you get more points, the boolean expression will get harder.
+#+end_quote

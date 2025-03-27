@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       d63f5ab5-91a5-4de8-916b-ff5e32deb072
+:ROAM_REFS: https://www.xda-developers.com/what-happened-flipper-one/
+:END:
+#+title: (www.xda-developers.com) What happened to the Flipper One?
+#+filetags: :electronics:news:website:
+
+#+begin_quote
+  - The Flipper One, announced with Kali Linux support and improved hardware, has mysteriously disappeared from Flipper's website.
+  - Despite community manager confirmation of ongoing development, little information has been provided by the company about the Flipper One.
+  - Fans of the Flipper Zero eagerly await a potential successor with Kali Linux support, unlocking even more capabilities for this versatile hacking tool.
+#+end_quote

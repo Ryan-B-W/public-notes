@@ -1,0 +1,52 @@
+:PROPERTIES:
+:ID:       82086793-1674-48a0-a980-9d70318c7be6
+:ROAM_REFS: https://www.wouterspekkink.org/blog/2021/writing-academic-papers-with-org-mode/
+:END:
+#+title: (www.wouterspekkink.org) Writing academic papers with org-mode | Wouter A. H. Spekkink
+#+filetags: :configuration:writing:emacs_lisp:lisp:emacs:website:
+
+Tools:
+ - [[id:aca1324c-b142-4e34-a121-a8bb0a79ddf8][Emacs]]
+ - [[id:5ab4a0b0-95e2-40cf-b924-709db3115d48][Org Mode]]
+ - [[id:ad5b1807-db6f-47de-b957-2537a489021c][Org Roam]]
+ - [[id:30632feb-caa2-486c-920c-915183c90430][org-ref]] (largely obsoleted by the built-in org-cite)
+ - [[id:cdffce59-0413-4e8f-94ff-8777352ec6de][org-noter]]
+ - pdf-tools (largely obsoleted by the built-in doc-view now that it's improved in Emacs 29)
+ - org-bibtex and org-roam-bibtex
+ - [[id:0c44b04d-5b1e-4e49-87df-8c5290c9c028][Zotero]]
+ - [[id:669335f2-8499-4ee6-b6b8-317c0c4f96ed][LaTeX]] (indirectly, via Org Mode)
+
+Template used for papers:
+#+begin_example
+  ,#+TITLE: Your title goes here
+  ,#+OPTIONS: toc:nil author:nil
+  ,#+LaTeX_CLASS: apa6
+  ,#+LaTeX_CLASS_OPTIONS: [a4paper]
+  ,#+LaTeX_HEADER: \author{author name}
+  ,#+LaTeX_HEADER: \affiliation{author affiliation}
+  ,#+LaTeX_HEADER: \leftheader{With the apa6 class, it is good idea to customize the left header here}
+  ,#+LaTeX_HEADER: \shorttitle{Your short title goes here}
+  ,#+LaTeX_HEADER: \usepackage{breakcites}
+  ,#+LaTeX_HEADER: \usepackage{apacite}
+  ,#+LaTeX_HEADER: \usepackage{natbib}
+  ,#+LaTeX_HEADER: \usepackage{paralist}
+  ,#+LaTeX_HEADER: \let\itemize\compactitem
+  ,#+LaTeX_HEADER: \let\description\compactdesc
+  ,#+LaTeX_HEADER: \let\enumerate\compactenum
+  ,#+LaTeX_HEADER: \abstract{Your abstract goes here}
+  ,#+LaTeX_HEADER: \keywords{Your keywords go here}
+
+
+  ,* Introduction
+  And now just type away!
+  # Everything with a "# " (don't forget the space) before it is a comment and is ignored when exporting to pdf.
+
+  ,** This is a sub-heading!
+  Remember our lists?
+  - Here is a list entry
+  - Here is another one
+
+  # Don't forget to add the bibliography by the end.
+  bibliographystyle:apacite
+  bibliography:/path/to/library.bib
+#+end_example

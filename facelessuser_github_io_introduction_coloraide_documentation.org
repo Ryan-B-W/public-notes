@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       c1952d44-1b8d-46b5-977a-30a71212d0e6
+:ROAM_REFS: https://facelessuser.github.io/coloraide/
+:END:
+#+title: (facelessuser.github.io) Introduction - ColorAide Documentation
+#+filetags: :colorimetry:software:website:
+
+#+begin_quote
+  ** What is ColorAide?
+
+  ColorAide is a pure Python, object oriented approach to colors.
+
+  #+begin_example
+    >>> from coloraide import Color
+    >>> Color.steps(['lch(75% 50 0)', 'lch(75% 50 300)'], steps=8, space='lch', hue='longer')
+    [color(--lch 75 50 0 / 1), color(--lch 75 50 42.857 / 1), color(--lch 75 50 85.714 / 1), color(--lch 75 50 128.57 / 1), color(--lch 75 50 171.43 / 1), color(--lch 75 50 214.29 / 1), color(--lch 75 50 257.14 / 1), color(--lch 75 50 300 / 1)]
+  #+end_example
+
+  ColorAide particularly has a focus on the following:
+  -  Accurate colors.
+  -  Proper round tripping (where reasonable).
+  -  Be generally easy to pick up for the average user.
+  -  Support modern CSS color spaces and syntax.
+  -  Make accessible many new and old non-CSS color spaces.
+  -  Provide a number of useful utilities such as interpolation, color distancing, blending, gamut mapping, filters, correlated color temperature, color vision deficiency simulation, color harmonies, etc.
+  -  Provide a plugin API to extend supported color spaces and approaches to various utilities.
+  -  Allow users to configure defaults to their liking.
+#+end_quote

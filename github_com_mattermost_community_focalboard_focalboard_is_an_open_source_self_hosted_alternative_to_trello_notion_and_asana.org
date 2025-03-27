@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       8791faf6-b6f9-4d8e-b505-d280507eb6d7
+:ROAM_REFS: https://github.com/mattermost-community/focalboard
+:END:
+#+title: (github.com) mattermost-community/focalboard: Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+#+filetags: :open_source:information_management:website:

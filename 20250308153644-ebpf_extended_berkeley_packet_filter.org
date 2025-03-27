@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       db8ba741-6ba2-4abc-9d8d-2b56cde53985
+:END:
+#+title: eBPF (extended Berkeley Packet Filter)
+#+filetags: :linux:networking:
+
+Extended, general-purpose, version of the [[id:bf0bc2d7-17df-413c-823b-93904faffc58][Linux]] kernel's [[id:b7fe46b5-84f5-494e-9442-b356d8a44c15][BPF]].
+* (ebpf.io) eBPF - Introduction, Tutorials & Community Resources    :website:
+:PROPERTIES:
+:ID:       bba77f2b-dcfe-427b-8bbe-75517fe5f8e1
+:ROAM_REFS: https://ebpf.io/
+:END:
+* (en.wikipedia.org) eBPF - Wikipedia                               :website:
+:PROPERTIES:
+:ID:       c04b6f7c-34bb-4a71-ada2-9418cf8b4787
+:ROAM_REFS: https://en.wikipedia.org/wiki/EBPF
+:END:
+
+#+begin_quote
+  *eBPF* is a technology that can run programs in a [[https://en.wikipedia.org/wiki/Privilege_(computing)][privileged context]] such as the [[https://en.wikipedia.org/wiki/Operating_system][operating system]] [[https://en.wikipedia.org/wiki/Kernel_(operating_system)][kernel]].  It is the successor to the [[https://en.wikipedia.org/wiki/Berkeley_Packet_Filter][Berkeley Packet Filter]] (BPF, with the "e" originally meaning "extended") filtering mechanism in Linux and is also used in non-networking parts of the Linux kernel as well.
+
+  It is used to safely and efficiently extend the capabilities of the kernel at [[https://en.wikipedia.org/wiki/Runtime_(program_lifecycle_phase)][runtime]] without requiring changes to kernel [[https://en.wikipedia.org/wiki/Source_code][source code]] or loading [[https://en.wikipedia.org/wiki/Loadable_kernel_module][kernel modules]].  Safety is provided through an in-kernel verifier which performs [[https://en.wikipedia.org/wiki/Static_code_analysis][static code analysis]] and rejects programs which crash, hang or otherwise interfere with the kernel negatively.
+
+  This validation model differs from [[https://en.wikipedia.org/wiki/Sandboxed][sandboxed]] environments, where the execution environment is restricted and the runtime has no insight about the program.  Examples of programs that are automatically rejected are programs without strong exit guarantees (i.e. for/while loops without exit conditions) and programs dereferencing pointers without safety checks.
+#+end_quote

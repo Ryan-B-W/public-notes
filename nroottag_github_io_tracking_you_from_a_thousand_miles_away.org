@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       6f073188-420b-4dd3-a596-4535c4c4ec52
+:ROAM_REFS: https://nroottag.github.io/
+:END:
+#+title: (nroottag.github.io) Tracking You from a Thousand Miles Away!
+#+filetags: :security:article:science_paper:website:
+
+#+begin_quote
+  * Tracking You from a Thousand Miles Away!  Turning a Bluetooth Device into an Apple AirTag Without Root Privileges
+
+  [[https://www.linkedin.com/in/junming-c/][Junming Chen]], [[https://agatah2333.github.io/][Xiaoyue Ma]], [[https://lannan.github.io/][Lannan Luo]], [[https://cs.gmu.edu/~zeng/][Qiang Zeng]]
+
+  George Mason University
+  USENIX Security 2025
+
+  A remote attacker can exploit this vulnerability to turn your device---whether it's a desktop, smartphone, or smartwatch---into an AirTag-like tracker, enabling the attacker to track your location.  How does it work?  Over 1.5 billion iPhones could act as free tracking agents for the attacker worldwide.
+
+  ** Abstract
+
+  Apple's Find My network, leveraging over a billion active Apple devices, is the world's largest device-locating network.  We investigate the potential misuse of this network to maliciously track Bluetooth devices.  We present /nRootTag/, a novel attack method that transforms computers into trackable “AirTags” without requiring root privileges.  The attack achieves a success rate of over 90% within minutes at a cost of only a few US dollars.  Or, a rainbow table can be built to search keys instantly.  Subsequently, it can locate a computer in minutes, posing a substantial risk to user privacy and safety.  The attack is effective on Linux, Windows, and Android systems, and can be employed to track desktops, laptops, smartphones, and IoT devices.  Our comprehensive evaluation demonstrates nRootTag's effectiveness and efficiency across various scenarios.
+#+end_quote

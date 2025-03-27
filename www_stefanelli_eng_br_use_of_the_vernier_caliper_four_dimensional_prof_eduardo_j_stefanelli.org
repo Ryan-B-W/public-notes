@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3259372b-081f-4281-ae62-e23986874161
+:ROAM_REFS: https://www.stefanelli.eng.br/en/use-vernier-caliper/#swiffycontainer_1
+:END:
+#+title: (www.stefanelli.eng.br) Use of the Vernier Caliper - Four-Dimensional | Prof. Eduardo J. Stefanelli
+#+filetags: :education:metrology:website:
+
+#+begin_quote
+  : Use of the vernier caliper or dial caliper or digital caliper- four-dimensional
+
+  The vernier caliper is a measurement tool equiped with one scale and a cursor that slides in itself and it was designed to take linear dimensions by contact.
+
+  The most popular type in mechanical workshops is the one equiped with nonius, but, usually, all kinds are enabled to take external, internal, depth and rebound measurements.
+
+  - To comprehend the science of the measuring with caliper, we suggest you to read and interact with the simulators on the pages:
+    - [[https://www.stefanelli.eng.br/en/virtual-vernier-caliper-reading-tenths-millimeter-simulator/][Simulator of reading nd interpretation of vernier scale in millimeter, tenth resolution]]
+    - [[https://www.stefanelli.eng.br/en/virtual-vernier-caliper-millimeter-simulator-05/][Virtual vernier caliper -- simulator of use and reading, resolution five hundredths of millimeter 0.05mm]]
+
+  Some caliper models are four-dimensional, this means that it can be used in four different ways in the measurement.
+#+end_quote
+* See Also
+** [[id:f89e54a6-54c5-4a86-8203-383dcedf4549][(www.stefanelli.eng.br) Virtual Vernier Caliper - Reading and Interpretation in Tenths of Millimeter Simulator | Prof. Eduardo J. Stefanelli]]

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       de56c5de-16b2-4c21-bf74-55e3c734322e
+:ROAM_REFS: https://lobste.rs/s/lb2eld/switching_meow_modal_editing_system_from
+:END:
+#+title: (lobste.rs) Switching to the meow modal editing system from evil | Lobsters
+#+filetags: :emacs:social_media:website:
+
+Links to:
+* [[id:5fe779c6-165e-4e65-b7d0-04aae086b2b5][(esrh.me) eshan ramesh: Switching to the meow modal editing system from evil]]
+* [[id:df34aa4b-6e9f-4810-8f24-adb384b83103][(github.com) eshrh/nyaatouch: an ergonomic modal editing scheme for emacs optimized for dvorak built on meow]]

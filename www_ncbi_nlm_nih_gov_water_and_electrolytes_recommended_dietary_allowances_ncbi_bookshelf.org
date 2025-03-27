@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       369824c6-091b-4518-ae5a-6ef2be11e01a
+:ROAM_REFS: https://www.ncbi.nlm.nih.gov/books/NBK234935/
+:END:
+#+title: (www.ncbi.nlm.nih.gov) Water and Electrolytes - Recommended Dietary Allowances - NCBI Bookshelf
+#+filetags: :exercise:nutrition:health:website:

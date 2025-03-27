@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       d04add2f-13d3-43e5-8922-8165977b271a
+:ROAM_REFS: https://protesilaos.com/emacs/denote
+:END:
+#+title: (protesilaos.com) Denote (denote.el) | Protesilaos Stavrou
+#+filetags: :information_management:lisp:emacs:software:website:
+
+#+begin_quote
+  Simple notes for Emacs with an efficient file-naming scheme
+  This manual, written by Protesilaos Stavrou, describes the customization options for the Emacs package called denote (or denote.el), and provides every other piece of information pertinent to it.
+  The documentation furnished herein corresponds to stable version 3.0.0, released on 2024-06-30.  Any reference to a newer feature which does not yet form part of the latest tagged commit, is explicitly marked as such.
+#+end_quote

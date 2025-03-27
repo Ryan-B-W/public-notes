@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       5308a3a8-be38-4304-9f75-ee390e0085d0
+:ROAM_REFS: https://en.wikipedia.org/wiki/Paula_Scher
+:END:
+#+title: (en.wikipedia.org) Paula Scher - Wikipedia
+#+filetags: :design:people:website:
+
+#+begin_quote
+  Paula Scher is an American graphic designer, painter and art educator in design. She also served as the first female principal at Pentagram, which she joined in 1991.
+#+end_quote

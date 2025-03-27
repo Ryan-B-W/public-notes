@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       3b6bcddd-6c13-4930-a818-1c72cd20d8de
+:ROAM_REFS: https://web.archive.org/web/20211214014651/https:/twitter.com/tapbot_paul/status/1004361530018852864
+:END:
+#+title: (web.archive.org) Paul Haddad on Twitter: "Apple killed off subpixel antialiasing in 10.14 and called it a “refinement”. Not sure they know what that word means.… https://t.co/MDxiLTrmYP"
+#+filetags: :archive_org:fonts:twitter:website:
+
+Wayback Machine copy of [[https://twitter.com/tapbot_paul/status/1004361530018852864]].

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       ccb03213-6c83-4bc5-b034-9de659f1831e
+:ROAM_REFS: https://www.hrl.com/
+:END:
+#+title: (www.hrl.com) HRL Laboratories
+#+filetags: :website:

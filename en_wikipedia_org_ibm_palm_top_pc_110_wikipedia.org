@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       cabf0b5b-0802-4cef-884e-9de49af12944
+:ROAM_REFS: https://en.wikipedia.org/wiki/IBM_Palm_Top_PC_110
+:END:
+#+title: (en.wikipedia.org) IBM Palm Top PC 110 - Wikipedia
+#+filetags: :electronics:website:
+
+#+begin_quote
+  The *Palm Top PC 110* is a [[https://en.wikipedia.org/wiki/Handheld_PC][handheld personal computer]] that was developed jointly by [[https://en.wikipedia.org/wiki/IBM][IBM]]'s [[https://en.wikipedia.org/wiki/IBM_Japan][Japanese subsidiary]] and [[https://en.wikipedia.org/wiki/Ricoh][Ricoh]].  It was released exclusively in Japan in September 1995.  It used the [[https://en.wikipedia.org/wiki/Intel_80486SX][Intel 80486SX]] microprocessor and was available in three different configurations.  It used a Japanese keyboard, could be used in a docking station, and had a modem connection.  During the development phase, the size was decreased.  After the release, it was received positively for the number of features, but negatively for the small keyboard.
+#+end_quote

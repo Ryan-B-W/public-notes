@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       a1e8dd71-157e-4b85-8cae-6fafbe70a840
+:ROAM_REFS: https://en.wikipedia.org/wiki/Gamma_function
+:END:
+#+title: (en.wikipedia.org) Gamma function - Wikipedia
+#+filetags: :mathematics:website:
+
+#+begin_quote
+  In mathematics, the gamma function (represented by Γ, the capital letter gamma from the Greek alphabet) is one commonly used extension of the factorial function to complex numbers.  The gamma function is defined for all complex numbers except the non-positive integers.  For every positive integer \(n\), \[\Gamma (n)=(n-1)!\,.\]
+  Derived by Daniel Bernoulli, for complex numbers with a positive real part, the gamma function is defined via a convergent improper integral:
+  \[\Gamma (z)=\int _{0}^{\infty }t^{z-1}e^{-t}{\text{ d}}t,\ \qquad \Re (z)>0\,.\]
+  The gamma function then is defined as the analytic continuation of this integral function to a meromorphic function that is holomorphic in the whole complex plane except zero and the negative integers, where the function has simple poles.
+  The gamma function has no zeros, so the reciprocal gamma function \(\frac{1}{\Gamma(z)}\) is an entire function.  In fact, the gamma function corresponds to the Mellin transform of the negative exponential function:
+  \[\Gamma (z)={\mathcal {M}}\{e^{-x}\}(z)\,.\]
+  Other extensions of the factorial function do exist, but the gamma function is the most popular and useful.  It is a component in various probability-distribution functions, and as such it is applicable in the fields of probability and statistics, as well as combinatorics.
+#+end_quote

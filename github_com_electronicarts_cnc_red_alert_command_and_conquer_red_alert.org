@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       9f51ac8f-b7e4-44e6-bccc-4652030f2f2b
+:ROAM_REFS: https://github.com/electronicarts/CnC_Red_Alert
+:END:
+#+title: (github.com) electronicarts/CnC_Red_Alert: Command and Conquer: Red Alert
+#+filetags: :open_source:games:software:website:
+
+#+begin_quote
+  * Command & Conquer Red Alert
+
+  This repository includes source code for Command & Conquer Red Alert.  This release provides support to the [[https://steamcommunity.com/workshop/browse/?appid=2229840][Steam Workshop]] for the game.
+#+end_quote

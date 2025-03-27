@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6de3183e-766c-4a8a-a21e-30bf0b56c954
+:ROAM_REFS: https://libbyapp.com/ https://libbyapp.com/interview/welcome#doYouHaveACard
+:END:
+#+title: (libbyapp.com) Libby - Welcome
+#+filetags: :library:books:website:
+
+Library ebook lending program.
+#+begin_quote
+  Welcome! Thousands of public libraries offer ebooks and audiobooks (for free!) in Libby.  Let me ask you a few questions, to guide you to your library.
+#+end_quote

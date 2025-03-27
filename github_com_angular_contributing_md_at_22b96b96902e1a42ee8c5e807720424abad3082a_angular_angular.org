@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       59ebaaca-61b7-4583-8695-5b916b9f7ffd
+:ROAM_REFS: https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines
+:END:
+#+title: (github.com) angular/CONTRIBUTING.md at 22b96b96902e1a42ee8c5e807720424abad3082a · angular/angular
+#+filetags: :website:
+
+#+begin_quote
+  We have very precise rules over how our git commit messages can be formatted.  This leads to more readable messages that are easy to follow when looking through the project history.  But also, we use the git commit messages to generate the Angular change log.
+#+end_quote

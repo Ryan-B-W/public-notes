@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       aca3027d-14d0-43e1-ab13-de86640ed0c8
+:ROAM_REFS: https://wiki.gentoo.org/wiki/Fonts/Software
+:END:
+#+title: (wiki.gentoo.org) Fonts/Software - Gentoo wiki
+#+filetags: :website:
+
+#+begin_quote
+  End-user software for working with fonts.  Please do not list fonts or font packages on this page.
+#+end_quote

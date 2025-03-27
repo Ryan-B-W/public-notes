@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       6d895478-7c14-4679-ad9c-862dd03154e8
+:ROAM_REFS: https://pikuma.com/blog/math-for-game-developers
+:END:
+#+title: (pikuma.com) Pikuma: Fundamental Math for Game Developers
+#+filetags: :game_development:mathematics:website:

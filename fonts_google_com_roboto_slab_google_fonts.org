@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       8ea1c9e6-fb5b-4525-aa75-1948ac32ab07
+:ROAM_REFS: https://fonts.google.com/specimen/Roboto+Slab
+:END:
+#+title: (fonts.google.com) Roboto Slab - Google Fonts
+#+filetags: :fonts_slab_serif:fonts_proportional:fonts:website:

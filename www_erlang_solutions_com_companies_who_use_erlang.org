@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       1ee10041-2498-4015-978f-0c66560f1072
+:ROAM_REFS: https://www.erlang-solutions.com/blog/which-companies-are-using-erlang-and-why-mytopdogstatus/
+:END:
+#+title: (www.erlang-solutions.com) Companies Who Use Erlang
+#+filetags: :erlang:website:

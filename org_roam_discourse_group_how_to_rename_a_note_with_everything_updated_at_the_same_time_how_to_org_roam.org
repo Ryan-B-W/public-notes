@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       d466a128-a4ec-4830-b617-cd911660b119
+:ROAM_REFS: https://org-roam.discourse.group/t/how-to-rename-a-note-with-everything-updated-at-the-same-time/300
+:END:
+#+title: (org-roam.discourse.group) How to rename a note with everything updated at the same time? - How To - Org-roam
+#+filetags: :forums:lisp:emacs:website:

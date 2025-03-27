@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       da7ac241-9670-4684-a42a-0fc46aed8890
+:END:
+#+title: Go Programming Language
+#+filetags: :google:programming:go_lang:programming_language:computer_science:
+
+[[id:d1f206c7-36f4-431e-af68-115df4d7a4ff][Compiled]], [[id:d7560e61-28f8-406d-933f-95ca750f0112][statically-typed]], [[id:1a857a79-1bc3-42c2-92ee-897a864b10de][object-oriented]], [[id:f21c5506-6fef-4e8c-8116-162f1864d4d8][garbage-collected]] [[id:b24601aa-09df-41e1-aa7e-25ead342db34][programming language]].
+* (go.dev) The Go Programming Language :website:google:programming:go_lang:programming_language:computer_science:
+:PROPERTIES:
+:ID:       dfe9f474-7617-4f50-89f6-da637d852c42
+:ROAM_REFS: https://go.dev/
+:END:
+* (en.wikipedia.org) Go (programming language) - Wikipedia :website:google:programming:go_lang:programming_language:computer_science:
+:PROPERTIES:
+:ID:       7f1a06ac-c0a6-453f-8865-5fda917785ca
+:ROAM_REFS: https://en.wikipedia.org/wiki/Go_(programming_language)
+:END:
+
+#+begin_quote
+  Go is a statically typed, compiled high-level programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson.  It is syntactically similar to C, but also has memory safety, garbage collection, structural typing, and CSP-style concurrency.  It is often referred to as Golang because of its former domain name, golang.org, but its proper name is Go.
+#+end_quote

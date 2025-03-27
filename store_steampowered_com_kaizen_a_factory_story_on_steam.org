@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       14e56f20-9a76-4cfe-acb1-437a081fa046
+:ROAM_REFS: https://store.steampowered.com/app/2275490/Kaizen_A_Factory_Story/
+:END:
+#+title: (store.steampowered.com) Kaizen: A Factory Story on Steam
+#+filetags: :store:software:games:website:
+
+#+begin_quote
+  ** About This Game
+
+  The year is 1986 and you are David Sugimoto, born and raised in South Bend, Indiana.  Thanks to a family friend, you're headed to Japan for your very first job at Matsuzawa Manufacturing.
+
+  Japan's economy is booming.  They're looking for smart, young, motivated business professionals just like you.  You're going to go get to live that 80s executive life and jet-set around the globe, right?
+
+  ...Right?
+
+  Initially promised a job with the international sales team, you show up at your new job and it isn't a shiny office.  It's one of Matsuzawa's old factories in the outskirts of Tokyo.  You're quickly put to work designing automated production lines.  Do you have what it takes to survive as a rookie thrust into the fascinating world of factory automation?
+
+  From the creators of Opus Magnum, SpaceChem, and Infinifactory comes Kaizen: A Factory Story --- another masterfully engineered game.
+
+  Weld, rivet, cut, and drill the optimal design and share your solutions to build the simplest, fastest, and sleekest items in your factory.  Export animated GIFs to show them off.
+
+  But wait!  There's more!  In case you want to take a break from factory life, you can spend your days playing Pachi-Sol, an exciting new pachinko-themed solitaire game.
+#+end_quote

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       75bc0059-03cb-4bb1-85e2-aa86d578af90
+:ROAM_REFS: https://www.twitch.tv/suvidriel
+:END:
+#+title: (www.twitch.tv) Suvidriel - Twitch
+#+filetags: :twitchtv:website:
+
+#+begin_quote
+  Hi hiii and welcome cutie~ ❤️  I'm Suvi, a happy and energetic catgirl VTuber, indiedev and ASMRtist from Finland~ ❤️  I'm also the developer of MeowFace and VNyan VTuber Applications. ❤️  Grab a blanket and enjoy the positivity and comfy vibes~ ❤️
+#+end_quote
+* Trackers
+** [[id:8a65b4d9-2d62-4057-b3b7-645229476c35][Rokoko Smartsuit Pro II]]
+** [[id:cdffa05d-110a-4ff2-b036-5b5d97cc5b6a][Rokoko Smartgloves]]
+** [[id:55d4fc01-cedf-4f0c-a8b6-0bc47f947b3e][Valve Index]]
+** [[id:20238535-3cfe-43e4-995d-fd0492c0bcb1][VIVE Tracker]]
+** [[id:02b793e3-df8d-463f-b050-ba0600f9c897][iPhone XR]]

@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       6476cbac-d7bd-43e5-b25d-6d3f3f98e12c
+:ROAM_REFS: https://www.ciinet.org/kevin/OpenSourceGames.html
+:END:
+#+title: (www.ciinet.org) You Can't Always Have Nice Things
+#+filetags: :open_source:games:lists:website:
+
+#+begin_quote
+  * You Can't Always Have Nice Things
+
+  DISCLAIMER: I may be incorrect about one or more things I wrote in this article. Some of these are educated guesses, other parts of the article are based on what developers and studios have said in the past. I also got some tidbits of information from [[https://beehaw.org/post/809197][this discussion on Lemmy]] and the [[https://strawpoll.com/GeZAOXv6jnV][survey on strawpoll]] I ran last year.
+
+  Also, I'm putting footnotes after each paragraph rather than at the end of the article, because I think it's easier, quicker, and more sensical. I also tried to add links to both Steam and GOG.com where possible.
+
+  When I was reading the thread "[[https://web.archive.org/web/20241231073248/https://www.gamingonlinux.com/forum/topic/4038/][No tux, no bucks]]" on the GamingOnLinux forums, I noticed there were a few people saying that they won't buy games unless they are Free/Open Source. I do not agree with these people. Whilst [[https://samsai.eu/post/we-will-always-have-quake/][there is merit]] to Open Source games, I also recognize that there are quite a few reasons why developers cannot, or would not want to, release their games as Open Source. In addition, I feel disappointed that, of all the video games out today, almost none of them are Open Source, especially given the fact Id Software released the source code for almost all of their games prior to Quake 4 and Doom 2016.
+
+  And based on [[https://jacobian.org/2024/feb/16/paying-maintainers-is-good/][this article]], it sounds like video games are an ideal candidate for having their source code released, since the game can be sold as a proprietary audio, graphics, and level pack for the base game engine.
+
+  Kinsie wrote [[https://thekinsie.com/words/modmakers/][an article]] about why fewer modern games have mod support. Although Kinsie's article's topic is tangential to the topic of this article, modding and Open Source are closely related concepts when it comes to video games, since having the source code or some knowledge about the internal workings of the game/engine is necessary for making mods for it.
+
+  Some people believe that "Open Source" means releasing all of the code AND all of the assets for free. However, in this article, Open Source refers to video game executable source code releases, even if the assets remain nonfree.
+
+  Also, this article mainly talks about reasons developers choose not to release their source code, rather than reasons developers cannot release their source code (such as an HDD failure or bit rot).
+#+end_quote

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       5aa6488e-30ea-4282-b2fa-3edee4bfe02d
+:ROAM_REFS: https://en.wikipedia.org/wiki/Boolean_algebra_(structure)
+:END:
+#+title: (en.wikipedia.org) Boolean algebra (structure) - Wikipedia
+#+filetags: :mathematics:website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Abstract_algebra][abstract algebra]], a *Boolean algebra* or *Boolean lattice* is a [[https://en.wikipedia.org/wiki/Complemented_lattice][complemented]] [[https://en.wikipedia.org/wiki/Distributive_lattice][distributive lattice]].  This type of [[https://en.wikipedia.org/wiki/Algebraic_structure][algebraic structure]] captures essential properties of both [[https://en.wikipedia.org/wiki/Set_(mathematics)][set]] operations and [[https://en.wikipedia.org/wiki/Logic][logic]] operations.  A Boolean algebra can be seen as a generalization of a [[https://en.wikipedia.org/wiki/Power_set][power set]] algebra or a [[https://en.wikipedia.org/wiki/Field_of_sets][field of sets]], or its elements can be viewed as generalized [[https://en.wikipedia.org/wiki/Truth_value][truth values]].  It is also a special case of a [[https://en.wikipedia.org/wiki/De_Morgan_algebra][De Morgan algebra]] and a [[https://en.wikipedia.org/wiki/Kleene_algebra_(with_involution)][Kleene algebra (with involution)]].
+
+  Every Boolean algebra [[https://en.wikipedia.org/wiki/Boolean_algebra_(structure)#Boolean_rings][gives rise]] to a [[https://en.wikipedia.org/wiki/Boolean_ring][Boolean ring]], and vice versa, with [[https://en.wikipedia.org/wiki/Ring_(mathematics)][ring]] multiplication corresponding to [[https://en.wikipedia.org/wiki/Logical_conjunction][conjunction]] or [[https://en.wikipedia.org/wiki/Meet_(mathematics)][meet]] ∧, and ring addition to [[https://en.wikipedia.org/wiki/Exclusive_or][exclusive disjunction]] or [[https://en.wikipedia.org/wiki/Symmetric_difference][symmetric difference]] (not [[https://en.wikipedia.org/wiki/Logical_disjunction][disjunction]] ∨).  However, the theory of Boolean rings has an inherent asymmetry between the two operators, while the [[https://en.wikipedia.org/wiki/Axiom][axioms]] and theorems of Boolean algebra express the symmetry of the theory described by the [[https://en.wikipedia.org/wiki/Duality_principle_(Boolean_algebra)][duality principle]].
+#+end_quote

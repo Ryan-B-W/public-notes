@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       27e4afc4-d162-452f-8c86-ac2062ec1fb9
+:END:
+#+title: oN-Line System (NLS)
+
+The NLS computer system, short for oN-Line System, was a revolutionary computer system designed by [[id:83007e59-4910-4f5f-8a9f-88aa5a3c36cd][Douglas Engelbart]] in the 1960s and demonstrated in [[id:0bd7a57b-5428-4342-8b2f-4150683ba086]["The Mother of All Demos"]].  It was the first computer system to make use of [[id:a0ac6689-ad9b-4a28-b630-0dd12f15cff1][hypertext]], the computer mouse, raster-scan video monitors, relevance-based information organization, screen windowing, presentation programs, and other now standard computer concepts.
+
+Douglas Engelbart was inspired, at least in part, by the essay "[[id:3bd50b91-e9fa-402a-8fe9-154340bcba7a][As We May Think]]" by [[id:e5a582e4-16fb-4fd3-b182-07abf5720ee1][Vannevar Bush]].
+* See Also
+ - [[https://en.wikipedia.org/wiki/NLS_(computer_system)][NLS (computer system) - Wikipedia]]

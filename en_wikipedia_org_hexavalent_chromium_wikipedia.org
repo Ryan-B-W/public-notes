@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       9dff58f6-a590-41ac-83e5-ac30bdc7fca9
+:ROAM_REFS: https://en.wikipedia.org/wiki/Hexavalent_chromium
+:END:
+#+title: (en.wikipedia.org) Hexavalent chromium - Wikipedia
+#+filetags: :chemicals:chemistry:website:
+
+#+begin_quote
+  Hexavalent chromium (chromium(VI), Cr(VI), chromium 6) is any chemical compound that contains the element chromium in the +6 oxidation state (thus hexavalent).  It has been identified as carcinogenic, which is of concern since approximately 136,000 tonnes (150,000 tons) of hexavalent chromium were produced in 1985.  Hexavalent chromium compounds can be carcinogens (IARC Group 1), especially if airborne and inhaled where they can cause lung cancer.
+#+end_quote

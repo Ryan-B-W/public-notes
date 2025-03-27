@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       df34aa4b-6e9f-4810-8f24-adb384b83103
+:ROAM_REFS: https://github.com/eshrh/nyaatouch
+:END:
+#+title: (github.com) eshrh/nyaatouch: an ergonomic modal editing scheme for emacs optimized for dvorak built on meow
+#+filetags: :emacs_lisp:lisp:software:emacs:website:
+
+#+begin_quote
+  Nyaatouch is a highly ergonomic dvorak modal editing scheme for emacs.  It is built on the meow modal framework (hence the name), which I also help maintain.  Lots of code has been upstreamed into meow to make this system possible.  If you’re stumbling onto this repository and you either don’t use dvorak or would like something a little more traditional but still efficient, I’d suggest checking that project out first.
+#+end_quote

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       9256d839-d9a2-4b2d-bebe-9ee47e36a1be
+:ROAM_REFS: https://github.com/expez/evil-smartparens
+:END:
+#+title: (github.com) expez/evil-smartparens: Evil integration for Smartparens
+#+filetags: :emacs_lisp:lisp:emacs:software:website:
+
+An older way of integrating [[id:8278042c-72a7-4eac-806f-e369ffdd82c3][Smartparens]] with [[id:a5094857-0ab6-4566-b32d-6cb9adae21fc][Evil Mode]].  Doesn't have a lot of features and hasn't been maintained in a while.
+
+#+begin_quote
+  Evil smartparens is a minor mode which makes evil play nice with smartparens.
+#+end_quote

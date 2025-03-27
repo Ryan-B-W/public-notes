@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7464bc09-0286-4ba9-8f55-84d62ca11eba
+:ROAM_ALIASES: "Human Factors Engineering (HFE)" "Human Factors"
+:END:
+#+title: Ergonomics
+#+filetags: :human_interaction:design:
+* (en.wikipedia.org) Ergonomics - Wikipedia                         :website:
+:PROPERTIES:
+:ID:       530cd01a-6af3-4f0a-b3a9-262abd7dad94
+:ROAM_REFS: https://en.wikipedia.org/wiki/Ergonomics
+:END:
+
+#+begin_quote
+  Ergonomics, also known as human factors or human factors engineering (HFE), is the application of psychological and physiological principles to the engineering and design of products, processes, and systems.  Primary goals of human factors engineering are to reduce human error, increase productivity and system availability, and enhance safety, health and comfort with a specific focus on the interaction between the human and equipment.
+  The field is a combination of numerous disciplines, such as psychology, sociology, engineering, biomechanics, industrial design, physiology, anthropometry, interaction design, visual design, user experience, and user interface design.  Human factors research employs methods and approaches from these and other knowledge disciplines to study human behavior and generate data relevant to previously stated goals.  In studying and sharing learning on the design of equipment, devices, and processes that fit the human body and its cognitive abilities, the two terms, "human factors" and "ergonomics", are essentially synonymous as to their referent and meaning in current literature.
+  The International Ergonomics Association defines ergonomics or human factors as follows:
+  : Ergonomics (or human factors) is the scientific discipline concerned with the understanding of interactions among humans and other elements of a system, and the profession that applies theory, principles, data and methods to design to optimize human well-being and overall system performance.
+#+end_quote
+* See Also
+** [[id:b9ce61e4-2fd7-460e-8583-2a3128d05dd6][User Interface (UI)]]
+** [[id:7a1c5720-4743-433b-9d21-59ace486d39a][User Experience (UX)]]
+** [[id:de62e175-11b3-419c-b6ad-8860c94ae32b][Information Architecture (IA)]]

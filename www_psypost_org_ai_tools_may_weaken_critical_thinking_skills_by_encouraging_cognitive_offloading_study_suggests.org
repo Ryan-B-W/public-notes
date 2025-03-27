@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       04c5e945-0275-4489-80b8-5f88aebb8aeb
+:ROAM_REFS: https://www.psypost.org/ai-tools-may-weaken-critical-thinking-skills-by-encouraging-cognitive-offloading-study-suggests/
+:END:
+#+title: (www.psypost.org) AI tools may weaken critical thinking skills by encouraging cognitive offloading, study suggests
+#+filetags: :website:
+
+#+begin_quote
+  * AI tools may weaken critical thinking skills by encouraging cognitive offloading, study suggests
+
+  by [[https://www.psypost.org/author/edolan/][Eric W. Dolan]]
+
+  [[https://www.psypost.org/ai-tools-may-weaken-critical-thinking-skills-by-encouraging-cognitive-offloading-study-suggests/][March 21, 2025]]
+
+  in [[https://www.psypost.org/exclusive/artificial-intelligence/][Artificial Intelligence]], [[https://www.psypost.org/exclusive/cognition/][Cognitive Science]]
+
+  --------------
+
+  A new study published in the journal /[[https://www.mdpi.com/2075-4698/15/1/6][Societies]]/ suggests that frequent reliance on artificial intelligence tools may negatively affect critical thinking skills.  People who used AI tools more frequently demonstrated weaker critical thinking abilities, largely due to a cognitive phenomenon known as cognitive offloading.  This effect was particularly pronounced among younger individuals, while those with higher education levels tended to retain stronger critical thinking skills regardless of AI tool usage.
+#+end_quote

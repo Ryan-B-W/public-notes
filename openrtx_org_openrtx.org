@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8cadaa2f-5f33-4803-86aa-76a9d388776b
+:ROAM_REFS: https://openrtx.org/#/
+:END:
+#+title: (openrtx.org) OpenRTX
+#+filetags: :open_source:software:amateur_radio:radio:website:
+
+#+begin_quote
+  Free and Open Source Firmware for Digital Ham Radios
+  Top-down designed with modularity, flexibility and performance in mind.
+#+end_quote

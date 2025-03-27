@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       26b3cddf-bf1b-42fd-833f-331c4c19d19c
+:ROAM_REFS: https://peetseater.space/blag/2025-02-23-sentiment-tuber-2
+:END:
+#+title: (peetseater.space) PNGTuber part 2: Adding rules and abstractions
+#+filetags: :vtubers:blog_post:website:
+
+#+begin_quote
+  * Sentiment analysis tuber part 2
+
+  In my [[https://peetseater.space/blag/2025-02-01-sentiment-analysis-tuber.html][previous post]] we got a proof of concept for taking in speech and converting it into actions to display specific images in OBS up and running. Much like regular software development, an MVP is a work meant to flush out ideas and then to be thrown away or refactored into the base of a project. So today, we're going to take what we learned, refactor it into a framework, and then add some enhancements to start turning a POC into a useful application.
+#+end_quote

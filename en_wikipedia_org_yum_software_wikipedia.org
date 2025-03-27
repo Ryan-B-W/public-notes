@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       2fb87a09-fe63-4ded-a40a-87b020add9b7
+:ROAM_REFS: https://en.wikipedia.org/wiki/Yum_(software)
+:END:
+#+title: (en.wikipedia.org) yum (software) - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  The *Yellowdog Updater Modified* (*YUM*) is a [[https://en.wikipedia.org/wiki/Free_and_open-source_software][free and open-source]] [[https://en.wikipedia.org/wiki/Command-line_interface][command-line]] [[https://en.wikipedia.org/wiki/Package_management_system][package-management]] utility for computers running the [[https://en.wikipedia.org/wiki/Linux][Linux]] [[https://en.wikipedia.org/wiki/Operating_system][operating system]] using the [[https://en.wikipedia.org/wiki/RPM_Package_Manager][RPM Package Manager]].  Though YUM has a command-line interface, several other tools provide [[https://en.wikipedia.org/wiki/Graphical_user_interface][graphical user interfaces]] to YUM functionality.
+
+  YUM allows for automatic updates and package and dependency management on RPM-based distributions.  Like the [[https://en.wikipedia.org/wiki/Advanced_Packaging_Tool][Advanced Package Tool]] (APT) from [[https://en.wikipedia.org/wiki/Debian][Debian]], YUM works with [[https://en.wikipedia.org/wiki/Software_repository][software repositories]] (collections of packages), which can be accessed locally or over a network connection.
+
+  Under the hood, YUM depends on [[https://en.wikipedia.org/wiki/RPM_Package_Manager][RPM]], which is a packaging standard for [[https://en.wikipedia.org/wiki/Digital_distribution][digital distribution]] of software, which automatically uses [[https://en.wikipedia.org/wiki/MD5][hashes]] and [[https://en.wikipedia.org/wiki/GNU_Privacy_Guard][digital signatures]] to verify the authorship and integrity of said software; unlike some [[https://en.wikipedia.org/wiki/App_stores][app stores]], which serve a similar function, neither YUM nor RPM provide built-in support for [[https://en.wikipedia.org/wiki/Digital_rights_management][proprietary restrictions]] on copying of packages by end-users.  YUM is implemented as libraries in the [[https://en.wikipedia.org/wiki/Python_(programming_language)][Python]] programming language, with a small set of programs that provide a [[https://en.wikipedia.org/wiki/Command-line_interface][command-line interface]].  GUI-based wrappers such as YUM Extender (yumex) also exist, and has been adopted for Fedora Linux until version 22.
+
+  A rewrite of YUM named [[https://en.wikipedia.org/wiki/DNF_(software)][DNF]] replaced YUM as the default package manager in [[https://en.wikipedia.org/wiki/Fedora_(operating_system)][Fedora 22]] (in 2015).  This was required due to Fedora's transition from Python 2 to Python 3, which is not supported by YUM.  DNF also improves on YUM in several ways - improved performance, better resolution of dependency conflicts, and easier integration with other software applications.  From [[https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux][RHEL 8]], yum is an alias for [[https://en.wikipedia.org/wiki/DNF_(software)][DNF]].
+#+end_quote

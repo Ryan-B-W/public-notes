@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       278882ec-b59f-4c54-a4eb-d1bbbfd3523e
+:ROAM_REFS: https://github.com/Panadestein/emacsd/blob/master/content/index.org
+:END:
+#+title: (github.com) emacsd/content/index.org at master · Panadestein/emacsd · GitHub
+#+filetags: :lisp:emacs_lisp:emacs:website:

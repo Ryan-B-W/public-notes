@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       cc4110c3-856a-45f6-b3d9-61db952ad237
+:END:
+#+title: ELisp Snippet: auto reformat node title and rename file to match
+#+filetags: :snippets:emacs_lisp:lisp:emacs:
+
+#+begin_src elisp
+  ;; Custom renaming function.
+  (defun my/rename-org-roam-visited-file ()
+    (interactive)
+    (let* ((node (org-roam-node-at-point t))
+           (replacement-title (concat "(" (url-host (url-generic-parse-url (car (org-roam-node-refs node)))) ") " (org-roam-node-title node)))
+           (replacement-title-property (concat "#+title: " replacement-title))
+           (current-file-name (buffer-file-name (current-buffer))))
+      ;(message "New calculated title is \"%s\"." replacement-title)
+      (if (not (and current-file-name (file-exists-p current-file-name)))
+          (message "Buffer is not visiting a file!")
+        (perform-replace "^#\\+title\\: .*$" replacement-title-property nil t nil nil nil (point-min) (point-max) nil nil)
+        (save-buffer)
+        ;(message "Saved file \"%s\" with new title." (buffer-file-name (current-buffer)))
+        (let* ((node (org-roam-node-at-point t))
+               (slug (org-roam-node-slug node))
+               (new-file-name (concat (file-name-directory current-file-name) slug ".org")))
+          ;(message "New file name is \"%s\" based on slug \"%s\"." new-file-name slug)
+          (cond
+           ((vc-backend current-file-name)
+            ;(message "Renaming file \"%s\" to \"%s\" via VC." current-file-name new-file-name)
+            (vc-rename-file current-file-name new-file-name)
+            (org-roam-db-autosync--rename-file-a current-file-name new-file-name))
+           (t
+            ;(message "Renaming file \"%s\" to \"%s\" normally." current-file-name new-file-name)
+            (rename-file current-file-name new-file-name 1)
+            (set-visited-file-name new-file-name t t)))))))
+  ;; Bind the renaming function to "<Space> m"
+  (bind-key (kbd "m") #'my/rename-org-roam-visited-file custom-leader-map)
+#+end_src

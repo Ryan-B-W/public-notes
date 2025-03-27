@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       01b40f47-e5e8-46a2-a8f7-3c719e9f245c
+:END:
+#+title: Computer Science Concepts
+#+filetags: :programming:computer_science:
+
+* [[id:bf5900d9-5be8-49ca-bfcc-46587cc787dc][Computer]]
+* [[id:06a2cb83-466e-4e40-ac36-6dd7110d9535][Data-Structures]]
+Data and algorithms that form data-structures that exhibit some well specified behavior and performance characteristics.
+* [[id:b24601aa-09df-41e1-aa7e-25ead342db34][Programming Language]]s              :programming_languages:computer_science:
+Languages used to instruct the computer to execute a sequence of operations.
+** [[id:d1f206c7-36f4-431e-af68-115df4d7a4ff][Compiler]]
+* [[id:bbdbd1d6-ce5c-4aeb-85ea-96ab26afc28a][Programming Paradigm]]                          :programming_language_design:
+Different ways of structuring and designing programs.  Often, specific sets of programming paradigms are facilitated by a [[id:b24601aa-09df-41e1-aa7e-25ead342db34][programming language]].
+* [[id:a4c2de37-5317-44f3-b877-ec0b5777c61f][File Systems]]                                                  :filesystems:
+A system for storing, organizing, and retrieving files.
+* [[id:3ea08bdb-19a6-4d05-9c8f-99da99e74de4][Human-Computer Interaction]]
+** [[id:88db686f-0d77-4ecc-a9d6-43017ef7440f][Graphical User Interface]]
+* [[id:b10990c2-d056-42f5-a4e7-145a405d9550][Artificial Intelligence]]

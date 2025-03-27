@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       976261c8-0648-48ef-b1c4-895f8e907e3c
+:ROAM_REFS: https://direct.mit.edu/books/oa-monograph/4663/Turtle-GeometryThe-Computer-as-a-Medium-for
+:END:
+#+title: (direct.mit.edu) Turtle Geometry: The Computer as a Medium for Exploring Mathematics | Books Gateway | MIT Press
+#+filetags: :computer_science:textbooks:books:education_resource:website:
+
+#+begin_quote
+  * Turtle Geometry: The Computer as a Medium for Exploring Mathematics
+
+  By Harold Abelson, Andrea diSessa
+
+  The MIT Press
+
+  DOI: https://doi.org/10.7551/mitpress/6933.001.0001
+
+  ISBN electronic: 9780262362740
+
+  Publication date: 1981
+
+  Turtle Geometry presents an innovative program of mathematical discovery that demonstrates how the effective use of personal computers can profoundly change the nature of a student's contact with mathematics.  Using this book and a few simple computer programs, students can explore the properties of space by following an imaginary turtle across the screen.  The concept of turtle geometry grew out of the Logo Group at MIT.  Directed by Seymour Papert, author of Mindstorms, this group has done extensive work with preschool children, high school students and university undergraduates.
+
+  The open access edition of this book was made possible by generous funding from Arcadia – a charitable fund of Lisbet Rausing and Peter Baldwin.
+#+end_quote

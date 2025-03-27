@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       ce34879c-8d0a-423a-92ce-2ee7dc08bea1
+:END:
+#+title: Tabletop Roll Playing Game Issues
+#+filetags: :rpg:tabletop_games:games:
+
+Common issues in [[id:a5ea8f20-b0a8-482d-9388-5f82f3c218d0][tabletop role-playing games]].

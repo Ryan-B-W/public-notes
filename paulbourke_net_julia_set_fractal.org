@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       9e614c14-79f0-4a6b-bf4b-c7db2dca0485
+:ROAM_REFS: https://paulbourke.net/fractals/juliaset/
+:END:
+#+title: (paulbourke.net) Julia set fractal
+#+filetags: :graphics:mathematics:website:
+
+#+begin_quote
+  * Julia Set Fractal (2D)
+
+  Written by [[https://paulbourke.net/fractals/][Paul Bourke]]\\
+  June 2001
+
+  See also: [[https://paulbourke.net/fractals/sinjulia/][Julia set of sin(z)]]\\
+  Python generator: [[https://paulbourke.net/fractals/juliaset/julia_set.py][julia_set.py]] by Tim Meehan.
+
+  The Julia set is named after the French mathematician Gaston Julia who investigated their properties circa 1915 and culminated in his famous paper in 1918.  While the Julia set is now associated with a simpler polynomial, Julia was interested in the iterative properties of a more general expression, namely z^{4} + z^{3}/(z-1) + z^{2}/(z^{3} + 4 z^{2} + 5) + c.
+#+end_quote

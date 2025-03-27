@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       9f61caf6-c9c6-42f5-92a8-2799b75c3566
+:ROAM_REFS: https://forum.cloudron.io/topic/9367/koillection-a-self-hosted-website-to-manage-all-your-collections
+:END:
+#+title: (forum.cloudron.io) koillection : A self-hosted website to manage all your collections | Cloudron Forum
+#+filetags: :www:software:organization:forums:website:
+
+OP links to:
+* [[id:26e3157c-9f99-4da5-a665-00abe4783d55][(koillection.github.io) Koillection]]
+* [[id:84c2577e-3ec0-4932-b70f-192201d55a17][(github.com) benjaminjonard/koillection: Koillection is a self-hosted service allowing users to manage any kind of collections.]]

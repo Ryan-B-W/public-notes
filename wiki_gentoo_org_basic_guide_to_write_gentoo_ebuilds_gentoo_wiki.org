@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       254f4aff-a1ee-4e9b-8892-e5e80bb73845
+:ROAM_REFS: https://wiki.gentoo.org/wiki/Basic_guide_to_write_Gentoo_Ebuilds
+:END:
+#+title: (wiki.gentoo.org) Basic guide to write Gentoo Ebuilds - Gentoo wiki
+#+filetags: :gentoo:operating_systems:linux:website:
+
+#+begin_quote
+  This is a guide to getting started writing ebuilds, to harness the power of Portage, to install and manage even more software.
+  Write an ebuild to install a piece of software on Gentoo, when there are no suitable preexisting ebuilds.  It's a relatively straight forward task, and is the only way to cleanly install most "third party" software system-wide.  The ebuild will allow the package manager to track every file installed to the system, to allow clean updates and removal.
+#+end_quote

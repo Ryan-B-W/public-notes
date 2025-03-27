@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       5487389c-1439-4ec7-a1db-2c15c55fddba
+:ROAM_REFS: https://blog.jse.li/posts/torrent/
+:END:
+#+title: (blog.jse.li) Building a BitTorrent client from the ground up in Go | Jesse Li
+#+filetags: :networking:software_development:programming:computer_science:blog_post:website:
+
+#+begin_quote
+  * Building a BitTorrent client from the ground up in Go
+
+  Jan 4, 2020
+
+  *tl;dr:* What is the complete path between visiting thepiratebay and sublimating an mp3 file from thin air? In this post, we'll implement enough of the BitTorrent protocol to download Debian. Look at the [[https://github.com/veggiedefender/torrent-client/][Source code]] or skip to the [[https://blog.jse.li/posts/torrent#putting-it-all-together][last bit]].
+
+  This post is also available in [[https://web.archive.org/web/20200616163517if_/https://4gophers.ru/articles/bittorrent/#.Xuj0zivLerw][Russian]], [[https://markruler.github.io/posts/go/building-bittorrent-client/][Korean]], and [[https://blog.mynameisdhr.com/YongGOCongLingJianLiBitTorrentKeHuDuan/][Chinese]].
+
+  BitTorrent is a protocol for downloading and distributing files across the Internet. In contrast with the traditional client/server relationship, in which downloaders connect to a central server (for example: watching a movie on Netflix, or loading the web page you're reading now), participants in the BitTorrent network, called *peers*, download pieces of files from /each other/---this is what makes it a *peer-to-peer* protocol. We'll investigate how this works, and build our own client that can find peers and exchange data between them.
+#+end_quote

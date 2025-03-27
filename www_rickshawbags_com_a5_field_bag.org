@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       88344459-3385-4e2b-82d4-1d40f5ce4f5a
+:ROAM_REFS: https://www.rickshawbags.com/bags/a5-field-bag?Add-Ons=83317904&Inside=83317837&Label=83317871&Outside=83317793&Paracord=83317903
+:END:
+#+title: (www.rickshawbags.com) A5 Field Bag
+#+filetags: :bags:website:
+
+#+begin_quote
+  Our A5 Field Bag is the perfect companion for the everyday journalist and sketch artist.  Whether you're chillin' at your local cafe or trekking the great oudoors, this compact, cross-body bag keeps all of your journaling and sketching essentials organized and at-the-ready.  The internal dimensions are 6.5 x 8.75 x 3.0 inches, comfortably accommodating an A5 notebook (or two).  We even designed a medium-size zippered Utility Pouch to fit neatly into the bag, to corral your loose pens, pencils and miscellany.  Two internal slip pockets help organize Pen Coozies and pocket notebooks, and a d-ring allows you to securely tether your keyring.  An internal layer of foam on all four sides and the bottom, provides extra protection of your precious cargo.  An external slip pocket on one side allows quick access to slim items.  The A5 Field Bag comes with a removable shoulder strap, 1.5-inches wide for comfort, featuring rugged plastic j-clips and our quick-adjust cam buckle for on-the-fly strap length adjustment.  If you’re a bullet journalist, urban sketcher, nature artist, or mobile-minimalist, we think our A5 Field Bag is your perfect on-the-go companion.
+#+end_quote

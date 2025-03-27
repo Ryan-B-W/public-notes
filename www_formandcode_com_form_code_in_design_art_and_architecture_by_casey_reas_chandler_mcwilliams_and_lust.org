@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       baab1dfd-7b60-4b5f-817e-aed21c674b15
+:ROAM_REFS: https://www.formandcode.com/
+:END:
+#+title: (www.formandcode.com) FORM+CODE In Design, Art, and Architecture by Casey Reas, Chandler McWilliams, and LUST
+#+filetags: :programming:design:books:website:
+
+#+begin_quote
+  Once the exclusive domain of programmers, code is now being used by a new generation of designers, artists, and architects eager to explore how software can enable innovative ways of generating form and translating ideas.  Form+Code in Design, Art, and Architecture offers an in-depth look at the use of software in a wide range of creative disciplines.  This visually stimulating survey introduces readers to over 250 signiﬁcant works and undertakings of the past 60 years in the ﬁelds of ﬁne and applied art, architecture, industrial design, digital fabrication, visual cinema, photography, typography, interactive media, gaming, artiﬁcial intelligence (AI), artiﬁcial life (a-life), and graphic design, including data mapping and visualizations, and all forms of new media and expression.
+
+  Princeton Architectural Press\\
+  ISBN 9781568989372\\
+  7 x 8.5 inches (17.8 x 21.6 cm)\\
+  Paperback, 176 pages
+
+  [[http://www.amazon.com/gp/product/1568989377?ie=UTF8&tag=formandcode-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1568989377][BUY THE BOOK]]
+#+end_quote

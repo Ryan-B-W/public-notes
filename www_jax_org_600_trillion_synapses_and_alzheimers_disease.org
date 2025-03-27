@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       06dcc0bd-1e69-4fe8-be76-1a0a2d028289
+:ROAM_REFS: https://www.jax.org/news-and-insights/jax-blog/2018/december/600-trillion-synapses-and-alzheimers-disease
+:END:
+#+title: (www.jax.org) 600 trillion synapses and Alzheimers disease
+#+filetags: :news:neuroscience:biology:website:
+
+#+begin_quote
+  Neuroscience always makes me think of astrophysics.
+  Why?  Well, our own galaxy, the Milky Way, is pretty big as galaxies go, containing 250 billion stars, give or take 100 billion or so.  Our brains contain about 100 billion neurons.* So you get the idea.  There’s the numerical equivalent of a smallish galaxy in each of our skulls.
+  But that’s not all.  Each neuron has, on average, about 7,000 synaptic connections with other neurons.  That puts the synapse count in the neighborhood of 600 trillion.  In young children, before synaptic pruning begins in earnest, the estimated number reaches as high as 1 quadrillion.  The system of interconnections almost defies comprehension.
+#+end_quote

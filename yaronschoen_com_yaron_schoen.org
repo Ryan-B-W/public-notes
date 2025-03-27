@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       285cdaaa-c9fe-44ad-b0c7-3d1f9c954d91
+:ROAM_REFS: https://yaronschoen.com/
+:END:
+#+title: (yaronschoen.com) Yaron Schoen
+#+filetags: :design:people:website:
+
+#+begin_quote
+  My name is Yaron ( Ya • rone ) and I'm a Product Designer living in the beautiful state of Connecticut with my wonderful wife, our two amazing daughters, silly puppy, and grumpy old cat.  With 25 years of experience in Product Design, I've worn many hats – entrepreneur, mentor, strategist, and of course, designer.
+#+end_quote

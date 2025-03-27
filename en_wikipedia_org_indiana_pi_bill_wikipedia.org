@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       63ffaca1-fe01-4e72-8276-c406f0e8ec60
+:ROAM_REFS: https://en.wikipedia.org/wiki/Indiana_pi_bill
+:END:
+#+title: (en.wikipedia.org) Indiana pi bill - Wikipedia
+#+filetags: :trivia:mathematics:government:law:website:
+
+#+begin_quote
+  The *Indiana pi bill* was bill 246 of the 1897 sitting of the [[https://en.wikipedia.org/wiki/Indiana_General_Assembly][Indiana General Assembly]], one of the most notorious attempts to establish [[https://en.wikipedia.org/wiki/Mathematical_truth][mathematical truth]] by [[https://en.wikipedia.org/wiki/Legislative_fiat][legislative fiat]].  Despite its name, the main result claimed by the bill is a method to [[https://en.wikipedia.org/wiki/Squaring_the_circle][square the circle]].  The bill implies incorrect values of the [[https://en.wikipedia.org/wiki/Pi][mathematical constant π]], the ratio of the [[https://en.wikipedia.org/wiki/Circumference][circumference]] of a circle to its [[https://en.wikipedia.org/wiki/Diameter][diameter]].  The bill, written by a physician and an amateur mathematician, never became law due to the intervention of [[https://en.wikipedia.org/wiki/C._A._Waldo][C. A. Waldo]], a professor at [[https://en.wikipedia.org/wiki/Purdue_University][Purdue University]], who happened to be present in the legislature on the day it went up for a vote.
+
+  The mathematical impossibility of squaring the circle using only [[https://en.wikipedia.org/wiki/Straightedge_and_compass_construction][straightedge and compass constructions]], suspected since ancient times, had been proven 15 years previously, in 1882, by [[https://en.wikipedia.org/wiki/Ferdinand_von_Lindemann][Ferdinand von Lindemann]].  Better approximations of π than those implied by the bill have been known since ancient times.
+#+end_quote

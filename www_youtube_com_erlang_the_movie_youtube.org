@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       d87e6abb-34dd-42f9-8561-fa4c55e6f185
+:ROAM_REFS: https://www.youtube.com/watch?v=xrIjfIjssLE
+:END:
+#+title: (www.youtube.com) Erlang: The Movie - YouTube
+#+filetags: :computer_science:programming_language:erlang:video:website:
+
+#+begin_quote
+  Demo of the Erlang programming language
+
+  Ericsson
+
+  Migrated from my Google Video account.
+#+end_quote

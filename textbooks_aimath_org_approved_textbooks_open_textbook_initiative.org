@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       f230c9e2-8c39-401f-80b3-52995246cdf4
+:ROAM_REFS: https://textbooks.aimath.org/textbooks/approved-textbooks/
+:END:
+#+title: (textbooks.aimath.org) Approved Textbooks | Open Textbook Initiative
+#+filetags: :books:lists:mathematics:website:
+
+#+begin_quote
+  The list below groups open textbooks by course title.  All the books have been judged to meet the evaluation criteria set by the AIM editorial board.
+#+end_quote

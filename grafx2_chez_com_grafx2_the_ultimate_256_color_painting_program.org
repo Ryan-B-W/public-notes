@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1018b2c9-87e2-4ea8-8e46-96361d133849
+:ROAM_REFS: http://grafx2.chez.com/
+:END:
+#+title: (grafx2.chez.com) GrafX2 - The ultimate 256-color painting program
+#+filetags: :image_editing:website:software:
+
+#+begin_quote
+  GrafX2 is a bitmap paint program inspired by the Amiga programs ​Deluxe Paint and Brilliance.  Specialized in 256-color drawing, it includes a very large number of tools and effects that make it particularly suitable for pixel art, game graphics, and generally any detailed graphics painted with a mouse.
+  The program is mostly developed on Haiku, Linux and Windows, but is also portable on many other platforms.
+#+end_quote

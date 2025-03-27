@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       44896ada-3a86-4ef0-8bcd-5c7a647fd9a4
+:ROAM_REFS: https://github.com/qt/qtbase
+:END:
+#+title: (github.com) qt/qtbase: Qt Base (Core, Gui, Widgets, Network, ...)
+#+filetags: :website:
+
+The Qt widgeting toolkit and UI system base source code repository.

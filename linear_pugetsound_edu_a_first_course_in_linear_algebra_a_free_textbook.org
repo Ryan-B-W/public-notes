@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       88981330-cea8-44f8-90e5-74d12a48e6ba
+:ROAM_REFS: http://linear.pugetsound.edu/
+:END:
+#+title: (linear_pugetsound_edu) A First Course in Linear Algebra (A Free Textbook)
+#+filetags: :mathematics:books:website:
+
+#+begin_quote
+  /A First Course in Linear Algebra/ is an introductory textbook designed for university sophomores and juniors.  Typically such a student will have taken calculus, but this is not a prerequisite.  The book begins with systems of linear equations, then covers matrix algebra, before taking up finite-dimensional vector spaces in full generality.  The final chapter covers matrix representations of linear transformations, through diagonalization, change of basis and Jordan canonical form.  Along the way, determinants and eigenvalues get fair time.  There is a comprehensive online edition and PDF versions are available to download for printing or on-screen viewing.  Physical copies may be purchased from the print-on-demand service at Lulu.com.
+  It seems therefore desirable to give permanent form to the lessons of experience so that others can benefit by them and be encouraged to undertake similar work.
+  : H.M. Cundy and A.P. Rollet, Mathematical Models, 1952
+#+end_quote
+* See Also
+** (linear.pugetsound.edu) A First Course in Linear Algebra (online)
+:PROPERTIES:
+:ID:       9e02bc08-e602-4463-a46a-bdb1c8452208
+:ROAM_REFS: http://linear.pugetsound.edu/html/fcla.html
+:END:
+** (linear.pugetsound.edu) A First Course in Linear Algebra (tablet version) [pdf] :mime_type_application_pdf:mathematics:books:website:
+:PROPERTIES:
+:ID:       06c3789a-8802-4fb5-87ef-b5b3886d9aed
+:ROAM_REFS: http://linear.pugetsound.edu/download/fcla-3.50-tablet.pdf
+:END:
+** (linear.pugetsound.edu) A First Course in Linear Algebra (phone version) [pdf] :mime_type_application_pdf:mathematics:books:website:
+:PROPERTIES:
+:ID:       1225f7b5-ac7c-44fd-87be-0e3f2f72e2be
+:ROAM_REFS: http://linear.pugetsound.edu/download/fcla-3.50-phone.pdf
+:END:
+** (linear.pugetsound.edu) A First Course in Linear Algebra (print version) [pdf] :mime_type_application_pdf:mathematics:books:website:
+:PROPERTIES:
+:ID:       5bac366f-13b1-4151-b873-b2941771e45c
+:ROAM_REFS: http://linear.pugetsound.edu/download/fcla-3.50-print.pdf
+:END:

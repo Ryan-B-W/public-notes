@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       a8292b14-30be-4f2d-872b-7dbb63da27d1
+:ROAM_REFS: https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg
+:END:
+#+title: (upload.wikimedia.org) Linux Distributions Timeline
+#+filetags: :linux:image:mime_type_image_svg_xml:website:

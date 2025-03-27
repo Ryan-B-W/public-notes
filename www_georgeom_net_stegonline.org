@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       5db54ad7-1d47-4289-8464-ba55e9ba5cb9
+:ROAM_REFS: https://www.georgeom.net/StegOnline/upload
+:END:
+#+title: (www.georgeom.net) StegOnline
+#+filetags: :software:steganography:www:open_source:website:
+
+Online tool for doing [[id:66359bb4-b600-4bd5-b979-e248585c5691][Steganography]].
+* (github.com) StegOnline/README.md at master · Ge0rg3/StegOnline
+:PROPERTIES:
+:ID:       7efd8419-47e5-4c34-91ed-96f3d7df454a
+:ROAM_REFS: https://github.com/Ge0rg3/StegOnline/blob/master/README.md
+:END:
+
+#+begin_quote
+  * StegOnline
+
+  A web-based, enhanced and open-source port of StegSolve.  Upload any image file, and the relevant options will be displayed.  View a live demo at [[http://stegonline.georgeom.net/]].
+
+  ** Features:
+
+  Browse through the 32 bit planes of the image
+
+  Extract and Embed data using LSB steganography techniques
+
+  Hide images within other image bit planes
+
+  View PNG Chunk info
+
+  Download RGBA values of image
+
+  Browse through image colour palette (if exists)
+
+  Built as an Angular7 SPA, and no data is stored/transferred.
+#+end_quote

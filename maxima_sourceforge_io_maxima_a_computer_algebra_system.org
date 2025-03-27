@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       769e98d1-6f25-4801-9ac1-e63f6eb8e481
+:ROAM_REFS: https://maxima.sourceforge.io/
+:END:
+#+title: (maxima.sourceforge.io) Maxima, a Computer Algebra System
+#+filetags: :open_source:computer_algebra:software:mathematics:website:
+
+#+begin_quote
+  Maxima is a system for the manipulation of symbolic and numerical expressions, including differentiation, integration, Taylor series, Laplace transforms, ordinary differential equations, systems of linear equations, polynomials, sets, lists, vectors, matrices and tensors.  Maxima yields high precision numerical results by using exact fractions, arbitrary-precision integers and variable-precision floating-point numbers.  Maxima can plot functions and data in two and three dimensions.
+#+end_quote

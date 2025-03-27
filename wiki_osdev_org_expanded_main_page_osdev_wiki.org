@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       b5da5f18-b7a8-4946-a894-5c93dd029771
+:ROAM_REFS: https://wiki.osdev.org/Main_Page
+:END:
+#+title: (wiki.osdev.org) Expanded Main Page - OSDev Wiki
+#+filetags: :operating_systems:software_development:computer_science:website:
+
+Community [[id:b99c6a7c-958b-4d70-8900-9162b935c574][wiki]] dedicated to [[id:412bbcad-6c00-4f13-b748-d1ffde0588e1][operating system]] development.
+
+#+begin_quote
+  Welcome to [[http://www.osdev.org/][OSDev.org]]
+  Our [[https://wiki.osdev.org/][wiki]] and [[https://forum.osdev.org/][forums]] provide 200k+ posts and [[https://wiki.osdev.org/Special:Statistics][725]] articles about the creation of operating systems.
+  Become a [[https://forum.osdev.org/viewtopic.php?t=677][wiki author]]! See the [[https://wiki.osdev.org/Wish_List][Wish List]] for suggestions on where to start.
+#+end_quote

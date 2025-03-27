@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e2ff15e5-3817-4cef-87d6-1161c0df2aa8
+:ROAM_REFS: https://afar.net/tutorials/fcc-rules/
+:END:
+#+title: (afar.net) AFAR Communications Inc. - Outdoor Wireless Networks - www.afar.net
+#+filetags: :regulations:radio_ism:radio:website:
+
+#+begin_quote
+  ,* FCC Rules for Unlicensed Wireless Equipment operating in the ISM bands
+  The ISM radio bands were originally set aside for electromagnetic radiation produced by industrial, scientific and medical (ISM) equipment.  In the early 1990’s the Federal Communcations Commission (FCC) allowed using three of the ISM bands for unlicensed communication equipment.  These three ISM bands are:
+   - 902 to 928 MHz
+   - 2.400 to 2.4835 GHz
+   - 5.725 to 5.875 GHz
+  In the United States the use of these bands for communication purposes is regulated by part 15 of the FCC rules.
+  ,** Maximum Transmit Output Power in the ISM bands
+  Several of the FCC part 15 rules govern the transmit power permited in the ISM bands.  Here is a summary of those rules:
+   1. Maximum transmitter output power, fed into the antenna, is 30 dBm (1 watt).
+   2. Maximum Effective Isotropic Radiated Power (EIRP) is 36 dBm (4 watt).  You can obtain the EIRP by simply adding the transmit output power, in dBm, to the antenna gain in dBi  (if there is loss in the cable feeding the antenna you may subtract that loss).
+   3. If your equipment is used in a fixed point-to-point link, there are two exceptions to the maximum EIRP rule above:
+      - In the 5.8 GHz band the rule is less restrictive.  The maximum EIRP allowed is 53 dBm (30 dBm plus 23 dBi of antenna gain).
+      - In the 2.4 GHz band you can increase the antenna gain to get an EIRP above 36 dBm but for every 3dBi increase of antenna gain you must reduce the transmit power by 1 dBm.  The table below shows the combinations of allowed transmit power / antenna gain and the resulting EIRP.
+#+end_quote

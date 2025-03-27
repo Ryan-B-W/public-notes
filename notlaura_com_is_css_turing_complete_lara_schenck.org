@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       5ccdab82-77f7-426e-961f-1e3924dc26b6
+:ROAM_REFS: https://notlaura.com/is-css-turing-complete/
+:END:
+#+title: (notlaura.com) Is CSS Turing Complete? - Lara Schenck
+#+filetags: :website:
+
+#+begin_quote
+  Is CSS Turing Complete?
+
+  I took a deep dive into this question, and the answer is: kinda, mostly, yeah!  CSS + HTML + user input is Turing complete.  Is it possible to remove the user input part?  Then I can re-title this post to be more, ahem, declarative.
+#+end_quote

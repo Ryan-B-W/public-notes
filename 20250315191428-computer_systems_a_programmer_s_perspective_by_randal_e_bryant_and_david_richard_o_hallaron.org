@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       389c2f88-703b-49ba-9e57-b24257b4e974
+:END:
+#+title: Computer Systems: A Programmer's Perspective by Randal E. Bryant and David Richard O'Hallaron
+#+filetags: :education_resource:programming:computer_science:books:
+
+* (csapp.cs.cmu.edu) CS:APP3e, Bryant and O'Hallaron                :website:
+:PROPERTIES:
+:ID:       faa2688f-5b94-4e5d-b212-409bac9acdf3
+:ROAM_REFS: https://csapp.cs.cmu.edu/
+:END:
+
+#+begin_quote
+  Computer Systems: A Programmer's Perspective, 3/E (CS:APP3e)
+
+  [[http://www.cs.cmu.edu/~bryant][Randal E. Bryant]] and [[http://www.cs.cmu.edu/~droh][David R. O'Hallaron]], Carnegie Mellon University
+
+  */Overview./* This book (CS:APP3e) is the third edition of a book that stems from the introductory computer systems course we developed at Carnegie Mellon University, starting in the Fall of 1998, called "Introduction to Computer Systems" (ICS).  The presentation is based on the following principles, which aim to help the students become better programmers and to help prepare them for upper-level systems courses:
+
+  - Students should be introduced to computer systems from the perspective of a programmer, rather from the more traditional perspective of a system implementer. [[http://csapp.cs.cmu.edu/3e/perspective.html][What does this mean?]]
+  - Students should get a view of the complete system, comprising the hardware, operating system, compiler, and network.
+  - Students learn best by developing and evaluating real programs that run on real machines.
+
+  We cover data representations, machine level representations of C programs, processor architecture, program optimizations, the memory hierarchy, linking, exceptional control flow (exceptions, interrupts, processes, and Unix signals), virtual memory and memory management, system-level I/O, basic network programming, and concurrent programming.  These concepts are supported by series of fun and hands-on lab assignments.  See the manuscript [[http://csapp.cs.cmu.edu/3e/pieces/preface3e.pdf][Preface]] for more details.
+
+  */Web asides./* We had so much material for this book that we couldn't fit it all in!  Instead, we have created electronic documents containing useful additional material, which we call [[http://csapp.cs.cmu.edu/3e/waside.html][/Web asides/]].  Check it out.  You'll find interesting theoretical and practical information that goes beyond the scope of the book.
+
+  */Course Materials for Instructors and Students./* The [[http://csapp.cs.cmu.edu/3e/students.html][/Student Site/]] contains additional material for the students.  The [[http://csapp.cs.cmu.edu/3e/instructors.html][/Instructor Site/]] contains a complete turnkey solution for teaching the course.
+#+end_quote
+* (www.goodreads.com) Computer Systems: A Programmer's Perspective by Randal E. Bryant | Goodreads :website:
+:PROPERTIES:
+:ID:       d2ed7f73-090b-49c3-b49e-1150d2fd2088
+:ROAM_REFS: https://www.goodreads.com/book/show/829182.Computer_Systems
+:END:
+
+#+begin_quote
+  * Computer Systems: A Programmer's Perspective
+
+  [[https://www.goodreads.com/author/show/431738.Randal_E_Bryant][Randal E. Bryant]], [[https://www.goodreads.com/author/show/31648312.David_Richard_O_Hallaron][David Richard O'Hallaron]]
+
+  This book explains the important and enduring concepts underlying all computer systems, and shows the concrete ways that these ideas affect the correctness, performance, and utility of application programs.  The book's concrete and hands-on approach will help readers understand what is going on "under the hood" of a computer system.  This book focuses on the key concepts of basic network programming, program structure and execution, running programs on a system, and interaction and communication between programs.  For anyone interested in computer organization and architecture as well as computer systems.
+#+end_quote

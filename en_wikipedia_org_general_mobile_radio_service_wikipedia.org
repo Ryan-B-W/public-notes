@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       076dedf6-a7fe-4171-b385-f3d6d96c8aa8
+:ROAM_REFS: https://en.wikipedia.org/wiki/General_Mobile_Radio_Service
+:END:
+#+title: (en.wikipedia.org) General Mobile Radio Service - Wikipedia
+#+filetags: :radio:website:
+
+#+begin_quote
+  The General Mobile Radio Service (GMRS) is a land-mobile FM UHF radio service designed for short-range two-way voice communication and authorized under part 95 of the US FCC code.  It requires a license in the United States, but some GMRS compatible equipment can be used license-free in Canada.  The US GMRS license is issued for a period of 10 years.  The United States permits use by adult individuals who possess a valid GMRS license, as well as their immediate family members.[a] Immediate relatives of the GMRS system licensee are entitled to communicate among themselves for personal or business purposes, but employees of the licensee who are not family members are not covered by the license.  Non-family members must be licensed separately.
+
+  GMRS radios are typically handheld portable (walkie-talkies) much like Family Radio Service (FRS) radios, and they share a frequency band with FRS near 462 and 467 MHz.  Mobile and base station-style radios are available as well, but these are normally commercial UHF radios as often used in the public service and commercial land mobile bands.  These are legal for use in this service as long as they are certified for GMRS under USC 47 Part 95.  Older radios that are certified under USC 47 Part 90 are "grandfathered in", and can also be used legally for GMRS.
+
+  GMRS licensees are allowed to establish repeaters to extend their communications range.  However repeaters cannot be linked together over the internet nor connected to the public switched telephone network.
+#+end_quote

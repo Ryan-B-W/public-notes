@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       a5b77983-151f-4e51-baf7-934bb364dd4e
+:ROAM_REFS: https://notesnook.com/
+:END:
+#+title: (notesnook.com) Notesnook | Open source & zero knowledge private note taking app
+#+filetags: :open_source:information_management:website:

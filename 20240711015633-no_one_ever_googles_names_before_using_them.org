@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       2a5656ca-a8e5-450a-a307-d7dfc7cb9d4c
+:END:
+#+title: No One Ever Googles Names Before Using Them
+
+It feels like people never ever, not even once, Google names before using them for products or [[id:4b177854-1711-41a2-8ef0-7a2208174234][companies]].  They seem even less likely to think for two seconds about how hard it will be to search for said name if it conflicts with something else that will obscure it.  They seem even less likely to consider that if their /new thing™/ ever gets wildly popular that it might overshadow a useful term for searching for unrelated things.
+* Examples
+** [[https://www.captions.ai][Captions]], an [[id:b10990c2-d056-42f5-a4e7-145a405d9550][AI]] video company
+Because /of course/ a company capitalizing on the AI bubble would pick an utterly unsearchable name that, if they ever get popular enough to shadow the term, will make anyone searching for anything captions related curse their name.

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c2e9b287-bbd7-4e92-927e-af0973d73436
+:END:
+#+title: M-Expressions
+#+filetags: :lisp:programming_language_design:computer_science:
+
+Alternative syntax for [[id:84ae6e85-a6a2-4133-bc53-274238081c2d][Lisp]], instead of [[id:f8e702a4-497a-40f9-944b-9979a2084f98][S-Expressions]].  Virtually never used, and even less often implemented.
+* (en.wikipedia.org) M-expression - Wikipedia                       :website:
+:PROPERTIES:
+:ID:       dac9319f-aad9-49a7-a613-b1354f5ab421
+:ROAM_REFS: https://en.wikipedia.org/wiki/M-expression
+:END:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Computer_programming][computer programming]], *M-expressions* (or *meta-expressions*) were an early proposed syntax for the [[https://en.wikipedia.org/wiki/Lisp_(programming_language)][Lisp programming language]], inspired by contemporary languages such as [[https://en.wikipedia.org/wiki/Fortran][Fortran]] and [[https://en.wikipedia.org/wiki/ALGOL][ALGOL]].  The notation was never implemented into the language and, as such, it was never finalized.
+
+  M-expressions are a syntax for LISP code and provide [[https://en.wikipedia.org/wiki/Function_notation][function notation]], syntax for a =cond= form and for embedded literal data (via S-expressions) into programs.  Thus M-Expressions used S-Expressions for literal data.  The syntax for S-Expressions ("The Data Language") and M-Expressions ("The Meta Language") is defined on pages 8 and 9 of the Lisp 1.5 manual.
+
+  M-Expressions also had a corresponding S-Expression representation.  Code was manually translated from M-Expressions to S-Expressions.  The in M-expressions embedded literal data, then had to be quoted in S-Expressions.
+#+end_quote

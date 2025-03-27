@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       cfaa405b-1c15-4adf-aba3-70afb19dd6ce
+:ROAM_REFS: https://en.wikipedia.org/wiki/Image_organizer
+:END:
+#+title: (en.wikipedia.org) Image organizer - Wikipedia
+#+filetags: :information_technology:information_management:digital_asset_management:asset_management:website:
+
+#+begin_quote
+  An *image organizer* or *image management application* is [[https://en.wikipedia.org/wiki/Application_software][application software]] for organising [[https://en.wikipedia.org/wiki/Digital_image][digital images]].  It is a kind of [[https://en.wikipedia.org/wiki/Desktop_organizer][desktop organizer]] [[https://en.wikipedia.org/wiki/Software_application][software application]].
+
+  Image organizer software focuses on handling large numbers of images.  In contrast to an [[https://en.wikipedia.org/wiki/Image_viewer][image viewer]], an image organizer can [[https://en.wikipedia.org/wiki/Tag_editor][edit image tags]] and can often upload files to on-line hosting pages.  Enterprises may use [[https://en.wikipedia.org/wiki/Digital_asset_management][Digital Asset Management]] (DAM) solutions to manage larger and broader amounts of digital media.
+
+  Some programs that come with [[https://en.wikipedia.org/wiki/Desktop_environment][desktop environments]], such as [[https://en.wikipedia.org/wiki/GThumb][gThumb]] (GNOME) and [[https://en.wikipedia.org/wiki/DigiKam][digiKam]] (KDE) were originally simple image viewers, and have evolved into image organizers.
+#+end_quote
+* See Also
+** [[id:4db3c4a9-9328-4594-a907-e96cb32cc7f7][(en.wikipedia.org) Digital asset management - Wikipedia]]

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       b8600044-e9e3-48aa-abb0-05dec73afb52
+:END:
+#+title: Socal Nix Users Group (SNUG)
+#+filetags: :events:
+
+Southern California Nix Users Group (SNUG) is a local meetup dedicated to [[id:3b6a267c-90c9-491e-89d2-42c365ec6574][Nix]] and [[id:30ae24e9-8b87-4412-ae94-484b5c72216b][NixOS]].

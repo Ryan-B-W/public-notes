@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       f21c5506-6fef-4e8c-8116-162f1864d4d8
+:END:
+#+title: Garbage-Collection
+#+filetags: :programming:programming_language_design:computer_science:
+
+An aspect of some programming languages where memory management is done automatically using one or more mechanisms to track memory usage and reference lifetimes.
