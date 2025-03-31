@@ -57,11 +57,6 @@ Main node: [[id:69d3e2e7-62dc-414f-90ee-86f4b4abbcb0][(sarabander.github.io) Str
 #+begin_quote
   [[https://sarabander.github.io/sicp/html/2_002e2.xhtml#DOCF72][^{72}]] The use of the word “closure” here comes from abstract algebra, where a set of elements is said to be closed under an operation if applying the operation to elements in the set produces an element that is again an element of the set.  The Lisp community also (unfortunately) uses the word “closure” to describe a totally unrelated concept: A closure is an implementation technique for representing procedures with free variables.  We do not use the word “closure” in this second sense in this book.
 #+end_quote
-** (sarabander.github.io) SICP, 2e: 2.2 Hierarchical Data and the Closure Property
-:PROPERTIES:
-:ID:       357f1508-3b0b-4f9e-b8a9-f71a807b871a
-:ROAM_REFS: https://sarabander.github.io/sicp/html/2_002e2.xhtml
-:END:
 ** (sarabander.github.io) SICP, 2e: 2.3 Symbolic Data
 :PROPERTIES:
 :ID:       e45e5e54-2625-4d00-9e48-0d1cb002d2e6
