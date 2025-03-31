@@ -48,3 +48,5 @@ Useful pieces of software.
 ** Instant Messaging
 *** [[id:f31a86c8-d5ca-4beb-a6a2-8758f52423e8][Pidgin]]
 *** [[id:329e08b2-df49-4f98-864a-30a0f226cd3b][Weechat]]
+** Coordination & Scheduling
+*** [[id:52f66cde-3c81-46e3-817f-1aff896be631][(crab.fit) Crab Fit]]
