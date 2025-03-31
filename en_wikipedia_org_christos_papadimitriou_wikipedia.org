@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       664dc974-bf08-4187-8f7a-30aeb9588efc
+:ROAM_REFS: https://en.wikipedia.org/wiki/Christos_Papadimitriou
+:END:
+#+title: (en.wikipedia.org) Christos Papadimitriou - Wikipedia
+#+filetags: :people:
+
+#+begin_quote
+  *Christos Charilaos Papadimitriou* ([[https://en.wikipedia.org/wiki/Greek_language][Greek]]: Χρήστος Χαρίλαος "Χρίστος" Παπαδημητρίου; born August 16, 1949) is a [[https://en.wikipedia.org/wiki/Greek-American][Greek-American]] theoretical computer scientist and the Donovan Family Professor of Computer Science at [[https://en.wikipedia.org/wiki/Columbia_University][Columbia University]].
+#+end_quote
+* (en.wikipedia.org) Christos Papadimitriou - Publications - Wikipedia :lists:books:mathematics:
+:PROPERTIES:
+:ID:       305a0136-617f-4f2f-bd0b-d580e86c91ae
+:ROAM_REFS: https://en.wikipedia.org/wiki/Christos_Papadimitriou#Publications
+:END:
+#+begin_quote
+  ** Publications
+
+  /Elements of the Theory of Computation/ (with [[https://en.wikipedia.org/wiki/Harry_R._Lewis][Harry R. Lewis]]). [[https://en.wikipedia.org/wiki/Prentice-Hall][Prentice-Hall]], 1982; second edition September 1997.  [[https://archive.today/20130107155418/http://www.kritiki.gr/lewis_papadimitriou][greek edition]]
+
+  /Combinatorial Optimization: Algorithms and Complexity/ (with [[https://en.wikipedia.org/wiki/Kenneth_Steiglitz][Kenneth Steiglitz]]). Prentice-Hall, 1982; second edition, Dover, 1998.
+
+  /The Theory of Database Concurrency Control/.  CS Press, 1986.
+
+  /Computational Complexity/.  [[https://en.wikipedia.org/wiki/Addison_Wesley][Addison Wesley]], 1994.
+
+  /Turing (a Novel about Computation)./ [[https://en.wikipedia.org/wiki/MIT_Press][MIT Press]], November 2003.
+
+  /Life Sentence to Hackers?/  (in Greek). Kastaniotis Editions, 2004.  A compilation of articles written for the Greek newspaper [[https://en.wikipedia.org/wiki/To_Vima][To Vima]].
+
+  /Algorithms/ (coauthored with Sanjoy Dasgupta and [[https://en.wikipedia.org/wiki/Umesh_Vazirani][Umesh Vazirani]]). [[https://en.wikipedia.org/wiki/McGraw-Hill][McGraw-Hill]], September 2008
+
+  /[[https://en.wikipedia.org/wiki/Logicomix][Logicomix]], An Epic Search for Truth/ (coauthored with [[https://en.wikipedia.org/wiki/Apostolos_Doxiadis][Apostolos Doxiadis]], with artwork by Alecos Papadatos and Annie di Donna). [[https://en.wikipedia.org/wiki/Bloomsbury_Publishing][Bloomsbury Publishing]] and Bloomsbury USA, September 2009.
+
+  He co-authored a paper with [[https://en.wikipedia.org/wiki/Bill_Gates][Bill Gates]], co-founder of [[https://en.wikipedia.org/wiki/Microsoft][Microsoft]], on [[https://en.wikipedia.org/wiki/Pancake_sorting][pancake sorting]].
+#+end_quote

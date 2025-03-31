@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       c49d3fa4-05a0-4df8-9edd-fbb28a98f9a3
+:ROAM_REFS: https://en.wikipedia.org/wiki/Hindley–Milner_type_system
+:END:
+#+title: (en.wikipedia.org) Hindley–Milner type system - Wikipedia
+#+filetags: :programming_type_systems:computer_science:mathematics:website:
+
+#+begin_quote
+  A *Hindley–Milner* (*HM*) *type system* is a classical [[https://en.wikipedia.org/wiki/Type_system][type system]] for the [[https://en.wikipedia.org/wiki/Lambda_calculus][lambda calculus]] with [[https://en.wikipedia.org/wiki/Parametric_polymorphism][parametric polymorphism]].  It is also known as *Damas–Milner* or *Damas–Hindley–Milner*.  It was first described by [[https://en.wikipedia.org/wiki/J._Roger_Hindley][J. Roger Hindley]] and later rediscovered by [[https://en.wikipedia.org/wiki/Robin_Milner][Robin Milner]].  Luis Damas contributed a close formal analysis and proof of the method in his PhD thesis.
+
+  Among HM's more notable properties are its [[https://en.wikipedia.org/wiki/Completeness_(logic)][completeness]] and its ability to infer the [[https://en.wikipedia.org/wiki/Principal_type][most general type]] of a given program without programmer-supplied [[https://en.wikipedia.org/wiki/Type_annotation][type annotations]] or other hints.  [[https://en.wikipedia.org/wiki/Hindley–Milner_type_system#Algorithm_W][Algorithm W]] is an efficient [[https://en.wikipedia.org/wiki/Type_inference][type inference]] method in practice and has been successfully applied on large code bases, although it has a high theoretical [[https://en.wikipedia.org/wiki/Computational_complexity][complexity]].  HM is preferably used for [[https://en.wikipedia.org/wiki/Functional_language][functional languages]].  It was first implemented as part of the type system of the programming language [[https://en.wikipedia.org/wiki/ML_(programming_language)][ML]].  Since then, HM has been extended in various ways, most notably with [[https://en.wikipedia.org/wiki/Type_class][type class]] constraints like those in [[https://en.wikipedia.org/wiki/Haskell_(programming_language)][Haskell]].
+#+end_quote

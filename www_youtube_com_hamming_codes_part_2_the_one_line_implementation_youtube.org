@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       4a08ee29-8b52-432f-b9ee-1e60f176011f
+:ROAM_REFS: https://www.youtube.com/watch?v=b3NxrZOu_CE
+:END:
+#+title: (www.youtube.com) Hamming Codes Part 2: The One-Line Implementation - YouTube
+#+filetags: :computer_science:mathematics:video:website:
+
+#+begin_quote
+  * Hamming Codes Part 2: The One-Line ImplementationHamming codes part 2: The one-line implementation
+
+  [[https://www.youtube.com/@3blue1brown][3Blue1Brown]]
+
+  A cleaner perspective on Hamming error correction codes Part 1:\\
+  [[https://www.youtube.com/watch?v=X8jsijhllIA][But what are Hamming codes? The origi...]]\\
+  Watch Ben Eater's video:\\
+  [[https://www.youtube.com/watch?v=h0jloehRKas][What is error correction? Hamming cod...]]\\
+  Help fund future projects:\\
+  [[https://www.patreon.com/3blue1brown][3blue1brown]]\\
+  An equally valuable form of support is to simply share some of the videos. Special thanks to these supporters:\\
+  [[https://3b1b.co/hamming-thanks][https://3b1b.co/hamming-thanks]]
+
+  You can read Hamming's own perspective on his discovery of these codes in chapter 12 of "The Art of Doing Science and Engineering".\\
+  [[https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHBNbjJCeVJlUnozbEtFZUR1OHVjV3BveF9kQXxBQ3Jtc0tscGprYkhTQWZJVDhGYmczOGpNTVI5YmxlN3NVTGNaQXJXTjdERW9VNi1HZjRuZHF6blNFX2J6Z0RwVHBtdlBnNzNUNUxJd1JzejdFUXFUcE9USWtMUzJkWU9wSEcyQmc1YjkzM3Exck5udnJEeGRqcw&q=https://amzn.to/3lwcnmh&v=b3NxrZOu_CE][https://amzn.to/3lwcnmh]]
+
+  Heavily related is the chessboard puzzle I did with Matt Parker:\\
+  [[https://www.youtube.com/watch?v=as7Gkm7Y7h4][The almost impossible chessboard puzzle]]
+
+  If you're curious to learn a bit about Shannon, the father of information theory, take a look at this documentary.\\
+  [[https://amzn.to/2RHK5HL][https://amzn.to/2RHK5HL]]
+
+  Thanks to these viewers for their contributions to translations\\
+  Hebrew: Omer Tuchfeld\\
+  Hungarian: FaboBence
+
+  ------------------
+
+  These animations are largely made using manim, a scrappy open-source python library:\\
+  [[https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbk9COUx6dmo1RmhNRUxueW9obkIyQ3A1WkdjUXxBQ3Jtc0tueUFWVzQwUks3dmxwdUplQ0VTbHNMdVpBNW1CN2NZbjZPei0za0RNVWROX1F0V0t3RVhjODA0MUQ5SFZTTWQ3aE8tYl9YallqSlE2Uzl0aE1QSWZXcUtJN04zWkVaVTcwMFplU2ZwTFlnNGNqbDJsVQ&q=https://github.com/3b1b/manim&v=b3NxrZOu_CE][https://github.com/3b1b/manim]]
+
+  If you want to check it out, I feel compelled to warn you that it's not the most well-documented tool, and it has many other quirks you might expect in a library someone wrote with only their own use in mind.
+
+  Music by Vincent Rubinetti.\\
+  Download the music on Bandcamp:\\
+  [[https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown][https://vincerubinetti.bandcamp.com/a...]]
+
+  Stream the music on Spotify:\\
+  [[https://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u][https://open.spotify.com/album/1dVyjw...]]
+#+end_quote

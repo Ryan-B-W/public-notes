@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       0922fa74-c7b0-44ea-a455-e5c3e6ce5971
+:ROAM_REFS: https://computationbook.com/
+:END:
+#+title: (computationbook.com) Understanding Computation
+#+filetags: :books:mathematics:computer_science:website:
+
+#+begin_quote
+  * Understanding Computation
+
+  ** From Simple Machines to Impossible Programs
+
+  *** by [[http://codon.com/][Tom Stuart]]
+
+  [[http://shop.oreilly.com/product/0636920025481.do][Buy from O'Reilly]] [[http://www.amazon.com/dp/1449329276][Buy from Amazon (US)]] [[http://www.amazon.co.uk/dp/1449329276][Buy from Amazon (UK)]]
+
+  [[https://computationbook.com/sample][Download sample chapter]] [[https://computationbook.com/code][Browse example code]] [[https://computationbook.com/errata][View errata]]
+
+  Now available in [[http://www.oreilly.co.jp/books/9784873116976/][Japanese]] and [[http://books.gotop.com.tw/o_A462][Chinese]]!
+
+  Hello!  Understanding Computation is (I hope) a fun and interesting book about computation theory, with explanations written in real [[http://www.ruby-lang.org/][Ruby]] code instead of mathematical notation.  It contains old, deep ideas from theoretical computer science, deconstructed and explained in an engaging, practical way for an audience of working programmers without assuming any academic background.
+
+  The focus is on answering questions about computation and the fundamental mechanics of programming languages: how do they really work? what can they really do? what do the programs we write in them really mean?  The book's full of pragmatic explorations of these questions, demonstrated with real code and meaningful examples in a [[http://www.ruby-lang.org/][familiar language]].
+
+  These are foundational concepts that you'll wish you'd always known, digested and presented in a way that makes sense; universal truths which are interesting in their own right, but which also give you a better understanding of the way you do your job and the limitations of what's possible.
+
+  Over the course of the book, you will:
+
+  - implement [[https://github.com/tomstuart/computationbook/tree/master/the_meaning_of_programs/small_step][two]] [[https://github.com/tomstuart/computationbook/tree/master/the_meaning_of_programs/big_step][different]] interpreters, and a [[https://github.com/tomstuart/computationbook/tree/master/the_meaning_of_programs/denotational][compiler]], for a toy programming language;
+  - build simulations of deterministic and nondeterministic [[https://github.com/tomstuart/computationbook/tree/master/the_simplest_computers/finite_automata][finite automata]], [[https://github.com/tomstuart/computationbook/tree/master/just_add_power][pushdown automata]] and [[https://github.com/tomstuart/computationbook/tree/master/the_ultimate_machine][Turing machines]];
+  - build a simple implementation of [[https://github.com/tomstuart/computationbook/tree/master/the_simplest_computers/regular_expressions][regular expressions]] from scratch;
+  - construct a [[https://github.com/tomstuart/computationbook/blob/master/just_add_power/lexical_analyzer.rb][lexical analyzer]] and LL parser for a toy programming language;
+  - write [[https://github.com/tomstuart/computationbook/tree/master/programming_with_nothing/fizzbuzz][Ruby programs]] in the style of the lambda calculus;
+  - implement the [[https://github.com/tomstuart/computationbook/tree/master/programming_with_nothing/lambda_calculus][lambda calculus]] directly in Ruby;
+  - implement other universal systems ([[https://github.com/tomstuart/computationbook/tree/master/universality_is_everywhere/partial_recursive_functions][partial recursive functions]], the [[https://github.com/tomstuart/computationbook/tree/master/universality_is_everywhere/ski_calculus][SKI combinator calculus]], [[https://github.com/tomstuart/computationbook/tree/master/universality_is_everywhere/iota][Iota]], [[https://github.com/tomstuart/computationbook/tree/master/universality_is_everywhere/tag_systems][tag systems]] and [[https://github.com/tomstuart/computationbook/tree/master/universality_is_everywhere/cyclic_tag_systems][cyclic tag systems]]) in Ruby;
+  - extend a program to make it [[http://vimeo.com/66863570#at=13m40s][compute its own source code]];
+  - investigate programs that [[http://codon.com/impossible-programs][can't be written in Ruby]]; and
+  - build a [[https://github.com/tomstuart/computationbook/tree/master/programming_in_toyland/types][simple type system]].
+
+  To find out more, please check out the [[https://computationbook.com/contents][table of contents]], download a [[https://computationbook.com/sample][sample chapter]], read what [[https://computationbook.com/buzz][people are saying on Twitter]], watch some [[https://computationbook.com/extras][related videos]], download the [[https://computationbook.com/code][example code]], and [[https://computationbook.com/discuss][get in touch]] with any questions or comments.
+#+end_quote

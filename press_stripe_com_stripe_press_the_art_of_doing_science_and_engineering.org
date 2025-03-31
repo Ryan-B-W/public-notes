@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       33292cf2-86a1-4693-b750-4f6ad96784a4
+:ROAM_REFS: https://press.stripe.com/the-art-of-doing-science-and-engineering
+:END:
+#+title: (press.stripe.com) Stripe Press — The Art of Doing Science and Engineering
+#+filetags: :science:books:website:
+
+#+begin_quote
+  The Art of Doing Science and Engineering
+
+  Richard W. Hamming
+
+  What inspires a great idea?  Can we train our thinking to develop world-changing understandings and insights?  Richard Hamming would say yes.  In /The Art of Doing Science and Engineering/, he elaborates on his seminal essay “You and Your Research,” a provocative challenge to anyone who wants to build something great, and offers a manual of style for how to get there.  Playfully framed as a textbook, and rich in its recounting of influential individuals like Albert Einstein and Grace Hopper, this unorthodox memoir by the seminal mathematician and engineer encourages the reader to aspire to, learn from, and surpass the achievements of yesterday's greatest minds.  This edition includes the original 1996 compilation of Hamming's lectures for the U.S. Naval Postgraduate School, along with a new foreword by designer and engineer Bret Victor and more than 70 redrawn graphs and charts.
+
+  Author
+
+  Richard W. Hamming (1915--1998) was a scientist and mathematician who discovered formulas that allow computers to correct their own errors.  He provided crucial programming support to the Manhattan Project, and later joined Bell Labs.  In 1968, he received the Turing Award, the highest honor in computer science.
+#+end_quote

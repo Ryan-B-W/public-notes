@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       269a61e7-1e3a-42f2-9749-cf15a6b20c3a
+:ROAM_REFS: https://en.wikipedia.org/wiki/Scott–Curry_theorem
+:END:
+#+title: (en.wikipedia.org) Scott–Curry theorem - Wikipedia
+#+filetags: :mathematics:computer_science:website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Mathematical_logic][mathematical logic]], the *Scott–Curry theorem* is a result in [[https://en.wikipedia.org/wiki/Lambda_calculus][lambda calculus]] stating that if two non-empty sets of lambda terms /A/ and /B/ are closed under beta-convertibility then they are [[https://en.wikipedia.org/wiki/Recursively_inseparable][recursively inseparable]].
+
+  ** Explanation
+
+  A set /A/ of lambda terms is closed under beta-convertibility if for any lambda terms X and Y, if \(X \in A\) and X is [[https://en.wikipedia.org/wiki/Lambda_calculus#Reduction][β-equivalent]] to Y then \(Y \in A\).  Two sets /A/ and /B/ of natural numbers are recursively separable if there exists a [[https://en.wikipedia.org/wiki/Computable_function][computable function]] \(f:\mathbb{N}\rightarrow\{ 0,1\}\) such that \(f(a) = 0\) if \(a \in A\) and \(f(b) = 1\) if \(b \in B\).  Two sets of lambda terms are recursively separable if their corresponding sets under a [[https://en.wikipedia.org/wiki/Gödel_numbering][Gödel numbering]] are recursively separable, and recursively inseparable otherwise.
+
+  The Scott–Curry theorem applies equally to sets of terms in [[https://en.wikipedia.org/wiki/Combinatory_logic][combinatory logic]] with weak equality.  It has parallels to [[https://en.wikipedia.org/wiki/Rice's_theorem][Rice's theorem]] in computability theorem, which states that all non-trivial semantic properties of programs are undecidable.
+
+  The theorem has the immediate consequence that it is an [[https://en.wikipedia.org/wiki/Undecidable_problem][undecidable problem]] to determine if two lambda terms are β-equivalent.
+#+end_quote

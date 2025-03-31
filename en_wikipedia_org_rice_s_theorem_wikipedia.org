@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       51ed60d6-72ac-421b-b7db-e0faab9f86cf
+:ROAM_REFS: https://en.wikipedia.org/wiki/Rice's_theorem
+:END:
+#+title: (en.wikipedia.org) Rice's theorem - Wikipedia
+#+filetags: :mathematics:computer_science:website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Computability_theory][computability theory]], *Rice's theorem* states that all non-trivial semantic properties of programs are [[https://en.wikipedia.org/wiki/Undecidable_problem][undecidable]].  A /semantic/ property is one about the program's behavior (for instance, "does the program [[https://en.wikipedia.org/wiki/Halting_problem][terminate]] for all inputs?"), unlike a syntactic property (for instance, "does the program contain an [[https://en.wikipedia.org/wiki/If-then-else][if-then-else]] statement?"). A /non-trivial/ property is one which is neither true for every program, nor false for every program.
+
+  The theorem generalizes the undecidability of the [[https://en.wikipedia.org/wiki/Halting_problem][halting problem]].  It has far-reaching implications on the feasibility of [[https://en.wikipedia.org/wiki/Static_program_analysis][static analysis]] of programs.  It implies that it is impossible, for example, to implement a tool that checks whether any given program is [[https://en.wikipedia.org/wiki/Correctness_(computer_science)][correct]], or even executes without error (it is possible to implement a tool that always overestimates or always underestimates, so in practice one has to decide what is less of a problem).
+
+  The theorem is named after [[https://en.wikipedia.org/wiki/Henry_Gordon_Rice][Henry Gordon Rice]], who proved it in his doctoral dissertation of 1951 at [[https://en.wikipedia.org/wiki/Syracuse_University][Syracuse University]].
+#+end_quote

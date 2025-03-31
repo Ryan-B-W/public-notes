@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       cd24e6d7-a28e-447d-a67f-94099f0c92b3
+:ROAM_REFS: https://www.youtube.com/watch?v=RcVA8Nj6HEo
+:END:
+#+title: (www.youtube.com) Lambda Calculus: Introduction, Visualization, and Philosophy - YouTube
+#+filetags: :computer_science:lisp:mathematics:video:website:
+
+#+begin_quote
+  * Lambda Calculus: Introduction, Visualization, and PhilosophyWhat is PLUS times PLUS?
+
+  [[https://www.youtube.com/@twoswap][2swap]]
+
+  ERRATA:
+  - The "Church-Turing Thesis" is different from the "Church-Turing Theorem". The "theorem" is the claim which I discussed in the video- namely, that the Turing machine and lambda calculus are equally powerful. The "thesis" is the informal claim that the two of these systems are a sufficient formalization which capture the idea of "arbitrary computation".
+  - I claimed in the end of the video that this was the first example of animated beta-reductions of visual lambda expressions. Paul Brauner has some videos here: [[https://www.youtube.com/playlist?list=PLi8_XqluS5xc7GL-bgVrxpA2Uww6nK0gV][Lambda Diagrams]], although they do not explicitly animate the mechanics of one step of beta-reduction! I probably should have chosen my words more carefully. Sorry Paul- linked you in an info card in the top right!
+  - It seems that both lisp and rust blur the line between functional and imperative programming more than I realized, so take that chart at the end with a grain of salt!
+  - While the expression (*(+ +)), treated as a 4-argument function, yields (d^(c^b))^(a+c), inserting the 4th argument is actually not necessary! You can treat it as a 3-argument function, and it reduces to (c^b)*(a+c).
+
+    JOIN OUR DISCORD!  [[https://discord.com/invite/EMmFwEgnTz][discord]]
+#+end_quote

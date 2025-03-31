@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       0a177b13-aecb-4f33-a45b-30b0b090614b
+:ROAM_REFS: https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/
+:END:
+#+title: (www.oreilly.com) Designing Data-Intensive Applications, 2nd Edition[Book]
+#+filetags: :databases:computer_science:books:website:
+
+#+begin_quote
+  * Designing Data-Intensive Applications, 2nd Edition
+
+  by [[https://www.oreilly.com/search?q=author:%22Martin%20Kleppmann%22][Martin Kleppmann]], [[https://www.oreilly.com/search?q=author:%22Chris%20Riccomini%22][Chris Riccomini]]
+
+  Released December 2025
+
+  Publisher(s): O'Reilly Media, Inc.
+
+  ISBN: 9781098119065
+
+  ** Book description
+
+  Data is at the center of many challenges in system design today.  Difficult issues such as scalability, consistency, reliability, efficiency, and maintainability need to be resolved.  In addition, there's an overwhelming variety of tools and analytical systems, including relational databases, NoSQL datastores, plus data warehouses and data lakes.  What are the right choices for your application?  How do you make sense of all these buzzwords?
+
+  In this second edition, authors Martin Kleppmann and Chris Riccomini build on the foundation laid in the acclaimed first edition, integrating new technologies and emerging trends.  You'll be guided through the maze of decisions and trade-offs involved in building a modern data system, from choosing the right tools like Spark and Flink to understanding the intricacies of data laws like the GDPR.
+
+  - Peer under the hood of the systems you already use, and learn to use them more effectively
+  - Make informed decisions by identifying the strengths and weaknesses of different tools
+  - Navigate the trade-offs around consistency, scalability, fault tolerance, and complexity
+  - Understand the distributed systems research upon which modern databases are built
+  - Peek behind the scenes of major online services, and learn from their architectures
+#+end_quote

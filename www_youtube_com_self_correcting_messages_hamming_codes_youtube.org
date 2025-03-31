@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       7ea9bd38-5f1e-4d41-ae1c-563b16394205
+:ROAM_REFS: https://www.youtube.com/watch?v=X8jsijhllIA
+:END:
+#+title: (www.youtube.com) Self-Correcting Messages (Hamming Codes) - YouTube
+#+filetags: :computer_science:mathematics:video:website:
+
+#+begin_quote
+  * Self-Correcting Messages (Hamming Codes)But what are Hamming codes? The origin of error correction
+
+  [[https://www.youtube.com/@3blue1brown][3Blue1Brown]]
+
+  A discovery-oriented introduction to error correction codes.\\
+  Part 2: [[https://www.youtube.com/watch?v=b3NxrZOu_CE][Hamming codes part 2: The one-line im...]]\\
+  Ben Eater:'s take: [[https://www.youtube.com/watch?v=h0jloehRKas][What is error correction? Hamming cod...]]\\
+  Help fund future projects: [[https://www.patreon.com/3blue1brown][3blue1brown]]\\
+  An equally valuable form of support is to simply share some of the videos.\\
+  Special thanks to these supporters: [[https://3b1b.co/hamming-thanks][https://3b1b.co/hamming-thanks]]
+
+  Heavily related is the chessboard puzzle I did with Matt Parker: [[https://www.youtube.com/watch?v=as7Gkm7Y7h4][The almost impossible chessboard puzzle]]
+
+  You can read Hamming's own perspective on his discovery of these codes in chapter 12 of "The Art of Doing Science and Engineering".\\
+  [[https://amzn.to/3lwcnmh][https://amzn.to/3lwcnmh]]
+
+  The viewer Harry Li made an interactive on this topic:\\
+  [[https://harryli0088.github.io/hamming-code/][https://harryli0088.github.io/hamming...]]
+
+  Thanks to these viewers for their contributions to translations\\
+  Hebrew: Omer Tuchfeld\\
+  Hungarian: Fabó Bence\\
+  Spanish: agustin-j
+
+  ------------------
+
+  These animations are largely made using manim, a scrappy open-source python library: [[https://github.com/3b1b/manim][https://github.com/3b1b/manim]]
+
+  If you want to check it out, I feel compelled to warn you that it's not the most well-documented tool, and it has many other quirks you might expect in a library someone wrote with only their own use in mind.
+
+  Music by Vincent Rubinetti.\\
+  Download the music on Bandcamp: [[https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFlDbktCM3Q1amxZb2ZJQW9xb2liYzdfQnd2d3xBQ3Jtc0ttcG10ZDByNHJPSEZFMkozcE93bHAxUHAxWXd6d29HWUtmRnQzR1BETzNTcFh0TDl3eVRyMVBCRWlYNUlyZEVRQ3Rnc2dIejR4QUhZMWJWdkJFLThiaHpyd1RYR04ycF9DOEg4eWNGYnlkaHhiUDZSZw&q=https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown&v=X8jsijhllIA][https://vincerubinetti.bandcamp.com/a...]]
+
+  Stream the music on Spotify: [[https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFRsV09nOEFqMUQ3U3FRZjJadzgyOFh1MUtwd3xBQ3Jtc0tsUXNlUGs0WlgzRVRnWDQ3TVJRMW1XdjdPczdLcDVNM1dZWEFJczFrT0xRTDFMaEpfeFp0TnhJbks0Y183Z1N6VUJQOHFRcXN3aDRDdmxWNFFLczJfRUZ0OU1iQXNuM28tODRBUkhnYWltTmliRFZfQQ&q=https://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u&v=X8jsijhllIA][https://open.spotify.com/album/1dVyjw...]]
+#+end_quote

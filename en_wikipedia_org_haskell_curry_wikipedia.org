@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       a0860061-8e8d-4edc-9c47-f50c7aeeb168
+:ROAM_REFS: https://en.wikipedia.org/wiki/Haskell_Curry
+:END:
+#+title: (en.wikipedia.org) Haskell Curry - Wikipedia
+#+filetags: :people:website:
+
+#+begin_quote
+  *Haskell Brooks Curry* ([[https://en.wikipedia.org/wiki/Help:IPA/English][/ˈhæskəl/]] [[https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key][/HAS-kəl/]]; September 12, 1900 – September 1, 1982) was an American [[https://en.wikipedia.org/wiki/Mathematician][mathematician]], [[https://en.wikipedia.org/wiki/Logic][logician]] and [[https://en.wikipedia.org/wiki/Computer_scientist][computer scientist]].  Curry is best known for his work in [[https://en.wikipedia.org/wiki/Combinatory_logic][combinatory logic]], whose initial concept is based on a paper by [[https://en.wikipedia.org/wiki/Moses_Schönfinkel][Moses Schönfinkel]], for which Curry did much of the development.  Curry is also known for [[https://en.wikipedia.org/wiki/Curry's_paradox][Curry's paradox]] and the [[https://en.wikipedia.org/wiki/Curry–Howard_correspondence][Curry–Howard correspondence]].  Named for him are three [[https://en.wikipedia.org/wiki/Programming_language][programming languages]]: [[https://en.wikipedia.org/wiki/Haskell][Haskell]], [[https://en.wikipedia.org/wiki/BrookGPU][Brook]], and [[https://en.wikipedia.org/wiki/Curry_(programming_language)][Curry]], and the concept of /[[https://en.wikipedia.org/wiki/Currying][currying]]/, a method to transform functions, used in [[https://en.wikipedia.org/wiki/Mathematics][mathematics]] and [[https://en.wikipedia.org/wiki/Computer_science][computer science]].
+#+end_quote

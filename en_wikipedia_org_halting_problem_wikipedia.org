@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       1ed495bd-4fa7-4386-820e-da7d8fa037fe
+:ROAM_REFS: https://en.wikipedia.org/wiki/Halting_problem
+:END:
+#+title: (en.wikipedia.org) Halting problem - Wikipedia
+#+filetags: :mathematics:computer_science:website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Computability_theory_(computer_science)][computability theory]], the *halting problem* is the problem of determining, from a description of an arbitrary [[https://en.wikipedia.org/wiki/Computer_program][computer program]] and an input, whether the program will finish running, or continue to run forever.  The halting problem is /[[https://en.wikipedia.org/wiki/Undecidable_problem][undecidable]]/, meaning that no general [[https://en.wikipedia.org/wiki/Algorithm][algorithm]] exists that solves the halting problem for all possible program–input pairs.  The problem comes up often in discussions of [[https://en.wikipedia.org/wiki/Computability][computability]] since it demonstrates that some functions are mathematically [[https://en.wikipedia.org/wiki/Definable_set][definable]] but not [[https://en.wikipedia.org/wiki/Computable_function][computable]].
+
+  A key part of the formal statement of the problem is a mathematical definition of a computer and program, usually via a [[https://en.wikipedia.org/wiki/Turing_machine][Turing machine]].  The proof then shows, for any program =f= that might determine whether programs halt, that a "pathological" program =g= exists for which =f= makes an incorrect determination.  Specifically, =g= is the program that, when called with some input, passes its own source and its input to /f/ and does the opposite of what =f= predicts =g= will do.  The behavior of =f= on =g= shows undecidability as it means no program =f= will solve the halting problem in every possible case.
+#+end_quote

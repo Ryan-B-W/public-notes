@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       84a83fd6-8983-49fa-8694-49a0ace2f4b0
+:ROAM_REFS: https://en.wikipedia.org/wiki/Mizar_system
+:END:
+#+title: (en.wikipedia.org) Mizar system - Wikipedia
+#+filetags: :software:programming_language:mathematics:computer_science:website:
+
+#+begin_quote
+  The *Mizar system* consists of a [[https://en.wikipedia.org/wiki/Formal_language][formal language]] for writing mathematical definitions and proofs, a [[https://en.wikipedia.org/wiki/Proof_assistant][proof assistant]], which is able to [[https://en.wikipedia.org/wiki/Automated_proof_checking][mechanically check]] proofs written in this language, and a library of [[https://en.wikipedia.org/wiki/Mathematical_formalization][formalized mathematics]], which can be used in the proof of new theorems.  The system is maintained and developed by the Mizar Project, formerly under the direction of its founder [[https://en.wikipedia.org/wiki/Andrzej_Trybulec][Andrzej Trybulec]].
+
+  In 2009 the Mizar Mathematical Library was the largest coherent body of strictly formalized mathematics in existence.
+#+end_quote

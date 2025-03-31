@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       5d8b7f8f-1b32-411b-a63f-628cfa0c4205
+:ROAM_REFS: https://hackernewsbooks.com/
+:END:
+#+title: (hackernewsbooks.com) Hacker News Books
+#+filetags: :books:lists:website:
+
+#+begin_quote
+  [[https://hackernewsbooks.com/][Hacker News Books]]
+
+  * The Best Books Mentioned On [[https://news.ycombinator.com/][Hacker News]] This Week
+#+end_quote

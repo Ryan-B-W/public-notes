@@ -162,3 +162,8 @@ Main node: [[id:69d3e2e7-62dc-414f-90ee-86f4b4abbcb0][(sarabander.github.io) Str
 :ID:       eecde4f8-9302-4eb7-a09b-6ee1217b3414
 :ROAM_REFS: https://sarabander.github.io/sicp/html/5_002e5.xhtml
 :END:
+* (sarabander.github.io) SICP, 2e: References
+:PROPERTIES:
+:ID:       54ca1727-d685-4343-a0e3-3f07a815ea58
+:ROAM_REFS: https://sarabander.github.io/sicp/html/References.xhtml
+:END:
