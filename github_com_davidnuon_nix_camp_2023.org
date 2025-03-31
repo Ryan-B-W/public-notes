@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       98901722-fbf7-4352-ba82-b6372cdc6ea5
+:ROAM_REFS: https://github.com/davidnuon/nix-camp-2023
+:END:
+#+title: (github.com) davidnuon/nix-camp-2023
+#+filetags: :slides:nix:website:
+
+#+begin_quote
+  * Nix Camp 2023 Slides
+
+  Slide deck I made for nix.camp 2023
+
+  Made with [[https://github.com/davidnuon/nix2html][nix2html]].
+#+end_quote

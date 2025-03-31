@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       ee2d3b1a-f6b1-40ac-8c30-fbc22eabd707
+:ROAM_REFS: https://recco.com/technology/
+:END:
+#+title: (recco.com) Technology - Recco
+#+filetags: :search_and_rescue:website:
+
+#+begin_quote
+  * RECCO®
+
+  Technology
+
+  The patented RECCO® technology is a two-part system, featuring an active detector, carried by the rescuer, and a passive reflector, carried by the user.
+
+  Make sure to tell your friends and family that you're searchable.
+
+  ** RECCO® Reflectors
+
+  and Detectors
+
+  ** The RECCO® Reflector
+
+  The RECCO reflector makes you searchable to the rescuers. RECCO reflectors are lightweight passive transponders that require no power or activation to function. They consist of a diode and an antenna.
+
+  RECCO reflectors are integrated into products from more than 150 brands, including jackets, pants, helmets, backpacks, back protectors, boots, transceivers, and harnesses.
+  Reflectors are also available as single products to be attached to Helmets and Backpacks or within our own RECCO Belts
+
+  RECCO reflectors are designed to last a lifetime and do not age or wear out. If not mechanically damaged they will last forever.
+
+  [[https://recco.com/recco-equipped-gear/][RECCO TECHNOLOGY EQUIPPED PRODUCTS]]
+
+  ** The RECCO® Handheld Detector
+
+  The handheld detector can locate RECCO reflectors within a range up to 80 meters through air and 20 meters through packed snow, which results in a practical range of 30 meters on an avalanche debris. The current version of handheld detectors weighs 1 kg and the detectors are used worldwide by organized rescue as an additional electronic search method at avalanche rescues.
+
+  [[https://recco.com/avalanche-rescue/][AVALANCHE RESCUE & RECCO TECHNOLOGY]]
+
+  [[https://recco.com/global-network/][GLOBAL NETWORK OF HANDHELD DETECTORS]]
+
+  ** RECCO®SAR Helicopter Detector
+
+  The RECCO SAR (search and rescue) helicopter detector can cover large areas fast. Searching from a height of 100 meters and covering a search area of approximately 100 meters wide, the SAR detector enables rescuers to search 1km² within 6 minutes. The principle of locating a victim is the same as for the handheld detector with the detector sending a radar signal echoed back by the RECCO reflector. Upon receiving a returned signal, the rescuer can locate the lost individual.
+
+  [[https://recco.com/outdoor-rescue/][OUTDOOR RESCUE & RECCO TECHNOLOGY]]
+
+  [[https://recco.com/global-network/][GLOBAL NETWORK OF DETECTORS]]
+
+  ** How it works:
+
+  1. The RECCO detector emits a directional radar signal, like the beam of a flashlight.
+
+  2. When the radar signal hits the RECCO reflector, it is echoed back to the detector and points the rescuer in the direction of the victim.
+
+  3. The closer the detector gets to the reflector the stronger the returned-signal, ultimately allowing the rescuer to pinpoint the victim's location.
+
+  [[https://recco.com/technology/][Learn more]]
+#+end_quote
