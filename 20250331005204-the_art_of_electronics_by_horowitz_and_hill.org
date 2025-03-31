@@ -1,0 +1,91 @@
+:PROPERTIES:
+:ID:       e2c6d502-f583-4bce-a60b-9a33832205c2
+:END:
+#+title: The Art of Electronics by Horowitz and Hill
+#+filetags: :textbooks:engineering:hardware:electronics:books:
+
+Classical textbook on electrical engineering.
+* (artofelectronics.net) The Art of Electronics 3rd Edition | by Horowitz and Hill :website:
+:PROPERTIES:
+:ID:       c6f6dd59-6d4b-40bf-96ec-72dbaab522ff
+:ROAM_REFS: https://artofelectronics.net/
+:END:
+
+#+begin_quote
+  ** [[https://artofelectronics.net/][About The Book]]
+
+  : “Wow.  Chapter 5 details every circuit artifact that I've encountered in the past 30 years in a thorough, pragmatic, and straightforward way.  My only ‘twinge' is that it discloses and explains (in glorious graphical detail and with real part numbers) many topics that I thought were my personal trade secrets.  I love the plots.  I know that it must take an enormous effort to collate all of the device characteristics.  It's worth the effort.  The way the data is presented allows the reader to get terrific perspective on a lot of landscape in a single view.  Nice work.”  --- John Willison, founder, Stanford Research Systems
+
+  The Eagle has landed!!  [[https://x.artofelectronics.net/][Click here to visit “AoE: the x-Chapters” website]]
+
+  *Counterfeit Warning:* December, 2015 --- buyers have reported poor quality copies (confirmed as counterfeit) being sold online at prices too low to be creditable.  These are recognizable from their poor bindings and text errors (e.g., missing the ligature “fi”, thus on the author page “Wineld Hill”!). More information [[http://artofelectronics.net/the-book/counterfeit-editions/][here]].  EEVBlog's Dave Jones gets one in his Mailbag [[http://www.eevblog.com/2016/02/03/eevblog-847-mailbag/][here]].  Note also that the only authorized e-book version is Kindle.
+
+  **** *NEWER*: [[http://artofelectronics.net/wp-content/uploads/2016/11/parts_index_final_30nov16.pdf][FINAL parts index (corrected 30Nov16)]]
+
+  **** *NEWER*: [[http://artofelectronics.net/wp-content/uploads/2016/11/subject_index_final_30nov16.pdf][FINAL subject index (corrected 30Nov16)]]
+
+  **** [[http://artofelectronics.net/wp-content/uploads/2016/02/AoE3_chapter9.pdf][Download a sample chapter]]
+
+  - *1220 large format pages*
+  - *Extensive practical advice*
+  - *80 tables listing some 1650 components*
+  - *Back-of-the-envelope techniques*
+  - *1470 figures and 90 oscilloscope screenshots*
+  - *Exhaustive index*
+#+end_quote
+* (www.amazon.com) The Art of Electronics: Horowitz, Paul, Hill, Winfield: Amazon.com: Books :website:
+:PROPERTIES:
+:ID:       2ca72e74-1d47-4df4-85ab-0a7fd4e4a727
+:ROAM_REFS: https://www.amazon.com/dp/0521809266
+:END:
+
+#+begin_quote
+  * The Art of Electronics 3rd Edition
+
+  by [[https://www.amazon.com/Paul-Horowitz/e/B000APV6LW/ref=dp_byline_cont_book_1][Paul Horowitz]] (Author), [[https://www.amazon.com/Winfield-Hill/e/B001KE19LY/ref=dp_byline_cont_book_2][Winfield Hill]] (Author)
+
+  At long last, here is the thoroughly revised and updated third edition of the hugely successful The Art of Electronics.  It is widely accepted as the best single authoritative book on electronic circuit design.  In addition to new or enhanced coverage of many topics, the third edition includes 90 oscilloscope screenshots illustrating the behavior of working circuits, dozens of graphs giving highly useful measured data of the sort that is often buried or omitted in datasheets but which you need when designing circuits, and 80 tables (listing some 1650 active components), enabling intelligent choice of circuit components by listing essential characteristics (both specified and measured) of available parts.  The new Art of Electronics retains the feeling of informality and easy access that helped make the earlier editions so successful and popular.  It is an indispensable reference and the gold standard for anyone, student or researcher, professional or amateur, who works with electronic circuits.
+#+end_quote
+* (en.wikipedia.org) The Art of Electronics - Wikipedia             :website:
+:PROPERTIES:
+:ID:       74dc3f94-d148-4287-9129-8e7c647f0f4f
+:ROAM_REFS: https://en.wikipedia.org/wiki/The_Art_of_Electronics
+:END:
+
+#+begin_quote
+  /*The Art of Electronics*/, by [[https://en.wikipedia.org/wiki/Paul_Horowitz][Paul Horowitz]] and [[https://en.wikipedia.org/wiki/Winfield_Hill][Winfield Hill]], is a popular electronics design reference [[https://en.wikipedia.org/wiki/Textbook][textbook]] dealing with [[https://en.wikipedia.org/wiki/Analog_electronics][analog]] and [[https://en.wikipedia.org/wiki/Digital_electronics][digital electronics]].  The third edition was published in 2015.  The author accepts reports of errata and posts them, to be corrected in future revisions.
+#+end_quote
+* (www.goodreads.com) The Art of Electronics by Paul Horowitz | Goodreads :website:
+:PROPERTIES:
+:ID:       245c28ed-9b33-4e87-9ebe-1fbcf8d6eefc
+:ROAM_REFS: https://www.goodreads.com/book/show/7831175-the-art-of-electronics
+:END:
+
+#+begin_quote
+  * The Art of Electronics
+
+  [[https://www.goodreads.com/author/show/104674.Paul_Horowitz][Paul Horowitz]], [[https://www.goodreads.com/author/show/104673.Winfield_Hill][Winfield Hill]]
+
+  At long last, here is the thoroughly revised and updated third edition of the hugely successful The Art of Electronics.  It is widely accepted as the best single authoritative book on electronic circuit design.  In addition to new or enhanced coverage of many topics, the third edition includes 90 oscilloscope screenshots illustrating the behavior of working circuits, dozens of graphs giving highly useful measured data of the sort that is often buried or omitted in datasheets but which you need when designing circuits, and 80 tables (listing some 1650 active components), enabling intelligent choice of circuit components by listing essential characteristics (both specified and measured) of available parts.  The new Art of Electronics retains the feeling of informality and easy access that helped make the earlier editions so successful and popular.  It is an indispensable reference and the gold standard for anyone, student or researcher, professional or amateur, who works with electronic circuits.
+#+end_quote
+* (www.adafruit.com) The Art of Electronics 3rd Edition by Horowitz & Hill HARDCOVER [Third Edition] : ID 2356 : Adafruit Industries, Unique & fun DIY electronics and kits :website:
+:PROPERTIES:
+:ID:       551e682c-d2fb-4042-902d-648041d97bb4
+:ROAM_REFS: https://www.adafruit.com/product/2356
+:END:
+
+#+begin_quote
+  ** Description
+
+  We absolutely love /The Art of Electronics by/ Paul Horowitz and Winfield Hill.  So much so, our Ladyada (Limor Fried, founder and engineer of Adafruit) scored a review copy and even gives her commendation on the back cover!  Here's what she had to say:
+
+  "Who among us has not kept a cherished copy of AoE on our workbench throughout our careers?  Engineers, hackers and makers of all stripes, rejoice for the third edition ... has been worth the wait!  Packed with tons of delicious knowledge to navigate electronics in both work and hobby.  An encyclopedia of electronics knowledge, [The Art of Electronics] is a pleasure to read through for tips and tricks and is a unbeatable resource!  Take a day out to read a chapter - you will learn things you didn't even know you didn't know.  Or, refer to the pinouts, diagrams, and techniques as necessary to guide you through a difficult project.  If you think electrical engineering is magical then you must pick up this tome!"
+
+  Limor 'Ladyada' Fried, Adafruit Industries
+
+  The third edition features enough new info that's it's worth buying.  Here's the description from the /Art of Electronics/ folks themselves:
+
+  /At long last, here is the thoroughly revised and updated third edition of the hugely successful Art of Electronics.  It is widely accepted as the best single authoritative book on electronic circuit design.  In addition to new or enhanced coverage of many topics, the Third Edition includes: 90 oscilloscope screenshots illustrating the behavior of working circuits; dozens of graphs giving highly useful measured data of the sort that's often buried or omitted in datasheets but which you need when designing circuits; 80 tables (listing some 1650 active components), enabling intelligent choice of circuit components by listing essential characteristics (both specified and measured) of available parts.  The new Art of Electronics ​​retains the feeling of informality and easy access that helped make the earlier editions so successful and popular.  It is an indispensable reference and the gold standard​​ for anyone, student or researcher, professional or amateur, who works with electronic circuits./
+
+  Clocks in at a whopping 1,220 pages with 78 tables - so prepare yourself for a very long and informative book club!
+#+end_quote

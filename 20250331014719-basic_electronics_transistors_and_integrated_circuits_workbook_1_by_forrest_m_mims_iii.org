@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       afa41114-9f6f-42cc-837a-022b55b209e0
+:END:
+#+title: Basic Electronics: Transistors and Integrated Circuits, Workbook 1 by Forrest M. Mims III
+#+filetags: :tutorial:hardware:electronics:books:
+
+Electronics introductory workbook by [[id:f5222001-64f8-43d5-a6e4-f0f4e1808743][Forrest M. Mims III]].  Prequel to [[id:4d01b3f8-dc87-4a61-bf47-25d1bc520db7][Digital Logic Projects, Workbook 2 by Forrest M. Mims III]].
+* (www.amazon.com) Basic Electronics: Transistors and Integrated Circuits Workbook 1: Forrest M. Mims III: Amazon.com: Books :website:
+:PROPERTIES:
+:ID:       d9e8143d-ee9c-461e-8d41-6b526e354bc2
+:ROAM_REFS: https://www.amazon.com/dp/B000NHSAVG
+:END:
+
+#+begin_quote
+  * Basic Electronics: Transistors and Integrated Circuits Workbook 1 Paperback – January 1, 2000
+
+  by [[https://www.amazon.com/Forrest-M-Mims-III/e/B003UGHJVE/ref=dp_byline_cont_book_1][Forrest M. Mims III]] (Author)
+#+end_quote

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       78a8d7bb-e79c-4421-aad4-6fb21b782b27
+:END:
+#+title: Naval Electrical Engineering Training Series (NEETS)
+#+filetags: :hardware:electronics:books:
+
+Series of training manuals used by the Navy for training electrical engineers and technicians.
+* (electriciantraining.tpub.com) Neets - Naval Electrical Engineering Training Series :website:
+:PROPERTIES:
+:ID:       da631745-0972-4636-8545-9f682753b78d
+:ROAM_REFS: https://electriciantraining.tpub.com/
+:END:

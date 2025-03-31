@@ -1,0 +1,78 @@
+:PROPERTIES:
+:ID:       f5222001-64f8-43d5-a6e4-f0f4e1808743
+:END:
+#+title: Forrest M. Mims III
+#+filetags: :biographic:people:
+
+A famous amateur scientist and author of a large amount of introductory material on electronics and electrical engineering.
+* (www.forrestmims.org) Forrest M. Mims III                         :website:
+:PROPERTIES:
+:ID:       3311c57a-898c-4a13-8f3c-47b416a4bb70
+:ROAM_REFS: http://www.forrestmims.org/
+:END:
+
+#+begin_quote
+  ** Scientific Research, Books, Articles, Columns, Lectures and Photographs
+
+  *Welcome*
+
+  From Jul 2019 to Feb 2020 (and ongoing), I've been measuring the elevation of the volcanic arerosol cloud from the eruption of the Russian volcano Raikoke on 22 Jun 2019.  See below for inormation on the twilight photometers I use for these measurements.  The peak density of the volcanic cloud has ranged from 15 to 25 km with the average around 19-20 km.  My data are a close match to the lidar measurements of the cloud at the Mauna Loa Observatory provbided by Dr. John Barnes.
+
+  Completed 160,000-word ebook "Environmental Science: An Explorer's Guide" for Intelligent Education.  The book includes 920+ photos and charts.
+
+  Two Rolex Award colleagues and I received a major grant from Rolex to perform a comprehensive study of solar UV-B in Hawai'i.  The 28-day study took place during July-August 2018.  A detailed report plus many photos and charts are [[https://www.mdpi.com/1660-4601/16/6/997][here]].
+
+  Most exciting new science here continues to be measuring the altitude of dust layers overhead using an ultra-sensitive near-infrared photometer to measure the twilight glow before sunrise or after sunset.  The method reliably detects the stratospheric aerosol layer and dust layers in the troposphere so long as the zenith sky is cloud free.  The method also detected the altitude of the ozone layer over the Mauna Loa Observatory in June 2014-16.  See details for the basic twilight aerosol profile system in my column in [[http://www.makezine.com/projects/twilight-photometer/][MAKE Magazine]].  This method also detects meteoric smoke from 70 to 130 km when conditions are good.
+
+  More of my science is at [[http://www.sunandsky.net/][www.sunandsky.net]].  See video clips–including music made from my UV-B and cosmic ray data–at [[http://www.youtube.com/fmims][www.youtube.com/fmims]].  Science updates and links to my weekly science column are posted on Facebook (fmims or Forrest M. Mims III) and Twitter (@fmims). I've started a science blog [[https://fmims.wordpress.com/][here]].  Email me at [[mailto:fmims@aol.com]].
+#+end_quote
+** (www.forrestmims.org) Forrest M. Mims III: Publications
+:PROPERTIES:
+:ID:       ed6d4335-c7e5-4868-af91-e40ceee4a5e0
+:ROAM_REFS: http://www.forrestmims.org/publications.html
+:END:
+* (en.wikipedia.org) Forrest Mims - Wikipedia                       :website:
+:PROPERTIES:
+:ID:       3ac74035-dafc-4419-b1ff-7443457bd7f4
+:ROAM_REFS: https://en.wikipedia.org/wiki/Forrest_Mims
+:END:
+
+#+begin_quote
+  *Forrest M. Mims III* is an American amateur scientist, magazine columnist, and author of /Getting Started in Electronics/ and /Engineer's Mini-Notebook/ series of instructional books that were originally sold in [[https://en.wikipedia.org/wiki/Radio_Shack][Radio Shack]] electronics stores and are still in print.  Mims graduated from [[https://en.wikipedia.org/wiki/Texas_A&M_University][Texas A&M University]] in 1966 with a major in government and minors in English and history.  He became a commissioned officer in the [[https://en.wikipedia.org/wiki/United_States_Air_Force][United States Air Force]], served in Vietnam as an Air Force intelligence officer (1967), and a Development Engineer at the Air Force Weapons Laboratory (1968–70).
+
+  Mims has no formal academic training in science, but still went on to have a successful career as a science author, researcher, lecturer and syndicated columnist.  His series of hand-lettered and illustrated electronics books sold over 7.5 million copies and he is widely regarded as one of the world's most prolific citizen scientists.  Mims does scientific studies in many fields using instruments he designs and makes and his scientific papers have been published in many peer-reviewed journals, often with professional scientists as co-authors.  Much of his research deals with ecology, atmospheric science and environmental science.  A simple instrument he developed to measure the [[https://en.wikipedia.org/wiki/Ozone_layer][ozone layer]] earned him a Rolex Award for Enterprise in 1993.  In December 2008, /[[https://en.wikipedia.org/wiki/Discover_(magazine)][Discover]]/ named Mims one of the "50 Best Brains in Science."
+
+  Mims edited /The Citizen Scientist/ — the journal of the [[https://en.wikipedia.org/wiki/Society_for_Amateur_Scientists][Society for Amateur Scientists]] — from 2003 to 2010.  He also served as Chairman of the Environmental Science Section of the Texas Academy of Science.  For 17 years he taught a short course on electronics and atmospheric science at the [[https://en.wikipedia.org/wiki/University_of_the_Nations][University of the Nations]], an [[https://en.wikipedia.org/wiki/School_accreditation][unaccredited]] [[https://en.wikipedia.org/wiki/Christianity][Christian]] university in [[https://en.wikipedia.org/wiki/Hawaii][Hawaii]].  He is a Life Senior member of the [[https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers][Institute of Electrical and Electronics Engineers]].  Mims is a Fellow of the pseudoscientific organizations [[https://en.wikipedia.org/wiki/International_Society_for_Complexity,_Information_and_Design][International Society for Complexity, Information and Design]] and [[https://en.wikipedia.org/wiki/Discovery_Institute][Discovery Institute]] which propagate [[https://en.wikipedia.org/wiki/Creationism][creationism]].  He is also a [[https://en.wikipedia.org/wiki/Global_warming_denier][global warming denier]].
+#+end_quote
+* (www.amazon.com) Amazon.com: Forrest M. Mims III: books, biography, latest update :store:website:
+:PROPERTIES:
+:ID:       aa0fb31a-b0d3-41f2-b471-94ffe82eead7
+:ROAM_REFS: https://www.amazon.com/stores/Forrest-M.-Mims-III/author/B003UGHJVE
+:END:
+* (makezine.com) Forrest M. Mims III Author Profile | Make: DIY Projects and Ideas for Makers :website:
+:PROPERTIES:
+:ID:       4d64c83b-781a-4c71-94b8-27ea579cc292
+:ROAM_REFS: https://makezine.com/author/forrest-m-mims-iii
+:END:
+
+#+begin_quote
+  * Forrest M. Mims III
+
+  Forrest M. Mims III ([[http://forrestmims.org/][forrestmims.org]]), an amateur scientist and Rolex Award winner, was named by Discover magazine as one of the “50 Best Brains in Science.”  His books have sold more than 7 million copies.
+#+end_quote
+* (scholar.google.com) ‪Forrest M. Mims III‬ - ‪Google Scholar‬         :website:
+:PROPERTIES:
+:ID:       dd0d9081-821f-4ac8-9a82-7427d2c92318
+:ROAM_REFS: https://scholar.google.com/citations?user=3EUMDWgAAAAJ
+:END:
+* (www.goodreads.com) Forrest M. Mims III (Author of Getting Started in Electronics) :website:
+:PROPERTIES:
+:ID:       6df13842-6677-4484-a971-32861e7d8f86
+:ROAM_REFS: https://www.goodreads.com/author/show/150261.Forrest_M_Mims_III
+:END:
+
+#+begin_quote
+  Forrest M. Mims III is an amateur scientist, magazine columnist, and author of the popular Getting Started in Electronics and Engineer's Mini-Notebook series of instructional books that was originally sold in Radio Shack electronics stores.  Mims graduated from Texas A&M University in 1966 with a major in government and minors in English and history.  He became a commissioned officer in the United States Air Force.
+
+  Although he has no formal academic training in science, Mims has had a successful career as a science author, researcher, lecturer and syndicated columnist.
+#+end_quote

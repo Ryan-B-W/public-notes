@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       f23679bd-71b6-48ce-990d-83537cabb53e
+:END:
+#+title: Getting Started in Electronics by Forrest M. Mims III
+#+filetags: :tutorial:hardware:electronics:books:
+
+Classical small workbook on the basics of electronics by [[id:f5222001-64f8-43d5-a6e4-f0f4e1808743][Forrest M. Mims III]].
+* (www.amazon.com) Getting Started in Electronics: Forrest M. Mims III: 9780945053286: Amazon.com: Books :website:
+:PROPERTIES:
+:ID:       bfa2010f-b097-44e9-9ebd-2c9cfdd06aba
+:ROAM_REFS: https://www.amazon.com/dp/0945053282
+:END:
+
+#+begin_quote
+  * Getting Started in Electronics Spiral-bound – July 1, 2020
+
+  by [[https://www.amazon.com/Forrest-M-Mims-III/e/B003UGHJVE/ref=dp_byline_cont_book_1][Forrest M. Mims III]] (Author)
+
+  NEW 2020 SPIRAL BOUND EDITION This is a complete electronics course in 128 pages!  Author Forrest Mims teaches you the basics, takes you on a tour of analog and digital components, explains how they work, and shows you how they are combines for various applications.  Includes circuit assembly tips and 100 electronic circuits and projects you can build and test.
+#+end_quote
+* (books.google.com) Getting Started in Electronics - Forrest M. Mims - Google Books :website:
+:PROPERTIES:
+:ID:       8df32bf7-e2df-4d72-b490-4d847cf5d22e
+:ROAM_REFS: https://books.google.com/books/about/Getting_Started_in_Electronics.html?id=QZP1QgAACAAJ
+:END:
+* (www.adafruit.com) Getting Started in Electronics by Forrest M. Mims III : ID 517 : Adafruit Industries, Unique & fun DIY electronics and kits :website:
+:PROPERTIES:
+:ID:       1aa31d51-41a4-400f-8d0d-76c8387fadff
+:ROAM_REFS: https://www.adafruit.com/product/517
+:END:
+
+#+begin_quote
+  ** Description
+
+  Getting Started in Electronic - by Forrest M. Mims, III. is a complete electronics course in 128 pages!  This famous electronics inventor teaches you the basics, takes you on a tour of analog and digital components, explains how they work, and shows how they are combined for various applications.  Includes circuit assembly tips and 100 electronic circuits you can build and test.  Forrest has written dozens of books, hundreds of articles, invented scientific measurement devices for NASA, and loves to share his knowledge with eager students!  This is a "must have" for the library of anyone interested in learning the basics of electronic theory and principals.
+
+  - *Begin With the Basics* - Learn about static electricity and how to make magnets and solenoids.  Find out about direct current and alternating current.  Then learn about electrical circuits that use batteries and lamps.
+  - *Basic Electronic Components* - Find out how switches, relays, meters, resistor, capacitors, transformers are used.
+  - *Diodes and Transistors* - These components are they key ingredients to modern electronic circuits.  Find out what they do and how they work.
+  - *Integrated Circuits* - From dozens to many thousands of electronic components can be formed on tiny chips of silicon.
+  - *Digital Integrated Circuits* - Learn the basics about digital logic gates using switches and transformers.
+  - *Linear Integrated Circuits* - Linear circuits respond to only the presence or absences of voltage.  Linear circuits respond to a wide range of voltages giving them many applications.
+  - *Circuit Assembly Tips* - Learn how to use electronic components to make temporary circuits and permanent circuits using wire and solder.
+  - *100 Electronic Circuits* - Now you're ready to build any or even all of the 100 tested and working circuits included in the book.  The categories of circuits include basic, photonic, digital, and linear.
+#+end_quote

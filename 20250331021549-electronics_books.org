@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       614151d5-dd4b-4aa5-9997-c484e198cbb7
+:END:
+#+title: Electronics Books
+#+filetags: :electronics:directory:books:lists:
+
+Directory of electronics books.
+* [[id:e2c6d502-f583-4bce-a60b-9a33832205c2][The Art of Electronics by Horowitz and Hill]]
+* [[id:ffe91ffc-8219-4faf-a67c-d62ea797ec79][The Art of Electronics: The X-Chapters by Horowitz and Hill]]
+* [[id:f23679bd-71b6-48ce-990d-83537cabb53e][Getting Started in Electronics by Forrest M. Mims III]]
+* [[id:afa41114-9f6f-42cc-837a-022b55b209e0][Basic Electronics: Transistors and Integrated Circuits, Workbook 1 by Forrest M. Mims III]]
+* [[id:4d01b3f8-dc87-4a61-bf47-25d1bc520db7][Digital Logic Projects, Workbook 2 by Forrest M. Mims III]]
+* [[id:78a8d7bb-e79c-4421-aad4-6fb21b782b27][Naval Electrical Engineering Training Series (NEETS)]]

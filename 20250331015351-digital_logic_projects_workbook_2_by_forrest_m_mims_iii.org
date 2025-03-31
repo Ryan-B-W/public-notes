@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       4d01b3f8-dc87-4a61-bf47-25d1bc520db7
+:END:
+#+title: Digital Logic Projects, Workbook 2 by Forrest M. Mims III
+#+filetags: :tutorial:hardware:electronics:books:
+
+Introductory electronics workbook by [[id:f5222001-64f8-43d5-a6e4-f0f4e1808743][Forrest M. Mims III]].  Sequel to [[id:afa41114-9f6f-42cc-837a-022b55b209e0][Basic Electronics: Transistors and Integrated Circuits, Workbook 1 by Forrest M. Mims III]].
+* (www.amazon.com) Digital Logic Projects Workbook II: Mims, Forrest M. III: Amazon.com: Books :website:
+:PROPERTIES:
+:ID:       0f8cec4e-b73e-4022-b1f7-13bad43ad078
+:ROAM_REFS: https://www.amazon.com/dp/B0010A78CM
+:END:
