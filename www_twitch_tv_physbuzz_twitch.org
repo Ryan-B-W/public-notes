@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       961483f2-bed9-43fa-94de-bfcfc099f8a9
+:ROAM_REFS: https://www.twitch.tv/physbuzz
+:END:
+#+title: (www.twitch.tv) physbuzz - Twitch
+#+filetags: :twitchtv:website:
+
+#+begin_quote
+  Computational physicist who's sharing the process of making simulations and visualizations!  Physics and math are creative outlets, and we don't shy away from math here.  If you've created a cool animated .gif from code or are interested in seeing that process, I want you in this community!
+#+end_quote

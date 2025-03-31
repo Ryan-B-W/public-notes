@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       a46e2b65-2018-4f21-bce0-3886e99ed21a
+:ROAM_REFS: https://people.eecs.berkeley.edu/~bh/sicp.html
+:END:
+#+title: (people.eecs.berkeley.edu) Why /Structure and Interpretation of Computer Programs/ matters
+#+filetags: :lisp:essay:website:
+
+#+begin_quote
+  * Why Structure and Interpretation of Computer Programs matters
+
+  Brian Harvey\\
+  University of California, Berkeley
+
+  In 2011, to celebrate the 150th anniversary of MIT, the /Boston Globe/ made a list of the most important innovations developed there.  They asked me to explain the importance of /SICP,/ and this is what I sent them:
+#+end_quote

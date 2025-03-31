@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       430dfa19-e4bc-45e0-8e35-ba603ad0ce16
+:ROAM_REFS: https://ecl.common-lisp.dev/
+:END:
+#+title: (ecl.common-lisp.dev) Embeddable Common-Lisp
+#+filetags: :software:programming_language:common_lisp:lisp:website:
+
+* (ecl.common-lisp.dev) Embeddable Common-Lisp - About
+:PROPERTIES:
+:ID:       f28cb713-6312-46a0-ba76-9ae3c5b43541
+:ROAM_REFS: https://ecl.common-lisp.dev/main.html
+:END:
+#+begin_quote
+  * About
+
+  ** Description
+
+  ECL (Embeddable Common-Lisp) is an interpreter of the Common-Lisp language as described in the X3J13 Ansi specification, featuring CLOS (Common-Lisp Object System), conditions, loops, etc, plus a translator to C, which can produce standalone executables.
+
+  ECL supports the operating systems Linux, FreeBSD, NetBSD, OpenBSD, OS X, Solaris, Windows, iOS, Android and Emscripten, running on top of the Intel, Sparc, Alpha, PowerPC and ARM processors.
+
+  ** Features
+
+  - A bytecode compiler and interpreter
+  - Compiles Lisp also with any C/C++ compiler
+  - Can build standalone executables and libraries
+  - ASDF, Sockets, Gray streams, MOP, and other useful components
+  - Extremely portable
+  - A reasonable license
+
+  ** Resources
+
+  - [[https://ecl.common-lisp.dev/static/files/manual/current-manual/][Documentation]] - the manual for the latest release,
+  - [[https://ecl.common-lisp.dev/static/files/release/current-release][Source Code]] - the code of the latest release,
+  - [[https://ecl.common-lisp.dev/static/files/][Files]] -- releases, manuals, papers and other static resources,
+  - Project's [[https://gitlab.com/embeddable-common-lisp/][repository]], [[https://gitlab.common-lisp.net/groups/ecl][mirror]] and [[https://gitlab.com/embeddable-common-lisp/ecl/issues][bug tracker]],
+  - [[https://mailman3.common-lisp.net/postorius/lists/ecl-devel.common-lisp.net/][The mailing list]] - low volume mailing list for announcements and discussions,
+  - *#ecl@libera.chat* - ephemeral discussions and development talk.
+
+  ** Support
+
+  For commercial support and services please contact [[mailto://daniel@turtleware.eu][daniel@turtleware.eu]].
+
+  You may also consider supporting me financially on [[https://www.patreon.com/jackdaniel_kochmanski][Patreon]].
+#+end_quote
