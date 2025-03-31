@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       c2cc7b1a-395b-4aa7-bce9-fb598e30519b
+:ROAM_REFS: https://ringerkeys.com/products/gazzew-boba-u4-silent-tactile-switches
+:END:
+#+title: (ringerkeys.com) Gazzew and Boba U4 Silent Tactiles – Ringer Keys
+#+filetags: :store:keyboard:hardware:electronics:website:
+
+#+begin_quote
+  * /1x quantity means 1 single switch!/
+
+  /New black boba u4 switches are available now!/
+
+  If the pre-counted bags are out of stock, feel free to order your desired quantity of the in-stock singles.  Pre-counted bags are only used after prepping for a meetup to sell the leftover pre-counted bags.  I prefer to give you the option to order as few or as many as you like, be sure to get a couple extras to share with your friends!
+
+  As an Official Vendor, Gazzew switches will be stocked at RingerKeys.  I couldn't find one poor review of these switches.  Check out what T[[https://www.theremingoat.com/blog/boba-u4-switch-review][heremingoat]] had to say.
+
+  *Details*
+
+  - Black or Pearl White Bases based on availability
+  - Available with Clear RGB (no-slot) and Pearl or Black(slotted) tops
+  - Available in 62g, 65g, and 68g
+  - Plastic composition, smoother than Nylon PA66
+  - Reduced leaf ping (due to metal composition and new plastic base)
+  - Light factory lube on leaf and spring base
+  - PCB-Mount (5-leg)
+
+  The U4 Silent tactile stem has a round bump with no pretravel.  If you plan on lubing these switches, a thin PTFE based grease is recommended and it's strongly advised you avoid the silencing bumpers.  Getting lube on the bumpers can add a "sticky" feeling to the switch.
+
+  Orders greater than 300 are considered bulk orders and require approval.  Contact Dan!
+#+end_quote

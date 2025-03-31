@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       ac8cb6e5-3a31-434e-8031-ec87a8714e30
+:ROAM_REFS: https://www.nytimes.com/interactive/2025/02/14/well/move/romanian-deadlift-technique.html
+:END:
+#+title: (www.nytimes.com) How to Do a Romanian Deadlift - The New York Times
+#+filetags: :exercise:fitness:website:

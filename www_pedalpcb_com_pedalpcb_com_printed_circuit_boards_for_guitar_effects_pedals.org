@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       73b28b06-7d81-4eaa-b882-6f86e9a6d10e
+:ROAM_REFS: https://www.pedalpcb.com/
+:END:
+#+title: (www.pedalpcb.com) PedalPCB.com - Printed Circuit Boards for Guitar Effects Pedals
+#+filetags: :store:music:hardware:electronics:website:
