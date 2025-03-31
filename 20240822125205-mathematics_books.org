@@ -2,7 +2,7 @@
 :ID:       fa6ec024-4e2b-4e1d-ac57-37b7d82f0531
 :END:
 #+title: Mathematics Books
-#+filetags: :directory:books:lists:
+#+filetags: :mathematics:directory:books:lists:
 
 Directory of mathematics books.
 * [[id:1418137e-d5ab-40a4-b0d2-3eb537e01bef][Abstract Algebra: Theory and Applications (A Free Textbook)]]
