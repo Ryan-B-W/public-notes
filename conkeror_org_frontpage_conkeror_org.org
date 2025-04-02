@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       3ee8602b-2c1b-47b0-b5b6-469735534784
+:ROAM_REFS: http://conkeror.org/
+:END:
+#+title: (conkeror.org) FrontPage - Conkeror.org
+#+filetags: :www:software:website:
+
+#+begin_quote
+  * About Conkeror
+
+  Conkeror is a keyboard-oriented, highly-customizable, highly-extensible web browser based on [[http://www.mozilla.org/][Mozilla]] [[http://developer.mozilla.org/en/docs/XULRunner][XULRunner]], written mainly in JavaScript, and inspired by exceptional software such as [[http://en.wikipedia.org/wiki/Emacs][Emacs]] and [[http://en.wikipedia.org/wiki/Vi][vi]].  Conkeror features a sophisticated keyboard system, allowing users to run commands and interact with content in powerful and novel ways.  It is self-documenting, featuring a powerful interactive help system.
+#+end_quote

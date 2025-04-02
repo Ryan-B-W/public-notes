@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       8eb76f6c-c94d-4d44-82a3-a7360487cae5
+:ROAM_REFS: https://pmc.ncbi.nlm.nih.gov/articles/PMC7877476/
+:END:
+#+title: (pmc.ncbi.nlm.nih.gov) Expert Programmers Have Fine-Tuned Cortical Representations of Source Code - PMC
+#+filetags: :neuroscience:software_development:programming:science_paper:website:
+
+#+begin_quote
+  * Expert Programmers Have Fine-Tuned Cortical Representations of Source Code
+
+  Yoshiharu Ikutani, Takatomi Kubo, Satoshi Nishida, Hideaki Hata, Kenichi Matsumoto, Kazushi Ikeda, Shinji Nishimoto
+
+  ** Abstract
+
+  Expertise enables humans to achieve outstanding performance on domain-specific tasks, and programming is no exception.  Many studies have shown that expert programmers exhibit remarkable differences from novices in behavioral performance, knowledge structure, and selective attention.  However, the underlying differences in the brain of programmers are still unclear.  We here address this issue by associating the cortical representation of source code with individual programming expertise using a data-driven decoding approach.  This approach enabled us to identify seven brain regions, widely distributed in the frontal, parietal, and temporal cortices, that have a tight relationship with programming expertise.  In these brain regions, functional categories of source code could be decoded from brain activity and the decoding accuracies were significantly correlated with individual behavioral performances on a source-code categorization task.  Our results suggest that programming expertise is built on fine-tuned cortical representations specialized for the domain of programming.
+
+  *Keywords*: brain decoding, functional magnetic resonance imaging, program comprehension, programming expertise, the neuroscience of programming
+#+end_quote

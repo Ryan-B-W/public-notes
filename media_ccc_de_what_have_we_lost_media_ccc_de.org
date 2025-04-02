@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       df26b4c9-2269-423a-b276-1168340aa2b3
+:ROAM_REFS: https://media.ccc.de/v/rc3-525180-what_have_we_lost
+:END:
+#+title: (media.ccc.de) What have we lost? - media.ccc.de
+#+filetags: :lisp:software:programming:software_development:operating_systems:video:website:
+
+#+begin_quote
+  * What have we lost?
+
+  [[https://media.ccc.de/search?p=Calvin+Buckley][Calvin Buckley]], [[https://media.ccc.de/search?p=Techfury90][Techfury90]] and [[https://media.ccc.de/search?p=TQ+Hirsch][TQ Hirsch]]
+
+  [[https://cdn.media.ccc.de/events/rc3/h264-hd/rc3-r3s-20-eng-What_have_we_lost_hd.mp4]]
+
+  [[https://media.ccc.de/c/rc3/RemoteRheinRuhr][RemoteRheinRuhr]] [[https://media.ccc.de/c/rc3/MON%20r3s%20Rhein%20VHS][MON r3s Rhein VHS]] Playlists: [[https://media.ccc.de/v/rc3-525180-what_have_we_lost/playlist]['rc3' videos starting here]] / [[https://media.ccc.de/v/rc3-525180-what_have_we_lost/audio][audio]]
+
+  -  61 min
+  -  2020-12-27
+  -  2021-01-21
+  -  16.6k
+  -  [[https://pretalx.rc3.studio/rc3-channels-2020/talk/KMVBDB/][Fahrplan]]
+
+  We have ended up in a world where UNIX and Windows have taken over, and most people have never experienced anything else.  Over the years, though, many other system designs have come and gone, and some of those systems have had neat ideas that were nevertheless not enough to achieve commercial success.  We will take you on a tour of a variety of those systems, talking about what makes them special.
+
+  In particular, we'll discuss IBM i, with emphasis on the Single Level Store, TIMI, and block terminals Interlisp, the Lisp Machine with the interface of Smalltalk OpenGenera, with a unique approach to UI design TRON, Japan's ambitious OS standard More may be added as time permits.
+#+end_quote

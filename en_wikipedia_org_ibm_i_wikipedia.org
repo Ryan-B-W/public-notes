@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       8f5670aa-8c15-459d-a54f-e11fc485c587
+:ROAM_REFS: https://en.wikipedia.org/wiki/IBM_i
+:END:
+#+title: (en.wikipedia.org) IBM i - Wikipedia
+#+filetags: :databases:ibm_corp:operating_systems:software:website:
+
+#+begin_quote
+  *IBM i* (the /i/ standing for /integrated/) is an [[https://en.wikipedia.org/wiki/Operating_system][operating system]] developed by [[https://en.wikipedia.org/wiki/IBM][IBM]] for [[https://en.wikipedia.org/wiki/IBM_Power_Systems][IBM Power Systems]].  It was originally released in 1988 as *OS/400*, as the sole operating system of the [[https://en.wikipedia.org/wiki/IBM_AS/400][IBM AS/400]] line of systems.  It was renamed to *i5/OS* in 2004, before being renamed a second time to IBM i in 2008.  It is an evolution of the [[https://en.wikipedia.org/wiki/IBM_System/38][System/38]] [[https://en.wikipedia.org/wiki/Control_Program_Facility][CPF]] operating system, with compatibility layers for [[https://en.wikipedia.org/wiki/IBM_System/36][System/36]] [[https://en.wikipedia.org/wiki/System_Support_Program][SSP]] and [[https://en.wikipedia.org/wiki/IBM_AIX][AIX]] applications.  It inherits a number of distinctive features from the System/38 platform, including the [[https://en.wikipedia.org/wiki/System/38#Machine_Interface][Machine Interface]] which provides hardware independence, the implementation of object-based addressing on top of a [[https://en.wikipedia.org/wiki/Single-level_store][single-level store]], and the tight integration of a [[https://en.wikipedia.org/wiki/Relational_database][relational database]] into the operating system.
+#+end_quote

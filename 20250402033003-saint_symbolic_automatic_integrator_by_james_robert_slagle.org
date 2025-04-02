@@ -1,0 +1,80 @@
+:PROPERTIES:
+:ID:       06b80a92-cc6d-4784-96db-503125f47f60
+:END:
+#+title: SAINT (Symbolic Automatic Integrator) by James Robert Slagle
+#+filetags: :mathematics:lisp:software:
+
+The Ph.D. thesis work of James Robert Slagle.  One of the earliest programs written in [[id:84ae6e85-a6a2-4133-bc53-274238081c2d][Lisp]]—along with the evaluator, the compiler, Rochester and Goldberg's symbolic electrical network impedance calculator, and Paul Abrahams's proof-checking thesis.
+* (dspace.mit.edu) A heuristic program that solves symbolic integration problems in freshman calculus : symbolic automatic integrator (SAINT) :website:
+:PROPERTIES:
+:ID:       c6e343de-7032-4fa2-9897-d62fba898ac2
+:ROAM_REFS: https://dspace.mit.edu/handle/1721.1/11997
+:END:
+
+#+begin_quote
+  ** A heuristic program that solves symbolic integration problems in freshman calculus : symbolic automatic integrator (SAINT)
+
+  ***** Author(s)
+
+  Slagle, James R. (James Robert)
+
+  [[https://dspace.mit.edu/bitstream/handle/1721.1/11997/31225400-MIT.pdf.jpg?sequence=5&isAllowed=y]]
+
+  Full printable version (6.037Mb)
+
+  ***** Advisor
+
+  Marvin Minsky.
+
+  ***** Terms of use
+
+  M.I.T. theses are protected by copyright. They may be viewed from this source for any purpose, but reproduction or distribution in any format is prohibited without written permission. See provided URL for inquiries about permission. [[http://dspace.mit.edu/handle/1721.1/7582]]
+
+  ***** Metadata
+
+  [[https://dspace.mit.edu/handle/1721.1/11997?show=full][Show full item record]]
+
+  ***** Description
+
+  Thesis (Ph. D.)--Massachusetts Institute of Technology, Dept. of Mathematics, 1961.
+
+  Includes bibliographical references (leaves 109-110).
+
+  ***** Date issued
+
+  1961
+
+  ***** URI
+
+  [[http://hdl.handle.net/1721.1/11997]]
+
+  ***** Department
+
+  Massachusetts Institute of Technology. Department of Mathematics
+
+  ***** Publisher
+
+  Massachusetts Institute of Technology
+
+  ***** Keywords
+
+  Mathematics
+
+  --------------
+
+  ***** Collections
+
+  - [[https://dspace.mit.edu/handle/1721.1/131022][Doctoral Theses]]
+#+end_quote
+** (dspace.mit.edu) Adopted from pdflib image sample (C) - 31225400-MIT.pdf :mime_type_application_pdf:
+:PROPERTIES:
+:ID:       31c67fb8-6cd4-43e0-a0ee-39e3b9de633f
+:ROAM_REFS: https://dspace.mit.edu/bitstream/handle/1721.1/11997/31225400-MIT.pdf
+:END:
+* (stacks.stanford.edu) Unknown - fb373ch9229.pdf :mime_type_application_pdf:website:
+:PROPERTIES:
+:ID:       ae9d00f4-fe10-463b-86c2-ff09c1e5d76c
+:ROAM_REFS: https://stacks.stanford.edu/file/druid:fb373ch9229/fb373ch9229.pdf
+:END:
+
+An annotated copy of a draft of James Robert Slagle's Ph.D. thesis.

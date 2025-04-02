@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       4d84eb6f-3951-407b-8c39-cbfb92ae241d
+:ROAM_REFS: https://www.instagram.com/igmo.info/
+:END:
+#+title: (www.instagram.com) IGMO Team (@igmo.info) • Instagram photos and videos
+#+filetags: :competitions:events:mathematics:social_media:website:
+
+#+begin_quote
+  ** igmo.info
+
+  IGMO Team
+
+  The official account for IGMO (International Gamma Mathematical Olympiad) organized by GAMMA. Participation is free of cost\\
+  Link in bio for more info
+
+  [[https://l.instagram.com/?u=https://airtable.com/shrMRuO2eMnSfFWUP&e=AT2ELQdLXWvsIhWJGPe5O9s_OzuSZP_1hHImqpKj0mXPjvkX2Y5BYzgg5Y5FOVKvmN1YEF5pPyZmJbm6PXyN-KMghIIbBTK10Y6GAfK-HMSZnWGp][airtable.com/shrMRuO2eMnSfFWUP]]
+#+end_quote

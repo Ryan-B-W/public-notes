@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       f6150ca6-c72d-4f46-9281-8f1f8e9facef
+:ROAM_REFS: https://xkcd.com/
+:END:
+#+title: (xkcd.com) xkcd
+#+filetags: :genre_comedy:comic:website:
+
+* (xkcd.com) xkcd 224: Lisp                                            :lisp:
+:PROPERTIES:
+:ID:       ff02fab5-5024-472f-a0e7-8bf93d75db51
+:ROAM_REFS: https://xkcd.com/224/
+:END:
+* (xkcd.com) xkcd 297: Lisp Cycles                                     :lisp:
+:PROPERTIES:
+:ID:       9cb2d608-402f-4667-b049-b146357a23ba
+:ROAM_REFS: https://xkcd.com/297/
+:END:
