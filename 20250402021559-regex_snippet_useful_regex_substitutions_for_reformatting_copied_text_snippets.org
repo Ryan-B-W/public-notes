@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       a4053afc-b93b-49d0-bd79-30590c059a4b
+:END:
+#+title: Regex Snippet: Useful Regex Substitutions for Reformatting Copied Text Snippets
+#+filetags: :regex:snippets:
+
+Replace single spaces after end-of-sentence periods with double spaces:
+: \([^\(?: [:upper:]\)][\.\?\!]\(?:"\|\]\]\|”\|\*\|_\|/\|\+\)?\) \([^ [:lower:]]\) → \1  \2
+
+Replace double-hyphens with en-dashes:
+: \([^-]\)--\([^-]\) → \1–\2
+
+Replace triple-hyphens with em-dashes:
+: \([^-]\)---\([^-]\) → \1—\2
+
+Remove superscript annotations:
+: \^{\[/?.*?/?\]} →
+
+Remove trailing double-backslash and spaces:
+:  *\\\\$ →
+
+Fix empty body text hyperlinks:
+: \]\[\]\] → ]]
+
+Remove trailing whitespace:
+:  *$ →
+
+Replace YouTube tracking links with plain links:
+: https://www\.youtube\.com/redirect\?.*?&q=\(.*?\)&v=[a-zA-Z0-9\-\._~%\$!&'()\*\+,;=:@]\{8,24\} → \1
+
+Remove YouTube icon URIs in hyperlink bodies:
+: \[\[https://www\.gstatic\.com/youtube/img/.*?\.\(?:png\|jpeg\|jpg\|svg\)]] →
