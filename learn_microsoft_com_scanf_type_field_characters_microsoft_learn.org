@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       e5971e19-4ecb-41a3-b360-c8132155e5a9
+:ROAM_REFS: https://learn.microsoft.com/en-us/cpp/c-runtime-library/scanf-type-field-characters
+:END:
+#+title: (learn.microsoft.com) scanf Type Field Characters | Microsoft Learn
+#+filetags: :microsoft:c_lang:documentation:website:

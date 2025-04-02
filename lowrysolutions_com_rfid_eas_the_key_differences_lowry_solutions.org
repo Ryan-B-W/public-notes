@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       d7ff5d3e-1231-4a1b-a8f4-a968dc820f25
+:ROAM_REFS: https://lowrysolutions.com/blog/rfid-eas/
+:END:
+#+title: (lowrysolutions.com) RFID & EAS: The Key Differences - Lowry Solutions
+#+filetags: :logistics:inventory_management:hardware:electronics:security:blog_post:website:
+
+#+begin_quote
+  * RFID & EAS: The Key Differences
+
+  For anyone overseeing inventory management or retail security, inventory tracking is absolutely crucial, given that [[https://www.facefirst.com/post/30-shocking-retail-loss-prevention-and-violent-crime-statistics-for-2019][organized retail crime costs businesses roughly $30]] billion per year.  For most businesses, this means putting one of the two most prominent tracking technologies, RFID or EAS, in place.  But which system is best?
+
+  Retail stores have used traditional EAS systems for tracking and loss prevention purposes since the 1960s, and to great effect.
+
+  RFID systems, on the other hand, are a more recent addition to the inventory tracking landscape, but with their read and write capabilities, businesses can use them for far more than anti-theft purposes.  Both systems use physical tags (and sometimes labels) to keep track of assets and alert organizations to their loss, but only RFID systems allow organizations to go above and beyond simple source tagging and loss prevention.
+
+  In this piece, we'll go into detail about how, exactly, EAS and RFID tags work, and explain their differences (and similarities) in order to help you make the best decision for your organization's needs.
+#+end_quote

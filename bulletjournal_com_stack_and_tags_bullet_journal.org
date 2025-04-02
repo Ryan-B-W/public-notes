@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       ab42d70e-781e-4db2-9d17-0b9592ea7d56
+:ROAM_REFS: https://bulletjournal.com/blogs/bulletjournalist/stack-and-tags
+:END:
+#+title: (bulletjournal.com) Stack and Tags - Bullet Journal
+#+filetags: :information_management:notes:bullet_journal:blog_post:website:
+
+#+begin_quote
+  * Stack and Tags
+
+  - May 31, 2017
+  - 2 min read
+
+  /*Some new BuJo vocabulary to help us communicate*/
+
+  The Bullet Journal® was always designed to be modular.  Each module is designed to group related information, that is why the modules are called Collections.
+
+  Everything inside the Bullet Journal is a type of Collection.  The core Collections are: The Index, The Future Log, Monthly Log, and the Daily Log.  Other popular Collections include: Weekly Log, Food Log, Trackers, Mood Logs, and Gratitude Logs.
+
+  The beautiful thing about the Bullet Journal is that you have the freedom to mix and match which Collections you use to power your practice.
+
+  Like Legos, our Collections can be assembled in many different ways.  Till now there has been no term for your collection of, well, Collections.  With that in mind, I would like to introduce you to a new term in our vocabulary: the Bullet Journal Stack.  So what's a Stack?
+
+  We often test out different types of Collections to see which work, and which don't.  The ones that do work, get added to our Stack.  A Stack simply refers to the active Collections in our Bullet Journal.
+#+end_quote

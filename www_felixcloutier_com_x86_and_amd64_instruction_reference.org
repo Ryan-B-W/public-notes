@@ -1,0 +1,55 @@
+:PROPERTIES:
+:ID:       8aa6bf95-1dd1-43cf-9711-e06047084a27
+:ROAM_REFS: https://www.felixcloutier.com/x86/
+:END:
+#+title: (www.felixcloutier.com) x86 and amd64 instruction reference
+#+filetags: :x86:assembly_lang:documentation:website:
+
+#+begin_quote
+  * x86 and amd64 instruction reference
+
+  Derived from the December 2023 version of the [[https://software.intel.com/en-us/download/intel-64-and-ia-32-architectures-sdm-combined-volumes-1-2a-2b-2c-2d-3a-3b-3c-3d-and-4][Intel® 64 and IA-32 Architectures Software Developer's Manual]].  Last updated 2024-02-18.
+
+  *THIS REFERENCE IS NOT PERFECT.* It's been mechanically separated into distinct files by a dumb script.  It may be enough to replace the official documentation on your weekend reverse engineering project, but for anything where money is at stake, go get the official and freely available documentation.
+#+end_quote
+* (www.felixcloutier.com) MUL — Unsigned Multiply
+:PROPERTIES:
+:ID:       81014b79-551e-461a-8ba9-37aed19361bf
+:ROAM_REFS: https://www.felixcloutier.com/x86/mul
+:END:
+
+#+begin_quote
+  * MUL --- Unsigned Multiply
+
+  | Opcode        | Instruction  | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                 |
+  | F6 /4         | MUL r/m8     | M     | Valid       | Valid           | Unsigned multiply (AX := AL ∗ r/m8).        |
+  | REX + F6 /4   | MUL r/m8^{1} | M     | Valid       | N.E.            | Unsigned multiply (AX := AL ∗ r/m8).        |
+  | F7 /4         | MUL r/m16    | M     | Valid       | Valid           | Unsigned multiply (DX:AX := AX ∗ r/m16).    |
+  | F7 /4         | MUL r/m32    | M     | Valid       | Valid           | Unsigned multiply (EDX:EAX := EAX ∗ r/m32). |
+  | REX.W + F7 /4 | MUL r/m64    | M     | Valid       | N.E.            | Unsigned multiply (RDX:RAX := RAX ∗ r/m64). |
+
+  : 1. In 64-bit mode, r/m8 can not be encoded to access the following byte registers if a REX prefix is used: AH, BH, CH, DH.
+
+  ** Instruction Operand Encoding
+
+  | Op/En | Operand 1     | Operand 2 | Operand 3 | Operand 4 |
+  | M     | ModRM:r/m (r) | N/A       | N/A       | N/A       |
+
+  ** Description
+
+  Performs an unsigned multiplication of the first operand (destination operand) and the second operand (source operand) and stores the result in the destination operand. The destination operand is an implied operand located in register AL, AX or EAX (depending on the size of the operand); the source operand is located in a general-purpose register or a memory location. The action of this instruction and the location of the result depends on the opcode and the operand size as shown in [[https://www.felixcloutier.com/x86/mul#tbl-4-9][Table 4-9]].
+
+  The result is stored in register AX, register pair DX:AX, or register pair EDX:EAX (depending on the operand size), with the high-order bits of the product contained in register AH, DX, or EDX, respectively. If the high-order bits of the product are 0, the CF and OF flags are cleared; otherwise, the flags are set.
+
+  In 64-bit mode, the instruction's default operation size is 32 bits. Use of the REX.R prefix permits access to additional registers (R8-R15). Use of the REX.W prefix promotes operation to 64 bits.
+
+  See the summary chart at the beginning of this section for encoding data and limits.
+
+  #+caption: [[https://www.felixcloutier.com/x86/mul#tbl-4-9][Table 4-9]]. MUL Results
+  <<tbl-4-9>>
+  | Operand Size | Source 1 | Source 2 | Destination |
+  | Byte         | AL       | r/m8     | AX          |
+  | Word         | AX       | r/m16    | DX:AX       |
+  | Doubleword   | EAX      | r/m32    | EDX:EAX     |
+  | Quadword     | RAX      | r/m64    | RDX:RAX     |
+#+end_quote

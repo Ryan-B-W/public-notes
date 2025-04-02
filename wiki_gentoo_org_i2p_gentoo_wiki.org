@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       408f8bb4-6254-4c05-b3ec-474fa87736dc
+:ROAM_REFS: https://wiki.gentoo.org/wiki/I2P
+:END:
+#+title: (wiki.gentoo.org) I2P - Gentoo wiki
+#+filetags: :security:networking:linux:gentoo:software:website:
+
+#+begin_quote
+  The Invisible Internet Project (*I2P*) is an anonymous network, similar to [[https://wiki.gentoo.org/wiki/Tor][Tor]].  The key difference is that I2P is internal, focusing on providing anonymous services within the network rather than proxying traffic to the regular internet (although some proxy services do exist).
+#+end_quote

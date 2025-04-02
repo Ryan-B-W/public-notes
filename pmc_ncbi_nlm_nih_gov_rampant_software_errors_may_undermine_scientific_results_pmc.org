@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       0404bea8-8f65-443c-80ff-2552f9caa34e
+:ROAM_REFS: https://pmc.ncbi.nlm.nih.gov/articles/PMC4629271/
+:END:
+#+title: (pmc.ncbi.nlm.nih.gov) Rampant software errors may undermine scientific results - PMC
+#+filetags: :programming:computer_science:software_development:article:science_paper:website:
+
+#+begin_quote
+  * Rampant software errors may undermine scientific results
+
+  David A W Soergel
+
+  PMCID: PMC4629271  PMID: 26539290
+
+  Version Changes
+
+  Revised. Amendments from Version 1
+
+  I agree with both reviewers that my claims were too strongly worded.  I have softened the language throughout (including simply adding "may" to the title), and revised the abstract accordingly.  I believe it is now clear that I am expressing a justifiable anxiety about computational errors affecting scientific results, but that I do not provide empirical evidence as to how often results really are invalid for this reason.  I added the entire section: "Popular software is not necessarily less bug-prone."  In the conclusion, I clarified the relationship between correct results (our ultimate goal), software verification, and shared workflow systems.
+
+  ** Abstract
+
+  The opportunities for both subtle and profound errors in software and data management are boundless, yet they remain surprisingly underappreciated.  Here I estimate that any reported scientific result could very well be wrong if data have passed through a computer, and that these errors may remain largely undetected.  It is therefore necessary to greatly expand our efforts to validate scientific software and computed results.
+
+  Keywords: data management, software error
+#+end_quote

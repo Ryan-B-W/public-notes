@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       bca1b43a-8d0f-4fae-902c-73f8eb9b1cce
+:ROAM_REFS: https://wiki.gentoo.org/wiki/DTrace
+:END:
+#+title: (wiki.gentoo.org) DTrace - Gentoo wiki
+#+filetags: :programming:software_development:software:website:
+
+#+begin_quote
+  *DTrace* is a dynamic tracing tool for analysing or debugging the whole system.  It can analyse and inspect both the kernel (inc. modules) and userland applications.  It might be used for both analysing performance issues, but also analysing unexpected or wrong behavior from either userland or the kernel.
+#+end_quote

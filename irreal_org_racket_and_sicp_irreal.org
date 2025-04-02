@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       a23fb4e9-648a-44af-8a3f-98de670b5f9a
+:ROAM_REFS: https://irreal.org/blog/?p=11804
+:END:
+#+title: (irreal.org) Racket and SICP | Irreal
+#+filetags: :scheme:lisp:blog_post:website:
+
+#+begin_quote
+  * Racket and SICP
+
+  Posted on [[https://irreal.org/blog/?p=11804][2023-11-28]] by [[https://irreal.org/blog/?author=2][jcs]]
+
+  As I've written—seemingly hundreds of times—I'm a /huge/ fan of [[https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html][Abelson and Sussman's Structure and Interpretation of Computer Programs (SICP)]].  In my opinion, it is one of the best—arguably /the/ best—books on Computer Science.  I read it relatively late in my career (I was already a senior developer and team lead) and it completely changed the way I thought of our discipline.  I learned many, many things that I didn't know or only dimly understood before.
+#+end_quote

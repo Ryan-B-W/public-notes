@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       7a9d5b89-d855-4bc6-ac98-32a8f8263447
+:ROAM_REFS: https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html
+:END:
+#+title: (orgmode.org) Publishing Org-mode files to HTML
+#+filetags: :www:information_management:notes:emacs:documentation:website:
+
+#+begin_quote
+  * Publishing Org-mode files to HTML
+
+  ** Introduction
+
+  This Tutorial describes one of many ways to publishing Org-mode files to XHTML. We use the publishing mechanism to keep the =*.html= files separated from our =*.org= files and to access them via web browser.  Simply exporting the Org-mode files to HTML would leave them in =~/org/=.
+
+  The XHTML files we create will work every where, on any host, with or without network access, and even when accessed through the =file:///= protocol.  To achieve this goal, we use
+
+  - no absolute paths in HTML,
+  - no server side scripting to navigate our output directories,
+  - no =base= element (which is optional as of XHTML 1.0 strict) and
+  - no software, but emacs, Org-mode and a web browser.
+
+  All this means, we are able to check and use the result of work immediately, everywhere.
+#+end_quote

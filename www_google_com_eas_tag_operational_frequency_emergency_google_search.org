@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0bc70ceb-8865-4096-8328-0777bc48282d
+:ROAM_REFS: "https://www.google.com/search?q=eas tag operational frequency -emergency"
+:END:
+#+title: (www.google.com) eas tag operational frequency -emergency - Google Search
+#+filetags: :google:searches:website:
+
+Results:
+* [[id:4a74a5f3-9fb6-460d-99ce-095d467e3927][(en.wikipedia.org) Electronic article surveillance - Wikipedia]]
+* [[id:542d0948-f4c0-420b-a34c-1c59fa3fcf9e][(www.americanretailsupply.com) EAS Tags | EAS Security Systems - American Retail Supply]]
+* [[id:3621975c-4fda-4492-992f-5c61579001fd][(www.system7.pl) EAS+RFID Dual-Frequency ABS anti-theft tag - Tagi RFID NFC System 7]]

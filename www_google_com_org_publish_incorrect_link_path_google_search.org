@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       fde8cc49-95ff-4bfe-bdaa-6993c0621f13
+:ROAM_REFS: "https://www.google.com/search?q=org-publish incorrect link path"
+:END:
+#+title: (www.google.com) org-publish incorrect link path - Google Search
+#+filetags: :google:searches:website:
+
+Results:
+* [[info:org-roam#How do I publish my notes with an Internet-friendly graph?][org-roam#How do I publish my notes with an Internet-friendly graph?]]
+* [[id:c46e870f-5349-4163-a23f-4e3e5ad94581][(org-roam.discourse.group) Export backlinks on Org export - Page 2 - Development - Org-roam]]
+* [[id:92ea7fd2-7616-4276-a114-0afc3d86fe1f][(medium.com) Org ID, Org Attach & Better Folder Names | by Josh_Rbot | Medium]]
+* [[id:7bac0f04-730a-4460-94cf-02659012323d][(nicolasknoebber.com) Blogging with Emacs and Org]]

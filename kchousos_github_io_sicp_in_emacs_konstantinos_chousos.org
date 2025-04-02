@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       0a09dfd1-ccdb-4989-b474-2b07cd07c929
+:ROAM_REFS: https://kchousos.github.io/posts/sicp-in-emacs/
+:END:
+#+title: (kchousos.github.io) SICP in Emacs | Konstantinos Chousos
+#+filetags: :tutorial:scheme:lisp:emacs:blog_post:website:
+
+#+begin_quote
+  I recently began reading the notorious “Structure and Interpretation of Computer Programs” [[[https://kchousos.github.io/posts/sicp-in-emacs/#bibreference-1][1]]], a.k.a. the /Wizard book/.  I'm only on the first chapter, but I can already see its value and why it gets recommended so much.
+
+  From Wikipedia:
+
+  #+begin_quote
+  Structure and Interpretation of Computer Programs (SICP) is a computer science textbook by Massachusetts Institute of Technology professors Harold Abelson and Gerald Jay Sussman with Julie Sussman.  [...] It teaches fundamental principles of computer programming, including recursion, abstraction, modularity, and programming language design and implementation.  [...] The book describes computer science concepts using Scheme, a dialect of Lisp.  It also uses a virtual register machine and assembler to implement Lisp interpreters and compilers.
+
+  #+end_quote
+
+  In this post, I aim to showcase my workflow for studying the book using Emacs [[[https://kchousos.github.io/posts/sicp-in-emacs/#bibreference-2][2]]].  Also, I will provide any resources that helped me get going.  To study SICP, we need two things: The book and a Scheme implementation for the examples and exercises.
+#+end_quote

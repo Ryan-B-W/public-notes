@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       137cb622-f9e0-48d7-b2e5-d4a1348d8cf1
+:ROAM_REFS: https://en.wikipedia.org/wiki/Binary_decision_diagram
+:END:
+#+title: (en.wikipedia.org) Binary decision diagram - Wikipedia
+#+filetags: :logic:mathematics:computer_science:website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Computer_science][computer science]], a *binary decision diagram* (*BDD*) or *branching program* is a [[https://en.wikipedia.org/wiki/Data_structure][data structure]] that is used to represent a [[https://en.wikipedia.org/wiki/Boolean_function][Boolean function]].  On a more abstract level, BDDs can be considered as a [[https://en.wikipedia.org/wiki/Data_compression][compressed]] representation of [[https://en.wikipedia.org/wiki/Set_(mathematics)][sets]] or [[https://en.wikipedia.org/wiki/Relation_(mathematics)][relations]].  Unlike other compressed representations, operations are performed directly on the compressed representation, i.e. without decompression.
+
+  Similar [[https://en.wikipedia.org/wiki/Data_structure][data structures]] include [[https://en.wikipedia.org/wiki/Negation_normal_form][negation normal form]] (NNF), [[https://en.wikipedia.org/wiki/Zhegalkin_polynomial][Zhegalkin polynomials]], and [[https://en.wikipedia.org/wiki/Propositional_directed_acyclic_graph][propositional directed acyclic graphs]] (PDAG).
+#+end_quote

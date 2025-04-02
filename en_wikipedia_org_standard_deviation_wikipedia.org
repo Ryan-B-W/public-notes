@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       1c4b54cc-a2fe-4dbb-874d-c0dbd96f06bf
+:ROAM_REFS: https://en.wikipedia.org/wiki/Standard_deviation
+:END:
+#+title: (en.wikipedia.org) Standard deviation - Wikipedia
+#+filetags: :science:mathematics:statistics_and_probability:website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Statistics][statistics]], the *standard deviation* is a measure of the amount of variation of the values of a variable about its [[https://en.wikipedia.org/wiki/Expected_value][mean]].  A low standard [[https://en.wikipedia.org/wiki/Deviation_(statistics)][deviation]] indicates that the values tend to be close to the [[https://en.wikipedia.org/wiki/Mean][mean]] (also called the [[https://en.wikipedia.org/wiki/Expected_value][expected value]]) of the set, while a high standard deviation indicates that the values are spread out over a wider range.  The standard deviation is commonly used in the determination of what constitutes an [[https://en.wikipedia.org/wiki/Outlier][outlier]] and what does not.  Standard deviation may be abbreviated *SD* or *std dev*, and is most commonly represented in mathematical texts and equations by the lowercase [[https://en.wikipedia.org/wiki/Greek_alphabet][Greek letter]] *[[https://en.wikipedia.org/wiki/Sigma][σ]]* (sigma), for the population standard deviation, or the [[https://en.wikipedia.org/wiki/Latin_script][Latin letter]] /*[[https://en.wikipedia.org/wiki/S][s]]*/, for the sample standard deviation.
+
+  The standard deviation of a [[https://en.wikipedia.org/wiki/Random_variable][random variable]], [[https://en.wikipedia.org/wiki/Sample_(statistics)][sample]], [[https://en.wikipedia.org/wiki/Statistical_population][statistical population]], [[https://en.wikipedia.org/wiki/Data_set][data set]], or [[https://en.wikipedia.org/wiki/Probability_distribution][probability distribution]] is the [[https://en.wikipedia.org/wiki/Square_root][square root]] of its [[https://en.wikipedia.org/wiki/Variance][variance]].  (For a finite population, variance is the average of the [[https://en.wikipedia.org/wiki/Squared_deviations_from_the_mean][squared deviations from the mean]].) A useful property of the standard deviation is that, unlike the variance, it is expressed in the same unit as the data.  Standard deviation can also be used to calculate [[https://en.wikipedia.org/wiki/Standard_error][standard error]] for a finite sample, and to determine [[https://en.wikipedia.org/wiki/Statistical_significance][statistical significance]].
+
+  When only a [[https://en.wikipedia.org/wiki/Statistical_sample][sample]] of data from a population is available, the term /standard deviation of the sample/ or /sample standard deviation/ can refer to either the above-mentioned quantity as applied to those data, or to a modified quantity that is an unbiased estimate of the /population standard deviation/ (the standard deviation of the entire population).
+#+end_quote
+
+#+begin_quote
+| Confidence | Proportion within | Proportion without | Proportion without          |
+| interval   |        Percentage |         Percentage | Fraction                    |
+|------------+-------------------+--------------------+-----------------------------|
+| 0.318639σ  |               25% |                75% | 3/4                         |
+| 0.674490σ  |               50% |                50% | 1/2                         |
+| 0.977925σ  |          66.6667% |           33.3333% | 1/3                         |
+| 0.994458σ  |               68% |                32% | 1/3.125                     |
+| 1σ         |       68.2689492% |        31.7310508% | 1/3.1514872                 |
+| 1.281552σ  |               80% |                20% | 1/5                         |
+| 1.644854σ  |               90% |                10% | 1/10                        |
+| 1.959964σ  |               95% |                 5% | 1/20                        |
+| 2σ         |       95.4499736% |         4.5500264% | 1/21.977895                 |
+| 2.575829σ  |               99% |                 1% | 1/100                       |
+| 3σ         |       99.7300204% |         0.2699796% | 1/370.398                   |
+| 3.290527σ  |             99.9% |               0.1% | 1/1000                      |
+| 3.890592σ  |            99.99% |              0.01% | 1/10000                     |
+| 4σ         |        99.993666% |          0.006334% | 1/15787                     |
+| 4.417173σ  |           99.999% |             0.001% | 1/100000                    |
+| 4.5σ       | 99.9993204653751% |   0.0006795346249% | 1/147159.5358\\ 6.8/1000000 |
+| 4.891638σ  |          99.9999% |            0.0001% | 1/1000000                   |
+| 5σ         |    99.9999426697% |      0.0000573303% | 1/1744278                   |
+| 5.326724σ  |         99.99999% |           0.00001% | 1/10000000                  |
+| 5.730729σ  |        99.999999% |          0.000001% | 1/100000000                 |
+| [[/wiki/Six_Sigma#Sigma_levels][6σ]]         |    99.9999998027% |      0.0000001973% | 1/506797346                 |
+| 6.109410σ  |       99.9999999% |         0.0000001% | 1/1000000000                |
+| 6.466951σ  |      99.99999999% |        0.00000001% | 1/10000000000               |
+| 6.806502σ  |     99.999999999% |       0.000000001% | 1/100000000000              |
+| 7σ         | 99.9999999997440% |    0.000000000256% | 1/390682215445              |
+#+end_quote

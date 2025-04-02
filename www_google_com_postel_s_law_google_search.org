@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       33d862e3-ec9a-4271-8c8d-a132d57e1cf7
+:ROAM_REFS: "https://www.google.com/search?q=postel's law"
+:END:
+#+title: (www.google.com) postel's law - Google Search
+#+filetags: :google:searches:website:
+
+Results:
+* [[id:54b93cc3-110e-4c1b-a993-a20826b8ed8f][(lawsofux.com) Postel’s Law | Laws of UX]]
+* [[id:02d68f7f-21f2-41a4-a423-1485ab37925e][(www.sciencedirect.com) Robustness Principle - an overview | ScienceDirect Topics]]
+* [[id:b8a6984c-2312-4a22-92e1-8e743d894f04][(devopedia.org) Postel's Law]]
+* [[id:c5778629-1f8d-4c80-b54d-ad7343bc7076][(deviq.com) Postel's Law | DevIQ]]
+* [[id:a0ed7c7c-6f95-4b8a-a401-1309db4081ce][(automattic.com) Postel’s Law – Automattic]]

@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       a2ca46fe-d372-4dc7-a2d5-dec6f2192305
+:ROAM_REFS: https://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html
+:END:
+#+title: (www.brendangregg.com) CPU Utilization is Wrong
+#+filetags: :software_optimization:computer_architecture:computer_science:blog_post:website:
+
+#+begin_quote
+  ** CPU Utilization is Wrong
+
+  09 May 2017
+
+  The metric we all use for CPU utilization is deeply misleading, and getting worse every year.  What is CPU utilization?  How busy your processors are?  No, that's not what it measures.  Yes, I'm talking about the "%CPU" metric used /everywhere/, by /everyone/.  In every performance monitoring product.  In top(1).
+
+  What you may think 90% CPU utilization means:
+
+  [[https://www.brendangregg.com/blog/images/2017/cpubusyidle.png]]
+
+  What it might really mean:
+
+  [[https://www.brendangregg.com/blog/images/2017/cpubusystalledidle.png]]
+
+  Stalled means the processor was not making forward progress with instructions, and usually happens because it is waiting on memory I/O. The ratio I drew above (between busy and stalled) is what I typically see in production.  Chances are, you're mostly stalled, but don't know it.
+
+  What does this mean for you?  Understanding how much your CPUs are stalled can direct performance tuning efforts between reducing code or reducing memory I/O. Anyone looking at CPU performance, especially on clouds that auto scale based on CPU, would benefit from knowing the stalled component of their %CPU.
+#+end_quote

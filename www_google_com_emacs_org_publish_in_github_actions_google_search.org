@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       ff59de2b-1c68-4d19-a362-4a581a7a1eec
+:ROAM_REFS: "https://www.google.com/search?q=emacs org publish in github actions"
+:END:
+#+title: (www.google.com) emacs org publish in github actions - Google Search
+#+filetags: :google:searches:website:
+
+Results:
+* [[id:d41b2003-bfa8-4170-a37a-dcfc8760d9b7][(www.reddit.com) Automatic Org-mode exports via Github Actions : r/emacs]]
+* [[id:737254f6-5353-443e-8224-5f3b1005cb86][(themkat.net) How I blog with Emacs - Org-Mode, Jekyll, Github Actions and interesting tidbits]]

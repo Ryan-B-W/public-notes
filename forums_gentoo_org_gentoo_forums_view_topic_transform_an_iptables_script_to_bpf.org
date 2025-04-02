@@ -1,0 +1,149 @@
+:PROPERTIES:
+:ID:       9fa01db4-42da-4357-9e9a-2c842cdf1233
+:ROAM_REFS: https://forums.gentoo.org/viewtopic-t-1101644-start-0.html
+:END:
+#+title: (forums.gentoo.org) Gentoo Forums :: View topic - transform an iptables script to BPF
+#+filetags: :networking:linux:gentoo:forums:website:
+
+#+begin_quote
+  *toralf* Developer
+
+  Posted: Sun Sep 08, 2019 8:20 pm Post subject: transform an iptables script to BPF
+
+  --------------
+
+  I do wonder, if this script
+
+  *Code:*
+  #+begin_src sh
+    #!/bin/sh
+    #
+    #set -x
+
+    IPT="/sbin/iptables"
+
+    startFirewall() {
+      $IPT -P INPUT DROP
+      $IPT -P OUTPUT ACCEPT
+      $IPT -P FORWARD DROP
+
+      # trust already established connections
+      #
+      $IPT -A INPUT --match conntrack --ctstate RELATED,ESTABLISHED -j ACCEPT
+      $IPT -A INPUT --match conntrack --ctstate INVALID -j DROP
+
+      # Allow localhost traffic
+      #
+      $IPT -A INPUT --in-interface lo -j ACCEPT
+
+      # Tor
+      #
+      $IPT -A INPUT -p tcp --destination 5.9.158.75 -m multiport --destination-ports 443,9001,80,9030 -j ACCEPT
+
+      # Hetzner monitoring
+      # https://wiki.hetzner.de/index.php/System_Monitor_(SysMon)
+      #
+      getent ahostsv4 pool.sysmon.hetzner.com | awk '{print $1}' | sort -u |\
+      while read s
+      do
+        $IPT -A INPUT --source $s -j ACCEPT
+      done
+
+      # ssh
+      #
+      $IPT -A INPUT -p tcp --destination <snip> --destination-port <snip> -j ACCEPT
+    }
+
+
+    stopFirewall() {
+      $IPT -F
+      $IPT -X
+      $IPT -Z
+
+      $IPT -P INPUT ACCEPT
+      $IPT -P OUTPUT ACCEPT
+      $IPT -P FORWARD ACCEPT
+    }
+
+
+    case $1 in
+      start) startFirewall
+      ;;
+      stop) stopFirewall
+      ;;
+      ,*) echo "Usage: sh $(basename $0) { start | stop }"
+      ;;
+    esac
+  #+end_src
+
+  is worth to be transformed into a BPF capable script and which kernel modules I do have to activate for it?
+
+
+   *Ant P.* Watchman
+
+  Posted: Mon Sep 09, 2019 4:33 am Post subject:
+
+  --------------
+
+  bpfilter support is nonexistent in Gentoo, and doesn't seem to be getting easier in general.
+
+  Here's a translation (untested) using nftables, which is supported:
+
+  *Code:*
+  #+begin_src sh
+    #!/bin/sh -eu
+    nft -f rules.nft
+
+    dig -t A +short pool.sysmon.hetzner.com | while read -r ipaddr; do
+        nft add element inet filter monitoring-ips "{ $ipaddr }"
+    done
+  #+end_src
+
+  *rules.nft:*
+  #+begin_src sh
+    #!/sbin/nft -f
+
+    ssh_dest = 123.456.XXX.XXX;
+    ssh_port = 6789X;
+    tor_dest = 5.9.158.75;
+
+    table inet filter {
+        set monitoring-ips {
+            type ipv4_addr
+            elements = { }
+        }
+
+        chain input {
+            type filter hook input priority 0
+            policy drop
+
+            meta iif lo accept
+            ct state related,established accept
+            ct state invalid drop
+
+            ip saddr @monitoring-ips accept
+            ip daddr $tor_dest tcp dport { 80, 443, 9001, 9030 } accept comment "Tor"
+            ip daddr $ssh_dest tcp dport $ssh_port accept comment "SSH"
+        }
+
+        chain output {
+            type filter hook output priority 0
+            policy accept
+        }
+
+        chain forward {
+            type filter hook forward priority 0
+            policy drop
+        }
+    }
+  #+end_src
+
+
+  *toralf* Developer
+
+  Posted: Mon Sep 09, 2019 2:26 pm Post subject:
+
+  --------------
+
+  Thx, Ant P.!
+#+end_quote

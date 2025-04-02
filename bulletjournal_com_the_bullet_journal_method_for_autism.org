@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       c0e3af57-fe85-4741-8b7e-82a11537bec0
+:ROAM_REFS: https://bulletjournal.com/blogs/bulletjournalist/the-bullet-journal-method-for-autism
+:END:
+#+title: (bulletjournal.com) The Bullet Journal Method For Autism
+#+filetags: :notes:bullet_journal:information_management:blog_post:website:
+
+#+begin_quote
+  * The Bullet Journal Method For Autism
+
+  - June 05, 2023
+  - 7 min read
+
+  */The original version of this article first appeared as two separate blogs, “[[https://www.notolux.ca/post/hacking-the-bujo-method-for-autistics][Hacking the BuJo Method for Autistics]]” and “[[https://www.notolux.ca/post/the-autistics-bullet-journal][The Autistic's Bullet Journal]]”, which first appeared on [[https://www.notolux.ca/post/the-autistics-bullet-journal][Notolux.ca]]./*
+
+  I'm an avid journaller and I have been for several years now.  So, naturally, when I learned I was autistic I wanted to know if there were any specific spreads out there that I could use.
+
+  After a short search on the internet...I found nothing.  There weren't any clear and obvious journaling tips for autistic adults.
+
+  So I made my own.
+
+  I started by thinking about what would help me gain a better understanding of myself now that I know I have autism.  Trackers and logs were definitely big ones, but I also didn't know a lot about stims and needed a way to track all these realizations I was having about myself, at present, and in the past.
+#+end_quote

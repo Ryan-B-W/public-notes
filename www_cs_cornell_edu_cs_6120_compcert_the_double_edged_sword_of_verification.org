@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       6e860eed-b658-4f08-b087-69476d2ffcf3
+:ROAM_REFS: https://www.cs.cornell.edu/courses/cs6120/2020fa/blog/compcert/
+:END:
+#+title: (www.cs.cornell.edu) CS 6120: CompCert: the Double-Edged Sword of Verification
+#+filetags: :compilers:programming:software_development:computer_science:blog_post:website:
+
+#+begin_quote
+  * [[https://www.cs.cornell.edu/courses/cs6120/2020fa/blog/][The CS 6120 Course Blog]]
+
+  ** CompCert: the Double-Edged Sword of Verification
+
+  by [[https://priyasrikumar.github.io/][Priya Srikumar]] December 16, 2020
+
+  "[[https://xavierleroy.org/publi/compcert-CACM.pdf][Formal verification of a realistic compiler]]" presents CompCert as the first formally verified C compiler.  The "realistic" moniker comes from the fact that the compiler's source language is a significant subset of C that is used to write embedded systems code.  Its target language is for a processor that is commonly used in avionics.  But what does it mean to verify a compiler?  Let's get into it!
+#+end_quote

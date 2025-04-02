@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       3f4830cc-d153-483e-a61e-645d94b26870
+:ROAM_REFS: https://github.com/org-roam/org-roam/issues/1933
+:END:
+#+title: (github.com) Multiple org-roam directories don't work according to manual instructions · Issue #1933 · org-roam/org-roam
+#+filetags: :notes:emacs:vcs_forge_issues:website:

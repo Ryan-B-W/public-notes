@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       e892977d-1e31-4550-9ab2-19f17dc4148e
+:ROAM_REFS: https://commonplace.doubleloop.net/publish.el
+:END:
+#+title: (commonplace.doubleloop.net) publish.el
+#+filetags: :notes:www:emacs:emacs_lisp:lisp:website:

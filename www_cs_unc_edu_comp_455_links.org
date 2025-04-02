@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       ba7f15e6-662d-46ef-99aa-49ddfbf66fb2
+:ROAM_REFS: https://www.cs.unc.edu/~plaisted/comp455/
+:END:
+#+title: (www.cs.unc.edu) COMP 455 Links
+#+filetags: :mathematics:computer_science:website:
+
+* (www.cs.unc.edu) cfg3.1.pdf                     :mime_type_application_pdf:
+:PROPERTIES:
+:ID:       e415adce-cc9e-4be2-ac9d-4911c1c76ce6
+:ROAM_REFS: https://www.cs.unc.edu/~plaisted/comp455/slides/cfg3.1.pdf
+:END:
+
+#+begin_quote
+  * Context-Free Grammars
+
+  Context-free languages are useful for studying computer languages as well
+  as human languages.
+
+  - Context-free languages are recognized by push-down automata (PDA) in the same way that regular languages are recognized by ﬁnite automata.
+  - A push-down automaton has an inﬁnite amount of memory but it is only accessed in a last-in ﬁrst-out (LIFO) manner, that is, like a stack.
+  - Thus push-down automata are more powerful than ﬁnite automata; for example, {anbn : n ≥ 0} is a context-free language.
+  - But push-down automata are less powerful than Turing machines, which we'll study later.
+  - Turing machines have an inﬁnite amount of memory that can be accessed in an arbitrary manner.
+#+end_quote

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       94553c5a-5d36-439e-8271-f36bf2b2ef0b
+:ROAM_REFS: https://ubiquity.acm.org/article.cfm?id=1513451
+:END:
+#+title: (ubiquity.acm.org) The Fallacy of Premature Optimization
+#+filetags: :software_optimization:programming:software_development:computer_science:article:science_paper:website:
+
+#+begin_quote
+  ** The Fallacy of Premature Optimization
+
+  Ubiquity, Volume 2009 Issue February | BY [[https://ubiquity.acm.org/collections.cfm?id=81100059132][Randall Hyde]]
+
+  Moore's Law makes it seem as if resource limitations are always a minor consideration.  If there will be twice as much memory for the same price in 18 months, why bother to squeeze a factor of 2 from an application's memory requirements?  If the CPU will be twice as fast by then, why bother to shave some running time from a program?  In other words, why bother to optimize programs?  Isn't it better to just get them running and let Moore's Law take us off the hook when resources are constrained?  Randall Hyde argues that optimization is important even when memory and processor double regularly.  Trying to do the optimization too early can be a futile time-waster.
+#+end_quote

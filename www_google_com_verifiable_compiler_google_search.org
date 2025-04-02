@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       cb5b18c5-4755-494d-b077-a9f02543cf4a
+:ROAM_REFS: "https://www.google.com/search?q=verifiable compiler"
+:END:
+#+title: (www.google.com) verifiable compiler - Google Search
+#+filetags: :google:searches:website:
+
+Result(s):
+* [[id:68b697b3-2288-4738-b0e7-99a7350aa15d][(en.wikipedia.org) Compiler correctness - Wikipedia]]

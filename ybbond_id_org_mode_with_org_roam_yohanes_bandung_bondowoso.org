@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       3ed16dd5-8a6a-4bd4-943e-2dfc3de2cc01
+:ROAM_REFS: https://ybbond.id/posts/2020-06-org-mode-with-org-roam/
+:END:
+#+title: (ybbond.id) Org-mode with Org-roam :: Yohanes Bandung Bondowoso
+#+filetags: :information_management:notes:emacs:blog_post:website:
+
+#+begin_quote
+  * Org-mode with Org-roam
+
+  [[https://ybbond.id/][Yohanes Bandung Bond.]] [[mailto://hi@ybbond.id][hi@ybbond.id]] [[https://ybbond.id/posts/2020-06-org-mode-with-org-roam/][Org-mode with Org-roam]] Jakarta, Indonesia [[https://ybbond.id/tags/blog][blog]] [[https://ybbond.id/tags/emacs][emacs]] [[https://ybbond.id/tags/knowledge-management][knowledge management]]
+
+  On a late night some twenty or more days ago, my friend [[https://twitter.com/broerjuang][Juang]] contacted me on Discord.
+
+  : On Wed, Jun 03, 2020 at 01.20 AM @broerjuang wrote:\\
+  : Dung
+  :
+  : On Wed, Jun 03, 2020 at 01.20 AM @ybbond wrote:\\
+  : ju
+  :
+  : On Wed, Jun 03, 2020 at 01.20 AM @broerjuang wrote:\\
+  : [[https://github.com/org-roam/org-roam]]\\
+  : lol
+
+  He knew about me ranting on Twitter two days earlier for not getting invitation to try *Roam Research*.  He is also a fellow /Vimmer/, and I think he knew that I will think twice before using Emacs.  I decided to to try it today.
+#+end_quote

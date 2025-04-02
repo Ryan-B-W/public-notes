@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       d41b2003-bfa8-4170-a37a-dcfc8760d9b7
+:ROAM_REFS: https://www.reddit.com/r/emacs/comments/qfdnb5/automatic_orgmode_exports_via_github_actions/
+:END:
+#+title: (www.reddit.com) Automatic Org-mode exports via Github Actions : r/emacs
+#+filetags: :www:emacs:forums:website:
+
+* See Also
+** [[id:73321946-f467-40f7-9109-d5b0d834ec50][(github.com) Org Knit · Actions · GitHub Marketplace]]

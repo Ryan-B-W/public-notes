@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       dab95bc7-c610-450a-9850-9f4641641631
+:ROAM_REFS: https://people.computing.clemson.edu/~goddard/texts/theoryOfComputation/
+:END:
+#+title: (people.computing.clemson.edu) Index of /~goddard/texts/theoryOfComputation
+#+filetags: :textbooks:mathematics:computer_science:books:website:
+
+* (people.computing.clemson.edu) 6a.pdf           :mime_type_application_pdf:
+:PROPERTIES:
+:ID:       ecacb582-21d8-4f92-b5da-ee235b37254f
+:ROAM_REFS: https://people.computing.clemson.edu/~goddard/texts/theoryOfComputation/6a.pdf
+:END:
+
+#+begin_quote
+  Context-Free Grammars
+
+  A grammar is a set of rules for putting strings together and so corresponds to a language.
+#+end_quote

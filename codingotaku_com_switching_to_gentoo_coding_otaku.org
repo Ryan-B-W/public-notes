@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       fba97723-f318-4027-a7c5-c6f58c29b290
+:ROAM_REFS: https://codingotaku.com/blogs/switching-to-gentoo
+:END:
+#+title: (codingotaku.com) Switching to Gentoo - Coding Otaku
+#+filetags: :configuration:linux:gentoo:blog_post:website:
+
+#+begin_quote
+  * [[https://codingotaku.com/blogs/switching-to-gentoo][Switching to Gentoo]]
+
+  Here I explain why I switched to Gentoo and how I set it up.  This is mostly a technical blog and incorporates some of my configuration.
+#+end_quote

@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       327cb3ca-b560-4e9f-b723-0b1d741b6e29
+:ROAM_REFS: https://owl.purdue.edu/owl/index.html
+:END:
+#+title: (owl.purdue.edu) Welcome to the Purdue Online Writing Lab - Purdue OWL® - Purdue University
+#+filetags: :education_resource:writing:website:
+
+#+begin_quote
+  * Welcome to the Purdue Online Writing Lab
+
+  The Online Writing Lab (the Purdue OWL) at Purdue University houses writing resources and instructional material, and we provide these as a free service at Purdue.  Students, members of the community, and users worldwide will find information to assist with many writing projects.  Teachers and trainers may use this material for in-class and out-of-class instruction.
+
+  *** *Mission*
+
+  The On-Campus and Online versions of Purdue OWL assist clients in their development as writers—no matter what their skill level—with on-campus consultations, online participation, and community engagement.  The Purdue OWL serves the Purdue West Lafayette and Indianapolis campuses and coordinates with local literacy initiatives.  The Purdue OWL offers global support through online reference materials and services.
+
+  *** *Message from the assistant director of content development*
+
+  At the Purdue OWL, we are dedicated to supporting students, instructors, and writers through our comprehensive range of resources.  We are constantly working on developing and revising these materials, keeping the users' needs in mind.
+
+  Our team is continuously exploring possibilities for a better design, prioritizing accessibility and user experience.  As the OWL undergoes these changes, we welcome your feedback and suggestions by email at any time.
+
+  Please don't hesitate to contact us via *[[https://web.archive.org/web/20240523002428/https://owl.purdue.edu/contact/][our]] [[https://owl.purdue.edu/contact/][contact page]]* if you have any questions or comments.
+
+  Thank you for being a part of the Purdue OWL community and for helping us continue being a leading resource for writers worldwide.
+
+  Wishing you all the very best!
+
+  Kritika Sharma
+#+end_quote

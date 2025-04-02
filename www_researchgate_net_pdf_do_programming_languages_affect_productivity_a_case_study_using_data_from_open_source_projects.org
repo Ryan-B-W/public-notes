@@ -1,0 +1,60 @@
+:PROPERTIES:
+:ID:       e1355659-acf9-49ff-873e-8eabd96dcdc9
+:ROAM_REFS: https://www.researchgate.net/publication/4261726_Do_Programming_Languages_Affect_Productivity_A_Case_Study_Using_Data_from_Open_Source_Projects
+:END:
+#+title: (www.researchgate.net) (PDF) Do Programming Languages Affect Productivity? A Case Study Using Data from Open Source Projects
+#+filetags: :programming:software_development:computer_science:article:science_paper:website:
+
+#+begin_quote
+  * Do Programming Languages Affect Productivity?  A Case Study Using Data from Open Source Projects
+
+  - June 2007
+
+  DOI:[[http://dx.doi.org/10.1109/FLOSS.2007.5][10.1109/FLOSS.2007.5]]
+
+  - Source
+  - [[https://www.researchgate.net/deref/http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=4273079][IEEE Xplore]]
+
+  - Conference: Emerging Trends in FLOSS Research and Development, 2007. FLOSS '07. First International Workshop on
+
+  Authors:
+
+  [[https://www.researchgate.net/scientific-contributions/Daniel-P-Delorey-70114793][Daniel P. Delorey]]
+
+  [[https://www.researchgate.net/profile/Charles-Knutson][Charles Knutson]]
+
+  - [[https://www.researchgate.net/institution/Brigham-Young-University][Brigham Young University]]
+
+  [[https://www.researchgate.net/scientific-contributions/Scott-B-Chun-2058027786][Scott Chun]]
+
+  ** Abstract and Figures
+
+  Brooks and others long ago suggested that on average computer programmers write the same number of lines of code in a given amount of time regardless of the programming language used.  We examine data collected from the CVS repositories of 9,999 open source projects hosted on SourceForge.net to test this assumption for 10 of the most popular programming languages in use in the open source community.  We find that for 24 of the 45 pairwise comparisons, the programming language is a significant factor in determining the rate at which source code is written, even after accounting for variations between programmers and projects.
+#+end_quote
+* (www.researchgate.net) Delorey2007a.pdf         :mime_type_application_pdf:
+:PROPERTIES:
+:ID:       32f628d2-aa20-423f-ad6a-367189c8a2cb
+:END:
+
+#+begin_quote
+  * Do Programming Languages Aﬀect Productivity?  A Case Study Using Data from Open Source Projects
+
+  Daniel P. Delorey
+  Brigham Young University
+  Provo, UT
+  pierce@cs.byu.edu
+
+  Charles D. Knutson
+  Brigham Young University
+  Provo, UT
+  knutson@cs.byu.edu
+
+  Scott Chun
+  Brigham Young University
+  Provo, UT
+  chun@cs.byu.edu
+
+  ** Abstract
+
+  Brooks and others long ago suggested that on average computer programmers write the same number of lines of code in a given amount of time regardless of the programming language used.  We examine data collected from the CVS repositories of 9,999 open source projects hosted on SourceForge.net to test this assumption for 10 of the most popular programming languages in use in the open source community.  We ﬁnd that for 24 of the 45 pairwise comparisons, the programming language is a signiﬁcant factor in determining the rate at which source code is written, even after accounting for variations between programmers and projects.
+#+end_quote

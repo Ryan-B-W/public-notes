@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       581d9af0-7e79-4ca1-9845-0a1d5938a067
+:ROAM_REFS: https://emacs.stackexchange.com/questions/7607/export-properties-blocks-with-org-mode
+:END:
+#+title: (emacs.stackexchange.com) Export :PROPERTIES: blocks with org-mode? - Emacs Stack Exchange
+#+filetags: :notes:emacs:forums:website:

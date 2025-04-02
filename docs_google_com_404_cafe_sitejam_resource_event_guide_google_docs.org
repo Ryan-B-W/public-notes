@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d45be734-86db-4203-9a66-8a644a7ecfb4
+:ROAM_REFS: https://docs.google.com/document/d/1btsQPvGHF3sQemmqB6n1Krkzz4r_q7YZZUD-1uKnvCY/edit
+:END:
+#+title: (docs.google.com) 404 Café SiteJam Resource & Event Guide - Google Docs
+#+filetags: :www:events:website:
+
+#+begin_quote
+  * Webruary SiteJam *Event & Resource Guide*
+
+  ** Intro
+
+  Ever wanted to make a website?  Need an excuse to brush up on coding for the World Wide Web?  Join KKYBER & the rest of 404 Café for our first ever SiteJam!
+
+  ** Event Summary
+
+  - *Timeframe*: February 1, 2025 - February 28, 2025
+  - *Level*: Beginner and above
+  - *Objectives*: Expand knowledge of web design, host a place online to share creative endeavors and engage with others without a need for accounts and data sharing, and send more positivity into the World Wide Web!
+#+end_quote

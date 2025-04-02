@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       461d5056-ad90-4740-8af8-da4381deb78e
+:ROAM_REFS: https://mitpress.mit.edu/1984-structure-and-interpretation-of-computer-programs/
+:END:
+#+title: (mitpress.mit.edu) 1984: Structure and Interpretation of Computer Programs - MIT Press
+#+filetags: :books:blog_post:website:
+
+#+begin_quote
+  November 5, 2012
+
+  * 1984: Structure and Interpretation of Computer Programs
+
+  /For day 15, Harold Abelson, coauthor (with Gerald Jay Sussman), reflects on/ [[https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs][Structure and Interpretation of Computer Programs]].
+
+  “The major dilemma is to determine whether the text will advance or set back Computer Science.”
+
+  So advised one of the first responses to MIT Press's request for reviews of /[[https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs][SICP]]/.  Fortunately for Gerry, Julie and me, the Press chose to publish, and Computer Science survived nonetheless.  Rereading that review after 30 years is a reminder that /[[https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs][SICP]]/ really did stake out new ground for an entry-level course, by focusing on modularity, abstraction, and fundamental ideas about interpretation.  Today, that perspective is common in computer science courses, and we like to imagine that this is due in part to our “wizard book”, which is regularly cited as one of the world's most influential computer science texts.
+
+  Looking back, it was our tremendous fortune to have been at the beginning of the '80s in a position where we could synthesize ideas that had matured at MIT and other hubs of symbolic computing over the previous decade and bring them to a course for beginners.  We're proud and grateful that MIT gave us the chance to do that.
+
+  /Our 50 influential journal articles are listed [[http://www.mitpressjournals.org/page/50articles][here]].  The articles are in chronological order and will be freely available through the end of 2012./
+
+  /For information about the MIT Press' history, check out our [[http://mitpress.mit.edu/50Years][50th anniversary page]]./
+#+end_quote

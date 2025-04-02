@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       8a0f4f96-45ff-470b-bea9-47b77970fb65
+:ROAM_REFS: https://github.com/zv/SICP-guile
+:END:
+#+title: (github.com) zv/SICP-guile: SICP in Guile & Emacs Lisp
+#+filetags: :scheme:lisp:software:website:
+
+#+begin_quote
+  * Structure and Interpretation of Computer Programs
+
+  /Structure and Interpretation of Computer Programs/ (SICP) is a computing textbook by [[http://groups.csail.mit.edu/mac/projects/mac/][Hal Abelson]] & [[http://groups.csail.mit.edu/mac/users/gjs/][Gerald Sussman]], published by MIT in two editions (1985, 1995) and noted for it's ambitious approach to instruction in the logic of computer programming.
+
+  This repository includes answers to a bit more than 90% of the book's 360-some exercises as well as material intended to help others get an idea of how to begin with the book, avoid many common pitfalls as they continue, and review interesting secondary material along the way.
+#+end_quote

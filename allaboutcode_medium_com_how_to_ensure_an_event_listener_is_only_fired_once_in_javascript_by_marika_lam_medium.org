@@ -1,0 +1,62 @@
+:PROPERTIES:
+:ID:       55c1bd9e-bc77-4d9a-b8a2-fb547311ce81
+:ROAM_REFS: https://allaboutcode.medium.com/how-to-ensure-an-event-listener-is-only-fired-once-in-javascript-d20dfd0e318d
+:END:
+#+title: (allaboutcode.medium.com) How to ensure an event listener is only fired once in JavaScript | by Marika Lam | Medium
+#+filetags: :web_development:www:javascript:software_development:paywall:blog_post:website:
+
+#+begin_quote
+  * How to ensure an event listener is only fired once in JavaScript
+
+  [[https://allaboutcode.medium.com/?source=post_page---byline--d20dfd0e318d---------------------------------------][Marika Lam]]
+
+  Nov 9, 2022
+
+  * 1. Using the =once= option
+
+  We can pass an object as an argument to the =addEventListener= method and specify that the event is only handled once.  This is achieved by passing the property =once= to the object.  If we set =once= to true, the event will only be fired once.
+
+  #+begin_src javascript
+  let btn = document.getElementById('btn');
+  btn.addEventListener("click", function() {
+
+      // onClick code
+
+  }, {once : true});
+  #+end_src
+
+  * 2. Removing the event listener once the event is fired
+
+  We will bind an event listener for the element with the handler function and, inside the handler function, we will remove the event added for that element.
+
+  #+begin_src javascript
+  let btn = document.getElementById('btn');
+  function onClick(event){
+     btn.removeEventListener('click', onClick);
+     console.log("Event fired once, no more click will be handled");
+  }btn.addEventListener('click', onClick);
+  #+end_src
+
+  The code below shows how to create a common function to handle all events and elements:
+
+  #+begin_src javascript
+  function oneTimeListener(node, type, callback) {
+      // create event
+      node.addEventListener(type, function listener(e) {
+
+          // remove event listener
+          e.target.removeEventListener(e.type, listener);
+
+          // call handler with original context
+          return callback.call(this, e);
+
+      });
+  }
+
+  let btn = document.getElementById('btn');
+  function onClick(event){
+     console.log(event, this);
+  }
+  oneTimeListener(btn, 'click', onClick);
+  #+end_src
+#+end_quote

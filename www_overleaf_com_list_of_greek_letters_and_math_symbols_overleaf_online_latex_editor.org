@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       103bae18-74b8-4020-a1bf-84682eaf5897
+:ROAM_REFS: https://www.overleaf.com/learn/latex/List_of_Greek_letters_and_math_symbols
+:END:
+#+title: (www.overleaf.com) List of Greek letters and math symbols - Overleaf, Online LaTeX Editor
+#+filetags: :mathematics:typesetting:latex:documentation:website:
+
+#+begin_quote
+  Did you know?  Overleaf has a symbol palette for users with premium accounts.  Read more [[https://www.overleaf.com/learn/how-to/Using_the_Symbol_Palette_in_Overleaf][here]].
+
+  Note that some of the symbols require loading of the =amssymb= package, and this information is shown when you hover on the symbol.
+#+end_quote

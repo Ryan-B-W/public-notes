@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       870906e1-f7c9-43e1-bbd3-871c4f898435
+:ROAM_REFS: https://wiki.gentoo.org/wiki/Nftables
+:END:
+#+title: (wiki.gentoo.org) nftables - Gentoo wiki
+#+filetags: :gentoo:linux:networking:software:website:
+
+#+begin_quote
+  *nftables* is the successor to [[https://wiki.gentoo.org/wiki/Iptables][iptables]].  It replaces the existing iptables, ip6tables, arptables, and ebtables framework.  It uses the Linux [[https://wiki.gentoo.org/wiki/Kernel][kernel]] and a new userspace utility called nft.  nftables provides a compatibility layer for the iptables/ip6tables and framework.
+#+end_quote

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       f2262072-a461-461e-abf0-4b18ddffa8dd
+:ROAM_REFS: https://developer.mozilla.org/en-US/docs/Web/CSS/float
+:END:
+#+title: (developer.mozilla.org) float - CSS: Cascading Style Sheets | MDN
+#+filetags: :css_lang:mozilla_org:web_development:www:documentation:website:
+
+#+begin_quote
+  * float
+
+  The *=float=* [[https://developer.mozilla.org/en-US/docs/Web/CSS][CSS]] property places an element on the left or right side of its container, allowing text and inline elements to wrap around it.  The element is removed from the normal flow of the page, though still remaining a part of the flow (in contrast to [[https://developer.mozilla.org/en-US/docs/Web/CSS/position#absolute_positioning][absolute positioning]]).
+#+end_quote

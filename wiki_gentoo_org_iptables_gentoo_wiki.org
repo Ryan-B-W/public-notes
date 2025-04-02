@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       c939390c-7858-4ca1-b23b-a560d7eed5f5
+:ROAM_REFS: https://wiki.gentoo.org/wiki/Iptables
+:END:
+#+title: (wiki.gentoo.org) iptables - Gentoo wiki
+#+filetags: :gentoo:networking:linux:software:website:
+
+#+begin_quote
+  iptables is a program used to configure and manage the kernel's netfilter modules.  It should be replaced with its successor [[https://wiki.gentoo.org/wiki/Nftables][nftables]].
+#+end_quote

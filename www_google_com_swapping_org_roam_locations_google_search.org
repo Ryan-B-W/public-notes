@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       bf00ffa9-2620-47cb-ae6a-fea12005ed43
+:ROAM_REFS: "https://www.google.com/search?q=swapping org roam locations"
+:END:
+#+title: (www.google.com) swapping org roam locations - Google Search
+#+filetags: :google:searches:website:
+
+Results:
+* [[id:3f4830cc-d153-483e-a61e-645d94b26870][(github.com) Multiple org-roam directories don't work according to manual instructions · Issue #1933 · org-roam/org-roam]]

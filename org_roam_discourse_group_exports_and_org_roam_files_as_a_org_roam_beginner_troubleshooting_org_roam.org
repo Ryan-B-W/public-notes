@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       e8b9dbc4-c4c0-483d-ae7c-5d0864a9614c
+:ROAM_REFS: https://org-roam.discourse.group/t/exports-and-org-roam-files-as-a-org-roam-beginner/3467
+:END:
+#+title: (org-roam.discourse.group) Exports and Org-Roam files as a Org-Roam beginner - Troubleshooting - Org-roam
+#+filetags: :information_management:notes:emacs:forums:website:

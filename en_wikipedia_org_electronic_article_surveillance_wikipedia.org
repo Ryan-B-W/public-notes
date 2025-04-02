@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       4a74a5f3-9fb6-460d-99ce-095d467e3927
+:ROAM_REFS: https://en.wikipedia.org/wiki/Electronic_article_surveillance
+:END:
+#+title: (en.wikipedia.org) Electronic article surveillance - Wikipedia
+#+filetags: :hardware:electronics:inventory_management:security:website:
+
+#+begin_quote
+  *Electronic article surveillance* (EAS) is a type of system used to prevent [[https://en.wikipedia.org/wiki/Shoplifting][shoplifting]] from [[https://en.wikipedia.org/wiki/Retail][retail stores]], [[https://en.wikipedia.org/wiki/Library_theft][pilferage of books from libraries]], or unwanted removal of properties from [[https://en.wikipedia.org/wiki/Office][office buildings]].  EAS systems typically consist of two components: EAS antennas and EAS tags or labels.  EAS tags are attached to [[https://en.wikipedia.org/wiki/Goods][merchandise]]; these tags can only be removed or deactivated by employees when the item is properly purchased or checked out.  If merchandise bearing an active tag passes by an antenna installed at an entrance/exit, an alarm sounds alerting staff that merchandise is leaving the store unauthorized.  Some stores also have antennas at entrances to [[https://en.wikipedia.org/wiki/Public_toilet][restrooms]] to deter shoppers from taking unpaid-for merchandise into the restroom where they could remove the tags.
+#+end_quote

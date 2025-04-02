@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       1c8a1e41-53e0-4a99-b030-ca24db4edcc9
+:ROAM_REFS: https://en.wikipedia.org/wiki/National_Defense_Education_Act
+:END:
+#+title: (en.wikipedia.org) National Defense Education Act - Wikipedia
+#+filetags: :law:united_states:the_cold_war:government:education:website:
+
+#+begin_quote
+  The *National Defense Education Act* (*NDEA*) was signed into law on September 2, 1958, providing funding to [[https://en.wikipedia.org/wiki/United_States_education][United States education]] institutions at all levels.
+
+  NDEA was among many science initiatives implemented by [[https://en.wikipedia.org/wiki/POTUS][President]] [[https://en.wikipedia.org/wiki/Dwight_D._Eisenhower][Dwight D. Eisenhower]] in 1958 to increase the technological sophistication and power of the United States alongside, for instance, [[https://en.wikipedia.org/wiki/DARPA][DARPA]] and [[https://en.wikipedia.org/wiki/NASA][NASA]].  It followed a growing national sense that U.S. scientists were falling behind scientists in the [[https://en.wikipedia.org/wiki/Soviet_Union][Soviet Union]].  The early Soviet success in the [[https://en.wikipedia.org/wiki/Space_Race][Space Race]] catalyzed a national sense of unease with Soviet technological advances, especially after the Soviet Union launched the first-ever satellite, [[https://en.wikipedia.org/wiki/Sputnik][Sputnik]], the previous year.
+
+  The act authorized funding for four years, increasing funding per year: for example, funding increased on eight program titles from $183 million in 1959 to $222 million in 1960.  In total, over a billion dollars was directed towards improving American science curricula.  However, in the aftermath of [[https://en.wikipedia.org/wiki/McCarthyism][McCarthyism]], a mandate was inserted in the act that all beneficiaries must complete an affidavit disclaiming belief in the overthrow of the U.S. government.  This requisite loyalty statement stirred concern and protest from the [[https://en.wikipedia.org/wiki/American_Association_of_University_Professors][American Association of University Professors]] and over 153 institutions.
+#+end_quote

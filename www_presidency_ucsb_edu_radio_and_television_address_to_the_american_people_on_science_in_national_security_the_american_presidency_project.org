@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0382147c-d5a0-4d9d-9af1-df06635da40f
+:ROAM_REFS: https://www.presidency.ucsb.edu/documents/radio-and-television-address-the-american-people-science-national-security
+:END:
+#+title: (www.presidency.ucsb.edu) Radio and Television Address to the American People on Science in National Security. | The American Presidency Project
+#+filetags: :transcript:education:the_cold_war:government:united_states:formal_speech:website:
+
+#+begin_quote
+  *** [[https://www.presidency.ucsb.edu/people/president/dwight-d-eisenhower][Dwight D. Eisenhower]]
+
+  34th President of the United States: 1953 - 1961
+
+  * Radio and Television Address to the American People on Science in National Security.
+#+end_quote
+
+#+begin_quote
+  According to my scientific friends, one of our greatest, and most glaring, deficiencies is the failure of us in this country to give high enough priority to scientific education and to the place of science in our national life.
+
+  Of course, these scientists properly assume that we shall continue to acquire the most modern weapons in adequate numbers as fast as they are produced; but their conviction does expose one great future danger that no amount of money or resources currently devoted to it can meet.  Education requires time, incentive and skilled teachers.
+
+  They believe that a second critical need is that of giving higher priority, both public and private, to basic research.
+#+end_quote

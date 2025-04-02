@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       e669b2b8-9e10-4091-af64-f91944d1015c
+:ROAM_REFS: https://en.wikipedia.org/wiki/The_SAS_Survival_Handbook
+:END:
+#+title: (en.wikipedia.org) The SAS Survival Handbook - Wikipedia
+#+filetags: :bushcraft:outdoors:survival:books:website:
+
+#+begin_quote
+  /*The SAS Survival Handbook*/ is a survival guide by [[https://en.wikipedia.org/wiki/United_Kingdom][British]] [[https://en.wikipedia.org/wiki/Author][author]] and soldier, [[https://en.wikipedia.org/wiki/Lofty_Wiseman][John Wiseman]], first published by [[https://en.wikipedia.org/wiki/William_Collins_(publisher)][Williams Collins]] in 1986.  Second, revised edition came out in 2009.  A digital [[https://en.wikipedia.org/wiki/Mobile_app][app]] for smartphones based on the book is also available.  The book spans over 11 sections, and an introduction and postscript, detailing how to survive in dangerous surroundings.
+#+end_quote

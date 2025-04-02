@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       f96b9f2d-6eb7-4052-8fa1-e70650f54a35
+:ROAM_REFS: http://ref.x86asm.net/
+:END:
+#+title: (ref.x86asm.net) X86 Opcode and Instruction Reference
+#+filetags: :programming_language:programming:x86:assembly_lang:documentation:website:
+
+#+begin_quote
+  * X86 Opcode and Instruction Reference
+
+  *MazeGen*, 2017-02-18
+
+  Revision: [[http://ref.x86asm.net/#rev_history][1.12]]
+
+  This reference is intended to be precise opcode and instruction set reference (including x86-64). Its principal aim is exact definition of instruction parameters and attributes.
+
+  *** Quick Navigation
+
+  [[http://ref.x86asm.net/coder32.html][coder32]], [[http://ref.x86asm.net/coder32-abc.html][coder32-abc]], [[http://ref.x86asm.net/geek32.html][geek32]], [[http://ref.x86asm.net/geek32-abc.html][geek32-abc]]
+
+  [[http://ref.x86asm.net/coder64.html][coder64]], [[http://ref.x86asm.net/coder64-abc.html][coder64-abc]], [[http://ref.x86asm.net/geek64.html][geek64]], [[http://ref.x86asm.net/geek64-abc.html][geek64-abc]]
+
+  [[http://ref.x86asm.net/coder.html][coder]], [[http://ref.x86asm.net/coder-abc.html][coder-abc]], [[http://ref.x86asm.net/geek.html][geek]], [[http://ref.x86asm.net/geek-abc.html][geek-abc]] (these contain both x86-32 and x64 instructions).
+
+  In contrast to other references, primary source of this reference is an [[http://ref.x86asm.net/x86reference.xml][XML]] document, which guarantees clear and structured information base and therefore ability to extract many various informations such as a list of instructions from requested groups, etc.
+
+  The reference is primarily based on Intel manuals as Intel is the originator of x86 architecture.  Additionally, it describes undocumented instructions as well.  On appropriate places, it gives a notice if an opcode act differently on AMD architecture.  Support for Cyrix, NexGen etc. specific instructions is not scheduled at all.
+#+end_quote

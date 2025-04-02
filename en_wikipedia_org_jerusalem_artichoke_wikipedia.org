@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       3d676b05-bd31-4c6d-add1-3170012c263e
+:ROAM_REFS: https://en.wikipedia.org/wiki/Jerusalem_artichoke
+:END:
+#+title: (en.wikipedia.org) Jerusalem artichoke - Wikipedia
+#+filetags: :food_crops:plants:agriculture:website:
+
+#+begin_quote
+  The *Jerusalem artichoke* (/*Helianthus tuberosus*/), also called *sunroot*, *sunchoke*, *wild sunflower*, *topinambur*, or *earth apple*, is a species of [[https://en.wikipedia.org/wiki/Helianthus][sunflower]] native to central [[https://en.wikipedia.org/wiki/North_America][North America]].  It is cultivated widely across the temperate zone for its [[https://en.wikipedia.org/wiki/Tuber][tuber]], which is used as a [[https://en.wikipedia.org/wiki/Root_vegetable][root vegetable]].
+#+end_quote

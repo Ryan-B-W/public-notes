@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7bac0f04-730a-4460-94cf-02659012323d
+:ROAM_REFS: https://nicolasknoebber.com/posts/blogging-with-emacs-and-org.html
+:END:
+#+title: (nicolasknoebber.com) Blogging with Emacs and Org
+#+filetags: :www:blogging:notes:emacs:blog_post:website:
+
+#+begin_quote
+  * Blogging with Emacs and Org
+
+  ** 2. Introduction
+
+  Recently I've been using Emacs for more and more of my workflow.  It's great to have the same environment regardless of platform.  Packages like evil-mode, helm and magit make Emacs a joy to use.
+
+  But I had one major annoyance: this website was created with a hodgepodge of HTML, python, and markdown.
+
+  *In this post I describe how I generate my site from Org source files.*
+
+  If you aren't familar with [[https://www.gnu.org/software/emacs][Emacs]] or [[https://orgmode.org/][org-mode]] then here's a quick summary: Emacs is a lisp interpreter that comes with functions for editing text.  It's a platform that allows you to build your own IDE. Org is an Emacs extension for writing, formatting, and publishing documents.
+#+end_quote

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       a4d45db8-7ae4-4e9b-bdef-0e7eaf50b7ab
+:ROAM_REFS: https://en.wikipedia.org/wiki/Library_and_information_science
+:END:
+#+title: (en.wikipedia.org) Library and information science - Wikipedia
+#+filetags: :library_science:information_science:libraries:information_management:website:
+
+#+begin_quote
+  *Library and Information Science* (*LIS*) are two interconnected disciplines that deal with information management.  This includes organization, access, collection, and regulation of information, both in physical and digital forms.
+
+  Library science and [[https://en.wikipedia.org/wiki/Information_science][information science]] are two original disciplines; however, they are within the same field of study.  Library science is applied information science.  Library science is both an application and a subfield of information science.  Due to the strong connection, sometimes the two terms are used synonymously.
+#+end_quote

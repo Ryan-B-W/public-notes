@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       c5ef8af1-9018-48e6-9881-c7e5b2adb2f3
+:ROAM_REFS: http://mirrors.ctan.org/info/symbols/comprehensive/symbols-a4.pdf https://mirrors.ibiblio.org/pub/mirrors/CTAN/info/symbols/comprehensive/symbols-a4.pdf https://ctan.math.utah.edu/ctan/tex-archive/info/symbols/comprehensive/symbols-a4.pdf
+:END:
+#+title: (mirrors.ctan.org) The Comprehensive LaTeX Symbol List - symbols-a4.pdf
+#+filetags: :mathematics:typesetting:latex:documentation:mime_type_application_pdf:website:
+
+#+begin_quote
+  The Comprehensive LATEX Symbol List
+
+  Scott Pakin, scott-ctan@pakin.org
+#+end_quote

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       b9342fa6-c465-424a-9c6c-3b1c4acf5813
+:ROAM_REFS: https://learn.microsoft.com/en-us/cpp/c-runtime-library/format-specification-fields-scanf-and-wscanf-functions
+:END:
+#+title: (learn.microsoft.com) Format specification fields: scanf and wscanf functions | Microsoft Learn
+#+filetags: :microsoft:c_lang:documentation:website:

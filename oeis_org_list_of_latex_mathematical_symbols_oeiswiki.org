@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       412a2c75-e330-4841-8aea-f82ef544bb74
+:ROAM_REFS: https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
+:END:
+#+title: (oeis.org) List of LaTeX mathematical symbols - OeisWiki
+#+filetags: :mathematics:typesetting:documentation:latex:website:
+
+#+begin_quote
+  * List of LaTeX mathematical symbols
+
+  All the predefined mathematical symbols from the [[https://oeis.org/wiki/TeX][TeX]] package are listed below.  More symbols are available from extra packages.
+#+end_quote

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       ef74a44d-da12-4fcc-bb50-d716ed0fe9c5
+:ROAM_REFS: https://bulletjournal.com/blogs/bulletjournalist/showcase-for-bujo-application-for-adhd
+:END:
+#+title: (bulletjournal.com) Bullet Journal Applications for ADHD
+#+filetags: :notes:bullet_journal:information_management:blog_post:website:
+
+#+begin_quote
+  * Bullet Journal Applications for ADHD
+
+  - October 14, 2019
+  - 2 min read
+  - [[https://bulletjournal.com/blogs/bulletjournalist/showcase-for-bujo-application-for-adhd#comments][1 Comment]]
+#+end_quote

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       b88f7838-9c01-43c5-8a5b-35920ca6ebf2
+:ROAM_REFS: https://honnef.co/articles/my-org-roam-workflows-for-taking-notes-and-writing-articles/
+:END:
+#+title: (honnef.co) My org-roam workflows for taking notes and writing articles — Dominik Honnef
+#+filetags: :blogging:www:notes:emacs:blog_post:website:
+
+#+begin_quote
+  * My org-roam workflows for taking notes and writing articles
+
+  Published: Thursday, January 12, 2023\\
+  Last modified: Sunday, January 15, 2023
+
+  by [[https://honnef.co/about/][Dominik Honnef]]
+
+  This article documents the entirety of my [[https://orgmode.org/][org-mode]] based workflows, from note-taking to generating a website.  I'll mention all relevant packages, applications, and configuration.
+#+end_quote

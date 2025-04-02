@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       8c3fdfe5-556b-487e-93a2-5f86d21d74a3
+:ROAM_REFS: "https://www.google.com/search?q=study on programming language productivity"
+:END:
+#+title: (www.google.com) study on programming language productivity - Google Search
+#+filetags: :google:searches:website:
+
+Results:
+* [[id:e1355659-acf9-49ff-873e-8eabd96dcdc9][(www.researchgate.net) (PDF) Do Programming Languages Affect Productivity? A Case Study Using Data from Open Source Projects]]
+* [[id:6ff54f9f-9c82-40e0-b41b-5a9cec26fa2e][(dl.acm.org) Significant Productivity Gains through Programming with Large Language Models | Proceedings of the ACM on Human-Computer Interaction]]

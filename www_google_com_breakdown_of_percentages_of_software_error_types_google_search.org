@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       fdc92208-1b80-432f-960e-ee724431a5e5
+:ROAM_REFS: "https://www.google.com/search?q=breakdown of percentages of software error types"
+:END:
+#+title: (www.google.com) breakdown of percentages of software error types - Google Search
+#+filetags: :google:searches:website:
+
+Results:
+* [[id:ef64daf8-97be-427a-ad7b-03794125df9a][(www.johnsymons.net) Microsoft Word - Understanding error rates submitted version .docx - Understanding-error-rates-.pdf]]
+* [[id:006cdaf7-85b7-43b4-96fb-77e07d0f2a28][(nvlpubs.nist.gov) Software error analysis - nistspecialpublication500-209.pdf]]
+* [[id:0404bea8-8f65-443c-80ff-2552f9caa34e][(pmc.ncbi.nlm.nih.gov) Rampant software errors may undermine scientific results - PMC]]
+* [[id:e6bb280c-e6ec-4cd3-889c-285099b9e7ec][(www.researchgate.net) The percentages of error types that we observed in failed functions... | Download Scientific Diagram]]
+** [[id:91af8918-9413-41f4-a29b-848b1edae85e][(www.researchgate.net) (PDF) The Impact of Prompt Programming on Function-Level Code Generation]]
+*** [[id:8d793c01-cf29-4cd0-9d01-f2e61fc24d4d][promptContext.pdf]]
+* [[id:5a6f2449-b28b-47ad-a0c9-b9ff9edae281][(en.wikipedia.org) Software bug - Wikipedia]]
+** [[id:9743e489-d34b-42f1-a135-1cd3c08a0da9][(web.archive.org) Software Errors Cost U.S. Economy $59.5 Billion Annually: NIST Assesses Technical Needs of Industry to Improve Software-Testing]]

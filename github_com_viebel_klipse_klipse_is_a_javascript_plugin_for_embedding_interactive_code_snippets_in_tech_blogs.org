@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       9fb4c088-1f37-4d1c-9fbc-0788f81cebeb
+:ROAM_REFS: https://github.com/viebel/klipse
+:END:
+#+title: (github.com) viebel/klipse: Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
+#+filetags: :programming:javascript:web_development:www:website:
+
+#+begin_quote
+  * Klipse
+
+  Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.  See examples at [[https://blog.klipse.tech/]]
+
+  Technically, Klipse is a small piece of JavaScript code that evaluates code snippets in the browser and it is pluggable on any web page.
+
+  If you like this stuff, please consider a (small donation) on [[https://www.patreon.com/bePatron?u=18227864][Patreon]].
+#+end_quote

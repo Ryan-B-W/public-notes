@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       139e52f4-1a29-4343-bcd6-dd5e33ccee9d
+:ROAM_REFS: https://visd0m.dev/posts/how-to-blogpost-directly-from-emacs/
+:END:
+#+title: (visd0m.dev) how to blogpost directly from emacs | visd0m.dev
+#+filetags: :www:blogging:information_management:notes:emacs:blog_post:website:
+
+#+begin_quote
+  * how to blogpost directly from emacs
+
+  visd0m
+
+  ** Why even do that?
+
+  If you like emacs and you are an emacs user at a certain point in your life you will reach that moment in which you try to do as much as you can directly from emacs.
+
+  No easy explanation on why this happens, but I give you my personal view on it.
+
+  One start using a version of emacs that is far from being the perfect version of emacs for him.
+
+  Using it day by day you start customizing it and extending it making it fit your workflows and your needs.
+
+  This create the following positive loop:
+
+  - “I am not able to do X with emacs”
+  - “I have fun customizing emacs in order to do X with emacs”
+  - “I end up having a good enough workflow of doing X in emacs”
+  - “I get used of doing X in emacs”
+
+  Replace X with blogposting and you have your answer.
+#+end_quote

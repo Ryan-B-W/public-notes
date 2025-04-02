@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       443969ef-e34a-4593-94eb-e2e530fac787
+:ROAM_REFS: https://eng.libretexts.org/Bookshelves/Computer_Science/Programming_and_Computation_Fundamentals/Foundations_of_Computation_(Critchlow_and_Eck)/04:_Grammars/4.01:_Context-free_Grammars
+:END:
+#+title: (eng.libretexts.org) 4.1: Context-free Grammars - Engineering LibreTexts
+#+filetags: :mathematics:computer_science:website:
+
+#+begin_quote
+  * Context-free Grammars
+
+  In its most general form, a grammar is a set of rewriting rules.  A rewriting rule specifies that a certain string of symbols can be substituted for all or part of another string.  If \(w\) and \(u\) are strings, then \(w \longrightarrow u\) is a rewriting rule that specifies that the string w can be replaced by the string u.  The symbol "\(\longrightarrow\)" is read "can be rewritten as."  Rewriting rules are also called *production rules* or *productions*, and "\(\longrightarrow\)" can also be read as "produces".  For example, if we consider strings over the alphabet {a, b, c}, then the production rule \(a b a \longrightarrow c c\) can be applied to the string abbabacto give the string abbccc.  The substring aba in the string abbabac has been replaced with cc.
+#+end_quote

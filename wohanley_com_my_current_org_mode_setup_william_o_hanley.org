@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       2f1c9c23-a943-41e3-9370-e9100cff2beb
+:ROAM_REFS: https://wohanley.com/posts/org-setup/
+:END:
+#+title: (wohanley.com) My current org-mode setup ⋮ William O'Hanley
+#+filetags: :information_management:notes:emacs:blog_post:website:
+
+#+begin_quote
+  * My current org-mode setup
+
+  28 November 2022 William O'Hanley
+
+  I've put some work into my org-mode setup in Emacs over the last while, and I've recently gotten pretty content with a setup with the following affordances:
+
+  - Low-friction, non-hierarchical note-taking with =org-roam=
+  - Plain-text annotation, interlinked with my other notes, of Zotero-managed reference material
+  - An =org-agenda= that pulls events and TODOs from a wide variety of sources, including my notes
+  - A flexible inbox that captures anything I can't deal with immediately, especially emails and web pages
+  - Reminders for scheduled events and task deadlines
+
+  It looks like this:
+
+  [[https://wohanley.com/posts/org-setup/agenda.png]]
+
+  [[https://wohanley.com/posts/org-setup/roam-graph.png]]
+
+  Yes, I do actually use the graph.  It's hard to get it into a web page, but you can browse the underlying notes [[https://notes.wohanley.com/about][here]].
+
+  I was thinking it would be nice to document it in case it's useful to anyone attempting something similar, so here we go.  All the configuration I reference here can be found in my [[https://gitlab.com/whohanley/dotfiles/-/tree/master/emacs][dotfiles repo]].
+#+end_quote

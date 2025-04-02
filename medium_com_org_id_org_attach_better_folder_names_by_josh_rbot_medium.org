@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       92ea7fd2-7616-4276-a114-0afc3d86fe1f
+:ROAM_REFS: https://medium.com/@James86768479/org-id-org-attach-better-folder-names-3905f3841044
+:END:
+#+title: (medium.com) Org ID, Org Attach & Better Folder Names | by Josh_Rbot | Medium
+#+filetags: :information_management:notes:emacs:blog_post:website:
+
+#+begin_quote
+  * Org ID, Org Attach & Better Folder Names
+
+  [[https://medium.com/@James86768479?source=post_page---byline--3905f3841044---------------------------------------][Josh_Rbot]]
+
+  Mar 23, 2022
+
+  You might have heard of org-mode headers IDs.  By default, these are Universally Unique Identifiers ( [[https://en.wikipedia.org/wiki/Universally_unique_identifier][UUID]] s). In this post, I want to talk about what they are, why I use them (and you should, too), and how to make them into slugs — human-readable IDs that make sense.  This will be a bit of a long explanation of what I discovered in org-mode, so buckle up..!
+#+end_quote

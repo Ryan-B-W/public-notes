@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       63e86b50-8a7f-4c23-8ef8-00a993d2ede6
+:ROAM_REFS: https://lists.gnu.org/archive/html/emacs-orgmode/2021-08/msg00317.html
+:END:
+#+title: (lists.gnu.org) [org-cite] citations in property drawers?
+#+filetags: :notes:emacs:forums:website:

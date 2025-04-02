@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       737254f6-5353-443e-8224-5f3b1005cb86
+:ROAM_REFS: https://themkat.net/2024/10/22/how_i_blog_with_emacs.html
+:END:
+#+title: (themkat.net) How I blog with Emacs - Org-Mode, Jekyll, Github Actions and interesting tidbits
+#+filetags: :www:blogging:emacs:blog_post:website:
+
+#+begin_quote
+  ** How I blog with Emacs - Org-Mode, Jekyll, Github Actions and interesting tidbits
+
+  Published Tue Oct 22 2024
+
+  Tags: [[https://themkat.net/tags/emacs.html][emacs]] [[https://themkat.net/tags/info.html][info]] [[https://themkat.net/tags/automation.html][automation]]
+
+  --------------
+
+  Sometimes I get asked by various people on how this blog works. How do I actually blog with the amazing sorcerous powers of Emacs? In my mission of knowledge sharing, I will show you my workflow and tricks today. Hopefully it can be useful for you as well.
+
+  My blog has evolved through the years, and will probably continue doing so. More tasks can probably be automated, as I have already automated many menial tasks (e.g, promoting a draft by giving it a date in the filename). I know the blog is far from perfect, but it is a comfortable environment to work in. Being able to not leave my Emacs setup for long periods of time 🩷
+
+  : "Emacs started out as an extensible text editor program that I had written, which become over the years a way of life for many users, as it was extended so much they could do all their computing without ever leaving Emacs." - Richard Stallman
+#+end_quote

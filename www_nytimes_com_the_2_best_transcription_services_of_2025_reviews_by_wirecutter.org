@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       b17db859-1b34-4f7c-b5fb-0fd6e628b84c
+:ROAM_REFS: https://www.nytimes.com/wirecutter/reviews/best-transcription-services/
+:END:
+#+title: (www.nytimes.com) The 2 Best Transcription Services of 2025 | Reviews by Wirecutter
+#+filetags: :reviews:lists:software:software_as_a_service:artificial_intelligence:transcription:website:
+
+#+begin_quote
+  * The Best Transcription Services
+
+  Updated October 3, 2024
+
+  By [[https://www.nytimes.com/wirecutter/authors/matthew-guay/][Matthew Guay]]
+
+  FYI
+
+  We've updated this guide to correct an error.  A previous version of this guide stated that Vook's time blocks were available in two-hour increments, but they can be customized to any amount of time.
+
+  October 2024
+
+  Transcription is now a commodity—a default feature in the work-centered apps so many of us use on a daily basis.  Zoom, Google Meet, and Microsoft Teams transcribe meetings.  Slack adds transcripts to audio shared in chat.  Even YouTube auto-captions videos.
+
+  And the transcriptions are good.  Surprisingly so.  In 2018, Wirecutter found the best AI transcription tools to be 73% accurate.  Today, even the least accurate AI transcription is 94% accurate—and, surprisingly, the best AI transcription services, including OpenAI's free Whisper transcription engine, are somewhat more accurate than the least-precise human-powered transcriptions.
+
+  After spending 35 hours testing 15 transcription tools, including human and AI-powered options, we found that [[https://www.nytimes.com/wirecutter/out/link/28878/148628/4/195016/?merchant=GoTranscript][GoTranscript]] is the best service for those who need the most accurate transcripts.  If you're willing to work with slightly less accurate but far faster AI transcription, [[https://www.nytimes.com/wirecutter/out/link/64660/206120/4/195033/?merchant=Vook.ai][Vook.ai]] is the best affordable transcription service.
+#+end_quote

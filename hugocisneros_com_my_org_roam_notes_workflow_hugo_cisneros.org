@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       2b4cfb87-96fe-440c-ba2a-ecaf990ec73c
+:ROAM_REFS: https://hugocisneros.com/blog/my-org-roam-notes-workflow/
+:END:
+#+title: (hugocisneros.com) My Org Roam Notes Workflow - Hugo Cisneros
+#+filetags: :information_management:notes:emacs:blog_post:website:
+
+#+begin_quote
+  * My Org Roam Notes Workflow
+
+  */Organizing my thoughts and knowledge into a web/*
+
+  [[https://hugocisneros.com/blog/my-org-roam-notes-workflow/][2021.06.15]] [[https://hugocisneros.com/][Hugo Cisneros]]
+
+  Reading time: 9 minutes.
+
+  /Edit 2022-04-20: I did not see it right away, but there was a significant spike in the logs due to this post hitting the front page of Hacker News!  I'm glad more people are interested in this.  See [[https://news.ycombinator.com/item?id=30965343][the discussion here]]/
+
+  Some people expressed interest in my [[https://www.orgroam.com/][org roam]] [[https://hugocisneros.com/notes/][notes]] workflow.  Setting this up has been an interesting project, teaching me about [[https://hugocisneros.com/notes/emacs][Emacs]], [[https://hugocisneros.com/notes/org_mode][org-mode]] and a little about web frontend.  This post will describe my current workflow in as much details as possible.
+
+  Hopefully, you'll learn to create an automated build script to publish your notes on the web and convert your org-roam note network into a graph like the one below.
+
+  #+caption: Note graph screenshot
+  [[https://hugocisneros.com/img/note-graph.svg]]
+
+  For the interactive version, see [[https://hugocisneros.com/notes/][my notes]].
+#+end_quote

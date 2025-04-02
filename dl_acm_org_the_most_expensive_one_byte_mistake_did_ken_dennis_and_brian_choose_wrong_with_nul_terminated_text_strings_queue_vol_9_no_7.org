@@ -1,0 +1,53 @@
+:PROPERTIES:
+:ID:       b1870822-d84e-408a-9271-c2e5ccaf1055
+:ROAM_REFS: https://dl.acm.org/doi/10.1145/2001562.2010365
+:END:
+#+title: (dl.acm.org) The Most Expensive One-byte Mistake: Did Ken, Dennis, and Brian choose wrong with NUL-terminated text strings?: Queue: Vol 9, No 7
+#+filetags: :security:c_lang:unix:programming:software_development:science_paper:article:website:
+
+#+begin_quote
+  * The Most Expensive One-byte Mistake: Did Ken, Dennis, and Brian choose wrong with NUL-terminated text strings?
+
+  Author: Poul-Henning Kamp
+
+  [[https://dl.acm.org/toc/queue/2011/9/7][Queue, Volume 9, Issue 7]]
+
+  Pages 40 - 43
+
+  [[https://doi.org/10.1145/2001562.2010365]]
+
+  Published: 25 July 2011
+
+  ** Abstract
+
+  IT both drives and implements the modern Western-style economy.  Thus, we regularly see headlines about staggeringly large amounts of money connected with IT mistakes.  Which IT or CS decision has resulted in the most expensive mistake?
+#+end_quote
+* (dl.acm.org) The Most Expensive One-byte Mistake - 2001562.2010365.pdf :mime_type_application_pdf:
+:PROPERTIES:
+:ID:       8cf3c95d-f6ac-4961-ba29-96fc4e5ca6ab
+:ROAM_REFS: https://dl.acm.org/doi/pdf/10.1145/2001562.2010365
+:END:
+
+#+begin_quote
+  * The Most Expensive One-byte Mistake
+
+  Did Ken, Dennis, and Brian choose wrong with NUL-terminated text strings?
+
+  Poul-Henning Kamp
+
+  IT both drives and implements the modern Western-style economy.  Thus, we regularly see headlines about staggeringly large amounts of money connected with IT mistakes.  Which IT or CS decision has resulted in the most expensive mistake?
+
+  Not long ago, a fair number of pundits were doing a lot of hand waving about the financial implications of Sony's troubles with its PlayStation Network, but an event like that does not count here.  In my school days, I talked with an inspector from The Guinness Book of World Records who explained that for something to be “a true record,” it could not be a mere accident; there had to be direct causation starting with human intent (i.e., we stuffed 26 high school students into our music teacher's Volkswagen Beetle and closed the doors).
+
+  Sony (probably) did not intend to see how big a mess it could make with the least attention to security, so this and other such examples of false economy will not qualify.  Another candidate could be IBM's choice of Bill Gates over Gary Kildall to supply the operating system for its personal computer.  The damage from this decision is still accumulating at breakneck speed, with StuxNet and the OOXML perversion of the ISO standardization process being exemplary bookends for how far and wide the damage spreads.  But that was not really an IT or CS decision.  It was a business decision that, as far as history has been able to uncover, centered on Kildall's decision not to accept IBM's nondisclosure demands.
+
+  A better example would be the decision for MS-DOS to invent its own directory/filename separator, using the backslash () rather than the forward slash (/) that Unix used or the period that DEC used in its operating systems.  Apart from the actual damage being relatively modest, however, this does not qualify as a good example either, because it was not a real decision selecting a true preference.  IBM had decided to use the slash for command flags, eliminating Unix as a precedent, and the period was used between filename and filename extension, making it impossible to follow DEC's example.
+
+  Space exploration history offers a pool of well-publicized and expensive mistakes, but interestingly, I didn't find any valid candidates there.  Fortran syntax errors and space shuttle computer synchronization mistakes do not qualify for lack of intent.  Running one part of a project in imperial units and the other in metric is a “random act of management” that has nothing to do with CS or IT.
+
+  The best candidate I have been able to come up with is the C/Unix/Posix use of NUL-terminated text strings.  The choice was really simple: Should the C language represent strings as an address + length tuple or just as the address with a magic character (NUL) marking the end?  This is a decision that the dynamic trio of Ken Thompson, Dennis Ritchie, and Brian Kernighan must have made one day in the early 1970s, and they had full freedom to choose either way.  I have not found any record of the decision, which I admit is a weak point in its candidacy: I do not have proof that it was a conscious decision.
+
+  As far as I can determine from my research, however, the address + length format was preferred by the majority of programming languages at the time, whereas the address + magic_marker format was used mostly in assembly programs.  As the C language was a development from assembly to a portable high-level language, I have a hard time believing that Ken, Dennis, and Brian gave it no thought at all.
+
+  Using an address + length format would cost one more byte of overhead than an address + magic_marker format, and their PDP computer had limited core memory.  In other words, this could have been a perfectly typical and rational IT or CS decision, like the many similar decisions we all make every day; but this one had quite atypical economic consequences.
+#+end_quote

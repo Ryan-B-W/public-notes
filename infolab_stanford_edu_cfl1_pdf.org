@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       f38199a5-15a3-433f-a6ce-97db374046d1
+:ROAM_REFS: http://infolab.stanford.edu/~ullman/ialc/spr10/slides/cfl1.pdf
+:END:
+#+title: (infolab.stanford.edu) cfl1.pdf
+#+filetags: :mathematics:computer_science:mime_type_application_pdf:website:
+
+#+begin_quote
+  * Context-Free Grammars
+
+  - Formalism
+  - Derivations
+  - Backus-Naur Form
+  - Left- and Rightmost Derivations
+#+end_quote

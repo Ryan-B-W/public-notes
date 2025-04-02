@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       82e5e45a-b185-4fcb-b1a4-94195fa9cff8
+:ROAM_REFS: https://forums.gentoo.org/viewtopic-p-8811419.html
+:END:
+#+title: (forums.gentoo.org) Gentoo Forums :: View topic - What would be needed to make gentoo work like Guix/Nix ?
+#+filetags: :nix:gentoo:linux:forums:website:

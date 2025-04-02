@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       1f24502f-2910-45d6-a1f2-3f044f4ec2b2
+:ROAM_REFS: https://developer.mozilla.org/en-US/docs/Web/CSS/display
+:END:
+#+title: (developer.mozilla.org) display - CSS: Cascading Style Sheets | MDN
+#+filetags: :css_lang:mozilla_org:web_development:www:documentation:website:
+
+#+begin_quote
+  * display
+
+  The *=display=* [[https://developer.mozilla.org/en-US/docs/Web/CSS][CSS]] property sets whether an element is treated as a [[https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_display/Flow_layout][block or inline box]] and the layout used for its children, such as [[https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_display/Flow_layout][flow layout]], [[https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout][grid]] or [[https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout][flex]].
+
+  Formally, the *=display=* property sets an element's inner and outer /display types/.  The outer type sets an element's participation in [[https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_display/Flow_layout][flow layout]]; the inner type sets the layout of children.  Some values of =display= are fully defined in their own individual specifications; for example the detail of what happens when =display: flex= is declared is defined in the CSS Flexible Box Model specification.
+#+end_quote

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       221317dd-37f2-480f-aef7-8695c3b13d5a
+:ROAM_REFS: "https://www.google.com/search?q=org mode export property template"
+:END:
+#+title: (www.google.com) org mode export property template - Google Search
+#+filetags: :google:searches:website:
+
+Results:
+* [[id:581d9af0-7e79-4ca1-9845-0a1d5938a067][(emacs.stackexchange.com) Export :PROPERTIES: blocks with org-mode? - Emacs Stack Exchange]]

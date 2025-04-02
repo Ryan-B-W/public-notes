@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       f3db2c3f-72c7-4539-8aba-b2924190e34a
+:ROAM_REFS: https://laminar.ohwg.net/
+:END:
+#+title: (laminar.ohwg.net) Laminar - Lightweight Continuous Integration
+#+filetags: :ci_cd:software_development:software:website:
+
+#+begin_quote
+  * laminar
+
+  Continuous Integration the Light Way
+
+  ** fast · lightweight · open source · self-hosted
+
+  ** Less is more
+
+  Laminar helps you automate and track jobs, and presents the results in a simple and clear interface.
+
+  Laminar encourages leveraging existing tools in your Linux environment rather than reinventing the wheel.
+
+  No clicky web UIs that churn out unreadable XML, no assumptions about your source control or build system; just write a script and Laminar will execute it.
+
+  ** Documentation
+
+  Learn to setup and master Laminar: [[https://laminar.ohwg.net/docs.html][User Manual]]
+
+  ** Download
+
+  Debian 9 (Stretch) & 10 (Buster): amd64 binaries available on [[https://github.com/ohwgiles/laminar/releases][releases]] page
+
+  CentOS 7 & 8: x86_64 binaries available on [[https://github.com/ohwgiles/laminar/releases][releases]] page
+
+  Armbian 9 (Stretch) & 10 (Buster): armhf binaries available on [[https://github.com/ohwgiles/laminar/releases][releases]] page
+
+  Arch Linux PKGBUILD available [[https://aur.archlinux.org/packages/laminar/][in the AUR]]
+
+  Source code available [[https://github.com/ohwgiles/laminar][on GitHub]]
+#+end_quote

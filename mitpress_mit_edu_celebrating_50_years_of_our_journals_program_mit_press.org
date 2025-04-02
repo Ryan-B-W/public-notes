@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       785794f1-ea0e-4d6a-ac3a-a7554019cf50
+:ROAM_REFS: https://mitpress.mit.edu/celebrating-50-years-of-our-journals-program/
+:END:
+#+title: (mitpress.mit.edu) Celebrating 50 years of our journals program - MIT Press
+#+filetags: :blog_post:website:
+
+#+begin_quote
+  * Celebrating 50 years of our journals program
+
+  [[https://mitpress.mit.edu/author/raldrich/][raldrich]] | [[https://mitpress.mit.edu/category/journals/][Journals]]
+
+  ** *The MIT Press journals program has been publishing groundbreaking scholarship across a wide variety of disciplines for five decades*
+
+  2022 marks the 50th anniversary of the creation of our journals division.  Established with the publication of the inaugural issues of /[[https://direct.mit.edu/ling][Linguistic Inquiry]]/ and /[[https://direct.mit.edu/jinh][Journal of Interdisciplinary History]]/—both of which are still actively publishing today—the MIT Press journals division remains dedicated to producing journals that push the edges of scholarship in both form and content.  In recent years, the Press has committed to growing our list of journals that publish open access; this fall we added the /[[https://direct.mit.edu/crcj][Journal of Climate Justice and Climate Resilience]]/ to our expanding collection of OA journals.
+#+end_quote

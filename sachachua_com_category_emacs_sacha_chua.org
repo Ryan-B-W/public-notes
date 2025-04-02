@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       e6d1cfe7-caaf-4677-8ff9-aaf39bf7f1a2
+:ROAM_REFS: https://sachachua.com/blog/category/emacs/page/2/
+:END:
+#+title: (sachachua.com) category - emacs :: Sacha Chua
+#+filetags: :lists:emacs:blogs:website:
+
+#+begin_quote
+  ** [[https://sachachua.com/blog/2025/03/reading-more-blogs-emacs-lisp-listing-blogs-based-on-an-opml-file/][Reading more blogs; Emacs Lisp: Listing blogs based on an OPML file]]
+
+  Mar 19, 2025| [[https://sachachua.com/blog/category/emacs][emacs]], [[https://sachachua.com/blog/category/blogging][blogging]]
+
+  Nudged by [[http://scripting.com/2025/03/15.html#a135901][Dave Winer's post about old-school bloggers]] and my now-nicely-synchronizing setup of [[https://netnewswire.com/][NetNewsWire (iOS)]] and [[https://freshrss.org/index.html][FreshRSS (web)]], I gave Claude AI [[https://daveverse.wordpress.com/2025/03/15/finding-old-school-bloggers-who-are-still-at-it/][this prompt to list bloggers]] (with the addition of "Please include URLs and short bios.") and had fun going through the list it produced.  A number of people were no longer blogging (unreachable sites or inactive blogs), but I found a few that I wanted to add to my feed reader.
+
+  Here is my [[https://sachachua.com/blog/2025/03/reading-more-blogs-emacs-lisp-listing-blogs-based-on-an-opml-file/people.opml][people.opml]] at the moment (slightly redacted, as I read my husband's blog as well).  This list has some non-old-school bloggers as well and some sketchnoters, but that's fine.  It's a very tiny slice of the awesomeness of the Internet out there, definitely not exhaustive, just a start.  I've been adding more by trawling through [[https://indieblog.page/all][indieblog.page]] and the occasional interesting post on [[https://news.ycombinator.com/][news.ycombinator.com]].
+
+  It makes sense to make an HTML version to make it easier for people to explore, like those old-fashioned blog rolls.  Ooh, maybe some kind of table like [[https://indieblog.page/][indieblog.page]], listing a recent item from each blog.  (I am totally not surprised about my tendency to self-[[https://en.wiktionary.org/wiki/nerd-snipe][nerd-snipe]] with some kind of Emacs thing.) This uses [[https://sachachua.com/dotemacs#web-parsing-rss-and-atom-feeds][my-opml-table and my-rss-get-entries]], which I have just added to my Emacs configuration.
+#+end_quote

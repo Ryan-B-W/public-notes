@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       3d81252d-5a62-4e9c-a6b7-d12b78404298
+:ROAM_REFS: https://bulletjournal.com/blogs/bulletjournalist/merging-digital-with-analog
+:END:
+#+title: (bulletjournal.com) Merging Digital with Analog - Bullet Journal
+#+filetags: :notes:bullet_journal:information_management:blog_post:website:
+
+#+begin_quote
+  * Merging Digital with Analog
+
+  - September 01, 2021
+  - 5 min read
+
+  If you asked me 6 months ago if I'd ever consider using a digital organization tool, I probably would have laughed in your face and told you that it would never happen.
+
+  Not in a million years.
+
+  However, over the past couple months I found myself surrounded by many life situations, such as my family adopting a digital calendar system to record all our events, including mini golf competitions (ahem, I mean friendly outings) and facetimes with relatives, which forced me to rely on digital tools for the first time.
+
+  Initially, I rejected the idea of integrating a digital calendar into my organization system and simply transferred all my family dates into the future log in my bullet journal.  But after a while I found the constant recopying to be redundant and draining, and I realized since I was already checking the calendar for family events, maybe I would try adding my own personal events too.
+
+  I ended up liking the iCalendar so much that after a couple weeks of testing it out I decided to figure out how to integrate it into my organization system along with my bullet journal.  A couple things about the iCal that made me decide to continue using included:
+
+  - How convenient it was to add events to the calendar and reschedule them when plans changed.  I felt like I was always able to see a clean, accurate timeline of all my weekly and monthly events even when I had to move things around.
+
+  - The ability to add, remove or modify events no matter where I was.  This made it really easy to add in any appointments I made when I wasn't at home since I could add them to my calendar using my phone.
+#+end_quote

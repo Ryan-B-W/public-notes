@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       68b697b3-2288-4738-b0e7-99a7350aa15d
+:ROAM_REFS: https://en.wikipedia.org/wiki/Compiler_correctness
+:END:
+#+title: (en.wikipedia.org) Compiler correctness - Wikipedia
+#+filetags: :compilers:programming:software_development:computer_science:website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Computing][computing]], *compiler correctness* is the branch of [[https://en.wikipedia.org/wiki/Computer_science][computer science]] that deals with trying to show that a [[https://en.wikipedia.org/wiki/Compiler][compiler]] behaves according to its [[https://en.wikipedia.org/wiki/Programming_language][language specification]].  Techniques include developing the compiler using [[https://en.wikipedia.org/wiki/Formal_methods][formal methods]] and using rigorous testing (often called compiler validation) on an existing compiler.
+#+end_quote

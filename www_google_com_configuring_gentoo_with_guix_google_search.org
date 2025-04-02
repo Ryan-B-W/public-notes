@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       0f8f2e51-9d50-4887-9128-a4276da1c508
+:ROAM_REFS: "https://www.google.com/search?q=configuring gentoo with guix"
+:END:
+#+title: (www.google.com) configuring gentoo with guix - Google Search
+#+filetags: :google:searches:website:
+
+Results:
+* [[id:82e5e45a-b185-4fcb-b1a4-94195fa9cff8][(forums.gentoo.org) Gentoo Forums :: View topic - What would be needed to make gentoo work like Guix/Nix ?]]
+* [[id:fba97723-f318-4027-a7c5-c6f58c29b290][(codingotaku.com) Switching to Gentoo - Coding Otaku]]

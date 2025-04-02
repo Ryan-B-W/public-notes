@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       02d68f7f-21f2-41a4-a423-1485ab37925e
+:ROAM_REFS: https://www.sciencedirect.com/topics/computer-science/robustness-principle
+:END:
+#+title: (www.sciencedirect.com) Robustness Principle - an overview | ScienceDirect Topics
+#+filetags: :lists:aphorism:computer_science:website:
+
+#+begin_quote
+  * Robustness Principle
+
+  In subject area: [[https://www.sciencedirect.com/topics/computer-science][Computer Science]]
+#+end_quote

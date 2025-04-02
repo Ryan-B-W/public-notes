@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       ce351a06-0e99-4c2c-a54b-6849049eb5d2
+:ROAM_REFS: https://jeffkreeftmeijer.com/org-unable-to-resolve-link/
+:END:
+#+title: (jeffkreeftmeijer.com) org-html-export-to-html: Unable to resolve link
+#+filetags: :emacs_lisp:www:notes:emacs:blog_post:website:
+
+#+begin_quote
+  * org-html-export-to-html: Unable to resolve link
+
+  By [[https://jeffkreeftmeijer.com/][Jeff Kreeftmeijer]] on 2023-02-28 (originally published on 2023-02-26)
+
+  When generating HTML from Org files that have ID-based links, sometimes =org-html-export-to-html= is unable to resolve links:
+
+  : Unable to resolve link: "16A4875E-F1B7-4DEE-940C-0E1EDF09B27B"
+
+  This happens because the file isn't loaded, so Org doesn't yet know about its existence.
+
+  To resolve this, use =org-roam-update-org-id-locations= over all files that are linked to from the file that's being exported.  For example, if all files are in the =~/notes= directory, run =org-id-update-id-locations= with a list of all org files in that directory [[https://jeffkreeftmeijer.com/emacs-find-files-recursively/][recursively]]:
+
+  #+begin_src elisp
+    (org-id-update-id-locations (directory-files-recursively "~/notes" "\.org$") )
+  #+end_src
+#+end_quote

@@ -1,0 +1,96 @@
+:PROPERTIES:
+:ID:       7b6d6724-d3b0-4fcd-800a-8f37a74feafa
+:ROAM_REFS: https://bulletjournal.com/pages/how-to-bullet-journal
+:END:
+#+title: (bulletjournal.com) How to Bullet Journal
+#+filetags: :notes:bullet_journal:information_management:blog_post:website:
+
+#+begin_quote
+  * Here's how to Bullet Journal
+
+  Before we get to the why and how, let's answer the what.
+
+  The [[https://bulletjournal.com/blogs/faq/what-is-the-bullet-journal-method][Bullet Journal method]] is a mindfulness practice that works like a productivity system.
+
+  There's Bullet Journal method the System and Bullet Journal method the Practice.  The System focuses on What you're doing, providing tools to capture and organize your thoughts.  The Practice focuses on [[https://bulletjournal.com/blogs/faq/why-should-i-bullet-journal][Why]] you're doing what you're doing, providing rituals to help you shed distractions and keep your actions aligned with your values.
+
+  ** What do I need to Bullet Journal?
+
+  A notebook and something to write with.  Bujo isn't about what notebook to use but how to use your notebook.  However, if you'd like a notebook tailored to practicing the method, you can check out [[https://bulletjournal.com/products/edition-2?variant=33052778692705][the Notebook]].
+
+  ** How does the Bullet Journal method work?
+
+  The Bullet Journal method is a constant process of refinement, reflection, and documentation.  As we Bujo, we become more aware of what we do and that makes us more aware of why we do it.  Then we can ask, do I need to keep doing it?  Is it important?  Is it necessary?  Does it improve my life?  And if not, how can I do less of it or none at all?
+
+  *** Rapid Logging
+
+  [[https://bulletjournal.com/blogs/faq/what-is-rapid-logging-understand-rapid-logging-bullets-and-signifiers][Rapid logging]] is a cornerstone of the Bullet Journal method.  It is the language in which the Bullet Journal method is written.  Rapid logging involves quickly jotting down information in a concise and structured manner with the use of Bullets.  These Bullets add context to an entry, letting you tell at a glance whether an entry is a task, event, or note.
+
+  When we Rapid Log, we write down the essential parts of information.  Instead of writing “I bought cake at the local bakery today and went home.”, we strip that information down to “Bought cake and went home.”  The short entries make it easier to keep up with your practice because you don't have to commit to writing journal/diary entries every day.  Their brevity also allows for us to record our thoughts and lives without falling into rumination.
+
+  *** Signifiers
+
+  Events are represented by an “*O*” Bullet.  Events are date-related entries that can either be scheduled (e.g. “Charlie's birthday”) or logged after they occur (e.g. “signed the lease”).
+
+  Tasks are represented by a simple dot “•” and include any kind of actionable items like “Pick up dry cleaning”.  The task bullet does a lot of heavy lifting in the Bullet Journal®so it has three additional states:
+
+  *X* = Task Complete
+
+  *>* = Task Migrated (A task that's been moved forward into the nextMonthly Log or a Collection)
+
+  *<* = Task Scheduled (A task that's been moved backward into the Future Log)
+
+  Notes are represented with a dash “*--*”.  Notes include: facts, ideas, thoughts, and observations.  Notes are entries that you want to remember but aren't immediately or necessarily actionable.
+
+  *** Collections
+
+  [[https://bulletjournal.com/blogs/faq/collections][Collections]] are...collections!  They're collections of information and events that you kept track of and want to find later.  You can create custom collections to track your interests and hobbies, but to get started, all you need is to set up your core collections.
+
+  [[https://cdn.shopify.com/s/files/1/0882/3478/files/INDEX_377e1757-91fe-4431-ac91-3bbf99282746_1024x1024.png?v=1709594771]]
+
+  *[[https://bulletjournal.com/blogs/faq/the-index][The Index]]* serves to help you easily find your entries.  Simply leave the first couple pages of your notebook blank and give them the topic of “Index.”  As you start to use your book, add the topics of your entries and their page numbers to the Index, so you can quickly find them later.
+
+  *[[https://cdn.shopify.com/s/files/1/0882/3478/files/1_1024x1024_594f676e-0a49-4de0-95b0-175efa47ca37_1024x1024.webp?v=1709082440]]*
+
+  [[https://bulletjournal.com/blogs/faq/how-to-make-a-future-log][*The Future Log*]] is an overview of your year.  Set up your Future Log by graphing the pages by the amount of months you'll need.  Two equally-spaced horizontal lines across facing pages creates a six-month calendar, for example.  Once your Bullet Journal is caught up to your first month in the Future Log simply move any items that you're not going to do into the next month.
+
+  *[[https://cdn.shopify.com/s/files/1/0882/3478/files/Daily_Logging_1_1024x1024_9a566abb-7bed-4258-9c2a-1e28f0f95099_1024x1024.webp?v=1709082485]]*
+
+  [[https://bulletjournal.com/blogs/faq/monthly-log][*The Monthly Log*]] is an overview of your month.  To set up your first Monthly Log, go to the next available spread of facing pages.  The left page will be your Calendar Page; the right will be your Task Page.
+
+  *[[https://cdn.shopify.com/s/files/1/0882/3478/files/Daily_Logging_1_2_1024x1024_2941692c-0ac3-4666-951c-f1f29f06dfab_1024x1024.webp?v=1709082523]]*
+
+  [[https://bulletjournal.com/blogs/faq/how-to-write-a-daily-log][*The Daily Log*]] is designed for day-to-day use.  At the top of the page, record the date as your topic.  Throughout the course of the day, simply Rapid Log your Tasks, Events, and Notes as they occur.
+
+  *** Refine and Reflect
+
+  We talked about moving entries around in your Bullet Journal in the previous section.  When we do this, it's called [[https://bulletjournal.com/blogs/faq/migration][*Migration*]].  Migration is more than just rewriting your to-dos, it's about taking time to ask what is important to keep.
+
+  Once you've hit your second month of journaling, take a glance at your previous entries.  See any unresolved Tasks?  “X” out your completed Tasks and assess whether the remaining open Tasks are still relevant.
+
+  If a Task has become irrelevant, strike out the whole line, starting from the center of Task Bullet itself.  If the Task still needs your attention, migrate it by turning the “•” into “>”.  This signifies that you've migrated that Task, then add it to the Task Page of your new Monthly Log or into a Collection.
+
+  If an entry isn't worth the effort to rewrite, then it's probably not that important.  Get rid of it.  The purpose of Migrating is to distill the things that are truly worth the effort, so we can become aware of our own patterns and habits, and to separate the signal from the noise.
+
+  ** Why do I need to Bullet Journal?
+
+  Why do/you/ need to Bullet Journal?  Let's start there.  What brought you to Bullet Journaling?  Just by asking that simple question, you can pin down one of the most important parts of Bullet Journaling: setting intentions.  Once you pin down your why, you can start mapping out how to get there.  Our whys are our lighthouses, guiding us to shore.  Learning to Bujo is just learning to sail there.
+
+  ** How do I keep Bullet Journaling?
+
+  Keep it on you.  Keep it with you.  Your practice is not your notebook, even though the two are very intertwined.  If you have a hard time remembering to Bujo, keep your notebook or a substitute nearby.  If it helps, remove resistance.  Keep your Bullet Journal open instead of leaving it closed neatly on your desk.  Small things like that.  Small things add up to big things, and in a few months you may notice that you've made a habit of refining and reflecting.
+
+  If not, well, there's no such thing as falling off the wagon.  It's only an opportunity to begin again, and armed with more knowledge of what doesn't work this time.
+
+  ** How can I learn more about Bullet Journaling?
+
+  Over the years, we've made tons of resources about Bullet Journaling.  There's a way to learn how to Bujo for everyone:
+
+  - [[https://www.youtube.com/@bulletjournal][*YouTube*]] is where we post our longform videos where Ryder talks about key ideas on how to Bujo and living intentionally.
+  - [[https://www.instagram.com/bulletjournal/][*Instagram*]] is where we post ideas for Bullet Journaling (like prompts and applications for the Method) as well as announcements for any public events you might want to join.
+  - *The Introduction* is a series of emails designed to help you learn how to Bullet Journal.  Free lessons.  Straight to your inbox.  Scroll up!  Hit the big yellow button to sign up.
+  - [[https://bulletjournal.com/blogs/newsletter][*The Weekly Log*]] is a newsletter sent every week, written by Ryder about his own thoughts during that week with helpful tips on how to reflect together.
+  - [[https://bulletjournal.com/pages/book][*The Book*]] is a The New York Times and international bestseller, that will teach you how to go from passenger to pilot of your own life.  Now available in over 28+ languages.
+  - [[https://bulletjournal.com/products/bullet-journal-basics-beyond][*The Course*]] is the Basics and Beyond of Bullet Journaling.  Constantly updated to reflect changes and innovations in the Bullet Journal method.  Featuring hours of detailed animated examples, visual guides, and prompts, it's everything you need to know to get started, or take your existing practice to the next level.
+  - [[https://bulletjournal.com/pages/community][*The Community*]] is a place to learn, share, play, and grow with other Bullet Journalists from around the world.  Exclusive content for members and live experiences hosted by Ryder and the Bullet Journal team.
+#+end_quote

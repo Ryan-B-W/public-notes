@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       f683a4e5-48b3-4ba5-873b-8901f94af0e5
+:ROAM_REFS: https://learn.microsoft.com/en-us/cpp/c-runtime-library/reference/scanf-scanf-l-wscanf-wscanf-l
+:END:
+#+title: (learn.microsoft.com) scanf, _scanf_l, wscanf, _wscanf_l | Microsoft Learn
+#+filetags: :microsoft:c_lang:documentation:website:

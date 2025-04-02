@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       542d0948-f4c0-420b-a34c-1c59fa3fcf9e
+:ROAM_REFS: https://www.americanretailsupply.com/loss-prevention/eas-labels-tags/eas-tags.html
+:END:
+#+title: (www.americanretailsupply.com) EAS Tags | EAS Security Systems - American Retail Supply
+#+filetags: :hardware:electronics:inventory_management:security:store:website:
+
+#+begin_quote
+  ** Checkpoint Genuine Soft and Hard EAS Tags
+
+  One of the largest independent 3rd party consulting firms in the world, PricewaterhouseCoopers, conducted an independent test on how effective EAS Systems really are.  They found that EAS (Electronic Article Surveillance) Systems reduced shoplifting by 69.79%, that's more than half of shoplifting being prevented or caught!  EAS tags, such as soft and hard tags, can supply your company with a wide range of security options.
+
+  ** Soft Tags
+
+  Checkpoint Genuine 8.2MHz RF (Radio Frequency) Soft EAS Tags are small and come in a wide range of sizes and shapes, from large to small and from square to rectangle.  Checkpoint Genuine RF Soft Tags are great for shoes, electronics and small souvenirs.  The Soft Tag may look different on the outside, depending on the type of label you are looking for, but on the back side of the label is where the magic happens.  Partnered with your Checkpoint Genuine EAS Antennas, the Checkpoint Genuine Labels have RF wires on the adhesive side of the label; that way, when not properly deactivated, the label will send a message to the EAS Antennas and sound the alarm warning you of a shoplifter.  Along with size and shape difference the Checkpoint Genuine Labels have 2 different choices for adhesives, aggressive and nonaggressive.  Aggressive labels stick and either cannot be removed or hard to remove.  Aggressive adhesive labels are great for jewelry, shoes, and electronics, preventing would be thieves from removing the labels.  Nonaggressive adhesives are perfect for small souvenirs and other items you don't want ruined from the adhesive and allow you're paying customers to remove after purchase.  Soft tags are easy to deactivate, using an EAS RF Deactivator, for more information on EAS RF Deactivators contact a Product Expert today at 1-800-426-5708.
+
+  ** Hard Tags
+
+  Checkpoint Genuine 8.2MHz RF Hard EAS Tags are small but mighty.  Hard tags like the Gen 3 come in two separate pieces, the hard tag and the pin.  These are great for apparel stores and shoe stores.  The Checkpoint Genuine Hard Tags are reusable, you can also purchase single-use tags “here”, and if the pin gets lost or broken you can purchase new ones without replacing the tag.  To use the Checkpoint Genuine Hard EAS tags, just place on any article of clothing or shoe and click the pin into place.  If properly placed and removed with the Checkpoint RF Detacher the hard tag pins will not damage or destroy fabric.  For more information on RF Detacher speak with a Product Expert at 1-800-426-5708 today!
+#+end_quote

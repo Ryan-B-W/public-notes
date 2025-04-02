@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       1b509655-6ce5-4941-b188-c22f6794e98a
+:ROAM_REFS: https://www.it-cisq.org/wp-content/uploads/sites/6/2022/11/CPSQ-Report-Nov-22-2.pdf
+:END:
+#+title: (www.it-cisq.org) CPSQ-Report-Nov-22-2.pdf
+#+filetags: :economics:programming:software_development:article:mime_type_application_pdf:website:
+
+#+begin_quote
+  CISQ Consortium for Information & Software Quality, The Cost of Poor Software Quality in the US: A 2022 Report
+#+end_quote

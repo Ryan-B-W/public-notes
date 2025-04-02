@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       73321946-f467-40f7-9109-d5b0d834ec50
+:ROAM_REFS: https://github.com/marketplace/actions/org-knit
+:END:
+#+title: (github.com) Org Knit · Actions · GitHub Marketplace
+#+filetags: :www:emacs:website:
+
+#+begin_quote
+  * Org knit
+
+  Let someone else take care of keeping up to date tangled/woven versions of your Org files for public consumption.
+
+  #+begin_src yaml
+    - name: Export org files
+      uses: tecosaur/org-knit-action@v0.3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+  #+end_src
+#+end_quote

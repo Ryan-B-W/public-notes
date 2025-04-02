@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       e6aa59eb-3d48-4344-aa5e-e06a86a4c864
+:ROAM_REFS: https://open.online.uga.edu/critical-contemporary-education/chapter/chapter-14-post-world-war-ii/
+:END:
+#+title: (open.online.uga.edu) Chapter 14: Post World War II – Investigating Critical and Contemporary Issues in Education
+#+filetags: :textbooks:education:history:books:website:
+
+#+begin_quote
+  * 14 Chapter 14: Post World War II
+
+  This chapter introduces students to the post-World War II period with special emphasis on /Brown v. Board of Education/ and the subsequent resistance to Brown in southern states.  Institutional forms of discrimination are explained and why the Supreme Court's overturning /Plessy v. Ferguson/ (and /Cumming v. Richmond/) was so significant during the Civil Rights Movement.  The resistance to Brown and various southern strategies to circumvent the decision are, including information on Little Rock, Arkansas and the deployment of federal troops is included.  Moreover, a focus is given to the federal role in school funding, particularly the National Defense Education Act of 1958, which was signed into law during President Dwight Eisenhower's administration, as well as the Elementary and Secondary Education Act of 1965 as part of Lyndon Johnson's broader War on Poverty are included.  Title VI of the 1964 Civil Rights Act as a means to enforce desegregation is discussed, and the conflict over school busing is highlighted.  Related to conflicts over school busing plans, the following Supreme Court decisions are included in order to focus on the Court's changing rationales toward busing: /Swann v. Charlotte-Mecklenburg Board of Education/, /Milliken v. Bradley/, and /Meredith v. Jefferson County Public Schools/.  President Richard Nixon's Compromise is included, and the effects of the Cold War and McCarthyism on schools and curricula are highlighted as well.
+#+end_quote

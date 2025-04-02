@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       8f62bed8-fdd1-4168-b00b-577157f1e389
+:ROAM_REFS: https://mitpress.mit.edu/celebrating-60-years-mit-press-our-greatest-hits/
+:END:
+#+title: (mitpress.mit.edu) The 60th anniversary of the MIT Press: Our greatest hits
+#+filetags: :blog_post:website:
+
+#+begin_quote
+  * Celebrating 60 years of the MIT Press: Our greatest hits
+
+  [[https://mitpress.mit.edu/author/raldrich/][raldrich]] | [[https://mitpress.mit.edu/category/60th-anniversary/][60th Anniversary]]
+
+  ** *Highlights from six decades of illuminating publishing*
+
+  The MIT Press celebrates its 60th anniversary this year.  The Press was formally established in 1962—and since then, it has provided a unique lens on the interplay among science, design, technology, and culture, to accelerate social progress and promote human understanding.  Interdisciplinary and innovative, pushing boundaries in every direction, it is one of the world's largest and most distinguished university presses operating today, with a list unparalleled in breadth, depth, and diversity.  Its books, journals, and digital products are relentlessly forward-thinking and have helped shape emerging fields of inquiry.
+
+  Read on to explore just a few of these groundbreaking moments in our publishing history, and [[https://share.hsforms.com/1POg3Y5A9QgKgp8JynSxViQ4ne1r?__hstc=205621196.287f8747b56257bff32662bd554ab8e0.1640964236609.1655219869987.1655234041658.479&__hssc=205621196.3.1655234041658&__hsfp=1155653245][sign up for our newsletter to hear more about our 60th anniversary celebrations.]]
+#+end_quote

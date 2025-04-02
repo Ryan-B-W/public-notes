@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       8f0c0234-f0d3-49aa-a5f2-13e4c278736f
+:ROAM_REFS: https://wiki.c2.com/?PrematureOptimization
+:END:
+#+title: (wiki.c2.com) Premature Optimization
+#+filetags: :aphorism:software_optimization:software_development:computer_science:website:
+
+#+begin_quote
+  * Premature Optimization
+
+  /Premature optimization is the root of all evil/ – [[https://wiki.c2.com/?DonaldKnuth][DonaldKnuth]]
+
+  In [[https://wiki.c2.com/?DonaldKnuth][DonaldKnuth]]'s paper "[[https://wiki.c2.com/?StructuredProgrammingWithGoToStatements][StructuredProgrammingWithGoToStatements]]", he wrote: "Programmers waste enormous amounts of time thinking about, or worrying about, the speed of noncritical parts of their programs, and these attempts at efficiency actually have a strong negative impact when debugging and maintenance are considered.  We /should/ forget about small efficiencies, say about 97% of the time: *premature optimization is the root of all evil.*  Yet we should not pass up our opportunities in that critical 3%."
+
+  --------------
+
+  *However*, [[https://wiki.c2.com/?PrematureOptimization][PrematureOptimization]] can be defined (in less loaded terms) as optimizing before we know that we need to.
+
+  Optimizing up front is often regarded as breaking [[https://wiki.c2.com/?YouArentGonnaNeedIt][YouArentGonnaNeedIt]] (YAGNI). But by the time we decide that we need to optimize, we might be too close to [[https://wiki.c2.com/?UniformlySlowCode][UniformlySlowCode]] to [[https://wiki.c2.com/?OptimizeLater][OptimizeLater]].  We can use [[https://wiki.c2.com/?PrematureOptimization][PrematureOptimization]] as a [[https://wiki.c2.com/?RiskMitigation][RiskMitigation]] strategy to push back the point of [[https://wiki.c2.com/?UniformlySlowCode][UniformlySlowCode]], and lower our exposure to the risk of [[https://wiki.c2.com/?UniformlySlowCode][UniformlySlowCode]] preventing us from reaching our performance target with [[https://wiki.c2.com/?OptimizeLater][OptimizeLater]].
+
+  For those who don't work to strict memory or CPU cycle limits, [[https://wiki.c2.com/?PrematureOptimization][PrematureOptimization]] is an [[https://wiki.c2.com/?AntiPattern][AntiPattern]], since there is only cost and no benefit.  For those who do, it is often confused with poor coding, or with misguided attempts at writing optimal code.
+
+  A common misconception is that optimized code is necessarily more complicated, and that therefore optimization always represents a trade-off.  However, in practice, better factored code often runs faster and uses less memory as well.  In this regard, optimization is closely related to refactoring, since in both cases we are paying into the code so that we may draw back out again later if we need to.  We don't (yet) have PrematureRefactoring regarded as [[https://wiki.c2.com/?CategoryEvil][CategoryEvil]].
+
+  Another common misconception is that any level of execution speed, or resource usage, can be achieved once the code is complete.  There are both practical and physical limits given any target platform.  [[https://wiki.c2.com/?PrematureOptimization][PrematureOptimization]] is not a solution to this, but it can help us [[https://wiki.c2.com/?DesignForPerformance][DesignForPerformance]].  When working in an environment where resources are less limited, this is unlikely to be a problem.
+#+end_quote

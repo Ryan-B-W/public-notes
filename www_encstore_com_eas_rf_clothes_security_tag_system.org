@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ID:       c8d9e845-3177-48b6-891c-c620de7ca35b
+:ROAM_REFS: https://www.encstore.com/eas-rf-clothes-security-tag-system-enc5597
+:END:
+#+title: (www.encstore.com) EAS RF Clothes Security Tag System
+#+filetags: :logistics:hardware:electronics:inventory_management:security:store:website:
+
+#+begin_quote
+  * EAS Clothes Security Tag System
+
+  ** RF Aluminum EAS Gate, Easy to install and use, Multi-Tag Detection, 8.2Mhz RF Frequency, Durable and lightweight, Suitable for Shopping Malls
+
+  ****** Features
+
+  Material:  Aluminum
+
+  Type:      EAS
+
+  Frequency: 58kHz
+
+  Dimension: 1525mm(H) x 400mm(W) x 35mm(T)
+
+  Input:     110-220V AC,50-60Hz
+
+  EAS Clothes Security Tag Systems are used in retail stores to help deter shoplifting by setting off an alarm when merchandise with a security tag attached is taken from the store without being properly deactivated or removed.  Eas security tags are typically applied to clothing items and other expensive merchandise.  They are designed to be difficult to remove and are activated by an electronic security gate at the store entrance.  If a customer attempts to leave the store with a tagged item without deactivating it, the alarm will sound, alerting store personnel to the theft attempt.
+
+  ***** Specifications
+
+  Material:          Aluminum
+
+  Type:              EAS
+
+  Frequency:         58kHz
+
+  Dimension:         1525mm(H) x 400mm(W) x 35mm(T)
+
+  Input:             110-220V AC,50-60Hz
+
+  Power:             60W
+
+  Country of Origin: Made in India
+
+  Detection Range:   0.6m - 4 m(according to the label/tag you use)
+#+end_quote

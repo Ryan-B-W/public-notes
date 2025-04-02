@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       2d51470c-0d78-4e3e-ad38-161707c21b99
+:ROAM_REFS: https://github.com/org-roam/org-roam/issues/1917
+:END:
+#+title: (github.com) local `org-roam-db-location` not honored when running `org-roam-db-sync` · Issue #1917 · org-roam/org-roam
+#+filetags: :notes:emacs:vcs_forge_issues:website:

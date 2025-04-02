@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       afe8f775-19b6-40ba-9d9e-54691b27a597
+:ROAM_REFS: https://www.cloudcomputing-news.net/news/glitch-economy-counting-cost-software-failures/
+:END:
+#+title: (www.cloudcomputing-news.net) The glitch economy: Counting the cost of software failures
+#+filetags: :economics:programming:software_development:article:news:website:
+
+#+begin_quote
+  * [[https://www.cloudcomputing-news.net/news/glitch-economy-counting-cost-software-failures/][The glitch economy: Counting the cost of software failures]]
+
+  [[https://www.cloudcomputing-news.net/news/author/daliborsiroky/][Dalibor Siroky]]
+
+  30th October 2017
+
+  In today's increasingly digitalised world, the effect of a software glitch can be dramatic.  Take an example from July this year when a glitch caused the stock prices of well-known Nasdaq companies such as Amazon, Apple, Alphabet, eBay and Microsoft to be inaccurately listed on websites well after that day's closing bell.
+
+  Even though the actual prices of the stocks were unchanged, the sites showed some had plummeted in price and others had nearly doubled.  Unsurprisingly, many people were fooled and took to social media to discuss the false listings, dragging company names into a controversy over something that had never happened.
+
+  Software glitches happen every day.  Recent research by Tricentis revealed that software failures in the US cost the economy $1.1 trillion in assets in 2016.  In total, software failures at 363 companies affected 4.4 billion customers and caused more than three and a half years of lost time.
+#+end_quote

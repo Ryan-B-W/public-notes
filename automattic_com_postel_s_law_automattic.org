@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       a0ed7c7c-6f95-4b8a-a401-1309db4081ce
+:ROAM_REFS: https://automattic.com/postels-law/
+:END:
+#+title: (automattic.com) Postel’s Law – Automattic
+#+filetags: :aphorism:software_development:computer_science:website:
+
+#+begin_quote
+  ** Postel's Law
+
+  In January of 1980, four years before our founder was even born, [[https://tools.ietf.org/html/rfc761][Jon Postel wrote]]:
+
+  : TCP implementations should follow a general principle of robustness: be conservative in what you do, be liberal in what you accept from others.
+
+  This has been generalized and called the [[https://en.wikipedia.org/wiki/Robustness_principle][robustness principle]].
+
+  It was written in the context of a very specific technical implementation, but oh my goodness does it apply to all other parts of life.
+
+  In a distributed organization it is especially easy to misinterpret, misread, or misunderstand what a colleague says.  Most of our communication is via text, and you don't have the luxury of hearing someone's tone of voice, seeing their face, or maybe even having met them in person before.
+
+  Even when we're on video chat, Automatticians span [[https://automattic.com/map/][90]] [[https://automattic.com/map/][countries]] so the incredibly diverse set of circumstances we grew up in, live in, and speak as our first language means that it's easy to take what someone said the wrong way.
+
+  We should never try to [[https://automattic.com/creed/communication-is-oxygen/][communicate]] poorly, and brilliant jerks aren't worth it, but we should always strive to practice [[https://edition.cnn.com/2014/12/30/opinion/liu-radical-empathy-michael-schwerner/index.html][radical empathy]] for others' words — we can't control what was said, but we are in complete control of our [[https://www.itstactical.com/intellicom/mindset/mastering-your-reaction-how-stoicism-can-put-you-in-the-drivers-seat-of-life/][reaction to it]].  Hopefully the empathy we show toward another will someday be repaid when we speak shortly (for whatever reason) and someone guides us back to communicating in an empathetic way.
+#+end_quote

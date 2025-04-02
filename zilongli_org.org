@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       70fefbab-2cef-48d6-9947-20ba8c2ccd1a
+:ROAM_REFS: https://zilongli.org/posts/tufte-style-html-by-org/
+:END:
+#+title: (zilongli.org) Write, code and publish with Emacs Org Mode
+#+filetags: :information_management:notes:emacs:blog_post:website:
+
+#+begin_quote
+  * Write, code and publish with Emacs Org Mode
+
+  Posted on 2024-05-06 by /Zilong Li/
+
+  This page serves as an example of [[https://github.com/Zilong-Li/org-tufte][org-tufte]], which is exported by a simple [[https://zilongli.org/code/org-tufte-example][org]] file.
+#+end_quote

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       69200dea-6842-4f08-adde-620c6518ce44
+:ROAM_REFS: https://commonplace.doubleloop.net/how-i-publish-my-wiki-with-org-publish
+:END:
+#+title: (commonplace.doubleloop.net) How I publish my digital garden to the web with org-publish
+#+filetags: :emacs:www:information_management:notes:blog_post:website:
+
+#+begin_quote
+  * How I publish my digital garden to the web with org-publish
+
+  planted: 21/08/2020last tended: 16/04/2024
+
+  I maintain a [[https://commonplace.doubleloop.net/digital-garden.html#ID-92f8694f-8482-4541-9e6f-8ce03f59e01f][digital garden]].  (You're reading it now!) I write it all in Emacs with [[https://commonplace.doubleloop.net/org-roam.html#ID-20210326T232003.148801][org-roam]], and I publish it to the web at [[https://commonplace.doubleloop.net/][https://commonplace.doubleloop.net]].
+
+  I use [[https://commonplace.doubleloop.net/20200312231237-org_mode.html#ID-926ab200-dfcb-4eaa-9bc2-8e9bfb47da03][org-mode]]'s built-in [[https://commonplace.doubleloop.net/20200323224605-org_publish.html#ID-bc94cd9c-f9f6-4029-a351-71d4f415af70][org-publish]] functionality to render my garden to a set of static HTML files, along with a bit of CSS and JavaScript.
+
+  This page is a description of I configure and run org-publish on my org-roam files to get them up on my public site.  You might also like to read this page alongside [[https://commonplace.doubleloop.net/my-publish-el-configuration.html#ID-7ef89a55-d4fd-42fa-a38a-6eca6f04d6d0][My publish.el configuration]], which contains the source code in my publish.el file.
+#+end_quote

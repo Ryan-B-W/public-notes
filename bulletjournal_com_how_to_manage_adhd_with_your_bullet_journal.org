@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       f3767308-feea-4e25-892f-5ab2a7e1b398
+:ROAM_REFS: https://bulletjournal.com/blogs/faq/bullet-journal-for-adhd-tips-on-managing-adhd-with-your-bullet-journal
+:END:
+#+title: (bulletjournal.com) How to Manage ADHD with Your Bullet Journal
+#+filetags: :bullet_journal:notes:information_management:blog_post:website:
+
+#+begin_quote
+  * How to Manage ADHD with Your Bullet Journal
+
+  - August 29, 2023
+  - 3 min read
+
+  The [[https://bulletjournal.com/blogs/faq/what-is-the-bullet-journal-method][Bullet Journal method]] is a great [[https://bulletjournal.com/blogs/faq/why-should-i-bullet-journal][tool for helping people]] with ADHD (attention deficit hyperactivity disorder) tame mental chaos, get organized, and set goals.
+
+  Bullet Journal creator Ryder Carroll initially created the Bullet Journal method to help him navigate life with his own ADHD, making the Bullet Journal method good for managing ADHD symptoms.
+#+end_quote

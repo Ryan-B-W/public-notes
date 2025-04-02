@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       735ab813-a18e-4418-b36c-fcb45811d2d2
+:ROAM_REFS: https://cmdln.org/2023/03/25/how-i-org-in-2023/
+:END:
+#+title: (cmdln.org) How I org in 2023 ·
+#+filetags: :information_management:www:emacs:notes:blog_post:website:
+
+#+begin_quote
+  * How I org in 2023
+
+  2023-03-25
+
+  I've been pretty much living in =org-mode= for 6 or 7 years now.  It's my exocortex, second brain, second mind, mind palace, pensive, and personal knowledge management system.  The features and tools I use as well as how I organize my files has changed quite a bit over this period of time and I thought it would be nice give myself (and anyone else who cares) a reference of what it was like in 2023 so here it is.
+#+end_quote

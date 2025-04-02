@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       006cdaf7-85b7-43b4-96fb-77e07d0f2a28
+:ROAM_REFS: https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-209.pdf
+:END:
+#+title: (nvlpubs.nist.gov) Software error analysis - nistspecialpublication500-209.pdf
+#+filetags: :security:programming:science_paper:software_development:computer_science:books:mime_type_application_pdf:website:
+
+#+begin_quote
+  * NIST Special Publication 500-209: Software Error Analysis
+
+  Wendy W. Peng\\
+  Dolores R. Wallace
+
+  Systems and Software Technology Division\\
+  Computer Systems Laboratory\\
+  National Institute of Standards and Technology\\
+  Gaithersburg, MD 20899
+
+  April 1993
+
+  ** ABSTRACT
+
+  This document provides guidance on software error analysis.  Software error analysis includes error detection, analysis, and resolution.  Error detection techniques considered in the study are those used in software development, software quality assurance, and software verification, validation and testing activities.  These techniques are those frequendy cited in technical literature and software engineering standards or those representing new approaches to support error detection.  The study includes stadstical process control techniques and rslates them to their use as a software quality assurance technique for both product and process improvement.  Finally, the report describes several software reliability models.
+
+  ** KEYWORDS
+
+  Data Collection; Error Detection; Error Removal; High Integrity Software; Metrics; Software Error Analysis; Software Quality Assurance; Software Verification and Validation; Statistical Process Control
+#+end_quote

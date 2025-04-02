@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       b8a6984c-2312-4a22-92e1-8e743d894f04
+:ROAM_REFS: https://devopedia.org/postel-s-law
+:END:
+#+title: (devopedia.org) Postel's Law
+#+filetags: :aphorism:hci:software_development:computer_science:website:
+
+#+begin_quote
+  * Postel's Law
+
+  Postel's Law was formulated by Jon Postel, an early pioneer of the Internet.  The Law was really a guideline for creators of software protocols.  Computers used protocols to communicate with one another on the Internet.  The idea was that different implementations of the protocol should interoperate.  The law is today paraphrased as follows:
+
+  : Be liberal in what you accept, and conservative in what you send.
+
+  Although first stated with reference to TCP/IP, the Law has been applied in other areas, from the parsing of HTML to the acceptance of user inputs.  The growth and success of the Internet has been attributed in part to this Law.  However, its use in modern systems has been questioned.  It's been suggested that following the Law is harmful from the perspective of maintainability, compatibility and security.
+
+  Postel's Law is also known as the /Robustness Principle/.
+#+end_quote

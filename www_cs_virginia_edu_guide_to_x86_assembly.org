@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4dc0eebb-866c-42d1-8d5d-f1d5b666ca08
+:ROAM_REFS: https://www.cs.virginia.edu/~evans/cs216/guides/x86.html
+:END:
+#+title: (www.cs.virginia.edu) Guide to x86 Assembly
+#+filetags: :programming_language:programming:x86:assembly_lang:documentation:website:
+
+#+begin_quote
+  * x86 Assembly Guide
+
+  *Contents:* [[https://www.cs.virginia.edu/~evans/cs216/guides/x86.html#registers][Registers]] | [[https://www.cs.virginia.edu/~evans/cs216/guides/x86.html#memory][Memory and Addressing]] | [[https://www.cs.virginia.edu/~evans/cs216/guides/x86.html#instructions][Instructions]] | [[https://www.cs.virginia.edu/~evans/cs216/guides/x86.html#calling][Calling Convention]]
+
+  This guide describes the basics of 32-bit x86 assembly language programming, covering a small but useful subset of the available instructions and assembler directives.  There are several different assembly languages for generating x86 machine code.  The one we will use in CS216 is the Microsoft Macro Assembler (MASM) assembler.  MASM uses the standard Intel syntax for writing x86 assembly code.
+
+  The full x86 instruction set is large and complex (Intel's x86 instruction set manuals comprise over 2900 pages), and we do not cover it all in this guide.  For example, there is a 16-bit subset of the x86 instruction set.  Using the 16-bit programming model can be quite complex.  It has a segmented memory model, more restrictions on register usage, and so on.  In this guide, we will limit our attention to more modern aspects of x86 programming, and delve into the instruction set only in enough detail to get a basic feel for x86 programming.
+
+  *** Resources
+
+  - [[https://www.cs.virginia.edu/~evans/cs216/guides/vsasm.html][Guide to Using Assembly in Visual Studio]] — a tutorial on building and debugging assembly code in Visual Studio
+  - [[http://www.felixcloutier.com/x86/][Intel x86 Instruction Set Reference]]
+  - [[http://www.intel.com/content/www/us/en/processors/architectures-software-developer-manuals.html][Intel's Pentium Manuals]] (the full gory details)
+#+end_quote

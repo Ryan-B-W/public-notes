@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       5971c7c1-0584-463e-823c-ba756a2101a6
+:ROAM_REFS: https://doubleloop.net/2020/08/21/how-publish-org-roam-wiki-org-publish/
+:END:
+#+title: (doubleloop.net) How I publish my org-roam wiki with org-publish - doubleloop
+#+filetags: :emacs:information_management:www:notes:blog_post:website:
+
+#+begin_quote
+  *NOTE: see [[https://commonplace.doubleloop.net/how-i-publish-my-wiki-with-org-publish]] for a more up-to-date version of this post.*
+
+  --------------
+
+  I keep my [[https://commonplace.doubleloop.net/20200523164533-hyper_commonplace_garden_wiki.html][hyper commonplace garden wiki]] at [[https://commonplace.doubleloop.net/][https://commonplace.doubleloop.net]]. I use [[https://commonplace.doubleloop.net/20200308222205-org_roam.html][org-roam]] to maintain my wiki locally, and I use [[https://commonplace.doubleloop.net/20200323224605-org_publish.html][org-publish]] to render my wiki as a site of static html files. This article is specifically to describe how I use org-publish on my org-roam files to get them up on my public site.
+
+  (Note: this is a snapshot in time, and I update the publish process fairly regularly -- you can always check on the wiki for the [[https://commonplace.doubleloop.net/20200821142536-how_i_publish_my_wiki_with_org_publish.html][latest version]] of this)
+#+end_quote
+* [[id:e892977d-1e31-4550-9ab2-19f17dc4148e][(commonplace.doubleloop.net) publish.el]]
+* [[id:5971c7c1-0584-463e-823c-ba756a2101a6][(doubleloop.net) How I publish my org-roam wiki with org-publish - doubleloop]]

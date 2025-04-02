@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       ed25e0b7-aa6f-4a68-bfe8-c8933b0edf98
+:ROAM_REFS: https://www.sensormatic.com/
+:END:
+#+title: (www.sensormatic.com) Retail Technology Solutions - Sensormatic
+#+filetags: :inventory_management:logistics:store:hardware:electronics:security:website:

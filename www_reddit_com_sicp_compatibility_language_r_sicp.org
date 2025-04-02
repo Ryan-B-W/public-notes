@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ID:       8c6bf239-dfc9-4aa8-b49e-96632d55f6c5
+:ROAM_REFS: https://www.reddit.com/r/sicp/comments/mf0j95/sicp_compatibility_language/
+:END:
+#+title: (www.reddit.com) SICP compatibility language : r/sicp
+#+filetags: :scheme:lisp:forums:website:
+
+#+begin_quote
+  [[https://www.reddit.com/r/sicp/][r/sicp]]
+
+  - 4 yr. ago
+
+  [[https://www.reddit.com/user/sdegabrielle/][sdegabrielle]]
+
+  * SICP compatibility language
+
+  The best way to learn from SICP(or anything) is to do the exercises, and a great way to do the exercises in SICP with the minimum of distractions is to use the version of Scheme used by the book.  The SICP compatibility language is one of the best ways to do this: [[https://docs.racket-lang.org/sicp-manual/]]
+
+  From the manual:
+
+  : “The programs in the book (SICP) are written in (a subset of) the programming language Scheme.  As the years have passed the programming language Scheme has evolved.  The language #lang sicp provides you with a version of R5RS (the fifth revision of Scheme) changed slightly in order for programs in SICP to run as is.”  - [[https://docs.racket-lang.org/sicp-manual]]
+
+  To use the =SICP= language:
+
+  1. install Racket at [[https://racket-lang.org/][https://racket-lang.org]]
+
+  2. Install the =SICP= package [[https://docs.racket-lang.org/sicp-manual/Installation.html]]
+
+  3. use =#lang sicp= as the first line of your program.
+
+  **Included: the picture language used in SICP. **
+
+  (You can also use Racket libraries)
+
+  If you run into problems don't be afraid to ask questions on the [[https://racket-slack.herokuapp.com/][Racket Slack]] or [[https://groups.google.com/forum/#!forum/racket-users/join][Racket Users mailing list]].  New learners are always welcome.  (Many Racket users are also Emacs Lisp, Clojure, Common Lisp and Scheme users.)
+
+  Editor/IDE: You can use the SICP compatibility language with your preferred editor.
+
+  - It is good to use an editor with Racket or Scheme support - see: [[https://docs.racket-lang.org/guide/other-editors.html]] and [[https://github.com/racket/racket/wiki/IDE's-and-text-editors]]
+
+  - I like DrRacket(included in the Racket install)
+
+  - Racket Mode for Emacs is highly recommended: [[https://www.racket-mode.com/]]
+#+end_quote

@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       c0297da3-c429-4305-b631-16b154f63036
+:ROAM_REFS: https://www.geeksforgeeks.org/what-is-context-free-grammar/
+:END:
+#+title: (www.geeksforgeeks.org) What is Context-Free Grammar? | GeeksforGeeks
+#+filetags: :mathematics:computer_science:website:
+
+#+begin_quote
+  * What is Context-Free Grammar?
+
+  Last Updated : 12 Feb, 2025
+
+  A **context-free grammar (CFG)** is a formal system used to describe a class of languages known as **context-free languages (CFLs)**. purpose of context-free grammar is:
+
+  - To list all strings in a language using a set of rules (production rules).
+  - It extends the capabilities of regular expressions and finite automata.
+
+  A grammar is said to be the Context-free grammar if every production is in the form of:
+
+  : G -> (V∪T)*, where G ∊ V
+  :
+  : **V (Variables/Non-terminals):** These are symbols that can be replaced using production rules.  They help in defining the structure of the grammar.  Typically, non-terminals are represented by uppercase letters (e.g., S, A, B).
+  :
+  : **T (Terminals):** These are symbols that appear in the final strings of the language and cannot be replaced further.  They are usually represented by lowercase letters (e.g., a, b, c) or specific symbols.
+  :
+  : The left-hand side can only be a Variable, it cannot be a terminal.
+  :
+  : But on the right-hand side here it can be a Variable or Terminal or both combination of Variable and Terminal.
+
+  The above equation states that every production which contains any combination of the ‘V' variable or ‘T' terminal is said to be a context-free grammar.
+
+  ** **Core Concepts of CFGs**
+
+  A CFG is defined by:
+
+  1. **Nonterminal symbols (variables):** Represent abstract categories or placeholders (e.g., E,SE, SE,S).
+  2. **Terminal symbols (alphabet):** The actual characters or tokens in the language (e.g., a,b,+,∗,(,)a, b, +, *, (, )a,b,+,∗,(,)).
+  3. **Production rules:** Specify how nonterminals can be replaced with other nonterminals or terminals (e.g., E→E+EE → E + EE→E+E).
+  4. **Start symbol:** A special nonterminal from which derivations begin.
+#+end_quote

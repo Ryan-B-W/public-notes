@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       16a93679-30e4-49a4-a559-292dc335864e
+:ROAM_REFS: https://mitpress.mit.edu/celebrating-60-years-of-the-mit-press-our-all-time-favorites/
+:END:
+#+title: (mitpress.mit.edu) Our all-time favorite MIT Press books to celebrate our 60th anniversary
+#+filetags: :blog_post:website:
+
+#+begin_quote
+  * Celebrating 60 years of the MIT Press: Our all-time favorites
+
+  [[https://mitpress.mit.edu/author/raldrich/][raldrich]] | [[https://mitpress.mit.edu/category/60th-anniversary/][60th Anniversary]]
+
+  ** *We've been publishing books for 60 years.  But what titles do Press staff count among their favorites?*
+
+  This month we close the chapter on our 60th anniversary celebrations.  Throughout 2022 we have marked our anniversary with [[https://mitpress.mit.edu/blog/celebrating-60-years-of-the-mit-press-our-favorite-book-covers-from-the-60s/][retrospectives on our shared history]], [[https://mitpress.mit.edu/blog/celebrating-60-years-of-the-mit-press-and-celebrating-togetherness/][parties and events]], and [[https://mitpress.mit.edu/blog/our-60th-anniversary-interview-series-conversation-terry-ehling-director-strategic-initiatives/][great conversation]]; and to tie up the festivities, we asked our staff members to share their all-time favorite Press books.  Anything was fair game, from 1962 to present day.
+
+  With over 100 individuals on the Press's staff, our personal favorites were bound to be eclectic—and the selections below run the gamut from [[https://mitpress.mit.edu/9780262533492/why-only-us/][tomes on language by Noam Chomsky]] to [[https://mitpress.mit.edu/9780262539616/fire-ice-and-physics/][/Game of Thrones/ lore]].  Whittling down our favorite Press books highlighted not only the diverse subject matter of our publishing program, but also the vast areas of interest and expertise of our colleagues.  What better way could there be to celebrate 60 years of publishing illuminating scholarship together?
+
+  Read on to discover some of our staff-beloved books from our first 60 years, or [[https://happy60.mitpress.mit.edu/][explore our 60th anniversary website to read well-wishes from friends and supporters of the Press]].
+#+end_quote

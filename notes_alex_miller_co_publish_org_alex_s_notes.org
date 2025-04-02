@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       04264f58-006e-476e-9521-20f6dc2171d3
+:ROAM_REFS: https://notes.alex-miller.co/publish/
+:END:
+#+title: (notes.alex-miller.co) publish.org - Alex's Notes
+#+filetags: :www:emacs:notes:blog_post:website:
+
+#+begin_quote
+  ** Overview
+
+  This is a self-documenting org-mode publishing script.  It is run by executing all the source code blocks herein.  The actual [[https://github.com/apmiller108/slip-box/blob/main/publish.el][publish.el]] script just loads this file in a buffer and calls =org-babel-execute-buffer= followed by the function that starts the publishing process.
+
+  - This is based on [[https://github.com/daviwil/dotfiles/blob/master/.site/publish.el][David Wilson's publish.el]] which itself is based on [[https://gitlab.com/ambrevar/ambrevar.gitlab.io/-/blob/master/publish.el][Pierre Neidhardt's publish.el]].  Huge thanks for both.
+  - It requires emacs v27+
+  - I'm using [[https://getuikit.com/][UIkit]] CSS framework.
+  - Reader comments powered by [[https://utteranc.es/][Utterances]].
+  - There's a little bit of JavaScript, mostly for the tags used to filter and sort on the homepage.
+  - CI is run on GitHub actions where this is built and deployed to Netlify.  It is hosted at [[https://notes.alex-miller.co/]].  See [[https://github.com/apmiller108/slip-box/blob/main/.github/workflows/main.yml][CI configuration.]]
+#+end_quote

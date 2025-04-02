@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       6b733cc7-973f-4701-b89c-25bd37214361
+:ROAM_REFS: https://mitpress.mit.edu/50-years-of-influential-publishing/
+:END:
+#+title: (mitpress.mit.edu) 50 Years of Influential Publishing - MIT Press
+#+filetags: :blog_post:website:
+
+#+begin_quote
+  October 22, 2012
+
+  * 50 Years of Influential Publishing
+
+  [[https://mitpress.mit.edu/author/supadudev/][SupaduDev]] | [[https://mitpress.mit.edu/category/uncategorized/][Uncategorized]]
+
+  /A note from Ellen Faran, Director of the MIT Press/
+
+  This year we celebrate the 50th anniversary of the MIT Press, a milestone that has us reflecting on the significance of our work.  I hasten to add that “our work” refers to the efforts of a very large community of authors, book and journal editors, peer reviewers, researchers, freelancers, publishing partners, as well as current and former MIT Press staff.  We are arguably most proud that so many of our publications are influential.  From a publishing perspective, there are some quantitative measures that provide a view of a title's lasting influence: lifetime sales and citations or the number of printings or editions.  More broadly, scholars assess influence through the recognition of the impact of the work on their fields: pointing the way for subsequent research, offering a new pedagogical approach, sparking a new area for inquiry.  We will be highlighting some of the influential publications of the MIT Press over the past five decades in the next 50 blog posts.  Join us in 50 days of celebration of scholarly publishing that matters.
+
+  /Our 50 influential journal articles are listed [[http://www.mitpressjournals.org/page/50articles][here]].  The articles are listed chronologically.  We will also post about our influential books in (mostly) chronological order, except where it makes sense to group them./  [[http://mitpress.mit.edu/books/language-thought-and-reality][Language, Thought, and Reality: Selected Writings of Benjamin Lee Whorf]] /by Benjamin Lee Whorf and/ [[http://mitpress.mit.edu/books/word-and-object][Word and Object]] /by Willard Van Orman Quine kick off the 50th anniversary series./
+#+end_quote
