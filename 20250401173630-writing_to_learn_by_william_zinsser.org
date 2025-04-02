@@ -1,0 +1,62 @@
+:PROPERTIES:
+:ID:       73163722-c7a7-40be-ad3a-c36afdb2c7d1
+:END:
+#+title: Writing to Learn by William Zinsser
+#+filetags: :education:writing:books:
+
+* (books.google.com) Writing to Learn - William Zinsser - Google Books :website:
+:PROPERTIES:
+:ID:       5ff84609-db9e-4b5a-b484-920b17850e3a
+:ROAM_REFS: https://books.google.com/books/about/Writing_to_Learn.html?id=fJ6xAAAAIAAJ
+:END:
+
+#+begin_quote
+  * Writing to Learn
+
+  William Zinsser
+
+  In an engaging personal journey, Zinsser takes the reader into many surprising corners of knowledge and demonstrates that every field has an accessible literature.  Will appeal to readers of Cultural Literacy and The Closing of the American Mind.
+
+  *** About the author (1988)
+
+  William Knowlton Zinsser (October 7, 1922 - May 12, 2015) was an American writer, editor, literary critic, and teacher.  He began his career as a journalist for the New York Herald Tribune, where he worked as a feature writer, drama editor, film critic and editorial writer.  Throughout the 1970s, Zinsser taught writing at Yale University.  He wrote 18 books, including On Writing Well, which is in its 17th edition.  Zinsser died at the age of 92 in Manhattan on May 12, 2015.
+
+  *** Bibliographic information
+
+  Title:     Writing to Learn
+  Author:    William Zinsser
+  Publisher: Harper & Row, 1988
+  ISBN:      0060158840, 9780060158842
+  Length:    256 pages
+  Subjects:  Language Arts & Disciplines › Writing › Composition
+
+  - Language Arts & Disciplines / Rhetoric
+  - Language Arts & Disciplines / Writing / Composition
+  - Reference / General
+#+end_quote
+* (www.goodreads.com) Writing to Learn: How to Write–And Think–Clearly about Any Subject at All by William Zinsser | Goodreads :website:
+:PROPERTIES:
+:ID:       622adc46-ea2f-4b1f-ba41-4902753385c5
+:ROAM_REFS: https://www.goodreads.com/book/show/585474.Writing_to_Learn
+:END:
+
+#+begin_quote
+  * Writing to Learn: How to Write–And Think–Clearly about Any Subject at All
+
+  [[https://www.goodreads.com/author/show/7881675.William_Zinsser][William Zinsser]]
+
+  This is an essential book for everyone who wants to write clearly about any subject and use writing as a means of learning.
+#+end_quote
+* (www.amazon.com) Amazon.com: Writing To Learn: 9780062720405: Zinsser, William: Books :website:
+:PROPERTIES:
+:ID:       7fcd0f7a-4b8a-4b55-ab9e-b8b4be8afe14
+:ROAM_REFS: https://www.amazon.com/dp/0062720406
+:END:
+
+#+begin_quote
+  * Writing To Learn Paperback – June 4, 1993
+
+  by [[https://www.amazon.com/William-Zinsser/e/B000AQ1LN4/ref=dp_byline_cont_book_1][William Zinsser]] (Author)
+
+  This is an essential book for everyone who wants to write clearly about any subject and use writing as a means of learning.
+#+end_quote
