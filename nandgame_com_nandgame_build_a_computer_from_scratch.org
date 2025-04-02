@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a8faf8ec-c390-4564-965b-c85da0d018d0
+:ROAM_REFS: https://nandgame.com/
+:END:
+#+title: (nandgame.com) NandGame - Build a computer from scratch.
+#+filetags: :computer_science:computer_architecture:electronics:software_as_a_service:www:games:software:website:
+
+#+begin_quote
+  Welcome to *The Nand Game*!
+
+  You are going to build a computer starting from basic components.
+
+  The game consists of a series of levels.  In each level, you are tasked with building a component that behaves according to a specification.  This component can then be used as a building block in the next level.
+
+  The game does not require any previous knowledge about computer architecture or software, and does not require math skills beyond addition and subtraction.  (It does require some patience---some of the tasks might take a while to solve!)
+
+  Your first task is to build a *nand* component.
+
+  On the left of the diagram is the exact specification of the task.  Click "Level Help" for further information which might be helpful.
+#+end_quote

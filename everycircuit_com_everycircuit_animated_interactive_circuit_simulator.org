@@ -1,0 +1,399 @@
+:PROPERTIES:
+:ID:       a31a9658-1253-4688-b2a6-e71549d9b5f5
+:ROAM_REFS: https://everycircuit.com/
+:END:
+#+title: (everycircuit.com) EveryCircuit: Animated interactive circuit simulator
+#+filetags: :mobile_app:electronics:simulation:www:software_as_a_service:software:website:
+
+#+begin_quote
+  * Circuits are better animated
+
+  ** EveryCircuit is an online and mobile app to design, simulate, share, and discover electronic circuits.
+
+  2.6 M circuits made in EveryCircuit
+
+  Easy animated interactive simulation
+
+  3 platforms
+
+  [[https://everycircuit.com/app][Online]],  [[https://play.google.com/store/apps/details?id=com.everycircuit.free][Android]],  [[https://apps.apple.com/us/app/everycircuit/id797157761][iOS]]
+
+  Class license for educators
+
+  *** Visualize
+
+  One animated circuit is worth a thousand equations and diagrams.  Animations of voltages, currents, and charges are displayed right on top of schematic, providing great insight into circuit operation.
+
+  *** Simulate
+
+  Real-time circuit simulation engine is custom-built for speed and interactivity.  Easy one-click simulation, from simple resistors and logic gates, to complex transistor-level oscillators and mixed-signal designs.
+
+  *** Interact
+
+  While simulation is running, you can flip switches, adjust potentiometers, tune LED current limiting resistors, ramp up input voltages, etc.  The circuit will immediately respond to your changes, in real time.
+
+  Your browser does not support the video tag.
+
+  [[https://everycircuit.com/app]]
+
+  Launch free Online Simulator
+
+  Sign up and Buy for $15
+
+  [[https://play.google.com/store/apps/details?id=com.everycircuit.free]]
+
+  Install for Android
+
+  [[https://apps.apple.com/us/app/everycircuit/id797157761]]
+
+  Install for iOS
+
+  * 2.6 million circuits
+
+  ** Users designed and simulated millions of circuits.  Explore public circuits at the [[https://everycircuit.com/gallery][Gallery]].
+
+  Click on a circuit to start simulation
+
+  [[https://everycircuit.com/app]]
+
+  Launch free Online Simulator
+
+  Sign up and Buy for $15
+
+  [[https://play.google.com/store/apps/details?id=com.everycircuit.free]]
+
+  Install for Android
+
+  [[https://apps.apple.com/us/app/everycircuit/id797157761]]
+
+  Install for iOS
+
+  * Features powerful and beautiful
+
+  ** Circuits come alive with uninterrupted flow of simulation data.  Dynamic oscilloscope opens new angles for circuit analysis.
+
+  *** Analog and digital circuits
+
+  Mini-waveforms on top of schemaic wires look different for digital and analog signals.  Constant analog voltages are shown as numbers, digital wires are color-coded.
+
+  Your browser does not support the video tag.
+
+  *** I-V curve characteristics
+
+  Family of I-V curves for a MOSFET transistor are obtained by stepping the gate voltage.  Notice how linear and saturation regions are visualized inside the MOSFET symbol.
+
+  Your browser does not support the video tag.
+
+  *** AC analysis with Bode plot
+
+  Frequency response changes when circuit is modified.  Phases and magnitudes are shown in schematic as circles.  Notice them change as the frequency trace is moved.
+
+  Your browser does not support the video tag.
+
+  *** Oscillator orbit evolution
+
+  Any pair of time-domain signals may be plotted in the XY mode.  The oscilloscope scale and grid ticks are auto-updated to convenient values as the data changes.
+
+  Your browser does not support the video tag.
+
+  ** Analog and digital components can be simulated together in one circuit.
+
+  Passive
+
+  [[https://everycircuit.com/circuit/6346699110088704/make-electronics-exp-4d]]
+
+  Resistor
+
+  [[https://everycircuit.com/circuit/6603924996882432/capacitor-demo]]
+
+  Capacitor
+
+  [[https://everycircuit.com/circuit/6569908551548928/bipolar-cap-from-two-polarized-capacitors]]
+
+  Polarized
+
+  [[https://everycircuit.com/circuit/5089149683761152/transmission-line]]
+
+  Inductor
+
+  [[https://everycircuit.com/circuit/4537526821584896/function-generator]]
+
+  Potentiometer
+
+  [[https://everycircuit.com/circuit/6104943465332736/welder-3-phase-running-on-single]]
+
+  Transformer
+
+  [[https://everycircuit.com/circuit/5186508522520576/pure-sine-wave-inverter]]
+
+  Center-tapped
+
+  Logic
+
+  [[https://everycircuit.com/circuit/4616405771354112/logic-gates]]
+
+  AND
+
+  [[https://everycircuit.com/circuit/5811537524555776/flappy-bird-game]]
+
+  OR
+
+  [[https://everycircuit.com/circuit/5995843064692736/ideal-ring-oscillator]]
+
+  NOT
+
+  [[https://everycircuit.com/circuit/5642689223327744/nand-logic-gates]]
+
+  NAND
+
+  [[https://everycircuit.com/circuit/4547724077694976/sr-nor-latch]]
+
+  NOR
+
+  [[https://everycircuit.com/circuit/5220963800842240/single-bit-comparator]]
+
+  XOR
+
+  [[https://everycircuit.com/circuit/6500295632748544/simple-xnor-gate.]]
+
+  XNOR
+
+  Switches
+
+  [[https://everycircuit.com/circuit/5768540611149824/charge-swap-oscillator]]
+
+  SPST switch
+
+  [[https://everycircuit.com/circuit/6011425823391744/lc-oscillator]]
+
+  SPDT switch
+
+  [[https://everycircuit.com/circuit/5612692762787840/no-pb-circuit]]
+
+  NO button
+
+  [[https://everycircuit.com/circuit/5473537087766528/push-button]]
+
+  NC button
+
+  [[https://everycircuit.com/circuit/5515400233615360/one-bit-electromechanic-memory-]]
+
+  Relay
+
+  Semiconductor
+
+  [[https://everycircuit.com/circuit/5719153036754944/half-wave-rectifier]]
+
+  Diode
+
+  [[https://everycircuit.com/circuit/6298207046860800/battery-volt-indicator-using-transistors]]
+
+  Zener diode
+
+  [[https://everycircuit.com/circuit/6517641967566848/x-y-oscilloscope---revised]]
+
+  LED
+
+  [[https://everycircuit.com/circuit/6087206076416000/rainbow-chaser]]
+
+  RGB LED
+
+  [[https://everycircuit.com/circuit/6103298771517440/simple-latches-]]
+
+  PNP transistor
+
+  [[https://everycircuit.com/circuit/5676084175568896/basic-bjt-topologies]]
+
+  NPN transistor
+
+  [[https://everycircuit.com/circuit/6712307319570432/vco-with-level-shifter]]
+
+  PMOS transistor
+
+  [[https://everycircuit.com/circuit/4542919360643072/cmos-logic-gates]]
+
+  NMOS transistor
+
+  Latches
+
+  [[https://everycircuit.com/circuit/5438746307854336/sr-nor-latch]]
+
+  SR NOR latch
+
+  [[https://everycircuit.com/circuit/4744311634919424/sr-nand-latch-with-two-nand-gates.]]
+
+  SR NAND latch
+
+  [[https://everycircuit.com/circuit/5674355959267328/d-flip-flop-binary-counter]]
+
+  D flip-flop
+
+  [[https://everycircuit.com/circuit/5045139088867328/different-between-t-and-d-flip-flop]]
+
+  T flip-flop
+
+  [[https://everycircuit.com/circuit/6231283309740032/counter]]
+
+  JK flip-flop
+
+  Sources
+
+  [[https://everycircuit.com/circuit/6317863771832320/current-source-parallel-himabi]]
+
+  Current
+
+  [[https://everycircuit.com/circuit/4652809273475072/basic-kirchhoffs-law-visualization]]
+
+  Voltage
+
+  [[https://everycircuit.com/circuit/6669424335781888/simple-lissajous-figure]]
+
+  Sinusoidal
+
+  [[https://everycircuit.com/circuit/5758854060048384/hello-world---use-of-xy-minitor]]
+
+  Pulse
+
+  [[https://everycircuit.com/circuit/5061586760499200/game]]
+
+  Binary
+
+  [[https://everycircuit.com/circuit/5283160956338176/voltage-visualisation]]
+
+  VCVS
+
+  [[https://everycircuit.com/circuit/4711360548044800/voltage-and-current-controlled-sources]]
+
+  CCVS
+
+  [[https://everycircuit.com/circuit/5835451290353664/linear-vco-with-ramp-and-squarewave-outputs]]
+
+  VCCS
+
+  [[https://everycircuit.com/circuit/6189803362058240/dependent-sources]]
+
+  CCCS
+
+  Integrated
+
+  [[https://everycircuit.com/circuit/4509930926899200/counter-type-adc-digital-voltmeter-]]
+
+  Bin-to-7
+
+  [[https://everycircuit.com/circuit/6533780623065088/clock]]
+
+  Counter
+
+  [[https://everycircuit.com/circuit/5509684219609088/digital-pwm-signal-generator]]
+
+  555 timer
+
+  [[https://everycircuit.com/circuit/6708432937418752/signal-level-limiter-on-complementary-mos-transistors]]
+
+  ADC
+
+  [[https://everycircuit.com/circuit/6080407990435840/simple-tracking-adc]]
+
+  DAC
+
+  Other
+
+  [[https://everycircuit.com/circuit/6065618819219456/opamp---differential-amplifier-with-common-mode-noise-rejection]]
+
+  Op-amp
+
+  [[https://everycircuit.com/circuit/5871471181955072/7-segment-digital-display-w-analog]]
+
+  7-segment
+
+  [[https://everycircuit.com/circuit/4638830729363456/digital-switching]]
+
+  Lamp
+
+  [[https://everycircuit.com/circuit/4667410853134336/3-component-speed-controller-]]
+
+  DC motor
+
+  [[https://everycircuit.com/circuit/6679226681655296/how-ampere-meter-and-voltmeter-works]]
+
+  Voltmeter
+
+  [[https://everycircuit.com/circuit/6135596056313856/basic-wheatstone-bridge-for-load-cells]]
+
+  Amperemeter
+
+  [[https://everycircuit.com/circuit/6354303574605824/simply-el-be13-resistors-in-series-and-parallel]]
+
+  Ohmmeter
+
+  [[https://everycircuit.com/circuit/5629572308271104/square-wave-to-sine-wave]]
+
+  Ground
+
+  Click on a component to see a simulation example
+
+  * Simple pricing
+
+  ** One-time payment buys you online and mobile apps, forever.
+
+  ** One in-app purchase buys you mobile and online apps, forever.
+
+  ** One in-app purchase buys you mobile and online apps, forever.
+
+  *** Free
+
+  No ads.
+
+  [[https://everycircuit.com/app]]
+
+  Launch free Online Simulator
+
+  [[https://play.google.com/store/apps/details?id=com.everycircuit.free]]
+
+  Install for Android
+
+  [[https://apps.apple.com/us/app/everycircuit/id797157761]]
+
+  Install for iOS
+
+  Simulation of your own circuits is limited to 5 components per circuit.  Free version lets you try all simulation features in public circuits of any size, and in your own smaller circuits.
+
+  *** $15 / forever
+
+  No subscriptions.
+
+  Sign up and Buy Now
+
+  [[https://play.google.com/store/apps/details?id=com.everycircuit.free]]
+
+  Install for Android
+
+  [[https://apps.apple.com/us/app/everycircuit/id797157761]]
+
+  Install for iOS
+
+  One-time payment unlocks all of EveryCircuit forever, on all platforms.  Once you buy online, install the free mobile app and sign in to unlock all features, at no additional cost.
+
+  One in-app purchase unlocks all of EveryCircuit forever, on all platforms.  Once you make a purchase, sign in on other platforms to unlock all features, at no additional cost.
+
+  One in-app purchase unlocks all of EveryCircuit forever, on all platforms.  Once you make a purchase, sign in on other platforms to unlock all features, at no additional cost.
+
+  *** $4 / semester
+
+  For educators.
+
+  [[https://everycircuit.com/requestlicensekey]]
+
+  Request Class License
+
+  Top universities use EveryCircuit to teach electrical engineering classes, and your school could too.  To see the exact pricing, specify course dates and the number of students.
+
+  [[https://everycircuit.com/requestlicensekey]]
+
+  Request Class License for educators.
+#+end_quote
+* (everycircuit.com) EveryCircuit
+:PROPERTIES:
+:ID:       290d7aaa-a959-4a34-b4f7-7fdd4fbf5a3e
+:ROAM_REFS: https://everycircuit.com/app
+:END:
