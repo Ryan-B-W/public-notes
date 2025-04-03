@@ -1,0 +1,69 @@
+:PROPERTIES:
+:ID:       4825d0e5-465b-4dbb-ac02-b8015e53859c
+:END:
+#+title: Prose CMS
+#+filetags: :open_source:content_management:www:web_development:software:
+
+An [[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][open-source]], [[id:003ec9df-d673-4336-aae0-9a034fd89997][git]]-based, headless [[id:093a1925-9878-460d-8819-cd7847232bad][CMS]] that works with any static site generator.
+* (prose.io) Prose · A Content Editor for GitHub                    :website:
+:PROPERTIES:
+:ID:       360ce133-81e4-46c9-8dde-193494135107
+:ROAM_REFS: https://prose.io/
+:END:
+
+#+begin_quote
+  * About
+
+  Prose provides a beautifully simple content authoring environment for [[http://developmentseed.org/blog/2012/07/27/build-cms-free-websites/][CMS-free websites]].  It's a web-based interface for managing content on [[http://github.com/][GitHub]].  Use it to create, edit, and delete files, and save your changes directly to GitHub.  Host your website on [[http://pages.github.com/][GitHub Pages]] for free, or set up your own [[http://developmentseed.org/blog/2013/05/01/introducing-jekyll-hook/][GitHub webhook server]].
+
+  Prose has advanced support for [[http://jekyllrb.com/][Jekyll]] sites and [[http://daringfireball.net/projects/markdown/][markdown content]].  Prose detects markdown posts in Jekyll sites and provides syntax highlighting, a formatting toolbar, and draft previews in the site's full layout.
+
+  Developers can configure Jekyll sites to take advantage of these and many more features that customize the content editing experience.
+
+  ** Configuring
+
+  Prose can be configured per repository with additional metadata in a Jekyll site's =_config.yml= file or a separate =prose.yml= file.  We offer Prose.io as a hosted service for the latest version, or you can download the source code and host it on your own.  For for developer documentation, see [[https://github.com/prose/prose/wiki][the wiki page on GitHub]].
+
+  ** Developing
+
+  Prose is an open source project.  We encourage you to contribute and help us improve this application or adapt it to your needs.  For instructions on developing Prose, see the [[https://github.com/prose/prose/blob/master/CONTRIBUTING.md][Prose contributing guidelines]].
+
+  ** Getting Help
+
+  We do not offer support for Prose at this time, however if you are a content editor using Prose, you should contact the developer who gave you access to it.  To report technical problems with Prose, please [[https://github.com/prose/prose/issues][file an issue on GitHub]].
+
+  ** Credits
+
+  Prose is developed and maintained by [[http://developmentseed.org/][Development Seed]], a creative data visualization and mapping team based in Washington, DC.
+#+end_quote
+* (github.com) prose/prose: A Content Editor for GitHub.            :website:
+:PROPERTIES:
+:ID:       f1bd0df1-8341-4f3d-999c-689105e0aecf
+:ROAM_REFS: https://github.com/prose/prose
+:END:
+
+#+begin_quote
+  ** Prose
+
+  Prose provides a beautifully simple content authoring environment for [[https://web.archive.org/web/20150307201729/http://www.developmentseed.org/blog/2012/07/27/build-cms-free-websites][CMS-free websites]].  It's a web-based interface for managing content on [[http://github.com/][GitHub]].  Use it to create, edit, and delete files, and save your changes directly to GitHub.  Host your website on [[http://pages.github.com/][GitHub Pages]] for free, or set up your own [[https://web.archive.org/web/20160316104312/https://developmentseed.org/blog/2013/05/01/introducing-jekyll-hook/][GitHub webhook server]].
+
+  [[http://prose.io/#about][Read more about Prose]]
+
+  *** Setting up Prose with your site
+
+  Prose supports configuration settings with a variety of options, which makes it easy to adjust the application to support your project needs.  Read the [[https://github.com/prose/prose/wiki/Getting-Started][Getting Started Guide]] to learn more.
+
+  *** Installation and developing
+
+  **** Help contribute
+
+  *Prose project is currently looking for [[https://github.com/prose/prose/issues/743][new maintainers]].*
+
+  Prose is hosted at [[http://prose.io/][Prose.io]], or you can use on your own server.  For installation instructions and contributing guidelines, please [[https://github.com/prose/prose/blob/master/CONTRIBUTING.md][read contributing.md]].  For deploying to your own server, read [[https://github.com/prose/prose/blob/master/DEPLOYMENT.md][deployment.md]].
+
+  *** Getting help
+
+  Have questions?  Jump into the #prose channel on irc.freenode.net.
+
+  New to Internet Relay Chat?  [[http://webchat.freenode.net/?randomnick=1&channels=#prose&prompt=1&uio=d4][Join quickly & easily using your Web browser]] or sign-up for a no-cost account on [[https://www.irccloud.com/][IRCcloud]].
+#+end_quote

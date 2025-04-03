@@ -1,0 +1,109 @@
+:PROPERTIES:
+:ID:       ebad1b1f-8f43-4eff-b954-2b710a6219fa
+:END:
+#+title: Decap CMS
+#+filetags: :open_source:content_management:www:web_development:software:
+
+An [[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][open-source]], [[id:003ec9df-d673-4336-aae0-9a034fd89997][git]]-based, headless [[id:093a1925-9878-460d-8819-cd7847232bad][CMS]] that works with any static site generator.  Formerly Netlify CMS.
+* (decapcms.org) Decap CMS | Open-Source Content Management System  :website:
+:PROPERTIES:
+:ID:       f13536bd-a904-464d-8fb5-8a6cfc8d40b4
+:ROAM_REFS: https://decapcms.org/
+:END:
+
+#+begin_quote
+  * Open source content management for your Git workflow
+
+  Use Decap CMS with any static site generator for a faster and more flexible web project
+
+  [[https://decapcms.org/docs][Get started in the docs]][[https://demo.decapcms.org/][Try the interactive demo]]
+
+  *** Integral part of the Jamstack
+
+  Get the speed, security, and scalability of a static site, while still providing a convenient editing interface for content.  Compared to server-side CMS like WordPress, this means better performance, higher security, lower cost of scaling, and a better developer experience.  You can learn more about the Jamstack on [[https://jamstack.org/][jamstack.org]].
+
+  *** Works with most frontend tools
+
+  You can add Decap CMS to any static site generator, meta-framework, or other tool that stores content in Git.
+
+  *** Install, configure, and extend with ease
+
+  Install Decap by adding to files to your site, then configure everything in a YAML file.  Extend with ease with React: create custom-styled previews, UI widgets, and editor plugins or add backends to support different Git platform APIs.  See Add to your site to get started.
+
+  [[https://decapcms.org/features/developer/][All Developer Features]]
+
+  ** Getting started is /simple and free./
+
+  Choose a template that's pre-configured with a static site generator and deploys to a global CDN in one click.
+
+  [[https://decapcms.org/docs/start-with-a-template/][Start with a template]]
+
+  ** [[https://decapcms.org/#editors][For Editors]]/[[https://decapcms.org/#developers][For Developers]]
+
+  *** Editor-friendly user interface
+
+  The web-based app includes rich-text editing, real-time preview, and drag-and-drop media uploads.
+
+  *** Intuitive workflow for content teams
+
+  Writers and editors can easily manage content from draft to review to publish across any number of custom content types.
+
+  *** Instant access without GitHub account
+
+  With [[https://decapcms.org/docs/git-gateway-backend/#git-gateway-with-netlify-identity][Git Gateway]], you can add CMS access for any team member — even if they don't have a GitHub account.
+
+  [[https://decapcms.org/features/editor/][All Editor Features]]
+
+  ** Professional Help?
+
+  The team of maintainers offers a range of professional services to help you get the most out of Decap CMS.
+
+  *** Priority Support
+
+  Benefit from a dedicated support line and priority ticket handling.
+
+  [[https://decapcms.org/services/][Find out more]]
+
+  *** Onboarding
+
+  Get up to speed quickly with a customized onboarding program tailored to your team and project.
+
+  [[https://decapcms.org/services/][Find out more]]
+
+  *** Custom Features Development
+
+  Sponsor the development of custom features or integrations to meet your specific needs.
+
+  [[https://decapcms.org/services/][Find out more]]
+
+  ** From the Blog
+
+  *** Why git-based CMS is the future of content management
+
+  - Utilize the power of Git versioning and history.  No backup needed
+  - Work on the same branching and environments system as your code.
+  - No need for a database and server - get this from your existing Git provider.
+
+  [[https://decapcms.org/blog/2023/11/git-based-cms-definition-features-best-practices/][More on our blog]]
+
+  ** Community
+
+  *** A community-driven project you can help evolve
+
+  Decap CMS is built by a community of more than 100 contributors — and you can help.  Read the [[https://decapcms.org/docs/contributor-guide][contributing guide]] to join in.
+
+  [[https://decapcms.org/community/][About the community]]
+#+end_quote
+* (github.com) decaporg/decap-cms: A Git-based CMS for Static Site Generators :website:
+:PROPERTIES:
+:ID:       e4ede5f0-7e74-49f0-9519-e5eca360873a
+:ROAM_REFS: https://github.com/decaporg/decap-cms
+:END:
+
+#+begin_quote
+  [[https://www.decapcms.org/][decapcms.org]]
+
+  A CMS for static site generators.  Give users a simple way to edit and add content to any site built with a static site generator.
+
+  /Decap CMS is the new name of Netlify CMS [[https://www.netlify.com/blog/netlify-cms-to-become-decap-cms/][since February 2023]]./
+#+end_quote

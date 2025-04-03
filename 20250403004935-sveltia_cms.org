@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       70461082-aa61-4fca-ba1a-c0f29b5a7489
+:END:
+#+title: Sveltia CMS
+#+filetags: :open_source:content_management:www:web_development:software:
+
+An [[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][open-source]], [[id:003ec9df-d673-4336-aae0-9a034fd89997][git]]-based, headless [[id:093a1925-9878-460d-8819-cd7847232bad][CMS]] that works with any static site generator.
+* (github.com) sveltia/sveltia-cms: Netlify/Decap CMS alternative. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support + 100s of improvements. Open source & free. Made with Svelte. :website:
+:PROPERTIES:
+:ID:       edb10e67-a2a3-4d6e-91d9-c45a08d3d6e6
+:ROAM_REFS: https://github.com/sveltia/sveltia-cms
+:END:
+
+#+begin_quote
+  * Sveltia CMS
+
+  Sveltia CMS is a Git-based lightweight headless CMS under active development as a modern, powerful, quick replacement for Netlify CMS and Decap CMS.  In some simple cases, migration is as easy as a single line of code change, although we are still working on improving compatibility.
+
+  The free, open source alternative to Netlify/Decap CMS is now in public beta, turbocharged with great UX, performance, i18n support and so many more enhancements.
+#+end_quote

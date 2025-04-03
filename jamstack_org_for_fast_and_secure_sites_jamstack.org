@@ -33,3 +33,280 @@
 
   A list of [[https://www.netlify.com/blog/complete-guide-to-headless-cms/][headless content management systems]] for Jamstack sites
 #+end_quote
+** (jamstack.org) Agit CMS | Jamstack
+:PROPERTIES:
+:ID:       040818ab-8122-4fdd-af05-0892ba2267ac
+:ROAM_REFS: https://jamstack.org/headless-cms/agitcms/
+:END:
+
+#+begin_quote
+  * Agit CMS
+
+  - Home page: [[https://github.com/0xsuk/agitcms]]
+  - Repository: [[https://github.com/0xsuk/agitcms][0xsuk/agitcms]]
+
+  - Open Source: Yes
+  - Type: Local
+  - Supported Site Generators: All
+
+  Agit CMS is a simple web frontend interface that utilizes filesystem to manage markdown/media contents.  Built for markdown-based static site generators, like Hugo and Jekyll.\\
+  Write markdown blog posts the /hackable/ way, get rid of your itch points.
+
+  ** Features
+
+  - vertical split style markdown editor
+  - type-aware frontmatter editor
+  - custom editor snippet/toolbar/keymap
+  - custom frontmatter language(yaml/toml) & delimiters
+  - Integrated Terminal
+  - mathjax rendering
+  - image pasting into the editor Agit CMS tries to be a hackable headless CMS for developers.
+#+end_quote
+** (jamstack.org) Decap CMS | Jamstack
+:PROPERTIES:
+:ID:       8d0eaf4e-8ff0-4c06-a663-ad51f2a2a9bb
+:ROAM_REFS: https://jamstack.org/headless-cms/decap-cms/
+:END:
+
+#+begin_quote
+  * Decap CMS
+
+  - Home page: [[https://decapcms.org/]]
+  - Repository: [[https://github.com/decaporg/decap-cms][decaporg/decap-cms]]
+  - Twitter: [[https://twitter.com/Decap_CMS/][@Decap_CMS]]
+
+  - Open Source: Yes
+  - Type: Git-based
+  - Supported Site Generators: All
+
+  ** Decap CMS (formerly Netlify CMS)
+
+  An open source content management system for your Git workflow that enables you to provide editors with a friendly UI and intuitive workflows.  You can use it with any static site generator to create faster, more flexible web projects.  Content is stored in your Git repository alongside your code for easier versioning, multi-channel publishing, and the option to handle content updates directly in Git.
+
+  At its core, Decap CMS is an open-source React app that acts as a wrapper for the Git workflow, using the GitHub, GitLab, or Bitbucket API. This provides many advantages, including:
+
+  - *Fast, web-based UI:* With rich-text editing, real-time preview, and drag-and-drop media uploads.
+  - *Platform agnostic:* Works with most static site generators.
+  - *Easy installation:* Add two files to your site and hook up the backend by including those files in your build process or linking to our Content Delivery Network (CDN).
+  - *Modern authentication:* Using GitHub, GitLab, or Bitbucket and JSON web tokens.
+  - *Flexible content types:* Specify an unlimited number of content types with custom fields.
+  - *Fully extensible:* Create custom-styled previews, UI widgets, and editor plugins.
+
+  [[https://app.netlify.com/start/deploy?repository=https://github.com/wutali/nextjs-netlify-blog-template][ Deploy to Netlify]]
+#+end_quote
+** (jamstack.org) Prose | Jamstack
+:PROPERTIES:
+:ID:       fb5154a6-f217-4b53-a615-7df47150868a
+:ROAM_REFS: https://jamstack.org/headless-cms/prose/
+:END:
+
+#+begin_quote
+  * Prose
+
+  - Home page: [[https://prose.io/][https://prose.io]]
+  - Repository: [[https://github.com/prose/prose][prose/prose]]
+
+  - Open Source: Yes
+  - Type: Git-based
+  - Supported Site Generators: All
+
+  ** Prose
+
+  Prose provides a simple content authoring environment for CMS-free websites.  It's a web-based interface for managing content on GitHub.  Use it to create, edit, and delete files, and save your changes directly to GitHub.  Host your website on GitHub Pages for free, or set up your own GitHub webhook server.
+
+  Prose has advanced support for static sites and markdown content.  Prose detects markdown posts in static sites and provides syntax highlighting, a formatting toolbar, and draft previews in the site's full layout.
+
+  Developers can configure static sites to take advantage of these and many more features that customize the content editing experience.
+
+  ** Features
+
+  *** Image Uploading
+
+  When editing markdown documents you can drag and drop images onto the page which are uploaded to a media directory you specify in your configuration or the current directory.
+
+  *** Mobile Layout
+
+  Prose is designed as a mobile ready application and is particularly well suited for the iPad.
+
+  *** Markdown Features
+
+  Prose pays particular attention to Markdown files by providing a formatting toolbar and in page previewing.
+
+  **** Configurations
+
+  Often you want to provide site maintainers access to create and edit content but not direct access to the source code that runs a project.  Or you want a simple authoring environment that's focused on what matters to you.  Configurations are a powerful way to customize what's provided during the day to day management of a site.
+
+  For non-jekyll sites, You can set up configurations by creating a =_prose.yml= file or add configurations as an entry to your Jekyll site in =_config.yml=.
+
+  ** Read more
+
+  - [[https://prose.io/#about][Prose.io "About" page]]
+  - [[https://github.com/prose/prose/wiki/Getting-Started][Getting Started]]
+  - [[https://github.com/prose/prose/wiki/Prose-Configuration][Prose configuration]]
+#+end_quote
+** (jamstack.org) Pages CMS | Jamstack
+:PROPERTIES:
+:ID:       dd2ddedd-b9db-413a-9622-c868fe94cd29
+:ROAM_REFS: https://jamstack.org/headless-cms/pages-cms/
+:END:
+
+#+begin_quote
+  * Pages CMS
+
+  - Home page: [[https://pagescms.org/]]
+  - Repository: [[https://github.com/pages-cms/pages-cms][pages-cms/pages-cms]]
+  - Twitter: [[https://twitter.com/pagescms/][@pagescms]]
+
+  - Open Source: Yes
+  - Type: Git-based
+  - Supported Site Generators: All
+
+  ** What is Pages CMS?
+
+  [[https://pagescms.org/][Pages CMS]] is an [[https://github.com/pages-cms/pages-cms][Open Source]] Content Management System built for static websites and apps (Next.js, Astro, VuePress, Hugo, Nuxt, Jekyll, 11ty, etc).
+
+  It allows you to edit your website's or app's content directly on GitHub via a user-friendly interface.
+
+  ** Packed with features
+
+  - *Nothing to install or deploy*: you can use Pages CMS entirely online without having to install or deploy anything.
+  - *Full configurable*: configure content types, views, search, and more.
+  - *Visual editor*: use WYSIWYG editors and interactive widgets to manage your content.
+  - *Full media management*: drag and drop images, upload multiple files at once, organize folders, etc.
+  - *Full text search*: run fuzzy search on your content, filter by fields and term presence, etc.
+  - *Works with all generators*: Hugo, Next.js, Nuxt, Astro, Jekyll, 11ty...  As long as you're saving flat files, you can use Pages CMS.
+  - *Supports all file formats*: YAML/JSON/TOML frontmatter, regular YAML/JSON/TOML, Markdown, HTML, Javascript, and more.
+  - ...
+
+  ** How to use Pages CMS?
+
+  - *[[https://app.pagescms.org/][Use the online version (recommended) →]]*
+  - *[[https://pagescms.org/docs/development/][Install or deploy your own version →]]*
+#+end_quote
+** (jamstack.org) Sveltia CMS | Jamstack
+:PROPERTIES:
+:ID:       9afed777-f812-4e37-b2a4-5cd25413fc8c
+:ROAM_REFS: https://jamstack.org/headless-cms/sveltia-cms/
+:END:
+
+#+begin_quote
+  * Sveltia CMS
+
+  - Home page: [[https://github.com/sveltia/sveltia-cms]]
+  - Repository: [[https://github.com/sveltia/sveltia-cms][sveltia/sveltia-cms]]
+
+  - Open Source: Yes
+  - Type: Git-based
+  - Supported Site Generators: All
+
+  Sveltia CMS is a Git-based lightweight headless CMS under active development as a modern, quick replacement for Netlify/Decap CMS. You can use it with your favourite static site generator like SvelteKit, Eleventy, Next.js and Hugo to manage content as static files in a Git repository.  The free open source alternative to Netlify/Decap CMS is now in public beta --- with more features to come.
+
+  ** Features
+
+  Here are some highlights mainly compared to Netlify/Decap CMS:
+
+  *** Compatible with Netlify/Decap CMS
+
+  - Ready to replace Netlify/Decap CMS /in some casual use case scenarios/ by updating a single line of code.
+  - Your existing [[https://decapcms.org/docs/configuration-options/][configuration file]] can be reused as is.
+  - Various features are still missing though --- look at the compatibility chart below to see if you can migrate.
+
+  *** UX
+
+  - Created and maintained by an [[https://github.com/kyoshino][experienced UX engineer]] who loves code and design.  You can expect constant UX improvements across the platform.
+  - Offers a modern, intuitive user interface, including an immersive dark mode, inspired in part by the Netlify CMS v3 prototype.
+  - Comes with touch device support.  While the UI is not yet optimized for small screens, large tablets like iPad Pro or Pixel Tablet should work well.
+
+  *** Performance
+
+  - Built completely from scratch with Svelte instead of forking React-based Netlify/Decap CMS. The app starts fast and stays fast.  The compiled code is vanilla JavaScript --- you can use it with almost any framework.
+  - Small footprint: less than 300 KB when minified and gzipped, compared to 1.5 MB of Netlify/Decap CMS. And [[https://svelte.dev/blog/virtual-dom-is-pure-overhead][no virtual DOM overhead]].
+  - Uses the GraphQL API for GitHub to quickly fetch content at once, so that entries and assets can be listed and searched instantly.  This avoids the slowness and potential API rate limit violations caused by hundreds of requests with relation widgets[^14].
+  - Saving entries and assets is also much faster thanks to the [[https://github.blog/changelog/2021-09-13-a-simpler-api-for-authoring-commits/][GraphQL mutation]].
+  - Caches Git files locally to further speed up startup and reduce bandwidth.
+
+  *** Productivity
+
+  - You can work on a local Git repository without having to run a proxy server on your machine.
+  - You can delete multiple entries and assets at once.
+  - Some keyboard shortcuts are available for faster editing.  More to come!
+    - Create a new entry: =Ctrl+E= (Windows/Linux) / =Command+E= (macOS)
+    - Save an entry: =Ctrl+S= (Windows/Linux) / =Command+S= (macOS)
+    - Search for entries and assets: =Ctrl+F= (Windows/Linux) / =Command+F= (macOS)
+  - Solves various outstanding Netlify/Decap CMS bugs[^11].
+
+  *** Accessibility
+
+  - Improved keyboard handling lets you efficiently navigate through UI elements using the Tab, Space, Enter and arrow keys[^17].
+  - Comprehensive [[https://w3c.github.io/aria/][WAI-ARIA]] support empowers users who rely on screen readers such as NVDA or VoiceOver.
+  - Honours your operating system's [[https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion][reduced motion]] and [[https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-transparency][reduced transparency]] settings.
+  - We'll continue to test and improve the application to meet [[https://w3c.github.io/wcag/guidelines/22/][WCAG 2.2]].
+
+  *** i18n support
+
+  - It's now easier to switch between locales while editing with just a click on a button instead of a dropdown list.
+  - Fields in non-default locales are validated as expected.
+  - Integrates DeepL to allow translation of text fields from another locale with one click.
+  - You can disable non-default locale content.
+  - You can use a random UUID for an entry slug, which is a good option for locales that write in non-Latin characters.
+  - Resolves the limitations in the list and object widgets so that changes made with these widgets will be duplicated between locales as expected when using the =i18n: duplicate= field configuration.
+
+  *** Collection enhancements
+
+  - You can choose a custom icon for each collection.
+  - A per-collection media folder will appear next to the entries.
+  - String values in YAML files can be quoted with the new =yaml_quote: true= option for a collection, mainly for framework compatibility.
+
+  *** Field enhancements
+
+  - Required fields, not optional fields, are clearly marked for efficient data entry.
+  - Provides a reimagined all-in-one asset selection dialog for file and image fields.
+    - Collection-specific assets will be listed first for easy selection, while all assets can also be displayed in a separate tab.
+    - New assets can be uploaded by dragging & dropping them into the dialog.
+    - A file/image URL can also be entered in the dialog.
+    - Integration with Pexels, Pixabay and Unsplash makes it easy to select and insert free stock photos.
+  - Optional object fields (=widget: object= with =required: false=) can be manually added or removed.  If removed, the required subfields will no longer trigger validation errors.
+  - You can revert changes to all fields or a specific field.
+
+  *** Asset management enhancements
+
+  - A completely new Asset Library, built separately from the image selection dialog, makes it easy to manage all of your files, including images, videos and documents.
+  - You can sort or filter assets by name or file type and view asset details, including size, dimensions, and a list of entries that use the selected asset.
+  - You can upload multiple assets at once, including files in nested folders, by browsing or dragging & dropping them into the media library.
+  - You can navigate between the global media folder and per-collection media folders.
+
+  ** Read more
+
+  - [[https://github.com/sveltia/sveltia-cms/tree/main#motivation][Motivation]]
+  - [[https://github.com/sveltia/sveltia-cms/tree/main#features][Features]]
+  - [[https://github.com/sveltia/sveltia-cms/tree/main#compatibility][Compatibility]]
+  - [[https://github.com/sveltia/sveltia-cms/tree/main#roadmap][Roadmap]]
+  - [[https://github.com/sveltia/sveltia-cms/tree/main#getting-started][Getting started]]
+  - [[https://github.com/sveltia/sveltia-cms/tree/main#tips--tricks][Tips & tricks]]
+  - [[https://github.com/sveltia/sveltia-cms/tree/main#support--feedback][Support & feedback]]
+  - [[https://github.com/sveltia/sveltia-cms/tree/main#contributions][Contributions]]
+#+end_quote
+** (jamstack.org) Coisas | Jamstack
+:PROPERTIES:
+:ID:       68a51688-3a3c-4674-82fc-cad72f646bde
+:ROAM_REFS: https://jamstack.org/headless-cms/coisas/
+:END:
+
+#+begin_quote
+  * Coisas
+
+  - Home page: [[https://coisas.fiatjaf.com/]]
+  - Repository: [[https://github.com/fiatjaf/coisas][fiatjaf/coisas]]
+
+  - Open Source: Yes
+  - Type: Git-based
+  - Supported Site Generators: All
+
+  ** Coisas
+
+  Browse, view, edit, create and delete any kind of file.
+
+  Markdown files are shown with a ProseMirror based editor and YAML frontmatter is abstracted into a nice metadata editing form.  Images from the repository are shown on the side so they can be dragged to the post and easy drag-and-drop image upload features are provided.
+
+  Any GitHub repo can have its files edited by *Coisas*, but it gets better if you customize the repo by adding a =coisas.js= file to its root.  You can configure the GitHub authorization handler, the colors, the file defaults, set up a preview method and more.
+#+end_quote

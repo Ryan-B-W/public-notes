@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       093a1925-9878-460d-8819-cd7847232bad
+:END:
+#+title: Content Management System (CMS)
+#+filetags: :content_management:www:web_development:
+
+A piece of software used to manage content, usually for a website or blog.

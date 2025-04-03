@@ -1,0 +1,123 @@
+:PROPERTIES:
+:ID:       5631c2ae-036c-4004-9045-8a5a9cbbd9d0
+:END:
+#+title: Pages CMS
+#+filetags: :open_source:content_management:www:web_development:software:
+
+An [[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][open-source]], [[id:003ec9df-d673-4336-aae0-9a034fd89997][git]]-based, headless [[id:093a1925-9878-460d-8819-cd7847232bad][CMS]] that works with any static site generator.
+* (pagescms.org) Pages CMS: The No-Hassle CMS for Static Sites Generators :website:
+:PROPERTIES:
+:ID:       8d01c692-92ef-455b-a634-7f45cd71067c
+:ROAM_REFS: https://pagescms.org/
+:END:
+
+#+begin_quote
+  * The No-Hassle CMS for Static Sites Generators
+
+  Tired of juggling Git and YAML to update your Next.js, Astro, Hugo or Nuxt website?  Make it easy on you and your team, get a user-friendly CMS running straight on top of GitHub.
+
+  [[https://app.pagescms.org/][Sign in with GitHub]] [[https://github.com/pages-cms/pages-cms][Get the source code]]
+
+  [[https://demo.pagescms.org/]]
+
+  Watch the intro Intro
+
+  ** Works with all popular static site generators
+
+  ** Packed with features...
+
+  *** Configurable
+
+  Customize content types, views, search, and more.
+
+  *** Visual editor
+
+  Rich-text, syntax highlighting, and more.
+
+  *** Media manager
+
+  Drag and drop upload, multi-file selection, and more.
+
+  *** Search
+
+  Fast, full-text and faceted search across your content.
+
+  *** Github
+
+  Manage any website or app hosted on GitHub directly.
+
+  *** Mobile support
+
+  Full responsive design, optimized for mobile.
+
+  *** Email invites
+
+  Invite users via email, no other account needed.
+
+  Soon
+
+  *** File storage
+
+  Connect with AWS S3, Cloudflare R2, and more.
+
+  Soon
+
+  *** Scheduling
+
+  Easily schedule one-off or recurring content updates.
+
+  Soon
+
+  *** Permissions
+
+  Granular access control for different content types.
+
+  Soon
+
+  *** Analytics
+
+  Integrate with GA, Cloudflare Analytics, and more.
+
+  - Soon
+
+    *** Comments
+
+    Let your team leave inline comments on any part of your content.
+
+  ** Zero cost, zero geek-speak: give your team a user-friendly CMS.
+
+  [[https://app.pagescms.org/][Sign in with GitHub]]
+
+  ** Frequently asked questions
+
+  Is Pages CMS free?
+
+  Yes, Pages CMS is 100% free, whether you want to use [[https://app.pagescms.org/][the online version]], deploy it for free on [[https://vercel.com/][Vercel]], or self-host it.  It's MIT licensed through and through, feel free to extend it as you see fit.
+
+  Do you only support GitHub?
+
+  Yes.  Supposedly, we could add GitLab and Bitbucket support, but the assumption is the vast majority of users will be on GitHub.  Pull requests and issues are welcome: [[https://github.com/pages-cms/pages-cms][github.com/pages-cms/pages-cms]].
+
+  Why yet another CMS?
+
+  I hear you, but I needed Pages CMS to exist.  I love static site generators, and while YAML front matter and Markdown aren't terribly complicated, editing content and uploading images using GitHub.com or Git isn't really user-friendly, especially if you're updating the site with a whole team.  For that reason, a lot of teams use a headless CMS like Contentful, Sanity, or Strapi.  That works, but it's one more dependency and is overkill in most cases.  You could also use something like Decap CMS (formerly Netlify CMS). Really cool project, but I've never been a fan of the user experience.  And most importantly, I wanted something as simple as possible.  Back in 2018, I had built a lightweight CMS ([[https://github.com/hunvreus/jekyllplus][Jekyll+]]) with the idea of getting the CMS set up with a single configuration file.  Pages CMS is the next iteration of that idea.
+
+  Who made this?  It sucks!
+
+  I did: [[https://ronanberder.com/][Ronan Berder]] ([[https://x.com/hunvreus][@hunvreus]]). I'm a half-decent developer, but I sure could use some help to make this suck less: [[https://github.com/pages-cms/pages-cms][github.com/pages-cms/pages-cms]].
+#+end_quote
+* (github.com) pages-cms/pages-cms: The No-Hassle CMS for Static Sites Generators :website:
+:PROPERTIES:
+:ID:       39893bc1-381a-4407-9bdc-21db1181c660
+:ROAM_REFS: https://github.com/pages-cms/pages-cms
+:END:
+
+#+begin_quote
+  * Pages CMS
+
+  [[https://pagescms.org/][Pages CMS]] is an Open Source Content Management System for GitHub.  It is particularly well suited for static site generators (e.g. Jekyll, Next.js, VuePress, Hugo).
+
+  It offers a user-friendly interface to edit the content of your website or app directly on GitHub.
+
+  /[[https://demo.pagescms.org/][Watch the demo ▶]]/
+#+end_quote
