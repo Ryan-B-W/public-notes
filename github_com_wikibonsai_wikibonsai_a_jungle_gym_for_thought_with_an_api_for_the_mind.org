@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       d602d5be-d3a8-40f1-97bd-481b60368f17
+:ROAM_REFS: https://github.com/wikibonsai/wikibonsai
+:END:
+#+title: (github.com) wikibonsai/wikibonsai: A jungle gym for thought with an API for the mind.
+#+filetags: :information_management:notes:software:website:
+
+#+begin_quote
+  * WikiBonsai
+
+  : A knowledge bonsai wends through concepts in semantic space, like a melody winds through harmonies in music.
+
+  ****** [[https://github.com/wikibonsai/wikibonsai/tree/main/CITATION.bib][cite me!]]
+
+  : ⚠️ Please remember to backup all data and use version control.
+
+  The WikiBonsai project transforms a collection of markdown files into a text-based, easy-to-navigate [[https://github.com/wikibonsai/wikibonsai/tree/main/docs/PHILOSOPHY.md#a-jungle-gym-for-thought][jungle gym for thought]] with an [[https://github.com/wikibonsai/wikibonsai/tree/main/docs/DESIGN.md#an-api-for-the-mind][API for the mind]].  This is accomplished by enabling personal knowledge management (PKM) workflows that rely on =[[wiki]]= syntaxes, "semantic trees" or "knowledge bonsais", and data visualizations that are viewable on screens or in augmented/virtual reality.
+
+  This project is about strategically implementing and open-sourcing functionality that will benefit the most users and developers across the digital ecosystem.  Thus, it abides by the [[https://ia902701.us.archive.org/12/items/bstj57-6-1899/bstj57-6-1899_text.pdf][Unix Philosophy]]: Everything is modularized and implemented in such a way as to maximize re-use whether it be for the browser, desktop, mobile, or headset.  It's about furthering the state of PKM as a whole by building atop "[[https://github.com/wikibonsai/wikibonsai/tree/main/docs/DESIGN.md#drilling-down-to-standardization-bedrock][standardization bedrock]]" instead of just creating a single application.
+
+  Further, these workflows may also facilitate the mapping of [[https://github.com/wikibonsai/wikibonsai/tree/main/docs/DESIGN.md#semantic-space8][semantic space]] which could prove an invaluable resource in building a better understanding of how neural nets work and furthering the development of interpretable, explainable AI.
+
+  Only time will tell how far this path may [[https://github.com/wikibonsai/wikibonsai/tree/main/docs/PHILOSOPHY.md#finding-free-will][go]].
+#+end_quote

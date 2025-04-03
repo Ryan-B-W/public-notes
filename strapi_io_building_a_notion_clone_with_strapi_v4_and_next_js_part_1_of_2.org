@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c308507c-f78f-4057-82a6-1b15a4ee12cf
+:ROAM_REFS: https://strapi.io/blog/how-to-build-a-notion-clone-with-strapi-v4-and-next-js-part-1-of-2
+:END:
+#+title: (strapi.io) Building a Notion Clone with Strapi v4 and Next.js (Part 1 of 2)
+#+filetags: :information_management:content_management:tutorial:software_development:www:web_development:blog_post:website:
+
+#+begin_quote
+  * How to Build a Notion Clone with Strapi v4 and Next.js (Part 1 of 2)
+
+  [[https://strapi.io/user/hubert-nare][Hubert Nare]]
+
+  June 21, 2022
+
+  Notion is a popular note-taking tool loved by many for its responsiveness and dynamic features.  Its collaborative setting allows teams around the world to document, share, and communicate easily.  On top of that, the component-like nature of Notion content not only supports many types of formats (images, links, tables, etc.), but it makes writing and editing a breeze.
+
+  [[https://strapi.io/][Strapi is the leading open-source content management system (CMS)]], and it will act as our content hub for this project.  Not only is it fast, Strapi is also very developer-friendly.  You can consume the Strapi API from any client using REST or GraphQL. [[https://strapi.io/integrations][Strapi offers many integrations]], along with ample documentation on how to integrate it with all the major frontend libraries such as Next.js, React, Vue, Gatsby, and others.
+
+  This two-part tutorial series will walk you through the creation of a Notion clone with Strapi and Next.js.  In this article, you will get familiar with Strapi and its admin interface.  You will also learn about the GraphQL playground and how to create queries and mutations.
+#+end_quote

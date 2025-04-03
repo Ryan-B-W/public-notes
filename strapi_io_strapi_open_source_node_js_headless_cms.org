@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       80669c46-5924-4389-add9-1f209e45f4e3
+:ROAM_REFS: https://strapi.io/
+:END:
+#+title: (strapi.io) Strapi - Open source Node.js Headless CMS 🚀
+#+filetags: :www:web_development:content_management:software:website:
+
+#+begin_quote
+  * Build modern websites with the most customizable Headless CMS
+
+  The open-source Headless CMS for developers that makes API creation easy, and supports your favorite frameworks.  Customize and host your projects in the cloud or on your own servers.
+#+end_quote

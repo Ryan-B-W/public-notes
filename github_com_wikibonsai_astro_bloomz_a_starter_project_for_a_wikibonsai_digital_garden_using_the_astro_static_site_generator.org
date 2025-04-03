@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       dd05d054-049c-4e8f-9e58-9102676cceb6
+:ROAM_REFS: https://github.com/wikibonsai/astro-bloomz
+:END:
+#+title: (github.com) wikibonsai/astro-bloomz: A starter project for a WikiBonsai digital garden using the Astro static site generator.
+#+filetags: :template:static_site_generator:www:web_development:software:website:
+
+#+begin_quote
+  * Astro-Bloomz
+
+  An [[https://github.com/withastro/astro/tree/main/examples/blog][Astro template]] with [[https://github.com/wikibonsai/wikibonsai][WikiBonsai]] support.
+
+  You can see the live demo [[https://astro-bloomz.netlify.app/][here]].
+
+  🌸 Share bloomz from your [[https://github.com/wikibonsai/wikibonsai][🎋 WikiBonsai]] digital garden.
+#+end_quote

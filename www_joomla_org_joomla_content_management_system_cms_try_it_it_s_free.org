@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       9776e850-9bfe-4cb1-8c92-517cc1ed5b35
+:ROAM_REFS: https://www.joomla.org/
+:END:
+#+title: (www.joomla.org) Joomla Content Management System (CMS) - try it! It's free!
+#+filetags: :www:content_management:web_development:software:website:
+
+#+begin_quote
+  ** The Flexible Platform Empowering Website Creators
+
+  Joomla! is an award-winning content management system (CMS), which enables you to build web sites and powerful online applications.
+#+end_quote

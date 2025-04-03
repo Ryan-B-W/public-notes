@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       5f63a736-d643-410e-860d-f271be6f9fd5
+:ROAM_REFS: https://forum.strapi.io/t/seeking-advice-on-building-a-wiki-like-application-with-strapi-and-next-js/36966
+:END:
+#+title: (forum.strapi.io) Seeking Advice on Building a Wiki-Like Application with Strapi and Next.js - Discord Q&A / strapi-questions - Strapi Community Forum
+#+filetags: :software_development:information_management:content_management:www:web_development:forums:website:
+
+One response links to [[id:c308507c-f78f-4057-82a6-1b15a4ee12cf][(strapi.io) Building a Notion Clone with Strapi v4 and Next.js (Part 1 of 2)]].

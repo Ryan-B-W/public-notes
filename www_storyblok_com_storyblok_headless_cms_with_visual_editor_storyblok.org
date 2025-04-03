@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       6ceb3bbe-2b48-4cd2-bfb3-c2ee23d15f4e
+:ROAM_REFS: https://www.storyblok.com/
+:END:
+#+title: (www.storyblok.com) Storyblok - Headless CMS with Visual Editor | Storyblok
+#+filetags: :content_management:www:web_development:software:website:
+
+#+begin_quote
+  * Joyful Headless runs circles around your bloated, old-school CMS
+
+  *Make bigger, faster market impact* with the CMS that gets out of your way.
+#+end_quote

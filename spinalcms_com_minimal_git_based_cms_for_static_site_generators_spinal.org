@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       3403adf0-6671-40da-9f14-79d3cde57fc2
+:ROAM_REFS: https://spinalcms.com/
+:END:
+#+title: (spinalcms.com) Minimal Git-based CMS for static site generators | Spinal
+#+filetags: :content_management:www:web_development:software:website:
+
+#+begin_quote
+  * Minimal and beautiful CMS for static site generators
+
+  Static site generators are amazing.  Collaborating on them with your team isn't.  Say hello to Spinal. 👋
+
+  ** Your entire team can now write, publish and schedule blogs, docs and more
+
+  Spinal is a Git-based CMS for static site generators (like [[https://spinalcms.com/cms-for-jekyll/][Jekyll]], [[https://spinalcms.com/cms-for-11ty/][11ty]] or [[https://spinalcms.com/cms-for-astro/][Astro]] and other [[https://spinalcms.com/cms-for-jamstack/][Jamstack sites]], successfully used by hundreds of [[https://spinalcms.com/cms-for-small-saas-companies/][SaaS companies]] that know *content marketing is key for the growth of their business*.
+
+  Most existing CMS' require too much set up and maintenance.  You just want to invite your team: /developers/, /marketing/ ánd /management/ to write articles, QA the next batch of documentation and schedule the next changelog to introduce that latest feature.  No messing about with API's or have them =git clone= to run a local copy of your static site, but invite them to Spinal and craft *content that will fuel your growth*.
+#+end_quote
+* (spinalcms.com) A minimal CMS for Zola | Spinal
+:PROPERTIES:
+:ID:       74212ebb-3b9a-493c-b896-6606753cec28
+:ROAM_REFS: https://spinalcms.com/cms-for-zola/
+:END:
+
+#+begin_quote
+  * A minimal CMS for Zola
+
+  Zola is zesty!  Collaborating on it with your entire team not so much.  Say hello to Spinal. 👋
+
+  Zola is a fantastic option for developers searching for a speedy and flexible static site generator, written in Rust and powered by a single binary, simplifying its usage and making it even more efficient.  It's a lightweight tool that offers the perfect balance between functionality and simplicity, allowing you to build and deploy static sites quickly and easily.
+
+  It is a great choice for developers who want to harness the power of Rust's speed and safety in their static site generation.  With features like automatic reloading and a built-in development server, Zola streamlines the development process and makes it easy to build beautiful, performant sites.
+
+  ** Easily manage your content with a git-based Zola CMS
+
+  Spinal is designed to connect with your Zola site's GitHub repository, enabling you to quickly and easily publish the content.  The process is so effortless, it takes just a few clicks to get started!  All you need to do is select your repository, specify where your Markdown files are located, and the content is automatically imported into your Spinal dashboard.  Unlike other content management systems, there's no need to spend time and effort fiddling with APIs, mapping Frontmatter, or dealing with other quirky setup procedures.  But just a quick set up and you are off to publishing to your Zola site.
+
+  Spinal allows you to work with your entire team to create and publish the best content possible.  Whether you're a developer or a marketer, Spinal makes it easy to collaborate on the content in your Zola site and streamline your workflow.  And with Spinal's intuitive dashboard, you can easily manage your content, get a clear view of upcoming content and get birds-eye overview of all your content in draft, QA and scheduled with Spinal's (Kanban) Workflow feature.
+
+  ** Adored by both developers and non-developers
+
+  Developers love Zola because it is a fast and flexible static site generator written in Rust with a focus on simplicity and ease of use.  Pair that with Spinal's minimal, beautiful, and powerful WYSIWYG editor, you can empower the rest of your team to write, update, and schedule content for your marketing site with ease.
+
+  Spinal's intuitive interface makes it easy for non-technical team members to create and publish content, without requiring them to learn complex coding languages or workflows.  Your content can be scheduled and published with just a few clicks, with a build process set up, thanks to the first-party integration with GitHub.
+
+  With this new superpower, your team can collaborate more efficiently and get more content out in less time.  Boost your team's productivity and create compelling marketing content that drives growth.
+
+  [[https://www.getzola.org/][Check out the Zola site for more]].
+#+end_quote

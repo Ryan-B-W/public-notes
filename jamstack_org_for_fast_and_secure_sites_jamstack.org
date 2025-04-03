@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       43966555-c9aa-4892-b08f-f874b1b5919c
+:ROAM_REFS: https://jamstack.org/
+:END:
+#+title: (jamstack.org) For fast and secure sites | Jamstack
+#+filetags: :content_management:www:web_development:software:website:
+
+#+begin_quote
+  * What is Jamstack?
+
+  Jamstack is an architectural approach that decouples the web experience layer from data and business logic, improving flexibility, scalability, performance, and maintainability.
+
+  Jamstack removes the need for business logic to dictate the web experience.
+
+  It enables a composable architecture for the web where custom logic and 3rd party services are consumed through APIs.
+
+  ** The Roots of Jamstack
+
+  [[https://www.netlify.com/authors/matt-biilmann/][Matt Biilmann]] took the concept of Jamstack mainstream with his presentation at Smashing Conf 2016.  Watch the quintessential introduction to the Jamstack.
+
+  [[https://vimeo.com/163522126][Watch /Mathias Biilmann Smashing Conf 2016 talk video: The New Front-End Stack/ on Vimeo]]
+
+  [[https://jamstack.org/resources/][See more videos and resources]]
+#+end_quote
+* (jamstack.org) Headless CMS - Top Content Management Systems | Jamstack :lists:
+:PROPERTIES:
+:ID:       c5969d68-199d-4b8c-9b96-ba7619c201b9
+:ROAM_REFS: https://jamstack.org/headless-cms/
+:END:
+
+#+begin_quote
+  * Headless CMS
+
+  A list of [[https://www.netlify.com/blog/complete-guide-to-headless-cms/][headless content management systems]] for Jamstack sites
+#+end_quote

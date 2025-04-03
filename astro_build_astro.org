@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       b4d302f7-4a8b-41cc-8fb2-7412264f9439
+:ROAM_REFS: https://astro.build/
+:END:
+#+title: (astro.build) Astro
+#+filetags: :www:static_site_generator:content_management:web_development:software:website:
+
+#+begin_quote
+  * The web framework for content-driven websites
+
+  Astro powers the world's fastest marketing sites, blogs, e-commerce websites, and more.
+#+end_quote

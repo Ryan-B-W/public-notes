@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       83c65df0-79e4-4f33-bd3c-d53771aad91b
+:ROAM_REFS: https://docs.astro.build/en/guides/cms/
+:END:
+#+title: (docs.astro.build) Use a CMS with Astro | Docs
+#+filetags: :content_management:www:web_development:documentation:website:
+
+#+begin_quote
+  * Use a CMS with Astro
+
+  *Ready to connect a Headless CMS to your Astro project?* Follow one of our guides to integrate a CMS.
+
+  Tip: Find [[https://astro.build/integrations/?search=cms][community-maintained integrations]] for connecting a CMS to your project in our integrations directory.
+#+end_quote

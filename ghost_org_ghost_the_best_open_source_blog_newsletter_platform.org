@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       b98d9de5-d5eb-4bdb-912a-2979ad956ea7
+:ROAM_REFS: https://ghost.org/
+:END:
+#+title: (ghost.org) Ghost: The best open source blog & newsletter platform
+#+filetags: :content_management:www:web_development:software:website:
+
+#+begin_quote
+  * Independent technology for modern publishing.
+
+  Ghost is a powerful app for professional publishers to create, share, and grow a business around their content.  It comes with modern tools to build a website, publish content, send newsletters & offer paid subscriptions to members.
+#+end_quote
