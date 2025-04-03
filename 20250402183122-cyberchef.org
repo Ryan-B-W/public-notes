@@ -1,9 +1,15 @@
 :PROPERTIES:
+:ID:       a03acba4-5fa3-4665-acf3-82d33955b535
+:END:
+#+title: CyberChef
+#+filetags: :www:software_development:open_source:software:
+
+Handy tool for random data encoding tasks.  Especially handy for hacking competitions and related challenges.
+* (gchq.github.io) CyberChef                                        :website:
+:PROPERTIES:
 :ID:       633f44b3-7ccf-442c-8913-7c65a0ed5355
 :ROAM_REFS: https://gchq.github.io/CyberChef/
 :END:
-#+title: (gchq.github.io) CyberChef
-#+filetags: :www:software_development:software:website:
 
 #+begin_quote
   * CyberChef - The Cyber Swiss Army Knife
