@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       984dfa95-0f14-4868-92e3-6182c96478e8
+:ROAM_REFS: http://veracity-scm.com/
+:END:
+#+title: (veracity-scm.com) Veracity - The Next Step in DVCS
+#+filetags: :version_control:software_development:software:website:
+
+#+begin_quote
+  * An open source, distributed version control and bug tracking system for Windows, Mac OS X, and Linux.
+
+  - [[http://veracity-scm.com/compare][DVCS Comparison]] :: Veracity features and philosophies vs. other major DVCS tools
+  - [[http://veracity-scm.com/qa/questions/53/ive-installed-veracity-how-do-i-get-started-using-it][Getting Started]] :: Veracity Q&A: I've installed Veracity.  How do I get started using it?
+
+  **** Version Control
+
+  The first thing you'll notice: Distributed Version Control is just flat-out fast.  Everything happens locally until you need to connect with other servers; when you do, that's fast and efficient, too.
+
+  Veracity takes previously-scary or painful things like Branching, Merging and working Offline and makes them comfortable, powerful components of your everyday workflow.  Most merges are resolved automatically, and when in doubt, [[http://sourcegear.com/diffmerge][DiffMerge]] is available to sort things out.
+
+  **** Distributed Issue and Task Tracking
+
+  Veracity takes the distributed model one step further - project data is distributed, as well.  Check in a bug fix while disconnected on the train; mark the bug as Fixed locally; and move on to the next task.  When you're back on line, sync with the team and everyone gets the bug update and the code at once.
+
+  Veracity merges bug data automatically - you update a bug's status, someone else updates its priority, you sync the two - and everything just works.
+
+  **** Wiki
+
+  Veracity includes a distributed, auto-merging Wiki, using familiar, readable Markdown syntax.
+
+  Wiki pages intelligently link to bugs, version control branches, and more; you can create, view and edit the wiki on the web.
+#+end_quote

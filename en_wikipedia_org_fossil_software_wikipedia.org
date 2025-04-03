@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       58c9ba9d-902e-446a-9c01-6d6c18e533f0
+:ROAM_REFS: https://en.wikipedia.org/wiki/Fossil_(software)
+:END:
+#+title: (en.wikipedia.org) Fossil (software) - Wikipedia
+#+filetags: :version_control:software_development:software:website:
+
+#+begin_quote
+  *Fossil* is a [[https://en.wikipedia.org/wiki/Software_configuration_management][software configuration management]], [[https://en.wikipedia.org/wiki/Bug_tracking_system][bug tracking system]] and [[https://en.wikipedia.org/wiki/Wiki_software][wiki software]] server for use in [[https://en.wikipedia.org/wiki/Software_development][software development]] created by [[https://en.wikipedia.org/wiki/D._Richard_Hipp][D. Richard Hipp]].
+#+end_quote

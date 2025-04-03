@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       587cbc01-74a4-4db8-bbac-244333406f40
+:ROAM_REFS: https://github.com/kiwanami/emacs-edbi
+:END:
+#+title: (github.com) kiwanami/emacs-edbi: Database Interface for Emacs Lisp
+#+filetags: :databases:emacs_lisp:emacs:software:website:
+
+#+begin_quote
+  * Emacs DBI
+
+  This program connects the database server through Perl's DBI, and provides DB-accessing API and the simple management UI.
+#+end_quote

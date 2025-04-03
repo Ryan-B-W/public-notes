@@ -1,0 +1,107 @@
+:PROPERTIES:
+:ID:       df934ef7-3d6f-4904-bad1-a1d4428c1775
+:ROAM_REFS: https://www.emacswiki.org/
+:END:
+#+title: (www.emacswiki.org) EmacsWiki: Site Map
+#+filetags: :emacs:lists:website:
+
+* (www.emacswiki.org) EmacsWiki: Category Database                :databases:
+:PROPERTIES:
+:ID:       87efb2e1-1589-4662-a068-5fdbeb00ff5f
+:ROAM_REFS: https://www.emacswiki.org/emacs/CategoryDatabase
+:END:
+** (www.emacswiki.org) EmacsWiki: Category Sql                          :sql:
+:PROPERTIES:
+:ID:       2a11ad66-ef7f-44cd-aebf-1c5bf8c33526
+:ROAM_REFS: https://www.emacswiki.org/emacs/CategorySql
+:END:
+* (www.emacswiki.org) EmacsWiki: Category Education               :education:
+:PROPERTIES:
+:ID:       934cda48-87be-4a5f-92f1-bc1627e97027
+:ROAM_REFS: https://www.emacswiki.org/emacs/CategoryEducation
+:END:
+* (www.emacswiki.org) EmacsWiki: Emacs For Dev Studio Users :visual_studio_code:
+:PROPERTIES:
+:ID:       bfa16a2e-0d8b-420d-96aa-256ab2bd1537
+:ROAM_REFS: https://www.emacswiki.org/emacs/EmacsForDevStudioUsers
+:END:
+* (www.emacswiki.org) EmacsWiki: Category External Utilities
+:PROPERTIES:
+:ID:       6bc26b75-646d-4c51-9ee3-29b5ac3254f0
+:ROAM_REFS: https://www.emacswiki.org/emacs/CategoryExternalUtilities
+:END:
+* (www.emacswiki.org) EmacsWiki: Category Gopher :gopher_protocol:networking:
+:PROPERTIES:
+:ID:       7cf29d81-f3aa-445d-91be-d2dbbe006895
+:ROAM_REFS: https://www.emacswiki.org/emacs/CategoryGopher
+:END:
+* (www.emacswiki.org) EmacsWiki: Category Interface          :www:networking:
+:PROPERTIES:
+:ID:       f59bebbb-dd70-4508-a97f-7d5c2eada398
+:ROAM_REFS: https://www.emacswiki.org/emacs/CategoryInterface
+:END:
+* (www.emacswiki.org) EmacsWiki: Category Programmer Utils :software_development:programming:
+:PROPERTIES:
+:ID:       4d912110-b0f2-49cc-973c-8827cf58d4c5
+:ROAM_REFS: https://www.emacswiki.org/emacs/CategoryProgrammerUtils
+:END:
+** (www.emacswiki.org) EmacsWiki: Ditz Mode
+:PROPERTIES:
+:ID:       de07d570-4012-40dc-bdb1-3409ea10347b
+:ROAM_REFS: https://www.emacswiki.org/emacs/DitzMode
+:END:
+** (www.emacswiki.org) EmacsWiki: Category Indentation
+:PROPERTIES:
+:ID:       700d6504-8100-4743-a87d-45c37c803324
+:ROAM_REFS: https://www.emacswiki.org/emacs/CategoryIndentation
+:END:
+** (www.emacswiki.org) EmacsWiki: Connected Graph Editor
+:PROPERTIES:
+:ID:       18741e56-b5d1-4b81-8fbf-0e82e70759eb
+:ROAM_REFS: https://www.emacswiki.org/emacs/ConnectedGraphEditor
+:END:
+* (www.emacswiki.org) EmacsWiki: Category Related
+:PROPERTIES:
+:ID:       0ce80809-f7c8-4934-96e9-76a20cdca9b3
+:ROAM_REFS: https://www.emacswiki.org/emacs/CategoryRelated
+:END:
+** (www.emacswiki.org) EmacsWiki: Mozilla               :mozilla_org:firefox:
+:PROPERTIES:
+:ID:       ef743655-d0ed-48e1-b433-fa9587c45610
+:ROAM_REFS: https://www.emacswiki.org/emacs/Mozilla
+:END:
+** (www.emacswiki.org) EmacsWiki: Emacs X Window Manager                :x11:
+:PROPERTIES:
+:ID:       ffc5ac79-d43c-4c9c-8adc-3e34afca1325
+:ROAM_REFS: https://www.emacswiki.org/emacs/Emacs_X_Window_Manager
+:END:
+** (www.emacswiki.org) EmacsWiki: X Window Emacs Manager                :x11:
+:PROPERTIES:
+:ID:       1f0f2fa6-8e9f-4f96-b619-8335265b6e9c
+:ROAM_REFS: https://www.emacswiki.org/emacs/XWindowEmacsManager
+:END:
+** (www.emacswiki.org) EmacsWiki: Java Development Environment :software_development:programming:java_lang:
+:PROPERTIES:
+:ID:       1ef8d43e-50ed-43c2-9e0b-eb7fa53096b2
+:ROAM_REFS: https://www.emacswiki.org/emacs/JavaDevelopmentEnvironment
+:END:
+* (www.emacswiki.org) EmacsWiki: Category Web Browser                   :www:
+:PROPERTIES:
+:ID:       bf13ff13-7d2f-4997-aef2-7073620cdc2c
+:ROAM_REFS: https://www.emacswiki.org/emacs/CategoryWebBrowser
+:END:
+** (www.emacswiki.org) EmacsWiki: Emacs X Widgets
+:PROPERTIES:
+:ID:       74834cbc-0cbc-43e6-bfce-7c89e3036548
+:ROAM_REFS: https://www.emacswiki.org/emacs/EmacsXWidgets
+:END:
+** (www.emacswiki.org) EmacsWiki: emacs-w3m
+:PROPERTIES:
+:ID:       6ae01f07-230d-4b8a-a6a0-84aad9e9260a
+:ROAM_REFS: https://www.emacswiki.org/emacs/emacs-w3m
+:END:
+** (www.emacswiki.org) EmacsWiki: ezbl
+:PROPERTIES:
+:ID:       e91f18ef-074d-410d-a4ac-00f0ef09a516
+:ROAM_REFS: https://www.emacswiki.org/emacs/ezbl
+:END:

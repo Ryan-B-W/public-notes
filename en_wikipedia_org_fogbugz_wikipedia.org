@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       a7368e01-36f7-46ac-8f80-72f2e9743b56
+:ROAM_REFS: https://en.wikipedia.org/wiki/FogBugz
+:END:
+#+title: (en.wikipedia.org) FogBugz - Wikipedia
+#+filetags: :version_control:software_development:software:website:
+
+#+begin_quote
+  *FogBugz* is an integrated [[https://en.wikipedia.org/wiki/Web_application][web-based]] [[https://en.wikipedia.org/wiki/Project_management][project management]] system featuring [[https://en.wikipedia.org/wiki/Bug_tracking_system][bug]] and [[https://en.wikipedia.org/wiki/Issue_tracking][issue tracking]], [[https://en.wikipedia.org/wiki/Discussion_forums][discussion forums]], [[https://en.wikipedia.org/wiki/Wikis][wikis]], [[https://en.wikipedia.org/wiki/Customer_relationship_management][customer relationship management]], and [[https://en.wikipedia.org/wiki/Evidence-based_scheduling][evidence-based scheduling]] originally developed by [[https://en.wikipedia.org/wiki/Fog_Creek_Software][Fog Creek Software]].
+#+end_quote

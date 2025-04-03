@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       2785d8d3-76e5-45a9-b73d-13214df599cd
+:ROAM_REFS: https://en.wikipedia.org/wiki/Bug_tracking_system
+:END:
+#+title: (en.wikipedia.org) Bug tracking system - Wikipedia
+#+filetags: :software_development:website:
+
+#+begin_quote
+  Tracking system or defect tracking system is a [[https://en.wikipedia.org/wiki/Software_application][software application]] that keeps track of reported [[https://en.wikipedia.org/wiki/Software_bug][software bugs]] in software development projects.  It may be regarded as a type of [[https://en.wikipedia.org/wiki/Issue_tracking_system][issue tracking system]].
+
+  Many bug tracking systems, such as those used by most [[https://en.wikipedia.org/wiki/Open-source_software][open-source software]] projects, allow end-users to enter bug reports directly.  Other systems are used only internally in a company or organization doing [[https://en.wikipedia.org/wiki/Software_development][software development]].  Typically bug tracking systems are integrated with other [[https://en.wikipedia.org/wiki/Project_management_software][project management software]].
+
+  A bug tracking system is usually a necessary component of a professional software development infrastructure, and consistent use of a bug or issue tracking system is considered one of the "hallmarks of a good software team".
+#+end_quote
+* (en.wikipedia.org) Bug tracking system - Distributed bug tracking - Wikipedia
+:PROPERTIES:
+:ID:       4f2c7c9e-ed7b-429a-86d9-b4f65d27b9a8
+:ROAM_REFS: https://en.wikipedia.org/wiki/Bug_tracking_system#Distributed_bug_tracking
+:END:
+#+begin_quote
+  ** Distributed bug tracking
+
+  Some bug trackers are designed to be used with [[https://en.wikipedia.org/wiki/Distributed_revision_control][distributed revision control]] software.  These distributed bug trackers allow bug reports to be conveniently read, added to the database or updated while a developer is offline.  [[https://en.wikipedia.org/wiki/Fossil_(software)][Fossil]] and Veracity both include distributed bug trackers.
+
+  Recently, commercial bug tracking systems have also begun to integrate with [[https://en.wikipedia.org/wiki/Distributed_version_control][distributed version control]].  [[https://en.wikipedia.org/wiki/FogBugz][FogBugz]], for example, enables this functionality via the source-control tool, Kiln.
+
+  Although [[https://en.wikipedia.org/wiki/Wiki][wikis]] and bug tracking systems are conventionally viewed as distinct types of software, [[https://en.wikipedia.org/wiki/Ikiwiki][ikiwiki]] can also be used as a distributed bug tracker.  It can manage documents and code as well, in an integrated distributed manner.  However, its query functionality is not as advanced or as user-friendly as some other, non-distributed bug trackers such as [[https://en.wikipedia.org/wiki/Bugzilla][Bugzilla]].  Similar statements can be made about [[https://en.wikipedia.org/wiki/Org-mode][org-mode]], although it is not wiki software as such.
+#+end_quote
+** See Also
+*** [[id:58c9ba9d-902e-446a-9c01-6d6c18e533f0][(en.wikipedia.org) Fossil (software) - Wikipedia]]
+*** [[id:984dfa95-0f14-4868-92e3-6182c96478e8][(veracity-scm.com) Veracity - The Next Step in DVCS]]
+*** [[id:a7368e01-36f7-46ac-8f80-72f2e9743b56][(en.wikipedia.org) FogBugz - Wikipedia]]

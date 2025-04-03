@@ -1,0 +1,76 @@
+:PROPERTIES:
+:ID:       3d883db1-a87b-4189-b510-b2ca23d00885
+:ROAM_REFS: https://ghosttext.fregante.com/
+:END:
+#+title: (ghosttext.fregante.com) 👻 GhostText — Use your text editor in the browser
+#+filetags: :emacs:google_chrome:firefox:software:website:
+
+#+begin_quote
+  * Use your text editor in the browser
+
+  Whenever you're writing more than a little snippet of code anywhere on the web, activate GhostText to open your preferred text editor and enjoy your own development environment.
+
+  ** Installation
+
+  GhostText is a browser extension that connects to your editor via its own extension.  Install both extensions and, if necessary, start the GhostText server in the editor's extension.
+
+  *** Choose your browser
+
+  *** Choose your text editor
+
+  Most editor extensions are authored by third parties.  You can create more extensions for your favorite editor!  Refer to [[https://github.com/fregante/GhostText/blob/main/PROTOCOL.md][the protocol document]].
+
+  ** Usage
+
+  Once you have installed both browser and editor extensions, you can activate GhostText in the current browser tab by clicking its icon in the toolbar or by using a [[https://ghosttext.fregante.com/#keyboard-shortcuts][keyboard shortcut]].  The editor needs to be launched first.
+
+  Notice: in some editors you'll need to run the /Enable GhostText/ command to start the server.  Refer to the documentation of each extension.  Sublime Text doesn't need this step.
+
+  ** How it works
+
+  GhostText is split in two parts:
+
+  1. A HTTP and WebSocket server in the text editor
+  2. A client in the browser
+
+  When you activate GhostText, the browser will try contacting the server in the text editor (at the port specified in the options) and open a WebSocket connection.  Every change will be transmitted to the other side.  Each side can close the socket (for example by closing the window) and the session will be automatically over.
+
+  ** Keyboard shortcuts
+
+  These are the default shortcuts, they can be customized in [[https://lifehacker.com/add-custom-keyboard-shortcuts-to-chrome-extensions-for-1595322121][Chrome]] and [[https://support.mozilla.org/kb/manage-extension-shortcuts-firefox][Firefox]], but not yet in Safari.
+
+  | Windows | ctrl + shift + K |
+  | Linux   | ctrl + shift + H |
+  | Mac     | cmd + shift + K  |
+
+  ** More
+
+  [[https://github.com/fregante/GhostText][GhostText on GitHub]] --- [[https://ghosttext.fregante.com/troubleshooting/][Troubleshooting]]
+#+end_quote
+* (addons.mozilla.org) GhostText – Get this Extension for 🦊 Firefox (en-US) :firefox:software:website:
+:PROPERTIES:
+:ID:       e77ad5d8-0eae-44ec-b925-289487eb892d
+:ROAM_REFS: https://addons.mozilla.org/en-US/firefox/addon/ghosttext/
+:END:
+
+#+begin_quote
+  Use your text editor to write in your browser.  Everything you type in the editor will be instantly updated in the browser (and vice versa).
+
+  ** About this extension
+
+  Whenever you're writing more than a little snippet of code anywhere on the web, activate GhostText to open your preferred text editor and enjoy your own development environment.
+
+  GhostText is a browser extension that connects to your editor via its own extension.  Install both extensions and, if necessary, start the GhostText server in the editor's extension.
+
+  Supported editors:
+
+  - Sublime Text
+  - VS Code
+  - Atom
+  - Emacs
+  - Vim
+  - Neovim
+  - ACME Editor
+
+  You can find more information on [[https://prod.outgoing.prod.webservices.mozgcp.net/v1/c2fb4ad2b3418c79c0be641eaa02e0f259da4940f615ca5ed0e1b9f8c3cbd66a/https://ghosttext.fregante.com/][https://ghosttext.fregante.com/]] or contribute on [[https://prod.outgoing.prod.webservices.mozgcp.net/v1/726e88246fae9b23e5d91a883de1897c83dcf5b3cb74ce6ed646750af5e05bad/https://github.com/fregante/GhostText][https://github.com/fregante/GhostText]]
+#+end_quote

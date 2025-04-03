@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       c6a9f0b9-5af8-4d73-aca8-6f8fb93bc31a
+:ROAM_REFS: https://thelambdalab.xyz/elpher/
+:END:
+#+title: (thelambdalab.xyz) Elpher Gopher Client
+#+filetags: :gopher_protocol:networking:emacs_lisp:emacs:software:website:
+
+#+begin_quote
+  * Elpher: a gopher and gemini client for GNU Emacs
+
+  Welcome to the official /web/ landing page for Elpher, a gopher and [[https://gemini.circumlunar.space/][gemini]] client for [[https://www.gnu.org/software/emacs/][GNU Emacs]].
+
+  *Important:* the actual home of Elpher is
+
+  *[[gopher:////thelambdalab.xyz/1/projects/elpher/][gopher://thelambdalab.xyz/1/projects/elpher/]]*
+
+  Please go there for project news, the source code, and instructions on how to submit feedback, patches, or otherwise contribute to the project!
+
+  Elpher supports:
+
+  - intuitive keyboard and mouse-driven browsing,
+  - out-of-the-box compatibility with evil-mode,
+  - clickable web and gopher links *in plain text*,
+  - caching of visited sites,
+  - pleasant and configurable visualization of Gopher directories,
+  - direct visualisation of image files,
+  - jumping directly to links by name (with autocompletion),
+  - a simple bookmark management system,
+  - connections using TLS encryption,
+  - the Finger protocol.
+#+end_quote

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ba9f0855-b57b-4b83-8494-dfc1545ff4a6
+:ROAM_REFS: https://github.com/emacs-eaf/emacs-application-framework
+:END:
+#+title: (github.com) emacs-eaf/emacs-application-framework: EAF, an extensible framework that revolutionizes the graphical capabilities of Emacs
+#+filetags: :emacs:software:website:
+
+#+begin_quote
+  A free/libre and open-source extensible framework that revolutionizes the graphical capabilities of Emacs.  The key to ultimately /Live in Emacs/
+#+end_quote
+* (github.com) emacs-eaf/eaf-browser: A modern, customizable and extensible browser in Emacs :www:
+:PROPERTIES:
+:ID:       7cd009f2-04d3-4a8a-9490-f73d9a6edd3a
+:ROAM_REFS: https://github.com/emacs-eaf/eaf-browser
+:END:
+
+#+begin_quote
+  *** EAF Browser
+
+  Browser application for the [[https://github.com/emacs-eaf/emacs-application-framework][Emacs Application Framework]].
+#+end_quote

@@ -1,0 +1,77 @@
+:PROPERTIES:
+:ID:       2c0cc654-5a2f-4762-b0b7-927480e61d84
+:END:
+#+title: Nyxt Browser
+#+filetags: :common_lisp:lisp:networking:www:software:
+
+Web browser inspired by [[id:aca1324c-b142-4e34-a121-a8bb0a79ddf8][Emacs]] focused on keyboard-driven navigation and customizable in [[id:b5fb5c4b-d10f-4bca-91e1-a5e946ef0c83][Common Lisp]].
+* (nyxt-browser.com) Nyxt browser: The hacker's browser             :website:
+:PROPERTIES:
+:ID:       9e86641c-5906-4ede-b906-4c7ec7d9b842
+:ROAM_REFS: https://nyxt-browser.com/ https://nyxt.atlas.engineer/
+:END:
+
+#+begin_quote
+  * Nyxt:
+
+  ** the hacker's browser.
+
+  Never leave the keyboard.  Quickly analyze, navigate, and extract information from the Internet.
+
+  *** Never leave the keyboard with powerful link hinting.
+
+  Speed up the process as you follow links with your keyboard.  In this example we follow a link to view a page about /Aerodynamic Forces/, without resorting to the mouse pointer.
+
+  *** Quickly navigate documents with Jump Headings.
+
+  Immediately skip to important chapters with Jump Headings by fuzzily searching through header tags.  In this example we jump to the section: /Intelligence and Learning/.
+
+  *** Instantly switch between your tabs.
+
+  Easily find relevant tabs with a fuzzy search.  In this example we have 11 open tabs, and we narrow this group with each keystroke.
+
+  *** Find the right info the first time with multi-tab search.
+
+  Search multiple tabs simultaneously.  In this example we look for the diet of penguins across several pages at once.
+
+  *** Avoid tedious repetition by selecting groups of tabs.
+
+  Run commands against multiple tabs to avoid repeating yourself.  In the example below we finish our online research of elephants by selecting and closing all webpages that match the string "ele".
+
+  *** Execute commands easily.
+
+  Fuzzy search relevant commands to instantly run them.  No more digging through menus.
+
+  *** Built-in programmability.
+
+  Use the built-in REPL to program Nyxt.  Run short scripts, and try out new workflows.  Everything in Nyxt is fully extensible and modifiable.
+
+  *** Smart bookmark search.
+
+  Use the prompt buffer to intelligently search your tagged bookmarks.
+
+  *** Customizable autofills.
+
+  Use autofills to fill in forms.  Autofills can be functions or plain strings.  In the case of functions, you can make them intelligent.  For example, you may want an autofill to fill in the current date.
+
+  *** Clipboard history.
+
+  Anything you copy is remembered so that you can re-paste it at any time.  No more looking for the 'last thing' you pasted!
+
+  *** Lossless tree history.
+
+  A tree based history ensures that you never lose track of where you've been.  All pages you've visited are stored in a tree that you can traverse and search.  No more losing items in your history.
+#+end_quote
+* (github.com) atlas-engineer/nyxt: Nyxt - the hacker's browser.    :website:
+:PROPERTIES:
+:ID:       4a510581-f4be-4c0f-b0b5-66bc87c2f455
+:ROAM_REFS: https://github.com/atlas-engineer/nyxt
+:END:
+
+#+begin_quote
+  * Nyxt browser
+
+  *Nyxt* [nýkst] is a keyboard-driven web browser designed for hackers.  Inspired by Emacs and Vim, it has familiar keybindings ([[https://en.wikipedia.org/wiki/Emacs][Emacs]], [[https://en.wikipedia.org/wiki/Vim_(text_editor)][vi]], [[https://en.wikipedia.org/wiki/IBM_Common_User_Access][CUA]]), and is infinitely extensible in Lisp.
+
+  *Attention:* Nyxt is under active development.  Please feel free to [[https://github.com/atlas-engineer/nyxt/issues][report]] bugs, instabilities or feature wishes.
+#+end_quote
