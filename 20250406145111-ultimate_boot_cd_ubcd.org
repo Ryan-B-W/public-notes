@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       797cd735-fc6d-4c23-85fb-a99833ed485f
+:END:
+#+title: Ultimate Boot CD (UBCD)
+#+filetags: :diagnostics:software:
+
+Pre-packaged collection of computer diagnostic, repair, and utility software.
+* (www.ultimatebootcd.com) Ultimate Boot CD - Overview              :website:
+:PROPERTIES:
+:ID:       04f66233-fcdc-4a3a-a0df-615d8b8a251c
+:ROAM_REFS: https://www.ultimatebootcd.com/
+:END:
+
+#+begin_quote
+  * Overview
+
+  /Current release: 5.3.9/
+
+  */Ultimate Boot CD is completely free for the download, or could be obtained for a small fee.  If you had somehow paid a ridiculous amount of money for it, you have most likely been fleeced.  The least you could do is to make as many copies of the offical UBCD and pass it to your friends, relatives, colleagues or even complete strangers to minimize the per unit cost of your loss!/*
+
+  __
+
+  */Please note that some of the freeware on UBCD explicitly prohibits redistribution for commercial purposes eg. DIMM_ID. If you intend to resell UBCD for commercial gains, please contact the respective authors for their permissions./*
+
+  */If you like trying out new stuff, please check out an early beta version of [[https://www.ultimatebootcd.com/ubcdlive.html][UBCD Live]] and give us [[http://www.ultimatebootcd.com/forums/viewtopic.php?f=7&t=14827][your feedback]].  This is a Live Rescue CD based on Debian, which we hope will eventually be good enough to replace Parted Magic./*
+
+  You need the Ultimate Boot CD if you want to:
+
+  - *Run floppy-based diagnostic tools from CDROM drives.*  More and more PCs are shipped without floppy drives these days, and it is such a royal pain when you need to run diagnostic tools on them.
+  - *Free yourself from the slow loading speed of the floppy drive.*  Even if you do have a floppy drive, it is still much much faster to run your diagnostic tools from the CDROM drive, rather than wait for the tool to load from the floppy drive.
+  - *Consolidate as many diagnostic tools as possible into one bootable CD.* Wouldn't you like to avoid digging into the dusty box to look for the right floppy disk, but simply run them all from a single CD? Then the Ultimate Boot CD is for you!
+  - *Run Ultimate Boot CD from your USB memory stick.*  A script on the CD prepares your USB memory stick so that it can be used on newer machines that supports booting from USB devices.  You can access the same tools as you would from the CD version.
+
+  New features in UBCD V5.x include:
+
+  - *New!*  The Linux-based distro [[http://partedmagic.com/][Parted Magic]] is now included with UBCD V5.0.  This should be the method of choice when you need to resize/rescue partitions, access NTFS filesystems or work with USB storage devices.
+  - *New!*  UBCD V5.x now supports both [[http://syslinux.zytor.com/wiki/index.php/The_Syslinux_Project][syslinux/isolinux]] and [[http://nufans.net/grub4dos/][grub4dos]].  This helps improve the chances that UBCD will boot on any particular machine.
+
+  When you boot up from the CD, a text-based menu will be displayed, and you will be able to select the tool you want to run.  The selected tool actually boots off a virtual floppy disk created in memory.
+#+end_quote

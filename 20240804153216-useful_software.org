@@ -34,10 +34,14 @@ Useful pieces of software.
 * Version control and comparison
 ** [[id:003ec9df-d673-4336-aae0-9a034fd89997][Git]]
 ** [[id:04583ba5-6f1a-44bb-aeca-db27075c69fc][Difftastic]]
-* Operating Systems
-** Package & Configuration Management
-*** [[id:9af45692-b2f1-4d4e-a9b3-03d355ffacd0][Guix]]
-*** [[id:3b6a267c-90c9-491e-89d2-42c365ec6574][Nix]]
+* Computers
+** Operating Systems
+*** Package & Configuration Management
+**** [[id:9af45692-b2f1-4d4e-a9b3-03d355ffacd0][Guix]]
+**** [[id:3b6a267c-90c9-491e-89d2-42c365ec6574][Nix]]
+** Diagnostics & Repairs
+*** [[id:9f4aad1f-a3ca-40cd-9edf-953a2ba9507c][Memtest86+]]
+*** [[id:797cd735-fc6d-4c23-85fb-a99833ed485f][Ultimate Boot CD]]
 * Math
 ** [[id:95ed9369-26d3-4050-b079-016f3114ba9a][Maxima]]
 ** [[id:70d66f8f-fea0-467d-bd96-7b562be89610][SageMath]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       9f4aad1f-a3ca-40cd-9edf-953a2ba9507c
+:END:
+#+title: Memtest86+
+#+filetags: :open_source:diagnostics:software:
+
+[[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][Open-source]] software for testing computer RAM.
+* (www.memtest.org) Memtest86+ | The Open-Source Memory Testing Tool :website:
+:PROPERTIES:
+:ID:       e99d86ad-0a9a-4d25-8934-526d6f8c8ac4
+:ROAM_REFS: https://www.memtest.org/
+:END:
+
+#+begin_quote
+  Memtest86+ is a stand-alone memory tester for x86 and x86-64 architecture computers.  It provides a more thorough memory check than that provided by BIOS memory tests.  Memtest86+ can be loaded and run either directly by a PC BIOS (legacy or UEFI) or via an intermediate bootloader that supports the Linux 16-bit, 32-bit, 64-bit, or EFI handover boot protocol.  It should work on any Pentium class or later 32-bit or 64-bit x86 CPU.
+#+end_quote
