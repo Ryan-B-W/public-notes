@@ -5,7 +5,7 @@
 #+filetags: :regex:snippets:
 
 Replace single spaces after end-of-sentence periods with double spaces:
-: \([^\(?: [:upper:]\)][\.\?\!]\(?:"\|\]\]\|”\|\*\|_\|/\|\+\)?\) \([^ [:lower:]]\) → \1  \2
+: \([^\(?: [:upper:]\)])?[\.\?\!]\(?:'"\|\]\]?\|”\|\*\|_\|/\|\+\|)\)?\) \([^ [:lower:]]\) → \1  \2
 
 Replace double-hyphens with en-dashes:
 : \([^-]\)--\([^-]\) → \1–\2
