@@ -1,0 +1,54 @@
+:PROPERTIES:
+:ID:       0e82f715-0648-435c-8ea0-38dc87253861
+:END:
+#+title: NanoKVM
+#+filetags: :computer_management:networking:hardware:electronics:
+
+Hardware KVM from Sipeed.
+* (github.com) sipeed/NanoKVM: Affordable, Multifunctional, Nano RISC-V IP-KVM :website:
+:PROPERTIES:
+:ID:       d8c066a1-177b-4e4e-b28c-07d73508b056
+:ROAM_REFS: https://github.com/sipeed/NanoKVM
+:END:
+
+#+begin_quote
+  * NanoKVM
+
+  *** [[https://wiki.sipeed.com/hardware/en/kvm/NanoKVM/introduction.html][Quick Start]] | [[https://cn.dl.sipeed.com/shareURL/KVM/nanoKVM][Hardware]]
+
+  English | [[https://github.com/sipeed/NanoKVM/blob/main/README_ZH.md][中文]] | [[https://github.com/sipeed/NanoKVM/blob/main/README_JA.md][日本語]]
+
+  : Your NanoKVM is powered by [[https://en.wikipedia.org/wiki/RISC-V][RISC-V]]! If you have any issues or suggestions, creating issue here, or tell us with [[https://maixhub.com/discussion/nanokvm][MaixHub Discussion]].
+
+  ** Introduction
+
+  Lichee NanoKVM is an IP-KVM product based on LicheeRV Nano, inheriting the extreme size and powerful features of LicheeRV Nano.
+
+  The Lichee NanoKVM is now available in three versions:
+
+  - NanoKVM-Cube Lite is a basic configuration that is suitable for individual users with certain DIY capabilities and enterprise users with bulk requirements.
+
+  - NanoKVM-Cube Full is a full version with a sophisticated case and complete accessories, as well as a built-in system mirror card that is ready to use at boot, and is recommended for individual users.
+
+  - NanoKVM-PCle is a new form with a built-in PCle baffle that can be fixed inside the chassis. NanoKVM-PCle adds optional WiFi and PoE functions based on NanoKVM-Cube; it has its own PCle slot and can draw power from the motherboard PCle slot; in addition, the wired connection (ETH) is also more stable, meeting more professional needs.
+
+  : For users concerned about security, you can read this issue: [[https://github.com/sipeed/NanoKVM/issues/301][#301]]. You will find explanations addressing all security concerns. GitHub, as an open and transparent platform, provides a space for discussing so-called "backdoor" concerns. Open-source makes products more secure!
+#+end_quote
+* (wiki.sipeed.com) Introduction - Sipeed Wiki                      :website:
+:PROPERTIES:
+:ID:       f43e40d0-cf47-4725-abb0-2e45aa007642
+:ROAM_REFS: https://wiki.sipeed.com/hardware/en/kvm/NanoKVM/introduction.html
+:END:
+
+#+begin_quote
+  ** 1. Introduction
+
+  The Lichee NanoKVM is an IP-KVM product based on the LicheeRV Nano, inheriting its compact size and powerful features.
+
+  NanoKVM includes an HDMI input interface that can be recognized as a monitor by a computer, capturing the computer's screen.  It has a USB 2.0 interface to connect to the computer host, recognized as HID devices like keyboard, mouse, and touchpad, and uses extra storage space on the Micro SD card, mounted as a USB flash drive.  It comes with a 100 Mbps Ethernet port for video and control signal transmission.  Additionally, the Full version features an ATX power control interface (USB-C form) for remote control and monitoring of the host's power status.  Under the Full version's shell, there is an OLED display for showing the device's IP and KVM-related status.
+
+  To meet different user needs, NanoKVM is available in two versions:
+
+  - *NanoKVM Lite*: Basic version suitable for DIY enthusiasts and enterprises with bulk requirements.
+  - *NanoKVM Full*: Complete version with a sleek shell and full accessories, including a pre-installed system image card, recommended for individual users.
+#+end_quote

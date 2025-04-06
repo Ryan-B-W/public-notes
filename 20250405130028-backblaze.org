@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       b45f6f34-0c27-41b8-a40f-a61b236f4f13
+:END:
+#+title: Backblaze
+#+filetags: :backups:storage:networking:business:
+
+Company specialized in cloud storage and online backups.
+* (www.backblaze.com) The Leading Open Cloud Storage Platform - Backblaze :website:
+:PROPERTIES:
+:ID:       1a71b02e-ed21-49ec-81c9-b808c94a1949
+:ROAM_REFS: https://www.backblaze.com/
+:END:

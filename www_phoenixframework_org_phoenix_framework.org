@@ -1,0 +1,96 @@
+:PROPERTIES:
+:ID:       1243a56f-7a3b-404b-b201-ad788e2e9639
+:ROAM_REFS: https://www.phoenixframework.org/
+:END:
+#+title: (www.phoenixframework.org) Phoenix Framework
+#+filetags: :elixir_lang:software_framework:software:website:
+
+#+begin_quote
+  * Peace of mind from prototype to production
+
+  Build rich, interactive web applications quickly, with less code and fewer moving parts.  Join our growing community of developers using Phoenix to craft APIs, HTML5 apps and more, for fun or at scale.
+
+  [[https://hexdocs.pm/phoenix/up_and_running.html][Get started]]
+
+  #+begin_src flex
+  defmodule TimelineLive do
+    use Phoenix.LiveView
+
+    def render(assigns) do
+      ~H"""
+      <div class="timeline">
+        <div :for={{id, tweet} <- @streams.tweets} id={id}>
+          <img src={tweet.avatar_url} class="tweet-avatar" />
+          <p class="tweet-username">@{tweet.username}</p>
+          <p class="tweet-body">{tweet.body}</p>
+        </div>
+      </div>
+      """
+    end
+
+    def mount(_, _, socket) do
+      Twitter.subscribe("elixirphoenix")
+      {:ok, stream(socket, :tweets, [])}
+    end
+
+    def handle_info({:new, tweet}, socket) do
+      {:noreply, stream_insert(socket, :tweets, tweet, at: 0}
+    end
+  end
+  #+end_src
+
+  ** Phoenix LiveView
+
+  **** The most fun you'll ever have building interactive web applications -- without the complexity.
+
+  Try it now:
+
+  - [[https://elixir-lang.org/install.html][Install the Elixir programming language]]
+
+  - Install the Phoenix project generator and create your project
+
+    #+begin_src text-sm
+    mix archive.install hex phx_new
+    mix phx.new demo
+    #+end_src
+
+  - [[https://hexdocs.pm/phoenix/installation.html#content][See complete installation instructions]]
+
+  ** Everything you need to *ship it*
+
+  **** Real-time
+
+  *Interact with users and push events*, across one or dozens of nodes, by using our built-in PubSub, and Channels.
+
+  **** Authentication
+
+  Run =mix phx.gen.auth= for full-featured authentication that grows with your application.
+
+  **** GraphQL & JSON APIs
+
+  Build scalable GraphQL apps with [[https://absinthe-graphql.org/][Absinthe]] , or use our built-in JSON support for world class APIs.
+
+  **** Docker Ready
+
+  Package your app and (optionally) generate a Dockerfile for *hassle-free deployment*, wherever you choose to run your apps.
+
+  **** Metrics
+
+  *Built-in instrumentation and [[https://github.com/phoenixframework/phoenix_live_dashboard][a live dashboard]]* gives you insight into your applications.  Monitor performance and diagnose issues right within your app.
+
+  **** Scalable
+
+  Phoenix runs on the Erlang VM with the ability to handle *millions of WebSocket connections* alongside Elixir's tooling for building robust systems.
+
+  **** Presence
+
+  Know who is connected right now, across one or dozens of nodes, by using our built-in Presence.  No dependency required.
+
+  **** Database
+
+  [[https://hexdocs.pm/ecto/Ecto.html][Ecto]] is a lean interface around your database, focused on productivity and *long-term maintainability*.  Postgres, MySQL, SQLite, and SQL Server built-in.
+
+  ** The best of front-end and backend in your HTML
+
+  **** HEEx (HTML + Embedded Elixir) is a performant templating language with support for reusable components.
+#+end_quote

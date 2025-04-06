@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       b5be44bb-37ca-44e9-a37c-064fce032af1
+:ROAM_REFS: https://en.wikipedia.org/wiki/History_of_tariffs_in_Australia
+:END:
+#+title: (en.wikipedia.org) History of tariffs in Australia - Wikipedia
+#+filetags: :economics:website:
+
+#+begin_quote
+  Australian governments, both those of the colonies after the introduction of [[https://en.wikipedia.org/wiki/Responsible_government][responsible government]] in the 1850s and the national government since [[https://en.wikipedia.org/wiki/Federation_of_Australia][federation]] in 1901, have had the power to fix and change [[https://en.wikipedia.org/wiki/Tariff][tariff]] rates.  This power resides in the respective legislatures, with tariffs, being a tax law, is required to originate in the [[https://en.wikipedia.org/wiki/Lower_house][lower house]] of the legislature.
+
+  Tariffs have always been a contentious issue in Australian politics.  At times they have been the focus of an intense debate.  This was particularly true in the debate in the colonies leading up to the Australian federation and the ensuing debate in the federal Parliament when it was necessary to establish a uniform Australia-wide schedule of tariff rates.  It was true also in the period of the 1970s and 1980s when reforms began the process of lowering tariff levels.  The outcomes of these debates have had an effect on the growth of the Australian economy and the distribution of real household income.
+#+end_quote

@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       2d8f4280-c460-4cf9-8c3c-c16f1cba20cf
+:ROAM_REFS: https://github.com/scrapfly/fingerprint-generator
+:END:
+#+title: (github.com) scrapfly/fingerprint-generator: Browser fingerprint data generator
+#+filetags: :www:networking:software:website:
+
+#+begin_quote
+  * Fingerprint Generator
+
+  A fast browser data generator that mimics actual traffic patterns in the wild.  With /extensive/ data coverage.
+
+  Created by [[https://github.com/daijro][daijro]].  Data provided by Scrapfly.
+
+  --------------
+
+  ** Features
+
+  Uses a Bayesian generative network to mimic real-world web traffic patterns
+
+  Extensive data coverage for *nearly all known* browser data points
+
+  Creates complete fingerprints in a few milliseconds ⚡
+
+  Easily specify custom criteria for any data point (e.g. "only Windows + Chrome, with Intel GPUs")
+
+  Simple for humans to use 🚀
+#+end_quote

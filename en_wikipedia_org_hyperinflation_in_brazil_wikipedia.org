@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       2a3465d6-6a25-43f9-ad1a-2d3f4efcf32b
+:ROAM_REFS: https://en.wikipedia.org/wiki/Hyperinflation_in_Brazil
+:END:
+#+title: (en.wikipedia.org) Hyperinflation in Brazil - Wikipedia
+#+filetags: :economics:website:
+
+#+begin_quote
+  *Hyperinflation in Brazil* occurred between the first three months of 1990.  The monthly inflation rates between January and March 1990 were 71.9%, 71.7% and 81.3% respectively.  As accepted by the [[https://en.wikipedia.org/wiki/International_Monetary_Fund][International Monetary Fund]] (IMF), [[https://en.wikipedia.org/wiki/Hyperinflation][hyperinflation]] is defined as a period of time in which the average price level of goods and services rise by more than 50% a month.
+
+  Brazil experienced over a decade of very high inflation – often double-digit monthly inflation – preceding the hyperinflationary period.  The nation sustained hyperinflation for less than half a year.  This economic event was the culmination of a number of structural aspects of the Brazilian economy including, but not exclusive to, limited foreign trade and high external public debt as well as unsuccessful preventive measures.
+
+  The Brazilian government responded to hyperinflation by using multiple periods of price freezes to artificially stop inflation.  This was effective in managing hyperinflation for a few months.  In July 1990, price controls were lifted and hyperinflation returned.
+
+  The period of hyperinflation was resolved after the implementation of the [[https://en.wikipedia.org/wiki/Plano_Real][Plano Real]] (1994). The Brazilian economy had limited financial resources to support an expensive expansionary fiscal policy.  The Plano Real involved anchoring the economy to a separate unit of account, the Unidade Real de Valor (URV), instead of the currency, the cruzeiro.  The function of payment was then transferred to the URV which became the real.  The separation and reintegration of the function of money was successful in limiting inflation in the short- and long-term.
+#+end_quote

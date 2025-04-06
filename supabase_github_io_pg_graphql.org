@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       35fc81e6-5625-46a9-922b-1e224a4928a6
+:ROAM_REFS: https://supabase.github.io/pg_graphql/
+:END:
+#+title: (supabase.github.io) pg_graphql
+#+filetags: :networking:databases:software:website:
+
+#+begin_quote
+  * =pg_graphql=
+
+  --------------
+
+  *Documentation*: [[https://supabase.github.io/pg_graphql]]
+
+  *Source Code*: [[https://github.com/supabase/pg_graphql]]
+
+  --------------
+
+  =pg_graphql= adds GraphQL support to your PostgreSQL database.
+
+  - *Performant*
+  - *Consistent*
+  - *Open Source*
+
+  *** Overview
+
+  =pg_graphql= is a PostgreSQL extension that enables querying the database with GraphQL using a single SQL function.
+
+  The extension reflects a GraphQL schema from the existing SQL schema and exposes it through a SQL function, =graphql.resolve(...)=.  This enables any programming language that can connect to PostgreSQL to query the database via GraphQL with no additional servers, processes, or libraries.
+#+end_quote

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       cb896ec5-f32c-41d5-9905-4bdd839d23be
+:ROAM_REFS: https://yarnpkg.com/features/constraints
+:END:
+#+title: (yarnpkg.com) Constraints | Yarn
+#+filetags: :documentation:javascript:software:website:
+
+#+begin_quote
+  * Constraints
+
+  info
+
+  This page documents the new JavaScript-based constraints.  The older constraints, based on Prolog, are still supported but should be considered deprecated.  Their documentation can be found [[https://v3.yarnpkg.com/features/constraints][here]].
+
+  ** Overview
+
+  Constraints allow enforcement of rules across [[https://yarnpkg.com/features/workspaces][workspace]] packages.  For example, these rules might include the following:
+
+  - Ensuring the same version of dependencies across packages.
+  - Prohibiting the use of specific dependencies in packages.
+#+end_quote
+* See Also
+** [[id:01f1c5ba-c7e1-4b30-9266-40e5d74853ab][(v3.yarnpkg.com) Constraints | Yarn - Package Manager]]

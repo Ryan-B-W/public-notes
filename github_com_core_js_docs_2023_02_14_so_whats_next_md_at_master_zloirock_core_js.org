@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       b1d31a86-f7fc-4c08-b127-62e92b12852e
+:ROAM_REFS: https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md https://github.com/zloirock/core-js/blob/621ffaf9a3671e8e572bbdceee4fdb46fa8d51f7/docs/2023-02-14-so-whats-next.md
+:END:
+#+title: (github.com) core-js/docs/2023-02-14-so-whats-next.md at master · zloirock/core-js
+#+filetags: :open_source:software:javascript:blog_post:website:
+
+#+begin_quote
+  * So, what's next?
+
+  Hi.  I am (*[[https://github.com/zloirock][@zloirock]]*), a full-time open-source developer.  I don't like to write long posts, but it seems it is high time to do it.  Initially, this post was supposed to be a post about the start of active development of the new major version of =core-js= and the roadmap (it was moved to [[https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md#roadmap][the second half]]), however, due to recent events, it became a really long post about many different things... I'm fucking tired.  Free open-source software is fundamentally broken.  I could stop working on this silently, but I want to give open-source one last chance.
+#+end_quote

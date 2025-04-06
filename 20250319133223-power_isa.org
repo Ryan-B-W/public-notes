@@ -62,3 +62,18 @@ Power (also PowerPC and Power ISA) is a family of [[id:321ba3cc-d73a-4620-88f7-2
 
   IBM continues to develop PowerPC microprocessor cores for use in their [[https://en.wikipedia.org/wiki/Application-specific_integrated_circuit][application-specific integrated circuit]] (ASIC) offerings.  Many high volume applications embed PowerPC cores.
 #+end_quote
+* (openpower.foundation) Home - OpenPOWER Foundation                :website:
+:PROPERTIES:
+:ID:       bc71bd9a-027c-40da-b93d-75b605428aaa
+:ROAM_REFS: https://openpower.foundation/
+:END:
+
+#+begin_quote
+  * OpenPOWER Foundation
+
+  Open Developer Community for the POWER Architecture
+
+  /“The Most Open and High-Performance Processor Architecture and Ecosystem in the Industry”/
+
+  Create the Future with POWER
+#+end_quote

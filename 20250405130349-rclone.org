@@ -1,0 +1,65 @@
+:PROPERTIES:
+:ID:       a1364732-f2e7-4c72-a1fa-7e26f0a09c7e
+:END:
+#+title: Rclone
+#+filetags: :backups:storage:networking:software:
+
+Open-source network storage (aka cloud storage) and backup software.
+* (rclone.org) Rclone                                               :website:
+:PROPERTIES:
+:ID:       5c965936-7cdb-4dcc-9fe2-b149b62388c0
+:ROAM_REFS: https://rclone.org/
+:END:
+
+#+begin_quote
+  * Rclone syncs your files to cloud storage
+
+  ** About rclone
+
+  Rclone is a command-line program to manage files on cloud storage.  It is a feature-rich alternative to cloud vendors' web storage interfaces.  [[https://rclone.org/#providers][Over 70 cloud storage products]] support rclone including S3 object stores, business & consumer file storage services, as well as standard transfer protocols.
+
+  Rclone has powerful cloud equivalents to the unix commands rsync, cp, mv, mount, ls, ncdu, tree, rm, and cat.  Rclone's familiar syntax includes shell pipeline support, and =--dry-run= protection.  It is used at the command line, in scripts or via its [[https://rclone.org/rc][API]].
+
+  Users call rclone /"The Swiss army knife of cloud storage"/, and /"Technology indistinguishable from magic"/.
+
+  Rclone really looks after your data.  It preserves timestamps and verifies checksums at all times.  Transfers over limited bandwidth; intermittent connections, or subject to quota can be restarted, from the last good file transferred.  You can [[https://rclone.org/commands/rclone_check/][check]] the integrity of your files.  Where possible, rclone employs server-side transfers to minimise local bandwidth use and transfers from one provider to another without using local disk.
+
+  Virtual backends wrap local and cloud file systems to apply [[https://rclone.org/crypt/][encryption]], [[https://rclone.org/compress/][compression]], [[https://rclone.org/chunker/][chunking]], [[https://rclone.org/hasher/][hashing]] and [[https://rclone.org/union/][joining]].
+
+  Rclone [[https://rclone.org/commands/rclone_mount/][mounts]] any local, cloud or virtual filesystem as a disk on Windows, macOS, linux and FreeBSD, and also serves these over [[https://rclone.org/commands/rclone_serve_sftp/][SFTP]], [[https://rclone.org/commands/rclone_serve_http/][HTTP]], [[https://rclone.org/commands/rclone_serve_webdav/][WebDAV]], [[https://rclone.org/commands/rclone_serve_ftp/][FTP]] and [[https://rclone.org/commands/rclone_serve_dlna/][DLNA]].
+
+  Rclone is mature, open-source software originally inspired by rsync and written in [[https://golang.org/][Go]].  The friendly support community is familiar with varied use cases.  Official Ubuntu, Debian, Fedora, Brew and Chocolatey repos. include rclone.  For the latest version [[https://rclone.org/downloads/][downloading from rclone.org]] is recommended.
+
+  Rclone is widely used on Linux, Windows and Mac.  Third-party developers create innovative backup, restore, GUI and business process solutions using the rclone command line or API.
+
+  Rclone does the heavy lifting of communicating with cloud storage.
+
+  ** What can rclone do for you?
+
+  Rclone helps you:
+
+  - Backup (and encrypt) files to cloud storage
+  - Restore (and decrypt) files from cloud storage
+  - Mirror cloud data to other cloud services or locally
+  - Migrate data to the cloud, or between cloud storage vendors
+  - Mount multiple, encrypted, cached or diverse cloud storage as a disk
+  - Analyse and account for data held on cloud storage using [[https://rclone.org/commands/rclone_lsf/][lsf]], [[https://rclone.org/commands/rclone_lsjson/][ljson]], [[https://rclone.org/commands/rclone_size/][size]], [[https://rclone.org/commands/rclone_ncdu/][ncdu]]
+  - [[https://rclone.org/union/][Union]] file systems together to present multiple local and/or cloud file systems as one
+
+  ** Features
+
+  - Transfers
+    - MD5, SHA1 hashes are checked at all times for file integrity
+    - Timestamps are preserved on files
+    - Operations can be restarted at any time
+    - Can be to and from network, e.g. two different cloud providers
+    - Can use multi-threaded downloads to local disk
+  - [[https://rclone.org/commands/rclone_copy/][Copy]] new or changed files to cloud storage
+  - [[https://rclone.org/commands/rclone_sync/][Sync]] (one way) to make a directory identical
+  - [[https://rclone.org/bisync/][Bisync]] (two way) to keep two directories in sync bidirectionally
+  - [[https://rclone.org/commands/rclone_move/][Move]] files to cloud storage deleting the local after verification
+  - [[https://rclone.org/commands/rclone_check/][Check]] hashes and for missing/extra files
+  - [[https://rclone.org/commands/rclone_mount/][Mount]] your cloud storage as a network disk
+  - [[https://rclone.org/commands/rclone_serve/][Serve]] local or remote files over [[https://rclone.org/commands/rclone_serve_http/][HTTP]]/[[https://rclone.org/commands/rclone_serve_webdav/][WebDav]]/[[https://rclone.org/commands/rclone_serve_ftp/][FTP]]/[[https://rclone.org/commands/rclone_serve_sftp/][SFTP]]/[[https://rclone.org/commands/rclone_serve_dlna/][DLNA]]
+  - Experimental [[https://rclone.org/gui/][Web based GUI]]
+#+end_quote

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       2c51918f-0814-4846-9cee-ee8d20d41a15
+:ROAM_REFS: https://github.com/jmpunkt/ox-typst
+:END:
+#+title: (github.com) jmpunkt/ox-typst: Org-mode to Typst exporter.
+#+filetags: :typesetting:lisp:emacs_lisp:emacs:software:website:
+
+#+begin_quote
+  * ox-typst.el - Typst Back-End for Org Export Engine
+
+  Org-mode to Typst exporter.
+#+end_quote

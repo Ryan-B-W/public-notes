@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       3ca01703-a137-4b1f-8393-187a1b673ac6
+:ROAM_REFS: https://www.bleepingcomputer.com/news/microsoft/new-windows-11-trick-lets-you-bypass-microsoft-account-requirement/
+:END:
+#+title: (www.bleepingcomputer.com) New Windows 11 trick lets you bypass Microsoft Account requirement
+#+filetags: :microsoft_windows:article:news:website:
+
+#+begin_quote
+  A previously unknown trick lets you easily bypass using a Microsoft Account in Windows 11, just as Microsoft tries to make it harder to use local accounts.
+
+  Since the release of Windows 11, Microsoft has been increasingly closing loopholes and making it harder to use a local account in the operating system.
+
+  Instead, the company wants you to use a Microsoft Account, as many operating system features rely on cloud-based services.
+
+  Last week, [[https://www.bleepingcomputer.com/news/microsoft/microsofts-killing-script-used-to-avoid-microsoft-account-in-windows-11/][Microsoft removed the 'BypassNRO.cmd' script]] from Windows 11 preview builds, which allowed users to bypass the Microsoft Account requirement when installing the operating system.
+
+  While the Registry commands used by the script still worked, it became less easy to add them, requiring users to type them out or manually edit the Registry.
+
+  On Saturday, X user "[[https://x.com/witherornot1337/status/1906050664741937328][Wither OrNot]]" shared a much easier way to bypass Windows 11's Microsoft Account requirement, which BleepingComputer has confirmed to work.
+
+  When installing Windows 11 and you reach the screen asking, "Let's connect you to a network," you can use the *Shift+F10* keyboard combination to open a Windows command prompt.
+
+  At this prompt, type =start ms-cxh:localonly= and press *Enter* on your keyboard to open a "Microsoft account" window where you can create a new local user for the Windows 11 install.
+#+end_quote
