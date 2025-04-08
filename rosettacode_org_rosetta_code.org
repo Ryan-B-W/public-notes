@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       2f2bd676-b37a-4130-8e6b-cf11ae8b6f59
+:ROAM_REFS: https://rosettacode.org/wiki/Rosetta_Code
+:END:
+#+title: (rosettacode.org) Rosetta Code
+#+filetags: :programming:website:
+
+#+begin_quote
+  Rosetta Code is a [[https://en.wikipedia.org/wiki/Chrestomathy][programming chrestomathy]] site.  The idea is to present solutions to the same task in as many different languages as possible, to demonstrate how languages are similar and different, and to aid a person with a grounding in one approach to a problem in learning another.  Rosetta Code currently has 1,310 [[https://rosettacode.org/wiki/Category:Solutions_by_Programming_Task][tasks]], 381 [[https://rosettacode.org/wiki/Category:Draft_Programming_Tasks][draft tasks]], and is aware of 967 [[https://rosettacode.org/wiki/Category:Programming_Languages][languages]], though we do not (and cannot) have solutions to every task in every language.
+#+end_quote
+* (rosettacode.org) Category:Scheme - Rosetta Code              :scheme:lisp:
+:PROPERTIES:
+:ID:       dfbd1cf6-7a60-4177-bcc7-b32962208f15
+:ROAM_REFS: https://rosettacode.org/wiki/Category:Scheme
+:END:
+
+#+begin_quote
+  *Scheme* is a multi-[[https://rosettacode.org/wiki/Category:Programming_Paradigms][paradigm]] programming language.  It is one of the two main dialects of [[https://rosettacode.org/wiki/Lisp][Lisp]] and supports a number of programming paradigms; however it is best known for its support of [[https://rosettacode.org/wiki/Functional_programming][functional programming]].  It was developed by Guy L. Steele and Gerald Jay Sussman in the 1970s.  Scheme was introduced to the academic world via a series of papers, now referred to as Sussman and Steele's Lambda Papers.  There are two standards that define the Scheme language: the official [[https://rosettacode.org/wiki/IEEE][IEEE]] standard, and a de facto standard called the /Revised^{n} Report on the Algorithmic Language Scheme/, nearly always abbreviated R/n/RS, where /n/ is the number of the revision.  The current standard is *R7RS*, with *R5RS* and, less common, *R6RS* still in use.
+
+  Scheme's philosophy is minimalist.  Scheme provides as few primitive notions as possible, and, where practical, lets everything else be provided by programming libraries.
+
+  Scheme was the first dialect of Lisp to choose static (a.k.a. lexical) over dynamic variable scope.  It was also one of the first programming languages to support first-class continuations.
+#+end_quote

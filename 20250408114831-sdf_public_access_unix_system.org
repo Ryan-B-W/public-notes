@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       d7bdadcd-d69a-4780-845f-c5fcdf95e1f2
+:ROAM_ALIASES: "Super Dimension Fortress" SDF
+:END:
+#+title: SDF Public Access UNIX System
+#+filetags: :nonprofit:linux:shell_account:unix:
+
+A 501(c)(7) nonprofit public access [[id:b7ffa33f-6da2-4918-9ced-6afd0fbdb0fe][Unix]] system and community.  SDF stand for Super Dimension Fortress.  Started as a [[id:7b5fad45-fe99-4925-93f7-dd88e3f22178][BBS]] and later moved to [[id:74b31ae6-5215-4bcd-9007-4f9a24ce2064][UUCP]] and started providing [[id:7a408577-5983-4773-808f-5235c5e72715][shell accounts]].
+* (sdf.org) SDF Public Access UNIX System - Free Shell Account and Shell Access :website:
+:PROPERTIES:
+:ID:       c8912c5d-d322-4a55-9541-e7df5f750b28
+:ROAM_REFS: https://sdf.org/
+:END:
+
+#+begin_quote
+  *** [ SDF Public Access UNIX System .. Est. 1987 ]
+
+  --------------
+
+  -=- a community platform for inspiring, facilitating and implementing new ideas -=-
+#+end_quote
+* (en.wikipedia.org) SDF Public Access Unix System - Wikipedia      :website:
+:PROPERTIES:
+:ID:       e8558d7d-69c0-47c0-8349-71246c5dabe6
+:ROAM_REFS: https://en.wikipedia.org/wiki/SDF_Public_Access_Unix_System
+:END:
+
+#+begin_quote
+  *Super Dimension Fortress* (SDF, also known as freeshell.org) is a [[https://en.wikipedia.org/wiki/Non-profit][non-profit]] public access [[https://en.wikipedia.org/wiki/UNIX][UNIX]] [[https://en.wikipedia.org/wiki/Shell_provider][shell provider]] on the [[https://en.wikipedia.org/wiki/Internet][Internet]].  It has been in continual operation since 1987 as a non-profit [[https://en.wikipedia.org/wiki/Social_club][social club]].  The name is derived from the Japanese [[https://en.wikipedia.org/wiki/Anime][anime]] series /[[https://en.wikipedia.org/wiki/Super_Dimension_Fortress_Macross][Super Dimension Fortress Macross]]/; the original SDF server was a [[https://en.wikipedia.org/wiki/Bulletin_board_system][Bulletin board system]] created by Ted Uhlemann for fellow Japanese anime fans.  From its BBS roots, which have been well documented as part of the /[[https://en.wikipedia.org/wiki/BBS:_The_Documentary][BBS: The Documentary]]/ project, SDF has grown into a [[https://en.wikipedia.org/wiki/Software_feature#Feature-rich_software_and_feature_creep][feature-rich]] provider serving members around the world.
+#+end_quote

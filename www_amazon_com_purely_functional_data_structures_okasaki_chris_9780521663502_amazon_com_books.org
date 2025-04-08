@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       b4a1175c-cf6a-4de4-9d1a-2a338e46bd04
+:ROAM_REFS: https://www.amazon.com/dp/0521663504
+:END:
+#+title: (www.amazon.com) Purely Functional Data Structures: Okasaki, Chris: 9780521663502: Amazon.com: Books
+#+filetags: :programming:data_structures:books:website:
+
+#+begin_quote
+  * Purely Functional Data Structures
+
+  by [[https://www.amazon.com/Chris-Okasaki/e/B001KDVM12/ref=dp_byline_cont_book_1][Chris Okasaki]] (Author)
+
+  Most books on data structures assume an imperative language such as C or C++.  However, data structures for these languages do not always translate well to functional languages such as Standard ML, Haskell, or Scheme.  This book describes data structures from the point of view of functional languages, with examples, and presents design techniques that allow programmers to develop their own functional data structures.  The author includes both classical data structures, such as red-black trees and binomial queues, and a host of new data structures developed exclusively for functional languages.  All source code is given in Standard ML and Haskell, and most of the programs are easily adaptable to other functional languages.  This handy reference for professional programmers working with functional languages can also be used as a tutorial or for self-study.
+#+end_quote

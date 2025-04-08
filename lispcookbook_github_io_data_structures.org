@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       2f8a5c51-c94f-492f-8049-458e7fadc4b5
+:ROAM_REFS: https://lispcookbook.github.io/cl-cookbook/data-structures.html
+:END:
+#+title: (lispcookbook.github.io) Data structures
+#+filetags: :common_lisp:lisp:data_structures:programming:website:
+
+#+begin_quote
+  * [[https://lispcookbook.github.io/cl-cookbook/][The Common Lisp Cookbook]] -- Data structures
+
+  We hope to give here a clear reference of the common data structures.  To really learn the language, you should take the time to read other resources.  The following resources, which we relied upon, also have many more details:
+
+  - [[http://gigamonkeys.com/book/they-called-it-lisp-for-a-reason-list-processing.html][Practical CL]], by Peter Seibel
+  - [[http://weitz.de/cl-recipes/][CL Recipes]], by E. Weitz, full of explanations and tips,
+  - the [[https://franz.com/support/documentation/cl-ansi-standard-draft-w-sidebar.pdf][CL standard]] with -- in the sidebar of your PDF reader -- a nice TOC, functions reference, extensive descriptions, more examples and warnings (i.e: everything).  [[https://gitlab.com/vancan1ty/clstandard_build/-/blob/master/cl-ansi-standard-draft-w-sidebar.pdf][PDF mirror]]
+  - a [[http://clqr.boundp.org/][Common Lisp quick reference]]
+
+  Don't miss the appendix and when you need more data structures, have a look at the [[https://github.com/CodyReichert/awesome-cl#data-structures][awesome-cl]] list and [[https://quickdocs.org/-/search?q=data%20structure][Quickdocs]].
+#+end_quote

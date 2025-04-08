@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       82fb2c99-587e-4a6d-95a6-3472337c73d0
+:ROAM_REFS: https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/9579/sicm_edition_2.zip/book.html
+:END:
+#+title: (mitp-content-server.mit.edu) Structure and Interpretation of Classical Mechanics
+#+filetags: :physics:books:website:

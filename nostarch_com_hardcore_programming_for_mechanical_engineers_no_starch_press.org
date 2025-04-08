@@ -1,0 +1,88 @@
+:PROPERTIES:
+:ID:       c08a7cb1-2450-4a4a-8a2e-52ef1d331816
+:ROAM_REFS: https://nostarch.com/hardcore-programming-mechanical-engineers
+:END:
+#+title: (nostarch.com) Hardcore Programming for Mechanical Engineers | No Starch Press
+#+filetags: :python_lang:programming:physics:books:website:
+
+#+begin_quote
+  * Hardcore Programming for Mechanical Engineers
+
+  Build Engineering Applications from Scratch
+
+  by Angel Sola Orbaiceta
+
+  June 2021, 600 pp.
+
+  ISBN-13: 9781718500785
+
+  [[https://www.hardcoreprogramming.dev/][_Check out the book's companion site for important updates and extra material._]]
+
+  What if you could solve challenging engineering problems with Python programming?  With this book's hardcore approach, you'll learn how to code solutions from scratch using linear algebra, geometry, and physics to write custom libraries, draw primitives, and build applications.
+
+  Ángel Sola Orbaiceta covers core programming techniques for mechanical engineers, with a focus on crafting high-quality code and leveraging automated unit testing for error-free implementations.  You'll develop a geometry toolbox, filling it with lines and shapes to diagram engineering problems; create vector graphics and animations for mechanical simulations; and code algorithms to perform complex calculations.  As a capstone you'll combine these lessons to build a complete structural analysis application to solve a 2D truss problem that you might encounter in the field.
+
+  Learn how to:
+
+  - Use regular expressions to elegantly parse file input
+  - Refine your code with unit testing, encapsulation, and descriptive names
+  - Draw images onscreen and create animations with Tkinter's Canvas widget
+  - Solve systems of linear equations using the Cholesky decomposition algorithm
+  - Build an application that visualizes a truss structure's stresses and strains
+
+  Stop relying on third-party software---there are no shortcuts on the path to proficiency.  With /Hardcore Programming for Mechanical Engineers/, you'll hone your programming skills to get correct results every time.
+
+  Author Bio
+
+  *Angel Sola Orbaiceta* has been working in the software industry since 2013.  He has a degree in industrial engineering with a focus in mechanics and currently works at Glovo, a thriving start-up in the heart of Barcelona.  Angel is also the creator of InkStructure, an application for architecture and engineering students that solves 2D structure problems.
+
+  Table of contents
+
+  *Acknowledgments*\\
+  *Introduction*
+
+  *PART I: BASICS*\\
+  *Chapter 1:* A Short Python Primer\\
+  *Chapter 2:* Two Python Paradigms\\
+  *Chapter 3:* The Command Line
+
+  *PART II: 2D GEOMETRY*\\
+  *Chapter 4:* Points and Vectors\\
+  *Chapter 5:* Lines and Segments\\
+  *Chapter 6:* Polygons\\
+  *Chapter 7:* Affine Transformations
+
+  *PART III: GRAPHICS & SIMULATIONS*\\
+  *Chapter 8:* Vector Images\\
+  *Chapter 9:* Building a Circle from Three Points\\
+  *Chapter 10:* User Interfaces\\
+  *Chapter 11:* Simulations\\
+  *Chapter 12:* Animating Affine Transformations
+
+  *PART IV: SYSTEMS OF EQUATIONS*
+
+  *Chapter 13:* Matrices and Vectors\\
+  *Chapter 14:* Linear Equations
+
+  *PART V: TRUSS STRUCTURES*
+
+  *Chapter 15:* Structural Models\\
+  *Chapter 16:* Structure Resolution\\
+  *Chapter 17:* Reading Input from a File\\
+  *Chapter 18:* Producing an SVG Image and Text File\\
+  *Chapter 19:* Assembling Our Application
+
+  *Bibliography*\\
+  *Index*
+
+  [[https://nostarch.com/download/samples/Hardcore_Programming_for_Mechanical_Engineers_copyright.pdf][*View the Copyright Page*]]\\
+  [[https://nostarch.com/download/samples/Hardcore_Programming_for_Mechanical_Engineers_dTOC.pdf][*View the detailed Table of Contents*]]\\
+  [[https://nostarch.com/download/samples/Hardcore_Programming_for_Mechanical_Engineers_index.pdf][*View the Index*]]
+
+  Reviews
+
+  *[[https://devops.com/python-remains-popular-in-programming-language-study/][Devops.com]]* mentioned and quoted book in piece on Python Programming
+
+  "For mechanical engineers working with engineering drawings and statics, there's a lot to like."\\
+  *---Lee Teschler, [[https://www.designworldonline.com/book-review-hardcore-programming-for-mechanical-engineers-by-angel-sola-orbaiceta/][Design World]]*
+#+end_quote

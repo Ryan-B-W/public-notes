@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       292dc51e-a8b9-4bc7-bc6e-8b7b367075ed
+:END:
+#+title: Usenet
+#+filetags: :forums:networking:
+
+Network discussion forum system.  Derived from [[id:74b31ae6-5215-4bcd-9007-4f9a24ce2064][UUCP]].
+* (en.wikipedia.org) Usenet - Wikipedia                             :website:
+:PROPERTIES:
+:ID:       46854609-876a-45aa-9f69-ce5bacd68743
+:ROAM_REFS: https://en.wikipedia.org/wiki/Usenet
+:END:
+
+#+begin_quote
+  *Usenet* ([[https://en.wikipedia.org/wiki/Help:IPA/English][/ˈjuːznɛt/]]), *USENET*, or, "in full", *User's Network*, is a worldwide distributed discussion system available on computers.  It was developed from the general-purpose [[https://en.wikipedia.org/wiki/UUCP][Unix-to-Unix Copy]] (UUCP) [[https://en.wikipedia.org/wiki/Dial-up][dial-up]] network architecture.  [[https://en.wikipedia.org/wiki/Tom_Truscott][Tom Truscott]] and [[https://en.wikipedia.org/wiki/Jim_Ellis_(computing)][Jim Ellis]] conceived the idea in 1979, and it was established in 1980.  Users read and post messages (called /articles/ or /posts/, and collectively termed /news/) to one or more topic categories, known as [[https://en.wikipedia.org/wiki/Usenet_newsgroup][newsgroups]].  Usenet resembles a [[https://en.wikipedia.org/wiki/Bulletin_board_system][bulletin board system]] (BBS) in many respects and is the precursor to the [[https://en.wikipedia.org/wiki/Internet_forum][Internet forums]] that have become widely used.  Discussions are [[https://en.wikipedia.org/wiki/Threaded_discussion][threaded]], as with web forums and BBSes, though posts are stored on the server sequentially.
+
+  A major difference between a BBS or web message board and Usenet is the absence of a central server and dedicated administrator or hosting provider.  Usenet is distributed among a large, constantly changing set of [[https://en.wikipedia.org/wiki/News_server][news servers]] that [[https://en.wikipedia.org/wiki/Store_and_forward][store and forward]] messages to one another via "news feeds".  Individual users may read messages from and post to a local (or simply preferred) news server, which can be operated by anyone, and those posts will automatically be forwarded to any other news servers [[https://en.wikipedia.org/wiki/Peering][peered]] with the local one, while the local server will receive any news its peers have that it currently lacks.  This results in the automatic proliferation of content posted by any user on any server to any other user subscribed to the same newsgroups on other servers.
+
+  As with BBSes and message boards, individual news servers or service providers are under no obligation to carry any specific content, and may refuse to do so for many reasons: a news server might attempt to control the spread of spam by refusing to accept or forward any posts that trigger [[https://en.wikipedia.org/wiki/Email_filtering][spam filters]], or a server without high-capacity data storage may refuse to carry any newsgroups used primarily for [[https://en.wikipedia.org/wiki/File_sharing][file sharing]], limiting itself to discussion-oriented groups.  However, unlike BBSes and web forums, the dispersed nature of Usenet usually permits users who are interested in receiving some content to access it simply by choosing to connect to news servers that carry the feeds they want.
+
+  Usenet is culturally and historically significant in the networked world, having given rise to, or popularized, many widely recognized concepts and terms such as "[[https://en.wikipedia.org/wiki/FAQ][FAQ]]", "[[https://en.wikipedia.org/wiki/Flaming_(Internet)][flame]]", "[[https://en.wikipedia.org/wiki/Sock_puppet_account][sockpuppet]]", and "[[https://en.wikipedia.org/wiki/Spam_(electronic)][spam]]".  In the early 1990s, shortly before access to the [[https://en.wikipedia.org/wiki/Internet][Internet]] became commonly affordable, Usenet connections via [[https://en.wikipedia.org/wiki/FidoNet][FidoNet]]'s dial-up [[https://en.wikipedia.org/wiki/Bulletin_board_system][BBS]] networks made long-distance or worldwide discussions and other communication widespread, not needing a server, just (local) telephone service.
+
+  The name /Usenet/ comes from the term "users' network".  The first Usenet group was /NET.general/, which quickly became /net.general/.  The first commercial spam on Usenet was from immigration attorneys [[https://en.wikipedia.org/wiki/Laurence_Canter_and_Martha_Siegel][Canter and Siegel]] advertising green card services.
+
+  On the Internet, Usenet is transported via the [[https://en.wikipedia.org/wiki/Network_News_Transfer_Protocol][Network News Transfer Protocol]] (NNTP) on [[https://en.wikipedia.org/wiki/Transmission_Control_Protocol][Transmission Control Protocol]] (TCP) [[https://en.wikipedia.org/wiki/Computer_port_(software)][port]] 119 for standard, unprotected connections, and on TCP port 563 for [[https://en.wikipedia.org/wiki/Secure_Sockets_Layer][Secure Sockets Layer]] (SSL) encrypted connections.
+#+end_quote

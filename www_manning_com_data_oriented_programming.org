@@ -1,0 +1,63 @@
+:PROPERTIES:
+:ID:       c9e9c3b6-d5c3-4d40-8c18-96afb274cbf6
+:ROAM_REFS: https://www.manning.com/books/data-oriented-programming
+:END:
+#+title: (www.manning.com) Data-Oriented Programming
+#+filetags: :programming:books:website:
+
+#+begin_quote
+  Data-Oriented Programming: Reduce software complexity
+
+  Yehonathan Sharvit\\
+  /Forewords by Michael T. Nygard and Ryan Singer/
+
+  - July 2022
+  - ISBN 9781617298578
+  - 424 pages
+
+  *Eliminate the unavoidable complexity of object-oriented designs.  The innovative data-oriented programming paradigm makes your systems less complex by making it simpler to access and manipulate data.*
+
+  In /Data-Oriented Programming/ you will learn how to:
+
+
+  - Separate code from data
+  - Represent data with generic data structures
+  - Manipulate data with general-purpose functions
+  - Manage state without mutating data
+  - Control concurrency in highly scalable systems
+  - Write data-oriented unit tests
+  - Specify the shape of your data
+  - Benefit from polymorphism without objects
+  - Debug programs without a debugger
+
+  /Data-Oriented Programming/ is a one-of-a-kind guide that introduces the data-oriented paradigm.  This groundbreaking approach represents data with generic immutable data structures.  It simplifies state management, eases concurrency, and does away with the common problems you'll find in object-oriented code.  The book presents powerful new ideas through conversations, code snippets, and diagrams that help you quickly grok what's great about DOP. Best of all, the paradigm is language-agnostic---you'll learn to write DOP code that can be implemented in JavaScript, Ruby, Python, Clojure, and also in traditional OO languages like Java or C#.
+
+  ** about the technology
+
+   Code that combines behavior and data, as is common in object-oriented designs, can introduce almost unmanageable complexity for state management.  The Data-oriented programming (DOP) paradigm simplifies state management by holding application data in immutable generic data structures and then performing calculations using non-mutating general-purpose functions.  Your applications are free of state-related bugs and your code is easier to understand and maintain.
+
+  ** about the book
+
+   /Data-Oriented Programming/ teaches you to design software using the groundbreaking data-oriented paradigm.  You'll put DOP into action to design data models for business entities and implement a library management system that manages state without data mutation.  The numerous diagrams, intuitive mind maps, and a unique conversational approach all help you get your head around these exciting new ideas.  Every chapter has a lightbulb moment that will change the way you think about programming.
+
+  ** what's inside
+
+  - Separate code from data
+  - Represent data with generic data structures
+  - Manage state without mutating data
+  - Control concurrency in highly scalable systems
+  - Write data-oriented unit tests
+  - Specify the shape of your data
+
+  ** about the reader
+
+   For programmers who have experience with a high-level programming language like JavaScript, Java, Python, C#, Clojure, or Ruby.
+
+  ** about the author
+
+   *Yehonathan Sharvit* has over twenty years of experience as a software engineer.  He blogs, speaks at conferences, and leads Data-oriented programming workshops around the world.
+
+  ** table of contents
+
+  You can see this entire book for free.  Click anywhere in the table of contents to start reading
+#+end_quote

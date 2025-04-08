@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       fcfb026a-14ff-4811-a992-64b7593de26d
+:ROAM_REFS: https://drewsh.com/lisp-game-jam
+:END:
+#+title: (drewsh.com) Participating in the Spring Lisp Game jam, why and how | Drew's blogsite
+#+filetags: :competitions:programming:lisp:games:blog_post:website:

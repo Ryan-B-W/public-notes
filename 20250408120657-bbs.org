@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7b5fad45-fe99-4925-93f7-dd88e3f22178
+:ROAM_ALIASES: "Bulletin Board System"
+:END:
+#+title: BBS
+#+filetags: :networking:forums:
+
+A computer bulletin board service provided remotely.
+* (en.wikipedia.org) Bulletin board system - Wikipedia              :website:
+:PROPERTIES:
+:ID:       f9d54bdf-4273-4a4f-af44-942c7a372566
+:ROAM_REFS: https://en.wikipedia.org/wiki/Bulletin_board_system
+:END:
+
+#+begin_quote
+  A *bulletin board system* (*BBS*), also called a *computer bulletin board service* (*CBBS*), is a [[https://en.wikipedia.org/wiki/Computer_server][computer server]] running [[https://en.wikipedia.org/wiki/List_of_BBS_software][software]] that allows users to connect to the system using a [[https://en.wikipedia.org/wiki/Terminal_program][terminal program]].  Once logged in, the user performs functions such as [[https://en.wikipedia.org/wiki/Upload][uploading]] and [[https://en.wikipedia.org/wiki/Download][downloading]] software and data, reading news and bulletins, and exchanging messages with other users through public [[https://en.wikipedia.org/wiki/Internet_forum][message boards]] and sometimes via direct [[https://en.wikipedia.org/wiki/Synchronous_conferencing][chatting]].  In the early 1980s, message networks such as [[https://en.wikipedia.org/wiki/FidoNet][FidoNet]] were developed to provide services such as [[https://en.wikipedia.org/wiki/M+NetMail][NetMail]], which is similar to internet-based [[https://en.wikipedia.org/wiki/Email][email]].
+
+  Many BBSes also offered [[https://en.wikipedia.org/wiki/BBS_door][online games]] in which users could compete with each other.  BBSes with multiple phone lines often provided [[https://en.wikipedia.org/wiki/Chat_room][chat rooms]], allowing users to interact with each other.  Bulletin board systems were in many ways a precursor to the modern form of the [[https://en.wikipedia.org/wiki/World_Wide_Web][World Wide Web]], [[https://en.wikipedia.org/wiki/Social_networking_service][social networks]], and other aspects of the [[https://en.wikipedia.org/wiki/Internet][Internet]].  Low-cost, high-performance [[https://en.wikipedia.org/wiki/Asynchronous_communication][asynchronous]] [[https://en.wikipedia.org/wiki/Modem][modems]] drove the use of [[https://en.wikipedia.org/wiki/Online_service][online services]] and BBSes through the early 1990s.  /[[https://en.wikipedia.org/wiki/InfoWorld][InfoWorld]]/ estimated that there were 60,000 BBSes serving 17 million users in the United States alone in 1994, a collective market much larger than major online services such as [[https://en.wikipedia.org/wiki/CompuServe][CompuServe]].
+
+  The introduction of inexpensive [[https://en.wikipedia.org/wiki/Dial-up_Internet_access][dial-up internet service]] and the [[https://en.wikipedia.org/wiki/Mosaic_(web_browser)][Mosaic web browser]] offered ease of use and global access that BBS and online systems did not provide, and led to a rapid crash in the market starting in late 1994 to early 1995.  Over the next year, many of the [[https://en.wikipedia.org/wiki/List_of_BBS_software][leading BBS software providers]] went [[https://en.wikipedia.org/wiki/Bankruptcy][bankrupt]] and tens of thousands of BBSes disappeared.  Today, BBSing survives largely as a nostalgic hobby in most parts of the world, but it is still a popular form of communication for middle aged Taiwanese (see [[https://en.wikipedia.org/wiki/PTT_Bulletin_Board_System][PTT Bulletin Board System]]).  Most surviving BBSes are accessible over [[https://en.wikipedia.org/wiki/Telnet][Telnet]] and typically offer free email accounts, [[https://en.wikipedia.org/wiki/File_Transfer_Protocol][FTP]] services, and [[https://en.wikipedia.org/wiki/Internet_Relay_Chat][IRC]].  Some offer access through packet switched networks or [[https://en.wikipedia.org/wiki/Packet_radio][packet radio]] connections.
+#+end_quote

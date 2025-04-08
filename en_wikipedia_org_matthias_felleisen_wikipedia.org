@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       bb37502b-f9bf-48a9-b016-93f4ac3dfd84
+:ROAM_REFS: https://en.wikipedia.org/wiki/Matthias_Felleisen
+:END:
+#+title: (en.wikipedia.org) Matthias Felleisen - Wikipedia
+#+filetags: :biographic:people:website:
+
+#+begin_quote
+  *Matthias Felleisen* is a German-American [[https://en.wikipedia.org/wiki/Computer_science][computer science]] professor and author.  He grew up in Germany and immigrated to the US in his twenties.  He received his PhD from [[https://en.wikipedia.org/wiki/Indiana_University_Bloomington][Indiana University Bloomington]] under the direction of [[https://en.wikipedia.org/wiki/Daniel_P._Friedman][Daniel P. Friedman]].
+
+  After serving as professor for 14 years in the Computer Science Department of [[https://en.wikipedia.org/wiki/Rice_University][Rice University]], Felleisen joined the [[https://en.wikipedia.org/wiki/Khoury_College_of_Computer_Sciences][Khoury College of Computer Sciences]] at [[https://en.wikipedia.org/wiki/Northeastern_University][Northeastern University]] in Boston, Massachusetts as Trustee Professor.
+
+  Felleisen's interests include [[https://en.wikipedia.org/wiki/Programming_language][programming languages]], including [[https://en.wikipedia.org/wiki/Programming_tool][programming tools]], program design, [[https://en.wikipedia.org/wiki/Design_by_contract][software contracts]], and many more.  In the 1990s, Felleisen launched [[https://en.wikipedia.org/wiki/Racket_(programming_language)][PLT]] and TeachScheme! (later [[https://en.wikipedia.org/wiki/ProgramByDesign][ProgramByDesign]] and eventually giving rise to the Bootstrap project) with the goal of teaching program-design principles to beginners and to explore the use of [[https://en.wikipedia.org/wiki/Scheme_(programming_language)][Scheme]] to produce large systems.  As part of this effort, he authored /[[https://en.wikipedia.org/wiki/How_to_Design_Programs][How to Design Programs]]/ ([[https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology][Massachusetts Institute of Technology]] Press ([[https://en.wikipedia.org/wiki/MIT_Press][MIT Press]]), 2001) with [[https://en.wikipedia.org/wiki/Robert_Bruce_Findler][Robert Bruce Findler]], [[https://en.wikipedia.org/wiki/Matthew_Flatt][Matthew Flatt]], and [[https://en.wikipedia.org/wiki/Shriram_Krishnamurthi][Shriram Krishnamurthi]].
+#+end_quote

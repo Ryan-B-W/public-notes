@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       734efbcc-68b3-4ffd-b8c2-5e607223aeb9
+:ROAM_REFS: https://mitpress.mit.edu/9780262028967/structure-and-interpretation-of-classical-mechanics/
+:END:
+#+title: (mitpress.mit.edu) Structure and Interpretation of Classical Mechanics
+#+filetags: :physics:books:website:
+
+#+begin_quote
+  * Structure and Interpretation of Classical Mechanics
+
+  second edition
+
+  by [[https://mitpress.mit.edu/author/gerald-jay-sussman-2582][Gerald Jay Sussman]] and [[https://mitpress.mit.edu/author/jack-wisdom-6810][Jack Wisdom]]
+
+  *** Hardcover
+
+  ISBN: 9780262028967
+
+  Pub date: February 6, 2015
+
+  Publisher: The MIT Press
+
+  *** Paperback
+
+  ISBN: 9780262553452
+
+  Pub date: November 26, 2024
+
+  Publisher: The MIT Press
+
+  *** eTextbook rental
+
+  eTextbook
+
+  ISBN: 9780262028967
+
+  Pub date: February 6, 2015
+
+  Publisher: The MIT Press
+
+  ** [[https://mitpress.mit.edu/9780262028967/structure-and-interpretation-of-classical-mechanics/#tab-1][Description]]
+
+  The new edition of a classic text that concentrates on developing general methods for studying the behavior of classical systems, with extensive use of computation.
+
+  We now know that there is much more to classical mechanics than previously suspected.  Derivations of the equations of motion, the focus of traditional presentations of mechanics, are just the beginning.  This innovative textbook, now in its second edition, concentrates on developing general methods for studying the behavior of classical systems, whether or not they have a symbolic solution.  It focuses on the phenomenon of motion and makes extensive use of computer simulation in its explorations of the topic.  It weaves recent discoveries in nonlinear dynamics throughout the text, rather than presenting them as an afterthought.  Explorations of phenomena such as the transition to chaos, nonlinear resonances, and resonance overlap to help the student develop appropriate analytic tools for understanding.  The book uses computation to constrain notation, to capture and formalize methods, and for simulation and symbolic analysis.  The requirement that the computer be able to interpret any expression provides the student with strict and immediate feedback about whether an expression is correctly formulated.
+
+  This second edition has been updated throughout, with revisions that reflect insights gained by the authors from using the text every year at MIT.  In addition, because of substantial software improvements, this edition provides algebraic proofs of more generality than those in the previous edition; this improvement permeates the new edition.
+#+end_quote

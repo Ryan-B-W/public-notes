@@ -166,3 +166,36 @@ A comparison was made between the substitution model of application (see [[https
 ***** [[id:5d8b7f8f-1b32-411b-a63f-628cfa0c4205][(hackernewsbooks.com) Hacker News Books]]
 ***** [[id:0a177b13-aecb-4f33-a45b-30b0b090614b][(www.oreilly.com) Designing Data-Intensive Applications, 2nd Edition[Book]​]]
 ***** Next time, [[id:183c1aa8-f3cb-4712-9a69-c218be056654][(sarabander.github.io) SICP, 2e: 2.2 Hierarchical Data and the Closure Property]]
+**** Session Five, [2025-04-06 Sun 15:00-16:00]
+***** Current section [[id:183c1aa8-f3cb-4712-9a69-c218be056654][(sarabander.github.io) SICP, 2e: 2.2 Hierarchical Data and the Closure Property]]
+***** Examples of different Lisp structures using lists and cons cells
+#+begin_src scheme
+  ; Equivalent forms.
+  (cons (list 1 2) (list 3 4))
+  (cons (cons 1 (cons 2 nil)) (cons 3 (cons 4 nil)))
+
+  ; Not equivalent to the former two forms.
+  (list (list 1 2) (list 3 4))
+#+end_src
+***** [[id:82dac0a3-1609-43d4-ae80-1433e32ddfbb][(www.racket-lang.org) Racket]]
+***** [[id:c8912c5d-d322-4a55-9541-e7df5f750b28][(sdf.org) SDF Public Access UNIX System - Free Shell Account and Shell Access]]
+***** [[id:614d5dbe-cc84-406d-b4d8-eba7d8a66641][(physbuzz.github.io) notes-ch2-2.md]]
+***** [[id:0ce8a637-9efa-436e-8b46-1a49b4d98f35][(linkencore.iii.com) Encore -- Functional design and architecture : examples in Haskell / Alexander Granin.]]
+***** [[id:ccf03166-bdb6-4f78-90ae-e6f96696151f][(linkencore.iii.com) Encore -- Data-oriented programming : reduce software complexity / Yehonathan Sharvit ; forewords by Michael T. Nygard and Ryan Singer.]]
+***** [[id:702f90d1-a9b0-4223-91ed-e92ed309d890][(www.amazon.com) Programming Algorithms in Lisp: Writing Efficient Programs with Examples in ANSI Common Lisp: Domkin, Vsevolod: 9781484264270: Amazon.com: Books]]
+***** [[id:b4a1175c-cf6a-4de4-9d1a-2a338e46bd04][(www.amazon.com) Purely Functional Data Structures: Okasaki, Chris: 9780521663502: Amazon.com: Books]]
+***** [[id:bb37502b-f9bf-48a9-b016-93f4ac3dfd84][(en.wikipedia.org) Matthias Felleisen - Wikipedia]]
+***** [[id:40487582-bcbc-4e94-b8d7-f533a11a9313][(linkencore.iii.com) Encore -- The recursive book of recursion : ace the coding interview with Python and JavaScript / by Al Sweigart.]]
+***** [[id:c9e9c3b6-d5c3-4d40-8c18-96afb274cbf6][(www.manning.com) Data-Oriented Programming]]
+***** [[id:b1e828fb-6b65-4e6d-a6b4-aaea2b9e1740][(en.wikipedia.org) Tower of Hanoi - Wikipedia]]
+***** [[id:e9c87192-3017-420b-94d7-7bcc1ff9ca41][(en.wikipedia.org) Eight queens puzzle - Wikipedia]]
+***** [[id:734efbcc-68b3-4ffd-b8c2-5e607223aeb9][(mitpress.mit.edu) Structure and Interpretation of Classical Mechanics]]
+****** [[id:82fb2c99-587e-4a6d-95a6-3472337c73d0][(mitp-content-server.mit.edu) Structure and Interpretation of Classical Mechanics]]
+***** [[id:18cf776a-0540-4561-9e6d-03eef416fe2f][(www.amazon.com) Functional Differential Geometry (Mit Press): Sussman, Gerald Jay, Wisdom, Jack, Farr, Will: 9780262019347: Amazon.com: Books]]
+***** [[id:77677999-a800-4b6f-aa71-81d6f65e3299][(nostarch.com) Learn Physics with Functional Programming | No Starch Press]]
+***** [[id:c08a7cb1-2450-4a4a-8a2e-52ef1d331816][(nostarch.com) Hardcore Programming for Mechanical Engineers | No Starch Press]]
+***** [[id:03937c91-d585-48a0-b8cf-208ac6c74b45][(stevelosh.com) August 2016 Lisp Game Jam Postmortem / Steve Losh]]
+***** [[id:2f2bd676-b37a-4130-8e6b-cf11ae8b6f59][(rosettacode.org) Rosetta Code]]
+***** [[id:dfbd1cf6-7a60-4177-bcc7-b32962208f15][(rosettacode.org) Category:Scheme - Rosetta Code]]
+***** [[id:9b5f8541-85c4-4696-b9cb-dd719523d903][(www.manning.com) Grokking Functional Programming]]
+***** [[id:2f8a5c51-c94f-492f-8049-458e7fadc4b5][(lispcookbook.github.io) Data structures]]

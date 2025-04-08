@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       9b5f8541-85c4-4696-b9cb-dd719523d903
+:ROAM_REFS: https://www.manning.com/books/grokking-functional-programming
+:END:
+#+title: (www.manning.com) Grokking Functional Programming
+#+filetags: :programming:books:website:
+
+#+begin_quote
+  Grokking Functional Programming
+
+  Michał Płachta
+
+  - September 2022
+  - ISBN 9781617291838
+  - 520 pages
+
+  [[https://livebook.manning.com/book/grokking-functional-programming][*read* now]]
+
+  *There's no need to fear going functional!  This friendly, lively, and engaging guide is perfect for any perplexed programmer.  It lays out the principles of functional programming in a simple and concise way that will help you grok what FP is really all about.*
+
+  In /Grokking Functional Programming/ you will learn:
+
+  - Designing with functions and types instead of objects
+  - Programming with pure functions and immutable values
+  - Writing concurrent programs using the functional style
+  - Testing functional programs
+  - Multiple learning approaches to help you grok each new concept
+
+  If you've ever found yourself rolling your eyes at functional programming, this is the book for you.  Open up /Grokking Functional Programming/ and you'll find functional ideas mapped onto what you already know as an object-oriented programmer.  The book focuses on practical aspects from page one.  Hands-on examples apply functional principles to everyday programming tasks like concurrency, error handling, and improving readability.  Plus, puzzles and exercises let you think and practice what you're learning.  You'll soon reach an amazing “aha” moment and start seeing code in a completely new way.
+
+  ** about the technology
+
+  Finally, there's an easy way to learn functional programming!  This unique book starts with the familiar ideas of OOP and introduces FP step-by-step using relevant examples, engaging exercises, and lots of illustrations.  You'll be amazed at how quickly you'll start seeing software tasks from this valuable new perspective.
+
+  ** about the book
+
+  /Grokking Functional Programming/ introduces functional programming to imperative developers.  You'll start with small, comfortable coding tasks that expose basic concepts like writing pure functions and working with immutable data.  Along the way, you'll learn how to write code that eliminates common bugs caused by complex distributed state.  You'll also explore the FP approach to IO, concurrency, and data streaming.  By the time you finish, you'll be writing clean functional code that's easy to understand, test, and maintain.
+
+  ** what's inside
+
+  - Designing with functions and types instead of objects
+  - Programming with pure functions and immutable values
+  - Writing concurrent programs using the functional style
+  - Testing functional programs
+
+  ** about the reader
+
+  For developers who know an object-oriented language.  Examples in Java and Scala.
+
+  ** about the author
+
+  *Michał Płachta* is an experienced software developer who regularly speaks and writes about creating maintainable applications.  He blogs at [[https://www.michalplachta.com/][michalplachta.com.]]
+
+  ** table of contents
+
+  You can see this entire book for free.  Click anywhere in the table of contents to start reading
+#+end_quote

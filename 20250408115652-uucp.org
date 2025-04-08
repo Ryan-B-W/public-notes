@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       74b31ae6-5215-4bcd-9007-4f9a24ce2064
+:ROAM_ALIASES: "Unix-to-Unix Copy"
+:END:
+#+title: UUCP
+#+filetags: :email:unix:networking:
+
+A suite of programs and protocols for the transfer of files, email, and netnews across computer systems, namely [[id:b7ffa33f-6da2-4918-9ced-6afd0fbdb0fe][Unix]].
+* (en.wikipedia.org) UUCP - Wikipedia                               :website:
+:PROPERTIES:
+:ID:       9273a528-188f-40e1-939d-fafa8d6a9ba1
+:ROAM_REFS: https://en.wikipedia.org/wiki/UUCP
+:END:
+
+#+begin_quote
+  *UUCP* (*Unix-to-Unix Copy*) is a suite of [[https://en.wikipedia.org/wiki/Computer_program][computer programs]] and [[https://en.wikipedia.org/wiki/Communications_protocol][protocols]] allowing remote execution of commands and transfer of [[https://en.wikipedia.org/wiki/Computer_file][files]], [[https://en.wikipedia.org/wiki/Email][email]] and [[https://en.wikipedia.org/wiki/Netnews][netnews]] between [[https://en.wikipedia.org/wiki/Computer][computers]].
+
+  A command named =uucp= is one of the programs in the suite; it provides a user interface for requesting file copy operations.  The UUCP suite also includes =uux= (user interface for remote command execution), =uucico= (the communication program that performs the file transfers), =uustat= (reports statistics on recent activity), =uuxqt= (execute commands sent from remote machines), and =uuname= (reports the UUCP name of the local system).  Some versions of the suite include [[https://en.wikipedia.org/wiki/Uuencoding][=uuencode=]]/=uudecode= (convert 8-bit binary files to 7-bit text format and vice versa).
+
+  Although UUCP was originally developed on [[https://en.wikipedia.org/wiki/Unix][Unix]] in the 1970s and 1980s, and is most closely associated with [[https://en.wikipedia.org/wiki/Unix-like][Unix-like]] systems, UUCP implementations exist for several non-Unix-like operating systems, including [[https://en.wikipedia.org/wiki/DOS][DOS]], [[https://en.wikipedia.org/wiki/OS/2][OS/2]], [[https://en.wikipedia.org/wiki/OpenVMS][OpenVMS]] (for VAX hardware only), [[https://en.wikipedia.org/wiki/AmigaOS][AmigaOS]], [[https://en.wikipedia.org/wiki/Classic_Mac_OS][classic Mac OS]], and even [[https://en.wikipedia.org/wiki/CP/M][CP/M]].
+#+end_quote

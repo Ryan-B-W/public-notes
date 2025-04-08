@@ -1,0 +1,85 @@
+:PROPERTIES:
+:ID:       77677999-a800-4b6f-aa71-81d6f65e3299
+:ROAM_REFS: https://nostarch.com/learn-physics-functional-programming
+:END:
+#+title: (nostarch.com) Learn Physics with Functional Programming | No Starch Press
+#+filetags: :haskell_lang:mathematics:programming:physics:books:website:
+
+#+begin_quote
+  * Learn Physics with Functional Programming
+
+  A Hands-on Guide to Exploring Physics with Haskell
+
+  by Scott N. Walck
+
+  December 2022, 648 pp.
+
+  ISBN-13: 9781718501669
+
+  Lay-flat binding
+
+  /Learn Physics with Functional Programming/ is your key to unlocking the mysteries of theoretical physics by coding the underlying math in Haskell.
+
+  You'll use Haskell's type system to check that your code makes sense as you deepen your understanding of Newtonian mechanics and electromagnetic theory, including how to describe and calculate electric and magnetic fields.
+
+  As you work your way through the book's numerous examples and exercises, you'll learn how to:
+
+  - Encode vectors, derivatives, integrals, scalar fields, vector fields, and differential equations
+  - Express fundamental physical principles using the logic of Haskell's type system to clarify Newton's second law, Coulomb's law, the Biot-Savart law, and the Maxwell equations
+  - Use higher-order functions to express numerical integration and approximation methods, such as the Euler method and the finite-difference time-domain (FDTD) method
+  - Create graphs, models, and animations of physical scenarios like colliding billiard balls, waves in a guitar string, and a proton in a magnetic field
+
+  Whether you're using this book as a core textbook for a computational physics course or for self-study, /Learn Physics with Functional Programming/ will teach you how to use the power of functional programming to explore the beautiful ideas of theoretical physics.
+
+  Author Bio
+
+  *Scott Walck* has a PhD in Physics from Lehigh University.  He has taught physics, including computational physics, to undergraduates (physics majors and non-majors) for 20 years at Lebanon Valley College, where he has been recognized with a Distinguished Teaching Award.  Walck is a 3-time NSF grant recipient for research in quantum information and is the author of 30+ peer-reviewed research articles in physics.
+
+  Table of contents
+
+  Acknowledgments\\
+  Introduction\\
+  *Part I: A Haskell Primer for Physicists*\\
+  Chapter 1: Calculating with Haskell\\
+  Chapter 2: Writing Basic Functions\\
+  Chapter 3: Types and Entities\\
+  Chapter 4: Describing Motion\\
+  Chapter 5: Working with Lists\\
+  Chapter 6: Higher-Order Functions\\
+  Chapter 7: Graphing Functions\\
+  Chapter 8: Type Classes\\
+  Chapter 9: Tuples and Type Constructors\\
+  Chapter 10: Describing Motion in Three Dimensions\\
+  Chapter 11: Creating Graphs\\
+  Chapter 12: Creating Stand-Alone Programs\\
+  Chapter 13: Creating 2D and 3D Animations\\
+  *Part II: Expressing Newtonian Mechanics and Solving Problems*\\
+  Chapter 14: Newton's Second Law and Differential Equations\\
+  Chapter 15: Mechanics in One Dimension\\
+  Chapter 16: Mechanics in Three Dimensions\\
+  Chapter 17: Satellite, Projectile, and Proton Motion\\
+  Chapter 18: A Very Short Primer on Relativity\\
+  Chapter 19: Interacting Particles\\
+  Chapter 20: Springs, Billiard Balls, and a Guitar String\\
+  *Part III: Expressing Electromagnetic Theory and Solving Problems*\\
+  Chapter 21: Electricity\\
+  Chapter 22: Coordinate Systems and Fields\\
+  Chapter 23: Curves, Surfaces, and Volumes\\
+  Chapter 24: Electric Charge\\
+  Chapter 25: Electric Field\\
+  Chapter 26: Electric Current\\
+  Chapter 27: Magnetic Field\\
+  Chapter 28: The Lorentz Force Law\\
+  Chapter 29: The Maxwell Equations\\
+  Appendix: Installing Haskell\\
+  Bibliography\\
+  Index
+
+  [[https://nostarch.com/download/LearnPhysicswithFunctionalProgramming_Copyright.pdf][*View the Copyright page*]]\\
+  [[https://nostarch.com/download/LearnPhysicswithFunctionalProgramming_TOC.pdf][*View the detailed Table of Contents*]]\\
+  [[https://nostarch.com/download/LearnPhysicswithFunctionalProgramming_Index.pdf][*View the Index*]]
+
+  Extra Stuff
+
+  View [[https://nostarch.com/download/LearnPhysicswithFunctionalProgramming_Resources.pdf][_*resources*_]].
+#+end_quote

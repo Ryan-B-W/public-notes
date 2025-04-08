@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       6c697a97-0acb-468b-87c9-96f60b3f9f72
+:ROAM_REFS: https://www.hardcoreprogramming.dev/
+:END:
+#+title: (www.hardcoreprogramming.dev) Hardcore Programming for Mechanical Engineers
+#+filetags: :python_lang:programming:physics:books:website:
+
+#+begin_quote
+  * Hardcore Programming for Mechanical Engineers
+
+  Build Engineering Applications from Scratch using Python
+
+  [[https://www.hardcoreprogramming.dev/explore][Explore the material]] covered in the book or check the [[https://www.hardcoreprogramming.dev/contents][table of contents]].
+#+end_quote

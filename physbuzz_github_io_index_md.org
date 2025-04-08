@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       7901faa1-9966-4bbf-b318-d5c8cc0a8850
+:ROAM_REFS: https://physbuzz.github.io/sicp/index.html
+:END:
+#+title: (physbuzz.github.io) index.md - SICP Reading Group
+#+filetags: :lisp:notes:website:
+
+Physbuzz's [[id:bc4f5e4a-5bb9-47f7-8086-d12236fe793f][SICP]] notes.
+* (physbuzz.github.io) notes-ch1-1.md
+:PROPERTIES:
+:ID:       250b2e70-00fa-426e-b8b2-730ee1d4b960
+:ROAM_REFS: https://physbuzz.github.io/sicp/ch1/notes-ch1-1.html
+:END:
+* (physbuzz.github.io) notes-ch1-2.md
+:PROPERTIES:
+:ID:       51594a7b-3ca6-4bc2-a5fc-b983660cb475
+:ROAM_REFS: https://physbuzz.github.io/sicp/ch1/notes-ch1-2.html
+:END:
+* (physbuzz.github.io) notes-ch1-3.md
+:PROPERTIES:
+:ID:       ffad46fa-53a8-415f-abce-41009dce427e
+:ROAM_REFS: https://physbuzz.github.io/sicp/ch1/notes-ch1-3.html
+:END:
+* (physbuzz.github.io) notes-ch2-1.md
+:PROPERTIES:
+:ID:       f5834edd-fedd-4981-9df7-ad810b6b1e44
+:ROAM_REFS: https://physbuzz.github.io/sicp/ch2/notes-ch2-1.html
+:END:
+* (physbuzz.github.io) notes-ch2-2.md
+:PROPERTIES:
+:ID:       614d5dbe-cc84-406d-b4d8-eba7d8a66641
+:ROAM_REFS: https://physbuzz.github.io/sicp/ch2/notes-ch2-2.html
+:END:
+* (physbuzz.github.io) notes-ch2-3.md
+:PROPERTIES:
+:ID:       17291360-ce55-44cd-8f99-c613c58218ff
+:ROAM_REFS: https://physbuzz.github.io/sicp/ch2/notes-ch2-3.html
+:END:
+* (physbuzz.github.io) notes-ch2-4.md
+:PROPERTIES:
+:ID:       d3dba01a-071e-41fe-a126-e21ca6f25f79
+:ROAM_REFS: https://physbuzz.github.io/sicp/ch2/notes-ch2-4.html
+:END:
+* (physbuzz.github.io) notes-ch2-5.md
+:PROPERTIES:
+:ID:       75851acb-ba35-4d1b-9459-da183fd14e98
+:ROAM_REFS: https://physbuzz.github.io/sicp/ch2/notes-ch2-5.html
+:END:

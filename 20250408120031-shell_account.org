@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7a408577-5983-4773-808f-5235c5e72715
+:END:
+#+title: Shell Account
+#+filetags: :shell_account:networking:linux:unix:
+
+A remote-access shell account on a [[id:b7ffa33f-6da2-4918-9ced-6afd0fbdb0fe][Unix]]-like system (including Unix, [[id:bf0bc2d7-17df-413c-823b-93904faffc58][Linux]], [[id:43194992-e4b9-4c9c-b8bb-32aba92e3891][NetBSD]], [[id:9de6b78d-1506-4837-bfa5-03e8632be933][FreeBSD]], [[id:a641ae8e-1d3c-4e90-911c-51a594b05a08][OpenBSD]], etc) providing a command-line interface to a shell.
+* (en.wikipedia.org) Shell account - Wikipedia                      :website:
+:PROPERTIES:
+:ID:       c12fc357-32b8-4677-8417-3029ee6181ce
+:ROAM_REFS: https://en.wikipedia.org/wiki/Shell_account
+:END:
+
+#+begin_quote
+  A *shell account* is a user account on a remote [[https://en.wikipedia.org/wiki/Computer_server][server]], typically running under [[https://en.wikipedia.org/wiki/Unix][Unix]] or [[https://en.wikipedia.org/wiki/Linux][Linux]] operating systems.  The account gives access to a text-based [[https://en.wikipedia.org/wiki/Command-line_interface][command-line interface]] in a [[https://en.wikipedia.org/wiki/Shell_(computing)][shell]], via a [[https://en.wikipedia.org/wiki/Terminal_emulator][terminal emulator]].  The user typically communicates with the server via the [[https://en.wikipedia.org/wiki/Secure_Shell][SSH]] protocol.  In the early days of the Internet, one would connect using a [[https://en.wikipedia.org/wiki/Modem][modem]].
+
+  Shell accounts were first made accessible in the 1980s to interested members of the public by Internet Service Providers---such as [[https://en.wikipedia.org/wiki/Netcom_(USA)][Netcom]], [[https://en.wikipedia.org/wiki/Panix_(ISP)][Panix]], [[https://en.wikipedia.org/wiki/The_World_(internet_service_provider)][The World]], [[https://en.wikipedia.org/w/index.php?title=And_Digex&action=edit&redlink=1][and Digex]]---although in rare instances individuals had access to shell accounts through their employer or university.  They were used for file storage, web space, email accounts, newsgroup access and software development.  Before the late 1990s, shell accounts were often much less expensive than full net access through [[https://en.wikipedia.org/wiki/Serial_Line_Internet_Protocol][SLIP]] or [[https://en.wikipedia.org/wiki/Point-to-Point_Protocol][PPP]], which was required to access the then-new [[https://en.wikipedia.org/wiki/World_Wide_Web][World Wide Web]].  Most [[https://en.wikipedia.org/wiki/Personal_computer][personal computer]] [[https://en.wikipedia.org/wiki/Operating_system][operating systems]] also lacked [[https://en.wikipedia.org/wiki/TCP/IP][TCP/IP]] stacks by default before the mid-1990s.  Products such as [[https://en.wikipedia.org/wiki/The_Internet_Adapter][The Internet Adapter]] were devised that could work as a proxy server, allowing users to run a web browser for the price of a shell account.
+
+  While direct internet connections made shell accounts largely obsolete for most users, they remained popular with some technically inclined subscribers.
+
+  *Shell providers* are often found to offer shell accounts at low-cost or free.  These shell accounts generally provide users with access to various software and services including [[https://en.wikipedia.org/wiki/Compilers][compilers]], IRC clients, background processes, FTP, text editors (such as [[https://en.wikipedia.org/wiki/Nano_(text_editor)][nano]]) and [[https://en.wikipedia.org/wiki/Email_client][email clients]] (such as [[https://en.wikipedia.org/wiki/Pine_(e-mail_client)][pine]]).  Some shell providers may also allow tunneling of traffic to bypass corporate firewalls.
+#+end_quote

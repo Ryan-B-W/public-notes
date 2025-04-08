@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       e9c87192-3017-420b-94d7-7bcc1ff9ca41
+:ROAM_REFS: https://en.wikipedia.org/wiki/Eight_queens_puzzle
+:END:
+#+title: (en.wikipedia.org) Eight queens puzzle - Wikipedia
+#+filetags: :puzzles_and_challenges:website:
+
+#+begin_quote
+  The *eight queens puzzle* is the problem of placing eight [[https://en.wikipedia.org/wiki/Chess][chess]] [[https://en.wikipedia.org/wiki/Queen_(chess)][queens]] on an 8×8 [[https://en.wikipedia.org/wiki/Chessboard][chessboard]] so that no two queens threaten each other; thus, a solution requires that no two queens share the same row, column, or diagonal.  There are 92 solutions.  The problem was first posed in the mid-19th century.  In the modern era, it is often used as an example problem for various [[https://en.wikipedia.org/wiki/Computer_programming][computer programming]] techniques.
+
+  The eight queens puzzle is a special case of the more general */n/ queens problem* of placing /n/ non-attacking queens on an /n/×/n/ chessboard.  Solutions exist for all [[https://en.wikipedia.org/wiki/Natural_number][natural numbers]] /n/ with the exception of /n/ = 2 and /n/ = 3.  Although the exact number of solutions is only known for /n/ ≤ 27, the [[https://en.wikipedia.org/wiki/Asymptotic_analysis][asymptotic growth rate]] of the number of solutions is approximately (0.143 /n/)^{/n/}.
+#+end_quote

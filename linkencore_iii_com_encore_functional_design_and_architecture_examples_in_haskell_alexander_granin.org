@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       0ce8a637-9efa-436e-8b46-1a49b4d98f35
+:ROAM_REFS: "https://linkencore.iii.com/iii/encore/record/C__Rb50081718__Sdata driven programming__P0?lang=eng"
+:END:
+#+title: (linkencore.iii.com) Encore -- Functional design and architecture : examples in Haskell / Alexander Granin.
+#+filetags: :programming:haskell_lang:books:website:

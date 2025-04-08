@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       ccf03166-bdb6-4f78-90ae-e6f96696151f
+:ROAM_REFS: "https://linkencore.iii.com/iii/encore/record/C__Rb48752544__Sdata oriented programming__Orightresult__U__X6?lang=eng"
+:END:
+#+title: (linkencore.iii.com) Encore -- Data-oriented programming : reduce software complexity / Yehonathan Sharvit ; forewords by Michael T. Nygard and Ryan Singer.
+#+filetags: :programming:books:website:

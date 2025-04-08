@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       40487582-bcbc-4e94-b8d7-f533a11a9313
+:ROAM_REFS: "https://linkencore.iii.com/iii/encore/record/C__Rb48752549__Srecursion __Orightresult__U__X6?lang=eng"
+:END:
+#+title: (linkencore.iii.com) Encore -- The recursive book of recursion : ace the coding interview with Python and JavaScript / by Al Sweigart.
+#+filetags: :algorithms:programming:books:website:

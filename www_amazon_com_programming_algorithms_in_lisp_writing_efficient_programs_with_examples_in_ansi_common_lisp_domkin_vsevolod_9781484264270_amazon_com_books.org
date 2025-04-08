@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       702f90d1-a9b0-4223-91ed-e92ed309d890
+:ROAM_REFS: https://www.amazon.com/dp/1484264274
+:END:
+#+title: (www.amazon.com) Programming Algorithms in Lisp: Writing Efficient Programs with Examples in ANSI Common Lisp: Domkin, Vsevolod: 9781484264270: Amazon.com: Books
+#+filetags: :algorithms:programming:lisp:books:website:
+
+#+begin_quote
+  * Programming Algorithms in Lisp: Writing Efficient Programs with Examples in ANSI Common Lisp 1st ed. Edition
+
+  by [[https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&field-author=Vsevolod+Domkin&text=Vsevolod+Domkin&sort=relevancerank&search-alias=books][Vsevolod Domkin]] (Author)
+
+  Master algorithms programming using Lisp, including the most important data structures and algorithms.  This book also covers the essential tools that help in the development of algorithmic code to give you all you need to enhance your code.
+
+  Programming Algorithms in Lisp shows real-world engineering considerations and constraints that influence the programs that use these algorithms.  It includes practical use cases of the applications of the algorithms to a variety of real-world problems.
+
+  What You Will Learn
+
+  - Program algorithms using the Lisp programming language
+  - Work with data structures, arrays, key-values, hash-tables, trees, graphs, and more
+  - Use dynamic programming
+  - Program using strings
+  - Work with approximations and compression
+
+  Who This Book Is For
+
+  Intermediate Lisp programmers wanting to do algorithms programming.  A very experienced non-Lisp programmer may beable to benefit from this book as well.
+#+end_quote
