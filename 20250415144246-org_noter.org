@@ -1,0 +1,51 @@
+:PROPERTIES:
+:ID:       769ec31f-da40-4124-9227-96af4d831c9f
+:END:
+#+title: Org-noter
+#+filetags: :notes:information_management:emacs_lisp:emacs:software:
+
+[[id:aca1324c-b142-4e34-a121-a8bb0a79ddf8][Emacs]] package for annotating documents with a separate [[id:5ab4a0b0-95e2-40cf-b924-709db3115d48][Org Mode]] file side-by-side.
+* (github.com) org-noter/org-noter: Emacs document annotator, using Org-mode :website:
+:PROPERTIES:
+:ID:       a6849267-740d-4a5c-bb7c-a630d7daf512
+:ROAM_REFS: https://github.com/org-noter/org-noter
+:END:
+
+Primary upstream repository of [[id:769ec31f-da40-4124-9227-96af4d831c9f][Org-noter]].
+
+#+begin_quote
+  * Org-noter: an interleaving/note-taking package for documents
+
+  =Org-noter=, by [[https://github.com/weirdNox][Gonçalo Santos]], was inspired by the now-orphaned =Interleave= package, by [[https://github.com/rudolfochrist][Sebastian Christ]].  In Sebastian's words (with minor edits):
+
+  : In the past, textbooks were sometimes published as interleaved editions.  That meant, each page was followed by a blank page and ambitious students/scholars had the ability to take their notes directly in their copy of the textbook.  Newton and Kant were prominent representatives of this technique.  [find reference]
+  :
+  : Nowadays, textbooks (or lecture materials) come in PDF format.  Although almost every PDF Reader has the ability to add some notes to the PDF itself, it is not as powerful as it could be.  This is what this Emacs minor mode tries to accomplish.  It presents your PDF side by side with an Org Mode buffer of your notes, narrowed down to just those passages that are relevant to this particular page in the document viewer.
+
+  Org-noter's purpose is to let you create notes that are kept in sync when you scroll through the document, but that are external to it - the notes themselves live in an Org-mode file.  As such, this leverages the power of [[http://orgmode.org/][Org-mode]] (the notes may have outlines, latex fragments, babel, etc...) while acting like notes that are made /inside/ the document.  Also, taking notes is very simple: just press =i= and annotate away!
+
+  Org-noter is compatible with [[https://www.gnu.org/software/emacs/manual/html_node/emacs/Document-View.html][DocView]], [[https://github.com/vedang/pdf-tools][PDF Tools]], [[https://depp.brause.cc/nov.el/][Nov.el]], and [[https://github.com/org-noter/org-noter/blob/master/DJVU-read][DJVU-image-mode]].  These modes make it possible to annotate *PDF*, *EPUB*, *Microsoft Office*, DVI, PS, OpenDocument, and DJVU formatted files.  Note that PDF support is our prime goal.  Other format have been supported by other contributors, but we need code contributions from users of other formats to maintain/progress usability with those formats.
+#+end_quote
+* (github.com) weirdNox/org-noter: Emacs document annotator, using Org-mode :website:
+:PROPERTIES:
+:ID:       cdffce59-0413-4e8f-94ff-8777352ec6de
+:ROAM_REFS: https://github.com/weirdNox/org-noter
+:END:
+
+Original repository for [[id:769ec31f-da40-4124-9227-96af4d831c9f][Org-noter]].
+** (github.com) org-noter maintenance // fork // future? · Issue #173 · weirdNox/org-noter
+:PROPERTIES:
+:ID:       9f03f4a0-c307-4c78-8a65-5e12c718f842
+:ROAM_REFS: https://github.com/weirdNox/org-noter/issues/173
+:END:
+*** See Also
+**** (github.com) petermao/org-noter: Emacs document annotator, using Org-mode
+:PROPERTIES:
+:ID:       07533793-2036-48a5-b66e-3279a8b05a8c
+:ROAM_REFS: https://github.com/petermao/org-noter
+:END:
+**** (github.com) dmitrym0/org-noter-plus: Emacs document annotator, using Org-mode
+:PROPERTIES:
+:ID:       e9c6aa9b-64d3-4761-9e81-99b378e49136
+:ROAM_REFS: https://github.com/dmitrym0/org-noter-plus
+:END:

@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       cdffce59-0413-4e8f-94ff-8777352ec6de
-:ROAM_REFS: https://github.com/weirdNox/org-noter
-:END:
-#+title: (github.com) weirdNox/org-noter: Emacs document annotator, using Org-mode
-#+filetags: :software:emacs_lisp:lisp:emacs:website:
