@@ -4,3 +4,159 @@
 :END:
 #+title: (clep.collegeboard.org) Earn College Credit with CLEP – CLEP | College Board
 #+filetags: :education:college:website:
+
+* (clep.collegeboard.org) Biology Exam – CLEP | College Board       :biology:
+:PROPERTIES:
+:ID:       d04b2c88-0aae-40fd-857a-b68618a04cca
+:ROAM_REFS: https://clep.collegeboard.org/clep-exams/biology
+:END:
+
+#+begin_quote
+  * Biology
+
+  The Biology exam covers molecular and cellular biology, organismal biology, and population biology.
+
+  *** Register for $95.00
+
+  [[https://myclep.collegeboard.org/][Register]]
+
+  ** Overview
+
+  The Biology exam covers material that is usually taught in a one-year college general biology course.  The subject matter tested covers the broad field of the biological sciences, organized into three major areas: molecular and cellular biology, organismal biology, and population biology.
+
+  The exam gives approximately equal weight to these three areas.  The exam contains approximately 115 questions to be answered in 90 minutes.  Some of these are pretest questions that will not be scored.
+
+  ** Knowledge and Skills Required
+
+  Questions on the Biology exam require test takers to demonstrate one or more of the following abilities.
+
+  - Knowledge of facts, principles, and processes of biology
+  - Understanding the means by which information is collected, how it is interpreted, how one hypothesizes from available information, and how one draws conclusions and makes further predictions
+  - Understanding that science is a human endeavor with social consequences
+
+  The subject matter of the Biology exam is drawn from the following topics.  The percentages next to the main topics indicate the approximate percentage of exam questions on that topic.
+
+  *** Molecular and Cellular Biology (33%)
+
+  **** Chemical composition of organisms
+
+  - Simple chemical reactions and bonds
+  - Properties of water
+  - Chemical structure of carbohydrates, lipids, proteins, and nucleic acids
+  - Origin of life
+
+  **** Cells
+
+  - Structure and function of cell organelles
+  - Properties of cell membranes
+  - Comparison of prokaryotic and eukaryotic cells
+
+  **** Enzymes
+
+  - Enzyme-substrate complex
+  - Roles of coenzymes
+  - Inorganic cofactors
+  - Inhibition and regulation
+
+  **** Energy transformations
+
+  - Glycolysis, respiration, and anaerobic pathways
+  - Photosynthesis
+
+  **** Cell division
+
+  - Structure of chromosomes
+  - Mitosis, meiosis, and cytokinesis in plants and animals
+
+  **** Chemical nature of the gene
+
+  - Watson-Crick model of nucleic acids
+  - DNA replication
+  - Mutations
+  - Control of protein synthesis: transcription, translation, and posttranscriptional processing
+  - Structural and regulatory genes
+  - Transformation
+  - Viruses
+
+  *** Organismal Biology (34%)
+
+  **** Structure and function in plants with emphasis on angiosperms
+
+  - Root, stem, leaf, flower, seed, and fruit
+  - Water and mineral absorption and transport
+  - Food translocation and storage
+
+  **** Plant reproduction and development
+
+  - Alternation of generations in ferns, conifers, and flowering plants
+  - Gamete formation and fertilization
+  - Growth and development: hormonal control
+  - Tropisms and photoperiodicity
+
+  **** Structure and function in animals with emphasis on vertebrates
+
+  - Major systems (e.g., digestive, gas exchange, skeletal, nervous, circulatory, excretory, and immune)
+  - Homeostatic mechanisms
+  - Hormonal control in homeostasis and reproduction
+
+  **** Animal reproduction and development
+
+  - Gamete formation and fertilization
+  - Cleavage, gastrulation, germ layer formation, and differentiation of organ systems
+  - Experimental analysis of vertebrate development
+  - Extraembryonic membranes of vertebrates
+  - Formation and function of the mammalian placenta
+  - Blood circulation in the human embryo
+
+  **** Principles of heredity
+
+  - Mendelian inheritance (dominance, segregation, independent assortment)
+  - Chromosomal basis of inheritance
+  - Linkage, including sex-linked
+  - Polygenic inheritance (height, skin color, etc.)
+  - Multiple alleles (human blood groups)
+
+  *** Population Biology (33%)
+
+  **** Principles of ecology
+
+  - Energy flow and productivity in ecosystems
+  - Biogeochemical cycles
+  - Population growth and regulation (natality, mortality, competition, migration, density, r- and K-selection)
+  - Community structure, growth, and regulation (major biomes and succession)
+  - Habitat (biotic and abiotic factors)
+  - Concept of niche
+  - Island biogeography
+  - Evolutionary ecology (life history strategies, altruism, and kin selection)
+
+  **** Principles of evolution
+
+  - History of evolutionary concepts
+  - Concepts of natural selection (differential reproduction, mutation, Hardy-Weinberg equilibrium, speciation, and punctuated equilibrium)
+  - Adaptive radiation
+  - Major features of plant and animal evolution
+  - Concepts of homology and analogy
+  - Convergence, extinction, balanced polymorphism, and genetic drift
+  - Classification of living organisms
+  - Evolutionary history of humans
+
+  **** Principles of behavior
+
+  - Stereotyped and learned social behavior
+  - Societies (insects, birds, and primates)
+
+  **** Social biology
+
+  - Human population growth (age composition, birth and fertility rates, and theory of demographic transition)
+  - Human intervention in the natural world (management of resources, and environmental pollution)
+  - Biomedical progress (control of human reproduction, and genetic engineering)
+
+  ** Score Information
+
+  *** ACE Recommendation for Biology
+
+  | Credit-granting Score | 50 |
+  | Semester Hours        | 6  |
+
+  *Note:* Each institution reserves the right to set its own credit-granting policy, which may differ from [[https://clep.collegeboard.org/develop-your-clep-program/create-a-clep-policy/ace-credit-recommendations/b-level-score-recommendations][the American Council on Education (ACE)]].  Contact your college to find out the score required for credit and the number of credit hours granted.
+#+end_quote
