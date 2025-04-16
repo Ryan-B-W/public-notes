@@ -5,7 +5,23 @@
 #+filetags: :regex:snippets:
 
 Replace single spaces after end-of-sentence periods with double spaces:
-: \([^\(?: [:upper:]\)])?[\.\?\!]\(?:'"\|\]\]?\|”\|\*\|_\|/\|\+\|)\)?\) \([^ [:lower:]]\) → \1  \2
+#+begin_src elisp :exports both
+  (rx (seq (group (or (seq (not (any whitespace ".")) (not upper-case))
+                      (seq (any whitespace ".") (not word))
+                      (seq (not (any whitespace ".")) word))
+                  (? ")")
+                  (any ".?!")
+                  (* (any "'’’‚‚❜❟"
+                         "\"””„„❞❠"
+                         "_*+/=-"
+                         ")]}")))
+           " "
+           (group (not (any " " lower-case)))))
+#+end_src
+#+RESULTS:
+: \(\(?:[^.[:space:]][^[:upper:]]\|[.[:space:]][^[:word:]]\|[^.[:space:]][[:word:]]\))?[!.?][]"')-+/=_}’‚”„❜❞-❠-]*\) \([^ [:lower:]]\)
+and replace with
+: \1  \2
 
 Replace double-hyphens with en-dashes:
 : \([^-]\)--\([^-]\) → \1–\2
