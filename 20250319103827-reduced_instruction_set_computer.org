@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       321ba3cc-d73a-4620-88f7-2527cbae1aac
+:ROAM_ALIASES: "Reduced Instruction Set Computer" RISC
 :END:
 #+title: Reduced Instruction Set Computer (RISC)
 #+filetags: :computer_architecture:computer_science:

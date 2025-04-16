@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       96b6fc36-5b86-4108-b2b4-39b85a38f385
+:ROAM_ALIASES: "Complex Instruction Set Computer" CISC
 :END:
 #+title: Complex Instruction Set Computer (CISC)
 #+filetags: :computer_architecture:computer_science:

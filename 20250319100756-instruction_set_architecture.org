@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       c980a340-2564-437e-a79f-388122a206ad
+:ROAM_ALIASES: "Instruction Set Architecture" ISA
 :END:
 #+title: Instruction Set Architecture (ISA)
 #+filetags: :computer_architecture:computer_science:
