@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       0189ab21-9f9b-43f1-af70-805757a3dc62
+:ROAM_ALIASES: Sway SwayWM
+:END:
+#+title: Sway Window Manager
+#+filetags: :open_source:wayland:human_interaction:linux:software:
+
+[[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][Open-source]], tiling [[id:410dabc8-5d5f-4602-afa1-49215d4d6c39][Wayland]] compositor and window-manager.

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       647e2253-df22-4f90-9b9a-9752ce5d0efa
+:END:
+#+title: X11
+#+filetags: :linux:unix:graphics:human_interaction:x11:
+
+Display server protocol predominantly used on [[id:b7ffa33f-6da2-4918-9ced-6afd0fbdb0fe][Unix]]-like systems.
