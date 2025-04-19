@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bd12a34f-f545-4508-ad59-01fb77a2420f
+:END:
+#+title: Snippets
+#+filetags: :snippets:directory:lists:
+
+Useful snippets, both text and code.
+* Regular Expressions (Regex)
+** [[id:a4053afc-b93b-49d0-bd79-30590c059a4b][Regex Snippet: Useful Regex Substitutions for Reformatting Copied Text Snippets]]
+* Code
+** [[id:ba84d011-98eb-4eb4-8eca-d3b0bca8ed65][ELisp Snippet: convert buffer from html to org using org-web-tools and Pandoc]]
