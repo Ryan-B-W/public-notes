@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       fe3afedb-9d76-4c36-a529-3dfc6709f995
+:ROAM_ALIASES: "Hypertext Markup Language" HTML
 :END:
 #+title: HTML (Hypertext Markup Language)
 #+filetags: :file_formats:www:markup:

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       3424941c-1963-4feb-aaac-629bd00f08c7
+:END:
+#+title: Little Lies in Education
+#+filetags: :opinion:philosophy:learning:education:
+
+There is an emergent practice, and corresponding philosophy, in education where educators decide that it's more pragmatic to teach students a simplified model that is obsolete and known to be wrong, but is easier to teach in a class of limited length, and present it as the truth rather than to acknowledge that it is flawed.
+
+Possible causes include:
+ - Educators considering that it's the duty of later classes in a series to correct these falsehoods.  This ignores that most students stop at introductory classes, as these are the only ones they have to take as part of a general education requirement.
+ - Educators not bothering with qualifying statements and clauses since most students won't remember them anyway.
+ - And, perhaps most likely, if perhaps most uncomfortable for those practicing education, is laziness and not wanting to follow through with the massive amount of effort needed to teach without leaning on these "little lies".
