@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       2bafb0d0-9bc4-41b1-971a-2e5206bf9bb9
+:ROAM_REFS: https://htmx.org/
+:END:
+#+title: (htmx.org) </> htmx - high power tools for html
+#+filetags: :web_development:www:software:website:
+
+#+begin_quote
+  ** introduction
+
+  htmx gives you access to [[https://htmx.org/docs/#ajax][AJAX]], [[https://htmx.org/docs/#css_transitions][CSS Transitions]], [[https://htmx.org/docs/#websockets-and-sse][WebSockets]] and [[https://htmx.org/docs/#websockets-and-sse][Server Sent Events]] directly in HTML, using [[https://htmx.org/reference/#attributes][attributes]], so you can build [[https://htmx.org/examples/][modern user interfaces]] with the [[https://en.wikipedia.org/wiki/HATEOAS][simplicity]] and [[https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm][power]] of hypertext
+
+  htmx is small ([[https://unpkg.com/htmx.org/dist/][~14k min.gz'd]]), [[https://github.com/bigskysoftware/htmx/blob/master/package.json][dependency-free]], [[https://htmx.org/extensions][extendable]] & has *reduced* code base sizes by [[https://htmx.org/essays/a-real-world-react-to-htmx-port/][67% when compared with react]]
+
+  ** motivation
+
+  - Why should only [[https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a][=<a>=]] & [[https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form][=<form>=]] be able to make HTTP requests?
+  - Why should only [[https://developer.mozilla.org/en-US/docs/Web/API/Element/click_event][=click=]] & [[https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event][=submit=]] events trigger them?
+  - Why should only [[https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET][=GET=]] & [[https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST][=POST=]] methods be [[https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods][available]]?
+  - Why should you only be able to replace the *entire* screen?
+
+  By removing these constraints, htmx completes HTML as a [[https://en.wikipedia.org/wiki/Hypertext][hypertext]]
+#+end_quote

@@ -2,16 +2,15 @@
 :ID:       6afa6f6b-d38b-497a-a433-486ec0703445
 :END:
 #+title: Vimacs.app Emacs Distribution
-#+filetags: :emacs:software_development:software_distributions:software:development_environment:lisp:programming:computer_science:
+#+filetags: :emacs:lisp:software_distributions:development_environment:configuration:programming:software_development:computer_science:software:
 
 My personal [[id:aca1324c-b142-4e34-a121-a8bb0a79ddf8][Emacs]] configuration and distribution.
-* See Also
-** Vimacs.app :website:emacs:software_development:software_distributions:software:development_environment:lisp:programming:computer_science:
+* (vimacs.app) Vimacs.app                                           :website:
 :PROPERTIES:
 :ID:       fe9d21d6-03f5-45be-9d34-87043416f808
 :ROAM_REFS: https://vimacs.app/
 :END:
-** Ryan-B-W/vimacs.app: An opinionated Emacs configuration for Neovim users that like an IDE-like experience. :website:emacs:software_development:software_distributions:software:development_environment:lisp:programming:computer_science:
+* (github.com) Ryan-B-W/vimacs.app: An opinionated Emacs configuration for Neovim users that like an IDE-like experience. :website:
 :PROPERTIES:
 :ID:       6bc99fe7-4189-48fe-86c9-119c3b073144
 :ROAM_REFS: https://github.com/Ryan-B-W/vimacs.app

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       cbbb5487-56e1-4b39-9dcf-ac18afd4204d
+:ROAM_REFS: https://gitlab.freedesktop.org/drm/amd/-/issues/2357
+:END:
+#+title: (gitlab.freedesktop.org) S3 suspend broken on AMD Ryzen Pro 7 5850U (regression in kernel 6.1) (#2357) · Issues · drm / amd · GitLab
+#+filetags: :linux:amd_inc:vcs_forge_issues:website:

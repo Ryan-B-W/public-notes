@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       cb9ad15f-7324-4db7-84a7-fd41abf3bf38
+:ROAM_REFS: https://github.com/doomemacs/
+:END:
+#+title: (github.com) Doom Emacs
+#+filetags: :configuration:software_distributions:emacs_lisp:emacs:software:website:
+
+#+begin_quote
+  [[https://github.com/doomemacs/.github/tree/main/profile/README.md][README.md]]
+
+  : It's a tale as old as time: a stubborn, shell-dwelling, and melodramatic vimmer -- tormented by Vimscript and his boundless productivity -- makes a formal request to the netherworld for a transfer.  They agree.  The terms?  He must lure more unsuspecting souls into a life of eternal bikeshedding.  Now he runs the place.
+
+  Doom Emacs is a configuration framework for [[https://www.gnu.org/software/emacs/][GNU Emacs]] with an optional starter kit attached.  It's tailored for [[https://www.emacswiki.org/emacs/DotEmacsBankruptcy][bankruptcy veterans]] seeking a faster, more reliable, and reproducible foundation for their next config, or for beginners who want a softer introduction to our favorite operating system.
+
+  *** Quick install
+
+  #+begin_example
+    git clone --depth 1 --single-branch https://github.com/doomemacs/doomemacs ~/.config/emacs
+    ~/.config/emacs/bin/doom install
+  #+end_example
+#+end_quote

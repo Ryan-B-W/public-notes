@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       0fa65fe4-432f-47e7-a565-23bb9b917280
+:ROAM_REFS: https://en.wikipedia.org/wiki/Tizen
+:END:
+#+title: (en.wikipedia.org) Tizen - Wikipedia
+#+filetags: :linux:software:operating_systems:website:
+
+#+begin_quote
+  *Tizen* ([[https://en.wikipedia.org/wiki/Help:IPA/English][/ˈtaɪzɛn/]]) is a Linux-based operating system primarily developed by [[https://en.wikipedia.org/wiki/Samsung_Electronics][Samsung Electronics]] and supported by the [[https://en.wikipedia.org/wiki/Linux_Foundation][Linux Foundation]].
+
+  The project was originally conceived as an [[https://en.wikipedia.org/wiki/HTML5][HTML5]]-based platform for mobile devices to succeed [[https://en.wikipedia.org/wiki/MeeGo][MeeGo]].  It was backed by other companies under the [[https://en.wikipedia.org/wiki/Tizen_Association][Tizen Association]].  Samsung merged its previous Linux-based OS effort, [[https://en.wikipedia.org/wiki/Bada_(operating_system)][Bada]], into Tizen and has since used it primarily on platforms such as [[https://en.wikipedia.org/wiki/Wearable_device][wearable devices]] and [[https://en.wikipedia.org/wiki/Smart_TV][smart TVs]].
+
+  Much of Tizen is [[https://en.wikipedia.org/wiki/Open_source_software][open source software]], although the [[https://en.wikipedia.org/wiki/Software_development_kit][software development kit]] contains proprietary components owned by Samsung, and portions of the OS are licensed under the [[https://en.wikipedia.org/wiki/Flora_License][Flora License]], a derivative of the [[https://en.wikipedia.org/wiki/Apache_License_2.0][Apache License 2.0]] that grants a patent license only to "Tizen-certified platforms".
+
+  In May 2021, [[https://en.wikipedia.org/wiki/Google][Google]] announced that [[https://en.wikipedia.org/wiki/Samsung][Samsung]] would partner with the company on integrating Tizen features into Google's [[https://en.wikipedia.org/wiki/Android_(operating_system)][Android]]-derived [[https://en.wikipedia.org/wiki/Wear_OS][Wear OS]] and committed to using it on future wearables, leaving Tizen to be mainly developed for Samsung Smart TVs.
+#+end_quote

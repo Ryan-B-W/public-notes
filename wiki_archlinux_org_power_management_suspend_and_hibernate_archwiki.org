@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       6a27cc51-a541-4d61-88bb-5c9d20e7c2e9
+:ROAM_REFS: https://wiki.archlinux.org/title/Power_management/Suspend_and_hibernate
+:END:
+#+title: (wiki.archlinux.org) Power management/Suspend and hibernate - ArchWiki
+#+filetags: :linux:documentation:website:

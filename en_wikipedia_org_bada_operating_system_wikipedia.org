@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       2a233f47-1f4b-4485-b4e3-43262b4e9177
+:ROAM_REFS: https://en.wikipedia.org/wiki/Bada_(operating_system)
+:END:
+#+title: (en.wikipedia.org) Bada (operating system) - Wikipedia
+#+filetags: :linux:software:operating_systems:website:
+
+#+begin_quote
+  *Bada* (stylized as *bada*; [[https://en.wikipedia.org/wiki/Korean_language][Korean]]: 바다) was a [[https://en.wikipedia.org/wiki/Mobile_operating_system][mobile operating system]] developed by [[https://en.wikipedia.org/wiki/Samsung_Electronics][Samsung Electronics]] for devices such as mid- to high-end smartphones and [[https://en.wikipedia.org/wiki/Tablet_computer][tablet computers]].  The name is derived from "바다 (bada)", meaning "[[https://en.wikipedia.org/wiki/Ocean][ocean]]" or "sea" in [[https://en.wikipedia.org/wiki/Korean_language][Korean]].  All phones running Bada were branded with the name /Wave/, unlike Samsung's Android devices which are branded as /Galaxy/.
+
+  Bada is based on [[https://en.wikipedia.org/wiki/Mentor_Graphics][Mentor Graphics]]' [[https://en.wikipedia.org/wiki/Nucleus_RTOS][Nucleus RTOS]] kernel or [[https://en.wikipedia.org/wiki/Linux_kernel][Linux kernel]], and was planned to become as [[https://en.wikipedia.org/wiki/Middleware][middleware]] separated from an [[https://en.wikipedia.org/wiki/OS_kernel][OS kernel]], but development was discontinued.  To foster adoption of Bada, Samsung reportedly considered releasing the source code under an [[https://en.wikipedia.org/wiki/Open-source_license][open-source license]], and expanding device support to include [[https://en.wikipedia.org/wiki/Smart_TV][Smart TVs]].
+
+  In June 2012 Samsung announced its intention to merge Bada into the [[https://en.wikipedia.org/wiki/Tizen][Tizen]] project, while still using it in parallel with [[https://en.wikipedia.org/wiki/Google][Google]]'s [[https://en.wikipedia.org/wiki/Android_OS][Android OS]] and [[https://en.wikipedia.org/wiki/Microsoft][Microsoft]]'s [[https://en.wikipedia.org/wiki/Windows_Phone][Windows Phone]] on its smartphones.  On 25 February 2013, Samsung announced that it would stop developing Bada, moving development to [[https://en.wikipedia.org/wiki/Tizen][Tizen]] instead.  Bug reporting was terminated in April 2014.
+#+end_quote

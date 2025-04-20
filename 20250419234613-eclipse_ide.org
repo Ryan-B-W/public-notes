@@ -1,0 +1,87 @@
+:PROPERTIES:
+:ID:       ab2af955-a679-4524-a1fe-d41b4a4e7184
+:END:
+#+title: Eclipse IDE
+#+filetags: :java_lang:development_environment:software_development:software:
+
+[[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][Open-source]] IDE.  Written in [[id:e68f44a7-29bb-4d02-a5d9-a94ba0e757e4][Java]].
+* (eclipseide.org) Eclipse IDE | The Eclipse Foundation             :website:
+:PROPERTIES:
+:ID:       828e1356-bf0b-40f6-9429-fd216e8e2713
+:ROAM_REFS: https://eclipseide.org/
+:END:
+* (www.eclipse.org) The Community for Open Collaboration and Innovation | The Eclipse Foundation :website:
+:PROPERTIES:
+:ID:       30d41cdb-c7e8-450a-a807-18822dfec215
+:ROAM_REFS: https://www.eclipse.org/
+:END:
+* (github.com) eclipse-platform/eclipse.platform                    :website:
+:PROPERTIES:
+:ID:       10c5f48c-844b-43d0-9802-ba4780403029
+:ROAM_REFS: https://github.com/eclipse-platform/eclipse.platform
+:END:
+
+#+begin_quote
+  * Eclipse Platform Project
+
+  Thanks for your interest in this project.
+
+  ** Project Description
+
+  This repository contains the basis for the [[https://www.eclipse.org/eclipseide/][Eclipse IDE]] and a sub-repository of the [[https://github.com/eclipse-platform][eclipse-platform]] organization.  It contains multiple modules:
+
+  *** [[https://github.com/eclipse-platform/eclipse.platform/tree/master/platform][eclipse.platform]]
+
+  Platform provides images like the splash screen.
+
+  *** [[https://github.com/eclipse-platform/eclipse.platform/tree/master/resources][eclipse.resources]]
+
+  Resources provides Java interfaces like =IResource= and implementations of workspace, folder, file and file system abstraction.
+
+  *** [[https://github.com/eclipse-platform/eclipse.platform/tree/master/runtime][eclipse.runtime]]
+
+  Runtime provides Java interfaces like =IJob=, =ISchedulingRule= and implements scheduling of multithreaded jobs with exclusive access to a resource.
+
+  *** [[https://github.com/eclipse-platform/eclipse.platform/tree/master/update][eclipse.update]]
+
+  Update provides Java interfaces like =IPlatformConfiguration=.  =IPlatformConfiguration= represents the runtime configuration.
+
+  ** How to Contribute
+
+  Contributions are most welcome.  There are many ways to contribute, from entering high quality bug reports, to contributing code or documentation changes.
+
+  For a complete guide, see the [[https://github.com/eclipse-platform/.github/blob/main/CONTRIBUTING.md][CONTRIBUTING]] page.
+
+  ** Documentation
+
+  For additional documentation, please refer to the [[https://github.com/eclipse-platform/eclipse.platform/blob/master/docs][docs directory]] and [[https://github.com/eclipse-platform/eclipse.platform/blob/master/docs/FAQ/The_Official_Eclipse_FAQs.md][The Official Eclipse FAQs]].
+
+  ** Issue Tracking
+
+  This project uses GitHub to track ongoing development and issues.  In case you have an issue, please read the information about Eclipse being a [[https://github.com/eclipse-platform#community][community project]] and bear in mind that this project is almost entirely developed by volunteers.  So the contributors may not be able to look into every reported issue.  You will also find the information about [[https://github.com/eclipse-platform#reporting-issues][how to find and report issues]] in repositories of the =eclipse-platform= organization there.  Be sure to search for existing issues before you create another one.
+
+  In case you want to report an issue that is specific to this =eclipse.platform= repository, you can [[https://github.com/eclipse-platform/eclipse.platform/issues][find existing issues]] or [[https://github.com/eclipse-platform/eclipse.platform/issues/new][create new issues]] within this repository.
+
+  ** Contact
+
+  Contact the project developers via the project's "dev" list.
+
+  - [[https://accounts.eclipse.org/mailing-list/platform-dev]]
+
+  ** License
+
+  [[https://www.eclipse.org/legal/epl-2.0/][Eclipse Public License (EPL) 2.0]]
+#+end_quote
+* (en.wikipedia.org) Eclipse (software) - Wikipedia                 :website:
+:PROPERTIES:
+:ID:       fd56fb39-98be-4827-9733-e38c14293097
+:ROAM_REFS: https://en.wikipedia.org/wiki/Eclipse_(software)
+:END:
+
+#+begin_quote
+  *Eclipse* is an [[https://en.wikipedia.org/wiki/Integrated_development_environment][integrated development environment]] (IDE) used in [[https://en.wikipedia.org/wiki/Computer_programming][computer programming]].  It contains a base [[https://en.wikipedia.org/wiki/Workspace][workspace]] and an extensible [[https://en.wikipedia.org/wiki/Plug-in_(computing)][plug-in]] system for customizing the environment.  It had been the most popular IDE for [[https://en.wikipedia.org/wiki/Java_(programming_language)][Java]] development until 2016, when it was surpassed by [[https://en.wikipedia.org/wiki/IntelliJ_IDEA][IntelliJ IDEA]].  Eclipse is written mostly in Java and its primary use is for developing Java applications, but it may also be used to develop applications in other [[https://en.wikipedia.org/wiki/Programming_language][programming languages]] via plug-ins, including [[https://en.wikipedia.org/wiki/Ada_(programming_language)][Ada]], [[https://en.wikipedia.org/wiki/ABAP][ABAP]], [[https://en.wikipedia.org/wiki/C_(programming_language)][C]], [[https://en.wikipedia.org/wiki/C++][C++]], [[https://en.wikipedia.org/wiki/C_Sharp_(programming_language)][C#]], [[https://en.wikipedia.org/wiki/Clojure][Clojure]], [[https://en.wikipedia.org/wiki/COBOL][COBOL]], [[https://en.wikipedia.org/wiki/D_(programming_language)][D]], [[https://en.wikipedia.org/wiki/Erlang_(programming_language)][Erlang]], [[https://en.wikipedia.org/wiki/Fortran][Fortran]], [[https://en.wikipedia.org/wiki/Apache_Groovy][Groovy]], [[https://en.wikipedia.org/wiki/Haskell][Haskell]], [[https://en.wikipedia.org/wiki/HLASM][HLASM]], [[https://en.wikipedia.org/wiki/JavaScript][JavaScript]], [[https://en.wikipedia.org/wiki/Julia_(programming_language)][Julia]], [[https://en.wikipedia.org/wiki/Lasso_(programming_language)][Lasso]], [[https://en.wikipedia.org/wiki/Lua_(programming_language)][Lua]], [[https://en.wikipedia.org/wiki/Software_AG][NATURAL]], [[https://en.wikipedia.org/wiki/Perl][Perl]], [[https://en.wikipedia.org/wiki/PHP][PHP]], [[https://en.wikipedia.org/wiki/PL/I][PL/I]], [[https://en.wikipedia.org/wiki/Prolog][Prolog]], [[https://en.wikipedia.org/wiki/Python_(programming_language)][Python]], [[https://en.wikipedia.org/wiki/R_(programming_language)][R]], [[https://en.wikipedia.org/wiki/Rexx][Rexx]], [[https://en.wikipedia.org/wiki/Ruby_(programming_language)][Ruby]] (including [[https://en.wikipedia.org/wiki/Ruby_on_Rails][Ruby on Rails]] framework), [[https://en.wikipedia.org/wiki/Rust_(programming_language)][Rust]], [[https://en.wikipedia.org/wiki/Scala_(programming_language)][Scala]], and [[https://en.wikipedia.org/wiki/Scheme_(programming_language)][Scheme]].  It can also be used to develop documents with [[https://en.wikipedia.org/wiki/LaTeX][LaTeX]] (via a TeXlipse plug-in) and packages for the software [[https://en.wikipedia.org/wiki/Wolfram_Mathematica][Mathematica]].  Development environments include the Eclipse Java development tools (JDT) for Java and Scala, Eclipse CDT for C/C++, and Eclipse PDT for PHP, among others.
+
+  The initial [[https://en.wikipedia.org/wiki/Codebase][codebase]] originated from [[https://en.wikipedia.org/wiki/VisualAge][IBM VisualAge]].  The Eclipse [[https://en.wikipedia.org/wiki/Software_development_kit][software development kit]] (SDK), which includes the Java development tools, is meant for Java developers.  Users can extend its abilities by installing plug-ins written for the Eclipse Platform, such as development toolkits for other programming languages, and can write and contribute their own plug-ins.  Since Eclipse 3.0 (released in 2004), plug-ins are installed and managed as "bundles" using [[https://en.wikipedia.org/wiki/Equinox_(OSGi)][Equinox]], an implementation of [[https://en.wikipedia.org/wiki/OSGi][OSGi]].
+
+  The Eclipse SDK is [[https://en.wikipedia.org/wiki/Free_and_open-source_software][free and open-source software]], released under the terms of the [[https://en.wikipedia.org/wiki/Eclipse_Public_License][Eclipse Public License]], although it is incompatible with the [[https://en.wikipedia.org/wiki/GNU_General_Public_License][GNU General Public License]].  It was one of the first IDEs to run under [[https://en.wikipedia.org/wiki/GNU_Classpath][GNU Classpath]] and it runs without problems under [[https://en.wikipedia.org/wiki/IcedTea][IcedTea]].
+#+end_quote

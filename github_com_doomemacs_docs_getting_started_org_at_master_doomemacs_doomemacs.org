@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       63fd6c55-32b9-46ac-86ef-1e95b7467241
+:ROAM_REFS: https://github.com/doomemacs/doomemacs/blob/master/docs/getting_started.org
+:END:
+#+title: (github.com) doomemacs/docs/getting_started.org at master · doomemacs/doomemacs
+#+filetags: :documentation:website:
+
+#+begin_quote
+  * Getting Started Guide
+
+  GNU Emacs is one grand ol' adventure, let alone Doom Emacs.  Before you start you'll need to set up Emacs, Doom, and its packages, then learn how to take care of your new puppy/operating system.  This guide will walk you through installing, using, configuring and troubleshooting all of these things, to smooth you into your Emacs journey.
+
+  This guide will gloss over many technicalities so you can get up and running as soon as possible.  A more technical user manual is in the works for aspiring contributors who want a deeper understanding of how Doom Emacs works.
+
+  : If you feel like we've missed something, [[https://discord.gg/qvGgnVx][join us on our Discord server]] and let us know!
+#+end_quote

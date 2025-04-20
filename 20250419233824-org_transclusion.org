@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       f4c058aa-9d21-42df-8328-6246fb91b8f7
+:END:
+#+title: Org-transclusion
+#+filetags: :notes:lisp:emacs_lisp:emacs:software:
+
+Extension to [[id:5ab4a0b0-95e2-40cf-b924-709db3115d48][Org Mode]] for adding document transclusions.
+* (github.com) nobiot/org-transclusion: Emacs package to enable transclusion with Org Mode :website:
+:PROPERTIES:
+:ID:       b57424aa-6e78-415c-9a85-21fb2bbefc2b
+:ROAM_REFS: https://github.com/nobiot/org-transclusion
+:END:
+
+#+begin_quote
+  Org-transclusion lets you insert a copy of text content via a file link or ID link within an Org file.  It lets you have the same content present in different buffers at the same time without copy-and-pasting it.  Edit the source of the content, and you can refresh the transcluded copies to the up-to-date state.  Org-transclusion keeps your files clear of the transcluded copies, leaving only the links to the original content.
+
+  A complete user manual is available [[https://nobiot.github.io/org-transclusion/][online]] or Emacs in-system as an Info node `(org-transclusion)': (=C-h i= and find the =Org-transclusion= node).
+
+  For installation and minimum configuration, refer to [[https://github.com/nobiot/org-transclusion#installation][Installation]] below or the user manual: [[https://nobiot.github.io/org-transclusion/#Installation][online]] or Info node `(org-transclusion)Installation'
+
+  Getting Started in the user manual will get you started in 5 minutes: [[https://nobiot.github.io/org-transclusion/#Getting-Started][online]] or Info node `(org-transclusion)Getting Started'.
+
+  For customization, refer to the customization group `org-transclusion' or user manual: [[https://nobiot.github.io/org-transclusion/#Customizing][online]] or Info node `(org-transclusion)Customizing'.
+#+end_quote

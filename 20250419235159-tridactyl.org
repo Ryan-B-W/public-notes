@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       d3159a3b-3e6c-4955-ad94-2d9ea73e0e54
+:END:
+#+title: Tridactyl
+#+filetags: :vim:www:software:
+
+[[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][Open-source]] browser extension for [[id:37c53f5b-c586-41ff-a4fe-b44c05ed3c1f][Vim]]-like modal editing.
+* (tridactyl.xyz) Tridactyl - a vim-like Firefox WebExtension       :website:
+:PROPERTIES:
+:ID:       e989ff7e-2a32-4b2c-833e-3487d03bc983
+:ROAM_REFS: https://tridactyl.xyz/
+:END:
