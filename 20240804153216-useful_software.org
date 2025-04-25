@@ -34,6 +34,7 @@ Useful pieces of software.
 * Version control and comparison
 ** [[id:003ec9df-d673-4336-aae0-9a034fd89997][Git]]
 ** [[id:04583ba5-6f1a-44bb-aeca-db27075c69fc][Difftastic]]
+** [[id:23414716-4daf-4eab-b01a-54d2723fc8cf][List of Git Forge Software and Platforms]]
 * Computers
 ** Operating Systems
 *** Package & Configuration Management

@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ID:       0c959139-2dc2-45e2-9f7f-e8cd6b3453f4
+:END:
+#+title: Gitea
+#+filetags: :open_source:www:software_development:version_control:software:
+
+Popular, [[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][open-source]] [[id:003ec9df-d673-4336-aae0-9a034fd89997][Git]] [[id:f9f01d64-e876-44e2-a3e8-60acca22eed4][forge]] software and platform.
+* (about.gitea.com) Gitea Official Website                          :website:
+:PROPERTIES:
+:ID:       05d0bbde-5331-4a95-817a-48919a290a6b
+:ROAM_REFS: https://gitea.com/ https://about.gitea.com/
+:END:
+* (github.com) go-gitea/gitea: Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD :website:
+:PROPERTIES:
+:ID:       5e0dd89e-4d57-4355-b32a-6fc1d3affb34
+:ROAM_REFS: https://github.com/go-gitea/gitea
+:END:
+
+#+begin_quote
+  * Gitea
+
+  [[https://github.com/go-gitea/gitea/blob/main/README.zh-tw.md][繁體中文]] | [[https://github.com/go-gitea/gitea/blob/main/README.zh-cn.md][简体中文]]
+
+  ** Purpose
+
+  The goal of this project is to make the easiest, fastest, and most painless way of setting up a self-hosted Git service.
+
+  As Gitea is written in Go, it works across *all* the platforms and architectures that are supported by Go, including Linux, macOS, and Windows on x86, amd64, ARM and PowerPC architectures.  This project has been [[https://blog.gitea.com/welcome-to-gitea/][forked]] from [[https://gogs.io/][Gogs]] since November of 2016, but a lot has changed.
+
+  For online demonstrations, you can visit [[https://demo.gitea.com/][demo.gitea.com]].
+
+  For accessing free Gitea service (with a limited number of repositories), you can visit [[https://gitea.com/user/login][gitea.com]].
+
+  To quickly deploy your own dedicated Gitea instance on Gitea Cloud, you can start a free trial at [[https://cloud.gitea.com/][cloud.gitea.com]].
+#+end_quote
+* (en.wikipedia.org) Gitea - Wikipedia                              :website:
+:PROPERTIES:
+:ID:       17de38b9-3473-40af-b3d1-24363bd0b37d
+:ROAM_REFS: https://en.wikipedia.org/wiki/Gitea
+:END:
+
+#+begin_quote
+  *Gitea* ([[https://en.wikipedia.org/wiki/Help:IPA/English][/ɡɪˈtiː/]]) is a [[https://en.wikipedia.org/wiki/Forge_(software)][forge]] software package for hosting [[https://en.wikipedia.org/wiki/Software_development][software development]] [[https://en.wikipedia.org/wiki/Version_control][version control]] using [[https://en.wikipedia.org/wiki/Git][Git]] as well as other collaborative features like [[https://en.wikipedia.org/wiki/Bug_tracking][bug tracking]], [[https://en.wikipedia.org/wiki/Code_review][code review]], [[https://en.wikipedia.org/wiki/Continuous_integration][continuous integration]], [[https://en.wikipedia.org/wiki/Kanban_board][kanban boards]], [[https://en.wikipedia.org/wiki/Issue_tracking_system][tickets]], and [[https://en.wikipedia.org/wiki/Wikis][wikis]].  It supports [[https://en.wikipedia.org/wiki/Self-hosting_(web_services)][self-hosting]] but also provides a free public first-party instance.  It is a [[https://en.wikipedia.org/wiki/Fork_(software_development)][fork]] of [[https://gogs.io/][Gogs]] and is written in [[https://en.wikipedia.org/wiki/Go_(programming_language)][Go]].  Gitea can be hosted on all platforms supported by Go including [[https://en.wikipedia.org/wiki/Linux][Linux]], [[https://en.wikipedia.org/wiki/MacOS][macOS]], and [[https://en.wikipedia.org/wiki/Windows][Windows]].  The project is funded on [[https://en.wikipedia.org/wiki/Open_Collective][Open Collective]].
+#+end_quote

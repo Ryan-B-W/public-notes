@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       f9f01d64-e876-44e2-a3e8-60acca22eed4
+:END:
+#+title: Forge
+#+filetags: :version_control:programming:www:software_as_a_service:software_development:software:
+
+A [[id:05f2a17c-4ceb-42fa-bcc8-16d61473804b][web]]-based platform for collaborative software development.
+
+* List of Git Forge Software and Platforms                  :directory:lists:
+:PROPERTIES:
+:ID:       23414716-4daf-4eab-b01a-54d2723fc8cf
+:END:
+ - [[id:b9ceed9d-da95-464d-acf8-96a1c0f3b4a2][GitHub]]
+ - [[id:cb0ba15e-440f-41b8-ba85-55bf8c0e8b88][GitLab]]
+ - [[id:79d8a36d-87f9-427c-bdc1-9f20aba328df][Codeberg]]
+ - [[id:50dc5265-1ea6-43ab-b460-a2ab9318f213][GNU Savannah]]
+ - [[id:1ac54707-1eec-4e12-9caa-d0300682885c][SourceForge]]
+ - [[id:3261d895-88df-4348-81ac-0044b1df7988][Bitbucket]]
+ - [[id:0c959139-2dc2-45e2-9f7f-e8cd6b3453f4][Gitea]]
+ - [[id:b6e9a5d9-0d62-43a8-947b-937e3b18855f][Forgejo]]
+* (en.wikipedia.org) Forge (software) - Wikipedia                   :website:
+:PROPERTIES:
+:ID:       a9017ed3-9ced-4841-bf54-81f7f00caf97
+:ROAM_REFS: https://en.wikipedia.org/wiki/Forge_(software)
+:END:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Free_and_open-source_software][free and open-source software (FOSS)]] development communities, a *forge* is a web-based [[https://en.wikipedia.org/wiki/Collaborative_software][collaborative software]] platform for both developing and sharing computer applications.
+
+  For [[https://en.wikipedia.org/wiki/Software_developer][software developers]] it is an online service to host the tools they need to work and communicate with their coworkers.  It provides a workflow to propose modifications and engage in discussions.  The goal is to reach an agreement that will allow these modifications to be merged into the software repository.
+
+  For users, a forge is a [[https://en.wikipedia.org/wiki/Software_repository][repository of computer applications]], a place where [[https://en.wikipedia.org/wiki/Bug_tracking_system][bugs can be reported]], a channel to be informed of [[https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures][security issues]], etc.
+
+  The source code itself is stored in a [[https://en.wikipedia.org/wiki/Revision_control][revision control]] system and linked to a wide range of services such as a [[https://en.wikipedia.org/wiki/Code_review][code review]], [[https://en.wikipedia.org/wiki/Bug_tracking_system][bug database]], [[https://en.wikipedia.org/wiki/Continuous_integration][continuous integration]], etc.  When a development community [[https://en.wikipedia.org/wiki/Fork_(software_development)][forks]], it duplicates the content of the forge and is then able to modify it without asking permission.  A community may rely on services scattered on multiple forges: they are not necessarily hosted under the same domain.
+#+end_quote

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3261d895-88df-4348-81ac-0044b1df7988
+:END:
+#+title: Bitbucket
+#+filetags: :version_control:software_development:software_as_a_service:www:software:
+
+Popular commercial [[id:003ec9df-d673-4336-aae0-9a034fd89997][Git]] [[id:f9f01d64-e876-44e2-a3e8-60acca22eed4][forge]].
+* (bitbucket.org) Bitbucket | Git solution for teams using Jira     :website:
+:PROPERTIES:
+:ID:       0f9844c8-308c-4831-849e-688a20368f60
+:ROAM_REFS: https://bitbucket.org/
+:END:
+* (en.wikipedia.org) Bitbucket - Wikipedia                          :website:
+:PROPERTIES:
+:ID:       e8dd4b1c-0c62-4826-96a0-67039244965d
+:ROAM_REFS: https://en.wikipedia.org/wiki/Bitbucket
+:END:
+
+#+begin_quote
+  *Bitbucket* is a [[https://en.wikipedia.org/wiki/Git_(software)][Git]]-based [[https://en.wikipedia.org/wiki/Source_code][source code]] [[https://en.wikipedia.org/wiki/Repository_(version_control)][repository]] [[https://en.wikipedia.org/wiki/Shared_web_hosting_service][hosting service]] owned by [[https://en.wikipedia.org/wiki/Atlassian][Atlassian]].  Bitbucket offers both commercial plans and free accounts with an unlimited number of private repositories.
+#+end_quote

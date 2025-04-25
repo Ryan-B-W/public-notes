@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       50dc5265-1ea6-43ab-b460-a2ab9318f213
+:END:
+#+title: GNU Savannah
+#+filetags: :gnu:open_source:version_control:software_development:www:software:
+
+Software [[id:f9f01d64-e876-44e2-a3e8-60acca22eed4][forge]] of the GNU Project.
+* (savannah.gnu.org) Welcome [Savannah]                             :website:
+:PROPERTIES:
+:ID:       69caa5a0-c922-4c58-9691-4af3bf4ca07d
+:ROAM_REFS: https://savannah.gnu.org/
+:END:
+
+#+begin_quote
+  Welcome to *Savannah*, the software forge for people committed to [[https://www.gnu.org/philosophy/free-sw.html][free software]]:
+
+  - We host free projects that run on free operating systems and without any proprietary software dependencies.
+    [[https://savannah.gnu.org/register/requirements.php][Hosting requirements]]
+  - Our service runs with 100% free software, including [[https://savannah.gnu.org/projects/administration/][itself]].
+  - [[https://savannah.gnu.org/maintenance/WhyChooseSavannah][Why choose Savannah?]]
+
+  Savannah aims to be a central point for development, maintenance and distribution of [[https://www.gnu.org/software/][official GNU software]].  In addition, for projects that support free software but are not part of GNU, we provide [[https://savannah.nongnu.org/][savannah.nongnu.org]].
+
+  If you would like to use Savannah to host your project, then go to the *Register New Project* menu entry.
+
+  We strongly recommend all Savannah users subscribe to this mailing list:
+
+  - [[https://lists.gnu.org/mailman/listinfo/savannah-announce][savannah-announce]]: low-volume notifications of important issues and changes at Savannah.
+
+  And this mailing list is a place for Savannah users to communicate and ask questions:
+
+  - [[https://lists.gnu.org/mailman/listinfo/savannah-users][savannah-users]]: help with using Savannah in general (not with a specific project).
+
+  Happy hacking!
+#+end_quote
+* (en.wikipedia.org) GNU Savannah - Wikipedia                       :website:
+:PROPERTIES:
+:ID:       eb48c1dc-9f8e-4fa5-832c-fabe8b49e6b5
+:ROAM_REFS: https://en.wikipedia.org/wiki/GNU_Savannah
+:END:
+
+#+begin_quote
+  *GNU Savannah* is a project of the [[https://en.wikipedia.org/wiki/Free_Software_Foundation][Free Software Foundation]] initiated by Loïc Dachary, which serves as a collaborative [[https://en.wikipedia.org/wiki/Forge_(software)][software development management system]] for [[https://en.wikipedia.org/wiki/Free_software][free software]] projects.  Savannah currently offers [[https://en.wikipedia.org/wiki/Concurrent_Versions_System][CVS]], [[https://en.wikipedia.org/wiki/GNU_arch][GNU arch]], [[https://en.wikipedia.org/wiki/Subversion_(software)][Subversion]], [[https://en.wikipedia.org/wiki/Git_(software)][Git]], [[https://en.wikipedia.org/wiki/Mercurial_(software)][Mercurial]], [[https://en.wikipedia.org/wiki/Bazaar_(software)][Bazaar]], mailing list, web hosting, file hosting, and bug tracking services.  Savannah initially ran on the same SourceForge software that at the time was used to run the [[https://en.wikipedia.org/wiki/SourceForge][SourceForge]] portal.
+
+  Savannah's website is split into two domain names: *savannah.gnu.org* for software that is officially part of the [[https://en.wikipedia.org/wiki/GNU_Project][GNU Project]], and *savannah.nongnu.org* for all other software.
+
+  Unlike [[https://en.wikipedia.org/wiki/SourceForge][SourceForge]] or [[https://en.wikipedia.org/wiki/GitHub][GitHub]], Savannah's focus is for hosting [[https://en.wikipedia.org/wiki/Free_software][free software]] projects and has very strict hosting policies, including a ban against the use of non-free formats (such as [[https://en.wikipedia.org/wiki/Adobe_Flash][Adobe Flash]]) to ensure that only free software is hosted.  When registering a project, project submitters have to state which [[https://en.wikipedia.org/wiki/Free_software_license][free software license]] the project uses.
+
+  Project owners do not have the freedom of deleting their submitted projects on their own wish and the staff has a policy of refusing all deletion requests, unless the project was approved by mistake or has always been empty.
+#+end_quote

@@ -5,7 +5,7 @@
 #+filetags: :computer_science:open_source:version_control:programming:software_development:software:
 
 [[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][Open-source]], decentralized version control system developed by Linus Torvalds.
-* Git (website)                                                     :website:
+* (git-scm.com) Git                                                 :website:
 :PROPERTIES:
 :ID:       0b1938f1-7f12-40e4-af4f-5004def9a158
 :ROAM_REFS: https://git-scm.com/
@@ -15,7 +15,7 @@
   Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
   Git is easy to learn and has a tiny footprint with lightning fast performance.  It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.
 #+end_quote
-** Git - git-mergetool Documentation
+** (git-scm.com) Git - git-mergetool Documentation
 :PROPERTIES:
 :ID:       6038ab45-6cf5-4bb9-9624-e32b16c52451
 :ROAM_REFS: https://git-scm.com/docs/git-mergetool

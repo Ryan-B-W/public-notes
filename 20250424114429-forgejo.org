@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       b6e9a5d9-0d62-43a8-947b-937e3b18855f
+:END:
+#+title: Forgejo
+#+filetags: :open_source:www:version_control:software_development:software:
+
+Fork of [[id:0c959139-2dc2-45e2-9f7f-e8cd6b3453f4][Gitea]] used by [[id:79d8a36d-87f9-427c-bdc1-9f20aba328df][Codeberg]].  [[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][Open-source]] [[id:003ec9df-d673-4336-aae0-9a034fd89997][Git]] [[id:f9f01d64-e876-44e2-a3e8-60acca22eed4][forge]] software.
+* (forgejo.org) Forgejo – Beyond coding. We forge.                  :website:
+:PROPERTIES:
+:ID:       7ba264dd-45b7-41bf-a97b-e879bf59b98d
+:ROAM_REFS: https://forgejo.org/
+:END:
+
+#+begin_quote
+  * Forgejo
+
+  Beyond coding.  We forge.
+
+  Forgejo is a self-hosted lightweight software forge.
+  Easy to install and low maintenance, it just does the job.
+
+  Brought to you by an inclusive community under the umbrella of [[https://docs.codeberg.org/getting-started/what-is-codeberg/#what-is-codeberg-e.v.?][Codeberg e.V.]], a democratic non-profit organization, Forgejo can be trusted to be exclusively Free Software.  You can create an account on [[https://codeberg.org/][Codeberg]] and [[https://codeberg.org/forgejo-contrib/delightful-forgejo#public-instances][other instances]] or download it to self-host your own.  It focuses on security, scaling, federation and privacy.  Learn more about [[https://forgejo.org/compare/][how it compares with other forges]].
+#+end_quote
+* (codeberg.org) forgejo/forgejo: Beyond coding. We forge. - Codeberg.org :website:
+:PROPERTIES:
+:ID:       eb60bf47-d1c3-42f4-b46d-44bf64dfb777
+:ROAM_REFS: https://codeberg.org/forgejo/forgejo
+:END:
+
+#+begin_quote
+  * Welcome to Forgejo
+
+  Hi there!  Tired of big platforms playing monopoly?  Providing Git hosting for your project, friends, company or community?  *Forgejo* (/for'd͡ʒe.jo/ inspired by forĝejo -- the Esperanto word for /forge/) has you covered with its intuitive interface, light and easy hosting and a lot of builtin functionality.
+
+  Forgejo was [[https://forgejo.org/2022-12-15-hello-forgejo/][created in 2022]] because we think that the project should be owned by an independent community.  If you second that, then Forgejo is for you!  Our promise: *Independent Free/Libre Software forever!*
+
+  ** What does Forgejo offer?
+
+  If you like any of the following, Forgejo is literally meant for you:
+
+  - Lightweight: Forgejo can easily be hosted on nearly *every machine*.  Running on a Raspberry?  Small cloud instance?  No problem!
+  - Project management: Besides Git hosting, Forgejo offers issues, pull requests, wikis, kanban boards and much more to *coordinate with your team*.
+  - Publishing: Have something to share?  Use *releases* to host your software for download, or use the *package registry* to publish it for docker, npm and many other package managers.
+  - Customizable: Want to change your look?  Change some settings?  There are many *config switches* to make Forgejo work exactly like you want.
+  - Powerful: Organizations & team permissions, CI integration, Code Search, LDAP, OAuth and much more.  If you have *advanced needs*, Forgejo has you covered.
+  - Privacy: From update checker to default settings: Forgejo is built to be *privacy first* for you and your crew.
+  - Federation: (WIP) We are actively working to connect software forges with each other through *ActivityPub*, and create a collaborative network of personal instances.
+#+end_quote

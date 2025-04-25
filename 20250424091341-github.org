@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       b9ceed9d-da95-464d-acf8-96a1c0f3b4a2
+:END:
+#+title: GitHub
+#+filetags: :www:software_as_a_service:version_control:
+
+Widely used [[id:003ec9df-d673-4336-aae0-9a034fd89997][Git]] [[id:f9f01d64-e876-44e2-a3e8-60acca22eed4][forge]].
+* (github.com) GitHub                                               :website:
+:PROPERTIES:
+:ID:       863cb428-0b9f-49b0-8e6b-a1d276c9f926
+:ROAM_REFS: https://github.com/
+:END:
+* (en.wikipedia.org) GitHub - Wikipedia                             :website:
+:PROPERTIES:
+:ID:       1aa23367-526f-4df5-a83d-faf59f8c6f26
+:ROAM_REFS: https://en.wikipedia.org/wiki/GitHub
+:END:
+
+#+begin_quote
+  *GitHub* ([[https://en.wikipedia.org/wiki/Help:IPA/English][/ˈɡɪthʌb/]]) is a [[https://en.wikipedia.org/wiki/Proprietary_software][proprietary]] developer platform that allows developers to create, store, manage, and share their code.  It uses [[https://en.wikipedia.org/wiki/Git][Git]] to provide [[https://en.wikipedia.org/wiki/Distributed_version_control][distributed version control]] and GitHub itself provides [[https://en.wikipedia.org/wiki/Access_control][access control]], [[https://en.wikipedia.org/wiki/Bug_tracking_system][bug tracking]], [[https://en.wikipedia.org/wiki/Software_feature][software feature]] requests, [[https://en.wikipedia.org/wiki/Task_management][task management]], [[https://en.wikipedia.org/wiki/Continuous_integration][continuous integration]], and [[https://en.wikipedia.org/wiki/Wiki][wikis]] for every project.  Headquartered in [[https://en.wikipedia.org/wiki/California][California]], *GitHub, Inc.* has been a subsidiary of [[https://en.wikipedia.org/wiki/Microsoft][Microsoft]] since 2018.
+
+  It is commonly used to host [[https://en.wikipedia.org/wiki/Open_source][open source]] software development projects.  As of January 2023, GitHub reported having over 100 million developers and more than 420 million [[https://en.wikipedia.org/wiki/Repository_(version_control)][repositories]], including at least 28 million public repositories.  It is the world's largest [[https://en.wikipedia.org/wiki/Source_code][source code]] host as of June 2023.  Over five billion developer contributions were made to more than 500 million open source projects in 2024.
+#+end_quote

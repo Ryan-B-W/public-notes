@@ -1,0 +1,81 @@
+:PROPERTIES:
+:ID:       79d8a36d-87f9-427c-bdc1-9f20aba328df
+:END:
+#+title: Codeberg
+#+filetags: :software_as_a_service:www:version_control:software_development:software:
+
+Popular [[id:003ec9df-d673-4336-aae0-9a034fd89997][Git]] [[id:f9f01d64-e876-44e2-a3e8-60acca22eed4][forge]].
+* (codeberg.org) Codeberg.org                                       :website:
+:PROPERTIES:
+:ID:       7f1d98c3-d6f4-43fa-a09b-e154c2cfc6db
+:ROAM_REFS: https://codeberg.org/
+:END:
+
+#+begin_quote
+  ** Software development, but free!
+
+  Codeberg is a non-profit, community-led effort that provides Git hosting and other services for free and open source projects.
+
+  [[https://blog.codeberg.org/][BLOG]] [[https://docs.codeberg.org/][DOCS]]
+
+  *** NON-PROFIT
+
+  Codeberg is maintained by the non-profit organization *Codeberg e.V.*, based in *Berlin, Germany*.  For us, supporting the commons comes *first*.
+
+  *Its future is in the hands of its users.  You can help too!*
+
+  *** COMMUNITY
+
+  We are more than just Git hosting: Our community is comprised of like-minded developers, artists, academics, hobbyists and professionals.
+
+  *We celebrate free culture, openness and creativity.*
+
+  *** RESPECT
+
+  No tracking.  No third-party cookies.  No profiteering.  Everything runs on servers that we control.  Your data is *not* for sale.
+
+  *Hosted in Europe, we welcome the world.*
+
+  **** PROJECTS
+
+  227913
+
+  **** USERS
+
+  155659
+
+  **** e.V. MEMBERS
+
+  800+
+
+  **** POWERED BY
+
+  *** Your support helps us grow!
+
+  Our non-profit structure reinforces our independence.  Your donations and contributions sustain our community.  Help us achieve our mission by joining Codeberg e.V. as a supporting or active member with full voting rights!
+
+  --------------
+
+  Free as in freedom, not as in beer!  Maintaining our systems and developing our software has its costs, which are backed by optional donations.  We appreciate them a lot, as they help provide a better service for everyone.
+
+  --------------
+
+  Powered by Free Software!  Get involved with Codeberg and help improve your experience.  We are always looking for contributions to our projects and services.
+#+end_quote
+* (en.wikipedia.org) Codeberg - Wikipedia                           :website:
+:PROPERTIES:
+:ID:       0093a382-eb0c-4d7f-bac2-81012ca23d18
+:ROAM_REFS: https://en.wikipedia.org/wiki/Codeberg
+:END:
+
+#+begin_quote
+  *Codeberg e.V.* is a [[https://en.wikipedia.org/wiki/Nonprofit_organization][nonprofit organization]] that provides online resources for [[https://en.wikipedia.org/wiki/Software_development][software development]] and collaboration.
+#+end_quote
+
+#+begin_quote
+  Codeberg.org is a [[https://en.wikipedia.org/wiki/Forgejo][Forgejo]]-based [[https://en.wikipedia.org/wiki/Collaborative_development_environment][collaborative development environment]] maintained by Codeberg e.V.
+
+  In addition to the core [[https://en.wikipedia.org/wiki/Software_forge][software forge]] and [[https://en.wikipedia.org/wiki/Bug_tracker][bug tracker]] functionality provided by Forgejo, Codeberg has over time introduced related services such as Codeberg Pages (a basic [[https://en.wikipedia.org/wiki/Web_hosting_service][web hosting service]] for projects hosted on Codeberg), a [[https://en.wikipedia.org/wiki/Weblate][Weblate]] translation server, and [[https://en.wikipedia.org/wiki/CI/CD][CI/CD]] features via [[https://en.wikipedia.org/w/index.php?title=Woodpecker_CI&action=edit&redlink=1][Woodpecker CI]].
+
+  As of January 2024, Codeberg hosts over 110,000 open-source projects by over 89,000 users.
+#+end_quote

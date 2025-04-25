@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       cb0ba15e-440f-41b8-ba85-55bf8c0e8b88
+:END:
+#+title: GitLab
+#+filetags: :open_source:www:software_as_a_service:software_development:version_control:software:
+
+Popular, [[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][open-source]] [[id:003ec9df-d673-4336-aae0-9a034fd89997][Git]] [[id:f9f01d64-e876-44e2-a3e8-60acca22eed4][forge]].
+* (gitlab.com) GitLab                                               :website:
+:PROPERTIES:
+:ID:       495ed2d4-38cc-4a92-a03b-f65865663393
+:ROAM_REFS: https://gitlab.com/ https://about.gitlab.com/
+:END:
+* (en.wikipedia.org) GitLab - Wikipedia                             :website:
+:PROPERTIES:
+:ID:       5d4afc95-7453-48d0-8ddb-e55e4ec86ed6
+:ROAM_REFS: https://en.wikipedia.org/wiki/GitLab
+:END:
+
+#+begin_quote
+  *GitLab* is a [[https://en.wikipedia.org/wiki/Forge_(software)][software forge]] primarily developed by [[https://en.wikipedia.org/wiki/GitLab_Inc.][GitLab Inc.]].  It is available as a community edition and a commercial edition.
+#+end_quote

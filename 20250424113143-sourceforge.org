@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       1ac54707-1eec-4e12-9caa-d0300682885c
+:END:
+#+title: SourceForge
+#+filetags: :www:software_development:version_control:software:
+
+Old software [[id:f9f01d64-e876-44e2-a3e8-60acca22eed4][forge]] for [[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][open-source]] software.
+* (sourceforge.net) SourceForge                                     :website:
+:PROPERTIES:
+:ID:       3df453fa-f241-449b-8bcb-070ac5df2b55
+:ROAM_REFS: https://sourceforge.net/
+:END:
+* (en.wikipedia.org) SourceForge - Wikipedia                        :website:
+:PROPERTIES:
+:ID:       52db805a-c25c-47ba-9b0a-815aa9467567
+:ROAM_REFS: https://en.wikipedia.org/wiki/SourceForge
+:END:
+
+#+begin_quote
+  *SourceForge* is a [[https://en.wikipedia.org/wiki/Web_service][web service]] founded by Geoffrey B. Jeffery, Tim Perdue, and Drew Streib in November 1999.  SourceForge provides a centralized software discovery platform, including an online platform for managing and hosting [[https://en.wikipedia.org/wiki/Open-source][open-source]] software projects, and a directory for comparing and reviewing B2B software that lists over 104,500 business software titles.  It provides [[https://en.wikipedia.org/wiki/Source_code_repository][source code repository]] hosting, [[https://en.wikipedia.org/wiki/Bug_tracking][bug tracking]], [[https://en.wikipedia.org/wiki/Mirror_site][mirroring]] of downloads for [[https://en.wikipedia.org/wiki/Load_balancing_(computing)][load balancing]], a [[https://en.wikipedia.org/wiki/Wiki][wiki]] for documentation, developer and user [[https://en.wikipedia.org/wiki/Internet_mailing_list][mailing lists]], user-support [[https://en.wikipedia.org/wiki/Internet_forum][forums]], user-written [[https://en.wikipedia.org/wiki/Review][reviews]] and ratings, a [[https://en.wikipedia.org/wiki/News_bulletin][news bulletin]], [[https://en.wikipedia.org/wiki/Micro-blog][micro-blog]] for publishing project updates, and other features.
+
+  SourceForge was one of the first to offer this service free of charge to open-source projects.  Since 2012, the website has run on [[https://en.wikipedia.org/wiki/Apache_Allura][Apache Allura]] software.  SourceForge offers free hosting and free access to tools for developers of [[https://en.wikipedia.org/wiki/Free_software][free]] and [[https://en.wikipedia.org/wiki/Open-source_software][open-source software]].
+
+  As of September 2020, the SourceForge repository claimed to host more than 502,000 projects and had more than 3.7 million registered users.
+#+end_quote
