@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       6609041d-bcca-4cab-8f02-14195d4ee28d
+:ROAM_REFS: https://en.wikipedia.org/wiki/Graph_reduction_machine
+:END:
+#+title: (en.wikipedia.org) Graph reduction machine - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  A *graph reduction machine* is a special-purpose [[https://en.wikipedia.org/wiki/Computer][computer]] built to perform [[https://en.wikipedia.org/wiki/Combinator][combinator]] calculations by [[https://en.wikipedia.org/wiki/Graph_reduction][graph reduction]].
+
+  Examples include the SKIM ("S-K-I machine") computer, built at the [[https://en.wikipedia.org/wiki/University_of_Cambridge_Computer_Laboratory][University of Cambridge Computer Laboratory]], the multiprocessor GRIP ("Graph Reduction In Parallel") computer, built at [[https://en.wikipedia.org/wiki/University_College_London][University College London]], and the Reduceron, which was implemented on an [[https://en.wikipedia.org/wiki/Field-programmable_gate_array][FPGA]] with the single purpose of executing [[https://en.wikipedia.org/wiki/Haskell][Haskell]].
+#+end_quote
