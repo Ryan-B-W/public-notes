@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       d75d904d-5736-44d5-8176-46062512c69f
+:ROAM_REFS: https://lisp-lang.org/
+:END:
+#+title: (lisp-lang.org) Common Lisp
+#+filetags: :common_lisp:lisp:website:
+
+Community maintained homepage for [[id:b5fb5c4b-d10f-4bca-91e1-a5e946ef0c83][Common Lisp]].

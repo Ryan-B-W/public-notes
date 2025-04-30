@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       674d9ea1-c80c-4128-b6de-6137b5362d25
+:ROAM_REFS: http://clqr.boundp.org/
+:END:
+#+title: (clqr.boundp.org) Common Lisp Quick Reference
+#+filetags: :common_lisp:lisp:documentation:website:
+
+#+begin_quote
+  *** Introduction
+
+  Common Lisp Quick Reference is a free booklet with short descriptions of the thousand or so symbols defined in the ANSI standard.  It comes with a comprehensive index.
+
+  This rather humble effort is by no means meant to rival the [[http://www.lispworks.com/documentation/HyperSpec/Front/index.htm][Common Lisp HyperSpec]] or any of the great introductory web resources and books.  Its purpose is to give those who like a piece of dead tree in their hands a quick overview on things they know already, or some clue on what to look up elsewhere.
+
+  It is written in LaTeX and formatted for printing on both A4 and letter paper.  After folding the sheets lengthwise, they can easily be turned into a handy booklet.
+
+  Please report any errors to [[mailto://trebbu@googlemail.com?subject=CLQR][trebbu@googlemail.com]].  Nitpickers welcome!
+#+end_quote

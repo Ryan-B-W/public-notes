@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       53402efd-eeac-4d0f-ade2-b921bcd8f540
+:END:
+#+title: Quickdocs
+#+filetags: :common_lisp:lisp:documentation:
+
+Documentation search tool for [[id:b5fb5c4b-d10f-4bca-91e1-a5e946ef0c83][Common Lisp]] libraries available through [[id:ce62aeae-38ab-49cf-ba22-47b43ec97cb2][Quicklisp]].
+* (quickdocs.org) Quickdocs                                         :website:
+:PROPERTIES:
+:ID:       dca76481-34a4-44a6-bc3d-bfd7767f1fe3
+:ROAM_REFS: https://quickdocs.org/
+:END:
+
+#+begin_quote
+  Find Common Lisp libraries shipped by Quicklisp
+#+end_quote

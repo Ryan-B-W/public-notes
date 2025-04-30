@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       4daef4af-df73-4734-9f74-b6758d411b33
+:ROAM_REFS: https://planet.lisp.org/
+:END:
+#+title: (planet.lisp.org) Planet Lisp
+#+filetags: :lists:blogs:common_lisp:lisp:website:
+
+#+begin_quote
+  Planet Lisp is a meta blog that collects the contents of various Lisp-related blogs.
+#+end_quote

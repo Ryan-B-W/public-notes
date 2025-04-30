@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       b28e549e-7b7e-4d45-bf81-9c8538befefd
+:ROAM_REFS: https://awesome-cl.com/
+:END:
+#+title: (awesome-cl.com) awesome-cl | A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
+#+filetags: :common_lisp:lisp:lists:website:
+
+#+begin_quote
+  * Awesome Common Lisp
+
+  A curated list of /awesome/ Common Lisp libraries.
+
+  For awesome /software/, see [[http://lisp-lang.org/success/][lisp-lang.org's success stories]] and the [[https://github.com/azzamsa/awesome-cl-software][awesome-cl-software]] list.
+
+  All libraries listed here are available from [[https://www.quicklisp.org/beta/][Quicklisp]] unless stated otherwise.  The ones marked with a ⭐ are so widespread and solid that they became community standards.  You can't be wrong with them.  This is the case for Quicklisp, BordeauxThreads and such.  Libraries denoted with a 👍 are the ones we like and want to promote here at the Awesome-cl list.  They proved solid, they may solve a problem better than a community standard but they aren't as widespread, or not considered as stable.  For example, we prefer Spinneret over Cl-Who.
+
+  Add something new!  See the [[https://awesome-cl.com/#contributing][contributing]] section for adding something to the list.
+
+  This is released under the GNU Free Documentation License - its text is provided in the LICENSE file.  This repository is also mirrored on [[https://notabug.org/CodyReichert/awesome-cl][NotABug]] - a *fully-free* (as in libre) alternative to Github.  Preference is given to [[http://www.sbcl.org/manual/index.html#ANSI-Conformance][free software]] and sellers who aren't evil for physical resources.
+#+end_quote
+* (github.com) CodyReichert/awesome-cl: A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
+:PROPERTIES:
+:ID:       bb650e60-81f1-466e-a106-4bc004cdfa4e
+:ROAM_REFS: https://github.com/CodyReichert/awesome-cl
+:END:

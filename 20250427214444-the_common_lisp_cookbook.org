@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       526b52c3-57c5-4365-bf38-66d22b12bfc1
+:END:
+#+title: The Common Lisp Cookbook
+#+filetags: :common_lisp:lisp:documentation:
+
+The community [[id:b5fb5c4b-d10f-4bca-91e1-a5e946ef0c83][Common Lisp]] cookbook.
+* (lispcookbook.github.io) The Common Lisp Cookbook                 :website:
+:PROPERTIES:
+:ID:       f7154976-514f-47f5-901b-731c540eada2
+:ROAM_REFS: https://lispcookbook.github.io/cl-cookbook/
+:END:
+
+#+begin_quote
+  Cookbook, n. a book containing recipes and other information about the preparation and cooking of food.
+
+  A Cookbook is an invaluable resource, as it shows how to do various things in a clear fashion without all the theoretical context.  Sometimes you just need to look things up.  While cookbooks can never replace proper documentation such as the HyperSpec or books such as Practical Common Lisp, every language deserves a good cookbook, Common Lisp included.
+
+  The CL Cookbook aims to tackle all sort of topics, for the beginner and for the more advanced developer.
+#+end_quote

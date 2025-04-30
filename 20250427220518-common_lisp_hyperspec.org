@@ -1,0 +1,55 @@
+:PROPERTIES:
+:ID:       00e1c4cf-0cef-4c64-9a1c-cd92caf56ace
+:END:
+#+title: Common Lisp HyperSpec
+#+filetags: :common_lisp:lisp:specification:standards:documentation:
+
+[[id:fe3afedb-9d76-4c36-a529-3dfc6709f995][HTML]] [[id:a0ac6689-ad9b-4a28-b630-0dd12f15cff1][Hypertext]] version of the [[id:b5fb5c4b-d10f-4bca-91e1-a5e946ef0c83][Common Lisp]] ANSI standard.
+* (www.lispworks.com) Common Lisp HyperSpec (TM)                    :website:
+:PROPERTIES:
+:ID:       654c6612-410b-4e7a-a752-3b7fd1085d4e
+:ROAM_REFS: https://www.lispworks.com/documentation/HyperSpec/Front/index.htm
+:END:
+
+#+begin_quote
+  Welcome to the /Common Lisp HyperSpec/.\\
+  I hope it serves your need.
+
+  --/[[mailto://kmp@lispworks.com][Kent Pitman]]/, X3J13 Project Editor
+#+end_quote
+* (www.cs.cmu.edu) Common Lisp HyperSpec (TM)                       :website:
+:PROPERTIES:
+:ID:       26f45d0e-79f4-4fcf-8e6e-860f1a1ab0fb
+:ROAM_REFS: https://www.cs.cmu.edu/Groups/AI/html/hyperspec/clspec.html
+:END:
+
+Older revision from 1996 hosted by the CMU CS department.
+
+#+begin_quote
+  * Common Lisp HyperSpec (TM)
+
+  Common Lisp became an official ANSI Standard on December 8, 1994: [[http://www.x3.org/tc_home/tc_sd4/x3j13sd4.html][/ANSI X3.226:1994 American National Standard for Programming Language Common LISP (X3J13)/]].  Copies of the ANSI/X3.226 standard, which is nearly 1,100 pages long, may be purchased from the American National Standards Institute, 11 West 42nd Street, New York, NY 10036.  For more information, visit the ANSI home page at [[http://www.ansi.org/]].
+
+  A web version of the ANSI Common Lisp standard is not available.  The official ANSI standard is available only in hardcopy form.
+
+  However, [[mailto://kmp@harlequin.com][Kent Pitman]] of [[http://www.harlequin.com/][Harlequin, Inc.]] has written an HTML document that is derived (with permission from [[http://www.ansi.org/][ANSI]] and [[http://www.x3.org/][X3]]) from the [[http://www.x3.org/tc_home/tc_sd4/x3j13sd4.html][ANSI Common Lisp standard (X3.226)]] and [[ftp://parcftp.xerox.com/pub/cl/cleanup/][related design documents]].  As Project Editor of [[http://www.x3.org/tc_home/x3j13.html][X3J13]] Kent Pitman managed the completion of the document which became the [[http://www.x3.org/tc_home/tc_sd4/x3j13sd4.html][ANSI Common Lisp Standard]].
+
+  The [[http://www.harlequin.com/books/HyperSpec/FrontMatter/index.html][Common Lisp HyperSpec (TM)]] is not a definitive reference, but is much more practical for most casual browsing.  It is available for online browsing from [[http://www.harlequin.com/books/HyperSpec/FrontMatter/index.html][Harlequin]] or the [[https://www.cs.cmu.edu/Groups/AI/html/hyperspec/HyperSpec/FrontMatter/index.html][CMU AI Repository]].
+
+  Subject to some [[http://www.harlequin.com/books/HyperSpec/FrontMatter/About-HyperSpec.html#Legal][legal restrictions]], you can [[http://www.harlequin.com/books/HyperSpec/][download a copy for your own use]] and get much better performance.  The [[https://www.cs.cmu.edu/Groups/AI/html/hyperspec/clspec30.tgz][gzipped tar file]] is just a little over 2MB, and unpacks into a set of about 2,300 files that is just a little over 15MB and contains approximately 105,000 links.  The Common Lisp HyperSpec (TM) is [[http://www.harlequin.com/full/tm.html][Copyright]] © 1996 The Harlequin Group Limited.  All rights reserved.
+#+end_quote
+* (en.wikipedia.org) Common Lisp HyperSpec - Wikipedia              :website:
+:PROPERTIES:
+:ID:       aea5397d-00a1-47ea-86cc-28df5dac7ac2
+:ROAM_REFS: https://en.wikipedia.org/wiki/Common_Lisp_HyperSpec
+:END:
+
+#+begin_quote
+  The *Common Lisp HyperSpec* is a [[https://en.wikipedia.org/wiki/Technical_standard][technical standard]] document written in the [[https://en.wikipedia.org/wiki/Hypertext][hypertext]] format /Hypertext Markup Language/ ([[https://en.wikipedia.org/wiki/HTML][HTML]]).  It is not the [[https://en.wikipedia.org/wiki/American_National_Standards_Institute][American National Standards Institute]] (ANSI) [[https://en.wikipedia.org/wiki/Common_Lisp][Common Lisp]] standard, but is based on it, with permission from ANSI and the [[https://en.wikipedia.org/wiki/International_Committee_for_Information_Technology_Standards][International Committee for Information Technology Standards]] (INCITS, X3).  Originally developed by [[https://en.wikipedia.org/wiki/Kent_Pitman][Kent Pitman]] at [[https://en.wikipedia.org/wiki/Harlequin_(software_company)][Harlequin]], it is now copyrighted by LispWorks Ltd.  It is approximately 15 [[https://en.wikipedia.org/wiki/Megabyte][megabytes]] (MB) of data in 2,300 files which contain approximately 105,000 [[https://en.wikipedia.org/wiki/Hyperlink][hyperlinks]].
+
+  The HyperSpec is used by many Common Lisp development environments (examples: [[https://en.wikipedia.org/wiki/LispWorks][LispWorks]], the Superior Lisp Interaction Mode for Emacs ([[https://en.wikipedia.org/wiki/SLIME][SLIME]]) for looking up reference information on the constructs of ANSI Common Lisp.  The HyperSpec is also available for download.
+
+  Before the ANSI Common Lisp standard, the book /[[https://en.wikipedia.org/wiki/Common_Lisp_the_Language][Common Lisp the Language]]/ had been used as a Common Lisp standard reference.
+
+  [[https://en.wikipedia.org/wiki/Allegro_Common_Lisp][Allegro Common Lisp]] has its own hypertext version of the ANSI Common Lisp standard.
+#+end_quote
