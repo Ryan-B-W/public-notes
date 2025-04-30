@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       3b302373-60e5-42ec-8aa3-16ce3cc19b7d
+:ROAM_REFS: https://dspace.mit.edu/handle/1721.1/6334
+:END:
+#+title: (dspace.mit.edu) The SCHEME-79 Chip
+#+filetags: :scheme:lisp:computer_architecture:computer_science:science_paper:website:
+
+#+begin_quote
+  ** The SCHEME-79 Chip
+
+  ***** Author(s)
+
+  Holloway, Jack; Steel, Guy Lewis, Jr.; Sussman, Gerald Jay; Bell, Alan
+
+  ***** Abstract
+
+  We have designed and implemented a single-chip microcomputer (which we call SCHEME-79) which directly interprets a typed pointer variant of SCHEME, a dialect of the language LISP.  To support this interpreter the chip implements an automatic storage allocation system for heap-allocated data and an interrupt facility for user interrupt routines implemented in SCHEME.  We describe how the machine architecture is tailored to support the language, and the design methodology by which the hardware was synthesized.  We develop an interpreter for SCHEME written in LISP which may be viewed as a microcode specification.  This is converted by successive compilation passes into actual hardware structures on the chip.  We develop a language embedded in LSIP for describing layout artwork so we can procedurally define generators for generalized macro components.  The generators accept parameters to produce the specialized instances used in a particular design.  We discuss the performance of the current design and directions for improvement, both in the circuit performance and in the algorithms implemented by the chip.  A complete annotated listing of the microcode embodied by the chip is included.
+
+  ***** Date issued
+
+  1980-01-01
+
+  ***** URI
+
+  [[http://hdl.handle.net/1721.1/6334]]
+
+  ***** Other identifiers
+
+  AIM-559
+
+  ***** Series/Report no.
+
+  AIM-559
+
+  --------------
+
+  ***** Collections
+
+  - [[https://dspace.mit.edu/handle/1721.1/5460][AI Memos (1959 - 2004)]]
+#+end_quote

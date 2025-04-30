@@ -8,3 +8,81 @@
 #+begin_quote
   *WikiChip* is the preeminent resource for computer architectures and semiconductor logic engineering, covering historical and contemporary electronic systems, technologies, and related topics.
 #+end_quote
+* (en.wikichip.org) Macro-Operation (MOP) - WikiChip
+:PROPERTIES:
+:ID:       8aff83b6-53c8-48cd-a67a-db50854d785c
+:ROAM_REFS: https://en.wikichip.org/wiki/macro-operation
+:END:
+
+#+begin_quote
+  Macro-Operation (MOP)
+
+  *Macro-Operation* (*Macro-Ops* or *MOP*) is a more complex version of a [[https://en.wikichip.org/wiki/micro-operation][micro-operation]] as handled by the [[https://en.wikichip.org/wiki/microprocessor][microprocessor]].  Macro-Operations have a number of slightly different meanings, depending on the [[https://en.wikichip.org/wiki/microarchitecture][microarchitecture]] and designers that's being discussed.
+
+  ** Overview
+
+  Although the definition varies by designer, MOPs almost always refer to operations that are considered more complex than the basic operations that are executed by the execution units.  In general, they refer to more complex operations that are often decomposed into one or more very simple [[https://en.wikichip.org/wiki/micro-operations][micro-operations]] further down the pipeline.
+
+  ** Nomenclature
+
+  MOPs have a number of common meanings among chip designers:
+
+  - [[https://en.wikichip.org/wiki/Intel][Intel]] refers to the variable-length [[https://en.wikichip.org/wiki/x86][x86]] instructions as /macro-ops/.  In their context, macro-operations are variable length and can be quite complex capable of performing multiple memory and arithmetic operations at once.  In AMD's context, those are refered to as actual "[[https://en.wikichip.org/w/index.php?title=x86-64&action=edit&redlink=1][AMD64]] instructions".
+  - [[https://en.wikichip.org/wiki/AMD][AMD]] refers to the a more simplified fixed-length operation as /macro-ops/ (sometimes also /Complex-Op/ or /COPs/).  In their context, macro-operations are a fixed-length operation that may be composed of a memory operation and an arithmetic operation.  For example, a single MOP can perform a read, modify, and write operation.  Another way of describing MOPs is [[https://en.wikichip.org/wiki/x86][x86]] instructions that have undergone a number of transformations to make them fit into a more strict, but still complex, format.  In Intel's context, no such concept exist.
+  - [[https://en.wikichip.org/wiki/ARM_Holdings][ARM]] refers to relatively more complex instructions that get decomposed into one or more [[https://en.wikichip.org/wiki/µOPs][µOPs]].  Those MOPS get cracked into smaller µOPs later on in the pipeline.  Note that in legacy ARM cores, MOPs used to refer to complex instructions that required a number of iterations through the pipeline (/multi-cycle instructions/).
+#+end_quote
+* (en.wikichip.org) Micro-Operation (µOP) - WikiChip
+:PROPERTIES:
+:ID:       ff59974d-e2c4-45f7-9be6-731380ffc5ed
+:ROAM_REFS: https://en.wikichip.org/wiki/micro-operation
+:END:
+
+#+begin_quote
+  Micro-Operation (µOP)
+
+  *Micro-Operation* (*Micro-Ops* or *µOP*) is a simple [[https://en.wikichip.org/wiki/internal_operation][internal]] representation of an [[https://en.wikichip.org/w/index.php?title=architectural_instruction&action=edit&redlink=1][architectural instruction]] as handled by the [[https://en.wikichip.org/wiki/microprocessor][microprocessor]].  While exact definition of µOPs varies across implementations, the idea is to greatly simplify the internal representations of operations.  It is generally associated with designs that transform more complex (e.g. variable length or multiple operations) instructions with simple single-operation commands however µOPs are also used in many other cases even when instructions are fairly uniform.  Additionally, Micro-Operations can also be a result of [[https://en.wikichip.org/w/index.php?title=cracking&action=edit&redlink=1][cracking]] [[https://en.wikichip.org/wiki/Macro-Operations][Macro-Operations]].  It's a common misconception that micro-operations are exclusively a [[https://en.wikichip.org/w/index.php?title=CISC&action=edit&redlink=1][CISC]] concept.  While more often associated with [[https://en.wikichip.org/w/index.php?title=CISC&action=edit&redlink=1][CISC]] [[https://en.wikichip.org/w/index.php?title=ISA&action=edit&redlink=1][ISAs]] such as [[https://en.wikichip.org/wiki/x86][x86]] and [[https://en.wikichip.org/wiki/z/Architecture][z/Architecture]], micro-ops are also used in various [[https://en.wikichip.org/w/index.php?title=RISC&action=edit&redlink=1][RISC]] designs such as [[https://en.wikichip.org/wiki/ARM][ARM]] and [[https://en.wikichip.org/wiki/POWER][POWER]].
+
+  ** Nomenclature
+
+
+  - [[https://en.wikichip.org/wiki/Intel][Intel]] refers to the [[https://en.wikichip.org/w/index.php?title=internal_operations&action=edit&redlink=1][internal operations]] of fixed length, regular format, and encoding a /micro-operation/.  Those are a result of decoded [[https://en.wikichip.org/wiki/macro-operations][macro-operations]].
+  - [[https://en.wikichip.org/wiki/AMD][AMD]] refers to the simple, single-operation (e.g. a single arithmetic or memory operation) a /micro-operation/.  Those µOPs makes up a potentially more complex [[https://en.wikichip.org/wiki/macro-operation][macro-operation]].
+  - [[https://en.wikichip.org/wiki/ARM_Holdings][ARM]] refers to the [[https://en.wikichip.org/w/index.php?title=internal_operations&action=edit&redlink=1][internal]] representation of instructions as /micro-operation/.  Those are a result of decoded instructions or may be part of a group of µOPs as [[https://en.wikichip.org/wiki/macro-operation][macro-operation]].
+#+end_quote
+* (en.wikichip.org) Macro-Operation Fusion (MOP Fusion) - WikiChip
+:PROPERTIES:
+:ID:       d13f4d7d-a4f6-46c2-8e5b-af8af78f8b75
+:ROAM_REFS: https://en.wikichip.org/wiki/macro-operation_fusion
+:END:
+
+#+begin_quote
+  Macro-Operation Fusion (MOP Fusion)
+
+  /Not to be confused with [[https://en.wikichip.org/w/index.php?title=micro-operation_fusion&action=edit&redlink=1][micro-operation fusion]]./
+
+  *Macro-Operation Fusion* (also *Macro-Op Fusion*, *MOP Fusion*, or *Macrofusion*) is a hardware optimization technique found in many modern [[https://en.wikichip.org/wiki/microarchitectures][microarchitectures]] whereby a series of adjacent [[https://en.wikichip.org/wiki/macro-operations][macro-operations]] are merged into a single macro-operation prior or during decoding.  Those instructions are later decoded into fused-µOPs.
+
+  ** Contents
+
+  - [[https://en.wikichip.org/wiki/macro-operation_fusion#Overview_.26_Motivation][1 Overview & Motivation]]
+  - [[https://en.wikichip.org/wiki/macro-operation_fusion#Arm][2 Arm]]
+  - [[https://en.wikichip.org/wiki/macro-operation_fusion#RISC-V][3 RISC-V]]
+    - [[https://en.wikichip.org/wiki/macro-operation_fusion#Proposed_fusion_operations][3.1 Proposed fusion operations]]
+  - [[https://en.wikichip.org/wiki/macro-operation_fusion#x86][4 x86]]
+    - [[https://en.wikichip.org/wiki/macro-operation_fusion#Intel][4.1 Intel]]
+      - [[https://en.wikichip.org/wiki/macro-operation_fusion#History][4.1.1 History]]
+      - [[https://en.wikichip.org/wiki/macro-operation_fusion#Mechanism][4.1.2 Mechanism]]
+        - [[https://en.wikichip.org/wiki/macro-operation_fusion#Prior_limitations][4.1.2.1 Prior limitations]]
+          - [[https://en.wikichip.org/wiki/macro-operation_fusion#Nehalem_.C2.B5arch_limitations][4.1.2.1.1 Nehalem µarch limitations]]
+          - [[https://en.wikichip.org/wiki/macro-operation_fusion#Core_.C2.B5arch_limitations][4.1.2.1.2 Core µarch limitations]]
+    - [[https://en.wikichip.org/wiki/macro-operation_fusion#Centaur][4.2 Centaur]]
+  - [[https://en.wikichip.org/wiki/macro-operation_fusion#Bibliography][5 Bibliography]]
+  - [[https://en.wikichip.org/wiki/macro-operation_fusion#See_also][6 See also]]
+
+  ** Overview & Motivation
+
+
+  One of the three [[https://en.wikichip.org/wiki/microprocessor_performance][performance knobs of a microprocessor]] is the [[https://en.wikichip.org/wiki/instruction_count][instruction count]].  By reducing the number of instructions that must be executed, more work can be done with fewer resources.  The idea behind macro-operation fusion is to combine multiple adjacent instructions into a single instruction.  A fused instruction typically remains fused throughout its lifetime.  Therefore fused instructions can represent more work with fewer bits, free up execution units, tracking information (e.g. in the [[https://en.wikichip.org/w/index.php?title=register_renaming&action=edit&redlink=1][rename unit]]), save pipeline bandwidth in all stages from decode to retire, and consequently save power.
+
+  A unique aspect of macro-op fusion is that it also helps workloads that are not compiled such as in the case of many [[https://en.wikichip.org/w/index.php?title=interpreted_programming_languages&action=edit&redlink=1][interpreted programming languages]] (e.g. [[https://en.wikichip.org/wiki/PHP][PHP]], the software running WikiChip).
+#+end_quote

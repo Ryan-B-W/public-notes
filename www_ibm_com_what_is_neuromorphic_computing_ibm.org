@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       1ce3dc70-8b6a-4ecc-8a40-debc2e0c318c
+:ROAM_REFS: https://www.ibm.com/think/topics/neuromorphic-computing
+:END:
+#+title: (www.ibm.com) What Is Neuromorphic Computing? | IBM
+#+filetags: :machine_learning:artificial_intelligence:ibm_corp:website:
+
+[[id:e4639006-f52c-4fcd-9a26-2d806dd3ea1e][IBM]] topic page of neuromorphic computing.

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       3822c67c-6dbb-44cb-8db7-52532c9f3dc9
+:ROAM_REFS: https://yosefk.com/blog/the-high-level-cpu-challenge.html
+:END:
+#+title: (yosefk.com) The "high-level CPU" challenge
+#+filetags: :computer_architecture:computer_science:blog_post:website:
+
+#+begin_quote
+  * The "high-level CPU" challenge
+
+  January 29th, 2008
+
+  Do you love ("very") high-level languages?  Like Lisp, Smalltalk, Python, Ruby?  Or maybe Haskell, ML?  I love high-level languages.
+
+  Do you think high-level languages would run fast if the stock hardware weren't "brain-damaged"/"built to run C"/"a von Neumann machine (instead of some other wonderful thing)"?  You do think so?  I have a challenge for you.  I bet you'll be interested.
+#+end_quote

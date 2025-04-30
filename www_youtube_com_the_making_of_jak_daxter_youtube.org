@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       c04eda72-c87d-4a98-84f3-f23b86bde7e5
+:ROAM_REFS: https://www.youtube.com/watch?v=LHvUjmlWRAI
+:END:
+#+title: (www.youtube.com) The Making of Jak & Daxter - YouTube
+#+filetags: :games:lisp:video:website:
+
+#+begin_quote
+  Naughty Dog founders Evan Wells, Jason Rubin, Andrew Gavin and other longtime Dogs share their experiences of creating the series.
+#+end_quote

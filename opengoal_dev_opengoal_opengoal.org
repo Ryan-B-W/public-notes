@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       3c1c82c0-b70c-422e-9af9-38295dcfe9f0
+:ROAM_REFS: https://opengoal.dev/
+:END:
+#+title: (opengoal.dev) OpenGOAL | OpenGOAL
+#+filetags: :open_source:games:lisp:software:website:
+
+#+begin_quote
+  ** Reviving the Language that Brought us the Jak and Daxter Series.
+
+  Started in 2020, OpenGOAL has continuously improved and evolved.  With the first two games being considered playable and a small but very active modding community, there is always something to work towards.
+
+  ** Play the classics you loved with a twist
+
+  The OpenGOAL version adds a variety of improvements and accessibility options.  Modders have even made creative modifications and entirely new content.
+
+  *** Native not Emulation
+
+  OpenGOAL is a fully fledged native x86-64 port.  This means better performance, accuracy and compatibility
+
+  *** Like Playing the Original
+
+  A major goal is ensuring the game feels the same as the original.  It should also look the same (but hopefully better!)
+
+  *** Quality of Life Increases
+
+  We are not afraid to add features that increase quality of life or accessibility
+
+  ** Freedom to create and improve
+
+  Having the games decompiled and recompilable essentially means you are only limited by time and effort.  Additionally if you are interested in technical areas like compiler development and everything that involves, this is a project for you.
+
+  *** Built From Scratch
+
+  OpenGOAL is built from the ground up in an attempt to mimic the original GOAL language
+
+  *** Extend and Modify
+
+  Supporting modifications to the original game is a major goal of the project
+
+  *** Learn About the Games
+
+  Explore the code for the original games to learn how they worked
+
+  ** Further links and get involved
+
+  [[https://opengoal.dev/docs/intro][Documentation]]
+
+  Whilst they can always be improved, our documentation covers a wide range of topics: from setting up the games, to the underlying language, to examples of how to make your own mods.
+
+  [[https://discord.gg/VZbXMHXzWv][Discord]]
+
+  Join our discord community for announcements, support, and more!
+
+  [[https://crowdin.com/profile/OpenGOALBot][ Translations]]
+
+  Contribute translations for the games and related tools like the launcher.
+#+end_quote

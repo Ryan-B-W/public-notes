@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       e0d2ff16-269d-4954-9a76-25d6a0e15868
+:ROAM_REFS: https://franz.com/success/customer_apps/animation_graphics/naughtydog.lhtml
+:END:
+#+title: (franz.com) Franz Inc Customer Applications: Naughty Dog Software
+#+filetags: :games:lisp:blog_post:website:
+
+#+begin_quote
+  * Naughty Dog Software
+
+  ** Raising the Paradigm of Video Gaming -- Again...Thanks to Lisp and Allegro CL
+
+  In 1996, an Orange and Blue creature named Crash Bandicoot sent the video gaming community into a tornado-like spin. The animation, visual richness and action-packed fun of the game quickly propelled it to "the game to have" status on the then new Sony Playstation. Created by NaughtyDog Software using Lisp and Allegro CL, founder Andy Gavin and his team quickly followed up on their initial success with several Crash Sequels. To this day, the Crash franchise remains one of the most popular of all Sony Playstation games, and a quality standard that all other game developers try to match.
+
+  After four iterations of Crash and the release of the Sony Playstation II, Naughty Dog was ready to do something different. And they have with /Jak and Daxter: the Precursor Legacy/, creating a fully realized world where the gamer can effect change in an environment that is seamlessly connected together. Once again, NaughtyDog has raised the bar on game development -- creating a game considered by many to be the most beautiful and brilliantly animated of anything available today.
+
+  NaughtyDog used Lisp and Allegro CL to create many of the tools they needed to design the fluid and precise moves that the characters in their games make, as well as the rich, textured and crisp graphics. The Naughty Dog team was able to develop ** over 500 different ** types of game objects, each with uniquely crafted and tuned gameplay and visual characteristics.
+
+  Naughty Dog co-founder Andy Gavin, says the unique capabilities of Lisp enabled fast development and execution of character and object control -- something that was needed to fully realize the numerous 3D creatures and devices which interact with the player in real-time (60 frames per second).
+
+  "Lisp was just the best solution for this job," comments Gavin. "With leading edge game systems like ours, you have to deal with complicated behaviors and real-time action. Languages like C are very poor with temporal constructs. C is just very awkward for a project like this. Lisp, on the other hand, is ideal."
+
+  As Gavin explains, "With Lisp, one can rapidly develop meta constructs for behaviors and combine them in new ways. In addition, Lisp allows the redefinition of the language to easily add new constructs; particularly those needed to deal with time-based behaviors and layering of actions. Contrary to popular belief, there is nothing inherently slow about Lisp. It is easy to construct a simple dialect which is just as efficient as C, but retains the dynamic and consistent qualities that make Lisp a much more effective expression of one's programming intentions."
+
+  Gavin used Allegro CL to create a programming language called "GOAL" (Game Oriented Assembly Lisp), which he designed specifically for the development of Naughty Dog's games. Using this custom dialect whose compiler and development environment was written in Allegro CL, he and his team were able to produce hundreds of different game objects with sophisticated real-time behavior and animation, and more realistic graphics. "The behaviors are faster to develop, and more compact than an equivalent C program, allowing for rapid prototyping and experimentation." says Gavin.
+
+  Naughty Dog has been making computer and video games for over 15 years. Company founders Andy Gavin and Jason Rubin started writing video games as teenagers, and produced several titles for Electronic Arts while still in College.
+
+  Gavin learned Lisp in 1992 while working on his Ph.D. in Computer Science at MIT. While there, he and Rubin developed a fighting game entitled "Way of the Warrior." The high-quality graphics, sound and artificial intelligence of the game attracted several publishing offers -- including one from Universal Interactive Studios (with whom they signed a three-project deal in 1994).
+
+  In 1994 the company relocated to Universal City California and began work on what was to become Crash Bandicoot. This project required that the team expand beyond the original two founders, growing to eight people during the first Crash Bandicoot game.
+
+  In March 1996, the Sony Corporation announced an agreement with Universal Interactive to publish and distribute the Crash games. Naughty Dog relocated again to Santa Monica California in 1998 and Sony later purchased the company in late 2000. Naughty Dog, is currently a wholly owned Subsidiary of Sony Computer Entertainment America.
+
+  Naughty Dog's latest game, /Jak and Daxter: the Precursor Legacy,/ exclusively for the Sony Playstation 2 was a hit game released in fall of 2001. The team is currently hard at work developing a new game for the Playstation 2. For more information about Naughty Dog, Inc., visit them at: [[http://www.naughtydog.com/][www.naughtydog.com]]
+
+  /"Naughty Dog", the Naughty Dog Logo, and the Naughty Dog character are registered trademarks of Naughty Dog, Inc. Naughty Dog, Inc. is a wholly owned subsidiary of Sony Computer Entertainment America, Inc. Jak & Daxter: The Precursor Legacy is a trademark of Sony Computer Entertainment America Inc. Created and developed by Naughty Dog, Inc. C 2001 Sony Computer Entertainment America Inc. Crash Bandicoot and related characters T & C 1999-2000 Universal Interactive Studios, Inc. Licensed by Universal Studios Licensing, Inc. All rights reserved. The Sony Computer Entertainment logo is a registered trademark of Sony Corporation. "Playstation" and the "PS" Family logo are registered trademarks of Sony Computer Entertainment Inc. The Crash Bandicoot series was developed for the Playstation game console. Jak & Daxter: The Precursor Legacy was developed for the Playstation 2 computer entertainment system./
+#+end_quote
+
+Links to:
+ - [[id:c04eda72-c87d-4a98-84f3-f23b86bde7e5][(www.youtube.com) The Making of Jak & Daxter - YouTube]]

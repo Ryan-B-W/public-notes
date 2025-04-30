@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       59af449a-11bf-47ff-8608-fd6977dc3648
+:ROAM_REFS: https://research.scheme.org/lambda-papers/
+:END:
+#+title: (research.scheme.org) Lambda Papers
+#+filetags: :scheme:lisp:computer_science:lists:website:
+
+#+begin_quote
+  The Original 'Lambda Papers' by Guy Steele and Gerald Sussman
+#+end_quote
+
+Links to:
+ - [[https://dspace.mit.edu/bitstream/handle/1721.1/5794/AIM-349.pdf]]
+ - [[https://apps.dtic.mil/sti/pdfs/ADA030751.pdf]]
+ - [[https://apps.dtic.mil/sti/pdfs/ADA034090.pdf]]
+ - [[https://apps.dtic.mil/sti/pdfs/ADA062381.pdf]]
+ - [[https://dspace.mit.edu/bitstream/handle/1721.1/6094/AIM-453.pdf]]
+ - [[https://dspace.mit.edu/bitstream/handle/1721.1/6913/AITR-474.pdf]]
+ - [[https://dspace.mit.edu/bitstream/handle/1721.1/5731/AIM-514.pdf]]

@@ -5,7 +5,26 @@
 #+filetags: :science_paper:article:programming:lisp:mathematics:computer_science:
 
 The original [[id:84ae6e85-a6a2-4133-bc53-274238081c2d][Lisp]] paper by [[id:9c394806-9d31-4312-a2cf-ae0d0935f7b1][John McCarthy]].
-* (www-formal.stanford.edu) recursive.dvi - recursive.pdf :mime_type_application_pdf:website:
+* (www-formal.stanford.edu) RECURSIVE FUNCTIONS OF SYMBOLIC EXPRESSIONS AND THEIR COMPUTATION BY MACHINE (Part I) (12-May-1998) :website:
+:PROPERTIES:
+:ID:       0f4dddcb-8bb9-4615-adfa-869c96d9dfaf
+:ROAM_REFS: http://www-formal.stanford.edu/jmc/recursive.html
+:END:
+
+#+begin_quote
+  * RECURSIVE FUNCTIONS OF SYMBOLIC EXPRESSIONS AND THEIR COMPUTATION BY MACHINE (Part I)
+
+  This paper appeared in /Communications of the ACM/ in April 1960.  It is the original paper on Lisp.
+
+  There are [[http://www-formal.stanford.edu/jmc/recursive/recursive.html][*html*]], [[http://www-formal.stanford.edu/jmc/recursive.dvi][*dvi*]], [[http://www-formal.stanford.edu/jmc/recursive.pdf][*pdf*]] and [[http://www-formal.stanford.edu/jmc/recursive.ps][*Postscript*]] versions of the paper.
+
+  Up to: [[http://www-formal.stanford.edu/jmc/index.html]]
+
+  Send comments to
+
+  Send comments to jmccsstanford@gmail.com
+#+end_quote
+** (www-formal.stanford.edu) recursive.dvi - recursive.pdf :mime_type_application_pdf:
 :PROPERTIES:
 :ID:       e734b3b6-10ab-4f22-8fa5-e7b672844076
 :ROAM_REFS: http://www-formal.stanford.edu/jmc/recursive.pdf
@@ -30,6 +49,11 @@ The original [[id:84ae6e85-a6a2-4133-bc53-274238081c2d][Lisp]] paper by [[id:9c3
 
   ∗Putting this paper in LATEXpartly supported by ARPA (ONR) grant N00014-94-1-0775 to Stanford University where John McCarthy has been since 1962.  Copied with minor notational changes from CACM, April 1960.  If you want the exact typography, look there.  Current address, John McCarthy, Computer Science Department, Stanford, CA 94305, (email: jmc@cs.stanford.edu), (URL: http://www-formal.stanford.edu/jmc/ )
 #+end_quote
+** (www-formal.stanford.edu) Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I
+:PROPERTIES:
+:ID:       fbebc4e7-3df8-4a10-87a4-c299ace1d71a
+:ROAM_REFS: http://www-formal.stanford.edu/jmc/recursive/recursive.html
+:END:
 * (dl.acm.org) Recursive functions of symbolic expressions and their computation by machine, Part I | Communications of the ACM :website:
 :PROPERTIES:
 :ID:       14decf41-26d3-423e-ad2f-b9a25c4377b0

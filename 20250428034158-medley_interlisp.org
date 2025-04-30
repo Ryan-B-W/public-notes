@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       487cde1f-3fe4-4747-b4a1-471a767865f0
+:END:
+#+title: Medley Interlisp
+#+filetags: :lisp:software:
+
+The community revival project of Interlisp, a [[id:8ce62e39-7f9b-4932-972a-654a64b11900][Lisp Machine]] [[id:84ae6e85-a6a2-4133-bc53-274238081c2d][Lisp]].
+* (interlisp.org) The Medley Interlisp Project        :lisp:software:website:
+:PROPERTIES:
+:ID:       15ce77f6-99b3-4d34-ad40-386bf3f9b967
+:ROAM_REFS: https://interlisp.org/
+:END:
+
+#+begin_quote
+  * The Medley Interlisp Project
+
+  a retrofuturistic software system
+
+  What did we leave behind on the path to developing today's computer systems?  Could there be lessons for the future of computing hidden in the past?  Enter the Medley software environment to explore these questions.
+
+  ** The Interlisp Revival
+
+  Welcome to the start of a new chapter in software preservation and computing.  We're a group of researchers, software developers, and friends working to make the Medley Interlisp system available for use on modern computer systems.
+
+  The Medley system was created at Xerox's Palo Alto Research Center (PARC).  PARC was the cradle of the modern graphical user interface and its design thinking continued with the development of Medley Interlisp, an extensible graphical operating system with nearly limitless possibilities for customization.  Whatever the task, using Medley you can design a custom workflow to help accomplish it.
+
+  Interlisp had its beginnings as a DARPA sponsored Lisp environment for researchers.  Interlisp was then ported and expanded into Interlisp-D, first released by Xerox and distributed commercially until its development tapered off in the 1990s.  Now this classic software system is running again on your favorite operating system.  The project is more than a trip down memory lane: our mission is to expand the scope of what Medley can do, fulfilling its promise of software tools limited only by the user's imagination.  Dive in and explore the language, the tools, and the myriad applications, experiments, and playful creations that were crafted in and for Interlisp.
+
+  The [[https://interlisp.org/project/status/2024medleyannualreport][2024 Medley Interlisp Annual Report]] describes our recent activities.
+
+  Feeling confused by the jargon?  Don't worry, we've got you covered.  [[https://interlisp.org/history/glossary][Check out our glossary]] to learn the terms associated with our project.
+
+  Most software in this project is licensed under the terms of the [[https://github.com/Interlisp/medley/blob/master/LICENSE][MIT license]].
+#+end_quote
+* (github.com) Interlisp.org                                        :website:
+:PROPERTIES:
+:ID:       13fb5a2e-e34c-465c-91b0-d454bafb3eed
+:ROAM_REFS: https://github.com/interlisp
+:END:
+
+#+begin_quote
+  * Interlisp.org
+
+  Dedicated to Restoring and Preserving the Interlisp experience
+#+end_quote

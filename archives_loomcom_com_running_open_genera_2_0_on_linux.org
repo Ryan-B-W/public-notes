@@ -3,4 +3,4 @@
 :ROAM_REFS: https://archives.loomcom.com/genera/genera-install.html
 :END:
 #+title: (archives.loomcom.com) Running Open Genera 2.0 on Linux
-#+filetags: :operating_systems:lisp:website:
+#+filetags: :software:operating_systems:lisp:website:

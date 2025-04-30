@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       8ce62e39-7f9b-4932-972a-654a64b11900
+:END:
+#+title: Lisp Machine
+#+filetags: :computer_architecture:hardware:lisp:
+
+Any of several pieces of hardware from various vendors that ran [[id:84ae6e85-a6a2-4133-bc53-274238081c2d][Lisp]] as their primary system [[id:b24601aa-09df-41e1-aa7e-25ead342db34][programming language]].
+* (en.wikipedia.org) Lisp machine - Wikipedia                       :website:
+:PROPERTIES:
+:ID:       928384da-1a5c-4b8d-880f-4a7e4159ea47
+:ROAM_REFS: https://en.wikipedia.org/wiki/Lisp_machine
+:END:
+
+#+begin_quote
+  *Lisp machines* are general-purpose computers designed to efficiently run [[https://en.wikipedia.org/wiki/Lisp_(programming_language)][Lisp]] as their main software and [[https://en.wikipedia.org/wiki/Programming_language][programming language]], usually via hardware support.  They are an example of a [[https://en.wikipedia.org/wiki/High-level_language_computer_architecture][high-level language computer architecture]].  In a sense, they were the first commercial single-user [[https://en.wikipedia.org/wiki/Workstation][workstations]].  Despite being modest in number (perhaps 7,000 units total as of 1988) Lisp machines commercially pioneered many now-commonplace technologies, including [[https://en.wikipedia.org/wiki/Windowing_system][windowing systems]], [[https://en.wikipedia.org/wiki/Mouse_(computing)][computer mice]], high-resolution bit-mapped [[https://en.wikipedia.org/wiki/Raster_graphics][raster graphics]], computer graphic rendering, [[https://en.wikipedia.org/wiki/Laser_printing][laser printing]], networking innovations such as [[https://en.wikipedia.org/wiki/Chaosnet][Chaosnet]], and effective [[https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)][garbage collection]].  Several firms built and sold Lisp machines in the 1980s: [[https://en.wikipedia.org/wiki/Symbolics][Symbolics]] (3600, 3640, XL1200, MacIvory, and other models), [[https://en.wikipedia.org/wiki/Lisp_Machines][Lisp Machines]] Incorporated (LMI Lambda), [[https://en.wikipedia.org/wiki/Texas_Instruments][Texas Instruments]] ([[https://en.wikipedia.org/wiki/TI_Explorer][Explorer, MicroExplorer]]), and [[https://en.wikipedia.org/wiki/Xerox][Xerox]] ([[https://en.wikipedia.org/wiki/Interlisp][Interlisp]]-D workstations).  The operating systems were written in [[https://en.wikipedia.org/wiki/Lisp_Machine_Lisp][Lisp Machine Lisp]], Interlisp (Xerox), and later partly in [[https://en.wikipedia.org/wiki/Common_Lisp][Common Lisp]].
+#+end_quote

@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       3fd2f9e9-976e-4eea-a664-ee59980c4bf1
+:ROAM_ALIASES: "Computer Architecture: Pipelined and Parallel Processor Design by Michael J. Flynn"
+:END:
+#+title: Computer Architecture: Pipelined and Parallel Processor Design
+#+filetags: :electronics:hardware:computer_architecture:computer_science:books:
+
+Seminal book by Michael J. Flynn on [[id:c980a340-2564-437e-a79f-388122a206ad][computer architecture]].
+* (www.goodreads.com) Computer Architecture: Pipelined and Parallel Processor Design by Michael J. Flynn | Goodreads :website:
+:PROPERTIES:
+:ID:       9f95154e-fe70-48ac-86b9-2c88c882c7a4
+:ROAM_REFS: https://www.goodreads.com/book/show/258580.Computer_Architecture
+:END:
+
+#+begin_quote
+  Abstracts the essential elements of processor design and emphasizes a design methodology including design concepts, design target data, and evaluation tools.
+#+end_quote
+* (www.amazon.com) Computer Architecture: Pipelined and Parallel Processor Design: Flynn, Michael J.: 9780867202045: Amazon.com: Books :website:
+:PROPERTIES:
+:ID:       4aac32a6-b606-490e-84cf-807a85d5782e
+:ROAM_REFS: https://www.amazon.com/dp/0867202041
+:END:
+* (archive.org) Computer architecture : pipelined and parallel processor design : Flynn, Michael J., 1952- : Free Download, Borrow, and Streaming : Internet Archive :website:
+:PROPERTIES:
+:ID:       408b9f42-5dd3-43aa-91bf-c19abfab5701
+:ROAM_REFS: https://archive.org/details/computerarchitec0000flyn
+:END:
