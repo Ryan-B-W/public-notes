@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       f5a4a1fe-d3a8-4b69-acee-f2599b07dc8f
+:ROAM_REFS: https://www.youtube.com/watch?v=BV5mYjh8m4E
+:END:
+#+title: (www.youtube.com) The Coxeter Classification 1/2: Combinatorics Is Hard - YouTube
+#+filetags: :mathematics:video:website:
+
+#+begin_quote
+  A very hands-on approach to Coxeter systems.\\
+  Video 2: [[https://www.youtube.com/watch?v=NrtN-l9ZDtU][The Coxeter Classification 2/2: Who c...]]\\
+  [[https://www.youtube.com/hashtag/some3][#SoME3]]
+
+  [[https://www.youtube.com/watch?v=BV5mYjh8m4E][00:00]] Opening\\
+  [[https://www.youtube.com/watch?v=BV5mYjh8m4E&t=143s][02:23]] Part 1: Introducing Coxeter systems\\
+  [[https://www.youtube.com/watch?v=BV5mYjh8m4E&t=614s][10:14]] Part 2: Proving things are infinite\\
+  [[https://www.youtube.com/watch?v=BV5mYjh8m4E&t=923s][15:23]] Part 3: Symmetry groups of polyhedra\\
+  [[https://www.youtube.com/watch?v=BV5mYjh8m4E&t=1500s][25:00]] Part 4: The exceptional systems\\
+  [[https://www.youtube.com/watch?v=BV5mYjh8m4E&t=1938s][32:18]] Conclusion
+
+  Some casual overviews of finite groups, if you want a primer for this video:\\
+  From 3Blue1Brown -- [[https://www.youtube.com/watch?v=mH0oCDa74tE][Group theory, abstraction, and the 19...]]\\
+  From Numberphile -- [[https://www.youtube.com/watch?v=jsSeoGpiWsw][Monster Group (John Conway) - Numberp...]]
+
+  If you're looking for more detailed proofs of results like the Word Property, I recommend the textbook Combinatorics of Coxeter Groups by Björner and Brenti which covers these in the first 3 chapters.
+
+  Small corrections thanks to commentors:\\
+  *The word 'prism' at [[https://www.youtube.com/watch?v=BV5mYjh8m4E&t=1156s][19:16]] should be 'pyramid', or equivalently an asymmetric prism so that reflecting through the length is not a symmetry.
+#+end_quote

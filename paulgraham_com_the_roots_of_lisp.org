@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       b8988ad0-e689-4871-9b93-2fe59f8537e5
+:ROAM_REFS: https://paulgraham.com/rootsoflisp.html
+:END:
+#+title: (paulgraham.com) The Roots of Lisp
+#+filetags: :website:
+
+#+begin_quote
+  * The Roots of Lisp
+
+  May 2001
+
+  /(I wrote this article to help myself understand exactly what McCarthy discovered.  You don't need to know this stuff to program in Lisp, but it should be helpful to anyone who wants to understand the essence of Lisp --- both in the sense of its origins and its semantic core.  The fact that it has such a core is one of Lisp's distinguishing features, and the reason why, unlike other languages, Lisp has dialects.)/
+#+end_quote

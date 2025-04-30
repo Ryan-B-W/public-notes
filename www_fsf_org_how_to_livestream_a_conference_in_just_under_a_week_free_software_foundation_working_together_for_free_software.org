@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       a502f297-24b8-4a46-8b6d-0f914bb4d05f
+:ROAM_REFS: https://www.fsf.org/blogs/community/how-to-livestream-a-conference-in-just-under-a-week
+:END:
+#+title: (www.fsf.org) How to livestream a conference in just under a week — Free Software Foundation — Working together for free software
+#+filetags: :events:software:blog_post:website:
+
+#+begin_quote
+  For the first time ever, [[https://libreplanet.org/2020][LibrePlanet 2020]] was a fully virtual conference due to ongoing issues caused by the coronavirus pandemic.  In our last week of preparations before the live event, increasingly disturbing news related to the virus made us realize we could not responsibly hold our usual conference on software freedom in person while protecting the safety of our participants and their communities.  So we turned everything around to eventually bring 35 free software presentations to our community through the filter of a computer screen.  After the conference, we had many people writing to ask us for more details about what we used to do it, so we wanted to take this opportunity to share how we were able to create a fully free interactive and educational virtual experience.
+
+  LibrePlanet 2020 videos were recorded from the livestream, and they will be posted online soon.  For the sessions that are not too dependent on the visual information from the slides, we'll also be providing the audiostreams via an RSS feed for anyone to listen to while they exercise, bake, garden, or seek distraction from very stressful times.
+#+end_quote

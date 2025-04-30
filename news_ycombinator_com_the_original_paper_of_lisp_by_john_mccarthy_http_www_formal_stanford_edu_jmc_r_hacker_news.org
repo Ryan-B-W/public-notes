@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       9cbf4d41-d3e4-4133-a7cf-34a28d0f182c
+:ROAM_REFS: https://news.ycombinator.com/item?id=14727881
+:END:
+#+title: (news.ycombinator.com) The original paper of LISP by John McCarthy http://www-formal.stanford.edu/jmc/r... | Hacker News
+#+filetags: :lisp:forums:website:
+
+#+begin_quote
+  The original paper of LISP by John McCarthy [[http://www-formal.stanford.edu/jmc/recursive.html]]
+
+  Or the more accessible explanation by Paul Graham [[http://www.paulgraham.com/rootsoflisp.html]]
+
+  There are only few primitives and no such things as RPLACA, RPLACD, and NCONC.
+#+end_quote
+
+Links to:
+ - [[id:0f4dddcb-8bb9-4615-adfa-869c96d9dfaf][(www-formal.stanford.edu) RECURSIVE FUNCTIONS OF SYMBOLIC EXPRESSIONS AND THEIR COMPUTATION BY MACHINE (Part I) (12-May-1998)]]
+ - [[id:b8988ad0-e689-4871-9b93-2fe59f8537e5][(paulgraham.com) The Roots of Lisp]]

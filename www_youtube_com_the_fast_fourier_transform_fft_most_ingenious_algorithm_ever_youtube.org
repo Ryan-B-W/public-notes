@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       a66cd263-cee0-4760-b988-7de764aac0b2
+:ROAM_REFS: https://www.youtube.com/watch?v=h7apO7q16V0
+:END:
+#+title: (www.youtube.com) The Fast Fourier Transform (FFT): Most Ingenious Algorithm Ever? - YouTube
+#+filetags: :mathematics:video:website:
+
+#+begin_quote
+  In this video, we take a look at one of the most beautiful algorithms ever created: the Fast Fourier Transform (FFT). This is a tricky algorithm to understand so we take a look at it in a context that we are all familiar with: polynomial multiplication. You will see how the core ideas of the FFT can be "discovered" through asking the right questions. The key insights that are presented in this video is that polynomial multiplication can be improved significantly by multiplying polynomials in a special value representation. The challenge that presents itself is the problem of converting a polynomial from a standard coefficient representation to value representation.
+
+  We see that the FFT is an incredibly efficient recursive algorithm that performs this task, and we also discover that a slightly tweaked FFT (Inverse FFT) can also solve the reverse problem of interpolation. If this video doesn't blow your mind, I don't know what will.
+
+  [[https://www.youtube.com/watch?v=h7apO7q16V0][0:00]] Introduction\\
+  [[https://www.youtube.com/watch?v=h7apO7q16V0&t=139s][2:19]] Polynomial Multiplication\\
+  [[https://www.youtube.com/watch?v=h7apO7q16V0&t=216s][3:36]] Polynomial Representation\\
+  [[https://www.youtube.com/watch?v=h7apO7q16V0&t=366s][6:06]] Value Representation Advantages\\
+  [[https://www.youtube.com/watch?v=h7apO7q16V0&t=427s][7:07]] Polynomial Multiplication Flowchart\\
+  [[https://www.youtube.com/watch?v=h7apO7q16V0&t=484s][8:04]] Polynomial Evaluation\\
+  [[https://www.youtube.com/watch?v=h7apO7q16V0&t=829s][13:49]] Which Evaluation Points?\\
+  [[https://www.youtube.com/watch?v=h7apO7q16V0&t=990s][16:30]] Why Nth Roots of Unity?\\
+  [[https://www.youtube.com/watch?v=h7apO7q16V0&t=1108s][18:28]] FFT Implementation\\
+  [[https://www.youtube.com/watch?v=h7apO7q16V0&t=1367s][22:47]] Interpolation and Inverse FFT\\
+  [[https://www.youtube.com/watch?v=h7apO7q16V0&t=1609s][26:49]] Recap
+
+  Also a subtle mistake that a commenter made me aware of -- at [[https://www.youtube.com/watch?v=h7apO7q16V0&t=1600s][26:40]] instead of replacing w with (1/n * e^{-2 * pi i/ n}), the actual right way to do this is by taking the final output of the IFFT at the end of the recursion and dividing by n.
+
+  So the full change is w = e^{-2 pi i / n} And then somewhere outside the scope of the IFFT function ifft_result = 1/n * IFFT(values)
+
+  The treatment of the FFT in this video is inspired by several well known references, mainly Introduction to Algorithms (Cormen et al.) and Algorithms (Papadimitriou et al.).
+
+  Support: [[https://www.patreon.com/reducible][/ reducible]]
+
+  This video wouldn't be possible without the open source manim library created by 3blue1brown: [[https://github.com/3b1b/manim][https://github.com/3b1b/manim]]
+
+  Here is link to the repository that contains the code used to generate the animations in this video: [[https://github.com/nipunramk/Reducible][https://github.com/nipunramk/Reducible]]
+
+  Elegant proof that the matrix used in the proof that (d + 1) points uniquely define a degree d polynomial is invertible: [[https://math.stackexchange.com/questions/426932/why-are-vandermonde-matrices-invertible][https://math.stackexchange.com/questi...]]
+
+  Music:\\
+  Lift Motif by Kevin MacLeod is licensed under a Creative Commons Attribution license ([[https://creativecommons.org/licenses/...][https://creativecommons.org/licenses/...]])\\
+  Source: [[http://incompetech.com/music/royalty-..][http://incompetech.com/music/royalty-..]].\\
+  Artist: [[http://incompetech.com/][http://incompetech.com/]]
+
+  All other music by Aakash Gandhi
+
+  SVG Attributions:\\
+  Earth: Designed by Flat Icons from www.flaticon.com, CC BY 4.0 [[https://creativecommons.org/licenses/by/4.0][https://creativecommons.org/licenses/...]], via Wikimedia Commons GPS: Icons made by [[https://www.flaticon.com/authors/pause08][https://www.flaticon.com/authors/pause08]] from [[https://www.flaticon.com/][https://www.flaticon.com/]]\\
+  Wireless Comms: Design inspired by [[https://svgsilh.com/image/297434.html][https://svgsilh.com/image/297434.html]]
+#+end_quote
