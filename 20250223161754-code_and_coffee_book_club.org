@@ -199,3 +199,8 @@ A comparison was made between the substitution model of application (see [[https
 ***** [[id:dfbd1cf6-7a60-4177-bcc7-b32962208f15][(rosettacode.org) Category:Scheme - Rosetta Code]]
 ***** [[id:9b5f8541-85c4-4696-b9cb-dd719523d903][(www.manning.com) Grokking Functional Programming]]
 ***** [[id:2f8a5c51-c94f-492f-8049-458e7fadc4b5][(lispcookbook.github.io) Data structures]]
+**** Study Session [2025-04-13 Sun 15:00-16:00]
+Study session prior to §2.3 to allow more time to read and give extra time to discussing exercises.  Not streamed or recorded.  No host present.
+**** Session Six, [2025-04-20 Sun 15:00-16:00]
+Session recorded by an attendee, but not streamed.  No host present due to multiple schedule conflicts and last-minute obligations.
+***** Current section [[id:e45e5e54-2625-4d00-9e48-0d1cb002d2e6][(sarabander.github.io) SICP, 2e: 2.3 Symbolic Data]]
