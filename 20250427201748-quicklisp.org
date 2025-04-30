@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ce62aeae-38ab-49cf-ba22-47b43ec97cb2
+:END:
+#+title: Quicklisp
+#+filetags: :open_source:package_management:common_lisp:lisp:software:
+
+[[id:b5fb5c4b-d10f-4bca-91e1-a5e946ef0c83][Common Lisp]] package manager.
+* (www.quicklisp.org) Quicklisp beta                                :website:
+:PROPERTIES:
+:ID:       dabab952-9053-4bff-8ef8-18241f25b113
+:ROAM_REFS: https://www.quicklisp.org/ https://www.quicklisp.org/beta/
+:END:
+
+#+begin_quote
+  * Quicklisp beta
+
+  [[https://www.quicklisp.org/][Quicklisp]] is a library manager for Common Lisp.  It works with your existing Common Lisp implementation to download, install, and load any of [[https://www.quicklisp.org/beta/releases.html][over 1,500 libraries]] with a few simple commands.
+
+  Quicklisp is easy to install and works with [[https://common-lisp.net/project/armedbear/][ABCL]], [[http://franz.com/enterprise_development_tools.lhtml][Allegro CL]], [[https://github.com/drmeister/clasp][Clasp]], [[http://ccl.clozure.com/][Clozure CL]], [[http://www.clisp.org/][CLISP]], [[https://cmucl.org/][CMUCL]], [[http://common-lisp.net/project/ecl/][ECL]], [[http://www.lispworks.com/][LispWorks]], [[https://common-lisp.net/project/mkcl/][MKCL]], [[http://www.sbcl.org/][SBCL]], and [[http://www.scieneer.com/][Scieneer CL]], on Linux, Mac OS X, and Windows.  The [[https://www.quicklisp.org/beta/releases.html][libraries]] were last updated on October 12, 2024.
+#+end_quote

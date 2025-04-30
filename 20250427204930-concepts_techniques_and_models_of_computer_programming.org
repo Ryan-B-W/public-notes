@@ -1,0 +1,63 @@
+:PROPERTIES:
+:ID:       c2d9b1d2-004e-447c-aea6-c979572806d7
+:END:
+#+title: Concepts, Techniques, and Models of Computer Programming
+#+filetags: :software_development:programming:books:
+
+* (webperso.info.ucl.ac.be) Concepts, Techniques, and Models of Computer Programming :education_resource:textbooks:books:software_development:programming:computer_science:website:
+:PROPERTIES:
+:ID:       d8258db6-97b3-4459-999c-560fd8830965
+:ROAM_REFS: https://webperso.info.ucl.ac.be/~pvr/book.html
+:END:
+
+#+begin_quote
+  * Concepts, Techniques, and Models of Computer Programming
+
+  /Textbook and Reference Work/
+
+  [[http://mitpress.mit.edu/books/concepts-techniques-and-models-computer-programming][MIT Press]], hardcover, 900pp+xxix, ISBN 0-262-22069-5, March 2004
+
+  by [[http://www.info.ucl.ac.be/~pvr][Peter Van Roy]] and [[http://www.sics.se/~seif][Seif Haridi]]
+
+  /“More is not better (or worse) than less, just different.”/
+  --- The paradigm paradox.
+
+  /“Wonderful book, very insightful, strangely easy to read (haven't figured that out yet), very unusual in many respects.”/
+  --- Doug Merritt.
+
+  /“The overarching achievement of this book is to be so provocative that one wants to engage the authors in debate about almost everything they say.  Partly this is due to the chirpy writing style [...] but mostly it is their delicious iconoclasm.”/
+  --- Peter Gammie, Book Review, Journal of Functional Programming, March 2009.
+#+end_quote
+* (mitpress.mit.edu) Concepts, Techniques, and Models of Computer Programming :website:
+:PROPERTIES:
+:ID:       3b36387b-8de0-43fc-b42e-8febe57cbc09
+:ROAM_REFS: https://mitpress.mit.edu/9780262220699/ https://mitpress.mit.edu/9780262220699/concepts-techniques-and-models-of-computer-programming/
+:END:
+
+#+begin_quote
+  Teaching the science and the technology of programming as a unified discipline that shows the deep relationships between programming paradigms.
+
+  This innovative text presents computer programming as a unified discipline in a way that is both practical and scientifically sound.  The book focuses on techniques of lasting value and explains them precisely in terms of a simple abstract machine.  The book presents all major programming paradigms in a uniform framework that shows their deep relationships and how and where to use them together.  After an introduction to programming concepts, the book presents both well-known and lesser-known computation models ("programming paradigms").  Each model has its own set of techniques and each is included on the basis of its usefulness in practice.  The general models include declarative programming, declarative concurrency, message-passing concurrency, explicit state, object-oriented programming, shared-state concurrency, and relational programming.  Specialized models include graphical user interface programming, distributed programming, and constraint programming.  Each model is based on its kernel language---a simple core language that consists of a small number of programmer-significant elements.  The kernel languages are introduced progressively, adding concepts one by one, thus showing the deep relationships between different models.  The kernel languages are defined precisely in terms of a simple abstract machine.  Because a wide variety of languages and programming paradigms can be modeled by a small set of closely related kernel languages, this approach allows programmer and student to grasp the underlying unity of programming.  The book has many program fragments and exercises, all of which can be run on the Mozart Programming System, an Open Source software package that features an interactive incremental development environment.
+#+end_quote
+* (www.goodreads.com) Concepts, Techniques, and Models of Computer Programming by Peter Van Roy | Goodreads :website:
+:PROPERTIES:
+:ID:       316bde41-c65a-4a05-a88c-c5685f5e4465
+:ROAM_REFS: https://www.goodreads.com/book/show/772585.Concepts_Techniques_and_Models_of_Computer_Programming
+:END:
+
+#+begin_quote
+  This innovative text presents computer programming as a unified discipline in a way that is both practical and scientifically sound.  The book focuses on techniques of lasting value and explains them precisely in terms of a simple abstract machine.  The book presents all major programming paradigms in a uniform framework that shows their deep relationships and how and where to use them together.
+
+  After an introduction to programming concepts, the book presents both well-known and lesser-known computation models ("programming paradigms").  Each model has its own set of techniques and each is included on the basis of its usefulness in practice.  The general models include declarative programming, declarative concurrency, message-passing concurrency, explicit state, object-oriented programming, shared-state concurrency, and relational programming.  Specialized models include graphical user interface programming, distributed programming, and constraint programming.  Each model is based on its kernel language---a simple core language that consists of a small number of programmer- significant elements.  The kernel languages are introduced progressively, adding concepts one by one, thus showing the deep relationships between different models.  The kernel languages are defined precisely in terms of a simple abstract machine.  Because a wide variety of languages and programming paradigms can be modeled by a small set of closely related kernel languages, this approach allows programmer and student to grasp the underlying unity of programming.  The book has many program fragments and exercises, all of which can be run on the Mozart Programming System, an Open Source software package that features an interactive incremental development environment.
+#+end_quote
+* (www.amazon.com) Concepts, Techniques, and Models of Computer Programming: Peter Van Roy, Seif Haridi: 9780262220699: Amazon.com: Books :website:
+:PROPERTIES:
+:ID:       be4130c8-2191-43b1-86e4-3afaab52a621
+:ROAM_REFS: https://www.amazon.com/dp/0262220695
+:END:
+
+#+begin_quote
+  Teaching the science and the technology of programming as a unified discipline that shows the deep relationships between programming paradigms.
+
+  This innovative text presents computer programming as a unified discipline in a way that is both practical and scientifically sound.  The book focuses on techniques of lasting value and explains them precisely in terms of a simple abstract machine.  The book presents all major programming paradigms in a uniform framework that shows their deep relationships and how and where to use them together.  After an introduction to programming concepts, the book presents both well-known and lesser-known computation models ("programming paradigms").  Each model has its own set of techniques and each is included on the basis of its usefulness in practice.  The general models include declarative programming, declarative concurrency, message-passing concurrency, explicit state, object-oriented programming, shared-state concurrency, and relational programming.  Specialized models include graphical user interface programming, distributed programming, and constraint programming.  Each model is based on its kernel language---a simple core language that consists of a small number of programmer-significant elements.  The kernel languages are introduced progressively, adding concepts one by one, thus showing the deep relationships between different models.  The kernel languages are defined precisely in terms of a simple abstract machine.  Because a wide variety of languages and programming paradigms can be modeled by a small set of closely related kernel languages, this approach allows programmer and student to grasp the underlying unity of programming.  The book has many program fragments and exercises, all of which can be run on the Mozart Programming System, an Open Source software package that features an interactive incremental development environment.
+#+end_quote

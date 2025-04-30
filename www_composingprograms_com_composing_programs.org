@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       0a5f3d1d-8e20-4616-8cdd-90f817b959a7
+:ROAM_REFS: https://www.composingprograms.com/
+:END:
+#+title: (www.composingprograms.com) Composing Programs
+#+filetags: :python_lang:programming:software_development:computer_science:books:website:
+
+#+begin_quote
+  Welcome to [[http://www.composingprograms.com/][Composing Programs]], a free online introduction to programming and computer science.
+
+  In the tradition of [[http://mitpress.mit.edu/sicp/][SICP]], this text focuses on methods for abstraction, programming paradigms, and techniques for managing the complexity of large programs.  These concepts are illustrated primarily using the [[http://www.python.org/][Python 3]] programming language.
+
+  In addition to reading the chapters below, you can apply your knowledge to the [[https://www.composingprograms.com/projects.html][programming projects]] that accompany the text and visualize program execution using the [[https://www.composingprograms.com/tutor.html][Online Python Tutor]].
+
+  *Instructors*: If you are interested in adapting any of these materials for your courses, please [[https://docs.google.com/forms/d/1lcDf-_y9t1oSDH_-HFz3UhUFouAX1518XeCMnlRISss/viewform][fill out this short survey]] so that we can support your efforts.
+#+end_quote

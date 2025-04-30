@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       dbb51b6f-3fb9-4f25-b1aa-76909e5a30f6
+:ROAM_REFS: https://en.wikipedia.org/wiki/Stalin_(Scheme_implementation)
+:END:
+#+title: (en.wikipedia.org) Stalin (Scheme implementation) - Wikipedia
+#+filetags: :scheme:lisp:programming_language:website:
+
+#+begin_quote
+  In computing, *Stalin* (*STAtic Language ImplementatioN*) is a [[https://en.wikipedia.org/wiki/Programming_language][programming language]], an aggressive [[https://en.wikipedia.org/wiki/Optimizing_compiler][optimizing]] batch [[https://en.wikipedia.org/wiki/Interprocedural_optimization][whole-program]] [[https://en.wikipedia.org/wiki/Scheme_(programming_language)][Scheme]] [[https://en.wikipedia.org/wiki/Compiler][compiler]] written by Jeffrey Mark Siskind.  It uses advanced data [[https://en.wikipedia.org/wiki/Data-flow_analysis][flow analysis]] and [[https://en.wikipedia.org/wiki/Type_inference][type inference]] and a variety of other optimization methods to produce code.  Stalin is intended for production use in generating an optimized [[https://en.wikipedia.org/wiki/Executable][executable]].
+
+  The compiler runs slowly, with little or no support for [[https://en.wikipedia.org/wiki/Debugging][debugging]] or other niceties.  Full [[https://en.wikipedia.org/wiki/R4RS][R4RS]] Scheme is supported, with a few minor and rarely encountered omissions.  Interfacing to external C libraries is straightforward.  The compiler does [[https://en.wikipedia.org/wiki/Object_lifetime][lifetime]] analysis and hence does not generate as much [[https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)][garbage]] as might be expected, but global reclamation of storage is done using the [[https://en.wikipedia.org/wiki/Boehm_garbage_collector][Boehm garbage collector]].
+
+  The name is a joke: "[[https://en.wikipedia.org/wiki/Joseph_Stalin][Stalin]] brutally optimizes."
+
+  Stalin is [[https://en.wikipedia.org/wiki/Free_and_open-source_software][free and open-source software]], licensed under a [[https://en.wikipedia.org/wiki/GNU_General_Public_License][GNU General Public License]] (GPL), and is available online.
+#+end_quote

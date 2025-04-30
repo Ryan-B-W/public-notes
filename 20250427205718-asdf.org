@@ -1,0 +1,68 @@
+:PROPERTIES:
+:ID:       788ac70b-c61b-414b-88ed-5be4177fc565
+:ROAM_ALIASES: "Another System Definition Facility"
+:END:
+#+title: ASDF
+#+filetags: :package_management:common_lisp:lisp:software:
+
+System definition facility for [[id:b5fb5c4b-d10f-4bca-91e1-a5e946ef0c83][Common Lisp]].  Used for communicating software package metadata and configuring build systems.
+* (asdf.common-lisp.dev) ASDF - Another System Definition Facility  :website:
+:PROPERTIES:
+:ID:       f3a3d66d-8645-40ab-9702-c5b716f4a9cf
+:ROAM_REFS: https://asdf.common-lisp.dev/
+:END:
+
+#+begin_quote
+  *** ASDF 3
+
+  ASDF is the /de facto/ standard build facility for Common Lisp.  Your Lisp implementation probably contains a copy of ASDF, which you can load using (require "asdf").
+
+  ASDF 3 is the current successor to Daniel Barlow's ASDF (created on August 1st 2001) and François-René Rideau's ASDF 2 (released May 31st 2010).  It was rewritten for improved portability, robustness, usability, extensibility, configurability, internal consistency, and the ability to deliver standalone executables, all while maintaining substantial backward compatibility.  Its notable versions include pre-release 2.27 on February 1st 2013, first stable release 3.0.1 on May 16th 2013, major releases 3.1.2 on May 6th 2014, 3.2.0 on January 10th 2017 and 3.3.0 on October 6th 2017.  Release 3.3.6 was published in August 2022.  The latest release is 3.3.7, published in January 2024.
+
+  *** What it is
+
+  ASDF is what Common Lisp hackers use to build and load software.  It is the successor of the Lisp =DEFSYSTEM= of yore.  ASDF stands for /A/nother /S/ystem /D/efinition /F/acility.
+
+  ASDF 3 contains two parts: =asdf/defsystem= and =uiop=.
+
+  - =asdf/defsystem= :: is a tool to describe how Lisp source code is organized in systems, and how to build and load these systems.  The build happens based on a plan in term of actions that depend on previous actions; the plan is computed from the structure of the systems.
+
+    Typical actions consist in compiling a Lisp source file (unless already up to date) and loading the resulting compilation output (unless both already loaded and up to date).  And you must typically compile and load files that define packages, macros, variables, before you may compile and load other files that use them.
+
+    If you come from the C/C++ world, ASDF covers a bit of what each of =make=, =autoconf=, =dlopen= and =libc= do for C programs: it orchestrates the compilation and dependency management, handles some of the portability issues, dynamically finds and loads code, and offers some portable system access library (see =uiop= below for the latter).  Except everything is different in Common Lisp, and ultimately much simpler overall, though it does require acquiring some basic concepts that do not exactly match those of the C and Unix world.  Importantly, ASDF builds all software in the current Lisp image, as opposed to building software into separate processes.
+
+    =asdf/defsystem= is the part that people usually refer to as =ASDF=, with =uiop= being only a supporting library, that happens to be distributed at the same time, by necessity.
+
+  - =uiop= :: the /U/tilities for /I/mplementation- and /O/S- /P/ortability, formerly known as =asdf/driver=, is a Common Lisp portability library and runtime support system that helps you write Common Lisp software in a portable way.
+
+    In addition to many general-purpose Lisp utilities, it notably provides portable abstractions to gloss over implementation quirks, support hot-upgrade of code, manipulate pathnames, create programs, use command-line arguments, access the environment, use the filesystem, call other programs and parse their output, compile Lisp code, muffle conditions, or configure Lisp software.  See its [[https://gitlab.common-lisp.net/asdf/asdf/blob/master/uiop/README.md][README.md]] for an overview, and the documentation as extracted from its docstrings by [[https://quickref.common-lisp.net/uiop.html][Declt]] or [[http://bimib.disco.unimib.it/people/Marco.Antoniotti/Projects/CL/HELAMBDAP/tests/asdf-uiop/docs/html/dictionary/dictionary.html][HEΛP]] (NB: in HEΛP, you can, though it's not obvious, scroll the list of packages with a scrollbar on the right of the top-left pane, and then click on the package you're interested in to browse its symbols).
+
+    =uiop= is distributed as part of =ASDF=: its source code is /transcluded/ in the single-file =asdf.lisp= being distributed and the precompiled fasls provided by Lisp implementations.  =ASDF= relies heavily on it for its portability layer and runtime support, particularly so as to handle pathnames and filesystem access.  =uiop= is useful on its own and can also be compiled and distributed separately.
+
+  *** What it is not
+
+  ASDF will /not/ download missing software components for you.  For that, you want [[http://quicklisp.org/][=Quicklisp=]], that builds upon ASDF, and is great for pulling and installing tarballs of packages you may depend upon.  We also recommend [[https://common-lisp.net/project/clbuild/][=clbuild=]], that now builds upon Quicklisp, as a great tool for pulling from version control packages you need to modify or want to contribute to.  We recommend you should /not/ use =asdf-install= anymore, as it is an older similar piece of software that is both unmaintained and obsolete.
+
+  ASDF is also not a tool to build or run Common Lisp software from the Unix command-line.  For that, you want [[http://cliki.net/cl-launch][cl-launch]], [[http://www.xach.com/lisp/buildapp/][buildapp]], or [[https://github.com/roswell/roswell][roswell]].
+
+  If you're unsatisfied with ASDF, beside helping with our [[https://gitlab.common-lisp.net/asdf/asdf/blob/master/TODO][TODO list]], you might be interested in other build systems for Common-Lisp:
+
+  - Google's deterministic and scalable build system [[https://bazel.build/][Bazel]], for which Lisp support is available: [[https://github.com/qitab/bazelisp][=bazelisp=]].
+  - François-René Rideau's [[https://common-lisp.net/project/xcvb/][=XCVB=]] (building object and image files deterministically and in parallel, but not actively maintained and bitrotten since 2012; a hypothetical ASDF 4 could conceivably be evolved to support these features thanks to the groundwork laid by ASDF 3; or you could use Bazel).
+  - Drew McDermott's [[http://cs-www.cs.yale.edu/homes/dvm/][=YTools=]] (the polar opposite of XCVB, trying to maintain coherence of the current Lisp image at a fine grain).  Sadly, Drew has recently passed away.
+
+  There are probably more.  However, none of these systems seems to ever have had the traction of ASDF, probably because none was technically superior and/or portable enough (if at all) to compensate for the first mover advantage.
+#+end_quote
+** (asdf.common-lisp.dev) ASDF Manual
+:PROPERTIES:
+:ID:       253050de-1100-4f55-a076-3debd2f1a8b0
+:ROAM_REFS: https://asdf.common-lisp.dev/asdf.html https://www.sbcl.org/manual/asdf.html
+:END:
+
+#+begin_quote
+  * ASDF: Another System Definition Facility
+
+  Manual for Version 3.3.7
+
+  This manual describes ASDF, a system definition facility for Common Lisp programs and libraries.
+#+end_quote

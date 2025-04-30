@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       34e4ecb5-ef41-42cf-af05-2c7231998105
+:ROAM_REFS: https://cs61a.org/
+:END:
+#+title: (cs61a.org) CS 61A Spring 2025
+#+filetags: :python_lang:software_development:programming:computer_science:college_classes:education_resource:website:
+
+#+begin_quote
+  CS 61A: Structure and Interpretation of Computer Programs
+#+end_quote

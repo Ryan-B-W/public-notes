@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       80bcfb5e-7cf0-43d9-9282-daeda9103112
+:ROAM_REFS: https://www.cliki.net/
+:END:
+#+title: (www.cliki.net) CLiki: the common lisp wiki
+#+filetags: :common_lisp:lisp:website:
+
+The community wiki for [[id:b5fb5c4b-d10f-4bca-91e1-a5e946ef0c83][Common Lisp]].
+
+#+begin_quote
+  ** Welcome to CLiki
+
+  CLiki is a [[https://www.cliki.net/Common%20Lisp][Common Lisp]] wiki hosted by [[http://cl-foundation.org/][The Common Lisp Foundation]].  CLiki contains resources for learning about and using the programming language [[https://www.cliki.net/Common%20Lisp][Common Lisp]], and information about [[https://www.cliki.net/DFSG][DFSG]]-compliant *free software* implemented in Common Lisp.
+#+end_quote
+* (www.cliki.net) CLiki: Current recommended libraries
+:PROPERTIES:
+:ID:       85990d99-ed08-4b06-b981-9d9d3c10f4cb
+:ROAM_REFS: "https://www.cliki.net/Current recommended libraries"
+:END:
+
+#+begin_quote
+  Current recommended libraries
+
+  Cliki contributors (that's you!) believe that the libraries on this page are considered "good enough for government use", and serve as a starting point when looking for a [[https://www.cliki.net/library][library]] covering a given field.
+
+  If you feel that a certain library should be written then please add it to [[https://www.cliki.net/Suggested%20Programming%20Projects][Suggested Programming Projects]] or write it yourself.
+
+  A clean and up-to-date, yet rather subjective listing of recommended libraries can be found [[http://borretti.me/article/common-lisp-sotu-2015][here (2015)]], it saw an update [[https://lisp-journey.gitlab.io/blog/state-of-the-common-lisp-ecosystem-2020/][there (2020)]], and another list is maintained on Github on [[https://github.com/CodyReichert/awesome-cl][awesome-cl]].  To search for libraries across Quicklisp, Cliki, GitHub and BitBucket, there exists the [[https://github.com/lisp-maintainers/quicksearch][Quicksearch]] library.
+#+end_quote

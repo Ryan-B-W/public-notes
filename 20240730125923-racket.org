@@ -10,7 +10,37 @@ A relatively popular [[id:6246f8d4-6cd4-489d-b19f-9c1142b51b60][Scheme]] impleme
 :ID:       82dac0a3-1609-43d4-ae80-1433e32ddfbb
 :ROAM_REFS: https://www.racket-lang.org/
 :END:
-** (docs.racket-lang.org) SICP Collections                    :documentation:
+** (docs.racket-lang.org) Racket Documentation        :documentation:website:
+:PROPERTIES:
+:ID:       e87879af-54bd-48fa-a547-82bf55397b23
+:ROAM_REFS: https://docs.racket-lang.org/
+:END:
+*** (docs.racket-lang.org) raco: Racket Command-Line Tools
+:PROPERTIES:
+:ID:       28293466-114e-4c1a-95ae-47b6f6b121ca
+:ROAM_REFS: https://docs.racket-lang.org/raco/
+:END:
+
+#+begin_quote
+  ** raco: Racket Command-Line Tools
+
+  The raco program supports various Racket tasks from a command line.  The first argument to raco is always a specific command name.  For example, raco make starts a command to compile a Racket source module to bytecode format.
+
+  The set of commands available through raco is extensible.  Use raco help to get a complete list of available commands for your installation.  This manual covers the commands that are available in a typical Racket installation.
+#+end_quote
+*** (docs.racket-lang.org) Datalog: Deductive Database Programming    :logic:
+:PROPERTIES:
+:ID:       a72419f7-8591-46a0-8376-0ff91621c982
+:ROAM_REFS: https://docs.racket-lang.org/datalog/
+:END:
+
+#+begin_quote
+  Datalog is
+  - a declarative logic language in which each formula is a function-free Horn clause, and every variable in the head of a clause must appear in the body of the clause.
+  - a lightweight deductive database system where queries and database updates are expressed in the logic language.
+  The use of Datalog syntax and an implementation based on tabling intermediate results ensures that all queries terminate.
+#+end_quote
+*** (docs.racket-lang.org) SICP Collections
 :PROPERTIES:
 :ID:       6525fb29-4aa1-4c0a-8fd2-d5024a3ae869
 :ROAM_REFS: https://docs.racket-lang.org/sicp-manual/index.html
@@ -24,4 +54,72 @@ A relatively popular [[id:6246f8d4-6cd4-489d-b19f-9c1142b51b60][Scheme]] impleme
   The sicp collection contains a #lang sicp language ideal for studying the book "Structure and Interpretation of Computer Programs" by Gerald Jay Sussman and Hal Abelson.  The book is usually referred to simply as SICP.
 
   The second sicp-pict collection contains the picture language used in SICP.
+#+end_quote
+*** (docs.racket-lang.org) The Racket Reference
+:PROPERTIES:
+:ID:       cb16b2b8-6584-4598-a60c-69b061b05fd5
+:ROAM_REFS: https://docs.racket-lang.org/reference/
+:END:
+
+#+begin_quote
+  ** The Racket Reference
+
+  Matthew Flatt\\
+  and PLT
+
+  This manual defines the core Racket language and describes its most prominent libraries.  The companion manual [[https://docs.racket-lang.org/guide/index.html][The Racket Guide]] provides a friendlier (though less precise and less complete) overview of the language.
+
+  : The source of this manual is available on [[https://github.com/racket/racket/tree/master/pkgs/racket-doc/scribblings/reference][GitHub]].
+
+  [[https://docs.racket-lang.org/guide/Module_Syntax.html#(part._hash-lang)][#lang]] [[https://docs.racket-lang.org/reference/][racket/base]]
+  [[https://docs.racket-lang.org/guide/Module_Syntax.html#(part._hash-lang)][#lang]] [[https://docs.racket-lang.org/reference/][racket]]
+
+  Unless otherwise noted, the bindings defined in this manual are exported by the [[https://docs.racket-lang.org/reference/][racket/base]] and [[https://docs.racket-lang.org/reference/][racket]] languages.
+#+end_quote
+**** (docs.racket-lang.org) 3.2 Importing and Exporting: require and provide
+:PROPERTIES:
+:ID:       42f087c7-9684-4555-ab4b-a83b78add348
+:ROAM_REFS: https://docs.racket-lang.org/reference/require.html
+:END:
+**** (docs.racket-lang.org) 6.2 Module Syntax
+:PROPERTIES:
+:ID:       f142ecf1-0f7e-4740-80b3-b81c7a8e2519
+:ROAM_REFS: https://docs.racket-lang.org/guide/Module_Syntax.html
+:END:
+
+#+begin_quote
+  **** Module Syntax
+
+  The =#lang= at the start of a module file begins a shorthand for a [[https://docs.racket-lang.org/reference/module.html#(form._((quote._~23~25kernel)._module))][module]] form, much like ='= is a shorthand for a [[https://docs.racket-lang.org/reference/quote.html#(form._((quote._~23~25kernel)._quote))][quote]] form.  Unlike ='=, the =#lang= shorthand does not work well in a [[https://docs.racket-lang.org/guide/intro.html#(tech._repl)][REPL]], in part because it must be terminated by an end-of-file, but also because the longhand expansion of =#lang= depends on the name of the enclosing file.
+#+end_quote
+***** (docs.racket-lang.org) 6.2.2 The #lang Shorthand              :website:
+:PROPERTIES:
+:ID:       63ba64c5-856d-4c77-b81c-6e6ca020b94c
+:ROAM_REFS: https://docs.racket-lang.org/guide/Module_Syntax.html#(part._hash-lang)
+:END:
+
+#+begin_quote
+  ***** The #lang Shorthand
+
+  The body of a =#lang= shorthand has no specific syntax, because the syntax is determined by the language name that follows =#lang=.
+
+  In the case of =#lang racket=, the syntax is
+
+  #+begin_example
+    [[https://docs.racket-lang.org/guide/Module_Syntax.html#(part._hash-lang)][#lang]] [[https://docs.racket-lang.org/reference/index.html][racket]]
+    decl [[https://docs.racket-lang.org/reference/stx-patterns.html#(form._((lib._racket/private/stxcase-scheme..rkt)._......))][...]]
+  #+end_example
+
+  which [[https://docs.racket-lang.org/guide/hash-lang_reader.html][reads]] the same as
+
+  #+begin_src scheme
+    (module name racket
+        decl ...)
+  #+end_src
+
+  where name is derived from the name of the file that contains the =#lang= form.
+
+  The =#lang racket/base= form has the same syntax as =#lang racket=, except that the longhand expansion uses =racket/base= instead of =racket=.  The =#lang scribble/manual= form, in contrast, has a completely different syntax that doesn't even look like Racket, and which we do not attempt to describe in this guide.
+
+  Unless otherwise specified, a module that is documented as a “language” using the =#lang= notation will expand to =module= in the same way as =#lang racket=.  The documented language name can be used directly with =module= or =require=, too.
 #+end_quote

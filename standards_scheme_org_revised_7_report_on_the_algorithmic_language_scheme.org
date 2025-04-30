@@ -1,0 +1,74 @@
+:PROPERTIES:
+:ID:       365d67f9-3ccc-46f6-bde6-044c5ae35edb
+:ROAM_REFS: https://standards.scheme.org/corrected-r7rs/r7rs-Z-H-8.html https://standards.scheme.org/corrected-r7rs/r7rs.html
+:END:
+#+title: (standards.scheme.org) Revised^7 Report on the Algorithmic Language Scheme
+#+filetags: :scheme:lisp:documentation:specification:standards:website:
+
+#+begin_quote
+  * *Revised^{7} Report on the Algorithmic Language Scheme*
+
+  ALEX SHINN, JOHN COWAN, AND ARTHUR A. GLECKLER (/Editors/)
+
+  STEVEN GANZ, ALEXEY RADUL, OLIN SHIVERS,
+  AARON W. HSU, JEFFREY T. READ, ALARIC SNELL-PYM,
+  BRADLEY LUCIER, DAVID RUSH, GERALD J. SUSSMAN
+  EMMANUEL MEDERNACH, BENJAMIN L. RUSSEL
+
+  RICHARD KELSEY, WILLIAM CLINGER, AND JONATHAN REES\\
+  /(Editors, Revised^{5} Report on the Algorithmic Language Scheme)/
+
+  MICHAEL SPERBER, R. KENT DYBVIG, MATTHEW FLATT, AND ANTON VAN STRAATEN\\
+  /(Editors, Revised^{6} Report on the Algorithmic Language Scheme)/
+                                                                                                                                                        |
+  /Dedicated to the memory of John McCarthy and Daniel Weinreb/
+
+  *December 19, 2022*
+
+  ** Summary
+
+  The report gives a defining description of the programming language Scheme.  Scheme is a statically scoped and properly tail recursive dialect of the Lisp programming language [[[https://standards.scheme.org/corrected-r7rs/r7rs-Z-H-15.html#TAG:__tex2page_bib_23][23]]] invented by Guy Lewis Steele Jr.​ ​and Gerald Jay Sussman.  It was designed to have exceptionally clear and simple semantics and few different ways to form expressions.  A wide variety of programming paradigms, including imperative, functional, and object-oriented styles, find convenient expression in Scheme.
+
+  The introduction offers a brief history of the language and of the report.
+
+  The first three chapters present the fundamental ideas of the language and describe the notational conventions used for describing the language and for writing programs in the language.
+
+  Chapters [[https://standards.scheme.org/corrected-r7rs/r7rs-Z-H-6.html#TAG:__tex2page_chap_4][4]] and [[https://standards.scheme.org/corrected-r7rs/r7rs-Z-H-7.html#TAG:__tex2page_chap_5][5]] describe the syntax and semantics of expressions, definitions, programs, and libraries.
+
+  Chapter [[https://standards.scheme.org/corrected-r7rs/r7rs-Z-H-8.html#TAG:__tex2page_chap_6][6]] describes Scheme's built-in procedures, which include all of the language's data manipulation and input/output primitives.
+
+  Chapter [[https://standards.scheme.org/corrected-r7rs/r7rs-Z-H-9.html#TAG:__tex2page_chap_7][7]] provides a formal syntax for Scheme written in extended BNF, along with a formal denotational semantics.  An example of the use of the language follows the formal syntax and semantics.
+
+  Appendix [[https://standards.scheme.org/corrected-r7rs/r7rs-Z-H-10.html#TAG:__tex2page_chap_A][A]] provides a list of the standard libraries and the identifiers that they export.
+
+  Appendix [[https://standards.scheme.org/corrected-r7rs/r7rs-Z-H-11.html#TAG:__tex2page_chap_B][B]] provides a list of optional but standardized implementation feature names.
+
+  The report concludes with a list of references and an alphabetic index.
+
+  : /Note: /The editors of the R^{5}RS​ ​and R^{6}RS​ ​reports are listed as authors of this report in recognition of the substantial portions of this report that are copied directly from R^{5}RS​ ​and R^{6}RS.  There is no intended implication that those editors, individually or collectively, support or do not support this report.
+#+end_quote
+* R^7RS Chapter 6
+:PROPERTIES:
+:ID:       6422cc26-5b5b-46c1-b7ed-5b313bf1ef23
+:ROAM_REFS: https://standards.scheme.org/corrected-r7rs/r7rs-Z-H-8.html
+:END:
+
+#+begin_quote
+  * Chapter 6
+  Standard procedures
+
+  This chapter describes Scheme's built-in procedures.  The procedures force, promise?, and make-promise are intimately associated with the expression types delay and delay-force, and are described with them in section [[https://standards.scheme.org/corrected-r7rs/r7rs-Z-H-6.html#TAG:__tex2page_sec_4.2.5][4.2.5]].  In the same way, the procedure make-parameter is intimately associated with the expression type parameterize, and is described with it in section [[https://standards.scheme.org/corrected-r7rs/r7rs-Z-H-6.html#TAG:__tex2page_sec_4.2.6][4.2.6]].
+
+  A program can use a global variable definition to bind any variable.  It may subsequently alter any such binding by an assignment (see section [[https://standards.scheme.org/corrected-r7rs/r7rs-Z-H-6.html#TAG:__tex2page_sec_4.1.6][4.1.6]]).  These operations do not modify the behavior of any procedure defined in this report or imported from a library (see section [[https://standards.scheme.org/corrected-r7rs/r7rs-Z-H-7.html#TAG:__tex2page_sec_5.6][5.6]]).  Altering any global binding that has not been introduced by a definition has an unspecified effect on the behavior of the procedures defined in this chapter.
+
+  When a procedure is said to return a /newly allocated/ object, it means that the locations in the object are fresh.
+#+end_quote
+** R^7RS Chapter 6 Section 4: Pairs and Lists
+:PROPERTIES:
+:ID:       ac3dda9e-bf08-4cab-9390-bd0cad22a907
+:ROAM_REFS: https://standards.scheme.org/corrected-r7rs/r7rs-Z-H-8.html#TAG:__tex2page_sec_6.4
+:END:
+
+#+begin_quote
+  A /pair/ (sometimes called a dotted pair) is a record structure with two fields called the car and cdr fields (for historical reasons).  Pairs are created by the procedure =cons=.  The car and cdr fields are accessed by the procedures =car= and =cdr=.  The car and cdr fields are assigned by the procedures =set-car!=​ ​and =set-cdr!=.
+#+end_quote

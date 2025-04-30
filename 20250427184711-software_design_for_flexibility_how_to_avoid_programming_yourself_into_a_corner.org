@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       de46d019-dd0c-46a9-aac8-575c01946098
+:END:
+#+title: Software Design for Flexibility: How to Avoid Programming Yourself into a Corner
+#+filetags: :software_development:programming:books:
+
+Book by Gerald Jay Sussman and Chris Hanson on designing modular, maintainable software.
+* (www.amazon.com) Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books :website:
+:PROPERTIES:
+:ID:       3669c4a1-f001-4999-8a64-9564833f2a16
+:ROAM_REFS: https://www.amazon.com/dp/0262045494
+:END:
+
+#+begin_quote
+  Strategies for building large systems that can be easily adapted for new situations with only minor programming modifications.
+
+  Time pressures encourage programmers to write code that works well for a narrow purpose, with no room to grow.  But the best systems are evolvable; they can be adapted for new situations by adding code, rather than changing the existing code.  The authors describe techniques they have found effective--over their combined 100-plus years of programming experience--that will help programmers avoid programming themselves into corners.
+
+  The authors explore ways to enhance flexibility by:
+
+  - Organizing systems using combinators to compose mix-and-match parts, ranging from small functions to whole arithmetics, with standardized interfaces
+  -  Augmenting data with independent annotation layers, such as units of measurement or provenance
+  -  Combining independent pieces of partial information using unification or propagation
+  -  Separating control structure from problem domain with domain models, rule systems and pattern matching, propagation, and dependency-directed backtracking
+  -  Extending the programming language, using dynamically extensible evaluators
+#+end_quote
+* (www.goodreads.com) Software Design for Flexibility: How to Avoid Programming Yourself into a Corner by Chris Hanson | Goodreads :website:
+:PROPERTIES:
+:ID:       1981bb97-74a8-4f19-b814-0d985698881e
+:ROAM_REFS: https://www.goodreads.com/book/show/53730364-software-design-for-flexibility
+:END:
+
+#+begin_quote
+  Strategies for building large systems that can be easily adapted for new situations with only minor programming modifications.
+
+  Time pressures encourage programmers to write code that works well for a narrow purpose, with no room to grow.  But the best systems are evolvable; they can be adapted for new situations by adding code, rather than changing the existing code.  The authors describe techniques they have found effective--over their combined 100-plus years of programming experience--that will help programmers avoid programming themselves into corners.
+
+  The authors explore ways to enhance flexibility
+#+end_quote

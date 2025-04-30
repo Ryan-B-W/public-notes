@@ -1,0 +1,96 @@
+:PROPERTIES:
+:ID:       8f73a589-db3d-4bff-84b4-19ce6510dae8
+:ROAM_REFS: https://www.brinckerhoff.org/clements/2254-csc430/index.html
+:END:
+#+title: (www.brinckerhoff.org) CSC 430, Spring 2025
+#+filetags: :python_lang:software_development:programming:computer_science:college_classes:education_resource:website:
+
+#+begin_quote
+  ** CSC 430, Spring 2025
+
+  [[https://www.brinckerhoff.org/clements/2254-csc430/schedule.html][Schedule/Homeworks]]
+
+  [[https://handin-1.brinckerhoff.org/servlets/standalone.rkt][lab number submission servlet]]
+
+  [[https://www.brinckerhoff.org/clements/2254-csc430/Assignments/tr-notes.html][Hints on Using Typed Racket in CSC 430]]
+
+  [[https://www.brinckerhoff.org/clements/2254-csc430/CodeFromClass/helpful-tidbits.html][Helpful Tidbits]]
+
+  [[https://www.brinckerhoff.org/clements/2254-csc430/Files/map-examples.html][Using Map]]
+
+  [[http://cs.brown.edu/courses/cs173/2012/book/][Textbook]]
+
+  [[https://www.brinckerhoff.org/clements/2254-csc430/CodeFromClass/PLAI-TR-translation.rkt][PLAI TR Translation]]
+
+  [[https://www.brinckerhoff.org/clements/2254-csc430/common-assignment-errors.html][Common Assignment Errors]]
+
+  [[https://www.brinckerhoff.org/clements/2254-csc430/Files/debugging-in-racket.html][Debugging in Racket]]
+
+  *** Welcome!
+
+  Here we are at the almost-nearly-end of another year, gee whiz.  Spring!  Only one more quarter!  You've got this!
+
+  As always, our highest-level goal is to make the world a better place, and to make you happier, healthier, and better able to make the world a better place yourselves.
+
+  So, what exactly does that have to do with programming languages?  Well, the tools and ideas of programming languages *can* be deep ones that affect the way you work and think for the rest of your life.  Or, at a much lower level, maybe we can help you write programs a bit more carefully and correctly.  It's up to you!
+
+  *** About the Course
+
+  Programming languages determine what programs we can write.  Languages with nice abstractions allow us to write elegant, concise, and readable programs.
+
+  In this class, we'll start from scratch, and build a programming language by adding only what's necessary.  What we'll discover is that this simplistic approach leads to some really powerful abstractions.  You can do more with less!
+
+  At the end of the course, you should be a better programmer.  You should also have a clearer picture of a given language as a choice in a larger design space, and be better able to understand new programming languages and the similarities between them.  Finally, you may develop some taste for what you like in a programming language.
+
+  This course will involve lots of programming in Racket.  I choose Racket for several reasons.  First, “functional” programming languages make this kind of course feasible.  Writing a series of interpreters in another language would probably involve a whole lot more code.  Second, Racket is a wonderful, beautiful language that is probably pretty dramatically different from other languages that you've used.  (You can tell I'm totally not biased at all.)  Finally, as one of the developers of Racket, running this course in Racket creates a positive feedback loop; your experiences can help to improve the language, especially since Racket is a language that can easily be extended and updated.  If these reasons don't make sense to you, then... perhaps you need to take the course!
+
+  *** Learning Outcomes
+
+  Here are the course outcomes that I'm striving for:
+
+  - You can write programs in a largely functional language (i.e. ML, Racket).
+
+  - You can identify expressions and other syntactic elements of a language that you know or are learning.
+
+  - You can perform simple parsing by hand, transforming textual strings into abstract syntax trees.
+
+  - You can apply standard reduction rules for the following language forms to compute the results of programs, including these forms:
+    - arithmetic & other primitive function applications
+
+    - function calls / variable references
+
+    - mutation forms
+
+  - You can write programs to produce these same results (a.k.a. interpreters), up to families of similar reduction rules.
+
+  - You understand the relationship between substitution and environments, and can model a computation's progress using either model.
+
+  - You understand the notion of scope induced by these rules, and can identify and reason about the bindings and bound variables in arbitrary programs.
+
+  - You have a limited ability to read and understand programs written in store-passing style.
+
+  - You have a limited ability to transform code using mutation into purely functional code, using store-passing style
+
+  - You can apply the rules of a type-checker (given as Gentzen-style natural deduction rules) to determine whether a program satisfies a type system.
+
+  - You can explain why these systems work the way they do, and have a limited ability to consider variations of these systems and how such variant systems would behave.
+
+  **** Bonus Topics
+
+  We usually get to one of these:
+
+  - parsing,
+
+  - macros, or
+
+  - somewhat more advanced type systems, or
+
+  - continuation-passing-style, specifically:
+    - You have a limited ability to read and understand programs written in continuation-passing style.
+
+    - You have a limited ability to transform code written in a direct style into continuation-passing style.
+
+  *** Prerequisites
+
+  In order to take this course you must be able to design and implement small programs (~ 1 KLOC) efficiently.  You must have a basic understanding of mathematics and data structures.  You should be able to reduce arithmetic expressions by hand, in a small-step style (that is, one step at a time).  You should be able to identify statements and expressions in a programming language such as Python.  Actually, scratch the "such as"; in order to present examples in class, we are planning to use Python as the language that we assume that you already know.  If you can't read Python code, please let us know and we will try to accommodate your skillset by providing resources to get you up to speed in Python.
+#+end_quote

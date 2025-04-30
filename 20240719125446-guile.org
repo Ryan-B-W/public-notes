@@ -18,12 +18,12 @@ An implementation of [[id:6246f8d4-6cd4-489d-b19f-9c1142b51b60][Scheme]] for the
 
   With Guile you can create applications and games for the [[https://www.gnu.org/software/guile/#apps-using-guile][desktop]], the [[https://www.gnu.org/software/guile/#apps-using-guile][Web]], the [[https://www.gnu.org/software/guile/#apps-using-guile][command-line]], and more.
 #+end_quote
-** (www.gnu.org) Top (Guile Reference Manual)
+** (www.gnu.org) Top (Guile Reference Manual)                 :documentation:
 :PROPERTIES:
 :ID:       f6311b42-cf2d-490f-ac69-0075b82828b9
 :ROAM_REFS: https://www.gnu.org/software/guile/manual/html_node/index.html
 :END:
-** Tutorial Introduction to Guile
+** Tutorial Introduction to Guile                                  :tutorial:
 :PROPERTIES:
 :ID:       31aba63a-771f-4219-8d60-29b9ffbd69bd
 :ROAM_REFS: https://www.gnu.org/software/guile/docs/guile-tut/tutorial.html
@@ -38,6 +38,17 @@ An implementation of [[id:6246f8d4-6cd4-489d-b19f-9c1142b51b60][Scheme]] for the
   * Learn
 
   Use the documentation listed here to get you started using Guile.  If you get stuck and need some help to figure something out, don't be afraid to ask the Guile community that hangs out at the [[https://kiwiirc.com/nextclient/irc.libera.chat/?nick=guile-guest#guile][#guile]] channel on the Libera IRC network, or subscribe to the [[https://lists.gnu.org/mailman/listinfo/guile-user/][guile-users]] mailing list.  Also, don't forget to exercise your [[http://www.gnu.org/philosophy/free-sw.en.html][freedom]] to study the source code of the [[https://www.gnu.org/software/guile/libraries/][software written with Guile]]; that's another great way to learn!
+#+end_quote
+** (www.gnu.org) Libraries — GNU Guile                                :lists:
+:PROPERTIES:
+:ID:       d1a2bb89-46b8-4f4c-8f33-52dab8d18f09
+:ROAM_REFS: https://www.gnu.org/software/guile/libraries/
+:END:
+
+#+begin_quote
+  * Libraries
+
+  This page lists free software projects that use or enhance the current stable version of Guile.  It is generated from the package collection of [[https://guix.gnu.org/][GNU Guix]].  If you want to add packages to this list, consider [[https://guix.gnu.org/manual/en/html_node/Contributing.html][contributing them to Guix]]!
 #+end_quote
 * [[info:guile][Guile Info Manual]]
 * Hello World - Guile Hacker Handbook                               :website:

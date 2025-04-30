@@ -1,0 +1,54 @@
+:PROPERTIES:
+:ID:       8b00820c-80c2-4157-91e2-cff285932d49
+:ROAM_REFS: https://www.cs.cmu.edu/Groups/AI/util/html/cltl/clm/clm.html
+:END:
+#+title: (www.cs.cmu.edu) Common Lisp the Language, Second Edition
+#+filetags: :common_lisp:lisp:documentation:books:website:
+
+#+begin_quote
+  * Common Lisp the Language, 2nd Edition
+
+  by Guy L. Steele Jr.
+
+  /with contributions by/
+  Scott E. Fahlman, Richard P. Gabriel, David A. Moon, and Daniel L. Weinreb
+
+  /and with contributions to the second edition by/
+  Daniel G. Bobrow, Linda G. DeMichiel, Richard P. Gabriel, Sonya E. Keene, Gregor Kiczales, David A. Moon, Crispin Perdue, Kent M. Pitman, Richard C. Waters, and Jon L White.
+#+end_quote
+* (www.cs.cmu.edu) 10.1. The Property List
+:PROPERTIES:
+:ID:       b9d5b964-d6c1-42e8-bed4-aa25935407c1
+:ROAM_REFS: https://www.cs.cmu.edu/Groups/AI/util/html/cltl/clm/node108.html
+:END:
+
+#+begin_quote
+  * [[https://www.cs.cmu.edu/Groups/AI/util/html/cltl/clm/null][10.1. The Property List]]
+
+  Since its inception, Lisp has associated with each symbol a kind of tabular data structure called a /property list/ (/plist/ for short). A property list contains zero or more entries; each entry associates with a key (called the /indicator/), which is typically a symbol, an arbitrary Lisp object (called the /value/ or, sometimes, the /property/). There are no duplications among the indicators; a property list may only have one property at a time with a given name. In this way, given a symbol and an indicator (another symbol), an associated value can be retrieved.
+
+  A property list is very similar in purpose to an association list. The difference is that a property list is an object with a unique identity; the operations for adding and removing property-list entries are destructive operations that alter the property list rather than making a new one. Association lists, on the other hand, are normally augmented non-destructively (without side effects) by adding new entries to the front (see =acons= and =pairlis=).
+
+  A property list is implemented as a memory cell containing a list with an even number (possibly zero) of elements. (Usually this memory cell is the property-list cell of a symbol, but any memory cell acceptable to =setf= can be used if =getf= and =remf= are used.) Each pair of elements in the list constitutes an entry; the first item is the indicator, and the second is the value. Because property-list functions are given the symbol and not the list itself, modifications to the property list can be recorded by storing back into the property-list cell of the symbol.
+
+  When a symbol is created, its property list is initially empty. Properties are created by using =get= within a =setf= form.
+
+  Common Lisp does not use a symbol's property list as extensively as earlier Lisp implementations did. Less-used data, such as compiler, debugging, and documentation information, is kept on property lists in Common Lisp.
+#+end_quote
+* (www.cs.cmu.edu) 15.6. Association Lists
+:PROPERTIES:
+:ID:       b4c9a914-2a36-47b3-b4c1-cf44c6f806cb
+:ROAM_REFS: https://www.cs.cmu.edu/Groups/AI/util/html/cltl/clm/node153.html
+:END:
+
+#+begin_quote
+  * [[https://www.cs.cmu.edu/Groups/AI/util/html/cltl/clm/null][15.6. Association Lists]]
+
+  An /association list/, or /a-list/, is a data structure used very frequently in Lisp. An a-list is a list of pairs (conses); each pair is an association. The /car/ of a pair is called the /key/, and the /cdr/ is called the /datum/.
+
+  An advantage of the a-list representation is that an a-list can be incrementally augmented simply by adding new entries to the front. Moreover, because the searching function =assoc= searches the a-list in order, new entries can ``shadow'' old entries. If an a-list is viewed as a mapping from keys to data, then the mapping can be not only augmented but also altered in a non-destructive manner by adding new entries to the front of the a-list.
+
+  Sometimes an a-list represents a bijective mapping, and it is desirable to retrieve a key given a datum. For this purpose, the ``reverse'' searching function =rassoc= is provided. Other variants of a-list searches can be constructed using the function =find= or =member=.
+
+  It is permissible to let =nil= be an element of an a-list in place of a pair. Such an element is not considered to be a pair but is simply passed over when the a-list is searched by =assoc=.
+#+end_quote

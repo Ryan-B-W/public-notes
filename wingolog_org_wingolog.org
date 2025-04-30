@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       4dce9bd1-c2b5-47ce-aded-2811e4b1ca2e
+:ROAM_REFS: https://wingolog.org/
+:END:
+#+title: (wingolog.org) wingolog
+#+filetags: :blogs:website:
+
+* (wingolog.org) about — wingolog
+:PROPERTIES:
+:ID:       22dc1103-ded1-4a39-8e2c-517f0c35e894
+:ROAM_REFS: https://wingolog.org/about/
+:END:
+
+#+begin_quote
+  ** about
+
+  - [[https://wingolog.org/tags/meta][meta]]
+
+  Welcome, reader!  The [[https://wingolog.org/][blog]] is the main thing here.  It has a [[https://wingolog.org/archives/2014/08/27/a-wingolog-users-manual][user's manual and comment policy]].  The nice thing about that the blog that, unlike this page, it is unlikely to go stale.  Pages bear their dates and you can see that if you're reading something from 2015 then maybe it's not relevant.
+
+  Still here?  You want context, perhaps.  One never knows what to write in these things, so let's be brief.
+
+  Name?  Andy Wingo.  Grew up in North Carolina.  Currently in Annemasse, France, near the Swiss border, by way of Barcelona and northern Namibia.  Three kids and, yes, a minivan, and a long-tail cargo bike.
+
+  Jobs?  Schoolteacher, waiter, moving van driver, lifeguard, and currently, compiler engineer.  At [[https://igalia.com/][Igalia]] since 2011.
+
+  I used to know many things: aikido, fiddle, how to solve the neutron diffusion equation, oshindonga; all still there, somewhere.
+
+  Email?  Not very well: highly variable latency.  Personal is [[mailto://wingo@pobox.com][wingo@pobox.com]] and work is [[mailto://wingo@igalia.com][wingo@igalia.com]].  Either one works, but work email has higher quality of service.
+#+end_quote
