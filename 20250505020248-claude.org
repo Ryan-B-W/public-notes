@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       f50c60df-4899-4f3e-94c7-3f772cea2826
+:END:
+#+title: Claude
+#+filetags: :chatbot:machine_learning:artificial_intelligence:software_as_a_service:software:
+
+[[id:b10990c2-d056-42f5-a4e7-145a405d9550][AI]] chatbot and assistant product, and family of large language models by the same name, by Anthropic.
+* (claude.ai) Claude                                                :website:
+:PROPERTIES:
+:ID:       fac6d90c-366b-47b2-8b76-06d31f455a8f
+:ROAM_REFS: https://claude.ai/
+:END:

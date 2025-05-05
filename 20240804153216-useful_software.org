@@ -65,3 +65,18 @@ Useful pieces of software.
 *** [[id:329e08b2-df49-4f98-864a-30a0f226cd3b][Weechat]]
 ** Coordination & Scheduling
 *** [[id:52f66cde-3c81-46e3-817f-1aff896be631][(crab.fit) Crab Fit]]
+* AI Assistants, chatbots, and similar tools
+** Chatbots and virtual assistants
+*** [[id:f1a1e802-91fe-4702-88d6-3987e83f9b41][ChatGPT]]
+*** [[id:f50c60df-4899-4f3e-94c7-3f772cea2826][Claude]]
+*** [[id:92c412cc-9423-4d5d-886f-9417eb54a597][Microsoft Copilot]]
+*** [[id:aba4a722-e942-4e75-b359-42d777b425ea][Gemini]]
+*** [[id:86c137bb-8598-4928-a90b-ee3f4067676b][DeepSeek]]
+*** [[id:c78c1dad-ea35-43ff-8ce0-6c2cd509655a][Poe]]
+** Meeting assistants and transcription
+*** [[id:28adf56e-f6da-46f9-99c8-d125273417a7][Otter.ai]]
+** Virtual research assistants
+*** [[id:83b4a90b-eaa8-47f4-8fca-2650c07db29d][NotebookLM]]
+*** [[id:fd5876e2-48ad-46b7-99d9-94a158c092b1][Open Notebook]]
+** AI search
+*** [[id:a8242cd8-56c0-40a6-b441-d8085b579b21][Perplexity]]

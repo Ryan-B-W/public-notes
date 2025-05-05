@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       3b94eb0e-1223-4ec7-8624-3e5594dfc6e3
+:ROAM_REFS: https://www.securedatarecovery.com/blog/how-to-disable-copilot-windows
+:END:
+#+title: (www.securedatarecovery.com) How To Disable Copilot on Windows 11 and 10 [2025]
+#+filetags: :website:

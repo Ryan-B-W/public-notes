@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       83b4a90b-eaa8-47f4-8fca-2650c07db29d
+:END:
+#+title: NotebookLM
+#+filetags: :chatbot:machine_learning:artificial_intelligence:software_as_a_service:software:
+
+[[id:b10990c2-d056-42f5-a4e7-145a405d9550][AI]] research assistant, using the Gemini large language model, product by Google.
+* (notebooklm.google.com) NotebookLM                                :website:
+:PROPERTIES:
+:ID:       30bf7bf4-9c5d-4ee4-82dd-3ff55ca94e1c
+:ROAM_REFS: https://notebooklm.google.com/
+:END:
+* (notebooklm.google) Google NotebookLM | Note Taking & Research Assistant Powered by AI :website:
+:PROPERTIES:
+:ID:       80956a01-a51c-4713-8c7d-f427652de4db
+:ROAM_REFS: https://notebooklm.google/
+:END:

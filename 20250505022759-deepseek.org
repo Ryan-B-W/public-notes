@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       86c137bb-8598-4928-a90b-ee3f4067676b
+:END:
+#+title: DeepSeek
+#+filetags: :chatbot:machine_learning:artificial_intelligence:software_as_a_service:software:
+
+[[id:b10990c2-d056-42f5-a4e7-145a405d9550][AI]] chatbot and assistant, and large language model of the same name, by a company of the same name.
+* (chat.deepseek.com) DeepSeek - Into the Unknown                   :website:
+:PROPERTIES:
+:ID:       490e4aad-2fb1-46a4-9dda-931f5b8e2369
+:ROAM_REFS: https://chat.deepseek.com/
+:END:
+* (www.deepseek.com) DeepSeek | 深度求索                            :website:
+:PROPERTIES:
+:ID:       25526853-690d-4472-9417-363a2ed4ae7b
+:ROAM_REFS: https://www.deepseek.com/
+:END:

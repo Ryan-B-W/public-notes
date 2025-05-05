@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       c78c1dad-ea35-43ff-8ce0-6c2cd509655a
+:ROAM_ALIASES: Poe
+:END:
+#+title: Poe AI meta-chatbot
+#+filetags: :chatbot:machine_learning:artificial_intelligence:software_as_a_service:software:
+
+AI meta-chatbot using a large number of other services and large language models.  Used for querying multiple chatbots simultaneously for comparing results.
+* (poe.com) Poe - Fast, Helpful AI Chat                             :website:
+:PROPERTIES:
+:ID:       1b7e826b-0090-455f-991e-948f5de7b831
+:ROAM_REFS: https://poe.com/
+:END:

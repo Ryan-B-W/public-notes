@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       eca562ca-7ee4-48ca-8a40-6fb99a737687
+:ROAM_REFS: https://simmering.dev/blog/diagrams/
+:END:
+#+title: (simmering.dev) Diagrams as Code: Supercharged by AI Assistants – Paul Simmering
+#+filetags: :website:

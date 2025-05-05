@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       a8242cd8-56c0-40a6-b441-d8085b579b21
+:END:
+#+title: Perplexity
+#+filetags: :chatbot:search:machine_learning:artificial_intelligence:software_as_a_service:software:
+
+[[id:b10990c2-d056-42f5-a4e7-145a405d9550][AI]] search chatbot by a company of the same name.
+* (www.perplexity.ai) Perplexity                                    :website:
+:PROPERTIES:
+:ID:       983c0339-bb17-44ed-b581-fba75bfa656f
+:ROAM_REFS: https://www.perplexity.ai/
+:END:

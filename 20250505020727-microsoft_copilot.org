@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       92c412cc-9423-4d5d-886f-9417eb54a597
+:END:
+#+title: Microsoft Copilot
+#+filetags: :chatbot:machine_learning:artificial_intelligence:software_as_a_service:software:
+
+AI chatbot and assistant by Microsoft.
+* (copilot.microsoft.com) Microsoft Copilot: Your AI companion      :website:
+:PROPERTIES:
+:ID:       8154f3ce-eb5a-459c-af15-fa4c2f1dfe96
+:ROAM_REFS: https://copilot.microsoft.com/
+:END:

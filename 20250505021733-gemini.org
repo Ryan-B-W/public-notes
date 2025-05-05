@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       aba4a722-e942-4e75-b359-42d777b425ea
+:END:
+#+title: Gemini
+#+filetags: :chatbot:machine_learning:artificial_intelligence:software_as_a_service:software:
+
+Formerly Bard, an [[id:b10990c2-d056-42f5-a4e7-145a405d9550][AI]] chatbot and assistant, using a large language model of the same name, by Google.
+* (gemini.google.com) Gemini                                        :website:
+:PROPERTIES:
+:ID:       bc4eb7ce-64d7-4c73-b773-b9b53855561e
+:ROAM_REFS: https://gemini.google.com/app
+:END:

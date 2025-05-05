@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       28adf56e-f6da-46f9-99c8-d125273417a7
+:END:
+#+title: Otter.ai
+#+filetags: :machine_learning:artificial_intelligence:software_as_a_service:software:
+
+[[id:b10990c2-d056-42f5-a4e7-145a405d9550][AI]] assistant and meeting transcription product by company of the same name.
+* (otter.ai) Otter Meeting Agent - AI Notetaker, Transcription, Insights :website:
+:PROPERTIES:
+:ID:       db5a327b-f063-43f0-b228-7f71b2bffb70
+:ROAM_REFS: https://otter.ai/
+:END:
+* (en.wikipedia.org) Otter.ai - Wikipedia                           :website:
+:PROPERTIES:
+:ID:       114430a3-3459-456f-989e-3357014718f0
+:ROAM_REFS: https://en.wikipedia.org/wiki/Otter.ai
+:END:

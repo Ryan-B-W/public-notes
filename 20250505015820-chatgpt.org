@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       f1a1e802-91fe-4702-88d6-3987e83f9b41
+:END:
+#+title: ChatGPT
+#+filetags: :chatbot:machine_learning:artificial_intelligence:software_as_a_service:software:
+
+[[id:b10990c2-d056-42f5-a4e7-145a405d9550][AI]] chatbot and assistant product of OpenAI.
+* (chatgpt.com) ChatGPT                                             :website:
+:PROPERTIES:
+:ID:       ab09ff54-fb3c-4905-80f6-f7f5666cb38a
+:ROAM_REFS: https://chatgpt.com/
+:END:
