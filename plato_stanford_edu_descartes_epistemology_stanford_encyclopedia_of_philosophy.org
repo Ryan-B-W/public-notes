@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       cdddeb71-3d44-4438-a2f0-a39f8a117e79
+:ROAM_REFS: https://plato.stanford.edu/entries/descartes-epistemology/
+:END:
+#+title: (plato.stanford.edu) Descartes’ Epistemology (Stanford Encyclopedia of Philosophy)
+#+filetags: :philosophy:website:

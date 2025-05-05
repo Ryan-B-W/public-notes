@@ -10,51 +10,11 @@ A relatively popular [[id:6246f8d4-6cd4-489d-b19f-9c1142b51b60][Scheme]] impleme
 :ID:       82dac0a3-1609-43d4-ae80-1433e32ddfbb
 :ROAM_REFS: https://www.racket-lang.org/
 :END:
-** (docs.racket-lang.org) Racket Documentation        :documentation:website:
+** (docs.racket-lang.org) Racket Documentation                :documentation:
 :PROPERTIES:
 :ID:       e87879af-54bd-48fa-a547-82bf55397b23
 :ROAM_REFS: https://docs.racket-lang.org/
 :END:
-*** (docs.racket-lang.org) raco: Racket Command-Line Tools
-:PROPERTIES:
-:ID:       28293466-114e-4c1a-95ae-47b6f6b121ca
-:ROAM_REFS: https://docs.racket-lang.org/raco/
-:END:
-
-#+begin_quote
-  ** raco: Racket Command-Line Tools
-
-  The raco program supports various Racket tasks from a command line.  The first argument to raco is always a specific command name.  For example, raco make starts a command to compile a Racket source module to bytecode format.
-
-  The set of commands available through raco is extensible.  Use raco help to get a complete list of available commands for your installation.  This manual covers the commands that are available in a typical Racket installation.
-#+end_quote
-*** (docs.racket-lang.org) Datalog: Deductive Database Programming    :logic:
-:PROPERTIES:
-:ID:       a72419f7-8591-46a0-8376-0ff91621c982
-:ROAM_REFS: https://docs.racket-lang.org/datalog/
-:END:
-
-#+begin_quote
-  Datalog is
-  - a declarative logic language in which each formula is a function-free Horn clause, and every variable in the head of a clause must appear in the body of the clause.
-  - a lightweight deductive database system where queries and database updates are expressed in the logic language.
-  The use of Datalog syntax and an implementation based on tabling intermediate results ensures that all queries terminate.
-#+end_quote
-*** (docs.racket-lang.org) SICP Collections
-:PROPERTIES:
-:ID:       6525fb29-4aa1-4c0a-8fd2-d5024a3ae869
-:ROAM_REFS: https://docs.racket-lang.org/sicp-manual/index.html
-:END:
-
-#+begin_quote
-  ** SICP Collections
-
-  This package contains two collections.
-
-  The sicp collection contains a #lang sicp language ideal for studying the book "Structure and Interpretation of Computer Programs" by Gerald Jay Sussman and Hal Abelson.  The book is usually referred to simply as SICP.
-
-  The second sicp-pict collection contains the picture language used in SICP.
-#+end_quote
 *** (docs.racket-lang.org) The Racket Reference
 :PROPERTIES:
 :ID:       cb16b2b8-6584-4598-a60c-69b061b05fd5
@@ -92,7 +52,7 @@ A relatively popular [[id:6246f8d4-6cd4-489d-b19f-9c1142b51b60][Scheme]] impleme
 
   The =#lang= at the start of a module file begins a shorthand for a [[https://docs.racket-lang.org/reference/module.html#(form._((quote._~23~25kernel)._module))][module]] form, much like ='= is a shorthand for a [[https://docs.racket-lang.org/reference/quote.html#(form._((quote._~23~25kernel)._quote))][quote]] form.  Unlike ='=, the =#lang= shorthand does not work well in a [[https://docs.racket-lang.org/guide/intro.html#(tech._repl)][REPL]], in part because it must be terminated by an end-of-file, but also because the longhand expansion of =#lang= depends on the name of the enclosing file.
 #+end_quote
-***** (docs.racket-lang.org) 6.2.2 The #lang Shorthand              :website:
+***** (docs.racket-lang.org) 6.2.2 The #lang Shorthand
 :PROPERTIES:
 :ID:       63ba64c5-856d-4c77-b81c-6e6ca020b94c
 :ROAM_REFS: https://docs.racket-lang.org/guide/Module_Syntax.html#(part._hash-lang)
@@ -122,4 +82,123 @@ A relatively popular [[id:6246f8d4-6cd4-489d-b19f-9c1142b51b60][Scheme]] impleme
   The =#lang racket/base= form has the same syntax as =#lang racket=, except that the longhand expansion uses =racket/base= instead of =racket=.  The =#lang scribble/manual= form, in contrast, has a completely different syntax that doesn't even look like Racket, and which we do not attempt to describe in this guide.
 
   Unless otherwise specified, a module that is documented as a “language” using the =#lang= notation will expand to =module= in the same way as =#lang racket=.  The documented language name can be used directly with =module= or =require=, too.
+#+end_quote
+*** (docs.racket-lang.org) raco: Racket Command-Line Tools
+:PROPERTIES:
+:ID:       28293466-114e-4c1a-95ae-47b6f6b121ca
+:ROAM_REFS: https://docs.racket-lang.org/raco/
+:END:
+
+#+begin_quote
+  ** raco: Racket Command-Line Tools
+
+  The raco program supports various Racket tasks from a command line.  The first argument to raco is always a specific command name.  For example, raco make starts a command to compile a Racket source module to bytecode format.
+
+  The set of commands available through raco is extensible.  Use raco help to get a complete list of available commands for your installation.  This manual covers the commands that are available in a typical Racket installation.
+#+end_quote
+*** (docs.racket-lang.org) The Racket Graphical Interface Toolkit
+:PROPERTIES:
+:ID:       d4aa1a41-b677-4b02-a6d2-72a3dd1b8ad1
+:ROAM_REFS: https://docs.racket-lang.org/gui/index.html
+:END:
+
+#+begin_quote
+  ** The Racket Graphical Interface Toolkit
+
+  Matthew Flatt,\\
+  Robert Bruce Findler,\\
+  and John Clements
+
+  #+begin_src scheme
+    (require racket/gui/base)
+  #+end_src
+  package: [[https://pkgs.racket-lang.org/package/gui-lib][gui-lib]]
+
+  The [[https://docs.racket-lang.org/gui/index.html][racket/gui/base]] library provides all of the class, interface, and procedure bindings defined in this manual, in addition to the bindings of [[https://docs.racket-lang.org/draw/index.html][racket/draw]] and [[https://docs.racket-lang.org/file/resource.html][file/resource]].
+
+  #+begin_src scheme
+    #lang racket/gui
+  #+end_src
+  package: [[https://pkgs.racket-lang.org/package/gui-lib][gui-lib]]
+
+  The [[https://docs.racket-lang.org/gui/index.html][racket/gui]] language combines all bindings of the [[https://docs.racket-lang.org/reference/index.html][racket]] language and the [[https://docs.racket-lang.org/gui/index.html][racket/gui/base]] and [[https://docs.racket-lang.org/draw/index.html][racket/draw]] modules.
+
+  The [[https://docs.racket-lang.org/gui/index.html][racket/gui]] toolbox is roughly organized into two parts:
+
+  - The windowing toolbox, for implementing windows, buttons, menus, text fields, and other controls.
+
+  - The editor toolbox, for developing traditional text editors, editors that mix text and graphics, or free-form layout editors (such as a word processor, HTML editor, or icon-based file browser).
+
+  Both parts of the toolbox rely extensively on the [[https://docs.racket-lang.org/draw/index.html][racket/draw]] drawing library.
+#+end_quote
+*** (docs.racket-lang.org) The Racket Drawing Toolkit
+:PROPERTIES:
+:ID:       a54beb66-ce36-4034-ae2b-e8ca50f1fd3f
+:ROAM_REFS: https://docs.racket-lang.org/draw/index.html
+:END:
+
+#+begin_quote
+  ** The Racket Drawing Toolkit
+
+  Matthew Flatt,\\
+  Robert Bruce Findler,\\
+  and John Clements
+
+  #+begin_src scheme
+    (require racket/draw)
+  #+end_src
+  package: [[https://pkgs.racket-lang.org/package/draw-lib][draw-lib]]
+
+  The [[https://docs.racket-lang.org/draw/index.html][racket/draw]] library provides all of the class, interface, and procedure bindings defined in this manual.
+#+end_quote
+*** (docs.racket-lang.org) Datalog: Deductive Database Programming    :logic:
+:PROPERTIES:
+:ID:       a72419f7-8591-46a0-8376-0ff91621c982
+:ROAM_REFS: https://docs.racket-lang.org/datalog/
+:END:
+
+#+begin_quote
+  Datalog is
+  - a declarative logic language in which each formula is a function-free Horn clause, and every variable in the head of a clause must appear in the body of the clause.
+  - a lightweight deductive database system where queries and database updates are expressed in the logic language.
+  The use of Datalog syntax and an implementation based on tabling intermediate results ensures that all queries terminate.
+#+end_quote
+*** (docs.racket-lang.org) SICP Collections
+:PROPERTIES:
+:ID:       6525fb29-4aa1-4c0a-8fd2-d5024a3ae869
+:ROAM_REFS: https://docs.racket-lang.org/sicp-manual/index.html
+:END:
+
+#+begin_quote
+  ** SICP Collections
+
+  This package contains two collections.
+
+  The sicp collection contains a #lang sicp language ideal for studying the book "Structure and Interpretation of Computer Programs" by Gerald Jay Sussman and Hal Abelson.  The book is usually referred to simply as SICP.
+
+  The second sicp-pict collection contains the picture language used in SICP.
+#+end_quote
+**** (docs.racket-lang.org) SICP Picture Language
+:PROPERTIES:
+:ID:       56ecdc25-f6ba-44b4-85a6-3aebc15a4e37
+:ROAM_REFS: https://docs.racket-lang.org/sicp-manual/SICP_Picture_Language.html
+:END:
+
+#+begin_quote
+  *** SICP Picture Language
+
+  #+begin_src scheme
+    (require sicp-pict)
+  #+end_src
+  package: [[https://pkgs.racket-lang.org/package/sicp][sicp]]
+
+  **** Introduction
+
+  The SICP Picture Language is a small language for drawing pictures.  It shows the power of data abstraction and closure.  The picture language stems from Peter Henderson's 1982 paper "Functional Geometry" and was included by Hal Abelson in "Structure and Interpretation of Computer Programs".
+
+  The basic concept of the picture language is a painter, which draws its image (shifted and scaled) within a frame given by a parallelogram.  Painters can be combined to construct new painters.
+
+  Before using this package, read [[https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/full-text/book/book-Z-H-15.html#%_sec_2.2.4][section 2.2.4 of SICP]], which is an excellent introduction to the ideas of the picture language.  This manual is meant as a reference guide.
+
+  Peter Henderson has written an updated version of [[http://eprints.ecs.soton.ac.uk/7577/01/funcgeo2.pdf][Functional Geometry]], which explains how to construct the Escher fish image.
 #+end_quote

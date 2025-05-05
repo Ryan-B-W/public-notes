@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       0d6726d7-a9e6-4e78-852a-b13a9394f33a
+:ROAM_REFS: https://plato.stanford.edu/entries/descartes/
+:END:
+#+title: (plato.stanford.edu) René Descartes (Stanford Encyclopedia of Philosophy)
+#+filetags: :philosophy:website:

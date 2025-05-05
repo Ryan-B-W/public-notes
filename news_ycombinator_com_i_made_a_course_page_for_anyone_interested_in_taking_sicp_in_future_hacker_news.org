@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       a8c4ab1b-43a1-454d-a717-89160ab02c69
+:ROAM_REFS: https://news.ycombinator.com/item?id=33345054
+:END:
+#+title: (news.ycombinator.com) I made a course page for anyone interested in taking SICP in future | Hacker News
+#+filetags: :education_resource:scheme:lisp:programming:forums:website:

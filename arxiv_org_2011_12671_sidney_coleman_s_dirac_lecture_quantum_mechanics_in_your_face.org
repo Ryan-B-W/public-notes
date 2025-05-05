@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       60c82964-e638-4c3a-9b35-94a61f0a714c
+:ROAM_REFS: https://arxiv.org/abs/2011.12671
+:END:
+#+title: (arxiv.org) [2011.12671] Sidney Coleman's Dirac Lecture "Quantum Mechanics in Your Face"
+#+filetags: :science_paper:website:
+
+#+begin_quote
+  * Sidney Coleman's Dirac Lecture "Quantum Mechanics in Your Face"
+
+  Authors: [[https://arxiv.org/search/physics?searchtype=author&query=Coleman,+S][Sidney Coleman]]
+
+  : Abstract:This is a write-up of Sidney Coleman's classic lecture first given as a Dirac Lecture at Cambridge University and later recorded when repeated at the New England sectional meeting of the American Physical Society (April 9, 1994). My sources have been this recording and a copy of the slides Sidney send to me after he gave the lecture as a Physics Colloquium at Stanford University some time between 1995 and 1998. To preserve both the scientific content and most of the charm, I have kept the editing to a minimum, but did add a bibliography containing the references Sidney mentioned.--Martin Greiter
+#+end_quote

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       fe769419-a049-4812-be79-b8146a8f7107
+:ROAM_REFS: "https://github.com/danielpi/SICP-Exercises/blob/master/Racket/2.2.4 A Picture Language Example.rkt"
+:END:
+#+title: (github.com) SICP-Exercises/Racket/2.2.4 A Picture Language Example.rkt at master · danielpi/SICP-Exercises
+#+filetags: :scheme:lisp:website:

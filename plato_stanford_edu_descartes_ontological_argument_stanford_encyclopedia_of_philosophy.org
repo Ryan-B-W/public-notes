@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       193be07b-3a6f-40fd-b9db-03f54e4d294e
+:ROAM_REFS: https://plato.stanford.edu/entries/descartes-ontological/
+:END:
+#+title: (plato.stanford.edu) Descartes’ Ontological Argument (Stanford Encyclopedia of Philosophy)
+#+filetags: :philosophy:website:

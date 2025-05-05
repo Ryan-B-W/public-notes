@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       6fe92f61-38d4-4e69-b9af-6d63f3b12cb3
+:ROAM_REFS: https://srfi.schemers.org/srfi-203/
+:END:
+#+title: (srfi.schemers.org) A Simple Picture Language in the Style of SICP
+#+filetags: :website:
+
+#+begin_quote
+  * SRFI 203: A Simple Picture Language in the Style of SICP
+
+  by Vladimir Nikishkin
+
+  status: /final/ (2020-09-17)
+
+  keywords: [[https://srfi.schemers.org/?keywords=sicp][SICP]]
+
+  See also [[https://srfi.schemers.org/srfi-216/][SRFI 216: SICP Prerequisites (Portable)]].
+
+  - [[https://srfi.schemers.org/srfi-203/srfi-203.html][The SRFI Document]]
+
+  - [[https://srfi-email.schemers.org/srfi-203/][Discussion Archive]]
+
+  - [[https://github.com/scheme-requests-for-implementation/srfi-203][Git repo (on Github)]]
+
+  - [[mailto://srfi-203@srfi.schemers.org][srfi-203@nospamsrfi.schemers.org (subscribers only)]]
+
+  ** Abstract
+
+  This SRFI proposes a simple library for programmatic drawing of pictures compatible with Section 2.2.4 of Structure and Interpretation of Computer Programs.
+
+  It aims to close the gap between the Scheme suggested for study in the book and portable Scheme.
+#+end_quote

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       5b09ffde-49f9-444f-b59a-de98d75715b3
+:ROAM_REFS: https://www.youtube.com/watch?v=EtyNMlXN-sw
+:END:
+#+title: (www.youtube.com) Sidney Coleman, Quantum Mechanics in Your Face [1994] - YouTube
+#+filetags: :video:website:
+
+#+begin_quote
+  S. R. Coleman, Quantum Mechanics in Your Face.  A lecture given by Sidney Coleman at the New England sectional meeting of the American Physical Society (Apr. 9, 1994).
+
+  Video taken from:\\
+  [[https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnNTSm9zTnhZWFJIaGctaUVQU2RFSFRfR3N5d3xBQ3Jtc0tuQS1NSDM3cTQ1dFNNbWRuMEE5ZWpxTG5XT2lGMWViZU1ObnpxLW52bEVtSHhVWUtIUm9XNWt1TWpGeWduMEJpM3NDN3N1SVJiSU95d05XMDB1bnhVQnJFZFZ6SjI5MlVUZm1IYW5xOEJfMVpQSXBzMA&q=http://media.physics.harvard.edu/video/?id=SidneyColeman_QMIYF&v=EtyNMlXN-sw][http://media.physics.harvard.edu/vide...]]
+#+end_quote

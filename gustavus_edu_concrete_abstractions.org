@@ -1,0 +1,56 @@
+:PROPERTIES:
+:ID:       7f99d684-3ab6-431d-8e07-f34308a1d0b2
+:ROAM_REFS: https://gustavus.edu/academics/departments/mathematics-computer-science-and-statistics/max/concrete-abstractions.html
+:END:
+#+title: (gustavus.edu) Concrete Abstractions
+#+filetags: :software_development:programming:computer_science:books:website:
+
+#+begin_quote
+  * Concrete Abstractions
+
+  ** An Introduction to Computer Science Using Scheme
+
+  By Max Hailperin, Barbara Kaiser, and Karl Knight
+
+  Copyright 1999
+
+  Out of print but [[https://gustavus.edu/academics/departments/mathematics-computer-science-and-statistics/max/concrete-abstractions-pdfs/index.html][available for free on the web]]
+
+  - The book features thorough integration of theory and practice, and presents theory as an essential component of practice, rather than in contrast to it.  Thus, students are introduced to the analytic tools they need to write effective and efficient programs, in the context of practical and concrete applications.
+  - Significant programming projects are included that actively involve students in applying concepts.  Each chapter ends with an application section, in which the concepts from that chapter are applied to a significant, interesting problem that involves both program design and modifying existing code.
+  - The authors present development of object-oriented programming, one concept at a time.  Each of the component concepts that constitute object-oriented programming (OOP) is introduced independently; they are then incrementally blended together.
+  - In keeping with modern curricular recommendations, this book presents multiple programming paradigms: functional programming, assembly-language programming, and object-oriented programming--enabling the student to transition easily from Scheme to other programming languages.
+  - The final chapter provides a transition from Scheme to Java.  Providing this transition within a single book allows Java to be explained by comparison with Scheme, including showing an example program in both languages.  Java also supports exploration of event-driven graphical user interfaces and concurrency.
+
+  ** Links
+
+  - [[https://gustavus.edu/academics/departments/mathematics-computer-science-and-statistics/max/concrete-abstractions-annotated-toc/][Annotated table of contents]]
+  - [[https://gustavus.edu/academics/departments/mathematics-computer-science-and-statistics/max/concrete-abstractions-pdfs/index.html][Free access to the full text in PDF form]]
+  - [[https://gustavus.edu/academics/departments/mathematics-computer-science-and-statistics/max/concabs/][Supporting materials]]
+#+end_quote
+* (gustavus.edu) PDF access for Concrete Abstractions
+:PROPERTIES:
+:ID:       bb7ae176-89ea-4e51-9eeb-c69c687ba696
+:ROAM_REFS: https://gustavus.edu/academics/departments/mathematics-computer-science-and-statistics/max/concrete-abstractions-pdfs/index.html
+:END:
+
+#+begin_quote
+  * Concrete Abstractions
+
+  ** Free access to the full text in PDF form
+
+  The PDF files for [[https://gustavus.edu/academics/departments/mathematics-computer-science-and-statistics/max/concrete-abstractions.html][Concrete Abstractions: An Introduction to Computer Science Using Scheme]] may be freely copied, printed, and redistributed in any form (including uploading to other servers), subject to the following conditions:
+
+  - Any copy that you redistribute or make available to others must be prominently labeled with the title, authors' names, copyright notice, and a statement that the full text is available for free from [[https://gustavus.edu/academics/departments/mathematics-computer-science-and-statistics/max/concrete-abstractions.html][http://www.gustavus.edu/+max/concrete-abstractions.html]].
+
+  - Any copy that you redistribute or make available to others must be unmodified except that it may be an excerpt rather than the full text, provided that you make clear what excerpting was done.
+
+  In addition to these legally binding terms, the authors prefer that any redistribution of copies be at a reasonable cost.
+
+  If you accept these terms, please use the links below to download the PDF files.  If you do not accept, please email [[mailto://max@gustavus.edu][Max Hailperin]] to explain your concern.  These files are Copyright (c) 1999 by Max Hailperin, Barbara Kaiser and Karl Knight.
+#+end_quote
+** (gustavus.edu) front.dvi - ConcreteAbstractions.pdf :mime_type_application_pdf:ATTACH:
+:PROPERTIES:
+:ID:       38173bb9-8a81-46b4-97f7-e934a0c70785
+:ROAM_REFS: https://gustavus.edu/academics/departments/mathematics-computer-science-and-statistics/max/concrete-abstractions-pdfs/ConcreteAbstractions.pdf
+:END:

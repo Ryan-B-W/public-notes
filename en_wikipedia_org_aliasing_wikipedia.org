@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       e8761093-427c-4d50-89fb-4484ca8f73c2
+:ROAM_REFS: https://en.wikipedia.org/wiki/Aliasing
+:END:
+#+title: (en.wikipedia.org) Aliasing - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Signal_processing][signal processing]] and related disciplines, *aliasing* is a phenomenon that a reconstructed signal from samples of the original signal contains low frequency components that are not present in the original one.  This is caused when, in the original signal, there are components at frequency exceeding a certain frequency called [[https://en.wikipedia.org/wiki/Nyquist_frequency][Nyquist frequency]], \(f_{s}/2\), where \(f_{s}\) is the sampling frequency ([[https://en.wikipedia.org/wiki/Undersampling][undersampling]]).  This is because typical reconstruction methods use low frequency components while there are a number of frequency components, called aliases, which sampling result in the identical sample.  It also often refers to the [[https://en.wikipedia.org/wiki/Distortion][distortion]] or [[https://en.wikipedia.org/wiki/Artifact_(error)][artifact]] that results when a signal reconstructed from samples is different from the original continuous signal.
+
+  Aliasing can occur in signals sampled in time, for instance in [[https://en.wikipedia.org/wiki/Digital_audio][digital audio]] or the [[https://en.wikipedia.org/wiki/Stroboscopic_effect][stroboscopic effect]], and is referred to as *temporal aliasing*.  Aliasing in spatially sampled signals (e.g., [[https://en.wikipedia.org/wiki/Moiré_pattern][moiré patterns]] in [[https://en.wikipedia.org/wiki/Digital_image][digital images]]) is referred to as *spatial aliasing*.
+
+  Aliasing is generally avoided by applying [[https://en.wikipedia.org/wiki/Low-pass_filter][low-pass filters]] or [[https://en.wikipedia.org/wiki/Anti-aliasing_filter][anti-aliasing filters]] (AAF) to the input signal before sampling and when converting a signal from a higher to a lower sampling rate.  Suitable [[https://en.wikipedia.org/wiki/Reconstruction_filter][reconstruction filtering]] should then be used when restoring the sampled signal to the continuous domain or converting a signal from a lower to a higher sampling rate.  For [[https://en.wikipedia.org/wiki/Spatial_anti-aliasing][spatial anti-aliasing]], the types of anti-aliasing include [[https://en.wikipedia.org/wiki/Fast_approximate_anti-aliasing][fast approximate anti-aliasing]] (FXAA), [[https://en.wikipedia.org/wiki/Multisample_anti-aliasing][multisample anti-aliasing]], and [[https://en.wikipedia.org/wiki/Supersampling][supersampling]].
+#+end_quote

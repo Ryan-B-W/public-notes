@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       f713b6bb-b6a0-4d16-a245-8ccbfef57a7b
+:ROAM_REFS: https://physbuzz.github.io/sicp/bonus-notes.html#asymptotic-approximations-and-some-notes-on-theta-omega-o
+:END:
+#+title: (physbuzz.github.io) Asymptotic approximations and some notes on Θ, Ω, O. - bonus-notes.md
+#+filetags: :website:
+
+#+begin_quote
+  Asymptotic approximations and some notes on Θ, Ω, O.
+#+end_quote

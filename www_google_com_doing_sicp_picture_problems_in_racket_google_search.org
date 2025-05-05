@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       186f63e2-250a-4ef3-9c77-c04d9f7a9bc1
+:ROAM_REFS: "https://www.google.com/search?q=doing sicp picture problems in racket"
+:END:
+#+title: (www.google.com) doing sicp picture problems in racket - Google Search
+#+filetags: :scheme:lisp:searches:website:

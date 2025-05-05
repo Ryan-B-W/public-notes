@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       5af8a961-e5b9-41ba-8053-a9c30ea1f7a6
+:ROAM_REFS: https://stackoverflow.com/questions/13592352/compiling-sicp-picture-exercises-in-drracket
+:END:
+#+title: (stackoverflow.com) scheme - Compiling SICP Picture Exercises in DrRacket? - Stack Overflow
+#+filetags: :scheme:lisp:programming:forums:website:

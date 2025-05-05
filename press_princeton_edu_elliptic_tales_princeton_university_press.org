@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       e0488c9f-3562-4634-8845-975406dcba28
+:ROAM_REFS: https://press.princeton.edu/books/hardcover/9780691151199/elliptic-tales
+:END:
+#+title: (press.princeton.edu) Elliptic Tales | Princeton University Press
+#+filetags: :mathematics:books:website:

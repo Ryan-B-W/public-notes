@@ -1,0 +1,94 @@
+:PROPERTIES:
+:ID:       c2309bdf-490b-4588-bf7c-78603da8bc43
+:ROAM_REFS: https://romanbird.github.io/sicp/
+:END:
+#+title: (romanbird.github.io) Structure and Interpretation of Computer Programs
+#+filetags: :education_resource:scheme:lisp:programming:website:
+
+#+begin_quote
+  * Structure and Interpretation of Computer Programs
+
+  --------------
+
+  📖
+  This is intended to be a definitive resource on self-teaching the classic Computer Science book, *Structure and Interpretation of Computer Programs*, commonly SICP. This page compiles lectures and readings from Berkeley's series from 2011 (originally scattered throughout old course pages and dead links) to produce a clean path through the textbook that focuses on the content.
+
+  --------------
+
+  *** Prerequisites
+
+  ********************THIS IS A HARD BOOK.******************** Although the course allows for no former programming experience, approaching the course this way will make it needlessly difficult. Berkeley, in their version of the course recommends:
+
+  - *Maths up to Single Variable Calculus*: limits, functions, integration, differentiation.
+    - Optionally, *Discrete Maths and proofs* will be extremely helpful for the course's harder exercises.
+
+  - *****************************Some programming experience:***************************** some confidence in using recursion is cited as a benchmark. If you're in between comfort levels, we strongly recommend ************************************** the twin courses How to Code: Simple Data and Complex Data as a precursor.
+
+  [[https://www.edx.org/course/how-to-code-simple-data][How to Code: Simple Data]]
+  : There is one session available: This programming course takes a unique approach, as it focuses on learning a systematic programming method rather than a programming language. This practical approach will help you channel your creativity so that you can program well in any language.
+  [[https://www.edx.org/course/how-to-code-simple-data]]
+
+  * Course Introduction
+
+  ⚠️
+  This page relates to the *******Scheme******* version of SICP, as opposed to newer versions that teach with JavaScript or Python.
+
+  ** What to expect (read before starting)
+
+  The course is split into 16 weeks. Materials given are in order (ie reading should precede homework should precede ... etc.) Each week will have readings, homework, a lab section, and 2-3 lectures. Some intervals will have projects and midterm exams associated with them.
+
+  *** Readings
+
+  These are usually taken from the SICP textbook. This resource will link to the corrected 2nd edition, available free online. The textbook contains exercises, see Homework below for details. Occasionally a non-SICP handout is given - these will be linked.
+
+  *** Homework
+
+  From the lecturers:
+
+  : Homework assignments consist mostly of exercises from the textbook; you'll do these whenever you can schedule time, either in the lab or at home. You may be accustomed to textbooks with huge numbers of boring, repetitive exercises. You won't find that in our text! Each assigned exercise teaches an important point.
+
+  Because of the textbook's popularity, answers for every SICP exercise can be easily found online through Google.
+
+  *** Lab sections
+
+  These are quick projects, usually intended to be completed in groups. A good opportunity for collaboration if you are going through these texts alongside somebody else!
+
+  *** Lectures
+
+  Each week has 2 or 3 lectures associated with it. Given are lecture notes, the appropriate ones will be linked on the week's page. Keep in mind this quote from the course creators:
+
+  : The course reader includes my lecture notes. What this means is that you should be able to devote your effort during lecture to thinking, rather than to frantic scribbling.
+
+  Programs from the lectures can be accessed in the cs61a/lib folder of the course materials (see below)
+
+  💡
+  Don't worry about the missing numbers in the lectures (there's no lecture 15, or 27-29) - the lectures are not lost, but rather they correspond to half-terms and spring breaks.
+
+  *** Projects
+
+  These are larger projects for you to apply more of your skills, given every few weeks or so. Often these projects are intended for pairs.
+
+  *** Exams
+
+  There are three midterm exams and a final. For each, three sample papers (with answers) are given for each.
+
+  ** For completionists...
+
+  Not every chapter in SICP is covered in these lecture series (the last of the 5 segments is entirely dropped, for one). A full list of chapters skipped is given here:
+
+  [[https://romanbird.github.io/sicp/missingchapters.html][List of chapters not covered]]
+
+  Every exercise is also, not necessarily assigned. But solutions for every one can be easily found online if you want to go ahead with them.
+
+  * Get started
+
+  ** Download the materials
+
+  - To get started, clone the course materials from the github repository [[https://github.com/romanbird/sicp][linked here]].
+
+  - We use the online SICP given here, as created by sarabander
+
+  [[https://sarabander.github.io/sicp/html/index.xhtml][Structure and Interpretation of Computer Programs]]
+  : Second Edition Unofficial Texinfo Format 2.andresraba6.6 Harold Abelson and Gerald Jay Sussman with Julie Sussman, foreword by Alan J. Perlis ©1996 by The Massachusetts Institute of Technology This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (). Based on a work at mitpress.mit.edu.
+  [[https://sarabander.github.io/sicp/html/index.xhtml]]
+#+end_quote
