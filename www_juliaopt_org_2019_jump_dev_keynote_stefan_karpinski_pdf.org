@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       836e3c3b-191d-47e7-9ef0-f2c9e3b51046
+:ROAM_REFS: https://www.juliaopt.org/meetings/santiago2019/slides/stefan_karpinski.pdf
+:END:
+#+title: (www.juliaopt.org) 2019 JuMP-dev Keynote - stefan_karpinski.pdf
+#+filetags: :programming:julia_lang:slides:mime_type_application_pdf:website:
+
+#+begin_quote
+  Julia
+
+  The Unreasonable Effectiveness of Multiple Dispatch
+
+  Stefan Karpinski
+#+end_quote

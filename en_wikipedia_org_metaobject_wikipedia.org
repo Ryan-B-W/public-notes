@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       832077b8-d0c8-4375-96af-d96e9838a71a
+:ROAM_REFS: https://en.wikipedia.org/wiki/Metaobject
+:END:
+#+title: (en.wikipedia.org) Metaobject - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Computer_science][computer science]], a *metaobject* is an [[https://en.wikipedia.org/wiki/Object_(computer_science)][object]] that manipulates, creates, describes, or implements objects (including itself).  The object that the metaobject pertains to is called the base object.  Some information that a metaobject might define includes the base object's [[https://en.wikipedia.org/wiki/Type_system][type]], [[https://en.wikipedia.org/wiki/Interface_(object-oriented_programming)][interface]], [[https://en.wikipedia.org/wiki/Class_(computer_science)][class]], [[https://en.wikipedia.org/wiki/Method_(computer_science)][methods]], [[https://en.wikipedia.org/wiki/Attribute_(computing)][attributes]], [[https://en.wikipedia.org/wiki/Parse_tree][parse tree]], etc.  Metaobjects are examples of the computer science concept of [[https://en.wikipedia.org/wiki/Reflection_(computer_programming)][reflection]], where a system has access (usually at run time) to its own internal structure.  Reflection enables a system to essentially rewrite itself on the fly, to alter its own implementation as it executes.
+#+end_quote
+* (en.wikipedia.org) Metaobject Protocol -  Metaobject - Wikipedia
+:PROPERTIES:
+:ID:       e48fca4d-6f9e-42a2-874a-0ca949a00db8
+:ROAM_REFS: https://en.wikipedia.org/wiki/Metaobject#Metaobject_protocol
+:END:
+#+begin_quote
+  A *metaobject protocol* (*MOP*) provides the vocabulary ([[https://en.wikipedia.org/wiki/Protocol_(object-oriented_programming)][protocol]]) to access and manipulate the structure and behaviour of systems of objects.  Typical functions of a metaobject protocol include:
+
+  - Create or delete a new class
+  - Create a new property or method
+  - Cause a class to inherit from a different class ("change the class structure")
+  - Generate or change the code defining the methods of a class
+
+  Metaobject protocol is contrary to [[https://en.wikipedia.org/wiki/Bertrand_Meyer][Bertrand Meyer]]'s [[https://en.wikipedia.org/wiki/Open/closed_principle][open/closed principle]], which holds that software object systems should be /open for extension/ but /closed for modification/.  This principle effectively draws a distinction between /extending/ an object by adding to it, and /modifying/ an object by redefining it, proposing that the former is a desirable quality ("/objects should be extensible to meet the requirements of future use cases/"), while the latter is undesirable ("/objects should provide a stable interface not subject to summary revision/").  Metaobject protocol, by contrast, transparently exposes the internal composition of objects and the entire object system in terms of the system itself.  In practice, this means that programmers may use objects to redefine themselves, possibly in quite complex ways.
+
+  Furthermore, metaobject protocol is not merely an [[https://en.wikipedia.org/wiki/Application_Programming_Interface][interface]] to an "underlying" implementation; rather, through metaobject protocol the object system is [[https://en.wikipedia.org/wiki/Recursive_definition][recursively implemented]] in terms of a /meta/-object system, which itself is theoretically implemented in terms of a /meta/-metaobject system, and so on until an arbitrary [[https://en.wikipedia.org/wiki/Base_case_(recursion)][base case]] (a consistent [[https://en.wikipedia.org/wiki/State_(computing)][state]] of the object system) is determined, with the protocol as such being the recursive functional relationship between these implementation levels.
+
+  Implementing object systems in such a way opens the possibility for radical discretionary redesign, providing deep flexibility but introducing possibly complex or difficult-to-understand metastability issues (for instance, the object system must not [[https://en.wikipedia.org/wiki/Persistent_data_structure][destructively update]] its own metaobject protocol - its internal self-representation - but the potential destructiveness of some updates is non-trivial to predict and may be hard to reason about), depending on the recursive depth to which the desired modifications are propagated.  For this reason, metaobject protocol, when present in a language, is usually used sparingly and for specialised purposes such as software that transforms other software or itself in sophisticated ways, for example in reverse engineering.
+
+  *** Runtime and compile time
+
+  When compilation is not available at run-time there are additional complications for the implementation of metaobject protocol.  For example, it is possible to change the type hierarchy with such a protocol but doing so may cause problems for code compiled with an alternative class model definition.  Some environments have found innovative solutions for this, e.g., by handling metaobject issues at compile time.  A good example of this is [[https://en.wikipedia.org/w/index.php?title=OpenC++_(software_tool)&action=edit&redlink=1][OpenC++]].  The [[https://en.wikipedia.org/wiki/Semantic_Web][Semantic Web]] object-oriented model is more dynamic than most standard object systems, and is consistent with runtime metaobject protocols.  For example, in the Semantic Web model classes are expected to change their relations to each other and there is a special [[https://en.wikipedia.org/wiki/Inference_engine][inference engine]] known as a classifier that can validate and analyze evolving class models.
+
+  *** Usage
+
+  The first metaobject protocol was in the [[https://en.wikipedia.org/wiki/Smalltalk][Smalltalk]] object-oriented programming language developed at [[https://en.wikipedia.org/wiki/Xerox_PARC][Xerox PARC]].  The [[https://en.wikipedia.org/wiki/Common_Lisp_Object_System][Common Lisp Object System]] (CLOS) came later and was influenced by the Smalltalk protocol as well as by [[https://en.wikipedia.org/wiki/Brian_Cantwell_Smith][Brian C. Smith]]'s original studies on 3-Lisp as an infinite tower of evaluators.  The CLOS model, unlike the Smalltalk model, allows a class to have [[https://en.wikipedia.org/wiki/Multiple_inheritance][more than one superclass]]; this raises additional complexity in issues such as resolving the lineage of the class hierarchy on some object instance.  CLOS also allows for [[https://en.wikipedia.org/wiki/Multiple_dispatch][dynamic multimethod dispatch]], which is handled via [[https://en.wikipedia.org/wiki/Generic_functions][generic functions]] rather than [[https://en.wikipedia.org/wiki/Message_passing][message passing]] like in Smalltalk's [[https://en.wikipedia.org/wiki/Single_dispatch][single dispatch]].  The most influential book describing the semantics and implementation of the metaobject protocol in Common Lisp is /[[https://en.wikipedia.org/wiki/The_Art_of_the_Metaobject_Protocol][The Art of the Metaobject Protocol]]/ by [[https://en.wikipedia.org/wiki/Gregor_Kiczales][Gregor Kiczales]] et al.
+
+  Metaobject protocols are also extensively used in software engineering applications.  In virtually all commercial CASE, re-engineering, and Integrated Development Environments there is some form of metaobject protocol to represent and manipulate the design artifacts.
+
+  A metaobject protocol is one way to implement [[https://en.wikipedia.org/wiki/Aspect-oriented_programming][aspect-oriented programming]].  Many of the early founders of MOPs, including [[https://en.wikipedia.org/wiki/Gregor_Kiczales][Gregor Kiczales]], have since moved on to be the primary advocates for aspect-oriented programming.  Kiczales et al. of [[https://en.wikipedia.org/wiki/Palo_Alto_Research_Center][PARC]] were hired to design [[https://en.wikipedia.org/wiki/AspectJ][AspectJ]] for [[https://en.wikipedia.org/wiki/Java_(programming_language)][Java]], a language which does not possess a native metaobject protocol.
+#+end_quote

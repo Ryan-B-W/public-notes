@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       afb88a4f-487d-4291-8e24-49548b222646
+:ROAM_REFS: https://cs.brown.edu/~sk/Publications/Papers/Published/fffk-htdp-vs-sicp-journal/paper.pdf
+:END:
+#+title: (cs.brown.edu) The Structure and Interpretation of the Computer Science Curriculum (sics.dvi - paper.pdf)
+#+filetags: :education:programming:computer_science:mime_type_application_pdf:website:
+
+#+begin_quote
+  Under consideration for publication in J. Functional Programming
+
+  EDUCATIONAL PEARL
+
+  The Structure and Interpretation of the Computer Science Curriculum
+
+  Matthias Felleisen, Northeastern University, Boston, MA, USA\\
+  Robert Bruce Findler, University of Chicago, Chicago, IL, USA\\
+  Matthew Flatt, University of Utah, Salt Lake City, UT, USA\\
+  Shriram Krishnamurthi, Brown University, Providence, RI, USA\\
+  Email: {matthias,robby,mflatt,shriram}@plt-scheme.org
+
+  Abstract
+
+  Twenty years ago Abelson and Sussman's Structure and Interpretation of Computer Programs radically changed the intellectual landscape of introductory computing courses.  Instead of teaching some currently fashionable programming language, it employed Scheme and functional programming to teach important ideas.  Introductory courses based on the book showed up around the world and made Scheme and functional programming popular.  Unfortunately, these courses quickly disappeared again due to shortcomings of the book and the whimsies of Scheme.  Worse, the experiment left people with a bad impression of Scheme and functional programming in general.  In this pearl, we propose an alternative role for functional programming in the first-year curriculum.  Specifically, we present a framework for discussing the first-year curriculum and, based on it, the design rationale for our book and course, dubbed How to Design Programs.  The approach emphasizes the systematic design of programs.  Experience shows that it works extremely well as a preparation for a course on object-oriented programming.
+#+end_quote

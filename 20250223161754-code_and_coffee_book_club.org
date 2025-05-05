@@ -239,3 +239,23 @@ Session recorded by an attendee, but not streamed.  No host present due to multi
 ****** [[id:b436fdf8-1290-484f-becf-c369142a0b80][Essentials of Programming Languages]]
 ****** [[id:79183f27-34a0-4541-a761-de494362b19c][The Art of the Metaobject Protocol]]
 ****** [[id:c2d9b1d2-004e-447c-aea6-c979572806d7][Concepts, Techniques, and Models of Computer Programming]]
+**** Session Eight, [2025-05-04 Sun 15:00-16:00]
+***** Current section [[id:597e2dfe-3c20-4137-b005-390b5d614509][(sarabander.github.io) SICP, 2e: 2.5 Systems with Generic Operations]]
+***** Native number types in Racket causing issues in implementing the examples in SICP
+Racket has native fractions which messes with implementing some of the examples in SICP §2.5.
+***** See also [[id:b66aedcd-6879-4a7f-856f-4de22a9a7bcd][(sarabander.github.io) SICP, 2e: 2.4 Multiple Representations for Abstract Data]] for definition, or lack thereof, of =apply-generic=, =put=, =get=
+***** [[id:534896b8-bb7d-4603-9c55-c4803d6feeb0][(www.youtube.com) The Unreasonable Effectiveness of Multiple Dispatch | Stefan Karpinski | JuliaCon 2019 - YouTube]]
+***** [[id:eb85baab-0f50-4825-81e5-c87cd6148665][(en.wikipedia.org) Expression problem - Wikipedia]]
+***** [[id:836e3c3b-191d-47e7-9ef0-f2c9e3b51046][(www.juliaopt.org) 2019 JuMP-dev Keynote - stefan_karpinski.pdf]]
+***** [[id:3d496345-f0c5-4f04-bb7e-ed7af607d571][(en.wikipedia.org) Numerical tower - Wikipedia]]
+***** [[id:d8edf8ec-ea44-4603-9266-6084232c4d44][(en.wikipedia.org) The Diamond Problem - Multiple inheritance - Wikipedia]]
+***** [[id:a2904658-1ceb-494b-b3b9-fc0889140872][(en.wikipedia.org) Python - Extending languages with multiple-dispatch libraries - Examples - Multiple dispatch - Wikipedia]]
+***** [[id:3a79bf3b-f171-4794-9c0b-6b4cd4cf6b57][(en.wikipedia.org) Common Lisp Object System - Wikipedia]]
+****** [[id:e48fca4d-6f9e-42a2-874a-0ca949a00db8][(en.wikipedia.org) Metaobject Protocol -  Metaobject - Wikipedia]]
+***** [[id:7421929e-6baa-422b-b9e7-70e52df1ec3d][Greenspun's Tenth Rule]]
+***** [[id:afb88a4f-487d-4291-8e24-49548b222646][(cs.brown.edu) The Structure and Interpretation of the Computer Science Curriculum (sics.dvi - paper.pdf)]]
+***** [[id:5d0865bd-877f-4ca9-aaf4-691aaec4a3c1][(en.wikipedia.org) C++ - Emulating Multiple Dispatch - Examples - Multiple dispatch - Wikipedia]]
+***** "Design patterns are what happens when you run out of language"
+Quote from where?
+***** [[https://juliacon.org/2025/][JuliaCon 2025]]
+***** [[id:eba3acf1-4582-49c4-b2af-4b66ac11437f][(sarabander.github.io) SICP, 2e: 2.5: Footnote #118]]

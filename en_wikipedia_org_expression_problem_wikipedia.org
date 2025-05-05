@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       eb85baab-0f50-4825-81e5-c87cd6148665
+:ROAM_REFS: https://en.wikipedia.org/wiki/Expression_problem
+:END:
+#+title: (en.wikipedia.org) Expression problem - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  The *expression problem* is a challenging problem in [[https://en.wikipedia.org/wiki/Programming_language][programming languages]] that concerns the extensibility and modularity of statically typed data abstractions.  The goal is to define a data abstraction that is extensible both in its representations and its behaviors, where one can add new representations and new behaviors to the data abstraction, without recompiling existing code, and while retaining static type safety (e.g., no casts).  The statement of the problem exposes deficiencies in [[https://en.wikipedia.org/wiki/Programming_paradigm][programming paradigms]] and [[https://en.wikipedia.org/wiki/Programming_language][programming languages]], and as of 2023 is still considered unsolved, although there are many proposed solutions.
+#+end_quote

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       3d496345-f0c5-4f04-bb7e-ed7af607d571
+:ROAM_REFS: https://en.wikipedia.org/wiki/Numerical_tower
+:END:
+#+title: (en.wikipedia.org) Numerical tower - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Scheme_(programming_language)][Scheme]], the *numerical tower* is a set of [[https://en.wikipedia.org/wiki/Data_types][data types]] that represent [[https://en.wikipedia.org/wiki/Number][numbers]] and a logic for their hierarchical organisation.
+
+  Each type in the tower conceptually "sits on" a more fundamental type, so an [[https://en.wikipedia.org/wiki/Integer][integer]] is a [[https://en.wikipedia.org/wiki/Rational_number][rational number]] and a [[https://en.wikipedia.org/wiki/Number][number]], but the converse is not necessarily true, i.e. not every number is an integer.  This asymmetry implies that a language can safely allow [[https://en.wikipedia.org/wiki/Type_conversion][implicit coercions]] of numerical types---without creating semantic problems---in only one direction: coercing an integer to a rational loses no information and will never influence the value returned by a function, but to coerce most reals to an integer would alter any relevant computation (e.g., the real 1/3 does not equal any integer) and is thus impermissible.
+#+end_quote

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       3a79bf3b-f171-4794-9c0b-6b4cd4cf6b57
+:ROAM_REFS: https://en.wikipedia.org/wiki/Common_Lisp_Object_System
+:END:
+#+title: (en.wikipedia.org) Common Lisp Object System - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  The *Common Lisp Object System (CLOS)* is the facility for [[https://en.wikipedia.org/wiki/Object-oriented_programming][object-oriented programming]] in [[https://en.wikipedia.org/wiki/American_National_Standards_Institute][ANSI]] [[https://en.wikipedia.org/wiki/Common_Lisp][Common Lisp]].  CLOS is a powerful [[https://en.wikipedia.org/wiki/Dynamic_programming_language][dynamic]] object system which differs radically from the OOP facilities found in more [[https://en.wikipedia.org/wiki/Static_language][static languages]] such as [[https://en.wikipedia.org/wiki/C++][C++]] or [[https://en.wikipedia.org/wiki/Java_(programming_language)][Java]].  CLOS was inspired by earlier Lisp object systems such as [[https://en.wikipedia.org/wiki/Flavors_(computer_science)][MIT Flavors]] and [[https://en.wikipedia.org/wiki/CommonLoops][CommonLoops]], although it is more general than either.  Originally proposed as an add-on, CLOS was adopted as part of the ANSI standard for Common Lisp and has been adapted into other Lisp dialects such as [[https://en.wikipedia.org/wiki/EuLisp][EuLisp]] or [[https://en.wikipedia.org/wiki/Emacs_Lisp][Emacs Lisp]].
+#+end_quote

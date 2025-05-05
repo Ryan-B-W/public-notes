@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       534896b8-bb7d-4603-9c55-c4803d6feeb0
+:ROAM_REFS: https://www.youtube.com/watch?v=kc9HwsxE1OY
+:END:
+#+title: (www.youtube.com) The Unreasonable Effectiveness of Multiple Dispatch | Stefan Karpinski | JuliaCon 2019 - YouTube
+#+filetags: :programming:julia_lang:video:website:
+
+#+begin_quote
+  If you're familiar with Julia and its ecosystem, you may have noticed something lovely but a bit puzzling: there seems to be an unusually large amount of code reuse between packages compared to other seemingly similar languages.  This sharing of code comes in two forms:
+
+  1. Sharing basic types among a wide variety of packages providing disparate functionality;\\
+  2. Sharing generic algorithms that work on various implementations of common abstractions.
+
+  Why does generic code in Julia "just work"?  Why do Julia packages seem to share types with so little friction?  Both kinds of reuse are supposed to be natural benefits of class-based object-oriented languages.  After all, inheritance and encapsulation are two of the four pillars of OOP.  Even more puzzling is that Julia has no encapsulation and doesn't allow inheriting from concrete types at all.  Yet both kinds of code reuse are rampant.  What is going on?  In this talk, I make the case that both of kinds sharing stem directly from Julia's multiple dispatch programming paradigm.
+#+end_quote

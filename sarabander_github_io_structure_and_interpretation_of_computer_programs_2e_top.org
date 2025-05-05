@@ -72,6 +72,15 @@ Main node: [[id:69d3e2e7-62dc-414f-90ee-86f4b4abbcb0][(sarabander.github.io) Str
 :ID:       597e2dfe-3c20-4137-b005-390b5d614509
 :ROAM_REFS: https://sarabander.github.io/sicp/html/2_002e5.xhtml
 :END:
+*** (sarabander.github.io) SICP, 2e: 2.5, Footnote 118
+:PROPERTIES:
+:ID:       eba3acf1-4582-49c4-b2af-4b66ac11437f
+:ROAM_REFS: https://sarabander.github.io/sicp/html/2_002e5.xhtml#FOOT118
+:END:
+
+#+begin_quote
+  This statement, which also appears in the first edition of this book, is just as true now as it was when we wrote it twelve years ago.  Developing a useful, general framework for expressing the relations among different types of entities (what philosophers call “ontology”) seems intractably difficult.  The main difference between the confusion that existed ten years ago and the confusion that exists now is that now a variety of inadequate ontological theories have been embodied in a plethora of correspondingly inadequate programming languages.  For example, much of the complexity of object-oriented programming languages---and the subtle and confusing differences among contemporary object-oriented languages---centers on the treatment of generic operations on interrelated types.  Our own discussion of computational objects in [[https://sarabander.github.io/sicp/html/Chapter-3.xhtml#Chapter-3][Chapter 3]] avoids these issues entirely.  Readers familiar with object-oriented programming will notice that we have much to say in chapter 3 about local state, but we do not even mention “classes” or “inheritance.”  In fact, we suspect that these problems cannot be adequately addressed in terms of computer-language design alone, without also drawing on work in knowledge representation and automated reasoning.
+#+end_quote
 * (sarabander.github.io) SICP, 2e: Chapter 3 Modularity, Objects, and State
 :PROPERTIES:
 :ID:       5181afc7-8056-4a0b-9f8b-9e5c1908a0e5

@@ -1,0 +1,277 @@
+:PROPERTIES:
+:ID:       20c249a9-d226-41ee-a4cd-6d24417c300a
+:ROAM_REFS: https://en.wikipedia.org/wiki/Multiple_dispatch
+:END:
+#+title: (en.wikipedia.org) Multiple dispatch - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  *Multiple dispatch* or *multimethods* is a feature of some [[https://en.wikipedia.org/wiki/Programming_language][programming languages]] in which a [[https://en.wikipedia.org/wiki/Subroutine][function]] or [[https://en.wikipedia.org/wiki/Method_(computer_programming)][method]] can be [[https://en.wikipedia.org/wiki/Dynamic_dispatch][dynamically dispatched]] based on the [[https://en.wikipedia.org/wiki/Run_time_(program_lifecycle_phase)][run-time]] (dynamic) type or, in the more general case, some other attribute of more than one of its [[https://en.wikipedia.org/wiki/Parameter_(computer_programming)][arguments]].  This is a generalization of [[https://en.wikipedia.org/wiki/Single-dispatch][single-dispatch]] [[https://en.wikipedia.org/wiki/Polymorphism_in_object-oriented_programming][polymorphism]] where a function or method call is dynamically dispatched based on the derived type of the object on which the method has been called.  Multiple dispatch routes the dynamic dispatch to the implementing function or method using the combined characteristics of one or more arguments.
+#+end_quote
+* (en.wikipedia.org) Python - Extending Languages with Multiple-dispatch Libraries - Examples - Multiple dispatch - Wikipedia
+:PROPERTIES:
+:ID:       a2904658-1ceb-494b-b3b9-fc0889140872
+:ROAM_REFS: https://en.wikipedia.org/wiki/Multiple_dispatch#Python
+:END:
+#+begin_quote
+  **** Python
+
+  Multiple dispatch can be added to [[https://en.wikipedia.org/wiki/Python_(programming_language)][Python]] using a [[https://en.wikipedia.org/wiki/Library_(computing)][library]] extension.  For example, using the module /multimethod.py/ and also with the module /multimethods.py/ which provides CLOS-style multimethods for [[https://en.wikipedia.org/wiki/Python_(programming_language)][Python]] without changing the underlying syntax or keywords of the language.
+
+  #+begin_src python
+    from multimethods import Dispatch
+    from game_objects import Asteroid, Spaceship
+    from game_behaviors import as_func, ss_func, sa_func
+
+    collide = Dispatch()
+    collide.add_rule((Asteroid, Spaceship), as_func)
+    collide.add_rule((Spaceship, Spaceship), ss_func)
+    collide.add_rule((Spaceship, Asteroid), sa_func)
+
+    def aa_func(a, b):
+        """Behavior when asteroid hits asteroid."""
+        # ...define new behavior...
+
+    collide.add_rule((Asteroid, Asteroid), aa_func)
+  #+end_src
+
+  #+begin_src python
+    # ...later...
+    collide(thing1, thing2)
+  #+end_src
+
+  Functionally, this is very similar to the CLOS example, but the syntax is conventional Python.
+
+  Using Python 2.4 [[https://en.wikipedia.org/wiki/Python_syntax_and_semantics#Decorators][decorators]], [[https://en.wikipedia.org/wiki/Guido_van_Rossum][Guido van Rossum]] produced a sample implementation of multimethods with a simplified syntax:
+
+  #+begin_src python
+    @multimethod(Asteroid, Asteroid)
+    def collide(a, b):
+        """Behavior when asteroid hits a asteroid."""
+        # ...define new behavior...
+    @multimethod(Asteroid, Spaceship)
+    def collide(a, b):
+        """Behavior when asteroid hits a spaceship."""
+        # ...define new behavior...
+    # ... define other multimethod rules ...
+  #+end_src
+
+  and then it goes on to define the multimethod decorator.
+
+  The PEAK-Rules package provides multiple dispatch with a syntax similar to the above example.  It was later replaced by PyProtocols.
+
+  The Reg library also supports multiple and predicate dispatch.
+
+  With the introduction of [[https://en.wikipedia.org/wiki/Python_syntax_and_semantics#Function_annotations][type hints]], multiple dispatch is possible with even simpler syntax.  For example, using [[https://github.com/beartype/plum][plum-dispatch]],
+
+  #+begin_src python
+    from plum import dispatch
+
+    @dispatch
+    def collide(a: Asteroid, b: Asteroid):
+        """Behavior when asteroid hits a asteroid."""
+        # ...define new behavior...
+
+    @dispatch
+    def collide(a: Asteroid, b: Spaceship):
+        """Behavior when asteroid hits a spaceship."""
+        # ...define new behavior...
+
+    # ...define further rules...
+  #+end_src
+#+end_quote
+* (en.wikipedia.org) C++ - Emulating Multiple Dispatch - Examples - Multiple dispatch - Wikipedia
+:PROPERTIES:
+:ID:       5d0865bd-877f-4ca9-aaf4-691aaec4a3c1
+:ROAM_REFS: https://en.wikipedia.org/wiki/Multiple_dispatch#C++
+:END:
+#+begin_quote
+  **** C++
+
+  As of 2021, [[https://en.wikipedia.org/wiki/C++][C++]] natively supports only single dispatch, though adding multi-methods (multiple dispatch) was proposed by [[https://en.wikipedia.org/wiki/Bjarne_Stroustrup][Bjarne Stroustrup]] (and collaborators) in 2007.  The methods of working around this limit are analogous: use either the [[https://en.wikipedia.org/wiki/Visitor_pattern][visitor pattern]], dynamic cast or a library:
+
+  #+begin_src cpp
+    // Example using run time type comparison via dynamic_cast
+
+    struct Thing {
+        virtual void collideWith(Thing& other) = 0;
+    };
+
+    struct Asteroid : Thing {
+        void collideWith(Thing& other) {
+            // dynamic_cast to a pointer type returns NULL if the cast fails
+            // (dynamic_cast to a reference type would throw an exception on failure)
+            if (auto asteroid = dynamic_cast<Asteroid*>(&other)) {
+                // handle Asteroid-Asteroid collision
+            } else if (auto spaceship = dynamic_cast<Spaceship*>(&other)) {
+                // handle Asteroid-Spaceship collision
+            } else {
+                // default collision handling here
+            }
+        }
+    };
+
+    struct Spaceship : Thing {
+        void collideWith(Thing& other) {
+            if (auto asteroid = dynamic_cast<Asteroid*>(&other)) {
+                // handle Spaceship-Asteroid collision
+            } else if (auto spaceship = dynamic_cast<Spaceship*>(&other)) {
+                // handle Spaceship-Spaceship collision
+            } else {
+                // default collision handling here
+            }
+        }
+    };
+  #+end_src
+
+  or pointer-to-method lookup table:
+
+  #+begin_src cpp
+    #include <cstdint>
+    #include <typeinfo>
+    #include <unordered_map>
+
+    class Thing {
+      protected:
+        Thing(std::uint32_t cid) : tid(cid) {}
+        const std::uint32_t tid; // type id
+
+        typedef void (Thing::*CollisionHandler)(Thing& other);
+        typedef std::unordered_map<std::uint64_t, CollisionHandler> CollisionHandlerMap;
+
+        static void addHandler(std::uint32_t id1, std::uint32_t id2, CollisionHandler handler) {
+            collisionCases.insert(CollisionHandlerMap::value_type(key(id1, id2), handler));
+        }
+        static std::uint64_t key(std::uint32_t id1, std::uint32_t id2) {
+            return std::uint64_t(id1) << 32 | id2;
+        }
+
+        static CollisionHandlerMap collisionCases;
+
+      public:
+        void collideWith(Thing& other) {
+            auto handler = collisionCases.find(key(tid, other.tid));
+            if (handler != collisionCases.end()) {
+                (this->*handler->second)(other); // pointer-to-method call
+            } else {
+                // default collision handling
+            }
+        }
+    };
+
+    class Asteroid: public Thing {
+        void asteroid_collision(Thing& other)   { /*handle Asteroid-Asteroid collision*/ }
+        void spaceship_collision(Thing& other)  { /*handle Asteroid-Spaceship collision*/}
+
+      public:
+        Asteroid(): Thing(cid) {}
+        static void initCases();
+        static const std::uint32_t cid;
+    };
+
+    class Spaceship: public Thing {
+        void asteroid_collision(Thing& other)   { /*handle Spaceship-Asteroid collision*/}
+        void spaceship_collision(Thing& other)  { /*handle Spaceship-Spaceship collision*/}
+
+      public:
+        Spaceship(): Thing(cid) {}
+        static void initCases();
+        static const std::uint32_t cid; // class id
+    };
+
+    Thing::CollisionHandlerMap Thing::collisionCases;
+    const std::uint32_t Asteroid::cid = typeid(Asteroid).hash_code();
+    const std::uint32_t Spaceship::cid = typeid(Spaceship).hash_code();
+
+    void Asteroid::initCases() {
+        addHandler(cid, cid, CollisionHandler(&Asteroid::asteroid_collision));
+        addHandler(cid, Spaceship::cid, CollisionHandler(&Asteroid::spaceship_collision));
+    }
+
+    void Spaceship::initCases() {
+        addHandler(cid, Asteroid::cid, CollisionHandler(&Spaceship::asteroid_collision));
+        addHandler(cid, cid, CollisionHandler(&Spaceship::spaceship_collision));
+    }
+
+    int main() {
+        Asteroid::initCases();
+        Spaceship::initCases();
+
+        Asteroid  a1, a2;
+        Spaceship s1, s2;
+
+        a1.collideWith(a2);
+        a1.collideWith(s1);
+
+        s1.collideWith(s2);
+        s1.collideWith(a1);
+    }
+  #+end_src
+
+  The /YOMM2/ library provides a fast, orthogonal implementation of open multimethods.
+
+  The syntax for declaring open methods is inspired by a proposal for a native C++ implementation.  The library requires that the user registers all the classes used as virtual arguments (and their sub-classes), but does not require any modifications to existing code.  Methods are implemented as ordinary inline C++ functions; they can be overloaded and they can be passed by pointer.  There is no limit on the number of virtual arguments, and they can be arbitrarily mixed with non-virtual arguments.
+
+  The library uses a combination of techniques (compressed dispatch tables, collision free integer hash table) to implement method calls in constant time, while mitigating memory usage.  Dispatching a call to an open method with a single virtual argument takes only 15--30% more time than calling an ordinary virtual member function, when a modern optimizing compiler is used.
+
+  The Asteroids example can be implemented as follows:
+
+  #+begin_src cpp
+    #include <yorel/yomm2/keywords.hpp>
+    #include <memory>
+
+    class Thing {
+      public:
+        virtual ~Thing() {}
+    };
+
+    class Asteroid : public Thing {
+    };
+
+    class Spaceship : public Thing {
+    };
+
+    register_classes(Thing, Spaceship, Asteroid);
+
+    declare_method(void, collideWith, (virtual_<Thing&>, virtual_<Thing&>));
+
+    define_method(void, collideWith, (Thing& left, Thing& right)) {
+        // default collision handling
+    }
+
+    define_method(void, collideWith, (Asteroid& left, Asteroid& right)) {
+        // handle Asteroid-Asteroid collision
+    }
+
+    define_method(void, collideWith, (Asteroid& left, Spaceship& right)) {
+        // handle Asteroid-Spaceship collision
+    }
+
+    define_method(void, collideWith, (Spaceship& left, Asteroid& right)) {
+        // handle Spaceship-Asteroid collision
+    }
+
+    define_method(void, collideWith, (Spaceship& left, Spaceship& right)) {
+        // handle Spaceship-Spaceship collision
+    }
+
+    int main() {
+        yorel::yomm2::update_methods();
+
+        std::unique_ptr<Thing> a1(std::make_unique<Asteroid>()),
+            a2(std::make_unique<Asteroid>());
+        std::unique_ptr<Thing> s1(std::make_unique<Spaceship>()),
+            s2(std::make_unique<Spaceship>());
+        // note: types partially erased
+
+        collideWith(*a1, *a2); // Asteroid-Asteroid collision
+        collideWith(*a1, *s1); // Asteroid-Spaceship collision
+        collideWith(*s1, *a1); // Spaceship-Asteroid collision
+        collideWith(*s1, *s2); // Spaceship-Spaceship collision
+
+        return 0;
+    }
+  #+end_src
+
+  Stroustrup mentions in /The Design and Evolution of C++/ that he liked the concept of multimethods and considered implementing it in C++ but claims to have been unable to find an efficient sample implementation (comparable to virtual functions) and resolve some possible type ambiguity problems.  He then states that although the feature would still be nice to have, that it can be approximately implemented using [[https://en.wikipedia.org/wiki/Double_dispatch][double dispatch]] or a type based lookup table as outlined in the C/C++ example above so is a low priority feature for future language revisions.
+#+end_quote
