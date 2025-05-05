@@ -12,17 +12,21 @@
 #+latex_header: \usepackage{breakcites}
 #+latex_header: \usepackage{paralist}
 #+latex_header: \usepackage{ifpdf}
+#+latex_header: \usepackage[backend=biber,style=mla]{biblatex}
+#+latex_header: \addbibresource{bibliography.bib}
 #+latex_header: \usepackage{enotez}
 #+latex_header: \let\footnote\endnote
 #+latex_header: \let\itemize\compactitem
 #+latex_header: \let\description\compactdesc
 #+latex_header: \let\enumerate\compactenum
 
-Document body.
+Document body \parencite[page 1]{Test1}.
 
 \clearpage
 * Endnotes
 \printendnotes
+\clearpage
+\printbibliography
 * COMMENT Local Variables
 # Local Variables:
 # org-latex-title-command: ""
