@@ -1,0 +1,56 @@
+:PROPERTIES:
+:ID:       5c660a6d-892f-40f4-a7f8-1d3b152e704d
+:END:
+#+title: Excalidraw
+#+filetags: :open_source:diagramming:www:software:
+
+[[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][Open-source]], [[id:05f2a17c-4ceb-42fa-bcc8-16d61473804b][web]]-based, visual [[id:d305645c-9440-454e-bfd1-d5d4e25027b0][diagramming]] software.
+* (excalidraw.com) Excalidraw                                       :website:
+:PROPERTIES:
+:ID:       8a648f87-05c9-4509-8b82-40f7f2f90784
+:ROAM_REFS: https://excalidraw.com/
+:END:
+* (github.com) excalidraw/excalidraw: Virtual whiteboard for sketching hand-drawn like diagrams :website:
+:PROPERTIES:
+:ID:       0ceb2996-ce6b-4585-978a-566de6fedf3e
+:ROAM_REFS: https://github.com/excalidraw/excalidraw
+:END:
+
+#+begin_quote
+  **** [[https://excalidraw.com/][Excalidraw Editor]] | [[https://plus.excalidraw.com/blog][Blog]] | [[https://docs.excalidraw.com/][Documentation]] | [[https://plus.excalidraw.com/][Excalidraw+]]
+
+  ** An open source virtual hand-drawn style whiteboard.  Collaborative and end-to-end encrypted.
+
+  Create beautiful hand-drawn like diagrams, wireframes, or whatever you like.
+
+  ** Features
+
+  The Excalidraw editor (npm package) supports:
+
+  - 💯 Free & open-source.
+  - 🎨 Infinite, canvas-based whiteboard.
+  - ✍️ Hand-drawn like style.
+  - 🌓 Dark mode.
+  - 🏗️ Customizable.
+  - 📷 Image support.
+  - 😀 Shape libraries support.
+  - 👅 Localization (i18n) support.
+  - 🖼️ Export to PNG, SVG & clipboard.
+  - 💾 Open format - export drawings as an =.excalidraw= json file.
+  - ⚒️ Wide range of tools - rectangle, circle, diamond, arrow, line, free-draw, eraser...
+  - ➡️ Arrow-binding & labeled arrows.
+  - 🔙 Undo / Redo.
+  - 🔍 Zoom and panning support.
+
+  ** Excalidraw.com
+
+  The app hosted at [[https://excalidraw.com/][excalidraw.com]] is a minimal showcase of what you can build with Excalidraw.  Its [[https://github.com/excalidraw/excalidraw/tree/master/excalidraw-app][source code]] is part of this repository as well, and the app features:
+
+  - 📡 PWA support (works offline).
+  - 🤼 Real-time collaboration.
+  - 🔒 End-to-end encryption.
+  - 💾 Local-first support (autosaves to the browser).
+  - 🔗 Shareable links (export to a readonly link you can share with others).
+
+  We'll be adding these features as drop-in plugins for the npm package in the future.
+#+end_quote

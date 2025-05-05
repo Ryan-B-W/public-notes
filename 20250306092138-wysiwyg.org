@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e4458b32-801d-48b8-8fa5-b021c7406e2d
+:ROAM_ALIASES: WYSIWYG "What You See Is What You Get"
 :END:
 #+title: WYSIWYG (What You See Is What You Get)
 #+filetags: :human_interaction:computer_science:design:

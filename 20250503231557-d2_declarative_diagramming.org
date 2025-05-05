@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       47e87869-a701-429d-94ba-e5ffbf5bf45f
+:ROAM_ALIASES: D2
+:END:
+#+title: D2: Declarative Diagramming
+#+filetags: :open_source:markup:diagramming:graphics:software:
+
+An [[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][open-source]], diagram scripting language.
+* (d2lang.com) Home | D2 Documentation                              :website:
+:PROPERTIES:
+:ID:       a99787de-ca18-46aa-9190-bc0b3717a7f9
+:ROAM_REFS: https://d2lang.com/
+:END:
+
+#+begin_quote
+  * D2: Declarative Diagramming
+
+  A modern language that turns text to diagrams
+
+  Create beautiful diagrams in minutes.  Simple syntax.  Endlessly customizable.  D2 is the fastest and easiest way to get a mental model from your head onto the screen, then make edits with your team.
+#+end_quote
+* (github.com) terrastruct/d2: D2 is a modern diagram scripting language that turns text to diagrams. :website:
+:PROPERTIES:
+:ID:       ab3c89dd-8ffe-4c14-a741-e881bbe666f9
+:ROAM_REFS: https://github.com/terrastruct/d2
+:END:

@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       ab3c89dd-8ffe-4c14-a741-e881bbe666f9
-:ROAM_REFS: https://github.com/terrastruct/d2
-:END:
-#+title: (github.com) terrastruct/d2: D2 is a modern diagram scripting language that turns text to diagrams.
-#+filetags: :open_source:markup:diagramming:software:website:

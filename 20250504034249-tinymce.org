@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       87aa3788-acf3-4500-88c2-760a77dbbfc5
+:END:
+#+title: TinyMCE
+#+filetags: :text_editing:www:software:
+
+[[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][Open-source]], [[id:e4458b32-801d-48b8-8fa5-b021c7406e2d][WYSIWYG]] [[id:05f2a17c-4ceb-42fa-bcc8-16d61473804b][web]] rich-text editor and library.
+* (www.tiny.cloud) The Most Trusted & Feature-rich WYSIWYG Rich Text Editor | TinyMCE :website:
+:PROPERTIES:
+:ID:       94ff213d-0b30-4cdc-97ef-ad923640fba7
+:ROAM_REFS: https://www.tiny.cloud/
+:END:
+* (github.com) tinymce/tinymce: The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular :website:
+:PROPERTIES:
+:ID:       b6d4d6df-eddc-41f4-b0aa-81a07283c638
+:ROAM_REFS: https://github.com/tinymce/tinymce
+:END:
+* (en.wikipedia.org) TinyMCE - Wikipedia                            :website:
+:PROPERTIES:
+:ID:       ede3f81d-c684-4c7d-bd66-7dc6f5c56f1b
+:ROAM_REFS: https://en.wikipedia.org/wiki/TinyMCE
+:END:
+
+#+begin_quote
+  *TinyMCE* is an [[https://en.wikipedia.org/wiki/Online_rich-text_editor][online rich-text editor]] released as [[https://en.wikipedia.org/wiki/Open-source_software][open-source software]] under the [[https://en.wikipedia.org/wiki/GNU_General_Public_License][GNU General Public License]] version 2 or later.  TinyMCE uses a [[https://en.wikipedia.org/wiki/Freemium][freemium]] business model that includes a free Core editor and paid plans with advanced features.  It converts HTML =textarea= fields, or other designated HTML elements, into editor instances.
+
+  TinyMCE is designed to integrate with [[https://en.wikipedia.org/wiki/JavaScript_libraries][JavaScript libraries]] such as [[https://en.wikipedia.org/wiki/React_(JavaScript_library)][React]], [[https://en.wikipedia.org/wiki/Vue.js][Vue.js]], [[https://en.wikipedia.org/wiki/Angular_(web_framework)][Angular]] and StencilJS as well as [[https://en.wikipedia.org/wiki/Content_management_system][content management systems]] such as [[https://en.wikipedia.org/wiki/Joomla!][Joomla!]], and [[https://en.wikipedia.org/wiki/WordPress][WordPress]].
+#+end_quote

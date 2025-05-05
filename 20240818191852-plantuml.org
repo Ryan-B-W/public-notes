@@ -2,10 +2,10 @@
 :ID:       73e3d83c-ece6-4f88-8045-d46e6eaa530f
 :END:
 #+title: PlantUML
-#+filetags: :open_source:software:
+#+filetags: :open_source:diagramming:software:
 
 [[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][Open-source]] [[id:d305645c-9440-454e-bfd1-d5d4e25027b0][diagram]] software for making [[id:fab53e34-ce16-4d92-acfb-225d47dbbef7][UML]] diagrams via a description language or visually with a builder tool.
-* Open-source tool that uses simple textual descriptions to draw beautiful [[id:fab53e34-ce16-4d92-acfb-225d47dbbef7][UML]] diagrams. :open_source:software:website:
+* Open-source tool that uses simple textual descriptions to draw beautiful [[id:fab53e34-ce16-4d92-acfb-225d47dbbef7][UML]] diagrams. :website:
 :PROPERTIES:
 :ID:       ff889383-1dae-4f11-b9cc-3d0edef05683
 :ROAM_REFS: https://plantuml.com/

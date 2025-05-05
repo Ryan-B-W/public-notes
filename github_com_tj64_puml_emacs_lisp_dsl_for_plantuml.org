@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       96334fa8-ca99-447d-88d6-d6ecde594c14
+:ROAM_REFS: https://github.com/tj64/puml
+:END:
+#+title: (github.com) tj64/puml: Emacs Lisp DSL for PlantUML
+#+filetags: :website:
+
+[[id:eac73a7d-f14b-4ec4-bc18-08d864e6c4c0][Emacs Lisp]] DSL for [[id:73e3d83c-ece6-4f88-8045-d46e6eaa530f][PlantUML]].

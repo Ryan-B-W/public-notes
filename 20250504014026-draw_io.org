@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       f6e16cb0-a294-48b3-b950-94862e3be554
+:END:
+#+title: Draw.io
+#+filetags: :diagramming:www:software:
+
+Source-available, [[id:05f2a17c-4ceb-42fa-bcc8-16d61473804b][web]]-based, visual [[id:d305645c-9440-454e-bfd1-d5d4e25027b0][diagramming]] software.
+* (app.diagrams.net) draw.io                                        :website:
+:PROPERTIES:
+:ID:       31c7fdcf-2176-4542-b6bb-f1f3fc497994
+:ROAM_REFS: https://app.diagrams.net/ http://draw.io/
+:END:
+* (www.drawio.com) draw.io                                          :website:
+:PROPERTIES:
+:ID:       8a62c2ba-8d28-45c2-8ac0-82d1cd98bbae
+:ROAM_REFS: https://www.drawio.com/
+:END:
+* (github.com) jgraph/drawio: draw.io is a JavaScript, client-side editor for general diagramming. :website:
+:PROPERTIES:
+:ID:       64880593-1043-46ff-b9d9-a4163f52ad2d
+:ROAM_REFS: https://github.com/jgraph/drawio
+:END:
+
+#+begin_quote
+  ** About
+
+  draw.io, this project, is a configurable diagramming/whiteboarding visualization application. draw.io is jointly owned and developed by JGraph Ltd and draw.io AG.
+
+  As well as running this project, we run a production-grade deployment of the diagramming interface at [[https://app.diagrams.net/][https://app.diagrams.net]].
+#+end_quote

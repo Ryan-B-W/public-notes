@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       b66434fb-659b-45fa-b7ca-ddc3fce752c9
+:END:
+#+title: ArgoUML
+#+filetags: :open_source:diagramming:software:
+
+An [[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][open-source]], graphical [[id:fab53e34-ce16-4d92-acfb-225d47dbbef7][UML]] [[id:d305645c-9440-454e-bfd1-d5d4e25027b0][diagramming]] software.
+* (argouml-tigris-org.github.io) ArgoUML Resources Site | ArgoUML   :website:
+:PROPERTIES:
+:ID:       92c795f5-ddb2-48ec-af57-5ba56672c54c
+:ROAM_REFS: http://argouml.org/ https://argouml-tigris-org.github.io/
+:END:
+
+#+begin_quote
+  * Website for the ArgoUML work
+
+  Main pages for the project:
+
+  - [[https://github.com/argouml-tigris-org/argouml/wiki][Github Wiki]]
+  - [[https://github.com/argouml-tigris-org][Organization on github]]
+  - [[https://argouml-tigris-org.github.io/sites.html][Maven sites]] - updated by maven job
+  - [[https://github.com/argouml-tigris-org/argouml/releases][Releases]] - the existing releases are old, moved from the tigris web site
+#+end_quote
+* (github.com) argouml-tigris-org/argouml: Main project of argouml. Some information in the wiki. Some old releases in releases. (depends on parentpom, testmodels) :website:
+:PROPERTIES:
+:ID:       9c4baeba-414d-4104-80dc-554bdcba2201
+:ROAM_REFS: https://github.com/argouml-tigris-org/argouml
+:END:
+
+#+begin_quote
+  * argouml
+
+  Main project of argouml.
+
+  Started in January 1998.  Converted from CVS to Subversion in 2006.  Converted to git in 2019.
+#+end_quote
+* (en.wikipedia.org) ArgoUML - Wikipedia                            :website:
+:PROPERTIES:
+:ID:       6e8b56c0-5710-48ab-9a8c-6335965fb659
+:ROAM_REFS: https://en.wikipedia.org/wiki/ArgoUML
+:END:
+
+#+begin_quote
+  *ArgoUML* is an [[https://en.wikipedia.org/wiki/Unified_Modeling_Language][UML]] diagramming application written in Java and released under the [[https://en.wikipedia.org/wiki/Open-source_license][open source]] [[https://en.wikipedia.org/wiki/Eclipse_Public_License][Eclipse Public License]].  By virtue of being a [[https://en.wikipedia.org/wiki/Java_(programming_language)][Java]] application, it is available on any platform supported by [[https://en.wikipedia.org/wiki/Java_SE][Java SE]].
+#+end_quote

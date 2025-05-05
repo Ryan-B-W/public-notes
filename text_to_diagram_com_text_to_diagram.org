@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       507e5599-115b-4cf1-9059-219b6f25d460
+:ROAM_REFS: https://text-to-diagram.com/
+:END:
+#+title: (text-to-diagram.com) Text to diagram
+#+filetags: :website:
+
+Online comparison of markup-based [[id:d305645c-9440-454e-bfd1-d5d4e25027b0][diagramming]] software.
+
+#+begin_quote
+  * Community list of comparisonsbetween Text to Diagram tools
+#+end_quote

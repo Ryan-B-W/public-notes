@@ -1,0 +1,135 @@
+:PROPERTIES:
+:ID:       0c139c35-2577-4e81-9904-dc11da80d35a
+:END:
+#+title: JS Paint
+#+filetags: :open_source:graphics:www:software:
+
+[[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][Open-source]], [[id:05f2a17c-4ceb-42fa-bcc8-16d61473804b][web]]-based MS Paint clone.
+
+See also [[id:d06bd038-1d11-470c-a3fe-cb49fa5ac662][98.js]], which includes JS Paint as part of it.
+* (jspaint.app) Paint                                               :website:
+:PROPERTIES:
+:ID:       9652db87-143f-490a-945a-d3dd32fa26f6
+:ROAM_REFS: https://jspaint.app/#local:a5c130427e4df8
+:END:
+* (jspaint.app) JS Paint — MS Paint online                          :website:
+:PROPERTIES:
+:ID:       2881a378-1fc4-4142-9257-80c8f481c07d
+:ROAM_REFS: https://jspaint.app/about.html
+:END:
+
+#+begin_quote
+  * [[https://jspaint.app/][JS Paint]]
+
+  JS Paint is a pixel-perfect remake of Microsoft Paint that runs in the browser.
+
+  Open source under the permissive [[https://github.com/1j01/jspaint/blob/master/LICENSE.txt][MIT License]].
+
+  Request features and report bugs [[https://github.com/1j01/jspaint/issues][on GitHub]] or [[mailto://isaiahodhner@gmail.com?subject=JS%20Paint][by email]].
+
+  *THIS SITE IS...*
+
+  Try me!
+
+  Read about the project and extra features on [[https://github.com/1j01/jspaint#readme][the readme]].
+
+  Support the project at [[https://www.paypal.me/IsaiahOdhner][paypal.me/IsaiahOdhner]].
+#+end_quote
+* (github.com) 1j01/jspaint: 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras :website:
+:PROPERTIES:
+:ID:       2db0ab0b-a99b-4937-a08d-b9c957319f60
+:ROAM_REFS: https://github.com/1j01/jspaint
+:END:
+
+#+begin_quote
+  * [[https://jspaint.app/][JS Paint]]
+
+  A pixel-perfect web-based MS Paint remake and more... [[https://jspaint.app/][Try it out!]] Then join the [[https://discord.gg/jxQBK3k8tx][Discord server]] to share your art!
+
+  JS Paint recreates every tool and menu of MS Paint, and even [[https://github.com/1j01/jspaint#did-you-know][little-known features]], to a high degree of fidelity.
+
+  It supports themes, additional file types, and accessibility features like a Dwell Clicker and Speech Recognition.
+
+  [[https://github.com/1j01/jspaint/blob/master/images/meta/main-screenshot.png]]
+
+  Ah yes, good old Paint. Not the one with the [[https://www.google.com/search?tbm=isch&q=MS+Paint+Windows+7+ribbons][ribbons]] or the [[https://www.google.com/search?tbm=isch&q=MS+Fresh+Paint][new skeuomorphic one]] with the interface that can take up nearly half the screen. (And not the even newer [[https://www.microsoft.com/en-us/store/p/paint-3d-preview/9nblggh5fv99][Paint 3D]].)
+
+  Windows 95, 98, and XP were the golden years of Paint. You had a tool box and a color box, a foreground color and a background color, and that was all you needed.
+
+  Things were simple.
+
+  But we want to undo more than three actions. We want to edit transparent images. We can't just keep using the old Paint.
+
+  So that's why I'm making JS Paint. I want to bring good old Paint into the modern era.
+
+  **** Current improvements include:
+
+  - Open source ([[https://github.com/1j01/jspaint/blob/master/LICENSE.txt][MIT licensed]])
+  - Cross-platform
+  - Mobile friendly
+    - Touch support: use two fingers to pan the view, and pinch to zoom
+    - Click/tap the selected colors area to swap the foreground and background colors
+    - *View > Fullscreen* to toggle fullscreen mode, nice for small screens
+    - *Extras > Quick Undo Button* to add a floating undo button for easier access
+      - (this may be enabled by default in the future for touch devices)
+  - Web features
+    - *File > Load From URL...* to open an image from the Web.
+    - *File > Upload to Imgur* to upload the current image to Imgur.
+    - *Paste* supports loading from URLs.
+    - You can create links that will open an image from the Web in JS Paint. For example, this link will start with an isometric grid as a template: [[https://jspaint.app/#load:https://i.imgur.com/zJMrWwb.png]]
+    - Rudimentary *multi-user* collaboration support. Start up a session at [[https://jspaint.app/#session:multi-user-test][jspaint.app/#session:multi-user-test]] and send the link to your friends! It isn't seamless; actions by other users interrupt what you're doing, and visa versa. Sessions are not private, and you may lose your work at any time. If you want better collaboration support, follow the development of [[https://github.com/1j01/mopaint][Mopaint]].
+  - *Extras > Themes* to change the look of the app.
+    - Dark and light variants
+    - Vector tool icons handcrafted to match the pixel art versions, for both Modern and Classic themes
+    - Occult theme, in the spirit of Halloween
+    - Winter theme, with a special color palette including candy cane stripes, and advent calendar style flaps revealing pixel art for each tool
+    - Bubblegum theme, featuring /Business Pink/ color scheme and AI-generated icons
+  - *Extras > Enlarge UI* to make buttons and menus bigger, for usage with an eye tracker, head tracker, or other course input devices. May also work well for a tablet, but not so much for a phone at the moment.
+  - *Extras > Dwell Clicker* to click automatically by hovering in one spot, for usage with an eye tracker or head tracker.
+    - Hovered buttons are highlighted, and the click is performed after a delay.
+    - Supports dragging windows and drawing on the canvas.
+    - With just a webcam, you can try it out with [[https://eviacam.crea-si.com/][Enable Viacam]] (head tracker), [[https://sourceforge.net/projects/gazepointer/][GazePointer]] (eye tracker), or the built in [[https://trackymouse.js.org/][Tracky Mouse]] head tracker using *Extras > Head Tracker*.
+    - This feature can be easily added to other web applications, using the [[https://www.npmjs.com/package/tracky-mouse][Tracky Mouse API]].
+  - *Extras > Speech Recognition* to control the app with your voice.
+    - Select tools and colors ("fill tool", "orange", etc.)
+    - Pan the view ("scroll down and to the left", or "go southwest", etc.)
+    - Explore the menus, or activate any menu item without opening the menus first
+    - Interact with windows
+    - Dictate text with the Text tool
+  - Create an animated GIF from the current document history. Accessible from the Extras menu or with Ctrl+Shift+G. It's pretty nifty, you should try it out! You might want to limit the size of the image though.
+  - Load and save [[https://github.com/1j01/jspaint#color-palette-formats][many different palette formats]] with *Colors > Get Colors* and *Colors > Save Colors*. (I made a library for this: [[https://github.com/1j01/anypalette.js][AnyPalette.js]].)
+    - You can also drag and drop palette files into the app to load.
+
+  Editing Features:
+
+  - Use Alt+Mousewheel to zoom in and out
+  - Edit transparent images! To create a transparent image, go to *Image > Attributes...* and select Transparent, then OK, and then *Image > Clear Image* or use the Eraser tool. Images with /any/ translucent pixels will open in Transparent mode.
+  - You can crop the image by making a selection while holding Ctrl
+  - Keyboard shortcuts for rotation: Ctrl+. and Ctrl+, (< and >)
+  - Rotate by any arbitrary angle in *Image > Flip/Rotate*
+  - In *Image > Stretch/Skew*, you can stretch more than 500% at once
+  - Zoom to an arbitrary scale in *View > Zoom > Custom...*
+  - Zoom to fit the canvas within the window with *View > Zoom > Zoom To Window*
+  - Non-contiguous fill: Replace a color in the entire image by holding Shift when using the fill tool
+
+  Miscellaneous Improvements:
+
+  - [[https://jspaint.app/#vertical-color-box-mode][Vertical Color Box mode]], accessible from *Extras > Vertical Color Box*
+  - You can use the Text tool at any zoom level (and it previews the exact pixels that will end up on the canvas).
+  - Spellcheck is available in the textbox if your browser supports it.
+  - Resize handles are easier to grab than in Windows 10's Paint.
+  - Omits some Thumbnail view bugs, like the selection showing in the wrong place.
+  - Unlimited undos/redos (as opposed to a measly 3 in Windows XP, or a measly 50 in Windows 7)
+  - Undo history is /nonlinear/, which means if you undo and do something other than redo, the redos aren't discarded. Instead, a new branch is created in the /history tree/. Jump to any point in history with *Edit > History* or Ctrl+Shift+Y
+  - Automatically keeps a backup of your image. Only one backup per image tho, which doesn't give you a lot of safety. Remember to save with *File > Save* or Ctrl+S! Manage backups with *File > Manage Storage*.
+
+  [[https://github.com/1j01/jspaint/blob/master/images/meta/mobipaint.png]]
+
+  **** Limitations:
+
+  A few things with the tools aren't done yet. See [[https://github.com/1j01/jspaint/blob/master/TODO.md#Tools][TODO.md]]
+
+  Full clipboard support in the web app requires a browser supporting the [[https://developers.google.com/web/updates/2019/07/image-support-for-async-clipboard][Async Clipboard API w/ Images]], namely Chrome 76+ at the time of writing.
+
+  In other browsers you can still copy with Ctrl+C, cut with Ctrl+X, and paste with Ctrl+V, but data copied from JS Paint can only be pasted into other instances of JS Paint. External images can be pasted in.
+#+end_quote

@@ -1,0 +1,65 @@
+:PROPERTIES:
+:ID:       8d62fc59-25ba-4667-84dd-66e72a5db0cf
+:END:
+#+title: Dia
+#+filetags: :open_source:diagramming:software:
+
+[[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][Open-source]], visual [[id:d305645c-9440-454e-bfd1-d5d4e25027b0][diagramming]] software.
+* (wiki.gnome.org) Apps/Dia – GNOME Wiki Archive                    :website:
+:PROPERTIES:
+:ID:       7470f2a3-0e35-4c65-b11f-269c02ca4a4d
+:ROAM_REFS: https://wiki.gnome.org/Apps/Dia/
+:END:
+
+#+begin_quote
+  * Dia Diagram Editor
+
+  ** Versatile diagramming tool
+
+  Welcome to Dia's homepage.  Dia is a GTK+ based diagram creation program for GNU/Linux, MacOS X, Unix, and Windows, and is released under the GPL license.
+#+end_quote
+* (gitlab.gnome.org) GNOME / Dia · GitLab                           :website:
+:PROPERTIES:
+:ID:       b9005be5-1c67-45f6-84cb-a04ea9ee9e3c
+:ROAM_REFS: https://gitlab.gnome.org/GNOME/dia/
+:END:
+
+#+begin_quote
+  * Dia
+
+  ** [[https://gitlab.gnome.org/GNOME/dia/#about]]About
+
+  Dia is a program for drawing diagrams.
+
+  Homepage: [[https://wiki.gnome.org/Apps/Dia]]
+
+  Repository: [[https://gitlab.gnome.org/GNOME/Dia]]
+
+  Dia is a GNU program, and is Free Software.  See the COPYING file for the licence.
+
+  General documentation can be found in the [[https://gitlab.gnome.org/GNOME/dia/-/tree/master/doc][doc/]] directory.
+
+  If you are thinking of contributing (either code or diagrams), please see [[https://gitlab.gnome.org/GNOME/dia/-/blob/master/HACKING.md][HACKING.md]].
+
+  For compilation and installation instructions please see [[https://gitlab.gnome.org/GNOME/dia/-/blob/master/BUILDING.md][BUILDING.md]].
+#+end_quote
+* (dia-installer.de) Dia draws your structured diagrams: Free Windows, Mac OS X and Linux version of the popular open source program :website:
+:PROPERTIES:
+:ID:       658dfb93-e6ea-4865-986d-002f3c5f0abc
+:ROAM_REFS: http://dia-installer.de/
+:END:
+
+#+begin_quote
+  ** Overview
+
+  Dia is a program to draw structured diagrams.
+#+end_quote
+* (en.wikipedia.org) Dia (software) - Wikipedia                     :website:
+:PROPERTIES:
+:ID:       719f883b-c90d-41b1-821c-8bbb70362f48
+:ROAM_REFS: https://en.wikipedia.org/wiki/Dia_(software)
+:END:
+
+#+begin_quote
+  *Dia* ([[https://en.wikipedia.org/wiki/Help:IPA/English][/ˈdiːə/]]) is [[https://en.wikipedia.org/wiki/Free_and_open_source_software][free and open source]] general-purpose diagramming software, developed originally by Alexander Larsson.  It uses a controlled [[https://en.wikipedia.org/wiki/Single_document_interface][single document interface]] (SDI) similar to [[https://en.wikipedia.org/wiki/GIMP][GIMP]] and [[https://en.wikipedia.org/wiki/Inkscape][Inkscape]].
+#+end_quote

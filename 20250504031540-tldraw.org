@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       59814805-9cc4-4f58-8e69-4a72038d74d2
+:END:
+#+title: tldraw
+#+filetags: :diagramming:software:
+
+[[id:05f2a17c-4ceb-42fa-bcc8-16d61473804b][Web]]-based, visual [[id:d305645c-9440-454e-bfd1-d5d4e25027b0][diagramming]] software and source-available diagramming SDK.
+* (www.tldraw.com) tldraw • very good free whiteboard               :website:
+:PROPERTIES:
+:ID:       ef6df20c-afda-41d4-8098-032502ebbbc8
+:ROAM_REFS: https://www.tldraw.com/
+:END:
+
+Visual diagramming software.
+* (tldraw.dev) tldraw: Build whiteboards in React with the tldraw SDK :website:
+:PROPERTIES:
+:ID:       41c5cf26-1865-4c07-9b7d-d1e98cfe2f72
+:ROAM_REFS: https://tldraw.dev/
+:END:
+* (github.com) tldraw/tldraw: whiteboard SDK / infinite canvas SDK  :website:
+:PROPERTIES:
+:ID:       1f555c1d-05d4-4c97-80a3-ecbf6259b130
+:ROAM_REFS: https://github.com/tldraw/tldraw
+:END:
+
+#+begin_quote
+  * tldraw
+
+  Welcome to the public monorepo for [[https://github.com/tldraw/tldraw][tldraw]]. tldraw is a library for creating infinite canvas experiences in React.  It's the software behind the digital whiteboard [[https://tldraw.com/][tldraw.com]].
+
+  - Read the docs and learn more at [[https://tldraw.dev/][tldraw.dev]].
+  - Learn about [[https://github.com/tldraw/tldraw#License][our license]].
+
+  : [[https://tldraw.dev/#pricing][Click here]] to learn about our license and pricing.
+#+end_quote

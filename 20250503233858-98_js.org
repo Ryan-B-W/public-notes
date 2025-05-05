@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       d06bd038-1d11-470c-a3fe-cb49fa5ac662
+:END:
+#+title: 98.js
+#+filetags: :open_source:emulator:microsoft_windows:www:software:
+
+An [[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][open-source]], [[id:05f2a17c-4ceb-42fa-bcc8-16d61473804b][web]]-based approximation of Windows 98.
+* (98.js.org) 98.js - Windows 98 Online                             :website:
+:PROPERTIES:
+:ID:       5204ad80-c640-47b6-aab1-f48b91c171b4
+:ROAM_REFS: https://98.js.org/
+:END:
+* (github.com) 1j01/98: 💿 Web-based Windows 98 desktop recreation █████▓█▓▓▒▓▒▒░▒░░░🗕︎🗗︎🗙︎ :website:
+:PROPERTIES:
+:ID:       2438898a-2972-4a84-b708-26fd5bf2a571
+:ROAM_REFS: https://github.com/1j01/98
+:END:
+
+#+begin_quote
+  * [[https://98.js.org/][98.js]]
+
+  A web based Windows 98 desktop remake.
+
+  Includes:
+
+  - Notepad ([[https://github.com/1j01/98/blob/master/programs/notepad/README.md][separate README]])
+  - Sound Recorder ([[https://github.com/1j01/98/blob/master/programs/sound-recorder/README.md][separate README]])
+  - Paint ([[https://github.com/1j01/jspaint][separate repository]])
+  - Calculator ([[https://github.com/1j01/98/blob/master/programs/calculator/README.md][separate README]])
+  - 3D Pipes ([[https://github.com/1j01/pipes][separate repository]])
+  - 3D FlowerBox ([[https://github.com/kevin-shannon/3D-FlowerBox][original repository]]) by [[https://github.com/kevin-shannon][Kevin Shannon]]
+  - Minesweeper ([[https://github.com/1j01/98/blob/master/programs/minesweeper/README.md][separate README]]; [[https://github.com/ziebelje/minesweeper][original repository]]) by [[https://github.com/ziebelje/][Jon Ziebell]]
+  - Solitaire ([[https://github.com/rjanjic/js-solitaire][original repository]]) by [[https://github.com/rjanjic][Radovan Janjic]]
+  - Pinball ([[https://github.com/alula/SpaceCadetPinball][original repository]]) ported by [[https://github.com/k4zmu2a][Muzychenko Andrey]] and [[https://github.com/alula][Alula]]
+  - Winamp 2.9 ([[https://github.com/1j01/98/blob/master/programs/winamp/README.md][separate README]]; [[https://github.com/captbaritone/webamp][original repository]]) by [[https://jordaneldredge.com/][Jordan Eldredge]]
+  - Windows Explorer / Internet Explorer ([[https://github.com/1j01/98/blob/master/programs/explorer/README.md][separate README]])
+  - [[https://github.com/1j01/98/blob/master/images/icons/chm-16x16.png][Help Viewer]]
+  - 📎 Clippy ([[https://github.com/smore-inc/clippy.js][original repository]])
+
+  Features:
+
+  - Drop files onto the desktop, and they'll be stored in a virtual filesystem
+  - Load Windows themes! Many are included in the Themes folder on the desktop.
+  - Easter eggs (try a famous cheat code 😉)
+  - Meticulous detail in many areas (although there's obviously lots "missing")
+  - *Help > Help Topics* in Paint, Sound Recorder, Notepad, and Minesweeper
+  - You can add the site to your homescreen on mobile
+#+end_quote

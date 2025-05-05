@@ -1,10 +1,11 @@
 :PROPERTIES:
 :ID:       8b4bd3af-6778-44e2-94df-a383e93d0979
+:ROAM_ALIASES: SysML "Systems Modeling Language"
 :END:
 #+title: Systems Modeling Language (SysML)
 
 A visual language for modeling systems and a dialect of [[id:fab53e34-ce16-4d92-acfb-225d47dbbef7][UML 2]].
-* SysML Open Source Project: What is SysML? Who created it?
+* (sysml.org) SysML Open Source Project: What is SysML? Who created it?
 :PROPERTIES:
 :ID:       a9703f41-996e-4a0a-a3b9-47f7b31f95f3
 :ROAM_REFS: https://sysml.org/
@@ -16,7 +17,7 @@ Website of SysML, a systems modeling visual language.
   The SysML.org web provides information about the SysML Partners and their SysML Open Source Specification Project, which created the Systems Modeling Language (SysML) dialect (profile) of the Unified Modeling Language v. 2 ([[id:fab53e34-ce16-4d92-acfb-225d47dbbef7][UML 2]]) for systems engineering applications in 2003.  Subsequently, the Object Management Group (OMG) adopted a version of SysML as OMG SysML in 2006, and the Software Development Times awarded the SysML Partners with its "SD Times 100" award for industry leadership in the “Modeling” category in 2007.
   For information about the current version of OMG SysML, see the SysML FAQ: What is the current version of SysML?.
 #+end_quote
-** SysML FAQ: What is SysML?
+** (sysml.org) SysML FAQ: What is SysML?
 :PROPERTIES:
 :ID:       1b16725e-dac8-4b6b-8658-e8bc1344e533
 :ROAM_REFS: https://sysml.org/sysml-faq/what-is-sysml.html
