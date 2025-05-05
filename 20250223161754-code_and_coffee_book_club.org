@@ -256,6 +256,10 @@ Racket has native fractions which messes with implementing some of the examples 
 ***** [[id:afb88a4f-487d-4291-8e24-49548b222646][(cs.brown.edu) The Structure and Interpretation of the Computer Science Curriculum (sics.dvi - paper.pdf)]]
 ***** [[id:5d0865bd-877f-4ca9-aaf4-691aaec4a3c1][(en.wikipedia.org) C++ - Emulating Multiple Dispatch - Examples - Multiple dispatch - Wikipedia]]
 ***** "Design patterns are what happens when you run out of language"
-Quote from where?
+Seems to a mutation of Rich Hickey's
+#+begin_quote
+  Patterns mean "I have run out of language."
+#+end_quote
+which people seem to like quoting but not citing.
 ***** [[https://juliacon.org/2025/][JuliaCon 2025]]
 ***** [[id:eba3acf1-4582-49c4-b2af-4b66ac11437f][(sarabander.github.io) SICP, 2e: 2.5: Footnote #118]]
