@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       5a3b7c40-1c12-4896-9212-343f6649af45
+:ROAM_REFS: https://twitter.com/FractalEcho/status/1681632336771796992
+:END:
+#+title: (twitter.com) Rua M. Williams on Twitter: "This is not an email I ever expected to receive or send. https://t.co/5IBBhlvKcQ" / Twitter
+#+filetags: :twitter:autism:mental_health:quotes:website:
+
+#+begin_quote
+  This is not an email I ever expected to receive or send.
+#+end_quote
+
+Image of received email from tweet:
+#+begin_quote
+  The AI design of your email is clever, but significantly lacks warmth.  Would it be possible to be contacted by a human being moving forward instead of AI?  Many Thanks,
+#+end_quote
+Image of sent response email from tweet:
+#+begin_quote
+  It's not an AI.  I'm just Autistic.  See you next Friday.  Sent from Proton Mail mobile
+#+end_quote
