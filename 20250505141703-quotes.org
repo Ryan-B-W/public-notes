@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       beb21559-633e-4b33-a6e0-e1926dce439d
+:END:
+#+title: Quotes
+#+filetags: :quotes:lists:directory:
+
+Directory of quotes.
+
+* [[id:5a3b7c40-1c12-4896-9212-343f6649af45][(twitter.com) Rua M. Williams on Twitter: "This is not an email I ever expected to receive or send. https://t.co/5IBBhlvKcQ" / Twitter]]
+* [[id:7421929e-6baa-422b-b9e7-70e52df1ec3d][Greenspun's Tenth Rule]]
+* [[id:ea41f2ad-fc4a-421f-b675-206e328ae1a3][Those who cannot remember the past are condemned to repeat it]]
+* [[id:82d90c75-a218-4575-b8e9-a15b6b9f7646][Donald Knuth: "…premature optimization is the root of all evil…"]]
