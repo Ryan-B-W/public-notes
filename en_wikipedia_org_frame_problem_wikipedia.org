@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       b9e47c79-3620-43c1-8d2c-1ee05ea2c8d0
+:ROAM_REFS: https://en.wikipedia.org/wiki/Frame_problem
+:END:
+#+title: (en.wikipedia.org) Frame problem - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Artificial_intelligence][artificial intelligence]], with implications for [[https://en.wikipedia.org/wiki/Cognitive_science][cognitive science]], the *frame problem* describes an issue with using [[https://en.wikipedia.org/wiki/First-order_logic][first-order logic]] to express facts about a robot in the world.  Representing the state of a robot with traditional first-order logic requires the use of many [[https://en.wikipedia.org/wiki/Axiom][axioms]] that simply imply that things in the environment do not change arbitrarily.  For example, Hayes describes a "[[https://en.wikipedia.org/wiki/Block_world][block world]]" with rules about stacking blocks together.  In a first-order logic system, additional axioms are required to make inferences about the environment (for example, that a block cannot change position unless it is physically moved).  The frame problem is the problem of finding adequate collections of axioms for a viable description of a robot environment.
+
+  [[https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)][John McCarthy]] and [[https://en.wikipedia.org/wiki/Patrick_J._Hayes][Patrick J. Hayes]] defined this problem in their 1969 article, /Some Philosophical Problems from the Standpoint of Artificial Intelligence/.  In this paper, and many that came after, the formal mathematical problem was a starting point for more general discussions of the difficulty of [[https://en.wikipedia.org/wiki/Knowledge_representation][knowledge representation]] for artificial intelligence.  Issues such as how to provide rational default assumptions and what humans consider common sense in a virtual environment.
+
+  In [[https://en.wikipedia.org/wiki/Philosophy][philosophy]], the frame problem became more broadly construed in connection with the problem of limiting the beliefs that have to be updated in response to actions.  In the logical context, actions are typically specified by what they change, with the implicit assumption that everything else (the frame) remains unchanged.
+#+end_quote

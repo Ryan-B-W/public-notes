@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       acf32411-d75c-4303-8993-feaecc3d7429
+:ROAM_REFS: https://mathoverflow.net/questions/492197/what-is-this-modified-arithmetico-geometric-mean-function
+:END:
+#+title: (mathoverflow.net) algorithms - What is this modified arithmetico-geometric mean function? - MathOverflow
+#+filetags: :mathematics:forums:website:
+
+#+begin_quote
+  * [[https://mathoverflow.net/questions/492197/what-is-this-modified-arithmetico-geometric-mean-function][What is this modified arithmetico-geometric mean function?]]
+
+  I acquired a vintage programmable calculator and thought I'd give it a spin by computing some interesting transcendental function.  I wanted to compute the arithmetico-geometric mean but the calculator only has one memory location and I couldn't figure out an implementation.  But I was able to implement a modified iteration.
+
+  Normally the arithmetico-geometric mean \(M(x_0,y_0)\) can be defined as the limit as \(n\rightarrowinfty\) of \(x_n\) with \(x_{n+1}=\frac{1}{2}(x_n+y_n)\) and \(y_{n+1}= \sqrt{x_{n}y_n}\).
+
+  Instead I define the alternating arithmetic-geometric mean \(A(x_0,y_0)\) as the limit of \(x_n\) with \(x_{n+1}=\frac{1}{2}(x_n+y_n)\) and \(y_{n+1}=\sqrt{x_{n+1}y_n}\).  Note the subtle difference that saves a memory register.
+
+  I noticed that to many decimal places, \(A(1,\sqrt2)\approx4/\pi\), \(A(1,2)\approx3\sqrt3/\pi\) and \(A(1,1/\sqrt2)\approx\sqrt2/\log(1+\sqrt2)\).  Does \(A\) compute a familiar transcendental function?
+
+  ----------------
+
+  asked May 6 at 19:33
+
+  [[https://mathoverflow.net/users/1233/dan-piponi][Dan Piponi]]
+#+end_quote
+
+Accepted answer:
+#+begin_quote
+  The function \(A(x,y)\) has the closed-form expression \[A(x,y)=\frac{\sqrt{y^2-x^2}}{\arccos(x/y)}.\]  This modification of the AGM was introduced by Gauss in 1800, in an unpublished letter.  It was rediscovered in 1880 by [[https://en.wikipedia.org/wiki/Carl_Wilhelm_Borchardt][C. W. Borchardt]] and is now known as Borchardt's algorithm or as Borchardt's mean.
+
+  See [[https://www.jstor.org/stable/2317754][Algorithms Involving Arithmetic and Geometric Means]] by B.C. Carlson.
+
+  ----------------
+
+  [[https://mathoverflow.net/posts/492201/revisions][edited May 8 at 10:58]]
+
+  answered May 6 at 20:57
+
+  [[https://mathoverflow.net/users/11260/carlo-beenakker][Carlo Beenakker]]
+#+end_quote

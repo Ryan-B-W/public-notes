@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       f019fda3-5133-4cdb-b1c2-3361bbdd6782
+:ROAM_REFS: https://cacm.acm.org/research/a-programmable-programming-language/
+:END:
+#+title: (cacm.acm.org) A Programmable Programming Language – Communications of the ACM
+#+filetags: :website:
+
+#+begin_quote
+  * A Programmable Programming Language
+
+  As the software industry enters the era of language-oriented programming, it needs programmable programming languages.
+
+  By [[https://cacm.acm.org/author/matthias-felleisen/][Matthias Felleisen]], [[https://cacm.acm.org/author/robert-bruce-findler/][Robert Bruce Findler]], [[https://cacm.acm.org/author/matthew-flatt/][Matthew Flatt]], [[https://cacm.acm.org/author/shriram-krishnamurthi/][Shriram Krishnamurthi]], [[https://cacm.acm.org/author/eli-barzilay/][Eli Barzilay]], [[https://cacm.acm.org/author/jay-mccarthy/][Jay McCarthy]], and [[https://cacm.acm.org/author/sam-tobin-hochstadt/][Sam Tobin-Hochstadt]]
+
+  Posted Mar 1 2018
+
+  In the ideal world, software developers would analyze each problem in the language of its domain and then articulate solutions in matching terms.  They could thus easily communicate with domain experts and separate problem-specific ideas from the details of general-purpose languages and specific program design decisions.
+#+end_quote

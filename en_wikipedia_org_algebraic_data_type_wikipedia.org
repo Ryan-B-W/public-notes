@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       281a5050-627c-43ff-817b-1f2edeacbe97
+:ROAM_REFS: https://en.wikipedia.org/wiki/Algebraic_data_type
+:END:
+#+title: (en.wikipedia.org) Algebraic data type - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Computer_programming][computer programming]], especially [[https://en.wikipedia.org/wiki/Functional_programming][functional programming]] and [[https://en.wikipedia.org/wiki/Type_theory][type theory]], an *algebraic data type* (*ADT*) is a kind of [[https://en.wikipedia.org/wiki/Composite_data_type][composite data type]], i.e., a [[https://en.wikipedia.org/wiki/Data_type][data type]] formed by combining other types.
+
+  Two common classes of algebraic types are [[https://en.wikipedia.org/wiki/Product_type][product types]] (i.e., [[https://en.wikipedia.org/wiki/Tuple][tuples]], and [[https://en.wikipedia.org/wiki/Record_(computer_science)][records]]) and [[https://en.wikipedia.org/wiki/Sum_type][sum types]] (i.e., [[https://en.wikipedia.org/wiki/Tagged_union][tagged]] or [[https://en.wikipedia.org/wiki/Disjoint_union][disjoint unions]], [[https://en.wikipedia.org/wiki/Coproduct][coproduct]] types or /variant types/).
+
+  The [[https://en.wikipedia.org/wiki/Value_(computer_science)][values]] of a product type typically contain several values, called /fields/.  All values of that type have the same combination of field types.  The set of all possible values of a product type is the set-theoretic product, i.e., the [[https://en.wikipedia.org/wiki/Cartesian_product][Cartesian product]], of the sets of all possible values of its field types.
+
+  The values of a sum type are typically grouped into several classes, called /variants/.  A value of a variant type is usually created with a quasi-functional entity called a /constructor/.  Each variant has its own constructor, which takes a specified number of arguments with specified types.  The set of all possible values of a sum type is the set-theoretic sum, i.e., the [[https://en.wikipedia.org/wiki/Disjoint_union][disjoint union]], of the sets of all possible values of its variants.  [[https://en.wikipedia.org/wiki/Enumerated_type][Enumerated types]] are a special case of sum types in which the constructors take no arguments, as exactly one value is defined for each constructor.
+
+  Values of algebraic types are analyzed with [[https://en.wikipedia.org/wiki/Pattern_matching][pattern matching]], which identifies a value by its constructor or field names and extracts the data it contains.
+#+end_quote

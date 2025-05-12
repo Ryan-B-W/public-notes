@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       08f0a88c-c03b-4b7f-b261-ae34eaeaed3c
+:ROAM_REFS: https://elixirschool.com/ https://elixirschool.com/en
+:END:
+#+title: (elixirschool.com) Home · Elixir School
+#+filetags: :website:
+
+#+begin_quote
+  * Welcome to Elixir School!
+
+  Elixir School is the premier destination for people looking to learn and master the Elixir programming language.  Whether you're a seasoned veteran or this is your first time, you'll find what you need in lessons and auxiliary resources.
+
+  Through the hard work of volunteers Elixir School has been translated to many languages.  Some of these translations include: [[https://elixirschool.com/bn][বাংলা]], [[https://elixirschool.com/de][Deutsch]], [[https://elixirschool.com/el][Ελληνικά]], [[https://elixirschool.com/es][Español]], [[https://elixirschool.com/id][Bahasa Indonesia]], [[https://elixirschool.com/it][Italiano]], [[https://elixirschool.com/ja][日本語]], [[https://elixirschool.com/ko][한국어]], [[https://elixirschool.com/ms][Bahasa Melayu]], [[https://elixirschool.com/no][Norsk]], [[https://elixirschool.com/pl][Polski]], [[https://elixirschool.com/pt][Português]], [[https://elixirschool.com/ru][Русский]], [[https://elixirschool.com/sk][Slovenčina]], [[https://elixirschool.com/tr][Türkçe]], [[https://elixirschool.com/th][ภาษาไทย]], [[https://elixirschool.com/uk][Українською]], [[https://elixirschool.com/vi][Việt ngữ]], [[https://elixirschool.com/zh-hans][简体中文]] and [[https://elixirschool.com/zh-hant][繁體中文]].
+
+  We welcome and encourage you to join us in continuing to make Elixir School great by getting involved at elixirschool/elixirschool!
+#+end_quote
+* (elixirschool.com) Pipe Operator · Elixir School
+:PROPERTIES:
+:ID:       c85ec26d-5b42-4c3f-b5a7-16c53860025e
+:ROAM_REFS: https://elixirschool.com/en/lessons/basics/pipe_operator
+:END:

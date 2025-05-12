@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       77e49f9f-c7c1-4829-b200-2aae2cacc14a
+:ROAM_REFS: https://mathstodon.xyz/@dpiponi/114468239096746615
+:END:
+#+title: (mathstodon.xyz) Dan Piponi: "Sketch of proof based on paper…" - Mathstodon
+#+filetags: :mathematics:social_media:website:
+
+#+begin_quote
+  Sketch of proof based on paper linked in answer:
+
+  Define:
+
+  z_{k+1} = √zⱼ\\
+  zⱼ = xⱼ+iyⱼ = rⱼexp(iθⱼ)\\
+  (Choosing √ and θⱼ so θ_{j+1}=θⱼ/2.)
+
+  A lemma I'll leave to you: lim (j→∞) 2ʲyⱼ = θⱼ
+
+  Define the process: f(x,r) = ((x+r)/2,√(r(x+r)/2)).
+
+  This is very similar to the computation of √(x+iy).  In fact we have
+
+  f(xⱼ,rⱼ)/yⱼ = (x_{j+1},r_{j+1})/2y_{j+1}\\
+  (Treating (x,r) as a vector.)
+
+  We have A(x,r) = A(f(x,r)) and also A(ax,ar)=aA(x,r).  So we get
+
+  A(x₀,r₀)/y₀ = A(x₁,r₁)/(2y₁) = lim (j→∞) A(xⱼ,rⱼ)/(2ʲyⱼ)
+
+  In the limit we get:
+
+  A(x₀,r₀)/y₀ = A(1,1)/θ₀.
+
+  Ie.  A(x₀,r₀) = y₀/θ₀
+
+  I think it's really neat that each of x, y, r and θ appear once.
+
+  As an example, pick z=1+i. x=1, y=1, r=√2, θ=π/4.  So A(1,√2)=4/π.
+
+  TL;DR The modified AGM is basically a complex square root operation which is being iterated until some numbers are close to 1 and then we can use linearity.
+#+end_quote

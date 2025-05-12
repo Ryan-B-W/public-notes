@@ -171,3 +171,17 @@ Main node: [[id:69d3e2e7-62dc-414f-90ee-86f4b4abbcb0][(sarabander.github.io) Str
 :ID:       54ca1727-d685-4343-a0e3-3f07a815ea58
 :ROAM_REFS: https://sarabander.github.io/sicp/html/References.xhtml
 :END:
+* (sarabander.github.io) SICP, 2e: Term Index
+:PROPERTIES:
+:ID:       5eac4aa2-ab1e-44ae-bfd8-498e800d9a14
+:ROAM_REFS: https://sarabander.github.io/sicp/html/Term-Index.xhtml
+:END:
+
+#+begin_quote
+  ** Term Index
+
+  : Any inaccuracies in this index may be explained by the fact that it has been prepared with the help of a computer.
+  :
+  : ---Donald E. Knuth, Fundamental Algorithms\\
+  : (Volume 1 of The Art of Computer Programming)
+#+end_quote
