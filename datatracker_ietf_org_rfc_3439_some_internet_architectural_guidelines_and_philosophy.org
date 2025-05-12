@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       4dd99472-9204-4037-b637-5267da6cf691
+:ROAM_REFS: https://datatracker.ietf.org/doc/html/rfc3439#section-3 https://datatracker.ietf.org/doc/html/rfc3439
+:END:
+#+title: (datatracker.ietf.org) RFC 3439 - Some Internet Architectural Guidelines and Philosophy
+#+filetags: :ietf:website:
+
+#+begin_quote
+  * Some Internet Architectural Guidelines and Philosophy
+
+  ** Status of this Memo
+
+  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.  Distribution of this memo is unlimited.
+
+  ** Abstract
+
+  This document extends [[https://datatracker.ietf.org/doc/html/rfc1958][RFC 1958]] by outlining some of the philosophical guidelines to which architects and designers of Internet backbone networks should adhere.  We describe the Simplicity Principle, which states that complexity is the primary mechanism that impedes efficient scaling, and discuss its implications on the architecture, design and engineering issues found in large scale Internet backbones.
+#+end_quote
+* (datatracker.ietf.org) RFC 3439 - Some Internet Architectural Guidelines and Philosophy - Layering Considered Harmful
+:PROPERTIES:
+:ID:       3dff72e3-a56a-4b7c-9ec5-dd055106e411
+:END:
+
+#+begin_quote
+  3.  Layering Considered Harmful
+
+  There are several generic properties of layering, or vertical integration as applied to networking.  In general, a layer as defined in our context implements one or more of
+
+   Error Control:     The layer makes the "channel" more reliable (e.g., reliable transport layer)
+
+   Flow Control:      The layer avoids flooding slower peer (e.g., ATM flow control)
+
+   Fragmentation:     Dividing large data chunks into smaller pieces, and subsequent reassembly (e.g., TCP MSS fragmentation/reassembly)
+
+   Multiplexing:      Allow several higher level sessions share single lower level "connection" (e.g., ATM PVC)
+
+   Connection Setup:  Handshaking with peer (e.g., TCP three-way handshake, ATM ILMI)
+
+   Addressing/Naming: Locating, managing identifiers associated with entities (e.g., GOSSIP 2 NSAP Structure [RFC1629])
+
+  Layering of this type does have various conceptual and structuring advantages.  However, in the data networking context structured layering implies that the functions of each layer are carried out completely before the protocol data unit is passed to the next layer.  This means that the optimization of each layer has to be done separately.  Such ordering constraints are in conflict with efficient implementation of data manipulation functions.  One could accuse the layered model (e.g., TCP/IP and ISO OSI) of causing this conflict.  In fact, the operations of multiplexing and segmentation both hide vital information that lower layers may need to optimize their performance.  For example, layer N may duplicate lower level functionality, e.g., error recovery hop-hop versus end-to-end error recovery.  In addition, different layers may need the same information (e.g., time stamp): layer N may need layer N-2 information (e.g., lower layer packet sizes), and the like [WAKEMAN].  A related and even more ironic statement comes from Tennenhouse's classic paper, "Layered Multiplexing Considered Harmful" [TENNENHOUSE]: "The ATM approach to broadband networking is presently being pursued within the CCITT (and elsewhere) as the unifying mechanism for the support of service integration, rate adaptation, and jitter control within the lower layers of the network architecture.  This position paper is specifically concerned with the jitter arising from the design of the "middle" and "upper" layers that operate within the end systems and relays of multi-service networks (MSNs)."
+
+  As a result of inter-layer dependencies, increased layering can quickly lead to violation of the Simplicity Principle.  Industry experience has taught us that increased layering frequently increases complexity and hence leads to increases in OPEX, as is predicted by the Simplicity Principle.  A corollary is stated in RFC 1925 [RFC1925], section 2(5):
+
+  : "It is always possible to agglutinate multiple separate problems into a single complex interdependent solution.  In most cases this is a bad idea."
+
+  The first order conclusion then, is that horizontal (as opposed to vertical) separation may be more cost-effective and reliable in the long term.
+#+end_quote
