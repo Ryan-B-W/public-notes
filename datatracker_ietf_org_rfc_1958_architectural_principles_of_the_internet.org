@@ -3,7 +3,7 @@
 :ROAM_REFS: https://datatracker.ietf.org/doc/html/rfc1958
 :END:
 #+title: (datatracker.ietf.org) RFC 1958 - Architectural Principles of the Internet
-#+filetags: :website:
+#+filetags: :ietf:website:
 
 #+begin_quote
   * Architectural Principles of the Internet
