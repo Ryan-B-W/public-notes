@@ -49,3 +49,6 @@ Replace YouTube tracking links with plain links:
 
 Remove YouTube icon URIs in hyperlink bodies:
 : \[\[https://www\.gstatic\.com/youtube/img/.*?\.\(?:png\|jpeg\|jpg\|svg\)]] →
+
+Remove wikimedia embedded image of rendered LaTeX:
+: \[\[https?://wikimedia.org/api/rest_v1/media/math/render/.*?\]\] →
