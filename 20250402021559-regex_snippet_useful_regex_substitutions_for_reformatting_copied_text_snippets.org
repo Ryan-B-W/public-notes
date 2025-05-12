@@ -41,6 +41,9 @@ Fix empty body text hyperlinks:
 Remove trailing whitespace:
 :  *$ →
 
+Remove null links that are commonly inserted by Pandoc in place of HTML self-links:
+: \[\[https?://\(?:[\w-]\.\)*?[\w-]+/?.*?/null\]\(?:\[\]\)?\] →
+
 Replace YouTube tracking links with plain links:
 : https://www\.youtube\.com/redirect\?.*?&q=\(.*?\)&v=[a-zA-Z0-9\-\._~%\$!&'()\*\+,;=:@]\{8,24\} → \1
 
