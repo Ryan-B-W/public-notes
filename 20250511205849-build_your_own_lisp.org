@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       87ce890e-e647-45c9-825f-c98c030d44af
+:END:
+#+title: Build Your Own Lisp
+#+filetags: :programming:lisp:c_lang:computer_science:books:
+
+* (buildyourownlisp.com) Learn C • Build Your Own Lisp              :website:
+:PROPERTIES:
+:ID:       e0d606bc-a32b-476e-bf2e-9f25ae34ae3a
+:ROAM_REFS: https://buildyourownlisp.com/
+:END:
+
+#+begin_quote
+  ** Build Your Own Lisp
+
+  Learn C and build your own programming language in 1000 lines of code!
+
+  --------------
+
+  If you're looking to learn C, or you've ever wondered how to build your own programming language, this is the book for you.
+
+  In just a few lines of code, I'll teach you how to use C, and together, we'll start building your very own language.
+
+  Along the way we'll learn about the weird and wonderful nature of Lisps, how to develop a real-world project, concisely solve problems, and write beautiful code!
+
+  This book is free to read online, so you can get started right away!  But for those who want to show their support, or who want the best reading experience, this book is also available for purchase in print format, or for cheap in all major e-book formats.
+
+  [[http://www.amazon.com/Build-Your-Lisp-Daniel-Holden/dp/1501006622]]
+
+  [[https://buildyourownlisp.com/contents]]
+#+end_quote
+** (buildyourownlisp.com) Contents • Build Your Own Lisp
+:PROPERTIES:
+:ID:       64baaaf8-4641-4011-b2ab-364a132bf3e4
+:ROAM_REFS: https://buildyourownlisp.com/contents
+:END:
+** (github.com) orangeduck/BuildYourOwnLisp: Learn C and build your own programming language in under 1000 lines of code!
+:PROPERTIES:
+:ID:       8124514b-83f6-48e6-9287-053240f99c91
+:ROAM_REFS: https://github.com/orangeduck/BuildYourOwnLisp
+:END:
+* (www.amazon.com) Amazon.com: Build Your Own Lisp: 9781501006623: Holden, Mr Daniel: Books :website:
+:PROPERTIES:
+:ID:       c075689d-c769-42d7-9990-8be82c2f4042
+:ROAM_REFS: https://www.amazon.com/Build-Your-Lisp-Daniel-Holden/dp/1501006622
+:END:
+
+#+begin_quote
+  If you've ever wondered how to build your own programming language or wanted to learn C but weren't sure where to start, this is the book for you.  In under 1000 lines of code you'll start building your very own programming language, and in doing so learn how to program in C, one of the world's most important programming languages.  Along the way we'll learn about the weird and wonderful nature of Lisps, the unique techniques behind function programming, the methods used to concisely solve problems, and the art of writing beautiful code.  Build Your Own Lisp is a fun and creative journey through a fascinating area of computer science, and an essential read for any programmer, new or old!
+#+end_quote

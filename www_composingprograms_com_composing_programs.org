@@ -14,3 +14,69 @@
 
   *Instructors*: If you are interested in adapting any of these materials for your courses, please [[https://docs.google.com/forms/d/1lcDf-_y9t1oSDH_-HFz3UhUFouAX1518XeCMnlRISss/viewform][fill out this short survey]] so that we can support your efforts.
 #+end_quote
+* (www.composingprograms.com) 2.4 Mutable Data
+:PROPERTIES:
+:ID:       52315cda-ffff-4c82-b6b6-738945255cc2
+:ROAM_REFS: https://www.composingprograms.com/pages/24-mutable-data.html
+:END:
+
+#+begin_quote
+  ** 2.4 Mutable Data
+
+  We have seen how abstraction is vital in helping us to cope with the complexity of large systems.  Effective programming also requires organizational principles that can guide us in formulating the overall design of a program.  In particular, we need strategies to help us structure large systems to be modular, meaning that they divide naturally into coherent parts that can be separately developed and maintained.
+
+  One powerful technique for creating modular programs is to incorporate data that may change state over time.  In this way, a single data object can represent something that evolves independently of the rest of the program.  The behavior of a changing object may be influenced by its history, just like an entity in the world.  Adding state to data is a central ingredient of a paradigm called object-oriented programming.
+#+end_quote
+** (www.composingprograms.com) 2.4.8 Dispatch Dictionaries
+:PROPERTIES:
+:ID:       b1f95bb7-9bec-4190-bdd8-aabbbc672e08
+:ROAM_REFS: https://www.composingprograms.com/pages/24-mutable-data.html#dispatch-dictionaries
+:END:
+
+#+begin_quote
+  *** 2.4.8 Dispatch Dictionaries
+
+  The dispatch function is a general method for implementing a message passing interface for abstract data.  To implement message dispatch, we have thus far used conditional statements to compare the message string to a fixed set of known messages.
+
+  The built-in dictionary data type provides a general method for looking up a value for a key.  Instead of using conditionals to implement dispatching, we can use dictionaries with string keys.
+
+  The mutable =account= data type below is implemented as a dictionary.  It has a constructor =account= and selector =check_balance=, as well as functions to =deposit= or =withdraw= funds.  Moreover, the local state of the account is stored in the dictionary alongside the functions that implement its behavior.
+
+  #+begin_src python
+    def account(initial_balance):
+        def deposit(amount):
+            dispatch['balance'] += amount
+            return dispatch['balance']
+        def withdraw(amount):
+            if amount > dispatch['balance']:
+                return 'Insufficient funds'
+            dispatch['balance'] -= amount
+            return dispatch['balance']
+        dispatch = {'deposit':   deposit,
+                    'withdraw':  withdraw,
+                    'balance':   initial_balance}
+        return dispatch
+
+    def withdraw(account, amount):
+        return account['withdraw'](amount)
+    def deposit(account, amount):
+        return account['deposit'](amount)
+    def check_balance(account):
+        return account['balance']
+
+    a = account(20)
+    deposit(a, 5)
+    withdraw(a, 17)
+    check_balance(a)
+  #+end_src
+
+  The name =dispatch= within the body of the =account= constructor is bound to a dictionary that contains the messages accepted by an account as keys.  The /balance/ is a number, while the messages /deposit/ and /withdraw/ are bound to functions.  These functions have access to the =dispatch= dictionary, and so they can read and change the balance.  By storing the balance in the dispatch dictionary rather than in the =account= frame directly, we avoid the need for =nonlocal= statements in =deposit= and =withdraw=.
+
+  The operators =+== and =-== are shorthand in Python (and many other languages) for combined lookup and re-assignment.  The last two lines below are equivalent.
+
+  #+begin_example
+    >>> a = 2
+    >>> a = a + 1
+    >>> a += 1
+  #+end_example
+#+end_quote

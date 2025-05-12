@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       ef845d83-8bc4-49b7-962f-2d15b7926f37
+:ROAM_REFS: https://files.spritely.institute/papers/scheme-primer.html
+:END:
+#+title: (files.spritely.institute) A Scheme Primer
+#+filetags: :website:
+
+#+begin_quote
+  * A Scheme Primer
+
+  The following is a primer for the [[https://en.wikipedia.org/wiki/Scheme][Scheme]] family of programming languages.  It was originally written to aid newcomers to technology being developed at [[https://spritely.institute/][The Spritely Institute]] but is designed to be general enough to be readable by anyone who is interested in Scheme.
+
+  This document is dual-licensed under [[https://www.apache.org/licenses/LICENSE-2.0][Apache v2]] and [[https://creativecommons.org/licenses/by/4.0/][Creative Commons Attribution 4.0 International]] and its source is [[https://gitlab.com/spritely/scheme-primer][publicly available]].
+
+  A walk-through of this document is available on [[https://www.youtube.com/watch?v=DDROSL-gGOo][YouTube]] and [[https://share.tube/w/gdtnuipKbbVdR2u1murL4t][PeerTube]].
+
+  ** 1. Introduction
+
+  In all the world of computer programming, there are few languages as simple, clean, comprehensive, powerful, and extensible as Scheme.  The introduction to the [[https://schemers.org/Documents/Standards/R5RS/][R5RS]] edition of Scheme's standardization explains its philosophy well:
+
+  : Programming languages should be designed not by piling feature on top of feature, but by removing the weaknesses and restrictions that make additional features appear necessary.
+
+  This minimalism means that the foundations of Scheme are easy to learn.  The R5RS introduction continues with:
+
+  : Scheme demonstrates that a very small number of rules for forming expressions, with no restrictions on how they are composed, suffice to form a practical and efficient programming language that is flexible enough to support most of the major programming paradigms in use today.
+
+  With just a few rules and an incredibly simple syntax, Scheme manages to be able to handle any language paradigm you can throw at it.  Its minimal base and strong support for extensibility means that it is beloved by and frequently used as a foundation for academic language research.
+
+  But a strong reputation in one domain can also be a weak reputation in another.  Scheme's association with being an academic language has also lead it to be frequently interpreted as too difficult for the "average" programmer to adopt.
+
+  In reality, there is nothing difficult about Scheme, and any programmer can learn it in a very short amount of time (even, maybe especially, children and non-programmers).
+
+  At the [[https://spritely.institute/][Spritely Institute]], we decided to base our core technology, [[https://spritely.institute/goblins/][Spritely Goblins]], on Scheme.  We found that while there were excellent in-depth writings on Scheme, and some simple and short Scheme tutorials, what was lacking was a middle-of-the-road introduction.  The following is somewhere between a brief and comprehensive overview of Scheme.  A shallow read of the following text is sufficient to begin being productive with Scheme, but the enthusiastic reader will find much depth (especially by reading the footnotes).
+
+  We begin with no assumption of programming experience, but such experience will help speed the reader through some of the early chapters.  The further we go in the tutorial, the more advanced topics become.  We will end with a real whammy: [[https://files.spritely.institute/papers/scheme-primer.html#scheme-in-scheme][how to write a Scheme interpreter in Scheme]] in a mere 30 single lines of code.
+#+end_quote

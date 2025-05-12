@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       1393965b-f472-466a-984f-c1c799684ce7
+:ROAM_REFS: https://en.wikipedia.org/wiki/Capability-based_security
+:END:
+#+title: (en.wikipedia.org) Capability-based security - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  *Capability-based security* is a concept in the design of [[https://en.wikipedia.org/wiki/Computer_security][secure computing]] systems, one of the existing [[https://en.wikipedia.org/wiki/Computer_security_model][security models]].  A *capability* (known in some systems as a *key*) is a communicable, unforgeable [[https://en.wikipedia.org/wiki/Access_token][token]] of authority.  It refers to a value that [[https://en.wikipedia.org/wiki/Reference_(computer_science)][references]] an [[https://en.wikipedia.org/wiki/Object_(computer_science)][object]] along with an associated set of [[https://en.wikipedia.org/wiki/Access_control][access rights]].  A [[https://en.wikipedia.org/wiki/User_(computing)][user]] [[https://en.wikipedia.org/wiki/Computer_program][program]] on a [[https://en.wikipedia.org/wiki/Capability-based_operating_system][capability-based operating system]] must use a capability to access an object.  Capability-based security refers to the principle of designing user programs such that they directly share capabilities with each other according to the [[https://en.wikipedia.org/wiki/Principle_of_least_privilege][principle of least privilege]], and to the operating system infrastructure necessary to make such transactions efficient and secure.  Capability-based security is to be contrasted with an approach that uses [[https://en.wikipedia.org/wiki/File-system_permissions][traditional UNIX permissions]] and [[https://en.wikipedia.org/wiki/Access-control_list][access control lists]].
+
+  Although most operating systems implement a facility which resembles capabilities, they typically do not provide enough support to allow for the exchange of capabilities among possibly mutually untrusting entities to be the primary means of granting and distributing access rights throughout the system.  A capability-based system, in contrast, is designed with that goal in mind.
+#+end_quote

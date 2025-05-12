@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       83e5d289-bde2-45ea-817a-561a1d50542f
+:ROAM_REFS: https://spritely.institute/goblins/
+:END:
+#+title: (spritely.institute) Goblins: Distributed Programming — Spritely Institute
+#+filetags: :website:
+
+#+begin_quote
+  * Goblins: Distributed, Transactional Programming
+
+  At the heart of Spritely is Goblins, its /distributed object programming/ environment.  Goblins provides an intuitive security model, automatic local transactions for locally synchronous operations, and an easy to use and efficient asynchronous programming interface for /encapsulated objects/ which can live anywhere on the network.  Its networking model abstracts away these details so the programmer can focus on object programming rather than protocol architecture.
+
+  Goblins also integrates powerful distributed debugging tools, and a process persistence and upgrade model which respects its security fundamentals.
+
+  ** Read about Goblins' design
+
+  Read our whitepaper: [[https://files.spritely.institute/papers/spritely-core.html][The Heart of Spritely: Distributed Objects and Capability Security]] [[https://files.spritely.institute/papers/spritely-core.pdf][(PDF)]] [[https://files.spritely.institute/papers/spritely-core.odt][(ODT)]] [[https://files.spritely.institute/papers/spritely-core.org][(ORG)]]
+#+end_quote

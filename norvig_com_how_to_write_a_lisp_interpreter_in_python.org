@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       cf12d8e2-1921-4fb4-92a8-8a498744ca79
+:ROAM_REFS: https://norvig.com/lispy.html
+:END:
+#+title: (norvig.com) (How to Write a (Lisp) Interpreter (in Python))
+#+filetags: :website:
+
+#+begin_quote
+  * (How to Write a (Lisp) Interpreter (in Python))
+
+  This page has two purposes: to describe how to implement computer language interpreters in general, and in particular to build an interpreter for most of the [[http://en.wikipedia.org/wiki/Scheme_(programming_language)][/Scheme/]] dialect of Lisp using [[http://python.org/][Python 3]] as the implementation language.  I call my language and interpreter /Lispy/ ([[https://norvig.com/lis.py][*lis.py*]]).  Years ago, I showed how to write a semi-practical Scheme interpreter [[https://norvig.com/jscheme.html][Java]] and in [[http://books.google.com/books?id=QzGuHnDhvZIC&lpg=PA756&vq=scheme%20interpreter&dq=Paradigms%20of%20Artificial%20Intelligence%20Programming&pg=PA753#v=onepage&q&f=false][in Common Lisp]]).  This time around the goal is to demonstrate, as concisely and simply as possible, what [[http://queue.acm.org/detail.cfm?id=1039523][Alan Kay called]] "[[http://www.righto.com/2008/07/maxwells-equations-of-software-examined.html][/Maxwell's Equations of Software/]]."
+
+  Why does this matter?  As [[http://steve-yegge.blogspot.com/2007/06/rich-programmer-food.html][Steve Yegge said]], /"If you don't know how compilers work, then you don't know how computers work."/  Yegge describes 8 problems that can be solved with compilers (or equally well with interpreters, or with Yegge's typical heavy dosage of cynicism).
+#+end_quote
