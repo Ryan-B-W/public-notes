@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f7c7570e-fe3b-4e9a-99cd-a173cce7e80b
+:ROAM_REFS: https://news.ycombinator.com/item?id=17478489
+:END:
+#+title: (news.ycombinator.com) Learn C and Build Your Own Lisp (2014) | Hacker News
+#+filetags: :forums:website:
+
+Hacker News discussion for [[id:64baaaf8-4641-4011-b2ab-364a132bf3e4][(buildyourownlisp.com) Contents • Build Your Own Lisp]].
+
+Some of the links in comments:
+ - [[id:1ad515e1-5e9f-45cc-87fe-ae023081ddf1][(github.com) drewc/smug: Super Monadic Über Go-into : parser combinators for Common Lisp]]

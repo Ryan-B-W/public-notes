@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       2794634b-c07a-4d98-9ad3-47f3ec212173
+:ROAM_REFS: https://www.journeyman.cc/blog/posts-output/2016-12-31-how-not-to-build-your-own-lisp/
+:END:
+#+title: (www.journeyman.cc) The Fool on the Hill: How not to build your own Lisp
+#+filetags: :lisp:blog_post:website:
+
+#+begin_quote
+  * [[https://www.journeyman.cc/blog/][The Fool on the Hill]]: How not to build your own Lisp
+
+  By: [[https://www.journeyman.cc/blog/authors-output/Simon%20Brooke][Simon Brooke]]\\
+  31 December 2016
+
+  Occasionally one buys a book which is a disappointment.  Usually, when I buy a book which is a disappointment, I don't review it, because it isn't nice trashing other people's hard work; and that's especially true when the writer has written as engagingly and sincerely as Daniel Holden has.  He's written [[http://www.buildyourownlisp.com/][a book I'd like to like]].
+
+  But sometimes it's important to explain why a book is a disappointment, what is wrong with it, and what residual merit it still has.
+#+end_quote

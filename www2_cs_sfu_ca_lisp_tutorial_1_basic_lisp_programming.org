@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       9e9cb555-071b-4810-bacb-b4f3ef676728
+:ROAM_REFS: https://www2.cs.sfu.ca/CourseCentral/310/pwfong/Lisp/1/tutorial1.html
+:END:
+#+title: (www2.cs.sfu.ca) LISP Tutorial 1: Basic LISP Programming
+#+filetags: :website:

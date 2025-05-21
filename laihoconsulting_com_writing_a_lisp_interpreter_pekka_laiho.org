@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       e59ff742-b890-4aec-9d0e-34309d225205
+:ROAM_REFS: https://laihoconsulting.com/blog/2020-10-writing-lisp-interpreter/
+:END:
+#+title: (laihoconsulting.com) Writing a Lisp Interpreter | Pekka Laiho
+#+filetags: :lisp:blog_post:website:
+
+#+begin_quote
+  * Writing a Lisp Interpreter
+
+  24 October 2020
+
+  There comes a time in the life of a serious software engineer when he wants to implement a custom programming language.  Not with the goal of creating a language that gains widespread adoption (there are enough programming languages already), but as an exercise to gain deeper insight into how programming languages work.
+#+end_quote

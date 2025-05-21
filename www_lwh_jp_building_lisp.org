@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       4be7aff1-9262-464c-aca9-5d9ad2745fb3
+:ROAM_REFS: https://www.lwh.jp/lisp/
+:END:
+#+title: (www.lwh.jp) Building LISP
+#+filetags: :lisp:website:

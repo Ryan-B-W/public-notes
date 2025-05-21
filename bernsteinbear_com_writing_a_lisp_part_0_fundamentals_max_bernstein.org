@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       6b8df371-8461-41c3-ac08-69c6c1b75cbb
+:ROAM_REFS: https://bernsteinbear.com/blog/lisp/00_fundamentals/
+:END:
+#+title: (bernsteinbear.com) Writing a Lisp, Part 0: Fundamentals | Max Bernstein
+#+filetags: :lisp:blog_post:website:
+
+#+begin_quote
+  * Writing a Lisp, Part 0: Fundamentals
+
+  /October 27, 2016/
+
+  So you want to write a [[https://en.wikipedia.org/wiki/Lisp_(programming_language)][Lisp interpreter]].  I did too, and then I wanted to write about it, so here we are with this post series.
+
+  I initially wanted to write a Lisp interpreter as an exercise.  I decided to write V1 in C (based on these two series of [[http://www.lwh.jp/lisp/][blog]] [[http://peter.michaux.ca/articles/scheme-from-scratch-introduction][posts]]).  After much pointer shenanigans and an unholy amount of curly braces later, it worked --- but was significantly longer and harder to read than a Lisp interpreter should be.  So I decided to write V2 in [[https://www.ocaml.org/][OCaml]], a functional programming language descended from [[https://en.wikipedia.org/wiki/Standard_ML][SML]].  The SML family of languages has some features like pattern matching and an extensive type system that make writing interpreters and compilers an absolute dream.
+
+  I'm going to walk through writing a fully-functional Lisp interpreter in OCaml.  If you're following along with the OCaml, great.  If you want to try and build it in SML or Haskell or whatever, it shouldn't be too hard to translate.  If you want to follow along in C... well, good luck.  It'll be a lot more code.
+
+  I'm going to build up the interpreter in stages, starting with symbols and other literals, then moving to simple math, then finally writing the features to support a metacircular evaluator (meaning that you can write /another/ Lisp interpreter in the Lisp you just wrote!).
+#+end_quote
+
+Links to:
+ - [[id:4be7aff1-9262-464c-aca9-5d9ad2745fb3][(www.lwh.jp) Building LISP]]
+ - [[id:54a4a1ee-e04c-4119-90b5-a7cdbe7db42c][(peter.michaux.ca) peter.michaux.ca - Scheme from Scratch - Introduction]]
+ - [[id:c776bdf1-f65b-4c24-83a7-39e5d9d74e57][(troydm.github.io) Writing Micro Compiler in OCaml - Troydm's Blog]]
+ - [[id:9e9cb555-071b-4810-bacb-b4f3ef676728][(www2.cs.sfu.ca) LISP Tutorial 1: Basic LISP Programming]]
+ - [[id:64baaaf8-4641-4011-b2ab-364a132bf3e4][(buildyourownlisp.com) Contents • Build Your Own Lisp]]
+ - [[id:b172aa84-f547-455c-8771-1a32ce727293][(howtowriteaprogram.blogspot.com) How to Write a Program: Lisp interpreter in 90 lines of C++]]
+ - [[https://github.com/kanaka/mal/blob/master/process/guide.md][mal/process/guide.md at master · kanaka/mal]] (part of [[id:f4759fd5-ce72-4517-b6e5-789626ae0c2f][(github.com) kanaka/mal: mal - Make a Lisp]])

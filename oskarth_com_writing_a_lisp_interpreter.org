@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       cf9653bd-25fa-46eb-bcf7-039a862d988d
+:ROAM_REFS: https://oskarth.com/lisp-interpreter/
+:END:
+#+title: (oskarth.com) Writing A Lisp Interpreter
+#+filetags: :blog_post:website:
+
+#+begin_quote
+  * Writing A Lisp Interpreter
+
+  /2015-06-14/
+
+  I've always really liked Lisp as a programming language, but I've yet to write an interpreter for the language.  This week I decided to change that.
+
+  *Hypothesis:* I can write a lisp interpreter in under 500 LOCs and in under a week.
+
+  Since the beginning of last week I've been keeping a [[https://twitter.com/oskarth/status/608397165925437441][code journal]].  To give you a feel for process so far of this project, I'm posting some excerpts from it related to this project.
+#+end_quote

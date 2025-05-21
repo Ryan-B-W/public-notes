@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       fc0af599-55d7-4665-b452-6ea84aa12d56
+:ROAM_REFS: https://stopa.io/post/292
+:END:
+#+title: (stopa.io) LLisp: Lisp in Lisp
+#+filetags: :lisp:blog_post:website:
+
+#+begin_quote
+  * LLisp: Lisp in Lisp
+
+  January 2022
+
+  Last week I had a thought: “What's the simplest Lisp interpreter I could write, which supports macros?"
+
+  A weekend of Clojure hacking and some confusion later, a REPL was born.  In this essay, we'll go through the same journey and make our own Lisp interpreter, which supports macros...in Clojure!  Let's call it, LLisp: a lisp in a lisp.
+
+  By the end, you'll write your own macros in your own darn programming language!  Let's get into it.
+#+end_quote

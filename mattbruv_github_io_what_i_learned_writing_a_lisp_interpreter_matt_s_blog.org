@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       90576270-ed39-4f19-b5a8-d3b33d087eb7
+:ROAM_REFS: https://mattbruv.github.io/mplisp/
+:END:
+#+title: (mattbruv.github.io) What I learned writing a LISP Interpreter - Matt's Blog
+#+filetags: :website:
+
+Links to:
+ - [[id:454a8194-b098-4cfd-ba62-4644a8a02a10][(craftinginterpreters.com) Crafting Interpreters]]

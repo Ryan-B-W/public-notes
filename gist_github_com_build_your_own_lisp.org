@@ -1,0 +1,77 @@
+:PROPERTIES:
+:ID:       d0b6bb59-aa4a-4740-b885-ac159e6adb36
+:ROAM_REFS: https://gist.github.com/john-science/6701bbbf558c61d17d41
+:END:
+#+title: (gist.github.com) Build Your Own LISP
+#+filetags: :website:
+
+#+begin_quote
+  * Build Your Own LISP
+
+  I had fun building my own LISP ([[https://github.com/theJollySin/slowloris][Slow Loris]]).  The project was extremely easy to get off the ground, because there a ton of resources to do just this.  I thought it might be handy to have a little links round-up, based on my research.
+
+  ** In Python
+
+  There are already several good projects out there on writing your own LISP in Python.
+
+  **** Peter Norvig's LisPy
+
+  This is a seminal work, that is much referenced.  Norvig starts out describing everything that's being built in clear, simple terms, and builds up from the foundation.  Lots of working code and examples.
+
+  - [[http://norvig.com/lispy.html][Lispy]]
+  - [[http://norvig.com/lispy2.html][Lispy 2]]
+
+  **** LISP as the Maxwell's Equations of Software
+
+  This is an even older and more respectable piece on the topic.  This was a bit more theoretical, but still very useful.
+
+  - [[http://www.michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/][LISP as the Maxwell's Equations of Software]]
+
+  **** Assorted GitHub
+
+  And, of course, there are some assorted GitHub projects that build their own LISP in Python.
+
+  - [[https://github.com/kvalle/diy-lisp][DIY-LISP]]
+  - [[https://github.com/fogus/lithp][Lithp]]
+
+  ** In C
+
+  If you want your LISP to be fast and popular, you probably need to write it in a more low-level language.  C is a good option.  There is a whole book on this:
+
+  - [[http://buildyourownlisp.com/contents][Build Your Own LISP]]
+
+  **** Python in C
+
+  If you want a nice (albeit VERY extensive) reference for writing a language in C, the Python language is written in C and the source code is available online:
+
+  - [[http://svn.python.org/view/python/trunk/Python/][Python SVN]]
+
+  **** Importing Python from C
+
+  You can also, of course, import Python code from C:
+
+  - [[https://docs.python.org/2/extending/][Extenind Python - Python.org]]
+  - [[https://docs.python.org/2.5/ext/callingPython.html][Calling Python Functions from C - Python.org]]
+  - [[http://www.linuxjournal.com/article/8497?page=0,0][Embedding Python in Your C Programs - LinuxJournal]]
+
+  **** Compile Python
+
+  Or maybe you just want to compile your Python-based LISP down using Cython.
+
+  - [[http://stackoverflow.com/questions/5105482/compile-main-python-program-using-cython][Compile main Python program using Cython - StackOverflow]]
+  - [[http://docs.cython.org/src/tutorial/cython_tutorial.html][Cython Tutorial - Cython.org]]
+
+  ** Other Options
+
+  The benefit of writing your LISP in C is that you will, theoretically, end up with a faster language.  But there are perhaps other benefits that might be more important to you.  Portability comes to mind.  For your LISP to be truly portable, it would be nice if it ran on a common virtual machine.  In that case, perhaps your LISP should be written directly for the Java or Python virtual machine.  There is a nice introduction to Python bytecode here:
+
+  - [[http://multigrad.blogspot.com/2014/06/fun-with-python-bytecode.html][Fun with Python Bytecode]]
+
+  However, the structure of Python bytecode changes regularly, even in minor language versions.  So it would probably be smarter to write for the Java Virtual Machine (JVM), which is less of a moving target.  To write a language for the JVM, you will want to reference the Java Specification guide:
+
+  - [[http://docs.oracle.com/javase/specs/][Java SE specs]]
+
+  There is also a nice StackOverflow answer with a lot of references on writing for the JVM here:
+
+  - [[http://stackoverflow.com/a/3383654/1287593][Creating a JVM programming language]]
+#+end_quote

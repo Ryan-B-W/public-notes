@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       54a4a1ee-e04c-4119-90b5-a7cdbe7db42c
+:ROAM_REFS: http://peter.michaux.ca/articles/scheme-from-scratch-introduction
+:END:
+#+title: (peter.michaux.ca) peter.michaux.ca - Scheme from Scratch - Introduction
+#+filetags: :scheme:lisp:blog_post:website:
+
+#+begin_quote
+  * Scheme from Scratch - Introduction
+
+  Published January 1, 2010 in [[http://peter.michaux.ca/index#Scheme][Scheme]]
+
+  The design and implementation of programming languages fascinates me.  A programming language enables a text file to both accurately communicate to another person a problem's solution and control a computer's execution.  The influence a language's feature set has on the way a programmer thinks about problems and their solutions is an endlessly captivating idea.  The world of programming languages is amazing.
+
+  I'm particularly interested in implementing higher-level languages in lower-level languages.  I think I was attracted to Math in school because the construction of new ideas based on a small set of axioms seems like good, clear thinking.  Building up to a high-level programming language from below has the same appeal for me.
+
+  This article /may/ be the first of many recording the scratching of an itch that apparently needs scratching.  I cannot seem to ignore it even if I try.  A book on Scheme or implementing interpreters or compilers always seems to find its way into my hands.  I want to implement Scheme from Scratch: an interpreter, a compiler, a JIT, etc.  I want to see how it all happens.  If you do too then you may enjoy following along.
+#+end_quote

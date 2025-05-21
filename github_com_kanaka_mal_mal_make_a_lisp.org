@@ -1,0 +1,138 @@
+:PROPERTIES:
+:ID:       f4759fd5-ce72-4517-b6e5-789626ae0c2f
+:ROAM_REFS: https://github.com/kanaka/mal
+:END:
+#+title: (github.com) kanaka/mal: mal - Make a Lisp
+#+filetags: :website:
+
+#+begin_quote
+  * mal - Make a Lisp
+
+  ** Description
+
+  *1. Mal is a Clojure inspired Lisp interpreter*
+
+  *2. Mal is a learning tool*
+
+  Each implementation of mal is separated into 11 incremental, self-contained (and testable) steps that demonstrate core concepts of Lisp.  The last step is capable of self-hosting (running the mal implementation of mal).  See the [[https://github.com/kanaka/mal/blob/master/process/guide.md][make-a-lisp process guide]].
+
+  The make-a-lisp steps are:
+
+  - [[https://github.com/kanaka/mal/blob/master/process/guide.md#step-0-the-repl][step0_repl]]
+  - [[https://github.com/kanaka/mal/blob/master/process/guide.md#step-1-read-and-print][step1_read_print]]
+  - [[https://github.com/kanaka/mal/blob/master/process/guide.md#step-2-eval][step2_eval]]
+  - [[https://github.com/kanaka/mal/blob/master/process/guide.md#step-3-environments][step3_env]]
+  - [[https://github.com/kanaka/mal/blob/master/process/guide.md#step-4-if-fn-do][step4_if_fn_do]]
+  - [[https://github.com/kanaka/mal/blob/master/process/guide.md#step-5-tail-call-optimization][step5_tco]]
+  - [[https://github.com/kanaka/mal/blob/master/process/guide.md#step-6-files-mutation-and-evil][step6_file]]
+  - [[https://github.com/kanaka/mal/blob/master/process/guide.md#step-7-quoting][step7_quote]]
+  - [[https://github.com/kanaka/mal/blob/master/process/guide.md#step-8-macros][step8_macros]]
+  - [[https://github.com/kanaka/mal/blob/master/process/guide.md#step-9-try][step9_try]]
+  - [[https://github.com/kanaka/mal/blob/master/process/guide.md#step-a-metadata-self-hosting-and-interop][stepA_mal]]
+
+  Each make-a-lisp step has an associated architectural diagram.  That elements that are new for that step are highlighted in red.  Here is the final architecture once [[https://github.com/kanaka/mal/blob/master/process/guide.md#stepA][step A]] is complete:
+
+  [[https://github.com/kanaka/mal/blob/master/process/steps.png][[[https://github.com/kanaka/mal/raw/master/process/steps.png]]]]
+
+  If you are interested in creating a mal implementation (or just interested in using mal for something) you are welcome to to join our [[https://discord.gg/CKgnNbJBpF][Discord]].  In addition to the [[https://github.com/kanaka/mal/blob/master/process/guide.md][make-a-lisp process guide]] there is also a [[https://github.com/kanaka/mal/blob/master/docs/FAQ.md][mal/make-a-lisp FAQ]] where I attempt to answer some common questions.
+
+  *3. Mal is implemented in 89 languages (95 different implementations and 118 runtime modes)*
+
+  | Language                          | Creator                |
+  |-----------------------------------+------------------------|
+  | [[https://github.com/kanaka/mal#ada][Ada]]                               | [[https://github.com/zmower][Chris Moore]]            |
+  | [[https://github.com/kanaka/mal#ada2][Ada #2]]                            | [[https://github.com/asarhaddon][Nicolas Boulenguez]]     |
+  | [[https://github.com/kanaka/mal#gnu-awk][GNU Awk]]                           | [[https://github.com/kariya-mitsuru][Mitsuru Kariya]]         |
+  | [[https://github.com/kanaka/mal#bash-4][Bash 4]]                            | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#basic-c64-and-qbasic][BASIC]] (C64 & QBasic)              | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#bbc-basic-v][BBC BASIC V]]                       | [[https://github.com/bjh21][Ben Harris]]             |
+  | [[https://github.com/kanaka/mal#c][C]]                                 | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#c2][C #2]]                              | [[https://github.com/fungiblecog][Duncan Watts]]           |
+  | [[https://github.com/kanaka/mal#c-1][C++]]                               | [[https://github.com/sdt][Stephen Thirlwall]]      |
+  | [[https://github.com/kanaka/mal#c-2][C#]]                                | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#chuck][ChucK]]                             | [[https://github.com/wasamasa][Vasilij Schneidermann]]  |
+  | [[https://github.com/kanaka/mal#clojure][Clojure]] (Clojure & ClojureScript) | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#coffeescript][CoffeeScript]]                      | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#common-lisp][Common Lisp]]                       | [[https://github.com/iqbalansari][Iqbal Ansari]]           |
+  | [[https://github.com/kanaka/mal#crystal][Crystal]]                           | [[https://github.com/rhysd][Linda_pp]]               |
+  | [[https://github.com/kanaka/mal#d][D]]                                 | [[https://github.com/dubek][Dov Murik]]              |
+  | [[https://github.com/kanaka/mal#dart][Dart]]                              | [[https://github.com/hterkelsen][Harry Terkelsen]]        |
+  | [[https://github.com/kanaka/mal#elixir][Elixir]]                            | [[https://github.com/ekmartin][Martin Ek]]              |
+  | [[https://github.com/kanaka/mal#elm][Elm]]                               | [[https://github.com/c0deaddict][Jos van Bakel]]          |
+  | [[https://github.com/kanaka/mal#emacs-lisp][Emacs Lisp]]                        | [[https://github.com/wasamasa][Vasilij Schneidermann]]  |
+  | [[https://github.com/kanaka/mal#erlang][Erlang]]                            | [[https://github.com/nlfiedler][Nathan Fiedler]]         |
+  | [[https://github.com/kanaka/mal#es6-ecmascript-2015][ES6]] (ECMAScript 2015)             | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#f][F#]]                                | [[https://github.com/pstephens][Peter Stephens]]         |
+  | [[https://github.com/kanaka/mal#factor][Factor]]                            | [[https://github.com/jordanlewis][Jordan Lewis]]           |
+  | [[https://github.com/kanaka/mal#fantom][Fantom]]                            | [[https://github.com/dubek][Dov Murik]]              |
+  | [[https://github.com/kanaka/mal#fennel][Fennel]]                            | [[https://github.com/sogaiu][sogaiu]]                 |
+  | [[https://github.com/kanaka/mal#forth][Forth]]                             | [[https://github.com/chouser][Chris Houser]]           |
+  | [[https://github.com/kanaka/mal#gnu-guile-21][GNU Guile]]                         | [[https://github.com/NalaGinrut][Mu Lei]]                 |
+  | [[https://github.com/kanaka/mal#gnu-smalltalk][GNU Smalltalk]]                     | [[https://github.com/wasamasa][Vasilij Schneidermann]]  |
+  | [[https://github.com/kanaka/mal#go][Go]]                                | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#groovy][Groovy]]                            | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#hare][Hare]]                              | [[http://github.com/einsiedlerspiel][Lou Woell]]              |
+  | [[https://github.com/kanaka/mal#haskell][Haskell]]                           | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#haxe-neko-python-c-and-javascript][Haxe]] (Neko, Python, C++, & JS)    | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#hy][Hy]]                                | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#io][Io]]                                | [[https://github.com/dubek][Dov Murik]]              |
+  | [[https://github.com/kanaka/mal#janet][Janet]]                             | [[https://github.com/sogaiu][sogaiu]]                 |
+  | [[https://github.com/kanaka/mal#java-17][Java]]                              | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#java-using-truffle-for-graalvm][Java Truffle]] (Truffle/GraalVM)    | [[https://github.com/mmcgill][Matt McGill]]            |
+  | [[https://github.com/kanaka/mal#javascriptnode][JavaScript]] ([[http://kanaka.github.io/mal][Demo]])                 | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#jq][jq]]                                | [[https://github.com/alimpfard][Ali MohammadPur]]        |
+  | [[https://github.com/kanaka/mal#julia][Julia]]                             | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#kotlin][Kotlin]]                            | [[https://github.com/ivern][Javier Fernandez-Ivern]] |
+  | [[https://github.com/kanaka/mal#latex3][LaTeX3]]                            | [[https://github.com/asarhaddon][Nicolas Boulenguez]]     |
+  | [[https://github.com/kanaka/mal#livescript][LiveScript]]                        | [[https://github.com/c0deaddict][Jos van Bakel]]          |
+  | [[https://github.com/kanaka/mal#logo][Logo]]                              | [[https://github.com/dubek][Dov Murik]]              |
+  | [[https://github.com/kanaka/mal#lua][Lua]]                               | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#gnu-make-381][GNU Make]]                          | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#mal][mal itself]]                        | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#matlab-gnu-octave-and-matlab][MATLAB]] (GNU Octave & MATLAB)      | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#minimal][miniMAL]] ([[https://github.com/kanaka/miniMAL][Repo]], [[https://kanaka.github.io/miniMAL/][Demo]])              | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#nasm][NASM]]                              | [[https://github.com/bendudson][Ben Dudson]]             |
+  | [[https://github.com/kanaka/mal#nim-104][Nim]]                               | [[https://github.com/def-][Dennis Felsing]]         |
+  | [[https://github.com/kanaka/mal#object-pascal][Object Pascal]]                     | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#objective-c][Objective C]]                       | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#ocaml-4010][OCaml]]                             | [[https://github.com/chouser][Chris Houser]]           |
+  | [[https://github.com/kanaka/mal#perl-5][Perl]]                              | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#perl-6][Perl 6]]                            | [[https://github.com/hinrik][Hinrik Örn Sigurðsson]]  |
+  | [[https://github.com/kanaka/mal#php-53][PHP]]                               | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#picolisp][Picolisp]]                          | [[https://github.com/wasamasa][Vasilij Schneidermann]]  |
+  | [[https://github.com/kanaka/mal#pike][Pike]]                              | [[https://github.com/dubek][Dov Murik]]              |
+  | [[https://github.com/kanaka/mal#plpgsql-postgresql-sql-procedural-language][PL/pgSQL]] (PostgreSQL)             | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#plsql-oracle-sql-procedural-language][PL/SQL]] (Oracle)                   | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#postscript-level-23][PostScript]]                        | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#powershell][PowerShell]]                        | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#prolog-logical-language][Prolog]]                            | [[https://github.com/asarhaddon][Nicolas Boulenguez]]     |
+  | [[https://github.com/kanaka/mal#purescript][PureScript]]                        | [[https://github.com/mrsekut][mrsekut]]                |
+  | [[https://github.com/kanaka/mal#python2][Python2]]                           | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#python3][Python3]]                           | [[https://github.com/epylar][Gavin Lewis]]            |
+  | [[https://github.com/kanaka/mal#rpython][RPython]]                           | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#r][R]]                                 | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#racket-53][Racket]]                            | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#rexx][Rexx]]                              | [[https://github.com/dubek][Dov Murik]]              |
+  | [[https://github.com/kanaka/mal#ruby-19][Ruby]]                              | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#ruby][Ruby #2]]                           | [[https://github.com/cookrn][Ryan Cook]]              |
+  | [[https://github.com/kanaka/mal#rust-138][Rust]]                              | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#scala][Scala]]                             | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#scheme-r7rs][Scheme (R7RS)]]                     | [[https://github.com/wasamasa][Vasilij Schneidermann]]  |
+  | [[https://github.com/kanaka/mal#skew][Skew]]                              | [[https://github.com/dubek][Dov Murik]]              |
+  | [[https://github.com/kanaka/mal#sml][Standard ML]]                       | [[https://github.com/fabjan][Fabian Bergström]]       |
+  | [[https://github.com/kanaka/mal#swift-3][Swift 3]]                           | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#swift-4][Swift 4]]                           | [[https://github.com/LispLY][陆遥]]                   |
+  | [[https://github.com/kanaka/mal#swift-6][Swift 6]]                           | [[https://github.com/MontakOleg][Oleg Montak]]            |
+  | [[https://github.com/kanaka/mal#tcl-86][Tcl]]                               | [[https://github.com/dubek][Dov Murik]]              |
+  | [[https://github.com/kanaka/mal#typescript][TypeScript]]                        | [[https://github.com/vvakame][Masahiro Wakame]]        |
+  | [[https://github.com/kanaka/mal#vala][Vala]]                              | [[https://github.com/sgtatham][Simon Tatham]]           |
+  | [[https://github.com/kanaka/mal#vhdl][VHDL]]                              | [[https://github.com/dubek][Dov Murik]]              |
+  | [[https://github.com/kanaka/mal#vimscript][Vimscript]]                         | [[https://github.com/dubek][Dov Murik]]              |
+  | [[https://github.com/kanaka/mal#visual-basicnet][Visual Basic.NET]]                  | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#visual-basic-script][Visual Basic Script]]               | [[https://github.com/OldLiu001][刘百超]]                 |
+  | [[https://github.com/kanaka/mal#webassembly-wasm][WebAssembly]] (wasm)                | [[https://github.com/kanaka][Joel Martin]]            |
+  | [[https://github.com/kanaka/mal#wren][Wren]]                              | [[https://github.com/dubek][Dov Murik]]              |
+  | [[https://github.com/kanaka/mal#xslt][XSLT]]                              | [[https://github.com/alimpfard][Ali MohammadPur]]        |
+  | [[https://github.com/kanaka/mal#yorick][Yorick]]                            | [[https://github.com/dubek][Dov Murik]]              |
+  | [[https://github.com/kanaka/mal#zig][Zig]]                               | [[https://github.com/rjtobin][Josh Tobin]]             |
+#+end_quote

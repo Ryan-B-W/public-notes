@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       54166380-923f-4c88-9f16-d8b14ba2c668
+:ROAM_REFS: https://dept-info.labri.fr/~strandh/Teaching/PFS/Common/David-Lamkins/chapter31.html
+:END:
+#+title: (dept-info.labri.fr) Successful Lisp - Chapter 31
+#+filetags: :website:
+
+#+begin_quote
+  * Chapter 31 - Handling Large Projects in Lisp
+
+  This book is primarily a tutorial, designed to give you enough of an understanding of Lisp to get started writing your own programs.  Eventually, you'll find yourself in a situation where you need to collaborate with other programmers to implement a larger system.  The strategies and tools used to organize Lisp programs for large projects and team efforts are similar to those used for other languages.  The main difference is that the coordination tools are part of the same environment in which you develop your program.
+#+end_quote

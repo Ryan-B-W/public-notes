@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       37909da1-e2cb-4f0e-98f8-cdac9b435d06
+:ROAM_REFS: "https://www.google.com/search?q=writing your own lisp"
+:END:
+#+title: (www.google.com) writing your own lisp - Google Search
+#+filetags: :searches:website:

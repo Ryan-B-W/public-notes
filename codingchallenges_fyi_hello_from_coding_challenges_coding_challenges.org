@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       5fc164fe-035a-43f6-992f-a1a67c5d1447
+:ROAM_REFS: https://codingchallenges.fyi/
+:END:
+#+title: (codingchallenges.fyi) Hello from Coding Challenges | Coding Challenges
+#+filetags: :website:
+
+#+begin_quote
+  * Coding Challenges
+
+  Helping you become a better software engineer through coding challenges that build real applications.
+
+  *** Easy to Get Started
+
+  The coding challenges are all designed to walk you through the process of creating an application and to be less than 8 hours work.
+
+  *** Focus on Building Real-World Applications
+
+  Each challenge has you focus on building real-world software rather than toy applications or algorithms and data structures.
+
+  *** Language Agnostic
+
+  You can tackle the challenges in the programming language of your choice.  You can even tackle them in several different languages if you prefer.
+#+end_quote
+* (codingchallenges.fyi) Build Your Own Lisp Interpreter | Coding Challenges
+:PROPERTIES:
+:ID:       c6c3724b-1481-4542-9aa6-b83332a40b7d
+:ROAM_REFS: https://codingchallenges.fyi/challenges/challenge-lisp/
+:END:
+
+#+begin_quote
+  * Build Your Own Lisp Interpreter
+
+  Lisp is a general-purpose, multi-paradigm programming language suited for a wide variety of industry applications.  It is probably most widely know for being the programming language built into Emacs.  As well as that it was used to build Hacker News (Paul Graham is a Lisp fan), Grammarly, Circle CI (actually using the modern dialect Clojure) and Boeing.
+
+  ** The Challenge - Building Your Own Lisp Interpreter
+
+  In this Coding Challenge you are going to build your own simple Lisp interpreter.  Like all the challenges, you can tackle it in any programming language you like.  Bonus points if you go all Inception on it and build the interpreter in a modern version of Lisp, like [[https://clojure.org/][Clojure]] or [[https://racket-lang.org/][Racket]]!
+
+  If you want to learn a little Lisp (which is a fun thing to do), I pulled together some tutorial material in a LinkedIn post: [[https://www.linkedin.com/posts/johncrickett_10-ways-to-learn-lisp-1-tutorial-lisp-langorg-activity-7115599045615575042-vCqW?utm_source=share&utm_medium=member_desktop][10 ways to learn Lisp.]]  In the meantime here's a *very* brief introduction.
+
+  There are two fundamental elements to Lisp syntax, atoms and s-expressions.  =1=, =:cc= and =t= are all atoms, where as =(+ 1 2)= and =(defun () "Hello Coding Challenges")= are s-expressions.  In these examples =1= and =2= are integers, =:cc= is a symbol and =t= is an atom denoting true.
+
+  An s-expression is either an atom or an expression, for example =(a b c)=.  Where =a=, =b=, and =c= can all then be either atoms or s-expressions.  Mathematical operations are in prefix notation.
+#+end_quote

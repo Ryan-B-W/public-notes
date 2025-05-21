@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a1b25676-ad61-47f9-b5b3-9c9cde4f3697
+:ROAM_REFS: https://zstix.io/posts/make-a-lisp-in-python/
+:END:
+#+title: (zstix.io) zstix - Make a Lisp in Python
+#+filetags: :python_lang:lisp:blog_post:website:
+
+#+begin_quote
+  * Make a Lisp in Python
+
+  2024-08-08
+
+  /[[https://zstix.io/tags/build-log][#build-log]]/ /[[https://zstix.io/tags/language-design][#language-design]]/ /[[https://zstix.io/tags/python][#python]]/ /[[https://zstix.io/tags/lisp][#lisp]]/
+
+  I've been spending a lot of time learning how programming languages are created.  At the moment, I am half-way through reading [[https://compilerbook.com/][Writing a Compiler in Go]] (which, along with the first book in the series, is fantastic).  I have lofty aspirations for making my own VM and self-compiled language, but I have a lot more to learn first.
+
+  The books covers building a fairly robust interpreter (and later compiler) for a C-like language.  I've already written several thousand lines of code and probably have another thousand or two to go.  It's been rewarding, but also /a lot/ to think about.  I wanted to take a little brain break and build a dirt-simple [[https://en.wikipedia.org/wiki/Lisp_(programming_language)][lisp-like]] language.
+
+  It turned out to be pretty easy to build (and it was a lot of fun).  I thought it would be a fun tutorial for folks, so join me as we make *our very own programming language!*
+#+end_quote

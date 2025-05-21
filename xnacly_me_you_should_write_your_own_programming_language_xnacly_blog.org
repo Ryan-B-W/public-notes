@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       efa3d3e0-dda2-4137-91aa-bcb7dd308a4d
+:ROAM_REFS: https://xnacly.me/posts/2023/write-your-own-programming-language/
+:END:
+#+title: (xnacly.me) You should write your own programming language | xnacly - blog
+#+filetags: :blog_post:website:
+
+#+begin_quote
+  * You should write your own programming language
+
+  I recently started writing an interpreted [[https://github.com/xNaCly/Sophia][programming language inspired by lisp]].  Mainly because its easy to parse the expressions :^).  I named it after my girlfriend and got started.  Its designed around single character operators, such as =.:+-*/^%=.
+
+  After implementing the first few features I wanted to somewhat express the fun i had while writing this obscure language in this post while explaining why I think everyone should at least try to implement a subset of a programming language.  Even if the language is, like mine, a little bit esoteric.
+#+end_quote

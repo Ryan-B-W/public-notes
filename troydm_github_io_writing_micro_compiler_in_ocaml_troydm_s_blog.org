@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c776bdf1-f65b-4c24-83a7-39e5d9d74e57
+:ROAM_REFS: https://troydm.github.io/blog/2014/03/29/writing-micro-compiler-in-ocaml/
+:END:
+#+title: (troydm.github.io) Writing Micro Compiler in OCaml - Troydm's Blog
+#+filetags: :blog_post:website:
+
+#+begin_quote
+  * Writing Micro Compiler in OCaml
+
+  Mar 29th, 2014
+
+  TL;DR /Writing micro compiler in OCaml/
+
+  At one point or another every single software developer in the world comes to a realization in his career when the time is ripe and it's time to write your own super cool programming language.
+
+  However the subject of creating your own programming language with an compiler is quite a complex one and can't be tackled without some pre-research.  That's how I've started reading [[http://www.amazon.com/Crafting-Compiler-Charles-N-Fischer/dp/0805321667/][Crafting Compiler in C]], an aged but really comprehensive book about developing your own compiler for an [[http://en.wikipedia.org/wiki/Ada_(programming_language)][Ada]]-like programming language.  Second chapter describes writing a really simple micro language targeting pseudo assembly-like output in order to explain the core concepts of developing your own compiler and writing an [[https://en.wikipedia.org/wiki/LL_parser][LL(1)]] parser.
+
+  Let's try rewriting this micro compiler in [[http://ocaml.org/][OCaml]], a language better suited for writing compilers that is becoming quite popular due to it's clean syntax and strict evaluation semantics combined with functional and object-oriented programming styles.  If you are not familiar with OCaml try reading [[https://realworldocaml.org/][Real World OCaml]] first.  Instead of outputting pseudo assembly our micro compiler will output a real [[http://www.nasm.us/][nasm]] source code which will be automatically compiled into a binary executable file.
+#+end_quote

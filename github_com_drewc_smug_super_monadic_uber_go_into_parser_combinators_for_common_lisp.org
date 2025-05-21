@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       1ad515e1-5e9f-45cc-87fe-ae023081ddf1
+:ROAM_REFS: https://github.com/drewc/smug
+:END:
+#+title: (github.com) drewc/smug: Super Monadic Über Go-into : parser combinators for Common Lisp
+#+filetags: :website:
+
+#+begin_quote
+  SMUG : Super Monadic Über Go-into
+
+  =SMUG= is a library for parsing text, based on monadic parser combinators. Using a simple technique from the functional programming camp, =SMUG= makes it simple to create quick extensible recursive descent parsers without funky syntax or impenetrable macrology.
+
+  * Features
+
+  parsers are first class values written in basic lisp
+
+  non-deterministic infinite look-ahead
+
+  easy to learn, easy to use
+
+  extensible input protocol : parse strings, streams, lists etc
+
+  in-depth tutorial : no previous experience required
+#+end_quote

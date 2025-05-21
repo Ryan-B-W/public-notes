@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       70a413c8-7ce6-43c9-b533-a86db1d2996b
+:ROAM_REFS: https://amirbolous.com/posts/pl/
+:END:
+#+title: (amirbolous.com) Building a programming language from scratch
+#+filetags: :blog_post:website:
+
+#+begin_quote
+  * Building a programming language from scratch
+
+  Apr 30, 2021
+
+  *** Preface
+
+  Amir from the future here!  This blog post documents my journey from not knowing what the hell Lisp was, to creating a Lisp-dialect (i.e. a programming language that is a dialect of Lisp) inspired by Scheme and Clojure.  Below you'll find my “journal” throughout the process.  You can find more technical details about the project [[https://github.com/amirgamil/lispy][repo]] on GitHub.
+
+  You can also learn more about the language and run it your browser [[http://lispy.amirbolous.com/][here]].
+
+  *** Why have a journal?
+
+  Miley Cyrus said it best when she said
+
+  : ain't about how fast you get there, ain't about what's waiting on the other side, it's the climb.
+
+  In other words, *journey before destination*.  I think with many projects, we often only see the end result and not the struggle / journey in between, so I figured showing the process from being *a complete noob* to a *little less of a noob* might be helpful to other people who potentially want to try their hand at doing something like this.
+
+  *** Motivation
+
+  Nowadays, software powers so much of the world.  There's so much going on that sometimes, it's easier to convince yourself that something cannot be understood.  I do not consider myself a great programmer.  In fact, I'd describe myself as a below average to average programmer.  What I do try to do is be unintimidated by software.  If building an interpreter or designing your own programming language is something that sounds at all interesting, *do not be intimidated.*  In Nelson Elhage's essay [[https://blog.nelhage.com/post/computers-can-be-understood/][“Computers can be understood”]] there is a great section on just this.
+
+  : I approach software with a deep-seated belief that computers and software systems can be understood.  In some ways, this belief feels radical today.  Modern software and hardware systems contain almost unimaginable complexity amongst many distinct layers, each building atop each other.  In the face of this complexity, it's easy to assume that there's just too much to learn, and to adopt the mental shorthand that the systems we work with are best treated as black boxes, not to be understood in any detail.  I argue against that approach.  You will never understand every detail of the implementation of every level on that stack; but you can understand all of them to some level of abstraction, and any specific layer to essentially any depth necessary for any purpose.
+
+  In short, *do not be afraid of taking on a technical project that seems out of your depth or too challenging.*  In fact, the more challenging a project is, the more [[https://thesephist.com/posts/how-i-side-project/][rewarding]] it will be.  So just [[http://mindingourway.com/dive-in-2/][dive in,]] you can figure out the details later
+#+end_quote
