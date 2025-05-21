@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       35d71b57-8d5c-4914-a46d-24f3c63cc04d
+:ROAM_REFS: https://x.com/tsoding
+:END:
+#+title: (x.com) Тsфdiиg (@tsoding) / X
+#+filetags: :social_media:website:
+
+#+begin_quote
+  Тsфdiиg\\
+  @tsoding
+
+  Recreational Programming
+  - [[http://twitch.tv/tsoding][http://twitch.tv/tsoding]]
+  - [[https://www.youtube.com/@TsodingDaily][https://youtube.com/@TsodingDaily]]
+  - [[https://www.youtube.com/@Tsoding][https://youtube.com/@Tsoding]]
+
+   ⢀⣰⣾⡿⣶⣿⠿⣶
+  ⢠⣼⣿⣿⣷⣿⣿⣶⠉
+  ⢸⣿⣿⣿⣿⣿⣿⠀⠀
+#+end_quote

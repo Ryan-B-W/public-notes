@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       27fa4078-36b5-4d86-ac94-b556d48459dd
+:ROAM_REFS: https://github.com/abrantesasf/sicp-abrantes-study-guide
+:END:
+#+title: (github.com) abrantesasf/sicp-abrantes-study-guide: My study guide for SICP
+#+filetags: :website:
+
+Very incomplete, abandoned [[id:bc4f5e4a-5bb9-47f7-8086-d12236fe793f][SICP]] study guide.

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       d6807e35-a706-43be-a11f-796eab822885
+:ROAM_REFS: https://www.paulgraham.com/thist.html
+:END:
+#+title: (www.paulgraham.com) History of T
+#+filetags: :website:
+
+#+begin_quote
+  * Olin Shivers: History of T
+
+  /(T was one of the best Lisp implementations, and set a standard for clean design that few newer dialects have been able to meet. Here Olin Shivers recounts T's history.)/
+#+end_quote

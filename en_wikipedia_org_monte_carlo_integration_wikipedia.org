@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       a68342be-8981-44cd-b133-4ec51bd2ca21
+:ROAM_REFS: https://en.wikipedia.org/wiki/Monte_Carlo_integration
+:END:
+#+title: (en.wikipedia.org) Monte Carlo integration - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Mathematics][mathematics]], *Monte Carlo integration* is a technique for [[https://en.wikipedia.org/wiki/Numerical_quadrature][numerical integration]] using [[https://en.wikipedia.org/wiki/Pseudorandomness][random numbers]].  It is a particular [[https://en.wikipedia.org/wiki/Monte_Carlo_method][Monte Carlo method]] that numerically computes a [[https://en.wikipedia.org/wiki/Definite_integral][definite integral]].  While other algorithms usually evaluate the integrand at a regular grid, Monte Carlo randomly chooses points at which the integrand is evaluated.  This method is particularly useful for higher-dimensional integrals.
+
+  There are different methods to perform a Monte Carlo integration, such as [[https://en.wikipedia.org/wiki/Uniform_distribution_(continuous)][uniform sampling]], [[https://en.wikipedia.org/wiki/Stratified_sampling][stratified sampling]], [[https://en.wikipedia.org/wiki/Importance_sampling][importance sampling]], [[https://en.wikipedia.org/wiki/Particle_filter][sequential Monte Carlo]] (also known as a particle filter), and [[https://en.wikipedia.org/wiki/Mean-field_particle_methods][mean-field particle methods]].
+#+end_quote

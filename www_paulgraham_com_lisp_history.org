@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       ba53c5aa-39f4-417e-8297-2f94d66ead31
+:ROAM_REFS: https://www.paulgraham.com/lisphistory.html
+:END:
+#+title: (www.paulgraham.com) Lisp History
+#+filetags: :website:

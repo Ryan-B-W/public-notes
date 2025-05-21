@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       bf589c24-bdd9-4dac-b9aa-4abe2aef5ae9
+:ROAM_REFS: https://en.wikipedia.org/wiki/Self-hosting_(compilers)
+:END:
+#+title: (en.wikipedia.org) Self-hosting (compilers) - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Computer_programming][computer programming]], *self-hosting* is the use of a [[https://en.wikipedia.org/wiki/Computer_program][program]] as part of the [[https://en.wikipedia.org/wiki/Toolchain][toolchain]] or [[https://en.wikipedia.org/wiki/Operating_system][operating system]] that produces new versions of that same program---for example, a [[https://en.wikipedia.org/wiki/Compiler][compiler]] that can compile its own [[https://en.wikipedia.org/wiki/Source_code][source code]].  Self-hosting [[https://en.wikipedia.org/wiki/Software][software]] is commonplace on [[https://en.wikipedia.org/wiki/Personal_computer][personal computers]] and larger systems.  Other programs that are typically self-hosting include [[https://en.wikipedia.org/wiki/Kernel_(computer_science)][kernels]], [[https://en.wikipedia.org/wiki/Assembly_language_assembler][assemblers]], [[https://en.wikipedia.org/wiki/Command-line_interpreter][command-line interpreters]] and [[https://en.wikipedia.org/wiki/Revision_control][revision control software]].
+#+end_quote
