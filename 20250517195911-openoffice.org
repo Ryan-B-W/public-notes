@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       b561de7f-ca99-4eb8-8c34-8eb578a12dce
+:END:
+#+title: OpenOffice
+#+filetags: :open_source:apache_software_foundation:software:
+
+Apache OpenOffice, an [[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][open-source]] office suite.
+* (www.openoffice.org) Apache OpenOffice - Official Site - The Free and Open Productivity Suite :website:
+:PROPERTIES:
+:ID:       5c4f8285-3133-4531-afae-009a9fd8ac2a
+:ROAM_REFS: https://www.openoffice.org/
+:END:

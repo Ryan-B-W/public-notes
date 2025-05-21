@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       64f28ca5-47b4-4cd1-bdc8-3c05e50f6aa1
+:END:
+#+title: LibreOffice
+#+filetags: :open_source:software:
+
+[[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][Open-source]] office suite.
+* (www.libreoffice.org) Home | LibreOffice                          :website:
+:PROPERTIES:
+:ID:       e538fd19-c7ec-4156-9098-491ee38a72f3
+:ROAM_REFS: https://www.libreoffice.org/
+:END:

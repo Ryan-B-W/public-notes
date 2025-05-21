@@ -27,14 +27,22 @@ Useful pieces of software.
 **** [[id:8d62fc59-25ba-4667-84dd-66e72a5db0cf][Dia]]
 **** [[id:f6e16cb0-a294-48b3-b950-94862e3be554][Draw.io]]
 **** [[id:59814805-9cc4-4f58-8e69-4a72038d74d2][tldraw]]
+**** [[id:dcd7f214-ab27-4a85-931d-68151fdf019f][ditaa]]
 *** Images & Graphics
 **** [[id:46e818d9-aa7a-4eca-8dbc-4571907d53f1][SvgPathEditor]]
 **** [[id:0c139c35-2577-4e81-9904-dc11da80d35a][JS Paint]]
 **** [[id:4304f185-6909-47c6-a8ee-55725129fd12][Hugin]]
 *** Graphs
 **** [[id:8ce71873-caf9-465a-a282-c2bd968b3dba][Gnuplot]]
+*** Design
+**** [[id:d81aebda-529c-41ca-8db2-159b642c7008][Penpot]]
 ** Management
 *** [[id:36b8a2f5-7eab-4ae8-9a1f-1a18936bd48c][Calibre]]
+** Office Suite
+*** [[id:64f28ca5-47b4-4cd1-bdc8-3c05e50f6aa1][LibreOffice]]
+*** [[id:c0bf680f-e24b-4ac3-b1ac-402746bcd945][Collabora Online]]
+*** [[id:2e2b838d-9d3e-41e6-8525-4949a3b2763b][Calligra]]
+*** [[id:b561de7f-ca99-4eb8-8c34-8eb578a12dce][OpenOffice]]
 * Programming
 ** [[id:73afc0b8-eda4-4aea-869d-523d0a2410ad][C and C++ Tooling]]
 ** [[id:aca1324c-b142-4e34-a121-a8bb0a79ddf8][Emacs]]
