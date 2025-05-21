@@ -277,3 +277,11 @@ which people seem to like quoting but not citing.
 ***** [[id:c85ec26d-5b42-4c3f-b5a7-16c53860025e][(elixirschool.com) Pipe Operator · Elixir School]]
 ***** [[id:91f3fe45-71ac-4d92-926e-c0058429763a][Crafting Interpreters by Robert Nystrom]]
 ***** [[id:f019fda3-5133-4cdb-b1c2-3361bbdd6782][(cacm.acm.org) A Programmable Programming Language – Communications of the ACM]]
+**** Session Ten, [2025-05-18 Sun 15:00-16:00]
+***** Current section [[id:45d86aec-1cbf-4562-b350-6787585091e7][(sarabander.github.io) SICP, 2e: 3.2 The Environment Model of Evaluation]]
+***** [[id:8e72da0e-d883-46e3-bd1b-96dd985fe8ca][(www.youtube.com) Lecture 5A | MIT 6.001 Structure and Interpretation, 1986 - YouTube]]
+***** [[id:feca9603-fe83-4e16-bfab-d323bb06bc2e][(www.youtube.com) L21 Assignment and State | UC Berkeley Cs 61A, Spring 2010 - YouTube]]
+***** [[id:6959fcfb-f0c3-422f-bce0-9e9103888602][The Garbage Collection Handbook]]
+***** Diagramming parallel vs series frames and environments
+Was attempting to draw a diagram of parallel vs. series frames when defining nested and non-nested functions and when calling said functions.
+***** [[id:87ce890e-e647-45c9-825f-c98c030d44af][Build Your Own Lisp]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       7e50fd6f-b799-40ad-8cd5-aa708df70cbd
+:ROAM_REFS: https://www.youtube.com/playlist?list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9
+:END:
+#+title: (www.youtube.com) UC Berkeley CS 61A The Structure and Interpretation of Computer Programs, Spring 2010 - YouTube
+#+filetags: :playlist:website:
+
+#+begin_quote
+  Source: https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E
+
+  Course: https://inst.eecs.berkeley.edu/~cs61a/fa10/
+
+  Reader: http://www-inst.eecs.berkeley.edu/~cs61a/reader
+#+end_quote
+* (www.youtube.com) L21 Assignment and State | UC Berkeley Cs 61A, Spring 2010 - YouTube :video:
+:PROPERTIES:
+:ID:       feca9603-fe83-4e16-bfab-d323bb06bc2e
+:ROAM_REFS: https://www.youtube.com/watch?v=fSjVM0rHrMQ https://www.youtube.com/watch?v=fSjVM0rHrMQ&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9&index=24
+:END:

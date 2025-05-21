@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       8e72da0e-d883-46e3-bd1b-96dd985fe8ca
+:ROAM_REFS: https://www.youtube.com/watch?v=jl8EHP1WrWY
+:END:
+#+title: (www.youtube.com) Lecture 5A | MIT 6.001 Structure and Interpretation, 1986 - YouTube
+#+filetags: :video:website:
