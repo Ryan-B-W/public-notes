@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       629f95d7-1153-4ef8-8154-04d5347c9d9d
+:ROAM_REFS: https://en.wikipedia.org/wiki/P-code_machine
+:END:
+#+title: (en.wikipedia.org) P-code machine - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Computer_programming][computer programming]], a *P-code machine* (*portable code machine*) is a [[https://en.wikipedia.org/wiki/Virtual_machine][virtual machine]] designed to execute /P-code,/ the [[https://en.wikipedia.org/wiki/Assembly_language][assembly language]] or [[https://en.wikipedia.org/wiki/Machine_code][machine code]] of a hypothetical [[https://en.wikipedia.org/wiki/Central_processing_unit][central processing unit]] (CPU).  The term /P-code machine/ is applied generically to all such machines (such as the [[https://en.wikipedia.org/wiki/Java_virtual_machine][Java virtual machine]] (JVM) and [[https://en.wikipedia.org/wiki/MATLAB][MATLAB]] [[https://en.wikipedia.org/wiki/Bytecode][pre-compiled code]]), as well as specific implementations using those machines.  One of the most notable uses of P-Code machines is the P-Machine of the [[https://en.wikipedia.org/wiki/Pascal-P][Pascal-P]] system.  The developers of the [[https://en.wikipedia.org/wiki/UCSD_Pascal][UCSD Pascal]] implementation within this system construed the /P/ in /P-code/ to mean /pseudo/ more often than /portable;/ they adopted a unique label for /pseudo-code/ meaning instructions for a pseudo-machine.
+
+  Although the concept was first implemented circa 1966 as [[https://en.wikipedia.org/wiki/BCPL#Design][O-code]] for the Basic Combined Programming Language ([[https://en.wikipedia.org/wiki/BCPL][BCPL]]) and P code for the language [[https://en.wikipedia.org/wiki/Euler_(programming_language)][Euler]], the /term/ P-code first appeared in the early 1970s.  Two early [[https://en.wikipedia.org/wiki/Compiler][compilers]] generating P-code were the Pascal-P compiler in 1973, by Kesav V. Nori, Urs Ammann, Kathleen Jensen, Hans-Heinrich Nägeli, and Christian Jacobi, and the [[https://en.wikipedia.org/wiki/Pascal-S][Pascal-S]] compiler in 1975, by [[https://en.wikipedia.org/wiki/Niklaus_Wirth][Niklaus Wirth]].
+
+  Programs that have been translated to P-code can either be [[https://en.wikipedia.org/wiki/Interpreter_(computing)][interpreted]] by a software program that emulates the behaviour of the hypothetical CPU, or [[https://en.wikipedia.org/wiki/Binary_translation][translated]] into the machine code of the CPU on which the program is to run and then executed.  If there is sufficient commercial interest, a hardware implementation of the CPU specification may be built (e.g., the [[https://en.wikipedia.org/wiki/Pascal_MicroEngine][Pascal MicroEngine]] or a version of a [[https://en.wikipedia.org/wiki/Java_processor][Java processor]]).
+#+end_quote

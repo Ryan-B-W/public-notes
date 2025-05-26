@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       d044b91e-fe24-4ce6-83ba-860fa8f25c30
+:ROAM_REFS: https://markbessey.blog/ucsd-p-system-info/
+:END:
+#+title: (markbessey.blog) UCSD p-System Info – markbessey.blog
+#+filetags: :website:
+
+#+begin_quote
+  * [[https://markbessey.blog/ucsd-p-system-info/][UCSD p-System Info]]
+
+  A collection of links, files, and my posts about the p-System.
+
+  ** Source Code
+
+  Here's the Github repo for [[https://github.com/mbessey/p-system-tools][p-system-tools]], my Rust-based tools for the p-System
+
+  ** Links
+
+  Hans Otten's [[http://pascal.hansotten.com/ucsd-p-system/][Pascal for small machines]] page on the p-System
+
+  ** Resources
+
+  Apple Pascal Operating System Reference Manual
+
+  [[https://markbessey.blog/wp-content/uploads/2025/05/apple_pascal_operating_system_reference_manual_hq_text.pdf][Apple_Pascal_Operating_System_Reference_Manual_HQ_text]][[https://markbessey.blog/wp-content/uploads/2025/05/apple_pascal_operating_system_reference_manual_hq_text.pdf][Download]]
+
+  Apple Pascal Language Reference Manual
+
+  [[https://markbessey.blog/wp-content/uploads/2025/05/apple-pascal-language-reference-manual_text.pdf][Apple Pascal Language Reference Manual_text]][[https://markbessey.blog/wp-content/uploads/2025/05/apple-pascal-language-reference-manual_text.pdf][Download]]
+#+end_quote

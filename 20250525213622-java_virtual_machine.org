@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       c6bee8fc-4fab-45dd-81f8-fdb978da0fb5
+:ROAM_ALIASES: JVM
+:END:
+#+title: Java Virtual Machine
+#+filetags: :java_vm:java_lang:programming:computer_science:
+
+The bytecode runtime of the [[id:e68f44a7-29bb-4d02-a5d9-a94ba0e757e4][Java]] programming language.
+* (en.wikipedia.org) Java virtual machine - Wikipedia               :website:
+:PROPERTIES:
+:ID:       96ec3e9f-6cb0-414e-be77-257ee63c1e41
+:ROAM_REFS: https://en.wikipedia.org/wiki/Java_virtual_machine
+:END:
+
+#+begin_quote
+  A *Java virtual machine* (*JVM*) is a [[https://en.wikipedia.org/wiki/Virtual_machine][virtual machine]] that enables a computer to run [[https://en.wikipedia.org/wiki/Java_(software_platform)][Java]] programs as well as programs written in [[https://en.wikipedia.org/wiki/List_of_JVM_languages][other languages]] that are also compiled to [[https://en.wikipedia.org/wiki/Java_bytecode][Java bytecode]].  The JVM is detailed by a [[https://en.wikipedia.org/wiki/Specification_(technical_standard)][specification]] that formally describes what is required in a JVM implementation.  Having a specification ensures interoperability of Java programs across different implementations so that program authors using the [[https://en.wikipedia.org/wiki/Java_Development_Kit][Java Development Kit]] (JDK) need not worry about idiosyncrasies of the underlying hardware platform.
+
+  The JVM [[https://en.wikipedia.org/wiki/Reference_implementation][reference implementation]] is developed by the [[https://en.wikipedia.org/wiki/OpenJDK][OpenJDK]] project as [[https://en.wikipedia.org/wiki/Open-source_software][open source]] code and includes a [[https://en.wikipedia.org/wiki/JIT_compiler][JIT compiler]] called [[https://en.wikipedia.org/wiki/HotSpot_(virtual_machine)][HotSpot]].  The commercially supported Java releases available from [[https://en.wikipedia.org/wiki/Oracle_Corporation][Oracle]] are based on the OpenJDK runtime.  Eclipse [[https://en.wikipedia.org/wiki/OpenJ9][OpenJ9]] is another open source JVM for OpenJDK.
+#+end_quote

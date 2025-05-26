@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       268d7a7e-49ba-4b9e-807e-afb80c5f7f40
+:ROAM_REFS: https://www.constructortheory.org/
+:END:
+#+title: (www.constructortheory.org) Home » Constructor Theory
+#+filetags: :physics:website:
+
+#+begin_quote
+  * Constructor Theory
+
+  ** What is Constructor Theory?
+
+  Constructor Theory is a new approach to formulating fundamental laws in physics.  Instead of describing the world in terms of trajectories, initial conditions and dynamical laws, in constructor theory laws are about which physical transformations are possible and which are impossible, and why.  This powerful switch has the potential to bring all sorts of interesting fields, currently regarded as inherently approximative, into fundamental physics.  These include the theories of information, knowledge, thermodynamics, and life.
+
+  With generous support from [[https://www.wolfson.ox.ac.uk/][Wolfson College]], the [[https://www.templetonworldcharity.org/][Templeton World Charity Foundation]], the [[https://eutopiafoundation.org/][Eutopia Foundation]], the [[https://www.moore.org/][Gordon and Betty Moore Foundation]], the [[https://fqxi.org/][FQXi]], and the [[https://www.templeton.org/][John Templeton Foundation]], Oxford University is conducting research into constructor theory and its implications in a project involving [[http://www.daviddeutsch.org.uk/][David Deutsch]], [[https://www.wolfson.ox.ac.uk/chiara-marletto][Chiara Marletto]], and collaborators in [[https://www.wolfson.ox.ac.uk/wolfson-quantum-physics][Oxford University, Department of Physics and Wolfson College]], [[https://www.isi.it/en/home][ISI Turin]], and [[https://www.quantumlah.org/][CQT Singapore]].
+#+end_quote
