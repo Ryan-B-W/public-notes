@@ -285,3 +285,11 @@ which people seem to like quoting but not citing.
 ***** Diagramming parallel vs series frames and environments
 Was attempting to draw a diagram of parallel vs. series frames when defining nested and non-nested functions and when calling said functions.
 ***** [[id:87ce890e-e647-45c9-825f-c98c030d44af][Build Your Own Lisp]]
+**** Session Eleven, [2025-05-25 Sun 15:00-16:00]
+***** Current section [[id:29b23078-07a0-470c-a8f9-ba522c99f0ff][(sarabander.github.io) SICP, 2e: 3.3 Modeling with Mutable Data]]
+***** [[id:e74c4133-755a-428a-9067-5e35a5f6d836][(www.youtube.com) 6.001 SICP: Structure and Interpretation of Computer Programs (2004) - YouTube]]
+****** In particular, Grant recommended [[id:9e601c08-6e33-4307-841b-09c372d7d04f][(www.youtube.com) 13. Environment Model - 6.001 Sicp (2004) - YouTube]] at 43 minutes in
+***** [[https://physbuzz.github.io/sicp/ch3/notes-ch3-3.html#exercise-317][SICP Reading Group - Book Club Notes - Section 3.3 - Exercise 3.17]]
+***** [[id:0bb30c6d-d5f2-45a8-8e23-17f3c9afec57][(con.racket-lang.org) RacketCon]]
+***** [[id:bc09874a-eb5d-4791-83b9-a87ca32f5371][(www.youtube.com) From Here to Lambda and Back Again - Douglas Crockford - RacketCon 2023 - YouTube]] at 8 minutes was shared by Grant
+***** Next time, still covering [[id:29b23078-07a0-470c-a8f9-ba522c99f0ff][(sarabander.github.io) SICP, 2e: 3.3 Modeling with Mutable Data]]

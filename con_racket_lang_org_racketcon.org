@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       0bb30c6d-d5f2-45a8-8e23-17f3c9afec57
+:ROAM_REFS: https://con.racket-lang.org/
+:END:
+#+title: (con.racket-lang.org) RacketCon
+#+filetags: :events:website:

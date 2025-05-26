@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       bc09874a-eb5d-4791-83b9-a87ca32f5371
+:ROAM_REFS: https://www.youtube.com/watch?v=vMDHpPN_p08 https://www.youtube.com/watch?v=vMDHpPN_p08&t=485s
+:END:
+#+title: (www.youtube.com) From Here to Lambda and Back Again - Douglas Crockford - RacketCon 2023 - YouTube
+#+filetags: :video:website:

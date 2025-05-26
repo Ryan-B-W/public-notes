@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       e74c4133-755a-428a-9067-5e35a5f6d836
+:ROAM_REFS: https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF
+:END:
+#+title: (www.youtube.com) 6.001 SICP: Structure and Interpretation of Computer Programs (2004) - YouTube
+#+filetags: :playlist:website:
+
+#+begin_quote
+  MIT's legendary introductory computer science course, 6.001 Structure and Interpretation of Computer Programs (SICP), as taught by Prof. Eric Grimson in 2004.
+
+  Copyright © 2004 Massachusetts Institute of Technology.
+
+  These videos are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 2.0 Generic License.
+#+end_quote
+* (www.youtube.com) 1. Introduction to Computation - 6.001 SICP (2004) - YouTube :video:website:
+:PROPERTIES:
+:ID:       f7f33f6d-1511-4429-996f-14857d74d53c
+:ROAM_REFS: https://www.youtube.com/watch?v=FIUJd_ZFmGo https://www.youtube.com/watch?v=FIUJd_ZFmGo&list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF
+:END:
+* (www.youtube.com) 13. Environment Model - 6.001 Sicp (2004) - YouTube :video:website:
+:PROPERTIES:
+:ID:       9e601c08-6e33-4307-841b-09c372d7d04f
+:ROAM_REFS: https://www.youtube.com/watch?v=SDsxFreEYsc https://www.youtube.com/watch?v=SDsxFreEYsc&t=2334s https://www.youtube.com/watch?v=SDsxFreEYsc&list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF&t=2334s
+:END:
