@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       bccac2eb-9de0-4865-93a5-0f774c880ada
+:ROAM_ALIASES: OSINT
+:END:
+#+title: Open-Source Intelligence
+#+filetags: :investigation:intel:
+
+The collection and compilation of actionable intelligence from publicly available sources.
+* (en.wikipedia.org) Open-source intelligence - Wikipedia           :website:
+:PROPERTIES:
+:ID:       a12f8e44-bc33-48d3-a48b-4ed51f584ac8
+:ROAM_REFS: https://en.wikipedia.org/wiki/Open-source_intelligence
+:END:
+
+#+begin_quote
+  *Open-source intelligence* (*OSINT*) refers to the systematic collection, evaluation, and analysis of publicly available information from open sources to produce actionable intelligence.  These sources include, but are not limited to, traditional media (newspapers, radio, television), government publications, academic research, commercial databases, public websites, social media platforms, geospatial data, and technical infrastructure information.
+
+  OSINT is employed across a wide range of sectors including national security, law enforcement, corporate intelligence, journalism, cybersecurity, humanitarian aid, and academic research.  It supports decision-making by providing timely, relevant, and verified insights derived from legally accessible and non-classified materials.
+
+  Unlike other forms of intelligence such as human intelligence (HUMINT), signals intelligence (SIGINT), or imagery intelligence (IMINT), OSINT does not rely on covert or classified means of collection.  Instead, it leverages information that is freely accessible to the public, often through digital channels, though physical documents and broadcasts also remain valid sources.
+#+end_quote

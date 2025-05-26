@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       dda0c5b3-a831-4a21-bfef-e76dcd414683
+:ROAM_REFS: https://www.amazon.com/dp/B0DMSPTCFD
+:END:
+#+title: (www.amazon.com) OSINT Techniques: Resources for Uncovering Online Information: Bazzell, Michael, Edison, Jason: 9798345969250: Amazon.com: Books
+#+filetags: :website:
+
+#+begin_quote
+  New 11th Edition contains many updated techniques, scripts, and tools!
+
+  It is time to look at OSINT in a different way.  For many years, and within previous editions of this book, we have relied on external resources to supply our search tools, virtual environments, and investigation techniques.  We have seen this protocol fail us when services shut down, websites disappear, and custom resources are dismantled due to outside pressures.  This book aims to correct our dilemma.  We will take control of our investigative resources and become self-reliant.  There will be no more need for online search tools; we will make and host our own locally.  We will no longer seek pre-built virtual machines; we will create and configure our own.  This book puts the power back in your hands.  The new OSINT professional must be self-sustaining and possess their own tools and resources.  You will become a more proficient subject matter expert who will be armed with the knowledge and readiness to articulate the sources of your findings.  This new 11th edition contains hundreds of pages which have been updated to keep your OSINT investigative methods fresh.  It also includes new online and offline search tools and a new Debian Linux OSINT virtual machine.  Brand-new search methods for Facebook, Instagram, TikTok, LinkedIn, YouTube, and others ensure you have the latest techniques within your online investigation arsenal.  Entire sections are devoted to Breach Data, Methodology, Workflow, Documentation, and Ethics, which provides a clear game plan for your next active investigation.  All digital files are included via download.  Today, we start over.  Digital PDF available on the IntelTechniques website.
+#+end_quote

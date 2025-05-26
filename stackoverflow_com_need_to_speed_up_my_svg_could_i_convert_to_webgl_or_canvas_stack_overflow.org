@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       42c834ba-43b1-492a-8684-9aceeb020d54
+:ROAM_REFS: https://stackoverflow.com/questions/11639211/need-to-speed-up-my-svg-could-i-convert-to-webgl-or-canvas
+:END:
+#+title: (stackoverflow.com) Need to speed up my SVG. Could I convert to WebGL or canvas? - Stack Overflow
+#+filetags: :www:forums:website:
