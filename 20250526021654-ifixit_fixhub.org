@@ -1,0 +1,56 @@
+:PROPERTIES:
+:ID:       992d34bf-696b-458f-b60e-da7b172c3ccc
+:ROAM_ALIASES: FixHub
+:END:
+#+title: iFixit FixHub
+#+filetags: :electronics:hand_tools:hardware:
+
+Portable soldering iron by iFixit.
+* (www.ifixit.com) FixHub Portable Soldering Station - iFixit       :website:
+:PROPERTIES:
+:ID:       70d993d8-67d2-4fdc-89da-42b23356f1cd
+:ROAM_REFS: https://www.ifixit.com/fixhub
+:END:
+** (www.ifixit.com) iFixit Smart Soldering Iron | 100W Fast-Heating USB-C
+:PROPERTIES:
+:ID:       110911f4-009c-4d0a-a823-29c9b467482c
+:ROAM_REFS: https://www.ifixit.com/products/fixhub-power-series-smart-soldering-iron
+:END:
+
+#+begin_quote
+  *The FixHub Smart Soldering Iron is the portable soldering solution for your precision soldering work.*
+
+  With USB-C power, this 100W iron heats up in under 5 seconds, giving you full-size soldering performance in a compact, easy-to-handle design.  It's ready when you are.
+
+  Designed with both professionals and beginners in mind, the Smart Soldering Iron includes automatic cool-down when set down and auto re-heating when picked up - so you can work efficiently and safely.  The ring light indicator clearly shows when the iron is heating, hot, or cooling.
+
+  True to iFixit's ethos, FixHub is built with repair in mind.  With a durable design meant to withstand daily use, and easy-to-replace components, this soldering iron is made to last, keeping you fixing for years to come.
+
+  *FixHub Smart Soldering Iron Features*
+
+  - 100W power
+  - Factory Preset 350°C (660°F) for optimal soldering
+  - Adjustable tip temperature between 100°C and 420°C using the FixHub Power Station, [[https://www.ifixit.com/fixhub/console][Web Interface]], or [[https://play.google.com/store/apps/details?id=com.ifixit.fixhub_app&pli=1][Android App]]
+  - Ergonomic shape
+  - USB-C power delivery for power source flexibility
+  - For optimal performance, we suggest using a USB-C Power Delivery power supply rated for at least [[https://www.ifixit.com/products/ifixit-65w-usb-c-ac-adapter][65]] to 100 watts
+  - Illuminated ring for heat indication
+  - Safety cap for safe storage and handling
+  - Safety features like fall protection and auto standby
+  - Ready to solder in under 5 seconds
+  - Interchangeable soldering tips
+  - Compact design for portability
+  - Durable and repairable
+
+  *Detailed Contents*
+
+  - [[https://www.ifixit.com/products/fixhub-soldering-iron-bevel-1-5-tip][Soldering Iron Tip (Bevel 1.5)]]
+  - Soldering Iron Handle
+  - Soldering Iron Cap
+  - USB-C Cable
+#+end_quote
+* (www.adafruit.com) iFixit FixHub - Power Series Smart Soldering Iron : ID 6045 : Adafruit Industries, Unique & fun DIY electronics and kits :website:
+:PROPERTIES:
+:ID:       5c10eedf-4477-4d56-897d-9dd71307ad5b
+:ROAM_REFS: https://www.adafruit.com/product/6045
+:END:

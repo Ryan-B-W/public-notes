@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       f0a2a19d-792f-4679-bcbb-806265bd6f98
+:ROAM_ALIASES: Pinecil
+:END:
+#+title: Pine64 Pinecil
+#+filetags: :electronics:hand_tools:hardware:
+
+Portable soldering iron by Pine64.
+* (pine64.com) PINECIL – Smart Mini Portable Soldering Iron (Version 2) - PINE STORE :website:
+:PROPERTIES:
+:ID:       3b3c5ab6-60f6-4736-aad7-a5cd9d9384bd
+:ROAM_REFS: https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/
+:END:
+
+#+begin_quote
+  ** Description
+
+  The Pinecil is a smart mini portable soldering iron with a 32-bit RISC-V SoC featuring a sleek design, auto standby and it heats up to an operating temperature in just 6 seconds!
+
+  - Dual power input design: 1) USB-C supports both PD and QC 3.0 and; 2) DC5525 barrel DC jack.
+  - Speedy Rapid Warmup: Reaches operating temperature in 6 seconds.  Support for on-demand rapid boost feature.
+  - Adjustable soldering tip temperature which can be set between 100° C and 400° C using the adjustment buttons and an easy-to-read OLED display.
+  - Portable: it features a sleek and slim design, comprised of an SAE 304 stainless steel core housed inside a polycarbonate shell.
+  - Auto standby mode engages when it is not in use ensuring the user safety.
+#+end_quote
