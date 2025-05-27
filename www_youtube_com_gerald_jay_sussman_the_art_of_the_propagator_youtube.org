@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       8e7cca8a-32e5-4349-8cea-d13ac991e9ef
+:ROAM_REFS: https://www.youtube.com/watch?v=-hQFrKspQHA
+:END:
+#+title: (www.youtube.com) Gerald Jay Sussman the Art of the Propagator - YouTube
+#+filetags: :video:website:

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       966ca5db-0e7e-43d5-b050-d832a86bec89
+:ROAM_REFS: https://dspace.mit.edu/handle/1721.1/15890 http://hdl.handle.net/1721.1/15890
+:END:
+#+title: (dspace.mit.edu) The definition and implementation of a computer programming language based on constraints
+#+filetags: :mime_type_application_pdf:website:ATTACH:
