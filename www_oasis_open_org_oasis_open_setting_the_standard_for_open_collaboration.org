@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       aa49ce27-76b9-4329-bf44-b92a5b8c0ee7
+:ROAM_REFS: https://www.oasis-open.org/
+:END:
+#+title: (www.oasis-open.org) OASIS Open | Setting The Standard For Open Collaboration
+#+filetags: :website:
+
+#+begin_quote
+  ** Setting the standard for open collaboration
+
+  OASIS Open is where individuals, organizations, and governments come together to solve some of the world's biggest technical challenges through the development of open code and open standards.
+
+  **** A community for everyone.
+
+  Fair dues and opportunities for every person and interest.
+
+  **** The home for open source and open standards.
+
+  Create either or both. We can help.
+
+  **** Support for big ideas.
+
+  Get guidance, infrastructure, and personal attention.
+
+  [[https://www.oasis-open.org/org/][Find out more about us]]
+#+end_quote

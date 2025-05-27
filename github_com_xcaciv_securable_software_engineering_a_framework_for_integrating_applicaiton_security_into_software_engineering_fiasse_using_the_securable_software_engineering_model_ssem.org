@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       dd1bdba5-2d1b-4364-b969-f45f79e4366a
+:ROAM_REFS: https://github.com/Xcaciv/securable_software_engineering
+:END:
+#+title: (github.com) Xcaciv/securable_software_engineering: A Framework for Integrating Applicaiton Security into Software Engineering (FIASSE) using the Securable Software Engineering Model (SSEM)
+#+filetags: :website:
