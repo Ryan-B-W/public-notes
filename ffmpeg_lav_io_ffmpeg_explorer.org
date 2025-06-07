@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       c3ee98a7-7b7c-4a7b-89da-dd64f5976839
+:ROAM_REFS: https://ffmpeg.lav.io/
+:END:
+#+title: (ffmpeg.lav.io) FFmpeg Explorer!
+#+filetags: :website:
+
+#+begin_quote
+  * FFmpeg Explorer
+
+  A tool to help you explore [[https://www.ffmpeg.org/][FFmpeg]] filters.  To use:
+
+  1. Add filters from the list on the left.
+  2. Click on filters in the node editor to modify options.
+  3. Hit "render" to preview the output in browser.
+  4. To edit the graph, disable "lock layout."
+
+  Note: work in progress, many things may be broken!  Refresh if it hangs or crashes.  May not work on mobile.  Post issues/feedback to [[https://github.com/antiboredom/ffmpeg-explorer/][GitHub]].  By [[https://lav.io/][Sam Lavigne]].
+#+end_quote

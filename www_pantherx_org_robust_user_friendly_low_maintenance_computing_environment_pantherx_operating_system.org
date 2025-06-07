@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       410bedc2-ca14-4230-91c3-4733dc7cfaa1
+:ROAM_REFS: https://www.pantherx.org/
+:END:
+#+title: (www.pantherx.org) Robust, user-friendly, low-maintenance computing environment | PantherX Operating System
+#+filetags: :website:
+
+#+begin_quote
+  * PantherX Operating System
+
+  * Configure once, copy wherever, run forever
+
+  A detailed installation guide is available on our wiki: [[https://wiki.pantherx.org/][download and install PantherX]].
+
+  PantherX OS is a modern operating system based on GNU Guix and non-free software enabled out of the box.  PantherX is designed to enable everyone without a PHD in computer science to enjoy a fast, flexible and private work & entertainment platform that runs for years, with little intervention.
+
+  It's kind of like docker-compose, but for your whole system.
+
+  - No download or usage tracking
+  - Always up to date, with rolling updates
+  - No system breakage after major updates (1)
+  - Easy replication of your whole system, or individual user profiles
+  - No more random config files,
+  - Developer's dream, with virtual environments and 1st class docker support
+  - Optional enterprise support
+
+  (1) Never say always; If things go wrong, you can roll-back instantly to any previous system state.
+#+end_quote
