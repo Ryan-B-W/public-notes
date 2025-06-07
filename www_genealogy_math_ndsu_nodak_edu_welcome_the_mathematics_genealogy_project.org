@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       da24745e-140f-4256-8523-2c418058518d
+:ROAM_REFS: https://www.genealogy.math.ndsu.nodak.edu/index.php
+:END:
+#+title: (www.genealogy.math.ndsu.nodak.edu) Welcome! - The Mathematics Genealogy Project
+#+filetags: :website:

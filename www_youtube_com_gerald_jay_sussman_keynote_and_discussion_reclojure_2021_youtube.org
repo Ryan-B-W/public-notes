@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       d2172fc6-19e4-4664-8666-dbfc7346fded
+:ROAM_REFS: https://www.youtube.com/watch?v=EbzQg7R2pYU
+:END:
+#+title: (www.youtube.com) Gerald Jay Sussman Keynote and Discussion - reClojure 2021 - YouTube
+#+filetags: :video:website:
+
+#+begin_quote
+  Keynote by Gerald Jay Sussman with follow-on discussion, for the reClojure 2021 community conference.
+#+end_quote

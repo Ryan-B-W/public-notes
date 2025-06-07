@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       582f1c7a-b7ec-40cb-95f9-55c3353bf07e
+:ROAM_REFS: https://en.wikipedia.org/wiki/Dining_philosophers_problem
+:END:
+#+title: (en.wikipedia.org) Dining philosophers problem - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Computer_science][computer science]], the *dining philosophers problem* is an example problem often used in [[https://en.wikipedia.org/wiki/Concurrency_(computer_science)][concurrent]] algorithm design to illustrate [[https://en.wikipedia.org/wiki/Synchronization_(computer_science)][synchronization]] issues and techniques for resolving them.
+
+  It was originally formulated in 1965 by [[https://en.wikipedia.org/wiki/Edsger_W._Dijkstra][Edsger Dijkstra]] as a student exam exercise, presented in terms of computers [[https://en.wikipedia.org/wiki/Resource_contention][competing for access]] to [[https://en.wikipedia.org/wiki/Tape_drive][tape drive]] peripherals.  Soon after, [[https://en.wikipedia.org/wiki/Tony_Hoare][Tony Hoare]] gave the problem its present form.
+#+end_quote

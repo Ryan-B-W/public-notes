@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       8b90a782-27c6-4427-9b87-59dd44ca7c98
+:ROAM_REFS: https://lamport.azurewebsites.net/pubs/dijkstra.pdf
+:END:
+#+title: (lamport.azurewebsites.net) dijkstra.pdf
+#+filetags: :website:
+
+#+begin_quote
+  Dijkstra Book: Chapter on Concurrent Algorithms
+
+  Leslie Lamport
+
+  18 December 2021
+#+end_quote
