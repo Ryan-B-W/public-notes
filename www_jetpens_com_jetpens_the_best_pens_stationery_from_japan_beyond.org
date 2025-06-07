@@ -3,4 +3,4 @@
 :ROAM_REFS: https://www.jetpens.com/
 :END:
 #+title: (www.jetpens.com) JetPens - The Best Pens & Stationery From Japan & Beyond
-#+filetags: :stationary:store:website:
+#+filetags: :stationery:store:website:

@@ -3,7 +3,7 @@
 :ROAM_REFS: https://www.gouletpens.com/
 :END:
 #+title: (www.gouletpens.com) The Goulet Pen Company
-#+filetags: :stationary:store:website:
+#+filetags: :stationery:store:website:
 
 #+begin_quote
   *** About Us
