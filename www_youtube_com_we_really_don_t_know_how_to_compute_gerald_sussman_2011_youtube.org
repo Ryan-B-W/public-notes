@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       73a2d347-ed0b-415f-b14c-2cb0ce678a6a
+:ROAM_REFS: https://www.youtube.com/watch?v=HB5TrK7A4pI
+:END:
+#+title: (www.youtube.com) "We Really Don't Know How to Compute!" - Gerald Sussman (2011) - YouTube
+#+filetags: :video:website:
+
+#+begin_quote
+  Though we have been building and programming computing machines for about 60 years and have learned a great deal about composition and abstraction, we have just begun to scratch the surface.
+
+  A mammalian neuron takes about ten milliseconds to respond to a stimulus.  A driver can respond to a visual stimulus in a few hundred milliseconds, and decide an action, such as making a turn.  So the computational depth of this behavior is only a few tens of steps.  We don't know how to make such a machine, and we wouldn't know how to program it.
+
+  The human genome -- the information required to build a human from a single, undifferentiated eukariotic cell -- is about 1GB.  The instructions to build a mammal are written in very dense code, and the program is extremely flexible.  Only small patches to the human genome are required to build a cow or a dog rather than a human.  Bigger patches result in a frog or a snake.  We don't have any idea how to make a description of such a complex machine that is both dense and flexible.
+
+  New design principles and new linguistic support are needed.  I will address this issue and show some ideas that can perhaps get us to the next phase of engineering design.
+
+  Gerald Sussman\\
+  Massachusetts Institute of Technology
+
+  Gerald Jay Sussman is the Panasonic Professor of Electrical Engineering at the Massachusetts Institute of Technology.  He received the S.B. and the Ph.D. degrees in mathematics from MIT in 1968 and 1973, respectively.  Sussman is a coauthor (with Hal Abelson and Julie Sussman) of the MIT computer science textbook "Structure and Interpretation of Computer Programs".  Sussman's contributions to Artificial Intelligence include problem solving by debugging almost-right plans, propagation of constraints applied to electrical circuit analysis and synthesis, dependency-based explanation and dependency-based backtracking, and various language structures for expressing problem-solving strategies.  Sussman and his former student, Guy L. Steele Jr., invented the Scheme programming language in 1975.
+#+end_quote

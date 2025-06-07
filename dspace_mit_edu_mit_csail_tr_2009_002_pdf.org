@@ -4,3 +4,14 @@
 :END:
 #+title: (dspace.mit.edu) Computer Science and Artificial Intelligence Laboratory - Technical Report: The Art of the Propagator by Alexey Radul and Gerald Jay Sussman (MIT-CSAIL-TR-2009-002.pdf)
 #+filetags: :computer_science:mime_type_application_pdf:website:ATTACH:
+
+#+begin_quote
+  Computer Science and Artificial Intelligence Laboratory\\
+  Technical Report
+
+  MIT-CSAIL-TR-2009-002 January 26, 2009
+
+  The Art of the Propagator
+
+  Alexey Radul and Gerald Jay Sussman
+#+end_quote

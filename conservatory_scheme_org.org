@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       f4346f29-bfa9-40dd-ac24-46595b4912e5
+:ROAM_REFS: https://conservatory.scheme.org/schemers/Documents/Standards/R5RS/HTML/
+:END:
+#+title: (conservatory.scheme.org) R5RS: Revised⁵ Report on the Algorithmic Language Scheme
+#+filetags: :website:

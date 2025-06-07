@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       0629d06f-fcf8-4951-9708-4b7464ea48d4
+:ROAM_REFS: https://store.steampowered.com/app/1885690/Virtual_Circuit_Board/
+:END:
+#+title: (store.steampowered.com) Virtual Circuit Board on Steam
+#+filetags: :games:website:
+
+#+begin_quote
+  Virtual Circuit Board is the sandbox drawing-based logic simulator where you can build, program, decorate, and simulate anything from simple monochrome circuits to complex and colorful computers.  Play with digital logic in this sandbox-only experience.
+#+end_quote

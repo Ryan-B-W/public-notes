@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       675b9bb2-e444-4cfa-8150-0467c52d88b4
+:ROAM_REFS: https://www.amazon.com/dp/B00IZUEG1G
+:END:
+#+title: (www.amazon.com) Amazon.com: Common LISP: A Gentle Introduction to Symbolic Computation (Dover Books on Engineering) eBook : Touretzky, David S.: Kindle Store
+#+filetags: :website:
+
+#+begin_quote
+  This highly accessible introduction to Lisp is suitable both for novices approaching their first programming language and experienced programmers interested in exploring a key tool for artificial intelligence research.  The text offers clear, reader-friendly explanations of such essential concepts as cons cell structures, evaluation rules, programs as data, and recursive and applicative programming styles.
+
+  The treatment incorporates several innovative instructional devices, such as the use of function boxes in the first two chapters to visually distinguish functions from data, use of evaltrace notation in later chapters to illustrate the operation of evaluation rules, and "Dragon stories" to explain recursion.  The book contains nearly 400 diagrams and illustrations, and 77 pages of answers to exercises.  Advanced topics and "toolkit" sections, and a variety of complete programs, extend readers' programming power.
+#+end_quote

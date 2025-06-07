@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       42200d58-35d3-43c2-b0fe-b2f4ddc0e14f
+:ROAM_REFS: https://en.wikipedia.org/wiki/Byzantine_fault
+:END:
+#+title: (en.wikipedia.org) Byzantine fault - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  A *Byzantine fault* is a condition of a system, particularly a [[https://en.wikipedia.org/wiki/Distributed_computing][distributed computing]] system, where a fault occurs such that different symptoms are presented to different observers, including imperfect information on whether a system component has failed.  The term takes its name from an [[https://en.wikipedia.org/wiki/Allegory][allegory]], the "Byzantine generals problem", developed to describe a situation in which, to avoid catastrophic failure of a system, the system's actors must agree on a strategy, but some of these actors are unreliable in such a way as to cause other (good) actors to disagree on the strategy and they may be unaware of the disagreement.
+
+  A Byzantine fault is also known as a *Byzantine generals problem*, a *Byzantine agreement problem*, or a *Byzantine failure*.
+
+  *Byzantine fault tolerance* (*BFT*) is the resilience of a [[https://en.wikipedia.org/wiki/Fault-tolerant_computer_system][fault-tolerant computer system]] or similar system to such conditions.
+#+end_quote

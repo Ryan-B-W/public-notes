@@ -1,0 +1,204 @@
+:PROPERTIES:
+:ID:       5a1cdef4-a806-4f59-913e-7006db4e553d
+:ROAM_REFS: https://lfe.io/
+:END:
+#+title: (lfe.io) (LFE:Lisp Flavoured Erlang)
+#+filetags: :website:
+
+#+begin_quote
+  /"Fifty shades of distributed, syntax-free message-passing."/
+
+  LFE comes with a powerful REPL, supporting interactive development (including writing macros!) as well as running scripts or even evaluating arbitrary LFE code via the command line.
+
+  #+begin_src lisp
+    lfe> (== 42 #b101010)
+    true
+
+    lfe> (integer_to_list 42 2)
+    "101010"
+
+    lfe> #\a
+    97
+
+    lfe> "regular string"
+    "regular string"
+
+    lfe> #"binary string"
+    #"binary string"
+  #+end_src
+
+  Note that in LFE and Erlang a string is really just a list of integers; there is no "string" type.  There is, however, an "atom" type in LFE; this would be analogous to the Lisp symbol.  For example, ='my-atom=, or if the atom has spaces in it, ='|my atom|=.
+
+  #+begin_src lisp
+    ;; Lists
+    lfe> '(a b c 1 2 5)
+    (a b c 1 2 5)
+
+    ;; Tuples
+    lfe> #("element 1" 2 elem-3)
+    #("element 1" 2 elem-3)
+
+    ;; Maps
+    lfe> #m(key1 "value 1"
+            "key 2" value-2)
+    #M("key 2" value-2 key1 "value 1")
+  #+end_src
+
+  In LFE lists are like they are in a Lisp (except they also include strings).  Additionally, LFE has tuples (Lisp vectors) and maps (Lisp has tables).  LFE has property lists, dicts, and ordered dicts from Erlang, supported via additional libraries.
+
+  #+begin_src lisp
+    ;; Defining a record automatically generates a set of
+    ;; useful functions for that particular record.
+    lfe> (defrecord person
+           name
+           address
+           age)
+    set-person-age
+
+    ;; Use the generated record constructor:
+    lfe> (make-person name "Ford Prefect"
+                           address "Betelgeuse Seven"
+                           age 234)
+    #(person "Ford Prefect" "Betelgeuse Seven" 234)
+  #+end_src
+
+  Like all data in LFE, records can be pattern-matched.  Pattern matching on record field names and data in function arguments is an extremely powerful capability provided to developers.
+
+  #+begin_src lisp
+    ;; A recursive function with pattern matching:
+    lfe> (defun ackermann
+           ((0 n) (+ n 1))
+           ((m 0) (ackermann (- m 1) 1))
+           ((m n) (ackermann (- m 1)
+                             (ackermann m (- n 1)))))
+
+    ;; Call the function
+    lfe> (ackermann 3 4)
+    125
+
+    ;; Apply the function
+    lfe> (funcall #'ackermann/2 3 4)
+    125
+  #+end_src
+
+  As well as supporting the standard Lisp syntax for =defun=, LFE functions support pattern matching in arguments, allowing you to create concise, expressive, and elegant code.
+
+  #+begin_src lisp
+    ;; LFE and Erlang do not support n-arity functions, but
+    ;; you can write a Lisp macro to get around that :-)
+    lfe> (defmacro mean args
+           `(/ (lists:sum ,args)
+               ,(length args)))
+
+    ;; Use the macro with different numbers of arguments:
+    lfe> (mean 1)
+    1.0
+    lfe> (mean 1 2)
+    1.5
+    lfe> (mean 1 2 3 4 5 6 42 108)
+    21.375
+  #+end_src
+
+  LFE macros are unhygenic, but with scoped variables.  There is no =gensym= in LFE due to this being unsafe in long-lived, distributed code (LFE supports sharing code with remote nodes).  With the exception of running in the REPL, macros are only compile-time.
+
+  #+begin_src lisp
+    lfe> (lists:reverse
+           (erlang:integer_to_list
+             (lists:foldl #'*/2 1 '(1 2 3 4))))
+    "42"
+
+    lfe> (supervisor:which_children 'kernel_sup)
+    (#(logger_sup #Pid<0.70.0> supervisor (logger_sup))
+     #(kernel_safe_sup #Pid<0.69.0> supervisor (kernel))
+     #(kernel_refc #Pid<0.68.0> worker (kernel_refc))
+     #(kernel_config #Pid<0.67.0> worker (kernel_config))
+     #(user #Pid<0.63.0> supervisor (user_sup))
+     #(standard_error #Pid<0.61.0> supervisor (standard_error))
+     #(erl_signal_server #Pid<0.60.0> worker dynamic)
+     ...)
+  #+end_src
+
+  Here we have two examples of directly calling Erlang functions from LFE.  First, we're "folding" (a.k.a "reducing") over a list of items, multiplying them by the accumulated value, and then further transforming using other Erlang functions.  Then we are calling an Erlang function to get information about a particular supervision tree.
+
+  #+begin_src lisp
+    (defmodule server
+      (behaviour gen_server)
+      (export
+       (start_link 0)
+       (stop 0)
+       ...))
+
+    (defun handle_call
+      (('amount _caller state-data)
+       `#(reply ,state-data ,state-data))
+      (('stop _caller state-data)
+       `#(stop shutdown ok state-data))
+      ((message _caller state-data)
+       `#(reply ,(unknown-command) ,state-data)))
+  #+end_src
+
+  OTP is what you use when you need to create industrial grade applications and services; there's nothing quite like it in the programming world.  As such, it has inspired countless imitations in a great many other programming languages.  In LFE, you get to use the real deal.
+
+  ** LFE is not a casual Lisp.  It's a Lisp for those who want to build distributed applications -- like the Erlang software that powers 40% of the world's telecommunications.
+
+  ** [[https://lfe.io/learn]]
+
+  * LFE Features
+
+  *** Alien Technology
+
+  It is an established fact that John McCarthy shared alien tech with the world in 1958 when he introduced us to Lisp.  We continue that great tradition.
+
+  - Functions and variables with separate namespaces (LFE is a Lisp-2)
+  - Low-hygiene Macros
+  - Homoiconicity
+  - In-REPL Function and macro definitions
+
+  *** Core Erlang Foundation
+
+  All the benefits of Erlang with none of the Prolog.
+
+  - No global data
+  - No mutable data
+  - Pattern matching and guards
+  - Compiler and interpreter
+  - Hot upgrading of deployed code
+  - The [[https://www.youtube.com/watch?v=rRbY3TMUcgQ][Banarama of languages]]
+
+  *** [[https://www.youtube.com/watch?v=rRbY3TMUcgQ][Utterly Terrifying]]
+
+  The ability to generate distributed applications and full releases in mere minutes.
+
+  - Fault-tolerant
+  - Massively scalable
+  - Extreme Concurrency
+  - Soft real-time
+  - Open. Telecom. Platform.
+
+  *** Language Lab
+
+  The mad-scientist powers of a Lisp combined with the efficiency of the Actor Model and Erlang's light-weight processes.
+
+  - Experiment with creating distributed systems in new ways.
+  - Create DSLs on-demand.
+  - Take advantage of 1000s of cores without having to change your code.
+  - Easily write your own compilers.
+
+  ** Build It with LFE
+
+  *** Scripts
+
+  In addition to all the heavy-duty power that LFE gets for free, by virtue of the Erlang VM, you can also create small, easy-to-write one-off =main= scripts, =lfescript=s, and even escripts -- either as a single file or with additional modules to help organise those larger scripts.  [[https://lfe.io/reference/lfe-rebar3/current/command-ref/projects/main.html]]
+
+  *** Stand-alone Libraries
+
+  Building libraries for use by LFE applications (and even Erlang or other BEAM language applications!) is the [[https://github.com/lfex][bread and butter]] of LFE hackers.  The Erlang/BEAM ecosystem is fully accessible to LFE applications, but you also have the freedom to do more in LFE.  [[https://lfe.io/reference/lfe-rebar3/current/command-ref/projects/lib.html]]
+
+  *** OTP Applications
+
+  You can take advantage of OTP with LFE in mere seconds, creating fault-tolerant applications with built-in process monitoring and supervision trees, so you =gen_server=s (and all the other =behaviour=s, too) never go down.  [[https://lfe.io/reference/lfe-rebar3/current/command-ref/projects/app.html]]
+
+  *** OTP Releases
+
+  When your LFE prototype is ready for the big-time, you can run it with all the [[https://adoptingerlang.org/docs/production/releases/][sophisticated machinery]] of an OTP release.  In fact, you don't have to wait: start your prototype as a release, with zero pain and all of the benefit.  [[https://lfe.io/reference/lfe-rebar3/current/command-ref/projects/release.html]]
+#+end_quote

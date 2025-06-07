@@ -293,3 +293,80 @@ Was attempting to draw a diagram of parallel vs. series frames when defining nes
 ***** [[id:0bb30c6d-d5f2-45a8-8e23-17f3c9afec57][(con.racket-lang.org) RacketCon]]
 ***** [[id:bc09874a-eb5d-4791-83b9-a87ca32f5371][(www.youtube.com) From Here to Lambda and Back Again - Douglas Crockford - RacketCon 2023 - YouTube]] at 8 minutes was shared by Grant
 ***** Next time, still covering [[id:29b23078-07a0-470c-a8f9-ba522c99f0ff][(sarabander.github.io) SICP, 2e: 3.3 Modeling with Mutable Data]]
+**** Session Twelve, [2025-06-01 Sun 15:00-16:00]
+***** Current section [[id:29b23078-07a0-470c-a8f9-ba522c99f0ff][(sarabander.github.io) SICP, 2e: 3.3 Modeling with Mutable Data]]
+***** Grant's example of =add-to-agenda!=
+#+begin_src scheme
+  (define (add-to-agenda! time action agenda)
+    (define (belongs-before? segments)
+      (or (null? segments)
+          (< time
+             (segment-time (car segments)))))
+    (define (make-new-time-segment time action)
+      (let ((q (make-queue)))
+        (insert-queue! q action)
+        (make-time-segment time q)))
+    (define (add-to-segments! segments)
+      (if (= (segment-time (car segments)) time)
+          (insert-queue!
+           (segment-queue (car segments))
+           action)
+          (let ((rest (cdr segments)))
+            (if (belongs-before? rest)
+                (set-cdr!
+                 segments
+                 (cons (make-new-time-segment
+                        time
+                        action)
+                       (cdr segments)))
+                (add-to-segments! rest)))))
+    (let ((segments (segments agenda)))
+      (if (belongs-before? segments)
+          (set-segments!
+           agenda
+           (cons (make-new-time-segment
+                  time
+                  action)
+                 segments))
+          (add-to-segments! segments))))
+#+end_src
+***** Special forms vs. Function
+#+begin_src scheme
+  ;; =let= is a special form.  =(x 2)= isn't evaluated as a normal expression, rather is understood by the code of =let= to define a local binding.
+  (let ((x 2))
+    (display x))
+  ;; =define= is also a special form.  Here, =(square x)= and =(* x x)= aren't evaluated; rather, they are taken, as-is, as input to =define= and mean "bind a lambda that takes a single argument to square" and "let the body of the lambda be (* x x)", respectively.
+  (define (square x)
+    (* x x))
+  ;; Here, calling =square= is just calling a normal function.  Everything is evaluated as normal.  No special forms.
+  (square 2)
+#+end_src
+***** [[id:f4346f29-bfa9-40dd-ac24-46595b4912e5][(conservatory.scheme.org) R5RS: Revised⁵ Report on the Algorithmic Language Scheme]]
+***** [[id:ec476b78-d994-4475-85d2-ace10ac93e1c][(github.com) racket/racket: The Racket repository]]
+Looking for the implementation of =assoc= in [[id:2ce20b11-e9e9-48b0-ab32-de7f4158ea33][Racket]]:
+****** [[https://github.com/racket/racket/blob/06f13d69a245ae63927a2cb828d5097f668549e3/racket/collects/racket/private/list.rkt#L157][racket/racket/collects/racket/private/list.rkt line 157 at 06f13d69a245ae63927a2cb828d5097f668549e3 · racket/racket]]
+****** [[https://github.com/racket/racket/blob/06f13d69a245ae63927a2cb828d5097f668549e3/racket/collects/racket/private/list.rkt#L195][racket/racket/collects/racket/private/list.rkt line 195 at 06f13d69a245ae63927a2cb828d5097f668549e3 · racket/racket]]
+***** [[id:df62a9d5-c953-47d6-b676-7a76c03daf4d][(dspace.mit.edu) Computer Science and Artificial Intelligence Laboratory - Technical Report: The Art of the Propagator by Alexey Radul and Gerald Jay Sussman (MIT-CSAIL-TR-2009-002.pdf)]]
+***** [[id:19cf3963-8ae4-41c3-89fc-f4ca92d0e809][(lobste.rs) Art of the Propagator (2008) | Lobsters]]
+****** [[id:966ca5db-0e7e-43d5-b050-d832a86bec89][(dspace.mit.edu) The definition and implementation of a computer programming language based on constraints]]
+***** [[id:73a2d347-ed0b-415f-b14c-2cb0ce678a6a][(www.youtube.com) "We Really Don't Know How to Compute!" - Gerald Sussman (2011) - YouTube]]
+***** [[id:50de8c44-1d1d-4373-872e-e0ebc52bdf6d][(www.youtube.com) "Propositions as Types" by Philip Wadler - YouTube]]
+***** [[id:0629d06f-fcf8-4951-9708-4b7464ea48d4][(store.steampowered.com) Virtual Circuit Board on Steam]]
+***** [[id:5b5f6c48-20bc-42b7-b385-78329906de73][(www.nand2tetris.org) Home | nand2tetris]]
+***** [[id:21331353-232a-4e8d-bb67-fc181de38e77][(en.wikipedia.org) Memoization - Wikipedia]]
+***** [[id:5a1cdef4-a806-4f59-913e-7006db4e553d][(lfe.io) (LFE:Lisp Flavoured Erlang)]]
+***** [[id:b56af9ad-1581-4bf7-9acd-d68e96f1b8f4][(en.wikipedia.org) LFE (programming language) - Wikipedia]]
+***** [[https://physbuzz.github.io/sicp/ch3/notes-ch3-3.html#exercise-332][notes-ch3-3.md exercise 3.32]] from [[id:c3a40f0d-3819-4dd4-85fd-64f0411861fb][(physbuzz.github.io) notes-ch3-3.md]]
+***** [[id:964680a7-8fa0-43cb-be98-7ed3bcbaffab][(www.amazon.com) Building Problem Solvers (Artificial Intelligence): Forbus, Kenneth D., De Kleer, Johan: 9780262061575: Amazon.com: Books]]
+***** [[id:6e4aafba-d8b5-47f4-8e59-ba4b69525463][(mitpress.mit.edu) Software Design for Flexibility]]
+****** [[id:166f6226-5f73-48bf-b2f0-1baa9149e18a][(mitpress.ublish.com) Software Design for Flexibility]]
+***** [[id:2b8e0e27-5754-468b-8ce4-f46a7805f80f][(groups.csail.mit.edu) Revised Report on the Propagator Model]]
+***** [[id:9c213abc-134f-4060-9a95-7774f21b1a9b][(en.wikipedia.org) Linguistic relativity - Wikipedia]]
+***** [[id:675b9bb2-e444-4cfa-8150-0467c52d88b4][(www.amazon.com) Amazon.com: Common LISP: A Gentle Introduction to Symbolic Computation (Dover Books on Engineering) eBook : Touretzky, David S.: Kindle Store]]
+***** [[id:fe9ec98a-8317-45ef-b8b7-77041b6857c3][(en.wikipedia.org) Leslie Lamport - Wikipedia]]
+***** [[id:42200d58-35d3-43c2-b0fe-b2f4ddc0e14f][(en.wikipedia.org) Byzantine fault - Wikipedia]]
+***** [[id:7d3e59a4-d586-471f-8c32-f6f267d0f068][(en.wikipedia.org) Lock (computer science) - Wikipedia]]
+***** [[id:e4878ba3-1eac-48ff-bb56-ba65de3e40d2][(en.wikipedia.org) Semaphore - Wikipedia]]
+***** [[id:8858e904-2bb2-402f-aca1-ad2d254806f2][(en.wikipedia.org) Semaphore (programming) - Wikipedia]]
+***** Favorite footnote: [[id:a28f0383-3559-47db-8823-b329b017c2f0][(sarabander.github.io) SICP, 2e: 3.3, Footnote 148]]
+***** Next time [[id:3d0e4610-7589-43ae-9c35-ecac837c09fb][(sarabander.github.io) SICP, 2e: 3.4 Concurrency: Time Is of the Essence]]

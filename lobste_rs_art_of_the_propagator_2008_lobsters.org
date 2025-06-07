@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       19cf3963-8ae4-41c3-89fc-f4ca92d0e809
+:ROAM_REFS: https://lobste.rs/s/v2dhjn/art_propagator_2008
+:END:
+#+title: (lobste.rs) Art of the Propagator (2008) | Lobsters
+#+filetags: :forums:website:
+
+Discussion of [[id:df62a9d5-c953-47d6-b676-7a76c03daf4d][(dspace.mit.edu) CSAIL Technical Report: The Art of the Propagator by Alexey Radul and Gerald Jay Sussman (MIT-CSAIL-TR-2009-002.pdf)]] on [[id:ec15ec3d-6200-40a6-94cd-7ca36bf76709][lobste.rs]].

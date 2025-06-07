@@ -202,3 +202,30 @@ A relatively popular [[id:6246f8d4-6cd4-489d-b19f-9c1142b51b60][Scheme]] impleme
 
   Peter Henderson has written an updated version of [[http://eprints.ecs.soton.ac.uk/7577/01/funcgeo2.pdf][Functional Geometry]], which explains how to construct the Escher fish image.
 #+end_quote
+* (github.com) Racket                                               :website:
+:PROPERTIES:
+:ID:       84ff8493-203f-4120-a6b6-4b92ce184786
+:ROAM_REFS: https://github.com/racket
+:END:
+** (github.com) racket/racket: The Racket repository
+:PROPERTIES:
+:ID:       ec476b78-d994-4475-85d2-ace10ac93e1c
+:ROAM_REFS: https://github.com/racket/racket
+:END:
+
+#+begin_quote
+  [[https://racket-lang.org/][Racket]] is a general-purpose programming language and an ecosystem for language-oriented programming.
+
+  This repository holds the source code for the core of Racket plus some related packages.  The rest of the Racket distribution source code is in other repositories, mostly under [[https://github.com/racket][the Racket GitHub organization]].
+#+end_quote
+** (github.com) racket/drracket: DrRacket, IDE for Racket
+:PROPERTIES:
+:ID:       e59a8f9c-2082-4a00-b26f-16130f861970
+:ROAM_REFS: https://github.com/racket/drracket
+:END:
+
+#+begin_quote
+  * drracket
+
+  This is the source for the Racket packages: "drracket", "drracket-plugin-lib", "drracket-test", "drracket-tool", "drracket-tool-doc", "drracket-tool-lib", "drracket-tool-test".
+#+end_quote

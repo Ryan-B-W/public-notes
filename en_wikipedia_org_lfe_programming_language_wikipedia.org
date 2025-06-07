@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       b56af9ad-1581-4bf7-9acd-d68e96f1b8f4
+:ROAM_REFS: https://en.wikipedia.org/wiki/LFE_(programming_language)
+:END:
+#+title: (en.wikipedia.org) LFE (programming language) - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  *Lisp Flavored Erlang* (*LFE*) is a [[https://en.wikipedia.org/wiki/Functional_language][functional]], [[https://en.wikipedia.org/wiki/Concurrent_computing][concurrent]], [[https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)][garbage collected]], general-purpose [[https://en.wikipedia.org/wiki/Programming_language][programming language]] and [[https://en.wikipedia.org/wiki/Lisp_(programming_language)][Lisp]] [[https://en.wikipedia.org/wiki/Dialect_(computing)][dialect]] built on Core [[https://en.wikipedia.org/wiki/Erlang_(programming_language)][Erlang]] and the Erlang virtual machine ([[https://en.wikipedia.org/wiki/BEAM_(Erlang_virtual_machine)][BEAM]]).  LFE builds on Erlang to provide a Lisp syntax for writing distributed, [[https://en.wikipedia.org/wiki/Fault_tolerance][fault-tolerant]], soft [[https://en.wikipedia.org/wiki/Real-time_computing][real-time]], non-stop applications.  LFE also extends Erlang to support [[https://en.wikipedia.org/wiki/Metaprogramming][metaprogramming]] with Lisp macros and an improved developer experience with a feature-rich [[https://en.wikipedia.org/wiki/Read–eval–print_loop][read--eval--print loop]] (REPL).  LFE is actively supported on all recent releases of Erlang; the oldest version of Erlang supported is R14.
+#+end_quote

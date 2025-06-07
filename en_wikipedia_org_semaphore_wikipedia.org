@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       e4878ba3-1eac-48ff-bb56-ba65de3e40d2
+:ROAM_REFS: https://en.wikipedia.org/wiki/Semaphore
+:END:
+#+title: (en.wikipedia.org) Semaphore - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  *Semaphore* (lit. 'apparatus for signalling'; from [[https://en.wikipedia.org/wiki/Ancient_Greek_language][Ancient Greek]] // [[https://en.wiktionary.org/wiki/σῆμα#Ancient_Greek][σῆμα]] /(/sêma/)/ 'mark, sign, token' and [[https://en.wikipedia.org/wiki/Greek_language][Greek]] // [[https://en.wiktionary.org/wiki/-φόρος#Greek][-φόρος]] /(/-phóros/)/ 'bearer, carrier') is the use of an apparatus to create a visual [[https://en.wikipedia.org/wiki/Signal][signal]] transmitted over distance.  A semaphore can be performed with devices including: fire, lights, [[https://en.wikipedia.org/wiki/Flag][flags]], [[https://en.wikipedia.org/wiki/Sunlight][sunlight]], and moving arms.  Semaphores can be used for [[https://en.wikipedia.org/wiki/Telegraphy][telegraphy]] when arranged in [[https://en.wikipedia.org/wiki/Optical_telegraph][visually connected networks]], or for traffic signalling such as in [[https://en.wikipedia.org/wiki/Railway_semaphore_signal][railway systems]], or [[https://en.wikipedia.org/wiki/Traffic_light][traffic lights]] in cities.
+#+end_quote

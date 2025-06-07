@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       9c213abc-134f-4060-9a95-7774f21b1a9b
+:ROAM_REFS: https://en.wikipedia.org/wiki/Linguistic_relativity
+:END:
+#+title: (en.wikipedia.org) Linguistic relativity - Wikipedia
+#+filetags: :linguistics:website:
+
+#+begin_quote
+  *Linguistic relativity* asserts that [[https://en.wikipedia.org/wiki/Language][language]] influences [[https://en.wikipedia.org/wiki/Worldview][worldview]] or [[https://en.wikipedia.org/wiki/Cognition][cognition]].  One form of linguistic relativity, [[https://en.wikipedia.org/wiki/Linguistic_determinism][linguistic determinism]], regards peoples' languages as determining and influencing the scope of cultural [[https://en.wikipedia.org/wiki/Perception][perceptions]] of their surrounding world.
+
+  Various colloquialisms refer to linguistic relativism: the *Whorf hypothesis*; the *Sapir--Whorf hypothesis* ([[https://en.wikipedia.org/wiki/Help:IPA/English][/səˌpɪər ˈhwɔːrf/]] [[https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key][/sə-PEER WHORF/]]); the *Whorf-Sapir hypothesis*; and *Whorfianism*.
+
+  The hypothesis is in dispute, with many different variations throughout its history.  The /strong hypothesis/ of linguistic relativity, now referred to as linguistic determinism, is that language /determines/ thought and that linguistic categories limit and restrict cognitive categories.  This was a claim by some earlier linguists pre-World War II; since then it has fallen out of acceptance by contemporary linguists.  Nevertheless, research has produced positive [[https://en.wikipedia.org/wiki/Empirical_evidence][empirical evidence]] supporting a /weaker/ version of linguistic relativity: that a language's structures influence a speaker's perceptions, without strictly limiting or obstructing them.
+
+  Although common, the term /Sapir--Whorf hypothesis/ is sometimes considered a [[https://en.wikipedia.org/wiki/Misnomer][misnomer]] for several reasons.  [[https://en.wikipedia.org/wiki/Edward_Sapir][Edward Sapir]] (1884--1939) and [[https://en.wikipedia.org/wiki/Benjamin_Lee_Whorf][Benjamin Lee Whorf]] (1897--1941) never co-authored any works and never stated their ideas in terms of a hypothesis.  The distinction between a weak and a strong version of this hypothesis is also a later development; Sapir and Whorf never used such a dichotomy, although often their writings and their opinions of this relativity principle expressed it in stronger or weaker terms.
+
+  The principle of linguistic relativity and the relationship between language and thought has also received attention in varying academic fields, including [[https://en.wikipedia.org/wiki/Philosophy][philosophy]], [[https://en.wikipedia.org/wiki/Psychology][psychology]] and [[https://en.wikipedia.org/wiki/Anthropology][anthropology]].  It has also influenced works of fiction and the invention of [[https://en.wikipedia.org/wiki/Constructed_language][constructed languages]].
+#+end_quote

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       964680a7-8fa0-43cb-be98-7ed3bcbaffab
+:ROAM_REFS: https://www.amazon.com/dp/0262061570
+:END:
+#+title: (www.amazon.com) Building Problem Solvers (Artificial Intelligence): Forbus, Kenneth D., De Kleer, Johan: 9780262061575: Amazon.com: Books
+#+filetags: :website:
+
+#+begin_quote
+  For nearly two decades, Kenneth Forbus and Johan de Kleer have accumulated a substantial body of knowledge about the principles and practice of creating problem solvers.  In some cases they are the inventors of the ideas or techniques described, and in others, participants in their development.  Building Problem Solvers communicates this knowledge in a focused, cohesive manner.  It is unique among standard artificial intelligence texts in combining science and engineering, theory and craft to describe the construction of AI reasoning systems, and it includes code illustrating the ideas.  After working through Building Problem Solvers, readers should have a deep understanding of pattern directed inference systems, constraint languages, and truth maintenance systems.  The diligent reader will have worked through several substantial examples, including systems that perform symbolic algebra, natural deduction, resolution, qualitative reasoning, planning, diagnosis, scene analysis, and temporal reasoning.  Kenneth D. Forbus is Professor of Computer Science and Education at the Institute for Learning Sciences, Northwestern University.  Johan de Kleer directs the Systems and Practices Laboratory at the Xerox Palo Alto Research Center.
+#+end_quote

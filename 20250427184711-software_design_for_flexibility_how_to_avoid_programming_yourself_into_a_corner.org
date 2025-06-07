@@ -5,6 +5,31 @@
 #+filetags: :software_development:programming:books:
 
 Book by Gerald Jay Sussman and Chris Hanson on designing modular, maintainable software.
+* (mitpress.mit.edu) Software Design for Flexibility                :website:
+:PROPERTIES:
+:ID:       6e4aafba-d8b5-47f4-8e59-ba4b69525463
+:ROAM_REFS: https://mitpress.mit.edu/9780262045490/software-design-for-flexibility/
+:END:
+
+#+begin_quote
+  Strategies for building systems that can be adapted for new situations with only minor programming modifications.
+
+  Time pressures encourage programmers to write code that works well for a narrow purpose, with no room to grow.  But the best systems are evolvable; they can be adapted for new situations by adding code, rather than changing the existing code.  The authors describe techniques they have found effective---over their combined 100-plus years of programming experience---that will help programmers avoid programming themselves into corners.
+
+  The authors explore ways to enhance flexibility by:
+  - Organizing systems using combinators to compose mix-and-match parts, ranging from small functions to whole arithmetics, with standardized interfaces
+  - Augmenting data with independent annotation layers, such as units of measurement or provenance
+  - Combining independent pieces of partial information using unification or propagation
+  - Separating control structure from problem domain with domain models, rule systems and pattern matching, propagation, and dependency-directed backtracking
+  - Extending the programming language, using dynamically extensible evaluators
+
+  Some of the techniques, such as dynamically extensible generic procedures, are extremely powerful but potentially dangerous.  Each chapter includes exercises.  Code is written in Scheme, a simple dialect of Lisp.  Examples range from astronomy to automatic differentiation to an adventure game.
+#+end_quote
+** (mitpress.ublish.com) Software Design for Flexibility
+:PROPERTIES:
+:ID:       166f6226-5f73-48bf-b2f0-1baa9149e18a
+:ROAM_REFS: https://mitpress.ublish.com/ebook/software-design-for-flexibility-preview/12618/iii
+:END:
 * (www.amazon.com) Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books :website:
 :PROPERTIES:
 :ID:       3669c4a1-f001-4999-8a64-9564833f2a16

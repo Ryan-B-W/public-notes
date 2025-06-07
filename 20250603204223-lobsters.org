@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       ec15ec3d-6200-40a6-94cd-7ca36bf76709
+:ROAM_ALIASES: lobste.rs
+:END:
+#+title: Lobsters
+#+filetags: :link_aggregation:forums:
+
+Link aggregation and forum dedicated to computing.
+* (lobste.rs) Lobsters                                              :website:
+:PROPERTIES:
+:ID:       3fdf54b8-b09e-493f-80d8-2ecb9f332c03
+:ROAM_REFS: https://lobste.rs/
+:END:
+** (lobste.rs) About | Lobsters
+:PROPERTIES:
+:ID:       9b9e5458-e203-4c10-944a-fa5585386ec8
+:ROAM_REFS: https://lobste.rs/about
+:END:
+
+#+begin_quote
+  * About
+
+  Lobsters is a computing-focused community centered around link aggregation and discussion, launched on July 3rd, 2012.  The administrator is [[https://lobste.rs/~pushcx][Peter Bhat Harkins]] ("pushcx"), contact him or [[https://lobste.rs/moderators][another moderator]] with any support issues.  Lobsters was created by [[https://lobste.rs/~jcs][joshua stein]] with careful design touches to encourage a healthy community:
+
+  - a [[https://lobste.rs/about#tagging][tagging]] system to categorize and filter submissions,
+  - a user [[https://lobste.rs/about#invitations][invitation tree]] to combat spam,
+  - [[https://lobste.rs/about#flags][flag explanations]] to curb punishing disagreement,
+  - a strong commitment to [[https://lobste.rs/about#transparency][transparency]],
+  - and [[https://lobste.rs/about#features][many more features]] that have been added over the years.
+#+end_quote

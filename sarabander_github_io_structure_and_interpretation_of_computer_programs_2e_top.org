@@ -101,6 +101,15 @@ Main node: [[id:69d3e2e7-62dc-414f-90ee-86f4b4abbcb0][(sarabander.github.io) Str
 :ID:       29b23078-07a0-470c-a8f9-ba522c99f0ff
 :ROAM_REFS: https://sarabander.github.io/sicp/html/3_002e3.xhtml
 :END:
+*** (sarabander.github.io) SICP, 2e: 3.3, Footnote 148
+:PROPERTIES:
+:ID:       a28f0383-3559-47db-8823-b329b017c2f0
+:ROAM_REFS: https://sarabander.github.io/sicp/html/3_002e3.xhtml#FOOT148
+:END:
+
+#+begin_quote
+  The subtleties of dealing with sharing of mutable data objects reflect the underlying issues of “sameness” and “change” that were raised in [[https://sarabander.github.io/sicp/html/3_002e1.xhtml#g_t3_002e1_002e3][3.1.3]].  We mentioned there that admitting change to our language requires that a compound object must have an “identity” that is something different from the pieces from which it is composed.  In Lisp, we consider this “identity” to be the quality that is tested by =eq?=, i.e., by equality of pointers.  Since in most Lisp implementations a pointer is essentially a memory address, we are “solving the problem” of defining the identity of objects by stipulating that a data object “itself” is the information stored in some particular set of memory locations in the computer.  This suffices for simple Lisp programs, but is hardly a general way to resolve the issue of “sameness” in computational models.
+#+end_quote
 ** (sarabander.github.io) SICP, 2e: 3.4 Concurrency: Time Is of the Essence
 :PROPERTIES:
 :ID:       3d0e4610-7589-43ae-9c35-ecac837c09fb

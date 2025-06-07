@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       8858e904-2bb2-402f-aca1-ad2d254806f2
+:ROAM_REFS: https://en.wikipedia.org/wiki/Semaphore_(programming)
+:END:
+#+title: (en.wikipedia.org) Semaphore (programming) - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Computer_science][computer science]], a *semaphore* is a [[https://en.wikipedia.org/wiki/Variable_(programming)][variable]] or [[https://en.wikipedia.org/wiki/Abstract_data_type][abstract data type]] used to control access to a common resource by multiple [[https://en.wikipedia.org/wiki/Process_(computing)][threads]] and avoid [[https://en.wikipedia.org/wiki/Critical_section][critical section]] problems in a [[https://en.wikipedia.org/wiki/Concurrent_computing][concurrent]] system such as a [[https://en.wikipedia.org/wiki/Computer_multitasking][multitasking]] operating system.  Semaphores are a type of [[https://en.wikipedia.org/wiki/Synchronization_(computer_science)][synchronization primitive]].  A trivial semaphore is a plain variable that is changed (for example, incremented or decremented, or toggled) depending on programmer-defined conditions.
+
+  A useful way to think of a semaphore as used in a real-world system is as a record of how many units of a particular resource are available, coupled with operations to adjust that record /safely/ (i.e., to avoid [[https://en.wikipedia.org/wiki/Race_condition][race conditions]]) as units are acquired or become free, and, if necessary, wait until a unit of the resource becomes available.
+
+  Though semaphores are useful for preventing race conditions, they do not guarantee their absence.  Semaphores that allow an arbitrary resource count are called *counting semaphores*, while semaphores that are restricted to the values 0 and 1 (or locked/unlocked, unavailable/available) are called *binary semaphores* and are used to implement [[https://en.wikipedia.org/wiki/Lock_(computer_science)][locks]].
+
+  The semaphore concept was invented by [[https://en.wikipedia.org/wiki/Dutch_people][Dutch]] [[https://en.wikipedia.org/wiki/Computer_scientist][computer scientist]] [[https://en.wikipedia.org/wiki/Edsger_Dijkstra][Edsger Dijkstra]] in 1962 or 1963, when Dijkstra and his team were developing an [[https://en.wikipedia.org/wiki/Operating_system][operating system]] for the [[https://en.wikipedia.org/wiki/Electrologica_X8][Electrologica X8]].  That system eventually became known as the [[https://en.wikipedia.org/wiki/THE_multiprogramming_system][THE multiprogramming system]].
+#+end_quote

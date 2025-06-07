@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       7d3e59a4-d586-471f-8c32-f6f267d0f068
+:ROAM_REFS: https://en.wikipedia.org/wiki/Lock_(computer_science)
+:END:
+#+title: (en.wikipedia.org) Lock (computer science) - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Computer_science][computer science]], a *lock* or *mutex* (from [[https://en.wikipedia.org/wiki/Mutual_exclusion][mutual exclusion]]) is a [[https://en.wikipedia.org/wiki/Synchronization_primitive][synchronization primitive]] that prevents state from being modified or accessed by multiple [[https://en.wikipedia.org/wiki/Threads_(computer_science)][threads of execution]] at once.  Locks enforce mutual exclusion [[https://en.wikipedia.org/wiki/Concurrency_control][concurrency control]] policies, and with a variety of possible methods there exist multiple unique implementations for different applications.
+#+end_quote

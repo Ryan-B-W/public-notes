@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       21331353-232a-4e8d-bb67-fc181de38e77
+:ROAM_REFS: https://en.wikipedia.org/wiki/Memoization
+:END:
+#+title: (en.wikipedia.org) Memoization - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Computing][computing]], *memoization* or *memoisation* is an [[https://en.wikipedia.org/wiki/Optimization_(computer_science)][optimization]] technique used primarily to speed up [[https://en.wikipedia.org/wiki/Computer_programs][computer programs]] by storing the results of expensive [[https://en.wikipedia.org/wiki/Subroutine][function calls]] to [[https://en.wikipedia.org/wiki/Pure_function][pure functions]] and returning the cached result when the same inputs occur again.  Memoization has also been used in other contexts (and for purposes other than speed gains), such as in simple [[https://en.wikipedia.org/wiki/Mutual_recursion][mutually recursive]] descent parsing.  It is a type of [[https://en.wikipedia.org/wiki/Cache_(computing)][caching]], distinct from other forms of caching such as [[https://en.wikipedia.org/wiki/Buffer_(computer_science)][buffering]] and [[https://en.wikipedia.org/wiki/Page_replacement_algorithm][page replacement]]. In the context of some [[https://en.wikipedia.org/wiki/Logic_programming][logic programming]] languages, memoization is also known as [[https://en.wikipedia.org/wiki/Tabling][tabling]].
+#+end_quote
