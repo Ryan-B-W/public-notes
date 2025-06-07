@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       9d2bded9-0aab-49c0-95ce-40e2eef7b938
+:ROAM_REFS: https://fly.io/blog/youre-all-nuts/
+:END:
+#+title: (fly.io) My AI Skeptic Friends Are All Nuts · The Fly Blog
+#+filetags: :social:economics:programming:artificial_intelligence:blog_post:website:
+
+#+begin_quote
+  A heartfelt provocation about AI-assisted programming.
+
+  Tech execs are mandating LLM adoption. That's bad strategy. But I get where they're coming from.
+
+  Some of the smartest people I know share a bone-deep belief that AI is a fad --- the next iteration of NFT mania. I've been reluctant to push back on them, because, well, they're smarter than me. But their arguments are unserious, and worth confronting. Extraordinarily talented people are doing work that LLMs already do better, out of spite.
+
+  All progress on LLMs could halt today, and LLMs would remain the 2nd most important thing to happen over the course of my career.
+
+  *Important caveat*: I'm discussing only the implications of LLMs for software development. For art, music, and writing? I got nothing. I'm inclined to believe the skeptics in those fields. I just don't believe them about mine.
+#+end_quote

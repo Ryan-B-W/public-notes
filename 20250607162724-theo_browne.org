@@ -1,0 +1,62 @@
+:PROPERTIES:
+:ID:       5d0dffb9-6b17-4cd1-bcc6-cb0c2427f335
+:END:
+#+title: Theo Browne
+#+filetags: :people:
+
+Software developer and internet personality.
+* (t3.gg) theo - builder who's also on youtube                      :website:
+:PROPERTIES:
+:ID:       bf9a2595-a254-4b55-a7af-6b5ed5871829
+:ROAM_REFS: https://t3.gg/
+:END:
+
+#+begin_quote
+  hi, i'm theo. i make things. mostly code and videos. you're probably here for one of these things...
+#+end_quote
+* (www.twitch.tv) Theo - Twitch                            :twitchtv:website:
+:PROPERTIES:
+:ID:       1d81b3e2-3547-4ba2-a0e7-d53a1d1cdf30
+:ROAM_REFS: https://www.twitch.tv/theo
+:END:
+* (www.youtube.com) Theo - t3․gg - YouTube                          :website:
+:PROPERTIES:
+:ID:       3c04e971-6738-4e2e-8ae2-efd1a0f6dbd9
+:ROAM_REFS: https://www.youtube.com/@t3dotgg https://www.youtube.com/c/theobrowne1017
+:END:
+
+#+begin_quote
+  Description Hi, I'm a software dev nerd mostly known for full stack TypeScript stuff. Check out me and my stack at t3.gg
+#+end_quote
+* (www.youtube.com) Theo Rants - YouTube                            :website:
+:PROPERTIES:
+:ID:       b1af17be-622a-4f1b-91ae-fb212adac53f
+:ROAM_REFS: https://www.youtube.com/@theorants
+:END:
+
+#+begin_quote
+  I made this place to dump stuff that isn't super programming focused. Will probably be creator and business stuff, maybe some pokemon? idk
+#+end_quote
+* (www.youtube.com) Theo Throwaways - YouTube                       :website:
+:PROPERTIES:
+:ID:       7c69b3c0-fe00-4b12-b800-f8e2e95d295b
+:ROAM_REFS: https://www.youtube.com/@theothrowaways
+:END:
+
+#+begin_quote
+  If you thought my other channel was bad, just wait til you see this one.
+#+end_quote
+* (twitter.com) Theo - t3.gg (@theo) / Twitter              :twitter:website:
+:PROPERTIES:
+:ID:       e2debb19-2426-4d52-845d-df78fe2c2d4d
+:ROAM_REFS: https://twitter.com/theo https://x.com/theo
+:END:
+
+#+begin_quote
+  Full time CEO [[https://x.com/t3dotchat][@t3dotchat]]. Part time YouTuber, investor, and developer
+#+end_quote
+* (github.com) t3dotgg (Theo Browne)                                :website:
+:PROPERTIES:
+:ID:       db390781-17e8-48e4-97cb-269c65ffb3aa
+:ROAM_REFS: https://github.com/t3dotgg
+:END:
