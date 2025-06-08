@@ -3,4 +3,4 @@
 :ROAM_REFS: https://www.auspen.us/
 :END:
 #+title: (www.auspen.us) Refillable Markers from Auspen - Whiteboard & Dry Erase – AusPen USA
-#+filetags: :store:stationary:website:
+#+filetags: :store:stationery:website:

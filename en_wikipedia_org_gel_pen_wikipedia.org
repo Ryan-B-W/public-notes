@@ -3,7 +3,7 @@
 :ROAM_REFS: https://en.wikipedia.org/wiki/Gel_pen
 :END:
 #+title: (en.wikipedia.org) Gel pen - Wikipedia
-#+filetags: :stationary:website:
+#+filetags: :stationery:website:
 
 #+begin_quote
   A *gel pen* uses ink in which [[https://en.wikipedia.org/wiki/Pigment][pigment]] is [[https://en.wikipedia.org/wiki/Suspension_(chemistry)][suspended]] in a [[https://en.wikipedia.org/wiki/Water][water]]-based [[https://en.wikipedia.org/wiki/Gel][gel]].  Because the ink is thick and [[https://en.wikipedia.org/wiki/Opacity_(optics)][opaque]], it shows up more clearly on slick surfaces than the typical inks used in [[https://en.wikipedia.org/wiki/Ballpoint_pen][ballpoint]] or [[https://en.wikipedia.org/wiki/Marker_pen][felt tip]] pens.  Gel pens can be used for many types of writing and illustration.
