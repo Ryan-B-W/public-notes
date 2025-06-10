@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       8d97c9f0-dbd7-479c-aa43-625a81d41f68
+:ROAM_REFS: https://en.wikipedia.org/wiki/Continuation-passing_style
+:END:
+#+title: (en.wikipedia.org) Continuation-passing style - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Functional_programming][functional programming]], *continuation-passing style* (*CPS*) is a style of programming in which [[https://en.wikipedia.org/wiki/Control_flow][control]] is passed explicitly in the form of a [[https://en.wikipedia.org/wiki/Continuation][continuation]].  This is contrasted with direct style, which is the usual style of programming.  [[https://en.wikipedia.org/wiki/Gerald_Jay_Sussman][Gerald Jay Sussman]] and [[https://en.wikipedia.org/wiki/Guy_L._Steele,_Jr.][Guy L. Steele, Jr.]] coined the phrase in [[https://en.wikipedia.org/wiki/AI_Memo][AI Memo]] 349 (1975), which sets out the first version of the programming language [[https://en.wikipedia.org/wiki/Scheme_(programming_language)][Scheme]].  [[https://en.wikipedia.org/wiki/John_C._Reynolds][John C. Reynolds]] gives a detailed account of the many discoveries of continuations.
+
+  A function written in continuation-passing style takes an extra argument: an explicit /continuation/; i.e., a function of one argument.  When the CPS function has computed its result value, it "returns" it by calling the continuation function with this value as the argument.  That means that when invoking a CPS function, the calling function is required to supply a procedure to be invoked with the subroutine's "return" value.  Expressing code in this form makes a number of things explicit which are implicit in direct style.  These include: procedure returns, which become apparent as calls to a continuation; intermediate values, which are all given names; order of argument evaluation, which is made explicit; and [[https://en.wikipedia.org/wiki/Tail_call][tail calls]], which simply call a procedure with the same continuation, unmodified, that was passed to the caller.
+
+  Programs can be automatically transformed from direct style to CPS.  Functional and [[https://en.wikipedia.org/wiki/Logic_programming][logic]] compilers often use CPS as an [[https://en.wikipedia.org/wiki/Intermediate_representation][intermediate representation]] where a compiler for an [[https://en.wikipedia.org/wiki/Imperative_programming][imperative]] or [[https://en.wikipedia.org/wiki/Procedural_programming][procedural]] [[https://en.wikipedia.org/wiki/Programming_language][programming language]] would use [[https://en.wikipedia.org/wiki/Static_single_assignment_form][static single assignment form]] (SSA).  SSA is formally equivalent to a subset of CPS (excluding non-local control flow, which does not occur when CPS is used as intermediate representation).  Functional compilers can also use [[https://en.wikipedia.org/wiki/A-normal_form][A-normal form]] (ANF) (but only for languages requiring eager evaluation), rather than with /[[https://en.wikipedia.org/wiki/Thunk][thunks]]/ (described in the examples below) in CPS.  CPS is used more frequently by [[https://en.wikipedia.org/wiki/Compiler][compilers]] than by programmers as a local or global style.
+#+end_quote
+* See Also
+** [[id:3ec9ac9a-4d9a-4959-9c56-1c36d154180d][(en.wikipedia.org) Thunk - Wikipedia]]

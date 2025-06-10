@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       72958cee-8c80-48af-a16d-632e3a25820e
+:ROAM_REFS: https://thevaluable.dev/kiss-principle-explained/
+:END:
+#+title: (thevaluable.dev) A Detailed Explanation of The KISS Principle in Software
+#+filetags: :programming:software_development:computer_science:blog_post:website:
+
+#+begin_quote
+  * A Detailed Explanation of The KISS Principle in Software
+
+  When I search about the KISS principle on The Internet, I stumble across many websites defining it in a couple of lines: simplicity is important, let's be simple, the end.  They often fail to explain /what/ is simplicity, /why/ simplicity is important, and /how/ to achieve it.
+
+  Simplicity is one of the driving idea we should keep in mind at all time when designing a system.  The problem: it's really hard to achieve.
+
+  You guessed it: we'll dive into simplicity (and complexity) in this article.  I won't write about all the different ways complexity can creep in your codebase but, instead, I'll try to give you a quick overview of the different masks complexity can wear, with many examples.  We'll go from the business domain itself, through the nitty-gritty (the implementation), to end up in the complexity of software architecture.
+
+  More precisely, we'll try to answer these questions:
+
+  - What's the difference between simple and easy?
+  - Why do we need to keep things simple?
+  - Can we avoid the complexity created by the business itself?
+  - Why should we thrive to delete code?
+  - What is cyclomatic complexity?
+  - What means simplicity for an architecture?
+  - How to manage your dependencies?
+  - Why we shouldn't try to outsmart everyone with our code?
+#+end_quote
+* See Also
+** [[id:9d44e61e-b041-49c0-b699-95eaf7d52f22][(www.infoq.com) Simple Made Easy - InfoQ]]

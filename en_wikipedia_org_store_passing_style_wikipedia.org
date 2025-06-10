@@ -1,0 +1,77 @@
+:PROPERTIES:
+:ID:       6d3d1476-6ead-42ee-aadd-a9ffbc913e27
+:ROAM_REFS: https://en.wikipedia.org/wiki/Store-passing_style
+:END:
+#+title: (en.wikipedia.org) Store-passing style - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  *Store-passing style* is a programming technique that is used to model [[https://en.wikipedia.org/wiki/State_(computer_science)][mutable state]] without using mutable state.  It generally arises in the conversion of [[https://en.wikipedia.org/wiki/Imperative_programming][imperative programs]] into [[https://en.wikipedia.org/wiki/Purely_functional_programming][purely functional]] ones.
+
+  So, for instance, consider this [[https://en.wikipedia.org/wiki/JavaScript][JavaScript]] program, written in a non-store-passing-style:
+
+  #+begin_src javascript
+    var lastWasA = false
+
+    // a treebin represents a binary tree of strings.
+
+    // a treebin is either
+    // - a string, or
+    // - {l : <treebin>, r: <treebin>}
+
+    // does an in-order traversal of this tree's
+    // leaves contain an 'a' followed by a 'b'?
+    function aThenB(treebin) {
+        if (typeof(treebin) === "string") {
+            if (treebin === "a") {
+                lastWasA = true;
+                return false;
+            } else if (treebin === "b") {
+                if (lastWasA) {
+                    return true;
+                } else {
+                    lastWasA = false;
+                    return false;
+                }
+            } else {
+                lastWasA = false;
+                return false;
+            }
+        } else { // not a string, must be an internal node:
+            return ((aThenB(treebin.l))||(aThenB(treebin.r)));
+        }
+    }
+  #+end_src
+
+  This contains a reference to a [[https://en.wikipedia.org/wiki/Global_variable][global variable]].  In store-passing style, the value of the global variable (or variables) is passed along to each call, and also returned from each call and threaded through the next call.  The code might look like this:
+
+  #+begin_src javascript
+    function aThenB(treebin, lastWasA) {
+        if (typeof(treebin) === "string") {
+            if (treebin === "a") {
+                return {result: false, lastWasA: true};
+            } else if (treebin === "b") {
+                if (lastWasA) {
+                    return {result: true, lastWasA: false};
+                }
+            } else {
+                return {result: false, lastWasA: false};
+            }
+        } else { // not a string, must be an internal node:
+            var leftCall = aThenB(treebin.l, lastWasA);
+            if (leftCall.result) {
+                return {result: true, lastWasA: false}
+            } else {
+                return aThenB(treebin.r, leftCall.lastWasA);
+            }
+        }
+    }
+  #+end_src
+
+  Note that each call takes an extra argument, and two values are now returned; the ordinary return value, and a new value representing the state of the formerly mutable variable.
+
+  Store-passing style can be quite painful to write, but can help to eliminate race conditions by isolating state within function calls, and can potentially make code more [[https://en.wikipedia.org/wiki/Parallelizable][parallelizable]].
+#+end_quote
+* See Also
+** [[id:b436fdf8-1290-484f-becf-c369142a0b80][Essentials of Programming Languages]]
+** [[id:00867142-be60-4f08-9b95-0180ae6b15ab][Programming Languages: Application and Interpretation]]

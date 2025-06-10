@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       3ec9ac9a-4d9a-4959-9c56-1c36d154180d
+:ROAM_REFS: https://en.wikipedia.org/wiki/Thunk
+:END:
+#+title: (en.wikipedia.org) Thunk - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Computer_programming][computer programming]], a *thunk* is a [[https://en.wikipedia.org/wiki/Subroutine][subroutine]] used to inject a calculation into another subroutine.  Thunks are primarily used to delay a calculation until its result is needed, or to insert operations at the beginning or end of the other subroutine.  They have many other applications in [[https://en.wikipedia.org/wiki/Code_generation_(compiler)][compiler code generation]] and [[https://en.wikipedia.org/wiki/Modular_programming][modular programming]].
+
+  The term originated as a whimsical [[https://en.wikipedia.org/wiki/English_irregular_verbs][irregular]] form of the verb /think/.  It refers to the original use of thunks in [[https://en.wikipedia.org/wiki/ALGOL_60][ALGOL 60]] compilers, which required special analysis (thought) to determine what type of routine to generate.
+#+end_quote

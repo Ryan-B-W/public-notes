@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       2b8c7925-c1b1-4334-90c9-1248fff1ade5
+:ROAM_REFS: https://ngnghm.github.io/blog/2015/08/24/chapter-4-turtling-down-the-tower-of-babel/
+:END:
+#+title: (ngnghm.github.io) Chapter 4: Turtling down the Tower of Babel
+#+filetags: :satire:computer_science:blog_post:website:
+
+#+begin_quote
+  * Chapter 4: Turtling down the Tower of Babel
+
+  2015-08-24 :: [[https://ngnghm.github.io/tags/Persistence.html][Persistence]], [[https://ngnghm.github.io/tags/Transience.html][Transience]], [[https://ngnghm.github.io/tags/Quality.html][Quality]], [[https://ngnghm.github.io/tags/Meta.html][Meta]], [[https://ngnghm.github.io/tags/Strategies.html][Strategies]], [[https://ngnghm.github.io/tags/Turtles.html][Turtles]]
+
+  Ngnghm, or Ann, examined how manual persistence was managed underneath Human computer systems, and contrasted with how Houyhnhnms (pronounced “Hunams”) automated its implementation. This led her to more general remarks about the compared architectures of Human computer systems and Houyhnhnm computing systems: Houyhnhnm computing systems can and do go meta, which to them is notionally /down/ (not /up/, as some Humans would have it). Going meta allows Houyhnhm computing systems to enjoy qualities not found in Human computer systems, that can't go meta.
+#+end_quote

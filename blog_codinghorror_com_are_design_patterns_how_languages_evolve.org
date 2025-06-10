@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1acbce91-1e15-49c0-9374-43796c0c2f30
+:ROAM_REFS: https://blog.codinghorror.com/are-design-patterns-how-languages-evolve/
+:END:
+#+title: (blog.codinghorror.com) Are Design Patterns How Languages Evolve?
+#+filetags: :programming_language_design:blog_post:website:
+
+#+begin_quote
+  * Are Design Patterns How Languages Evolve?
+
+  [[https://blog.codinghorror.com/author/jeff-atwood/][Jeff Atwood]]
+
+  02 Jun 2005 --- 2 min read [[https://blog.codinghorror.com/are-design-patterns-how-languages-evolve/#discourse-comments][--- Comments]]
+
+  Paul Graham's essay, Revenge of the Nerds, is a nearly pornographic [[http://www.paulgraham.com/icad.html][love letter to Lisp]].  If you can manage to read all the way to the end, there's an interesting footnote buried at the bottom:
+
+  : [[http://norvig.com/design-patterns/][Peter Norvig]] found that 16 of the 23 patterns in Design Patterns were “invisible or simpler” in Lisp.
+
+  He should have opened the essay with that evidence, because it strengthens his conclusion considerably:
+
+  : In the OO world you hear a good deal about “patterns.”  *When I see patterns in my programs, I consider it a sign of trouble.*  The shape of a program should reflect only the problem it needs to solve.  Any other regularity in the code is a sign, to me at least, that I'm using abstractions that aren't powerful enough -- often that I'm generating by hand the expansions of some macro that I need to write.
+#+end_quote

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       4ce14cbe-3b40-41af-bf7c-b4677450f635
+:ROAM_REFS: https://www.youtube.com/watch?v=lw6TaiXzHAE
+:END:
+#+title: (www.youtube.com) Oopsla Conference: Growing a Language - YouTube
+#+filetags: :programming_language_design:computer_science:video:website:
+
+#+begin_quote
+  [Recorded on October 1998]
+
+  From University Video Communications' catalog:
+
+  "Over the last quarter-century Guy Steele has been convinced that trying to design a complete and perfect programming language is the worst thing you can do.  A programming language (including its associated libraries) must grow over time as its user community and its development community grow.  This is a different situation from 25 years ago, when all such communities were relatively small.  The difference is a problem of scale.  As a result, programming language design now and in the future is necessarily as much a matter of social engineering as technical engineering and must rely more on a set of general principles than on a set of specific technical decisions."
+
+  Catalog number: 102706476\\
+  Lot number: X6636.2013
+#+end_quote

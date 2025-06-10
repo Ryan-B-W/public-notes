@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       f1682ffd-4562-4f76-8bea-dfe7ffd78c39
+:ROAM_REFS: https://www.reddit.com/r/programming/comments/11k8kv/design_patterns_as_missing_language_features/
+:END:
+#+title: (www.reddit.com) Design Patterns as missing Language Features? : r/programming
+#+filetags: :forums:website:
+
+Comments link to the following:
+ - [[https://www.youtube.com/watch?v=_ahvzDzKdB0][Growing a Language, by Guy Steele - YouTube]] which is an older, lower quality, version of [[id:4ce14cbe-3b40-41af-bf7c-b4677450f635][(www.youtube.com) Oopsla Conference: Growing a Language - YouTube]]
+ - [[id:09cedc4a-a901-4695-9ca0-5988ef490844][(wiki.c2.com) Are Design Patterns Missing Language Features]]

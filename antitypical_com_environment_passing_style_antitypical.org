@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       dfc4a1eb-f0eb-4f5e-8167-5b2c63a6ed5e
+:ROAM_REFS: https://antitypical.com/posts/2021-07-08-environment-passing-style/
+:END:
+#+title: (antitypical.com) Environment-Passing Style – Antitypical
+#+filetags: :blog_post:website:ATTACH:
+
+#+begin_quote
+  * Environment-Passing Style
+
+  Jul 8, 2021\\
+  5 minute read
+
+  Functions of type A → B can be translated into corresponding functions of type ¬B → ¬A in continuation-passing style (CPS), where ¬A is logically negation but computationally a continuation from A.
+
+  This widens the view of functions as value transformers, taking values of type A to values of type B, to include an alternative perspective of them as continuation transformers (as noted by Andrzej Filinski in /Declarative Continuations and Categorical Duality/.)
+
+  Logic and computation are [[https://antitypical.com/posts/2021-06-07-duality/][rife with dualities]], leading one to wonder: what's the dual of CPS?
+#+end_quote

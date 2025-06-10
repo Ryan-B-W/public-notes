@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       5d111e9d-4014-4484-ab43-a62204f26320
+:ROAM_REFS: https://vladris.com/blog/2020/12/10/notes-on-design-patterns.html
+:END:
+#+title: (vladris.com) Notes on Design Patterns — Blog
+#+filetags: :programming_language_design:computer_science:blog_post:website:
+
+#+begin_quote
+  * Notes on Design Patterns
+
+  : /Patterns mean "I have run out of language."/  --- Rich Hickey.
+
+  Many junior developers want to improve their software design skills by studying design patterns.  I was there too, of course.  I believe there is a big misconception of what design patterns /are/, and I believe we are, indeed, over-indexing on them when we are thinking of software design.
+
+  It is very easy to over-design things, and if blindly apply design patterns, we end up with code like the [[https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition][FizzBuzz Enterprise Edition]], which in real life translate into incomprehensible software that burns hundreds of developer-hours for even tiny changes.
+#+end_quote

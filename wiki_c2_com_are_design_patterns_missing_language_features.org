@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       09cedc4a-a901-4695-9ca0-5988ef490844
+:ROAM_REFS: https://wiki.c2.com/?AreDesignPatternsMissingLanguageFeatures
+:END:
+#+title: (wiki.c2.com) Are Design Patterns Missing Language Features
+#+filetags: :programming_language_design:lisp:website:
+
+#+begin_quote
+  * Are Design Patterns Missing Language Features
+
+  On various places, it has been claimed that use of [[https://wiki.c2.com/?DesignPatterns][DesignPatterns]], especially complex ones like [[https://wiki.c2.com/?VisitorPattern][VisitorPattern]], are actually indicators that the language being used isn't powerful enough.  Many [[https://wiki.c2.com/?DesignPatterns][DesignPatterns]] are by convention rather than encapsulable in a library or component, and as such contain repetition and thus violate [[https://wiki.c2.com/?OnceAndOnlyOnce][OnceAndOnlyOnce]].  If it didn't contain at least /some/ repetition, or something that could be Refactored out, then it wouldn't be a pattern.
+
+  Discussion on this topic culled from elsewhere on [[https://wiki.c2.com/?WardsWiki][WardsWiki]]:
+
+  --------------
+
+  Here is an interesting quote from [[https://wiki.c2.com/?PaulGraham][PaulGraham]], which leads to the question "Are Patterns a [[https://wiki.c2.com/?LanguageSmell][LanguageSmell]]?"
+
+  /This practice is not only common, but institutionalized.  For example, in the OO world you hear a good deal about "patterns".  I wonder if these patterns are not sometimes evidence of case (c), the human compiler, at work.  When I see patterns in my programs, I consider it a sign of trouble.  The shape of a program should reflect only the problem it needs to solve.  Any other regularity in the code is a sign, to me at least, that I'm using abstractions that aren't powerful enough - often that I'm generating by hand the expansions of some macro that I need to write./
+
+  from [[http://www.paulgraham.com/icad.html]]
+
+  [[https://wiki.c2.com/?PeterNorvig][PeterNorvig]] argues in the same vein in "[[https://wiki.c2.com/?DesignPatternsInDynamicProgramming][DesignPatternsInDynamicProgramming]]".
+
+  [[https://wiki.c2.com/?PaulGraham][PaulGraham]] said "Peter Norvig found that 16 of the 23 patterns in Design Patterns were 'invisible or simpler' in Lisp."  [[http://www.norvig.com/design-patterns/]]
+
+  --------------
+
+  "Pattern" generally implies there is some kind of duplication.  Duplication should ideally be factored out ([[https://wiki.c2.com/?OnceAndOnlyOnce][OnceAndOnlyOnce]]) so that only the differences remain.  It appears to me that stronger languages can more easily remove such duplication because sometimes one has to make a kind of sub-language to do it.
+#+end_quote

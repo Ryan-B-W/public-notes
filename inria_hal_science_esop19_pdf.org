@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       2ab720e7-dfa1-4746-b2d8-066561ab4aa2
+:ROAM_REFS: https://inria.hal.science/hal-01972846/document
+:END:
+#+title: (inria.hal.science) Continuation-and-environment-passing style translations: a focus on call-by-need (esop19.pdf)
+#+filetags: :mime_type_application_pdf:website:
+
+#+begin_quote
+  Continuation-and-environment-passing style translations: a focus on call-by-need
+
+  Hugo Herbelin and Étienne Miquey
+
+  *Abstract.*  The call-by-need evaluation strategy for the λ-calculus is an evaluation strategy that lazily evaluates arguments only if needed, and if so, shares computations across all places where it is needed.  To implement this evaluation strategy, abstract machines require some form of global environment.  While abstract machines usually lead to a better understanding of the flow of control during the execution, easing in particular the definition of continuation-passing style translations, the case of machines with global environments turns out to be much more subtle.  The main purpose of this paper is to understand how to type a continuation-and-environment-passing style translations, that it to say how to soundly translate a classical calculus with environment into a calculus that does not have these features.  To this end, we focus on a sequent calculus presentation of a call-by-need λ-calculus with classical control for which Ariola et. al already defined an untyped translation and which we equipped with a system of simple types in a previous paper.  We present here a type system for the target language of their translation, which highlights a variant of Kripke forcing related to the environment-passing part of the translation.  Finally, we show that our construction naturally handles the cases of call-by-name and call-by-value calculi with environment, encompassing in particular the Milner Abstract Machine, a machine with global environments for the call-by-name λ-calculus.
+#+end_quote
