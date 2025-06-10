@@ -15,3 +15,9 @@
   Catalog number: 102706476\\
   Lot number: X6636.2013
 #+end_quote
+
+Ultimately, the thesis of the talk is that [[id:b24601aa-09df-41e1-aa7e-25ead342db34][programming languages]] should be [[id:f236ab65-0f2f-4c13-bfac-b7a693e44af9][designed]] to be seamlessly extended by the programmers that use it.  No general purpose programming language will be suitable for all general purpose users; therefore, it needs to be extendable.
+
+The primary topic is that of large vs. small languages.  One point of note is that [[id:745de98a-8445-4622-9020-877901f1a7cf][Guy L. Steele Jr.]] thinks that building a perfect small language, in contrast to an imperfect small language, can't be done.  He points out that [[id:6246f8d4-6cd4-489d-b19f-9c1142b51b60][Scheme]] was his best attempt at that.  He also points out that users tend not to like languages as small and simple as Scheme or Pascal.  Guy L. Steele Jr. concludes that, since large languages take too long to make, and that a perfect small language doesn't appear to be possible, the answer is to build a small language that is designed to grow and have the imperfections filed away.
+
+Guy L. Steele Jr. points out that [[id:84ae6e85-a6a2-4133-bc53-274238081c2d][Lisp]] works in a way [[id:9c394806-9d31-4312-a2cf-ae0d0935f7b1][John McCarthy]] likely didn't originally intend or foresee: in Lisp, user additions to the language look identical to language primitives and vice versa.  This means that user additions are indistinguishable from the base language.
