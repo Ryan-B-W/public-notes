@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       c1de00b7-84d9-4a32-8eaf-576344c4d1c7
+:ROAM_REFS: https://dl.acm.org/doi/10.1147/sj.72.0074
+:END:
+#+title: (dl.acm.org) Avoiding deadlock in multitasking systems | IBM Systems Journal
+#+filetags: :website:
+
+#+begin_quote
+  Designers and users of multitasking operating systems must be alert to the problem of task deadlock, which prevents the affected tasks from being completed.
+
+  This paper describes the conditions that can result in task deadlock in any multitasking systems.  Also discussed are techniques for avoiding deadlock in both operating system and application program design.  Finally, it is shown how these techniques were applied in the design of the SYSTEM/360 Operating system job initiator, the part of the system that allocates major resources needed to execute jobs.
+#+end_quote

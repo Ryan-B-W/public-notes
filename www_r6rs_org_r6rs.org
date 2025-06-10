@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       5cd6b3c4-a8d6-448f-a4f9-d961760913ac
+:ROAM_REFS: https://www.r6rs.org/
+:END:
+#+title: (www.r6rs.org) R6RS
+#+filetags: :website:

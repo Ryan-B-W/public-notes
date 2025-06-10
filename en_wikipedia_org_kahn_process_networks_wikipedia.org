@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       b95959fb-fe2e-4b16-8568-315a08eb5f8e
+:ROAM_REFS: https://en.wikipedia.org/wiki/Kahn_process_networks
+:END:
+#+title: (en.wikipedia.org) Kahn process networks - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  A *Kahn process network* (*KPN*, or *process network*) is a [[https://en.wikipedia.org/wiki/Distributed_computing][distributed]] /[[https://en.wikipedia.org/wiki/Model_of_computation][model of computation]]/ in which a group of deterministic sequential [[https://en.wikipedia.org/wiki/Process_(computing)][processes]] communicate through unbounded [[https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics)][first in, first out]] channels.  The model requires that reading from a channel is [[https://en.wikipedia.org/wiki/Blocking_(computing)][blocking]] while writing is [[https://en.wikipedia.org/wiki/Asynchronous_I/O][non-blocking]].  Due to these key restrictions, the resulting process network exhibits [[https://en.wikipedia.org/wiki/Deterministic_algorithm][deterministic behavior]] that does not depend on the timing of computation nor on [[https://en.wikipedia.org/wiki/Network_delay][communication delays]].
+
+  Kahn process networks were originally developed for modeling parallel programs, but have proven convenient for modeling [[https://en.wikipedia.org/wiki/Embedded_systems][embedded systems]], [[https://en.wikipedia.org/wiki/High-performance_computing][high-performance computing]] systems, [[https://en.wikipedia.org/wiki/Signal_processing][signal processing]] systems, [[https://en.wikipedia.org/wiki/Stream_processing][stream processing]] systems, [[https://en.wikipedia.org/wiki/Dataflow_programming][dataflow programming]] languages, and other computational tasks.  KPNs were introduced by [[https://en.wikipedia.org/wiki/Gilles_Kahn][Gilles Kahn]] in 1974.
+#+end_quote

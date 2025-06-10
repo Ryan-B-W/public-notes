@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       967104a4-5ff5-4b21-a1a2-40cedc60c8f8
+:ROAM_REFS: https://en.wikipedia.org/wiki/Apache_Kafka
+:END:
+#+title: (en.wikipedia.org) Apache Kafka - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  *Apache Kafka* is a [[https://en.wikipedia.org/wiki/Distributed_computing][distributed]] [[https://en.wikipedia.org/wiki/Event_store][event store]] and [[https://en.wikipedia.org/wiki/Stream_processing][stream-processing]] platform.  It is an [[https://en.wikipedia.org/wiki/Open-source_software][open-source]] system developed by the [[https://en.wikipedia.org/wiki/Apache_Software_Foundation][Apache Software Foundation]] written in [[https://en.wikipedia.org/wiki/Java_(programming_language)][Java]] and [[https://en.wikipedia.org/wiki/Scala_(programming_language)][Scala]].  The project aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.  Kafka can connect to external systems (for data import/export) via Kafka Connect, and provides the Kafka Streams [[https://en.wikipedia.org/wiki/Library_(computing)][libraries]] for stream processing applications.  Kafka uses a binary [[https://en.wikipedia.org/wiki/Transmission_Control_Protocol][TCP]]-based protocol that is optimized for efficiency and relies on a "message set" abstraction that naturally groups messages together to reduce the overhead of the network roundtrip.  This "leads to larger network packets, larger sequential disk operations, contiguous memory blocks [...] which allows Kafka to turn a bursty stream of random message writes into linear writes."
+#+end_quote

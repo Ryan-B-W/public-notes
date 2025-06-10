@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       18cbda70-1c27-4386-be4c-7bbf3c35db5a
+:ROAM_REFS: https://small.r7rs.org/
+:END:
+#+title: (small.r7rs.org) R7RS-small archive
+#+filetags: :website:
+
+#+begin_quote
+  * small.r7rs.org
+
+  Welcome to =small.r7rs.org=.  This is the home of [[http://scheme-reports.org/2015/working-group-1.html][R7RS Working Group 1]] (R7RS-WG1) and its work on the R7RS-small standard for the [[https://en.wikipedia.org/wiki/Scheme_(programming_language)][Scheme programming language]].  The R7RS-small standard ([[https://small.r7rs.org/attachment/r7rs.pdf][PDF]]) was ratified in 2013.  The final standard as well as all working documents are now hosted here.
+
+  (Originally, the standard and working documents were in a Trac instance, but that server was decommissioned in 2018.  The pages in this domain, except for this page, are static renderings of the wiki page and tickets from a complete backup of that Trac instance as of 14 Sep 2017.)
+
+  An archive of the WG1 mailing list can be found [[https://groups.google.com/forum/#!forum/scheme-reports-wg1][here]].
+
+  [[http://scheme-reports.org/2015/working-group-2.html][WG2]]'s work on R7RS-large continues.  It is hosted at [[http://r7rs.org/][r7rs.org]], and includes most of the wiki pages used for R7RS-small, some of which have been modified since R7RS was ratified, as well as new ones, too.
+
+  Below is the archived WG1 home page, [[https://small.r7rs.org/wiki/WikiStart][WikiStart]].
+#+end_quote

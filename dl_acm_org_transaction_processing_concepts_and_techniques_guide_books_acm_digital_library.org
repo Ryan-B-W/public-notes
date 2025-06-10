@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       8d2cead3-db3b-490c-9f41-7eb588af3c73
+:ROAM_REFS: https://dl.acm.org/doi/10.5555/573304
+:END:
+#+title: (dl.acm.org) Transaction Processing: Concepts and Techniques | Guide books | ACM Digital Library
+#+filetags: :website:
+
+#+begin_quote
+  From the Publisher: The key to client/server computing.  Transaction processing techniques are deeply ingrained in the fields of databases and operating systems and are used to monitor, control and update information in modern computer systems.  This book will show you how large, distributed, heterogeneous computer systems can be made to work reliably.  Using transactions as a unifying conceptual framework, the authors show how to build high-performance distributed systems and high-availability applications with finite budgets and risk.  The authors provide detailed explanations of why various problems occur as well as practical, usable techniques for their solution.  Throughout the book, examples and techniques are drawn from the most successful commercial and research systems.  Extensive use of compilable C code fragments demonstrates the many transaction processing algorithms presented in the book.  The book will be valuable to anyone interested in implementing distributed systems or client/server architectures.
+#+end_quote

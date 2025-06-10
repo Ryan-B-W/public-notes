@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       63f0d576-c808-4aa0-92f0-d4ced57c25ec
+:ROAM_REFS: https://en.wikipedia.org/wiki/Dataflow_programming
+:END:
+#+title: (en.wikipedia.org) Dataflow programming - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Computer_programming][computer programming]], *dataflow programming* is a [[https://en.wikipedia.org/wiki/Programming_paradigm][programming paradigm]] that models a program as a [[https://en.wikipedia.org/wiki/Directed_graph][directed graph]] of the data flowing between operations, thus implementing [[https://en.wikipedia.org/wiki/Dataflow][dataflow]] principles and architecture.  Dataflow [[https://en.wikipedia.org/wiki/Programming_language][programming languages]] share some features of [[https://en.wikipedia.org/wiki/Functional_language][functional languages]], and were generally developed in order to bring some functional concepts to a language more suitable for numeric processing.  Some authors use the term /datastream/ instead of /[[https://en.wikipedia.org/wiki/Dataflow][dataflow]]/ to avoid confusion with dataflow computing or [[https://en.wikipedia.org/wiki/Dataflow_architecture][dataflow architecture]], based on an indeterministic machine paradigm.  Dataflow programming was pioneered by [[https://en.wikipedia.org/wiki/Jack_Dennis][Jack Dennis]] and his graduate students at MIT in the 1960s.
+#+end_quote

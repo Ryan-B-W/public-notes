@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       7a037148-747f-4e0c-8b70-e6224ae2ed09
+:ROAM_REFS: https://r7rs.org/
+:END:
+#+title: (r7rs.org) R7RS
+#+filetags: :website:
+
+#+begin_quote
+  * Revised^{7} Report on the Algorithmic Language Scheme
+
+  Revised Revised Revised Revised Revised Revised Revised
+
+  Scheme is a programming language designed with an emphasis on building abstractions out of simple, composable primitives.
+
+  This website covers the ongoing seventh revision of the specification since 1975, divided into two parts: a small language primarily for embedding, education, and research; and a large language to address the practical needs of mainstream software development.
+
+  ** Small language
+
+  The R^{7}RS small language was completed in 2013.
+
+  - Small language report ([[https://standards.scheme.org/official/r7rs.pdf][PDF]], [[https://github.com/johnwcowan/r7rs-work/blob/master/R7RSSmallErrata.md][errata]])
+  - Unofficial edition with errata corrected ([[https://standards.scheme.org/unofficial/errata-corrected-r7rs.pdf][PDF]], [[https://standards.scheme.org/corrected-r7rs/r7rs.html][HTML]])
+  - [[https://small.r7rs.org/][Wiki and issue tracker archive]]
+
+  ** Large language
+
+  Development of the R^{7}RS large language is ongoing.
+
+  - [[https://codeberg.org/scheme/r7rs][Official repository]] including [[https://codeberg.org/scheme/r7rs/issues][issue tracker]] and [[https://codeberg.org/scheme/r7rs/wiki][wiki]]
+
+  #+caption: --- Revised^{=n=} Reports on the Algorithmic Language Scheme (=n= ≥ 3, 1986--)
+
+  : ‘Programming languages should be designed not by piling feature on top of feature, but by removing the weaknesses and restrictions that make additional features appear necessary.'
+#+end_quote

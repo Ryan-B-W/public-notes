@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       c6973707-ad31-498a-bab4-4ae437c12620
+:ROAM_REFS: https://en.wikipedia.org/wiki/Recurrence_relation
+:END:
+#+title: (en.wikipedia.org) Recurrence relation - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Mathematics][mathematics]], a *recurrence relation* is an [[https://en.wikipedia.org/wiki/Equation][equation]] according to which the \(n\)th term of a [[https://en.wikipedia.org/wiki/Sequence][sequence]] of numbers is equal to some combination of the previous terms.  Often, only \(k\) previous terms of the sequence appear in the equation, for a parameter \(k\) that is independent of \(n\); this number \(k\) is called the /order/ of the relation.  If the values of the first \(k\) numbers in the sequence have been given, the rest of the sequence can be calculated by repeatedly applying the equation.
+
+  In /linear recurrences/, the nth term is equated to a [[https://en.wikipedia.org/wiki/Linear_function][linear function]] of the \(k\) previous terms.  A famous example is the recurrence for the [[https://en.wikipedia.org/wiki/Fibonacci_number][Fibonacci numbers]], \[F_{n} = F_{n - 1} + F_{n - 2}\] where the order \(k\) is two and the linear function merely adds the two previous terms.  This example is a [[https://en.wikipedia.org/wiki/Linear_recurrence_with_constant_coefficients][linear recurrence with constant coefficients]], because the coefficients of the linear function (1 and 1) are constants that do not depend on \(n.\) For these recurrences, one can express the general term of the sequence as a [[https://en.wikipedia.org/wiki/Closed-form_expression][closed-form expression]] of \(n\).  As well, [[https://en.wikipedia.org/wiki/P-recursive_equation][linear recurrences with polynomial coefficients]] depending on \(n\) are also important, because many common [[https://en.wikipedia.org/wiki/Elementary_functions][elementary functions]] and [[https://en.wikipedia.org/wiki/Special_functions][special functions]] have a [[https://en.wikipedia.org/wiki/Taylor_series][Taylor series]] whose coefficients satisfy such a recurrence relation (see [[https://en.wikipedia.org/wiki/Holonomic_function][holonomic function]]).
+
+  Solving a recurrence relation means obtaining a [[https://en.wikipedia.org/wiki/Closed-form_solution][closed-form solution]]: a non-recursive function of \(n\).
+
+  The concept of a recurrence relation can be extended to [[https://en.wikipedia.org/wiki/Multidimensional_array][multidimensional arrays]], that is, [[https://en.wikipedia.org/wiki/Indexed_families][indexed families]] that are indexed by [[https://en.wikipedia.org/wiki/Tuple][tuples]] of [[https://en.wikipedia.org/wiki/Natural_number][natural numbers]].
+#+end_quote
