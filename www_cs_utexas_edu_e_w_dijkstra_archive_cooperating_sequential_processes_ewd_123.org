@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       9fa5a52c-1cc5-4267-81b9-dbd9175a8041
+:ROAM_REFS: https://www.cs.utexas.edu/~EWD/transcriptions/EWD01xx/EWD123.html
+:END:
+#+title: (www.cs.utexas.edu) E.W.Dijkstra Archive: Cooperating sequential processes (EWD 123)
+#+filetags: :website:
+
+#+begin_quote
+  [[https://www.cs.utexas.edu/~EWD/ewd01xx/EWD123.PDF][EWD 123]]
+
+  _Cooperating sequential processes_
+
+  --------------
+
+  _Preface_
+
+  The main purpose of this preface is to explain the specification "Preliminary Version", appearing on the title page of these lecture notes.  They have been prepared under considerable tine pressure, circumstances under which I was unable to have my use of the English language corrected by a native, circumstances under which I was unable first to try out different methods of presentation.  As they stand, I hope that they will serve their two primary purposes: to give my students a guide as to what I am telling and to give my Friends and Relations an idea of what I am doing.
+
+  The future fate of this manuscript, that may prove to be a monograph in statu nascendi, will greatly depend on their reactions to it.  I am greatly indebted, in advance, to any reader who is so kind as to take the trouble to give his comments, either in the form of suggestions how the presentation or the material itself could be improved, or in the form of an appreciation.  From the latter comments I will try to get an idea whether it is worth-while to pursue this effort any further and to prepare a publication fit for and agreeable to a wider public.
+
+  Already at this stage I should like to express my gratitude to many: to my collaborators C.Bron (in particular for his scrutinous screening of the typed version), to A.N.Habermann, F.J.A.Hendriks, C.Ligtmans and P.A. Voorhoeve for many stimulating and clarifying discussions on the subject itself, to the Department of Mathematics of the Technological University, Eindhoven, for the opportunity to spend my time on the problems dealt with and to lecture on their solutions and also ---trivial as it may seem, this is nevertheless vital:--- for putting at my private disposal a type writer with a character set in complete accordance with my personal wishes.
+
+  E.W.Dijkstra
+
+  Department of Mathematics\\
+  Technological University\\
+  P.O. Box 513\\
+  EINDHOVEN\\
+  The Netherlands
+
+  --------------
+
+  _0. Introduction._
+
+  These lectures are intended for all those that expect that in their future activities they will become seriously involved in the problems that arise in either the design or the more advanced applications of digital information processing equipment; they are further intended for all those that are just interested.
+
+  The applications I have in mind are those in which the activity of a computer must include the proper reacting to a possibly great variety of messages that can be sent to it at unpredictable moments, a situation which occurs in process control, traffic control, stock control, banking applica- tions, automization of information flow in large organizations, centralized computer service and, finally, all information systems in which a number of computers are coupled to each other.
+
+  The desire to apply computers in the ways sketched above has often a strong economic motivation, but in these lectures the not unimportant ques- tion of efficiency will not be stressed too much.  We shall occupy ourselves much more with the logical problems which arise, for example, when speed ratios are unknown, communication possibilities restricted etc.  We intend to do so in order to create a clearer insight into tie origin of the difficulties we shall meet and into the nature of our solutions.  To decide whether under given circumstances the application of our techniques is economically attractive or not falls outside the scope of these lectures.
+
+  I regret that I cannot offer a fully worked out theory, complete with Greek letter formulae, so to speak.  The only thing I can do under the present circumstances is to offer a variety of problems, together with solutions.  And in discussing these, we can only hope to bring as much system into it as we possibly can, to find which concepts are relevant, as we go along.  May everyone that follows me along this road enjoy the fascination of these intriguing problems as much as I do!
+#+end_quote

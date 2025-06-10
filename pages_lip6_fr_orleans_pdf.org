@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       118cbc2f-fd50-4360-940e-707594df0f8e
+:ROAM_REFS: https://pages.lip6.fr/Christian.Queinnec/PDF/orleans.pdf
+:END:
+#+title: (pages.lip6.fr) Semantics of Combinations in Scheme (orleans.pdf)
+#+filetags: :scheme:lisp:computer_science:mime_type_application_pdf:website:
+
+#+begin_quote
+  * Semantics of Combinations in Scheme
+
+  S. Anglade, J.J. Lacrampe, and C. Queinnec
+
+  ** Abstract
+
+  This paper presents a denotational semantics for the combinations of Scheme language.  Scheme leaves unspecified the order of evaluation of the terms of a combination.  Our purpose is to formally and denotationally characterize such indeterminancey.  We achieve this by extending the denotation as well as the domain of final answers to take into account the various possible orders of evaluation.
+#+end_quote

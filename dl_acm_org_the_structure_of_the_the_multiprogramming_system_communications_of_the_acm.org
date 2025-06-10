@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       519be27b-6c91-407a-b933-f6eca06436d2
+:ROAM_REFS: https://dl.acm.org/doi/10.1145/363095.363143
+:END:
+#+title: (dl.acm.org) The structure of the “THE”-multiprogramming system | Communications of the ACM
+#+filetags: :website:
+
+#+begin_quote
+  A multiprogramming system is described in which all activities are divided over a number of sequential processes.  These sequential processes are placed at various hierarchical levels, in each of which one or more independent abstractions have been implemented.  The hierarchical structure proved to be vital for the verification of the logical soundness of the design and the correctness of its implementation.
+#+end_quote

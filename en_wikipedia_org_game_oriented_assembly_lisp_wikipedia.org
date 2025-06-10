@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       7992775d-b6ac-4c7e-a509-04ee5cdcc318
+:ROAM_REFS: https://en.wikipedia.org/wiki/Game_Oriented_Assembly_Lisp
+:END:
+#+title: (en.wikipedia.org) Game Oriented Assembly Lisp - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  *Game Oriented Assembly Lisp* (*GOAL*, also known as *Game Object Assembly Lisp*) is a [[https://en.wikipedia.org/wiki/Programming_language][programming language]], a [[https://en.wikipedia.org/wiki/Dialect][dialect]] of the language [[https://en.wikipedia.org/wiki/Lisp_(programming_language)][Lisp]], made for [[https://en.wikipedia.org/wiki/Video_game][video games]] developed by [[https://en.wikipedia.org/wiki/Andy_Gavin][Andy Gavin]] and the /[[https://en.wikipedia.org/wiki/Jak_and_Daxter][Jak and Daxter]]/ team at the company [[https://en.wikipedia.org/wiki/Naughty_Dog][Naughty Dog]].
+
+  It was written using [[https://en.wikipedia.org/wiki/Allegro_Common_Lisp][Allegro Common Lisp]] and used in the development of the entire /Jak and Daxter/ series of games (excluding /[[https://en.wikipedia.org/wiki/Daxter_(video_game)][Daxter]]/ and /[[https://en.wikipedia.org/wiki/Jak_and_Daxter:_The_Lost_Frontier][Jak and Daxter: The Lost Frontier]]/).
+#+end_quote

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       2c97c02a-9707-456f-8182-c4ae9fdd97b3
+:ROAM_REFS: https://en.wikipedia.org/wiki/Peterson's_algorithm
+:END:
+#+title: (en.wikipedia.org) Peterson's algorithm - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  *Peterson's algorithm* (or *Peterson's solution*) is a [[https://en.wikipedia.org/wiki/Concurrent_programming][concurrent programming]] [[https://en.wikipedia.org/wiki/Algorithm][algorithm]] for [[https://en.wikipedia.org/wiki/Mutual_exclusion][mutual exclusion]] that allows two or more processes to share a single-use resource without conflict, using only shared memory for [[https://en.wikipedia.org/wiki/Communication][communication]].  It was formulated by [[https://en.wikipedia.org/w/index.php?title=Gary_L._Peterson&action=edit&redlink=1][Gary L. Peterson]] in 1981.  While Peterson's original formulation worked with only two processes, the algorithm can be generalized for more than two.
+#+end_quote
