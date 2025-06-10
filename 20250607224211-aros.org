@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f0f5d1ca-c10e-4201-a81f-a3bf73f4ee9b
+:ROAM_ALIASES: "AROS Research Operating System"
+:END:
+#+title: AROS
+#+filetags: :open_source:operating_systems:
+
+An [[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][open-source]] [[id:412bbcad-6c00-4f13-b748-d1ffde0588e1][operating system]] inspired by AmigaOS.
+* (aros.org) AROS Research Operating System                         :website:
+:PROPERTIES:
+:ID:       d1cbb06a-cc7b-452a-ad4b-981b264176f1
+:ROAM_REFS: http://aros.org/ https://aros.sourceforge.io/
+:END:
+
+#+begin_quote
+  * Introduction
+
+  The AROS Research Operating System is a lightweight, efficient, and flexible desktop operating system, designed to help you make the most of your computer.  It's an independent, portable and free project, aiming at being compatible with AmigaOS at the API level (like Wine, unlike UAE), while improving on it in many areas.  The source code is available under an open source license, which allows anyone to freely improve upon it.
+#+end_quote

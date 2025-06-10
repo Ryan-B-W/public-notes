@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       70d2b556-e52c-4886-aa66-35994a6ed78f
+:END:
+#+title: FreeDOS
+#+filetags: :open_source:operating_systems:
+
+An [[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][open-source]] [[id:412bbcad-6c00-4f13-b748-d1ffde0588e1][operating system]] that aims for full compatibility with MS-DOS.
+* (freedos.org) The FreeDOS Project                                 :website:
+:PROPERTIES:
+:ID:       c921de6b-2195-4420-85aa-abb3c9e04704
+:ROAM_REFS: https://freedos.org/
+:END:
+
+#+begin_quote
+  * Welcome to FreeDOS
+
+  FreeDOS is an open source DOS-compatible operating system that you can use to play classic DOS games, run legacy business software, or write new DOS programs.  Any program that works on MS-DOS should also run on FreeDOS.
+
+  ** Play classic games
+
+  You can play your favorite DOS games on FreeDOS.  And there are a lot of great classic games to play: Wolfenstein 3D, Doom, Commander Keen, Rise of the Triad, Jill of the Jungle, Duke Nukem, and many others!
+
+  [[https://freedos.org/about/games/][Play games]]
+
+  ** Run applications
+
+  You can run your favorite DOS programs with FreeDOS.  Or use FreeDOS to run a legacy DOS application.  Just install your DOS program under FreeDOS like you would any DOS application and you'll be good to go.
+
+  [[https://freedos.org/about/apps/][Run applications]]
+
+  ** For developers
+
+  FreeDOS includes lots of programming tools so you can create your own DOS programs.  You can also modify FreeDOS itself, because we include the source code under an open source license.
+
+  [[https://freedos.org/about/devel/][Developers]]
+#+end_quote

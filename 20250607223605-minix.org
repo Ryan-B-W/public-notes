@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       65cabbf3-4449-45cd-bf03-b20c9f6ca029
+:END:
+#+title: Minix
+#+filetags: :open_source:operating_systems:
+
+[[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][Open-source]], micro[[id:925a80bf-d4d4-4061-9ac1-2d0224e1590a][kernel]] and [[id:412bbcad-6c00-4f13-b748-d1ffde0588e1][operating system]].
+* (www.minix3.org) Minix3                                           :website:
+:PROPERTIES:
+:ID:       67f41de3-4db3-4335-9cee-181e10a615f5
+:ROAM_REFS: https://www.minix3.org/
+:END:
+
+#+begin_quote
+  ** What Is MINIX 3?
+
+  MINIX 3 is a free, open-source, operating system designed to be highly reliable, flexible, and secure.  It is based on a tiny microkernel running in kernel mode with the rest of the operating system running as a number of isolated, protected, processes in user mode.  It runs on x86 and ARM CPUs, is compatible with NetBSD, and runs thousands of NetBSD packages.  Get MINIX 3 now and [[https://wiki.minix3.org/doku.php?id=www:community:][join our community!]]
+#+end_quote

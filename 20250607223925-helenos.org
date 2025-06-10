@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       5811cc61-5d61-4e9d-a079-a47f553e3aa9
+:END:
+#+title: HelenOS
+#+filetags: :open_source:operating_systems:
+
+An [[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][open-source]], micro[[id:925a80bf-d4d4-4061-9ac1-2d0224e1590a][kernel]] and [[id:412bbcad-6c00-4f13-b748-d1ffde0588e1][operating system]].
+* (www.helenos.org) About – HelenOS                                 :website:
+:PROPERTIES:
+:ID:       277c3fe6-3afe-466e-844b-1832bf8da3b6
+:ROAM_REFS: https://www.helenos.org/
+:END:
+
+#+begin_quote
+  * About HelenOS
+
+  HelenOS is a portable microkernel-based multiserver operating system designed and implemented from scratch.  It decomposes key operating system functionality such as file systems, networking, device drivers and graphical user interface into a collection of fine-grained user space components that interact with each other via message passing.  A failure or crash of one component does not directly harm others.  HelenOS is therefore flexible, modular, extensible, fault tolerant and easy to understand.
+
+  HelenOS aims to be compatible with the C11 and C++14 standards, but does not aspire to be a clone of any existing operating system and trades compatibility with legacy APIs for cleaner design.  Most of HelenOS components have been made to order specifically for HelenOS so that its essential parts can stay free of adaptation layers, glue code, franken-components and the maintenance burden incurred by them.
+
+  HelenOS runs on eight different processor architectures and machines ranging from embedded ARM devices and single-board computers through multicore 32-bit and 64-bit desktop PCs to 64-bit Itanium and SPARC rack-mount servers.
+
+  HelenOS is open source, free software.  Its source code is available under the BSD license.  Some third-party components are licensed under GPL.
+#+end_quote

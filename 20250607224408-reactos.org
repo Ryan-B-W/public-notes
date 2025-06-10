@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       9d7de76d-97f6-40fe-8ff3-b73ff89c506f
+:END:
+#+title: ReactOS
+#+filetags: :open_source:microsoft_windows:operating_systems:
+
+An [[id:bccac2eb-9de0-4865-93a5-0f774c880ada][open-source]] [[id:412bbcad-6c00-4f13-b748-d1ffde0588e1][operating system]] that aims for full, modern Windows NT compatibility via clean-room reverse engineering.
+* (reactos.org) Front Page | ReactOS Project                        :website:
+:PROPERTIES:
+:ID:       7f3eea5f-eb06-4689-8d0a-bfd404f9fe12
+:ROAM_REFS: https://reactos.org/
+:END:
+
+#+begin_quote
+  * Welcome to ReactOS
+
+  Imagine running your favorite Windows applications and drivers in an open-source environment you can trust.  That's the mission of ReactOS!
+#+end_quote

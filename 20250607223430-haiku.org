@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       f9ce88ab-340d-4ef1-8a3b-ef610d136986
+:END:
+#+title: Haiku
+#+filetags: :open_source:operating_systems:
+
+[[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][Open-source]] [[id:412bbcad-6c00-4f13-b748-d1ffde0588e1][operating system]] inspired by BeOS.
+* (www.haiku-os.org) Home | Haiku Project                           :website:
+:PROPERTIES:
+:ID:       9ab040fd-2f92-4b35-8cb8-69eba9ce7f5d
+:ROAM_REFS: https://www.haiku-os.org/
+:END:
+
+#+begin_quote
+  Haiku is an open-source operating system that specifically targets personal computing.  Inspired by the BeOS, Haiku is fast, simple to use, easy to learn and yet very powerful.
+#+end_quote
