@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       42eadc62-4bc2-4dc8-9252-58c948c3b6b4
+:ROAM_REFS: https://dspace.mit.edu/handle/1721.1/6283
+:END:
+#+title: (dspace.mit.edu) The Revised Report on SCHEME: A Dialect of LISP
+#+filetags: :website:
+
+#+begin_quote
+  ** The Revised Report on SCHEME: A Dialect of LISP
+
+  ***** Author(s)
+
+  Steele, Guy Lewis, Jr.; Sussman, Gerald Jay
+
+  ***** Abstract
+
+  SCHEME is a dialect of LISP.  It is an expression-oriented, applicative order, interpreter-based language which allows one to manipulate programs as data.  It differs from most current dialects of LISP in that it closes all lambda-expressions in the environment of their definition or declaration, rather than in the execution environment.  This has the consequence that variables are normally lexically scoped, as in ALGOL.  However, in contrast with ALGOL, SCHEME treats procedures as a first-class data type.  They can be the values of variables, the returned values of procedures, and components of data structures.  Another difference from LISP is that SCHEME is implemented in such a way that tail-recursions execute without net growth of the interpreter stack.  The effect of this is that a procedure call behaves like a GOTO and thus procedure calls can be used to implement iterations, as in PLASMA.
+
+  ***** Date issued
+
+  1978-01-01
+
+  ***** URI
+
+  [[http://hdl.handle.net/1721.1/6283]]
+
+  ***** Other identifiers
+
+  AIM-452
+
+  ***** Series/Report no.
+
+  AIM-452
+#+end_quote
+* (dspace.mit.edu) The Revised Report on SCHEME: A Dialect of LISP (AIM-452.pdf) :mime_type_application_pdf:
+:PROPERTIES:
+:ID:       c8981323-aa1f-4ae1-a7cc-bb80073ff17f
+:ROAM_REFS: https://dspace.mit.edu/bitstream/handle/1721.1/6283/AIM-452.pdf?sequence=2&isAllowed=y
+:END:

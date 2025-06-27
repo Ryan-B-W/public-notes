@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       7e993f6e-28c9-4afe-8906-2542f13cd5c1
+:ROAM_REFS: https://standards.scheme.org/corrected-r5rs/r5rs.html
+:END:
+#+title: (standards.scheme.org) Revised^5 Report on the Algorithmic Language Scheme
+#+filetags: :website:

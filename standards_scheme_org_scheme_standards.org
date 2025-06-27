@@ -1,0 +1,106 @@
+:PROPERTIES:
+:ID:       21d092e3-ec63-4cea-93de-116f4c89328d
+:ROAM_REFS: https://standards.scheme.org/
+:END:
+#+title: (standards.scheme.org) Scheme Standards
+#+filetags: :website:
+
+#+begin_quote
+  * Scheme Standards
+
+  The Scheme programming language was introduced in the 1975 paper, [[https://standards.scheme.org/early/#r0rs][/Scheme: An Interpreter for Extended Lambda Calculus/]]. Since then it has been improved and extended through many rounds of standardization. The authoritative standards are the /Scheme reports/. Their names follow the convention *Revised^{n} Report on the Algorithmic Language Scheme*, abbreviated *R^{n}RS*.
+
+  ** Modern standards
+
+  Most active Scheme implementations now support one or both of these standards. Writing code that works on both R^{6}RS and R^{7}RS is possible with some care.
+
+  *** Revised^{7} Report on the Algorithmic Language Scheme (2013)
+
+  Abbreviated *R^{7}RS*, this standard brings back the simplicity of R^{5}RS in the core language. Complexity has been moved into an optional *large edition* that is still a work in progress.
+
+  *What's new:* =define-library= definitions
+
+  *Official documents (PDF):*\\
+  [[https://standards.scheme.org/official/r7rs.pdf][R^{7}RS Small Edition]]
+
+  *Unofficial documents with errata corrected (PDF):*\\
+  [[https://standards.scheme.org/unofficial/errata-corrected-r7rs.pdf][R^{7}RS Small Edition]]
+
+  *Unofficial documents with errata corrected (browse on the web):*\\
+  [[https://standards.scheme.org/corrected-r7rs/r7rs.html][R^{7}RS Small Edition]]
+
+  *[[https://github.com/johnwcowan/r7rs-work/blob/master/R7RSSmallErrata.md][Editors' list of errata]]*
+
+  *[[https://small.r7rs.org/][Editors' home page]]*
+
+  *[[https://github.com/johnwcowan/r7rs-spec][Editors' version control repository]]*
+
+  *** *Revised^{6} Report on the Algorithmic Language Scheme (2007)*
+
+  Abbreviated *R^{6}RS*, this standard abandoned the simplicity of R^{5}RS and shipped a more full-featured language. Error situations are much more closely specified; a formal hierarchy of condition (exception) types is given.
+
+  This is the first standard with a library system, enabling programmers to share libraries that work out-of-the-box on multiple Scheme implementations.
+
+  *What's new:* =library= definitions, procedural macros via =syntax-case=, condition system, standard condition hierarchy, hash tables, custom ports, explicit Unicode support, transcoding and endianness, a much larger standard library.
+
+  *Official documents (PDF):*\\
+  [[https://standards.scheme.org/official/r6rs.pdf][R^{6}RS]], [[https://standards.scheme.org/official/r6rs-lib.pdf][Standard Libraries]], [[https://standards.scheme.org/official/r6rs-app.pdf][Non-Normative Appendices]], [[https://standards.scheme.org/official/r6rs-rationale.pdf][Rationale]]
+
+  *Unofficial documents with errata corrected (PDF):*\\
+  [[https://standards.scheme.org/unofficial/errata-corrected-r6rs.pdf][R^{6}RS]], [[https://standards.scheme.org/unofficial/errata-corrected-r6rs-lib.pdf][Standard Libraries]], [[https://standards.scheme.org/unofficial/errata-corrected-r6rs-app.pdf][Non-Normative Appendices]], [[https://standards.scheme.org/unofficial/errata-corrected-r6rs-rationale.pdf][Rationale]]
+
+  *Unofficial documents with errata corrected (browse on the web):*\\
+  [[https://standards.scheme.org/corrected-r6rs/r6rs.html][R^{6}RS]], [[https://standards.scheme.org/corrected-r6rs/r6rs-lib.html][Standard Libraries]], [[https://standards.scheme.org/corrected-r6rs/r6rs-app.html][Non-Normative Appendices]], [[https://standards.scheme.org/corrected-r6rs/r6rs-rationale.html][Rationale]]
+
+  *[[http://www.r6rs.org/r6rs-errata.html][Editors' list of errata]]*
+
+  *[[http://www.r6rs.org/][Editors' home page]]*
+
+  *[[https://www.s48.org/cgi-bin/hgwebdir.cgi/r6rs/][Editors' version control repository]]* ([[https://github.com/schemedoc/r6rs][GitHub mirror]])
+
+  ** Classic standards
+
+  These standards present the core Scheme syntax and semantics in essentially the same form as it now is.
+
+  *** Revised^{5} Report on the Algorithmic Language Scheme (1998)
+
+  Abbreviated *R^{5}RS*, this standard comes closest to a Platonic Form of Scheme before later standards tackle the complexities of /programming in the large/ with features such as libraries and exceptions.
+
+  Weighing in at 50 pages, the R^{5}RS document is an object of reverence among programming language enthusiasts. It is a touchstone of the Scheme community and is considered an exemplar of a concise and expressive language specification in other communities as well.
+
+  *What's new:* =syntax-rules= macros
+
+  *Official documents (PDF):* [[https://standards.scheme.org/official/r5rs.pdf][R^{5}RS]]
+
+  *Unofficial documents with errata corrected (browse on the web):* [[https://standards.scheme.org/corrected-r5rs/r5rs.html][R^{5}RS]]
+
+  *[[https://mumble.net/~kelsey/r5rs-errata.html][Editors' list of errata]]*
+
+  *** Revised^{4} Report on the Algorithmic Language Scheme (1991)
+
+  Abbreviated *R^{4}RS*
+
+  Scheme starts really becoming Scheme with R4RS, e.g. hygienic macros were optional and in the appendix.
+
+  *Official documents (PDF):* [[https://standards.scheme.org/official/r4rs.pdf][R^{4}RS]]
+
+  *** Revised^{3} Report on the Algorithmic Language Scheme (1986)
+
+  Abbreviated *R^{3}RS*, this was the first Scheme report laid on the now-familiar TeX template.
+
+  *Official documents (PDF):* [[https://standards.scheme.org/official/r3rs.pdf][R^{3}RS]]
+
+  ** More information
+
+  *** [[https://standards.scheme.org/early/][Early standards]]
+
+  *** [[https://standards.scheme.org/formal/][Formal standards (ISO and IEEE)]]
+
+  *** [[https://standards.scheme.org/process/][Standardization process]]
+
+  *See also:* [[https://research.scheme.org/][Scheme research]], especially the [[https://research.scheme.org/lambda-papers/][/lambda papers/]] from MIT.
+
+  --------------
+
+  [[https://standards.scheme.org/about/][About =standards.scheme.org=]]
+#+end_quote

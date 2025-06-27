@@ -1,0 +1,65 @@
+:PROPERTIES:
+:ID:       2e1a4710-e5f5-4c82-af3c-0ec21a2a32a3
+:ROAM_REFS: https://standards.scheme.org/early/
+:END:
+#+title: (standards.scheme.org) Scheme Standards (Early)
+#+filetags: :website:
+
+#+begin_quote
+  * Scheme Standards
+
+  ** Early standards
+
+  The first three reports on Scheme were published as research memos by the *MIT Artificial Intelligence Laboratory* (now [[https://www.csail.mit.edu/][CSAIL]]), the birthplace of both Lisp and Scheme.
+
+  These early reports are written in an informal tone with improvised typesetting.  The language definition is not as rigorous or comprehensive as in the later reports.  The language is still seeking its form.  These versions of Scheme are incompatible with modern Scheme and with each other.  No release of any Scheme implementation since about 1990 is based on them.
+
+  *** Retroactive naming convention
+
+  Modern Scheme reports are named *Revised^{n} Report on the Algorithmic Language Scheme*, abbreviated *R^{n}RS*.  The first standard explicitly named thus was [[https://standards.scheme.org/#r3rs][R^{3}RS]].  The names of the earlier reports have been retroactively abbreviated using the same pattern: R^{2}RS and R^{1}RS.  As a [[https://en.wikipedia.org/wiki/Exponentiation#Zero_exponent][mathematical pun]], the initial report is dubbed R^{0}RS since it isn't revised at all.
+
+  ** The three early reports
+
+  *** Scheme: An Interpreter for Extended Lambda Calculus (1975)
+
+  Abbreviated *R^{0}RS*
+
+  AI Memo No. 349
+
+  [[https://standards.scheme.org/official/r0rs.pdf][PDF]]
+
+  *** Revised Report on Scheme (1978)
+
+  Abbreviated *R^{1}RS*
+
+  AI Memo No. 452
+
+  [[https://standards.scheme.org/official/r1rs.pdf][PDF]]
+
+  *** Revised Revised Report on Scheme (1985)
+
+  Abbreviated *R^{2}RS*
+
+  AI Memo No. 848
+
+  People from Indiana University contributed to the design of the language.
+
+  [[https://standards.scheme.org/official/r2rs.pdf][PDF]]
+
+  The abstract of the paper was written as a poem:
+
+  #+begin_verse
+  /Data and procedures and the values they amass,\\
+  Higher-order functions to combine and mix and match,\\
+  Objects with their local state, the messages they pass,\\
+  A property, a package, the control point for a catch ---\\
+  In the Lambda Order they are all first-class.\\
+  One Thing to name them all, One Thing to define them,\\
+  One Thing to place them in environments and bind them,\\
+  In the Lambda Order they are all first-class./
+  #+end_verse
+
+  --------------
+
+  [[https://standards.scheme.org/early/about/][About =standards.scheme.org=]]
+#+end_quote

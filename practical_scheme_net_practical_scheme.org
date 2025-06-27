@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       1df1a2ec-1734-4b79-96bd-0d2e29c94cc3
+:ROAM_REFS: https://practical-scheme.net/
+:END:
+#+title: (practical-scheme.net) Practical Scheme
+#+filetags: :website:
+
+#+begin_quote
+  * Practical Scheme
+
+  This page is a collection of libraries and extensions to use Scheme as a production tool.  By "production tools" I mean the tools to process daily chores for systems engineers and programmers---parsing files, generate reports, watching processes, providing small GUI wrappers, and all sorts of those things.  Currently I'm using [[https://www.perl.org/][Perl]] for those purpose, but I'm always longing to use Scheme for them.  [[https://practical-scheme.net/oneday.html][So I started this page]].
+
+  Most stuffs in this site are done as my private project at home, except the ones explicitly stated otherwise.  I upload libraries even in its alpha/beta stage, since I'd like to test and use them at work, too.  In a way, my primary interest is to make /my/ life happier.  No warranty comes with them, as usual, but it'll be nice if somebody else finds they are useful.
+
+  If you can read Japanese, visit the [[https://practical-scheme.net/index-j.html][Japanese page]] which contains some translations of Lisp/Scheme related articles.
+
+  I wrote a Wiki Clone in Scheme ([[https://practical-scheme.net/gauche/index.html][Gauche]]).  Come and try it: [[https://practical-scheme.net/wiliki/wiliki.cgi?l=en][WiLiKi]].
+#+end_quote
+* (practical-scheme.net) R0RS
+:PROPERTIES:
+:ID:       3f4b1e6e-2d34-45c5-a0b9-dd6a5d8bd5d8
+:ROAM_REFS: https://practical-scheme.net/wiliki/schemexref.cgi?R0RS
+:END:
