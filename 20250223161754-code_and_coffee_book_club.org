@@ -393,3 +393,17 @@ Looking for the implementation of =assoc= in [[id:2ce20b11-e9e9-48b0-ab32-de7f41
 ***** [[id:c575f411-8c6f-40f7-a507-bfef7a9ca42c][(en.wikipedia.org) Farey sequence - Wikipedia]]
 ***** [[id:b0cc674c-8490-4af4-a228-cd41e051a100][(sarabander.github.io) SICP, 2e: 3.5, Footnote 186]]
 ***** Next session, continuing [[id:54d70486-2673-4a0e-81a4-0e31bd047b13][(sarabander.github.io) SICP, 2e: 3.5 Streams]]
+**** Session Fifteen, [2025-06-22 Sun 15:00-16:00]
+***** Current section, continuing [[id:54d70486-2673-4a0e-81a4-0e31bd047b13][(sarabander.github.io) SICP, 2e: 3.5 Streams]]
+***** [[id:f23ccb01-9834-4270-9157-e6892a892293][(sarabander.github.io) SICP, 2e: 3.5, Footnote 200]]
+***** [[id:8d97c9f0-dbd7-479c-aa43-625a81d41f68][(en.wikipedia.org) Continuation-passing style - Wikipedia]]
+***** [[https://www.gnu.org/software/guile/manual/html_node/Continuations.html][Continuations (Guile Reference Manual)]] from [[id:f6311b42-cf2d-490f-ac69-0075b82828b9][(www.gnu.org) Top (Guile Reference Manual)]]
+***** [[id:d5573759-691d-4e50-8a2f-88cb349aad28][(en.wikipedia.org) Hygienic macro - Wikipedia]]
+***** [[id:f4346f29-bfa9-40dd-ac24-46595b4912e5][(conservatory.scheme.org) R5RS: Revised⁵ Report on the Algorithmic Language Scheme]]
+****** [[https://conservatory.scheme.org/schemers/Documents/Standards/R5RS/HTML/r5rs-Z-H-4.html][Revised^5 Report on the Algorithmic Language Scheme - Chapter 1: Overview of Scheme]]
+#+begin_quote
+  Scheme has latent as opposed to manifest types.  Types are associated with values (also called objects) rather than with variables.  (Some authors refer to languages with latent types as weakly typed or dynamically typed languages.)  Other languages with latent types are APL, Snobol, and other dialects of Lisp.  Languages with manifest types (sometimes referred to as strongly typed or statically typed languages) include Algol 60, Pascal, and C.
+#+end_quote
+***** [[id:77a8ed9a-c63c-4f59-b1eb-71bdcf057070][(sarabander.github.io) SICP, 2e: 3.5, Footnote 204]]
+***** [[id:4ce14cbe-3b40-41af-bf7c-b4677450f635][(www.youtube.com) Oopsla Conference: Growing a Language - YouTube]]
+***** Next session, [[id:bf2fb2a1-46ab-4e61-9224-5e92d399cb97][(sarabander.github.io) SICP, 2e: 4.1 The Metacircular Evaluator]]

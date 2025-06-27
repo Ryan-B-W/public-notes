@@ -129,6 +129,24 @@ Main node: [[id:69d3e2e7-62dc-414f-90ee-86f4b4abbcb0][(sarabander.github.io) Str
 #+begin_quote
   There are many possible implementations of streams other than the one described in this section.  Delayed evaluation, which is the key to making streams practical, was inherent in Algol 60's /call-by-name/ parameter-passing method.  The use of this mechanism to implement streams was first described by [[https://sarabander.github.io/sicp/html/References.xhtml#Landin-_00281965_0029][Landin (1965)]].  Delayed evaluation for streams was introduced into Lisp by [[https://sarabander.github.io/sicp/html/References.xhtml#Friedman-and-Wise-_00281976_0029][Friedman and Wise (1976)]].  In their implementation, =cons= always delays evaluating its arguments, so that lists automatically behave as streams.  The memoizing optimization is also known as /call-by-need/.  The Algol community would refer to our original delayed objects as /call-by-name thunks/ and to the optimized versions as /call-by-need thunks/.
 #+end_quote
+*** (sarabander.github.io) SICP, 2e: 3.5, Footnote 200
+:PROPERTIES:
+:ID:       f23ccb01-9834-4270-9157-e6892a892293
+:ROAM_REFS: https://sarabander.github.io/sicp/html/3_002e5.xhtml#FOOT200
+:END:
+
+#+begin_quote
+  This is a small reflection, in Lisp, of the difficulties that conventional strongly typed languages such as Pascal have in coping with higher-order procedures.  In such languages, the programmer must specify the data types of the arguments and the result of each procedure: number, logical value, sequence, and so on.  Consequently, we could not express an abstraction such as “map a given procedure =proc= over all the elements in a sequence” by a single higher-order procedure such as =stream-map=.  Rather, we would need a different mapping procedure for each different combination of argument and result data types that might be specified for a =proc=.  Maintaining a practical notion of “data type” in the presence of higher-order procedures raises many difficult issues.  One way of dealing with this problem is illustrated by the language ML ([[https://sarabander.github.io/sicp/html/References.xhtml#Gordon-et-al_002e-1979][Gordon et al. 1979]]), whose “polymorphic data types” include templates for higher-order transformations between data types.  Moreover, data types for most procedures in ML are never explicitly declared by the programmer.  Instead, ML includes a /type-inferencing/ mechanism that uses information in the environment to deduce the data types for newly defined procedures.
+#+end_quote
+*** (sarabander.github.io) SICP, 2e: 3.5, Footnote 204
+:PROPERTIES:
+:ID:       77a8ed9a-c63c-4f59-b1eb-71bdcf057070
+:ROAM_REFS: https://sarabander.github.io/sicp/html/3_002e5.xhtml#FOOT204
+:END:
+
+#+begin_quote
+  The object model approximates the world by dividing it into separate pieces.  The functional model does not modularize along object boundaries.  The object model is useful when the unshared state of the “objects” is much larger than the state that they share.  An example of a place where the object viewpoint fails is quantum mechanics, where thinking of things as individual particles leads to paradoxes and confusions.  Unifying the object view with the functional view may have little to do with programming, but rather with fundamental epistemological issues.
+#+end_quote
 * (sarabander.github.io) SICP, 2e: Chapter 4 Metalinguistic Abstraction
 :PROPERTIES:
 :ID:       f357dc09-7f5c-4617-b488-7e5581610a81

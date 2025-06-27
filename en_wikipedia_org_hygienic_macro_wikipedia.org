@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       d5573759-691d-4e50-8a2f-88cb349aad28
+:ROAM_REFS: https://en.wikipedia.org/wiki/Hygienic_macro
+:END:
+#+title: (en.wikipedia.org) Hygienic macro - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Computer_science][computer science]], *hygienic macros* are [[https://en.wikipedia.org/wiki/Macro_(computer_science)][macros]] whose expansion is guaranteed not to cause the accidental [[https://en.wikipedia.org/wiki/Hygienic_macro#The_hygiene_problem][capture]] of [[https://en.wikipedia.org/wiki/Identifier][identifiers]].  They are a feature of [[https://en.wikipedia.org/wiki/Programming_language][programming languages]] such as [[https://en.wikipedia.org/wiki/Scheme_(programming_language)][Scheme]], [[https://en.wikipedia.org/wiki/Dylan_(programming_language)][Dylan]], [[https://en.wikipedia.org/wiki/Rust_(programming_language)][Rust]], [[https://en.wikipedia.org/wiki/Nim_(programming_language)][Nim]], and [[https://en.wikipedia.org/wiki/Julia_(programming_language)][Julia]].  The general problem of accidental capture was well known in the [[https://en.wikipedia.org/wiki/Lisp_(programming_language)][Lisp]] community before the introduction of hygienic macros.  Macro writers would use language features that would generate unique identifiers (e.g., gensym) or use obfuscated identifiers to avoid the problem.  Hygienic macros are a programmatic solution to the capture problem that is integrated into the macro expander.  The term "hygiene" was coined in Kohlbecker et al.'s 1986 paper that introduced hygienic macro expansion, inspired by terminology used in mathematics.
+#+end_quote
