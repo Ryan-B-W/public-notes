@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       bef01ede-4f4f-4557-9ffa-9f8c55865d4f
+:ROAM_REFS: https://beza1e1.tuxen.de/config_levels.html
+:END:
+#+title: (beza1e1.tuxen.de) The 5 Levels of Configuration Languages
+#+filetags: :configuration:computer_science:blog_post:website:
+
+#+begin_quote
+  * The 5 Levels of Configuration Languages
+
+  Code is data and data is code.  Years ago, I had a brief affair with Lisp and there I picked up this meme.  Today, I believe there are also benefits in separating code and data.
+
+  Glimpses of this debate come up whenever people discuss the syntax for yet another configuration schema.  There are 5 levels of power for configuration languages.  If you design a new schema, be aware of all of them.
+#+end_quote

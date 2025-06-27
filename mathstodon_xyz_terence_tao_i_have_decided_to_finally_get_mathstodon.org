@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       33d53d4f-2190-4bd3-b7be-814ec7a58311
+:ROAM_REFS: https://mathstodon.xyz/@tao/111206761117553482
+:END:
+#+title: (mathstodon.xyz) Terence Tao: "I have decided to finally get …" - Mathstodon
+#+filetags: :social_media:website:
+
+#+begin_quote
+  *Terence Tao* @tao@mathstodon.xyz
+
+  I have decided to finally get acquainted with the [[https://mathstodon.xyz/tags/Lean4][#Lean4]] interactive proof system (using AI assistance as necessary to help me use it), as I now have a sample result (in the theory of inequalities of finitely many real variables) which I recently completed (and which will be on the arXiv shortly), which should hopefully be fairly straightforward to formalize.  I plan to journal here my learning process, starting as someone who has not written a single line of Lean code before.
+
+  I had seen several demonstrations of Lean at the IPAM Machine assisted proof workshop, where it was also recommended that I try playing the Natural Number Game at [[https://www.ma.imperial.ac.uk/~buzzard/xena/natural_number_game][https://www.ma.imperial.ac.uk/~buzzard/xena/natural_number_game]] to get acquainted with the basic syntax and tactics used in Lean to prove theorems.  I found this game surprisingly familiar to me, as the results proven closely resemble those in the early chapters of my undergraduate real analysis book [[https://terrytao.wordpress.com/books/analysis-i/][https://terrytao.wordpress.com/books/analysis-i/]] (e.g., establishing basic arithmetic facts such as the commutativity and associativity of multiplication from the Peano axioms), and also reminds me of the logic game I coded at [[https://teorth.github.io/QED/][https://teorth.github.io/QED/]] .  After about three hours I made at as far as "advanced multplication"; I plan to continue with this later when I again have free time.
+
+  [[https://mathstodon.xyz/tags/GPT4][#GPT4]] is certainly aware of Lean and I can get useful responses from it to questions, though given the restricted set of tools available in the "natural number game", I have not found it directly useful for solving that game as its proposed solutions usually involve methods not incorporated into the game.  But I can see it being very helpful when I start working with Lean proper.
+#+end_quote

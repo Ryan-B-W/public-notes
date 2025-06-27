@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       cfdf22bb-41fd-48de-88f9-8aae858a880c
+:ROAM_REFS: https://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html
+:END:
+#+title: (mikehadlow.blogspot.com) Code rant: The Configuration Complexity Clock
+#+filetags: :configuration:computer_science:blog_post:website:
+
+#+begin_quote
+  *** [[https://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html][The Configuration Complexity Clock]]
+
+  When I was a young coder, just starting out in the big scary world of enterprise software, an older, far more experienced chap gave me a stern warning about hard coding values in my software.  “They /will/ have to change at some point, and you don't want to recompile and redeploy your application just to change the VAT tax rate.”  I took this advice to heart and soon every value that my application needed was loaded from a huge .ini file.  I still think it's good advice, but be warned, like most things in software, it's good advice /up to a point/.  Beyond that point lies pain.
+
+  Let me introduce you to my ‘Configuration Complexity Clock'.
+#+end_quote

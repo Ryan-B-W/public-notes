@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       73426d9a-d245-4102-a878-2b512ff18f63
+:ROAM_REFS: https://en.wikipedia.org/wiki/ArsDigita
+:END:
+#+title: (en.wikipedia.org) ArsDigita - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  *ArsDigita, LLC*, was a web development company founded in [[https://en.wikipedia.org/wiki/Cambridge,_Massachusetts][Cambridge, Massachusetts]] in 1997.  The company produced a popular [[https://en.wikipedia.org/wiki/Open_source][open source]] toolkit, the [[https://en.wikipedia.org/wiki/ArsDigita_Community_System][ArsDigita Community System]] (ACS), for building database-backed community websites, and flourished at the peak of the [[https://en.wikipedia.org/wiki/Dot-com_bubble][dot-com bubble]].  ACS was also the roots of [[https://en.wikipedia.org/wiki/OpenACS][OpenACS]], which added [[https://en.wikipedia.org/wiki/PostgreSQL][PostgreSQL]] as a database option and gave the system a fully open-source stack.
+#+end_quote

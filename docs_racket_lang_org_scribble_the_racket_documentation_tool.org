@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       d5f22abe-354e-4cd5-9dd3-ade88fb220f3
+:ROAM_REFS: https://docs.racket-lang.org/scribble/
+:END:
+#+title: (docs.racket-lang.org) Scribble: The Racket Documentation Tool
+#+filetags: :markup:typesetting:documentation:website:
+
+#+begin_quote
+  ** Scribble: The Racket Documentation Tool
+
+  by Matthew Flatt\\
+  and Eli Barzilay
+
+  Scribble is a collection of tools for creating prose documents---papers, books, library documentation, etc.---in HTML or PDF (via Latex) form.  More generally, Scribble helps you write programs that are rich in textual content, whether the content is prose to be typeset or any other form of text to be generated programmatically.
+
+  This document is itself written using Scribble.  You can see its source at [[https://github.com/racket/scribble/tree/master/scribble-doc/scribblings/scribble]], starting with the "scribble.scrbl" file.
+#+end_quote

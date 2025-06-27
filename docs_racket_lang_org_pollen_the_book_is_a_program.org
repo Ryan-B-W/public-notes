@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       4c80c6b9-8b17-4d78-93fb-14565209c7fe
+:ROAM_REFS: https://docs.racket-lang.org/pollen/
+:END:
+#+title: (docs.racket-lang.org) Pollen: the book is a program
+
+#+begin_quote
+  ** Pollen: the book is a program
+
+  =#lang pollen=\\
+  package: [[https://pkgs.racket-lang.org/package/pollen][pollen]]
+
+  Pollen is a publishing system that helps authors make functional and beautiful digital books.
+
+  I created Pollen so I could make my web-based books [[http://practicaltypography.com/][Practical Typography]], [[http://typographyforlawyers.com/][Typography for Lawyers]], and [[http://beautifulracket.com/][Beautiful Racket]].  Sure, go take a look.  Are they better than the last digital books you encountered?  Yes they are.  Would you like your next digital book to work like that?  If so, keep reading.
+
+  At the core of Pollen is an argument:
+
+  1. Digital books should be the best books we've ever had.  So far, they're not even close.
+
+  2. Because digital books are software, an author shouldn't think of a book as merely data.  The book is a program.
+
+  3. The way we make digital books better than their predecessors is by exploiting this programmability.
+
+  That's what Pollen is for.
+
+  Not that you need to be a programmer to start using Pollen.  On the contrary, the Pollen language is markup-based, so you can write & edit text naturally.  But when you want to automate repetitive tasks, add cross-references, or pull in data from other sources, you can access a full programming language from within the text.
+
+  That language is [[http://racket-lang.org/][Racket]].  I chose Racket because it has some unique features that made Pollen possible.  So if it's unfamiliar to you, don't panic.  It was unfamiliar to me.  Once you see what you can do with Racket & Pollen, you may be persuaded.  I was.
+
+  Or, if you can find a better digital-publishing tool, use that.  But I'm never going back to the way I used to work.
+#+end_quote
+Links to:
+ - [[id:c644b8c1-1a34-4653-a340-ef4cfe22fbfe][(practicaltypography.com) Type composition | Butterick’s Practical Typography]]

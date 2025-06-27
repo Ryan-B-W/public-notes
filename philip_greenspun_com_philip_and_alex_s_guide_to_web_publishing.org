@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       5677d531-03d8-4baa-bbb4-0c483568c663
+:ROAM_REFS: https://philip.greenspun.com/panda/
+:END:
+#+title: (philip.greenspun.com) Philip and Alex's Guide to Web Publishing
+#+filetags: :www:books:website:
