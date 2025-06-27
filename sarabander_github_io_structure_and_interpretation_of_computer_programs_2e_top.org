@@ -120,6 +120,15 @@ Main node: [[id:69d3e2e7-62dc-414f-90ee-86f4b4abbcb0][(sarabander.github.io) Str
 :ID:       54d70486-2673-4a0e-81a4-0e31bd047b13
 :ROAM_REFS: https://sarabander.github.io/sicp/html/3_002e5.xhtml
 :END:
+*** (sarabander.github.io) SICP, 2e: 3.5, Footnote 186
+:PROPERTIES:
+:ID:       b0cc674c-8490-4af4-a228-cd41e051a100
+:ROAM_REFS: https://sarabander.github.io/sicp/html/3_002e5.xhtml#FOOT186
+:END:
+
+#+begin_quote
+  There are many possible implementations of streams other than the one described in this section.  Delayed evaluation, which is the key to making streams practical, was inherent in Algol 60's /call-by-name/ parameter-passing method.  The use of this mechanism to implement streams was first described by [[https://sarabander.github.io/sicp/html/References.xhtml#Landin-_00281965_0029][Landin (1965)]].  Delayed evaluation for streams was introduced into Lisp by [[https://sarabander.github.io/sicp/html/References.xhtml#Friedman-and-Wise-_00281976_0029][Friedman and Wise (1976)]].  In their implementation, =cons= always delays evaluating its arguments, so that lists automatically behave as streams.  The memoizing optimization is also known as /call-by-need/.  The Algol community would refer to our original delayed objects as /call-by-name thunks/ and to the optimized versions as /call-by-need thunks/.
+#+end_quote
 * (sarabander.github.io) SICP, 2e: Chapter 4 Metalinguistic Abstraction
 :PROPERTIES:
 :ID:       f357dc09-7f5c-4617-b488-7e5581610a81

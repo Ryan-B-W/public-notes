@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       c575f411-8c6f-40f7-a507-bfef7a9ca42c
+:ROAM_REFS: https://en.wikipedia.org/wiki/Farey_sequence
+:END:
+#+title: (en.wikipedia.org) Farey sequence - Wikipedia
+#+filetags: :mathematics:website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Mathematics][mathematics]], the *Farey sequence* of order /n/ is the [[https://en.wikipedia.org/wiki/Sequence][sequence]] of completely reduced [[https://en.wikipedia.org/wiki/Fraction][fractions]], either between 0 and 1, or without this restriction, which have [[https://en.wikipedia.org/wiki/Denominator][denominators]] less than or equal to /n/, arranged in order of increasing size.
+
+  With the restricted definition, each Farey sequence starts with the value 0, denoted by the fraction
+
+  ⁠0/1⁠, and ends with the value 1, denoted by the fraction ⁠1/1⁠ (although some authors omit these terms).
+
+  A /Farey sequence/ is sometimes called a Farey [[https://en.wikipedia.org/wiki/Series_(mathematics)][/series/]], which is not strictly correct, because the terms are not summed.
+#+end_quote

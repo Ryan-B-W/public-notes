@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       24a8571b-941b-46de-9db1-bd5756dcc62f
+:ROAM_REFS: https://en.wikipedia.org/wiki/Cantor's_diagonal_argument
+:END:
+#+title: (en.wikipedia.org) Cantor's diagonal argument - Wikipedia
+#+filetags: :mathematics:website:
+
+#+begin_quote
+  *Cantor's diagonal argument* (among various similar names) is a [[https://en.wikipedia.org/wiki/Mathematical_proof][mathematical proof]] that there are [[https://en.wikipedia.org/wiki/Infinite_set][infinite sets]] which cannot be put into [[https://en.wikipedia.org/wiki/Bijection][one-to-one correspondence]] with the infinite set of [[https://en.wikipedia.org/wiki/Natural_number][natural numbers]] -- informally, that there are [[https://en.wikipedia.org/wiki/Set_(mathematics)][sets]] which in some sense contain more elements than there are positive integers.  Such sets are now called [[https://en.wikipedia.org/wiki/Uncountable_set][uncountable sets]], and the size of infinite sets is treated by the theory of [[https://en.wikipedia.org/wiki/Cardinal_number][cardinal numbers]], which Cantor began.
+
+  [[https://en.wikipedia.org/wiki/Georg_Cantor][Georg Cantor]] published this proof in 1891, but it was not [[https://en.wikipedia.org/wiki/Cantor's_first_uncountability_proof][his first proof]] of the uncountability of the [[https://en.wikipedia.org/wiki/Real_number][real numbers]], which appeared in 1874.  However, it demonstrates a general technique that has since been used in a wide range of proofs, including the first of [[https://en.wikipedia.org/wiki/Gödel's_incompleteness_theorems][Gödel's incompleteness theorems]] and Turing's answer to the /[[https://en.wikipedia.org/wiki/Entscheidungsproblem][Entscheidungsproblem]]/.  Diagonalization arguments are often also the source of contradictions like [[https://en.wikipedia.org/wiki/Russell's_paradox][Russell's paradox]] and [[https://en.wikipedia.org/wiki/Richard's_paradox][Richard's paradox]].
+#+end_quote
