@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       4e1a8d1b-c272-4b55-9f9b-5370d04e95cb
+:ROAM_REFS: https://pragprog.com/titles/uboop/from-objects-to-functions/
+:END:
+#+title: (pragprog.com) From Objects to Functions: Build Your Software Faster and Safer with Functional Programming and Kotlin by Uberto Barbini
+#+filetags: :website:
+
+#+begin_quote
+  * From Objects to Functions
+
+  ** Build Your Software Faster and Safer with Functional Programming and Kotlin
+
+  ** by Uberto Barbini
+
+  Build applications quicker and with less effort using functional programming and Kotlin.  Learn by building a complete application, from gathering requirements to delivering a microservice architecture following functional programming principles.  Learn how to implement CQRS and EventSourcing in a functional way to map the domain into code better and to keep the cost of change low for the whole application life cycle.
+
+  If you're curious about functional programming or you are struggling with how to put it into practice, this guide will help you increase your productivity composing small functions together instead of creating fat objects.
+
+  *** eBook Formats:
+
+  - PDF for desktop/tablets
+
+  - epub for Apple Books, e-readers
+
+  - mobi for Kindle readers
+
+  Get all eBook formats here for *$29.95* (USD)
+
+  [[https://transactions.sendowl.com/packages/819729/124ED2E3/add_to_cart][Add to Cart]]
+
+  [[https://pragprog.com/img/cclogos.png]]
+
+  --------------
+
+  *** Paperback Formats:
+
+  - [[https://bookshop.org/a/2696//9781680508451][Order via Bookshop]] (U.S. Only)
+
+  Please support indie bookstores!\\
+  Find [[https://www.indiebound.org/][indie bookstores in the U.S.]] Find [[https://www.biblio.com/bookstores/][indie bookstores around the world]].
+
+  --------------
+
+  Switching to the functional paradigm isn't easy when you're used to object-oriented programming.  You need more than just lambdas and mapping over collections to get a declarative style and disentangle the state from the computations.  Use transformations and compositions to help you write less code with better results.  Boost your productivity and harness the power of functional programming by creating real-world applications rather than focusing on theoretical concepts.
+
+  Work through a series of short exercises to find and compose pure functions, and create data structures that work like algebra.  Get rid of mutable state in your software to eliminate the main source of bugs.  Apply CQRS and EventSourcing patterns to translate stakeholder requirements into functional design and then into code.  See how Kotlin's easy-to-learn syntax and functional-friendly approach make it a great option for a pragmatic language that integrates well with existing Java code and libraries.
+
+  Leverage functional programming to build and deliver robust applications in less time and with fewer defects.
+#+end_quote
