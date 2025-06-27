@@ -202,6 +202,19 @@ A relatively popular [[id:6246f8d4-6cd4-489d-b19f-9c1142b51b60][Scheme]] impleme
 
   Peter Henderson has written an updated version of [[http://eprints.ecs.soton.ac.uk/7577/01/funcgeo2.pdf][Functional Geometry]], which explains how to construct the Escher fish image.
 #+end_quote
+*** (docs.racket-lang.org) The Typed Racket Guide
+:PROPERTIES:
+:ID:       80c38d1f-3f2f-4a11-bb5f-87e721ae7672
+:ROAM_REFS: https://docs.racket-lang.org/ts-guide/
+:END:
+
+#+begin_quote
+  ** The Typed Racket Guide
+
+  Typed Racket is Racket's gradually-typed sister language which allows the incremental addition of statically-checked type annotations.  This guide is intended for programmers familiar with Racket.  For an introduction to Racket, see [[https://docs.racket-lang.org/guide/index.html][The Racket Guide]].
+
+  For the precise details, also see [[https://docs.racket-lang.org/ts-reference/index.html][The Typed Racket Reference]].
+#+end_quote
 * (github.com) Racket                                               :website:
 :PROPERTIES:
 :ID:       84ff8493-203f-4120-a6b6-4b92ce184786

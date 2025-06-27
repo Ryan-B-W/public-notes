@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       01a6fd50-c5a7-449d-a43b-d1e32441ea96
-:ROAM_REFS: https://thelittletyper.com/
-:END:
-#+title: (thelittletyper.com) The Little Typer
-#+filetags: :programming_type_systems:computer_science:books:website:

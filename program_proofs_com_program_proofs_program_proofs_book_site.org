@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       2243afc2-ba80-4647-b1c6-8af866ba7d80
+:ROAM_REFS: https://program-proofs.com/
+:END:
+#+title: (program-proofs.com) Program Proofs · Program Proofs book site
+#+filetags: :computer_science:mathematics:books:website:

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       bdb602c5-77e3-44b0-a9d8-f8b8cb6759a2
+:ROAM_REFS: https://shd.mit.edu/2024/recitations/formal.html
+:END:
+#+title: (shd.mit.edu) Formal Verification | 6.5950/6.5951
+#+filetags: :website:
+
+#+begin_quote
+  [[https://shd.mit.edu/2024/][6.5950/6.5951]]
+
+  * Formal Verification of RTL Implementation
+
+  Formal verification is a well-explored research area and has been shown to be effective in hardware verification.  In this recitation, we will provide an overview of one type of formal verification technique, called bounded model checking.  You will learn how to use a powerful toolchain that combines Yosys, Rosette, and several scripts to perform bounded model checking and find processor bugs on RTL code.  It will give you a taste on how to perform automatic bug finding and understand the challenges of this topic.
+
+  We will start by giving you the big picture of formal verification and how the toolchain will help acheive our goals.  Next, we will go through the basics of Rosette, which programs using a functional programming lanaguge.  It might be a pain to swtich from C/Python to a functional programming lanague, but we will go through the start code with you and get you fully prepared.  Finally, you will try to play with the toolchain and automatically find bugs as you like.
+#+end_quote

@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       5a7d9a88-3953-488f-9fa9-5d3765283524
+:ROAM_ALIASES: "The Little Typer by Daniel P. Friedman and David Thrane Christiansen"
+:END:
+#+title: The Little Typer
+#+filetags: :programming_type_systems:computer_science:books:
+
+* (thelittletyper.com) The Little Typer                             :website:
+:PROPERTIES:
+:ID:       01a6fd50-c5a7-449d-a43b-d1e32441ea96
+:ROAM_REFS: https://thelittletyper.com/
+:END:
+* (mitpress.mit.edu) The Little Typer                               :website:
+:PROPERTIES:
+:ID:       aa149baf-1418-499e-ba86-47ae93a5d4a1
+:ROAM_REFS: https://mitpress.mit.edu/9780262536431/the-little-typer/
+:END:
+
+#+begin_quote
+  * The Little Typer
+
+  by [[https://mitpress.mit.edu/author/daniel-p-friedman-2654][Daniel P. Friedman]] and [[https://mitpress.mit.edu/author/david-thrane-christiansen-5306][David Thrane Christiansen]]
+
+  Illustrated by [[https://mitpress.mit.edu/author/duane-bibby-1763][Duane Bibby]]
+
+  Foreword by [[https://mitpress.mit.edu/author/robert-harper-6595][Robert Harper]]
+
+  Afterword by [[https://mitpress.mit.edu/author/conor-mcbride-33179][Conor McBride]]
+
+  ** Description
+
+  An introduction to dependent types, demonstrating the most beautiful aspects, one step at a time.
+
+  A program's type describes its behavior.  Dependent types are a first-class part of a language, and are much more powerful than other kinds of types; using just one language for types and programs allows program descriptions to be as powerful as the programs they describe.  /The Little Typer/ explains dependent types, beginning with a very small language that looks very much like Scheme and extending it to cover both programming with dependent types and using dependent types for mathematical reasoning.  Readers should be familiar with the basics of a Lisp-like programming language, as presented in the first four chapters of /The Little Schemer/.
+
+  The first five chapters of /The Little Typer/ provide the needed tools to understand dependent types; the remaining chapters use these tools to build a bridge between mathematics and programming.  Readers will learn that tools they know from programming---pairs, lists, functions, and recursion---can also capture patterns of reasoning.  /The Little Typer/ does not attempt to teach either practical programming skills or a fully rigorous approach to types.  Instead, it demonstrates the most beautiful aspects as simply as possible, one step at a time.
+#+end_quote

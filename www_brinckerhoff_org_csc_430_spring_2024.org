@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       66812eb5-7da5-448e-ac21-c38eacb9a482
+:ROAM_REFS: https://www.brinckerhoff.org/clements/2244-csc430/index.html
+:END:
+#+title: (www.brinckerhoff.org) CSC 430, Spring 2024
+#+filetags: :website:
+
+#+begin_quote
+  ** CSC 430, Spring 2024
+
+  *** Welcome!
+
+  Ah, Spring.  The time of rebirth!  Growing!  Um... graduation!
+
+  As always, our highest-level goal is to make the world a better place, and to make you happier, healthier, and better able to make the world a better place yourselves.
+
+  So, what exactly does that have to do with programming languages?  Well, the tools and ideas of programming languages *can* be deep ones that affect the way you work and think for the rest of your life.  Or, at a much lower level, maybe we can help you write programs a bit more carefully and correctly.  It's up to you!  (Well, I suppose it's partly our fault if it doesn't work out right, too.)
+
+  *** About the Course
+
+  Programming languages determine what programs we can write.  Languages with nice abstractions allow us to write elegant, concise, and readable programs.
+
+  In this class, we'll start from scratch, and build a programming language by adding only what's necessary.  What we'll discover is that this simplistic approach leads to some really powerful abstractions.  You can do more with less!
+
+  At the end of the course, you should be a better programmer.  You should also have a clearer picture of a given language as a choice in a larger design space, and be better able to understand new programming languages and the similarities between them.  Finally, you may develop some taste for what you like in a programming language.
+
+  This course will involve lots of programming in Racket.  I choose Racket for several reasons.  First, “functional” programming languages make this kind of course feasible.  Writing a series of interpreters in another language would probably involve a whole lot more code.  Second, Racket is a wonderful, beautiful language that is probably pretty dramatically different from other languages that you've used.  (You can tell I'm totally not biased at all.)  Finally, as one of the developers of Racket, running this course in Racket creates a positive feedback loop; your experiences can help to improve the language, especially since Racket is a language that can easily be extended and updated.  If these reasons don't make sense to you, then... perhaps you need to take the course!
+#+end_quote

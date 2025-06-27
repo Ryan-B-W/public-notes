@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       370bf678-66bf-4656-9091-c25c36804164
+:ROAM_REFS: https://en.wikipedia.org/wiki/Hypercomputation
+:END:
+#+title: (en.wikipedia.org) Hypercomputation - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  *Hypercomputation* or *super-Turing computation* is a set of hypothetical [[https://en.wikipedia.org/wiki/Model_of_computation][models of computation]] that can provide outputs that are not [[https://en.wikipedia.org/wiki/Turing-computable][Turing-computable]].  For example, a machine that could solve the [[https://en.wikipedia.org/wiki/Halting_problem][halting problem]] would be a hypercomputer; so too would one that could [[https://en.wikipedia.org/wiki/Entscheidungsproblem][correctly evaluate every statement]] in [[https://en.wikipedia.org/wiki/Peano_arithmetic][Peano arithmetic]].
+
+  The [[https://en.wikipedia.org/wiki/Church–Turing_thesis][Church--Turing thesis]] states that any "computable" function that can be computed by a mathematician with a pen and paper using a finite set of simple algorithms, can be computed by a Turing machine.  Hypercomputers compute functions that a [[https://en.wikipedia.org/wiki/Turing_machine][Turing machine]] cannot and which are, hence, not computable in the Church--Turing sense.
+
+  Technically, the output of a [[https://en.wikipedia.org/wiki/Random_Turing_machine][random Turing machine]] is uncomputable; however, most hypercomputing literature focuses instead on the [[https://en.wikipedia.org/wiki/Computation][computation]] of deterministic, rather than random, uncomputable functions.
+#+end_quote

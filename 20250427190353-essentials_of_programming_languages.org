@@ -4,6 +4,34 @@
 #+title: Essentials of Programming Languages
 #+filetags: :programming_language_design:software_development:programming:computer_science:books:
 
+* (eopl3.com) Essentials of Programming Languages: 3rd edition      :website:
+:PROPERTIES:
+:ID:       5875daf0-19f7-4ef9-93b0-b66531f638b9
+:ROAM_REFS: https://eopl3.com/
+:END:
+
+#+begin_quote
+  * Essentials of Programming Languages
+
+  ** Third Edition
+
+  This is the authors' home page for EOPL3.
+
+  *** *EOPL3 Materials*
+
+  - [[https://eopl3.com/preface.html][Preface]]
+  - The MIT Press [[https://mitpress.mit.edu/9780262062794/essentials-of-programming-languages/][homepage]].
+  - The code and errata are now on [[https://github.com/mwand/eopl3][Github]].  The code has now been updated and should run right out of the box on Racket version 5.3.6. Pull requests are welcome.
+  - To run any of the languages, select "Choose language from source", and run top.scm in any of the language directories (chapterN/*-lang).
+  - [[http://groups.google.com/group/eopl3][Google group]] for EOPL3.  This is intended as a discussion list for instructors and others using any edition of EOPL.  Right now, this list is entirely public.  If there is sufficient interest, we can create a private group for instructors.
+  - [[https://eopl3.com/courses.html][Courses]] using EOPL (any edition).  Please send updates to [[mailto://wand@ccs.neu.edu][wand@ccs.neu.edu]].
+  - The old home page for [[http://www.cs.indiana.edu/eopl/][EOPL2]] for EOPL at Indiana.
+  - The old home page for [[http://www.cs.indiana.edu/eip/eopl.html][EOPL1]] at Indiana.
+
+  *** *Related links*
+
+  Let us know if you have material that might be added to this list.
+#+end_quote
 * (en.wikipedia.org) Essentials of Programming Languages - Wikipedia :website:
 :PROPERTIES:
 :ID:       ac9ac4a4-d0a2-4119-b26f-b46b532c4b4d

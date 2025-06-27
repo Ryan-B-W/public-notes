@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       b62e6648-2208-48f8-9825-0f03dbd2ca5b
+:ROAM_REFS: https://en.wikipedia.org/wiki/Church_encoding
+:END:
+#+title: (en.wikipedia.org) Church encoding - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Mathematics][mathematics]], *Church encoding* is a means of representing data and operators in the [[https://en.wikipedia.org/wiki/Lambda_calculus][lambda calculus]].  The *Church numerals* are a representation of the natural numbers using lambda notation.  The method is named for [[https://en.wikipedia.org/wiki/Alonzo_Church][Alonzo Church]], who first encoded data in the lambda calculus this way.
+
+  Terms that are usually considered primitive in other notations (such as integers, Booleans, pairs, lists, and tagged unions) are mapped to [[https://en.wikipedia.org/wiki/Higher-order_function][higher-order functions]] under Church encoding.  The [[https://en.wikipedia.org/wiki/Church–Turing_thesis][Church--Turing thesis]] asserts that any computable operator (and its operands) can be represented under Church encoding.  In the [[https://en.wikipedia.org/wiki/Lambda_calculus][untyped lambda calculus]] the only primitive data type is the function.
+#+end_quote
