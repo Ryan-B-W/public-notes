@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       e9e88e22-ee20-409f-b638-ec200e108144
+:ROAM_REFS: https://www.crowdsupply.com/neuroidss/freeeeg32
+:END:
+#+title: (www.crowdsupply.com) FreeEEG32 | Crowd Supply
+#+filetags: :website:

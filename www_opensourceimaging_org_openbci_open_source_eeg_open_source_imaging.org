@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       597d3cb2-3523-464f-b8ca-ffd19559db02
+:ROAM_REFS: https://www.opensourceimaging.org/project/openbci/
+:END:
+#+title: (www.opensourceimaging.org) OpenBCI – Open-source EEG – Open Source Imaging
+#+filetags: :website:

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       ff7612a0-2d36-4772-ace3-5c451bfd1842
+:ROAM_REFS: https://www.microwavejournal.com/ext/resources/whitepapers/2015/May-2015/HS-ADC-never-has-enough-SNR_FINAL.pdf
+:END:
+#+title: (www.microwavejournal.com) HS-ADC-never-has-enough-SNR_FINAL.pdf
+#+filetags: :electronics:mime_type_application_pdf:website:

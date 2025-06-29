@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       c7fef0b0-e48f-4fdc-b64e-315929dded2c
+:ROAM_REFS: https://www.techrxiv.org/users/686330/articles/679682-beats-an-open-source-high-precision-multi-channel-eeg-acquisition-tool-system
+:END:
+#+title: (www.techrxiv.org) BEATS: An Open-Source, High-Precision, Multi-Channel EEG Acquisition Tool System - TechRxiv
+#+filetags: :website:
+
+#+begin_quote
+  ** Abstract
+
+  Stable and accurate electroencephalogram (EEG) signal acquisition is fundamental in non-invasive brain-computer interface (BCI) technology.  Commonly used EEG acquisition system's hardware and software are usually closed-source.  Its inability to flexible expansion and secondary development is a major obstacle to real-time BCI research.  This paper presents the Beijing University of Posts and Telecommunications EEG Acquisition Tool System named BEATS.  It implements a comprehensive system from hardware to software, composed of the analog front-end, microprocessor, and software platform.  BEATS is capable of collecting 32-channel EEG signals at a guaranteed sampling rate of 4k Hz with wireless transmission.  Compared to state-of-the-art systems used in many EEG fields, it displays a better sampling rate.  Using techniques including direct memory access, first in first out, and timer, the precision and stability of the acquisition are ensured at the microsecond level.  An evaluation is conducted during 24 hours of continuous acquisitions.  The data loss is 0 packets and the average maximum delay is only 0.07 s/h.  Moreover, as an open source system, BEATS provides detailed design files, and adopts a plug-in structure and easy-to-access materials, which makes it can be quickly reproduced.  Schematics, source code, and other materials of BEATS are available at https://github.com/buptantEEG/BEATS.
+#+end_quote

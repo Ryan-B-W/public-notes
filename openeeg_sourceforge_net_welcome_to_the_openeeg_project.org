@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       edc247df-72f3-4ef6-9deb-efc315ffba59
+:ROAM_REFS: https://openeeg.sourceforge.net/doc/
+:END:
+#+title: (openeeg.sourceforge.net) Welcome to the OpenEEG project
+#+filetags: :website:
+
+#+begin_quote
+  * Welcome to the OpenEEG project
+
+  *** About the project
+
+  Many people are interested in what is called neurofeedback or EEG biofeedback training, a generic mental training method which makes the trainee consciously aware of the general activity in the brain.  This method shows great potential for improving many mental capabilities and exploring consciousness.  Other people want to do experiments with brain-computer interfaces or just want to have a look at their brain at work.
+
+  Unfortunately, commercial EEG devices are generally too expensive to become a hobbyist tool or toy.
+
+  The OpenEEG project is about making plans and software for do-it-yourself EEG devices available for free (as in GPL).  It is aimed toward amateurs who would like to experiment with EEG.  However, if you are a pro in any of the fields of electronics, neurofeedback, software development etc., you are of course welcome to join the mailing-list and share your wisdom.
+
+  Right now, this site is mostly about the hardware; schematics, part lists, building instructions etc.  However, a few members have developed some useful software which is hosted on their own websites.  You can find these through the software pages.
+
+  *** Some regulatory business
+
+  Commercial and clinical EEG devices must live up to certain standards.  This is good, since it provides a measure of protection for a user or patient.  Obviously, we cannot provide such guarantees, as the OpenEEG project consists of a loosely knit group of people from all over the world.  Thus, it is not an organization in the legal sense (especially since we do not have any money).  Some people are not even American, so you can't really sue them and hope to win a million dollars in damages either.
+
+  The designers have done their best to create a safe device, but knowing whether the effort is good enough is a completely different matter (an $8000 matter actually).  Therefore: everything is provided as is, without any warranty of any kind, expressed or implied.
+
+  In other words, if you decide to build and use one -- the responsibility is yours.
+
+  (For more information see our [[http://openeeg.sourceforge.net/doc/WARNING.html][WARNING]] file which is included in each of our archive releases)
+#+end_quote

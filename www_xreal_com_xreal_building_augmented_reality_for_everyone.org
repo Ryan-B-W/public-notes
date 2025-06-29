@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       3f7c73e7-38dd-4bd5-b8f3-74498febe924
+:ROAM_REFS: https://www.xreal.com/
+:END:
+#+title: (www.xreal.com) XREAL - Building Augmented Reality for Everyone
+#+filetags: :hardware:electronics:store:augmented_reality:ar_vr:website:
+
+Company that makes augmented reality glasses, primarily virtual display AR glasses.

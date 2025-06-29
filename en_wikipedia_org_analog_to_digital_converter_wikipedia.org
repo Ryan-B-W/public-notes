@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       b795f045-cd2a-4d96-afce-0c0eccf3a130
+:ROAM_REFS: https://en.wikipedia.org/wiki/Analog-to-digital_converter
+:END:
+#+title: (en.wikipedia.org) Analog-to-digital converter - Wikipedia
+#+filetags: :electronics:website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Electronics][electronics]], an *analog-to-digital converter* (*ADC*, *A/D*, or *A-to-D*) is a system that converts an [[https://en.wikipedia.org/wiki/Analog_signal][analog signal]], such as a sound picked up by a [[https://en.wikipedia.org/wiki/Microphone][microphone]] or light entering a [[https://en.wikipedia.org/wiki/Digital_camera][digital camera]], into a [[https://en.wikipedia.org/wiki/Digital_signal_(signal_processing)][digital signal]].  An ADC may also provide an isolated measurement such as an [[https://en.wikipedia.org/wiki/Electronic_device][electronic device]] that converts an analog input [[https://en.wikipedia.org/wiki/Voltage][voltage]] or [[https://en.wikipedia.org/wiki/Electric_current][current]] to a digital number representing the magnitude of the voltage or current.  Typically the digital output is a [[https://en.wikipedia.org/wiki/Two's_complement][two's complement]] binary number that is proportional to the input, but there are other possibilities.
+
+  There are several ADC [[https://en.wikipedia.org/wiki/Hardware_architecture][architectures]].  Due to the complexity and the need for precisely matched [[https://en.wikipedia.org/wiki/Electronic_component][components]], all but the most specialized ADCs are implemented as [[https://en.wikipedia.org/wiki/Integrated_circuit][integrated circuits]] (ICs).  These typically take the form of [[https://en.wikipedia.org/wiki/Metal–oxide–semiconductor][metal--oxide--semiconductor]] (MOS) [[https://en.wikipedia.org/wiki/Mixed-signal_integrated_circuit][mixed-signal integrated circuit]] chips that integrate both [[https://en.wikipedia.org/wiki/Analogue_electronics][analog]] and [[https://en.wikipedia.org/wiki/Digital_circuits][digital circuits]].
+
+  A [[https://en.wikipedia.org/wiki/Digital-to-analog_converter][digital-to-analog converter]] (DAC) performs the reverse function; it converts a digital signal into an analog signal.
+#+end_quote

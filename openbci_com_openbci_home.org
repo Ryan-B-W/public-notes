@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       0a38264f-f9fc-4866-a2c0-db7eca179495
+:ROAM_REFS: https://openbci.com/
+:END:
+#+title: (openbci.com) OpenBCI | Home
+#+filetags: :website:

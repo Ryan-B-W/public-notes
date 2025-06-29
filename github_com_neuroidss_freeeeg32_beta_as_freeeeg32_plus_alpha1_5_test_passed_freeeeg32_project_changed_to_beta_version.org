@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       8f1d56d6-87be-40aa-b51d-60bea05c34ed
+:ROAM_REFS: https://github.com/neuroidss/FreeEEG32-beta
+:END:
+#+title: (github.com) neuroidss/FreeEEG32-beta: as FreeEEG32 plus alpha1.5 test passed, FreeEEG32 project changed to beta version
+#+filetags: :website:

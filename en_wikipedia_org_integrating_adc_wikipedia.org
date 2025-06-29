@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       fb01901f-16aa-420f-b48f-3f6ae5acf88f
+:ROAM_REFS: https://en.wikipedia.org/wiki/Integrating_ADC
+:END:
+#+title: (en.wikipedia.org) Integrating ADC - Wikipedia
+#+filetags: :electronics:website:
+
+#+begin_quote
+  An *integrating ADC* is a type of [[https://en.wikipedia.org/wiki/Analog-to-digital_converter][analog-to-digital converter]] that converts an unknown input voltage into a digital representation through the use of an [[https://en.wikipedia.org/wiki/Operational_amplifier_applications#Inverting_integrator][integrator]].  In its basic implementation, the dual-slope converter, the unknown input voltage is applied to the input of the integrator and allowed to ramp for a fixed time period (the run-up period).  Then a known reference voltage of opposite polarity is applied to the integrator and is allowed to ramp until the integrator output returns to zero (the run-down period).  The input voltage is computed as a function of the reference voltage, the constant run-up time period, and the measured run-down time period.  The run-down time measurement is usually made in units of the converter's clock, so longer integration times allow for higher resolutions.  Likewise, the speed of the converter can be improved by sacrificing resolution.
+
+  Converters of this type can achieve high resolution, but often do so at the expense of speed.  For this reason, these converters are not found in audio or signal processing applications.  Their use is typically limited to digital voltmeters and other instruments requiring highly accurate measurements.
+#+end_quote

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       d393d920-98a3-419b-8858-8d02b5ee9a36
+:ROAM_REFS: https://en.wikipedia.org/wiki/Flash_ADC
+:END:
+#+title: (en.wikipedia.org) Flash ADC - Wikipedia
+#+filetags: :electronics:website:
+
+#+begin_quote
+  A *flash ADC* (also known as a *direct-conversion ADC*) is a type of [[https://en.wikipedia.org/wiki/Analog-to-digital_converter][analog-to-digital converter]] that uses a linear [[https://en.wikipedia.org/wiki/Voltage_ladder][voltage ladder]] with a [[https://en.wikipedia.org/wiki/Comparator][comparator]] at each "rung" of the ladder to compare the input voltage to successive reference voltages.  Often these reference ladders are constructed of many [[https://en.wikipedia.org/wiki/Resistor][resistors]]; however, modern implementations show that capacitive voltage division is also possible.  The output of these comparators is generally fed into a digital encoder, which converts the inputs into a binary value (the collected outputs from the comparators can be thought of as a [[https://en.wikipedia.org/wiki/Unary_numeral_system][unary]] value).
+
+  A fewer component 2-bit ADC is [[https://snipboard.io/k4nNYD.jpg]].  This configuration will never go to 0 0 when the input voltage increases.
+#+end_quote

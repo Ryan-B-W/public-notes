@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       0fe37bf4-4a1a-4132-a18c-d8b82ab7f111
+:ROAM_REFS: https://www.ti.com/lit/eb/slyy192a/slyy192a.pdf
+:END:
+#+title: (www.ti.com) Fundamentals of Precision ADC Noise Analysis (Rev. A) - slyy192a.pdf
+#+filetags: :electronics:mime_type_application_pdf:website:
