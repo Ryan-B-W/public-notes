@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       6d00e966-ad1f-4975-aa86-c84b3362cdf0
+:ROAM_REFS: https://www.visualcapitalist.com/mapped-median-income-by-state-in-2024/
+:END:
+#+title: (www.visualcapitalist.com) Mapped: Median Income by State in 2024
+#+filetags: :visualization:website:

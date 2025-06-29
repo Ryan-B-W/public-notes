@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       3bed6474-0a7d-44bd-8936-66333f9ec63b
+:ROAM_REFS: https://roadmap.sh/
+:END:
+#+title: (roadmap.sh) Developer Roadmaps - roadmap.sh
+#+filetags: :software_development:education_resource:website:
+
+#+begin_quote
+  * Developer Roadmaps
+
+  roadmap.sh is a community effort to create roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings.
+#+end_quote

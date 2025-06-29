@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       47d46f49-0611-49ed-a4ef-746558dfe97a
+:ROAM_REFS: https://justine.lol/sectorlisp2/
+:END:
+#+title: (justine.lol) LISP with GC in 436 bytes
+#+filetags: :lisp:blog_post:website:
+
+#+begin_quote
+  * LISP with GC in 436 bytes
+
+  [[https://github.com/jart/sectorlisp][SectorLISP]] now supports garbage collection.  This is the first time that a high-level garbage collected programming language has been optimized to fit inside the 512-byte boot sector of a floppy disk.  Since we only needed 436 bytes, that means LISP has now outdistanced [[https://github.com/cesarblum/sectorforth][FORTH]] and [[https://github.com/nanochess/bootBASIC][BASIC]] to be the tiniest programming language in the world.
+#+end_quote

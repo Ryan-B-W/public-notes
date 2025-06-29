@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       23adb770-858b-4c52-89d0-e3292dd1e3a9
+:ROAM_REFS: https://www.visualcapitalist.com/mapped-the-income-needed-to-buy-a-home-in-every-u-s-state/
+:END:
+#+title: (www.visualcapitalist.com) Mapped: The Income Needed to Buy a Home in Every U.S. State
+#+filetags: :visualization:website:

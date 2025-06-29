@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       97026ca3-267f-4e51-8a14-3a15a48ea62d
+:ROAM_REFS: https://activitypub.rocks/
+:END:
+#+title: (activitypub.rocks) ActivityPub Rocks!
+#+filetags: :website:
+
+#+begin_quote
+  Don't you miss the days when the web really was the world's greatest decentralized network?  Before everything got locked down into a handful of walled gardens?  So do we.
+
+  Enter [[https://www.w3.org/TR/activitypub/][ActivityPub]]!  ActivityPub is a decentralized social networking protocol based on the [[https://www.w3.org/TR/activitystreams-core/][ActivityStreams 2.0]] data format.  ActivityPub is an official W3C recommended standard published by the [[https://www.w3.org/wiki/Socialwg][W3C Social Web Working Group]].  It provides a client to server API for creating, updating and deleting content, as well as a federated server to server API for delivering notifications and subscribing to content.
+
+  Sounds exciting?  Dive in!
+
+  ==> [[https://www.w3.org/TR/activitypub/][Latest published version]] <==
+
+  ==> [[https://w3c.github.io/activitypub/][Latest editor's draft]] <==
+
+  Or, are you a user looking for ActivityPub software to use?  Check out this [[https://socialhub.activitypub.rocks/pub/guide-for-activitypub-users][guide for ActivityPub users]] (community edited)!
+#+end_quote
