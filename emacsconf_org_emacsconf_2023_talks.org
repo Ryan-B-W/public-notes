@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       aef47b68-2729-4a4f-a3b1-0fea92daa070
+:ROAM_REFS: https://emacsconf.org/2023/talks/
+:END:
+#+title: (emacsconf.org) EmacsConf - 2023 - Talks
+#+filetags: :website:

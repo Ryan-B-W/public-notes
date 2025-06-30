@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       c341bc85-6c74-40a5-811b-669be7aa119b
+:ROAM_REFS: https://emacsconf.org/2024/talks/
+:END:
+#+title: (emacsconf.org) EmacsConf - 2024 - Talks
+#+filetags: :website:

@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       eea0df64-5c9a-4751-8fcf-fc74b8f3848d
+:ROAM_REFS: "https://linkencore.iii.com/iii/encore/record/C__Rb51678722__Sgodel __Orightresult__U__X6?lang=eng"
+:END:
+#+title: (linkencore.iii.com) Encore -- The annotated Gödel : a reader's guide to his classic paper on logic and incompleteness / Hal Prince.
+#+filetags: :books:website:
+
+#+begin_quote
+  The annotated Gödel : a reader's guide to his classic paper on logic and incompleteness / Hal Prince.
+
+  [[https://linkencore.iii.com/iii/encore/search/C__SPrince,%20Hal%20(Retired%20software%20engineer),__Orightresult?lang=eng&suite=def][Prince, Hal (Retired software engineer), author.]]
+
+  Descript: xvii, 165 pages ; 24 cm
+
+  Contents: Preface -- Introduction : what did Gödel prove? -- Reading this book -- List of Gödel's theorems -- Formally undecidable -- The main idea -- The rigorous presentation -- Further conclusions -- A remarkable consequence -- Translating Gödel.
+
+  Note: Includes bibliography and index of definitions.
+
+  Summary: "The Annotated Gödel offers a guided tour of Kurt Gödel's 1931 article on incompleteness, which demonstrated unexpected limits to the power of many logical systems.  Today we call these results Gödel's First and Second Incompleteness Theorems.  The book includes the complete article in a new English translation, interleaved with commentary that guides the reader through Gödel's work, step by step.  The commentary concentrates on Gödel's exposition.  It describes what he is doing at each point, and how it relates to other parts of the article.  It elaborates on his proofs by outlining them, for example, or by making a table of his variables and their uses, or by filling in gaps in his arguments.  The translation uses modern mathematical notation and terminology.  It replaces Gödel's function and relation names, based on German word fragments, with English equivalents.  Its language is less formal than that of the existing translations, which date from the 1960s.  The book assumes some familiarity with mathematical definitions and proofs, at the level of an undergraduate abstract math course.  It also assumes some knowledge of formal logic, from an introductory course or the equivalent."-- Amazon.com.
+
+  Subject:
+   - Gödel's theorem.
+   - Gödel's theorem. fast (OCoLC)fst00949806
+
+  ISBN:
+   - 9798986414218 (hardback)
+   - 9798986414201 (paperback)
+#+end_quote

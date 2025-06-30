@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       4996887a-8dbd-44e5-9b61-c483ce9b7873
+:ROAM_REFS: https://developer.mozilla.org/en-US/docs/WebAssembly/Guides/Understanding_the_text_format
+:END:
+#+title: (developer.mozilla.org) Understanding WebAssembly text format - WebAssembly | MDN
+#+filetags: :web_development:wasm_lang:www:documentation:website:
+
+#+begin_quote
+  To enable WebAssembly to be read and edited by humans, there is a textual representation of the Wasm binary format.  This is an intermediate form designed to be exposed in text editors, browser developer tools, etc.  This article explains how that text format works, in terms of the raw syntax, and how it is related to the underlying bytecode it represents --- and the wrapper objects representing Wasm in JavaScript.
+#+end_quote

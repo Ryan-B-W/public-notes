@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       29628f71-f003-4dd6-bcfb-4fa62f0dacec
+:ROAM_REFS: https://www.logicmatters.net/2022/09/06/the-annotated-godel/
+:END:
+#+title: (www.logicmatters.net) The Annotated Gödel - Logic Matters
+#+filetags: :reviews:website:
