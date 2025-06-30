@@ -157,6 +157,33 @@ Main node: [[id:69d3e2e7-62dc-414f-90ee-86f4b4abbcb0][(sarabander.github.io) Str
 :ID:       bf2fb2a1-46ab-4e61-9224-5e92d399cb97
 :ROAM_REFS: https://sarabander.github.io/sicp/html/4_002e1.xhtml
 :END:
+*** (sarabander.github.io) SICP, 2e: 4.1, Footnote 213
+:PROPERTIES:
+:ID:       80f32e87-a766-47c0-b698-8597076a382f
+:ROAM_REFS: https://sarabander.github.io/sicp/html/4_002e1.xhtml#FOOT213
+:END:
+
+#+begin_quote
+  As mentioned in [[https://sarabander.github.io/sicp/html/2_002e3.xhtml#g_t2_002e3_002e1][2.3.1]], the evaluator sees a quoted expression as a list beginning with =quote=, even if the expression is typed with the quotation mark.  For example, the expression ='a= would be seen by the evaluator as =(quote a)=.  See [[https://sarabander.github.io/sicp/html/2_002e3.xhtml#Exercise-2_002e55][Exercise 2.55]].
+#+end_quote
+*** (sarabander.github.io) SICP, 2e: 4.1, Footnote 228
+:PROPERTIES:
+:ID:       cf030a97-abaa-4a87-abc0-6305374b5166
+:ROAM_REFS: https://sarabander.github.io/sicp/html/4_002e1.xhtml#FOOT228
+:END:
+
+#+begin_quote
+  Wanting programs to not depend on this evaluation mechanism is the reason for the “management is not responsible” remark in [[https://sarabander.github.io/sicp/html/1_002e1.xhtml#Footnote-28][Footnote 28]] of [[https://sarabander.github.io/sicp/html/Chapter-1.xhtml#Chapter-1][Chapter 1]].  By insisting that internal definitions come first and do not use each other while the definitions are being evaluated, the IEEE standard for Scheme leaves implementors some choice in the mechanism used to evaluate these definitions.  The choice of one evaluation rule rather than another here may seem like a small issue, affecting only the interpretation of “badly formed” programs.  However, we will see in [[https://sarabander.github.io/sicp/html/5_002e5.xhtml#g_t5_002e5_002e6][5.5.6]] that moving to a model of simultaneous scoping for internal definitions avoids some nasty difficulties that would otherwise arise in implementing a compiler.
+#+end_quote
+*** (sarabander.github.io) SICP, 2e: 4.1, Footnote 232
+:PROPERTIES:
+:ID:       8dcad8c9-1dd2-49b8-9ca7-97fe8a246529
+:ROAM_REFS: https://sarabander.github.io/sicp/html/4_002e1.xhtml#FOOT232
+:END:
+
+#+begin_quote
+  This technique is an integral part of the compilation process, which we shall discuss in [[https://sarabander.github.io/sicp/html/Chapter-5.xhtml#Chapter-5][Chapter 5]].  Jonathan Rees wrote a Scheme interpreter like this in about 1982 for the T project ([[https://sarabander.github.io/sicp/html/References.xhtml#Rees-and-Adams-1982][Rees and Adams 1982]]).  Marc [[https://sarabander.github.io/sicp/html/References.xhtml#Feeley-_00281986_0029][Feeley (1986)]] (see also [[https://sarabander.github.io/sicp/html/References.xhtml#Feeley-and-Lapalme-1987][Feeley and Lapalme 1987]]) independently invented this technique in his master's thesis.
+#+end_quote
 ** (sarabander.github.io) SICP, 2e: 4.2 Variations on a Scheme — Lazy Evaluation
 :PROPERTIES:
 :ID:       b01f3776-c3ea-430a-8df3-723db559fa6b

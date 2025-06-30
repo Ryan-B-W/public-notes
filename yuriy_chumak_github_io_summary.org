@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       36e4a475-e107-4e28-b1fb-a5ca1aa51e79
+:ROAM_REFS: https://yuriy-chumak.github.io/ol/
+:END:
+#+title: (yuriy-chumak.github.io) Summary
+#+filetags: :website:
+
+#+begin_quote
+  * [[https://yuriy-chumak.github.io/ol/][Ol]] /Otus Lisp/
+
+  ** Otus Lisp is a purely* functional dialect of small, embeddable and crossplatform Lisp.
+#+end_quote

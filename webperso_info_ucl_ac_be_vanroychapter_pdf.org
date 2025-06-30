@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       7dc74952-dd2c-4fdc-b284-6a59c06eada8
+:ROAM_REFS: https://webperso.info.ucl.ac.be/~pvr/VanRoyChapter.pdf
+:END:
+#+title: (webperso.info.ucl.ac.be) Programming Paradigms for Dummies: What Every Programmer Should Know (VanRoyChapter.pdf)
+#+filetags: :mime_type_application_pdf:website:ATTACH:
+
+#+begin_quote
+  * Programming Paradigms for Dummies: What Every Programmer Should Know
+
+  Peter Van Roy
+
+  This chapter gives an introduction to all the main programming paradigms, their underlying concepts, and the relationships between them.  We give a broad view to help programmers choose the right concepts they need to solve the problems at hand.  We give a taxonomy of almost 30 useful programming paradigms and how they are related.  Most of them differ only in one or a few concepts, but this can make a world of difference in programming.  We explain briefly how programming paradigms influence language design, and we show two sweet spots: dual-paradigm languages and a definitive language.  We introduce the main concepts of programming languages: records, closures, independence (concurrency), and named state.  We explain the main principles of data abstraction and how it lets us organize large programs.  Finally, we conclude by focusing on concurrency, which is widely considered the hardest concept to program with.  We present four little-known but important paradigms that greatly simplify concurrent programming with respect to mainstream languages: declarative concurrency (both eager and lazy), functional reactive programming, discrete synchronous programming, and constraint programming.  These paradigms have no race conditions and can be used in cases where no other paradigm works.  We explain why for multi-core processors and we give several examples from computer music, which often uses these paradigms.
+
+  More is not better (or worse) than less, just different.  -- The paradigm paradox.
+#+end_quote

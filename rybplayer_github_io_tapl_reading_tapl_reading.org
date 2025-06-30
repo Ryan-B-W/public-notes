@@ -1,0 +1,68 @@
+:PROPERTIES:
+:ID:       641a1d88-189e-40a8-8340-f547b3dd5e16
+:ROAM_REFS: https://rybplayer.github.io/tapl-reading/
+:END:
+#+title: (rybplayer.github.io) TAPL Reading | tapl-reading
+#+filetags: :website:
+
+#+begin_quote
+  * [[https://rybplayer.github.io/tapl-reading/][tapl-reading]]
+
+  ** TAPL Reading
+
+  ** Hello!
+
+  This “reading group” started out as my personal desire to better understand how to deal with constrained programming scenarios.  For example,
+
+  - In Haskell, monads are used to separate impure, side-effect bearing IO functions with pure functions.  What else can monads be used for?
+  - How does Python know whether something is a string, float, or int?  More generally, how is type inference done?
+  - In quantum computing, how can one create a programming langauge that does not allow the cloning of quantum information, but allows cloning classical information?
+
+  Type Theory is the theoretical framework that allows us to mathematically reason about these questions.  So here we are.
+
+  ** The Mission
+
+  : *TLDR: We will read about Type Theory and Programming Languages over the summer, while hopefully working on interesting projects along the way.*
+
+  ** The Plan
+
+  Depending on the size of the group, everything is subject to discussion and change.  To get us started, I propose the following:
+
+  : The reading group will be divided into two sections: *Reading* and *Projects*.
+
+  In *Reading*, we will learn the most fundamental concepts in the field, i.e. type theory.  I propose we finish all of Benjamin Pierce's Types and Programming Languages (TAPL), since this book has very few prerequisites while touching on some more advanced topics.  We will supplement this with Software Foundations (for Lean), Category, and Logic Theory Books, as necessary.
+
+  In *Projects*, we will work on some simple applications of the reading material.  Projects are intended to be a space for people to apply the reading material to a specialization they like while having the opportunity to work in groups / discuss ideas with others.  Personally, I would prefer if projects were small, both in scope and the number of people working on it.  That is, it should not take 1-4 people more than a few hours to do.  This way, we could have a whole collage of simple but applicable projects by the end of the summer.
+
+  A tentative calendar of readings is available below.
+
+  ** Logistics
+
+  Due to the nature of summer session, everyone will be in different places and in different timezones, all with different commitments.  As such, we should openly discuss how much time we want to spend on this, and how we would like to coordinate discussions moving forward.
+
+  : I propose we *mimic how conferences work*.  Every one or two weeks (which we call a cycle), we will discuss readings and start projects.  One type of project I strongly recommend is a *journal*.
+
+  In a journal, an individual (or pair of individuals) will write a journal outlining a specific exploration, question, or explanation related to the material that cycle.  If you're out of ideas, a cool exercise or problem you found can also make for a great journal.  You may write as many journals/projects as you want, including none.
+
+  Then, we will read each other's journals and provide feedback.  Reviewers of a journal should not criticize it, but rather fix typos, provide clarifications, and then write a short additional extension to the existing journal.  That is, unlike real conferences, it is the reviewer's responsibility to improve whatever they wish to improve about the journal, if anything.  This will encourage both the reviewer and journal writer to engage with the material.
+
+  By the end of the cycle, we will have a nice collection of journals and projects related to a particular topic we read about.  There are three benefits to this system:
+
+  1. There is no need to have everyone meet synchronously.  Discussions and collaboration still takes place, but in much smaller groups, making scheduling easier.
+  2. You can choose to join or leave for the cycle, and if you do join, you decide how much time you want to spend on it.
+  3. We have tangible projects and journals to show for our efforts.  This also helps anyone who did not join that cycle to learn the material.
+
+  ** Commonly Asked Questions
+
+  *Method of communication?*  Discord.
+
+  *Specific schedule?*  A tentative reading calendar is in the discord.
+
+  *Sample Projects?*  Example journals and project ideas are in the discord.
+
+  *Prerequisites?*  Prior experience with proofs and programming is required.  Previous experience with logic, type theory, functional programming, programming experience, and general mathematical maturity will be most helpful.  Read the intro to TAPL, and if it seems interesting to you, things will work out.
+
+  *Who can join?*  Anyone interested, even if you are not a UCSD student.
+
+  *Credit?*  The above plan obviously involves a lot of work.  If anyone is interested in getting credit (Math 199, Cse 199, etc) for the above, let me know, and we can try ask for it.
+#+end_quote

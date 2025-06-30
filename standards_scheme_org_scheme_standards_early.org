@@ -63,3 +63,38 @@
 
   [[https://standards.scheme.org/early/about/][About =standards.scheme.org=]]
 #+end_quote
+* (standards.scheme.org) r4rs.dvi - r4rs.pdf      :mime_type_application_pdf:
+:PROPERTIES:
+:ID:       8b8e0774-c8b6-406d-b1a1-45e81546179b
+:ROAM_REFS: https://standards.scheme.org/official/r4rs.pdf
+:END:
+
+#+begin_quote
+  * Revised4 Report on the Algorithmic Language Scheme
+
+  William Clinger and Jonathan Rees (Editors)
+
+  H. Abelson, R. K. Dybvig, C. T. Haynes, G. J. Rozas, N. I. Adams iv, D. P. Friedman, E. Kohlbecker, G. L. Steele Jr., D. H. Bartley, R. Halstead, D. Oxley, G. J. Sussman, G. Brooks, C. Hanson, K. M. Pitman, and M. Wand
+
+  Dedicated to the Memory of ALGOL 60
+
+  2 November 1991
+
+  ** Summary
+
+  The report gives a defining description of the programming language Scheme.  Scheme is a statically scoped and properly tail-recursive dialect of the Lisp programming language invented by Guy Lewis Steele Jr. and Gerald Jay Sussman.  It was designed to have an exceptionally clear and simple semantics and few different ways to form expressions.  A wide variety of programming paradigms, including imperative, functional, and message passing styles, find convenient expression in Scheme.
+
+  The introduction offers a brief history of the language and of the report.
+
+  The first three chapters present the fundamental ideas of the language and describe the notational conventions used for describing the language and for writing programs in the language.
+
+  Chapters 4 and 5 describe the syntax and semantics of expressions, programs, and definitions.
+
+  Chapter 6 describes Scheme's built-in procedures, which include all of the language's data manipulation and input/output primitives.
+
+  Chapter 7 provides a formal syntax for Scheme written in extended BNF, along with a formal denotational semantics.  An example of the use of the language follows the formal syntax and semantics.
+
+  The appendix describes a macro facility that may be used to extend the syntax of Scheme.
+
+  The report concludes with a bibliography and an alphabetic index.
+#+end_quote

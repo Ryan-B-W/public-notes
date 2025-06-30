@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       80b2a783-0c85-451c-bed8-3370b933e222
+:ROAM_REFS: https://en.wikipedia.org/wiki/Model-driven_engineering
+:END:
+#+title: (en.wikipedia.org) Model-driven engineering - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  *Model-driven engineering* (*MDE*) is a [[https://en.wikipedia.org/wiki/Software_development_methodology][software development methodology]] that focuses on creating and exploiting [[https://en.wikipedia.org/wiki/Domain_model][domain models]], which are [[https://en.wikipedia.org/wiki/Conceptual_model_(computer_science)][conceptual models]] of all the topics related to a specific problem.  Hence, it highlights and aims at [[https://en.wikipedia.org/wiki/Representation_(mathematics)][abstract representations]] of the [[https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning][knowledge]] and activities that govern a particular [[https://en.wikipedia.org/wiki/Domain_(software_engineering)][application domain]], rather than the computing (i.e. algorithmic) concepts.
+
+  MDE is a subfield of a [[https://en.wikipedia.org/wiki/Software_design][software design]] approach referred as [[https://en.wikipedia.org/wiki/Round-trip_engineering][round-trip engineering]].  The scope of the MDE is much wider than that of the [[https://en.wikipedia.org/wiki/Model-driven_architecture][Model-Driven Architecture]].
+#+end_quote

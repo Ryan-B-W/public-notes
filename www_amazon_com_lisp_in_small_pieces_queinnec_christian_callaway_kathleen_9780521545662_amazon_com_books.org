@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       61260064-90fc-4a98-8484-94aee336dbeb
+:ROAM_REFS: https://www.amazon.com/dp/0521545668
+:END:
+#+title: (www.amazon.com) Lisp in Small Pieces: Queinnec, Christian, Callaway, Kathleen: 9780521545662: Amazon.com: Books
+#+filetags: :books:website:
+
+#+begin_quote
+  This is a comprehensive account of the semantics and the implementation of the whole Lisp family of languages, namely Lisp, Scheme and related dialects.  It describes 11 interpreters and 2 compilers, including very recent techniques of interpretation and compilation.  The book is in two parts.  The first starts from a simple evaluation function and enriches it with multiple name spaces, continuations and side-effects with commented variants, while at the same time the language used to define these features is reduced to a simple lambda-calculus.  Denotational semantics is then naturally introduced.  The second part focuses more on implementation techniques and discusses precompilation for fast interpretation: threaded code or bytecode; compilation towards C. Some extensions are also described such as dynamic evaluation, reflection, macros and objects.  This will become the new standard reference for people wanting to know more about the Lisp family of languages: how they work, how they are implemented, what their variants are and why such variants exist.  The full code is supplied (and also available over the Net).  A large bibliography is given as well as a considerable number of exercises.  Thus it may also be used by students to accompany second courses on Lisp or Scheme.
+#+end_quote

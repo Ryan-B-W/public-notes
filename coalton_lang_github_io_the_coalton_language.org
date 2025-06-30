@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       12498506-2078-4c7c-a5c1-fd20a153f9a9
+:ROAM_REFS: https://coalton-lang.github.io/
+:END:
+#+title: (coalton-lang.github.io) The Coalton Language
+#+filetags: :website:
+
+#+begin_quote
+  Coalton is an efficient, statically typed functional programming language that supercharges Common Lisp.
+#+end_quote
