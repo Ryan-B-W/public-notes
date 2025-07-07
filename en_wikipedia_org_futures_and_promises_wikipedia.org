@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       c395fc52-04c5-427d-9ef7-28eaf2e78fa0
+:ROAM_REFS: https://en.wikipedia.org/wiki/Futures_and_promises
+:END:
+#+title: (en.wikipedia.org) Futures and promises - Wikipedia
+#+filetags: :computer_science:website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Computer_science][computer science]], *futures*, *promises*, *delays*, and *deferreds* are constructs used for [[https://en.wikipedia.org/wiki/Synchronization_(computer_science)][synchronizing]] program [[https://en.wikipedia.org/wiki/Execution_(computing)][execution]] in some [[https://en.wikipedia.org/wiki/Concurrent_programming_language][concurrent programming languages]].  Each is an object that acts as a proxy for a result that is initially unknown, usually because the [[https://en.wikipedia.org/wiki/Computation][computation]] of its value is not yet complete.
+
+  The term /promise/ was proposed in 1976 by [[https://en.wikipedia.org/wiki/Daniel_P._Friedman][Daniel P. Friedman]] and David Wise, and Peter Hibbard called it /eventual/.  A somewhat similar concept /future/ was introduced in 1977 in a paper by [[https://en.wikipedia.org/wiki/Henry_Baker_(computer_scientist)][Henry Baker]] and [[https://en.wikipedia.org/wiki/Carl_Hewitt][Carl Hewitt]].
+
+  The terms /future/, /promise/, /delay/, and /deferred/ are often used interchangeably, although some differences in usage between /future/ and /promise/ are treated below.  Specifically, when usage is distinguished, a future is a /read-only/ placeholder view of a variable, while a promise is a writable, [[https://en.wikipedia.org/wiki/Single_assignment][single assignment]] container which sets the value of the future.  Notably, a future may be defined without specifying which specific promise will set its value, and different possible promises may set the value of a given future, though this can be done only once for a given future.  In other cases a future and a promise are created together and associated with each other: the future is the value, the promise is the function that sets the value -- essentially the return value (future) of an asynchronous function (promise).  Setting the value of a future is also called /resolving/, /fulfilling/, or /binding/ it.
+#+end_quote

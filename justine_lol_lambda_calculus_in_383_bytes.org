@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       193864c7-fcba-4112-b70a-3cab35a25b11
+:ROAM_REFS: https://justine.lol/lambda/
+:END:
+#+title: (justine.lol) Lambda Calculus in 383 Bytes
+#+filetags: :mathematics:lisp:computer_science:blog_post:website:
+
+#+begin_quote
+  * Lambda Calculus in 383 Bytes
+
+  The Lambda Calculus is a programming language with a single keyword.  It's the Turing tarpit discovered by Turing's doctoral advisor.  This blog post introduces a brand new 383 byte implementation of binary lambda calculus as an x86-64 Linux ELF executable.  Friendly portable C code and prebuilt [[https://justine.lol/ape.html][APE]] binaries are provided for other platforms too.
+
+  SectorLambda implements a Church-Krivine-Tromp virtual machine with monadic I/O.  In 383 bytes we've managed to achieve garbage collection, lazy lists, and tail recursion.  The interpreter works by extracting the least significant bit from each stdin byte.  Output consists of 0 and 1 bytes.  It's 64-bit however displacement is limited to [0,255] so programs can't be too huge.  That makes it a fun tool for learning, but for more industrial scale applications a 520 byte version is provided too, that overcomes many of those limitations, although it requires writing code at an even higher difficulty setting.
+
+  : -rwxr-xr-x 1 jart jart  383 Mar  9 12:15 blc
+  : -rw-r--r-- 1 jart jart  17K Mar  9 12:15 blc.S
+
+  Your virtual machine may be compiled on Linux for Linux x64 as follows:
+
+  : cc -c -o blc.o blc.S
+  : ld.bfd -o blc blc.o -T flat.lds
+
+  Your program is read from stdin followed by its input.  Here's a simple tutorial using the identity function (λ 0), which is encoded as (00 10) in the binary lambda calculus:
+
+  : $ { printf 0010; printf 0101; } | ./blc; echo
+  : 0101
+
+  If you're on Mac, Windows, FreeBSD, NetBSD, or OpenBSD then you can do this instead:
+
+  : $ curl https://justine.lol/lambda/lambda.com >lambda.com
+  : $ chmod +x lambda.com
+  : $ { printf 0010; printf 0101; } | ./lambda.com; echo
+  : 0101
+#+end_quote

@@ -215,6 +215,11 @@ A relatively popular [[id:6246f8d4-6cd4-489d-b19f-9c1142b51b60][Scheme]] impleme
 
   For the precise details, also see [[https://docs.racket-lang.org/ts-reference/index.html][The Typed Racket Reference]].
 #+end_quote
+*** (docs.racket-lang.org) Pure functions and promises
+:PROPERTIES:
+:ID:       ff5a9550-6faf-486a-9e48-6e8e821b5ec3
+:ROAM_REFS: https://docs.racket-lang.org/delay-pure/index.html
+:END:
 * (github.com) Racket                                               :website:
 :PROPERTIES:
 :ID:       84ff8493-203f-4120-a6b6-4b92ce184786

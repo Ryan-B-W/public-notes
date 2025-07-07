@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       63f86d36-84a9-4d58-8da6-e97ee1a53cbb
+:ROAM_REFS: https://justine.lol/sectorlisp/
+:END:
+#+title: (justine.lol) SectorLISP Now Fits in One Sector
+#+filetags: :lisp:blog_post:website:
+
+#+begin_quote
+  The [[https://github.com/jart/sectorlisp][SectorLISP]] project has achieved its goal of creating a LISP that's tiny enough to fit in the master boot sector of a floppy disk.  To the best of our knowledge, this is the tiniest LISP to date.  Since a master boot record is only 512 bytes, that means LISP is now tied with [[https://github.com/cesarblum/sectorforth][FORTH]] to be the most lightweight high-level programming language in the world.
+#+end_quote

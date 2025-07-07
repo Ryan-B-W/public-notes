@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       5dba93ca-5fbd-4202-b245-080086d9ba39
+:ROAM_REFS: https://github.com/yuriy-chumak/ol
+:END:
+#+title: (github.com) yuriy-chumak/ol: Otus Lisp (Ol) is a purely functional multi-platform Scheme dialect with built-in FFI and infix math.
+#+filetags: :website:

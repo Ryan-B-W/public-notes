@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       05e87771-2ba8-4077-9a22-604643be97a3
+:ROAM_REFS: https://paperswelove.org/
+:END:
+#+title: (paperswelove.org) Papers We Love
+#+filetags: :events:computer_science:website:
+
+#+begin_quote
+  Papers We Love is a [[https://github.com/papers-we-love/papers-we-love][repository]] of academic computer science papers and a [[https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter][community]] who loves reading them.
+#+end_quote

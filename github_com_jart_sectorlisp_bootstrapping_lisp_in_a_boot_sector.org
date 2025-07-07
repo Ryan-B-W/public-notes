@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       066533b0-be0f-41de-9baf-dd942c3ee416
+:ROAM_REFS: https://github.com/jart/sectorlisp
+:END:
+#+title: (github.com) jart/sectorlisp: Bootstrapping LISP in a Boot Sector
+#+filetags: :website:
+
+#+begin_quote
+  * sectorlisp
+
+  sectorlisp is a 512-byte implementation of LISP that's able to bootstrap John McCarthy's meta-circular evaluator on bare metal.
+#+end_quote
+
+Source code accompanying corresponding blog post, [[id:63f86d36-84a9-4d58-8da6-e97ee1a53cbb][(justine.lol) SectorLISP Now Fits in One Sector]]

@@ -430,3 +430,125 @@ Looking for the implementation of =assoc= in [[id:2ce20b11-e9e9-48b0-ab32-de7f41
 ***** [[id:cf030a97-abaa-4a87-abc0-6305374b5166][(sarabander.github.io) SICP, 2e: 4.1, Footnote 228]]
 ***** [[id:8dcad8c9-1dd2-49b8-9ca7-97fe8a246529][(sarabander.github.io) SICP, 2e: 4.1, Footnote 232]]
 ***** Next session, [[id:b01f3776-c3ea-430a-8df3-723db559fa6b][(sarabander.github.io) SICP, 2e: 4.2 Variations on a Scheme — Lazy Evaluation]]
+**** Session seventeen, [2025-07-06 Sun 15:00-16:00]
+***** Current section [[id:b01f3776-c3ea-430a-8df3-723db559fa6b][(sarabander.github.io) SICP, 2e: 4.2 Variations on a Scheme — Lazy Evaluation]]
+****** Terminology glossary (courtesy of [[id:e3186266-5969-4f6d-9de7-0007b1220135][Grant]])
+4.2.1:
+ - applicative-order
+ - lazy evaluation
+ - non-strict
+ - normal-order
+ - strict
+4.2.2:
+ - call-by-name
+ - call-by-need
+ - forcing
+ - garbage-collected
+ - memoize
+ - thunk
+ - thunks
+ - upward-compatible extension
+***** Pre-session discussion
+****** [[id:c395fc52-04c5-427d-9ef7-28eaf2e78fa0][(en.wikipedia.org) Futures and promises - Wikipedia]]
+****** [[id:ff5a9550-6faf-486a-9e48-6e8e821b5ec3][(docs.racket-lang.org) Pure functions and promises]]
+****** [[id:5dba93ca-5fbd-4202-b245-080086d9ba39][(github.com) yuriy-chumak/ol: Otus Lisp (Ol) is a purely functional multi-platform Scheme dialect with built-in FFI and infix math.]]
+***** [[https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/][Video Lectures | Structure and Interpretation of Computer Programs | Electrical Engineering and Computer Science | MIT OpenCourseWare]] from [[id:ea6fa692-2340-4347-9b73-94a72aaddbfd][(ocw.mit.edu) Structure and Interpretation of Computer Programs | Electrical Engineering and Computer Science | MIT OpenCourseWare]]
+***** [[https://www.youtube.com/watch?v=QVEOq5k6Xi0][Lecture 7B: Metacircular Evaluator, Part 2 - YouTube]], a part of [[id:e41230b4-3dee-4a59-aefa-712ca2229e4e][(www.youtube.com) MIT 6.001 Structure and Interpretation, 1986 - YouTube]]
+****** See also [[id:e74c4133-755a-428a-9067-5e35a5f6d836][(www.youtube.com) 6.001 SICP: Structure and Interpretation of Computer Programs (2004) - YouTube]]
+***** [[id:4ce14cbe-3b40-41af-bf7c-b4677450f635][(www.youtube.com) Oopsla Conference: Growing a Language - YouTube]]
+***** [[id:9e65a3cb-c744-465e-b45d-c9494fddb701][(jmc.stanford.edu) History of Lisp]]
+***** [[id:066533b0-be0f-41de-9baf-dd942c3ee416][(github.com) jart/sectorlisp: Bootstrapping LISP in a Boot Sector]]
+***** [[id:63f86d36-84a9-4d58-8da6-e97ee1a53cbb][(justine.lol) SectorLISP Now Fits in One Sector]]
+***** [[id:47d46f49-0611-49ed-a4ef-746558dfe97a][(justine.lol) LISP with GC in 436 bytes]]
+***** [[id:193864c7-fcba-4112-b70a-3cab35a25b11][(justine.lol) Lambda Calculus in 383 Bytes]]
+***** [[id:e734b3b6-10ab-4f22-8fa5-e7b672844076][(www-formal.stanford.edu) recursive.dvi - recursive.pdf]]
+***** [[id:05e87771-2ba8-4077-9a22-604643be97a3][(paperswelove.org) Papers We Love]]
+***** [[id:57b03469-0372-49ca-b0ff-853279cbda16][(sarabander.github.io) SICP, 2e: 4.2, Footnote 238]]
+***** [[id:0d6b37b2-0188-495e-8df9-f7fbdff7cdf9][(sarabander.github.io) SICP, 2e: 4.2, Footnote 239]]
+***** [[id:73a012e2-88e4-4c06-8e46-dfab714c2d0e][(sarabander.github.io) SICP, 2e: 4.2, Footnote 240]]
+***** [[id:ca6cd248-5759-4656-8511-6f2eca9460ee][(sarabander.github.io) SICP, 2e: 4.2, Footnote 241]]
+***** Implementation of integration with lazy evaluation instead of streams, as in [[id:54d70486-2673-4a0e-81a4-0e31bd047b13][SICP, 2e: 3.5]]
+From 3.5.4:
+#+begin_src scheme
+  (define int
+    (cons-stream
+     initial-value
+     (add-streams
+      (scale-stream integrand dt) int)))
+  (define (solve f y0 dt)
+    (define y (integral dy y0 dt))
+    (define dy (stream-map f y))
+    y)
+  (define (integral
+           delayed-integrand initial-value dt)
+    (define int
+      (cons-stream
+       initial-value
+       (let ((integrand
+              (force delayed-integrand)))
+         (add-streams
+          (scale-stream integrand dt)
+          int))))
+    int)
+  (define (solve f y0 dt)
+    (define y (integral (delay dy) y0 dt))
+    (define dy (stream-map f y))
+    y)
+  (stream-ref
+   (solve (lambda (y) y) 1 0.001) 1000)
+  ; 2.716924
+#+end_src
+From 4.2.3:
+#+begin_src scheme
+  (define (cons x y) (lambda (m) (m x y)))
+  (define (car z) (z (lambda (p q) p)))
+  (define (cdr z) (z (lambda (p q) q)))
+
+  (define (list-ref items n)
+    (if (= n 0)
+        (car items)
+        (list-ref (cdr items) (- n 1))))
+
+  (define (map proc items)
+    (if (null? items)
+        '()
+        (cons (proc (car items))
+              (map proc (cdr items)))))
+
+  (define (scale-list items factor)
+    (map (lambda (x) (* x factor))
+         items))
+
+  (define (add-lists list1 list2)
+    (cond ((null? list1) list2)
+          ((null? list2) list1)
+          (else (cons (+ (car list1)
+                         (car list2))
+                      (add-lists
+                       (cdr list1)
+                       (cdr list2))))))
+
+  (define ones (cons 1 ones))
+
+  (define integers
+    (cons 1 (add-lists ones integers)))
+
+
+  (define (integral integrand initial-value dt)
+    (define int
+      (cons initial-value
+            (add-lists (scale-list integrand dt)
+                       int)))
+    int)
+
+  (define (solve f y0 dt)
+    (define y (integral dy y0 dt))
+    (define dy (map f y))
+    y)
+
+  ;;; L-Eval input:
+  (list-ref (solve (lambda (x) x) 1 0.001) 1000)
+
+  ;;; L-Eval value:
+  ;2.716924
+#+end_src

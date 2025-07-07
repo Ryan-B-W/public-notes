@@ -189,6 +189,44 @@ Main node: [[id:69d3e2e7-62dc-414f-90ee-86f4b4abbcb0][(sarabander.github.io) Str
 :ID:       b01f3776-c3ea-430a-8df3-723db559fa6b
 :ROAM_REFS: https://sarabander.github.io/sicp/html/4_002e2.xhtml
 :END:
+*** (sarabander.github.io) SICP, 2e: 4.2, Footnote 238
+:PROPERTIES:
+:ID:       57b03469-0372-49ca-b0ff-853279cbda16
+:ROAM_REFS: https://sarabander.github.io/sicp/html/4_002e2.xhtml#FOOT238
+:END:
+
+#+begin_quote
+  The word /thunk/ was invented by an informal working group that was discussing the implementation of call-by-name in Algol 60. They observed that most of the analysis of (“thinking about”) the expression could be done at compile time; thus, at run time, the expression would already have been “thunk” about ([[https://sarabander.github.io/sicp/html/References.xhtml#Ingerman-et-al_002e-1960][Ingerman et al. 1960]]).
+#+end_quote
+*** (sarabander.github.io) SICP, 2e: 4.2, Footnote 239
+:PROPERTIES:
+:ID:       0d6b37b2-0188-495e-8df9-f7fbdff7cdf9
+:ROAM_REFS: https://sarabander.github.io/sicp/html/4_002e2.xhtml#FOOT239
+:END:
+
+#+begin_quote
+  This is analogous to the use of =force= on the delayed objects that were introduced in [[https://sarabander.github.io/sicp/html/Chapter-3.xhtml#Chapter-3][Chapter 3]] to represent streams.  The critical difference between what we are doing here and what we did in [[https://sarabander.github.io/sicp/html/Chapter-3.xhtml#Chapter-3][Chapter 3]] is that we are building delaying and forcing into the evaluator, and thus making this uniform and automatic throughout the language.
+#+end_quote
+*** (sarabander.github.io) SICP, 2e: 4.2, Footnote 240
+:PROPERTIES:
+:ID:       73a012e2-88e4-4c06-8e46-dfab714c2d0e
+:ROAM_REFS: https://sarabander.github.io/sicp/html/4_002e2.xhtml#FOOT240
+:END:
+
+#+begin_quote
+  Lazy evaluation combined with memoization is sometimes referred to as /call-by-need/ argument passing, in contrast to /call-by-name/ argument passing.  (Call-by-name, introduced in Algol 60, is similar to non-memoized lazy evaluation.)  As language designers, we can build our evaluator to memoize, not to memoize, or leave this an option for programmers ([[https://sarabander.github.io/sicp/html/4_002e2.xhtml#Exercise-4_002e31][Exercise 4.31]]).  As you might expect from [[https://sarabander.github.io/sicp/html/Chapter-3.xhtml#Chapter-3][Chapter 3]], these choices raise issues that become both subtle and confusing in the presence of assignments.  (See [[https://sarabander.github.io/sicp/html/4_002e2.xhtml#Exercise-4_002e27][Exercise 4.27]] and [[https://sarabander.github.io/sicp/html/4_002e2.xhtml#Exercise-4_002e29][Exercise 4.29]].)  An excellent article by [[https://sarabander.github.io/sicp/html/References.xhtml#Clinger-_00281982_0029][Clinger (1982)]] attempts to clarify the multiple dimensions of confusion that arise here.
+#+end_quote
+*** (sarabander.github.io) SICP, 2e: 4.2, Footnote 241
+:PROPERTIES:
+:ID:       ca6cd248-5759-4656-8511-6f2eca9460ee
+:ROAM_REFS: https://sarabander.github.io/sicp/html/4_002e2.xhtml#FOOT241
+:END:
+
+#+begin_quote
+  Notice that we also erase the =env= from the thunk once the expression's value has been computed.  This makes no difference in the values returned by the interpreter.  It does help save space, however, because removing the reference from the thunk to the =env= once it is no longer needed allows this structure to be /garbage-collected/ and its space recycled, as we will discuss in [[https://sarabander.github.io/sicp/html/5_002e3.xhtml#g_t5_002e3][5.3]].
+
+  Similarly, we could have allowed unneeded environments in the memoized delayed objects of [[https://sarabander.github.io/sicp/html/3_002e5.xhtml#g_t3_002e5_002e1][3.5.1]] to be garbage-collected, by having =memo-proc= do something like =(set! proc '())= to discard the procedure =proc= (which includes the environment in which the =delay= was evaluated) after storing its value.
+#+end_quote
 ** (sarabander.github.io) SICP, 2e: 4.3 Variations on a Scheme — Nondeterministic Computing
 :PROPERTIES:
 :ID:       da4c3b80-24fe-4817-8443-87a1ccee7910
