@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       4a5ba5cb-48a9-4fb8-8fe6-47f9d1d19e60
+:ROAM_REFS: https://www.physio-pedia.com/Back_Muscles
+:END:
+#+title: (www.physio-pedia.com) Back Muscles - Physiopedia
+#+filetags: :muscles:medicine:anatomy:biology:website:

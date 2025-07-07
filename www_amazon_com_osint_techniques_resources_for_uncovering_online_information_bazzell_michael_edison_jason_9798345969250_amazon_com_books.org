@@ -3,7 +3,7 @@
 :ROAM_REFS: https://www.amazon.com/dp/B0DMSPTCFD
 :END:
 #+title: (www.amazon.com) OSINT Techniques: Resources for Uncovering Online Information: Bazzell, Michael, Edison, Jason: 9798345969250: Amazon.com: Books
-#+filetags: :website:
+#+filetags: :intel:books:website:
 
 #+begin_quote
   New 11th Edition contains many updated techniques, scripts, and tools!

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       b07a0b49-37c4-4ca9-93f9-6e434b7efafe
+:ROAM_REFS: https://my.clevelandclinic.org/health/body/23251-fascia
+:END:
+#+title: (my.clevelandclinic.org) Fascia Tissue Function
+#+filetags: :medicine:anatomy:biology:website:
+
+#+begin_quote
+  * Fascia
+
+  Fascia is a sheath of stringy connective tissue that surrounds every part of your body.  It provides support to your muscles, tendons, ligaments, tissues, organs, nerves, joints and bones.  When your fascia is healthy, it's flexible and stretches with you.  When your fascia tightens up, it can restrict movement and cause painful health conditions.
+#+end_quote

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       1e03899e-1e0c-441f-be02-6696b927ee65
+:ROAM_REFS: https://en.wikipedia.org/wiki/Fascia
+:END:
+#+title: (en.wikipedia.org) Fascia - Wikipedia
+#+filetags: :medicine:anatomy:biology:website:
+
+#+begin_quote
+  A *fascia* ([[https://en.wikipedia.org/wiki/Help:IPA/English][/ˈfæʃ(i)ə/]]; pl.: *fasciae* [[https://en.wikipedia.org/wiki/Help:IPA/English][/ˈfæʃii/]] or *fascias*; adjective *fascial*; from [[https://en.wikipedia.org/wiki/Latin_language][Latin]] /band/) is a generic term for [[https://en.wikipedia.org/wiki/Macroscopic_scale][macroscopic]] [[https://en.wikipedia.org/wiki/Membranous_layer][membranous]] bodily structures.  Fasciae are classified as [[https://en.wikipedia.org/wiki/Superficial_fascia][superficial]], [[https://en.wikipedia.org/wiki/Visceral_fascia][visceral]] or [[https://en.wikipedia.org/wiki/Deep_fascia][deep]], and further designated according to their anatomical location.
+
+  The knowledge of fascial structures is essential in [[https://en.wikipedia.org/wiki/Surgery][surgery]], as they create borders for infectious processes (for example [[https://en.wikipedia.org/wiki/Psoas_abscess][Psoas abscess]]) and haematoma.  An increase in pressure may result in a [[https://en.wikipedia.org/wiki/Compartment_syndrome][compartment syndrome]], where a prompt [[https://en.wikipedia.org/wiki/Fasciotomy][fasciotomy]] may be necessary.  For this reason, profound descriptions of fascial structures are available in anatomical literature from the 19th century.
+#+end_quote

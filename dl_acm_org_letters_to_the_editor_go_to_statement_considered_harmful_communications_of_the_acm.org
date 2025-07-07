@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       3621ee73-2c07-4551-91ce-4fb3a5d27418
+:ROAM_REFS: https://dl.acm.org/doi/10.1145/362929.362947
+:END:
+#+title: (dl.acm.org) Letters to the editor: go to statement considered harmful | Communications of the ACM
+#+filetags: :website:
