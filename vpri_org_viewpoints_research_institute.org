@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       a4947e94-7326-40f0-b7c6-a53c79d90002
+:ROAM_REFS: https://vpri.org/
+:END:
+#+title: (vpri.org) Viewpoints Research Institute
+#+filetags: :research:nonprofit:organization:website:
+
+#+begin_quote
+  ***** /After 16 years of continuous research and important contributions toward its mission - "Improve 'powerful ideas education' for the world's children and to advance the state of systems research and personal computing" - Viewpoints Research Institute concluded its operations at the beginning of 2018./
+
+  /This site remains online for historic and archival purposes to preserve the documentation and writings produced during the years Viewpoints actively conducted its work./
+
+  **** What is Viewpoints Research Institute?
+
+  Viewpoints Research Institute (VPRI) is a 501(c)(3) nonprofit public benefit organization incorporated in 2001 to improve "powerful ideas education" for the world's children and to advance the state of systems research and personal computing.  Many of our themes co-evolved with the inventions of networked personal computers, graphical user interfaces and dynamic object-oriented programming.
+
+  Our globally dispersed research group comes from a tradition of whole systems design developed by ARPA in the sixties and Xerox PARC in the seventies.  Our ideology is motivated by user-centered systems design.  Using this vantage point, our group invents computing technologies, content, curriculum, graphical user interfaces (GUIs), programming languages, implementation systems and processor and memory structures.
+
+  **** Where does Viewpoints focus its research?
+
+  Our research covers four areas: Teaching and Learning Powerful Ideas, Powerful Ideas Content and How to Represent It, User Interfaces that Aid Learning and Doing, and Inventing Fundamental New Computing Technologies.
+
+  **** How do we view "Design for Learning"?
+
+  We want to help children develop real fluency in many important areas of learning, including thinking, math and science.  Each of these subjects is outside "natural learning" (such as learning to walk and talk).  Quite a bit of time and energy needs to be spent to gain an above threshold fluency.  There are interesting similarities to art, music, and sports, each of which also requires quite a bit of time and energy to gain fluency.  These arts could be termed "hard fun".  Mathematicians and scientists know they are doing art and hard fun as well.  "Thinking" is a higher category than "just" math, science, and the arts.  It represents a synthesis of intuitive and analytical approaches to understanding the world and dealing with it.
+
+  **** Our Researchers and Research Community
+
+  In the Spring of 2016, VPRI joined as part of Y Combinator Research's (YCR) HARC -- Human Advancement Research Community.  HARC was founded based on conversations between Alan Kay and Sam Altman of YCR.  [[http://harc.ycr.org/][harc.ycr.org]]
+
+  Although VPRI remains a separate non-profit organization, HARC's mission to ensure that human wisdom exceeds human power, by inventing and freely sharing ideas and technology that allow all humans to see further and understand more deeply resonates deeply with VPRI.  Joining this larger research group to share ideas, collaborate on projects and develop new technologies allows for a broader reach and collaboration with talents world-wide that VPRI could not otherwise soley sustain.
+
+  HARC researches technology in its broadest context, which includes: technology for communication (from the invention of spoken language to modern data graphics), intellectual tools (such as the scientific method and computer simulation), media (from cave painting to video games), and social systems (including democracy and public education).  We are focusing on areas where we believe the structures created today will have the most impact on the future, and that can most benefit from having dedicated resources outside the for-profit world.  At the moment, these areas include programming languages, interfaces, education, and virtual reality.
+
+  Our shared vision of technology combines an expansive long-term view with a strong moral sense.  We look to the distant past as well as the far future.  We reject the artificial boundaries created between the humanities, arts, and sciences.  We seek to guide human technologies in thoughtful and ethical directions, with a deep sensitivity to the relationship between technology and the human condition, and the difference between what a piece of technology is intended to be and how it impacts humanity in reality.
+#+end_quote

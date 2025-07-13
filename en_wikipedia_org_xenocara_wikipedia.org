@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       1dbcc8b3-7ac2-4665-8c9f-b3baaf0f3029
+:ROAM_REFS: https://en.wikipedia.org/wiki/Xenocara
+:END:
+#+title: (en.wikipedia.org) Xenocara - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  *Xenocara* is the [[https://en.wikipedia.org/wiki/OpenBSD][OpenBSD]] build infrastructure for the project's customised [[https://en.wikipedia.org/wiki/X.Org_Server][X.Org Server]] that utilises a dedicated _x11 user by default to drop privileges and perform privilege separation in accordance to OpenBSD's "[[https://en.wikipedia.org/wiki/Principle_of_least_privilege][least privilege]]" policy.
+
+  Until release 6.9, X.Org used [[https://en.wikipedia.org/wiki/Imake][imake]] but recent modularised versions have switched to [[https://en.wikipedia.org/wiki/GNU][GNU]] [[https://en.wikipedia.org/wiki/Autotools][autotools]].  Xenocara uses [[https://en.wikipedia.org/wiki/BSD][BSD]] [[https://en.wikipedia.org/wiki/Make_(software)][make]] and is designed to ease building and maintenance of modularised X.Org within the OpenBSD [[https://en.wikipedia.org/wiki/Concurrent_Versions_System][CVS]] tree.  It first appeared with OpenBSD 4.2, released on 1 November 2007 (17 years ago) (2007-11-01); before that, OpenBSD had a different build system and repositories for X in [[https://en.wikipedia.org/wiki/Concurrent_Versions_System][CVS]], which have since been completely retired in favour of Xenocara.
+
+  Apart from X.Org, Xenocara builds several other projects, including [[https://en.wikipedia.org/wiki/X_window_manager][window managers]] [[https://en.wikipedia.org/wiki/FVWM][FVWM]] and [[https://en.wikipedia.org/wiki/Cwm_(window_manager)][cwm]].
+#+end_quote

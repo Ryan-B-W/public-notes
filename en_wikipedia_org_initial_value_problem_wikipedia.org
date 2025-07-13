@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       145cad1d-74c4-4a15-ab8b-ff9a6466d881
+:ROAM_REFS: https://en.wikipedia.org/wiki/Initial_value_problem
+:END:
+#+title: (en.wikipedia.org) Initial value problem - Wikipedia
+#+filetags: :mathematics:website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Multivariable_calculus][multivariable calculus]], an *initial value problem* (*IVP*) is an [[https://en.wikipedia.org/wiki/Ordinary_differential_equation][ordinary differential equation]] together with an [[https://en.wikipedia.org/wiki/Initial_condition][initial condition]] which specifies the value of the unknown [[https://en.wikipedia.org/wiki/Function_(mathematics)][function]] at a given point in the [[https://en.wikipedia.org/wiki/Domain_of_a_function][domain]].  Modeling a system in [[https://en.wikipedia.org/wiki/Physics][physics]] or other sciences frequently amounts to solving an initial value problem.  In that context, the differential initial value is an equation which specifies how the system [[https://en.wikipedia.org/wiki/Time_evolution][evolves with time]] given the initial conditions of the problem.
+#+end_quote

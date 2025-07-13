@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       ad59a9d3-29cd-4baf-a494-698f050e4d12
+:ROAM_REFS: https://www.amazon.com/dp/0262632446
+:END:
+#+title: (www.amazon.com) Design by Numbers: John Maeda, Antonelli, Paola: 9780262632447: Amazon.com: Books
+#+filetags: :books:website:
+
+#+begin_quote
+  *A pioneering graphic designer shows how to use the computer as an artistic medium in its own right.*
+
+  Most art and technology projects pair artists with engineers or scientists: the artist has the conception, and the technical person provides the know-how.  John Maeda is an artist and a computer scientist, and he views the computer not as a substitute for brush and paint but as an artistic medium in its own right.  Design By Numbers is a reader-friendly tutorial on both the philosophy and nuts-and-bolts techniques of programming for artists.
+
+  Practicing what he preaches, Maeda composed Design By Numbers using a computational process he developed specifically for the book.  He introduces a programming language and development environment, available on the Web, which can be freely downloaded or run directly within any JAVA-enabled Web browser.  Appropriately, the new language is called DBN (for "design by numbers").  Designed for "visual" people---artists, designers, anyone who likes to pick up a pencil and doodle---DBN has very few commands and consists of elements resembling those of many other languages, such as LISP, LOGO, C/JAVA, and BASIC.
+
+  Throughout the book, Maeda emphasizes the importance---and delights---of understanding the motivation behind computer programming, as well as the many wonders that emerge from well-written programs.  Sympathetic to the "mathematically challenged," he places minimal emphasis on mathematics in the first half of the book.  Because computation is inherently mathematical, the book's second half uses intermediate mathematical concepts that generally do not go beyond high-school algebra.  The reader who masters the skills so clearly set out by Maeda will be ready to exploit the true character of digital media design.
+#+end_quote

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       7e825aff-f00d-4d23-ab55-01d6d68cccb1
+:ROAM_REFS: https://www.youtube.com/watch?v=Z0VpFmp_q4A
+:END:
+#+title: (www.youtube.com) Episode 503: Robert Martin on Structure and Interpretation of Computer Programming - YouTube
+#+filetags: :interview:video:website:

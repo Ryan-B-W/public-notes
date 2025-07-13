@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       86ed610a-56b0-4f67-92a4-17d214742a08
+:ROAM_REFS: https://en.wikipedia.org/wiki/SPARK_(programming_language)
+:END:
+#+title: (en.wikipedia.org) SPARK (programming language) - Wikipedia
+#+filetags: :programming_language:computer_science:website:
+
+#+begin_quote
+  *SPARK* is a [[https://en.wikipedia.org/wiki/Formal_semantics_of_programming_languages][formally defined]] [[https://en.wikipedia.org/wiki/Computer][computer]] [[https://en.wikipedia.org/wiki/Programming_language][programming language]] based on the [[https://en.wikipedia.org/wiki/Ada_(programming_language)][Ada]] language, intended for developing [[https://en.wikipedia.org/wiki/High_integrity_software][high integrity software]] used in systems where predictable and highly reliable operation is essential.  It facilitates developing applications that demand safety, security, or business integrity.
+
+  Originally, three versions of SPARK existed (SPARK83, SPARK95, SPARK2005), based on Ada 83, Ada 95, and Ada 2005 respectively.
+
+  A fourth version, SPARK 2014, based on Ada 2012, was released on April 30, 2014.  SPARK 2014 is a complete re-design of the language and supporting [[https://en.wikipedia.org/wiki/Software_verification][verification]] tools.
+
+  The SPARK language consists of a well-defined subset of the Ada language that uses [[https://en.wikipedia.org/wiki/Design_by_contract][contracts]] to describe the specification of components in a form that is suitable for both static and dynamic verification.
+
+  In SPARK83/95/2005, the contracts are encoded in Ada comments and so are ignored by any standard Ada compiler, but are processed by the SPARK /Examiner/ and its associated tools.
+
+  SPARK 2014, in contrast, uses Ada 2012's built-in [[https://en.wikipedia.org/wiki/Syntax_(programming_languages)][syntax]] of /[[https://en.wikipedia.org/wiki/Aspect-oriented_programming][aspects]]/ to express contracts, bringing them into the core of the language.  The main tool for SPARK 2014 (GNATprove) is based on the [[https://en.wikipedia.org/wiki/GNAT][GNAT/GCC]] infrastructure, and re-uses almost all of the GNAT Ada 2012 front-end.
+#+end_quote

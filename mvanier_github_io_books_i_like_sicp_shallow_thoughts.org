@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       b2751ec7-7be5-4e45-ac31-fe23b8922321
+:ROAM_REFS: https://mvanier.github.io/blog/posts/sicp/
+:END:
+#+title: (mvanier.github.io) Books I like: SICP - Shallow thoughts
+#+filetags: :reviews:blog_post:website:
+
+#+begin_quote
+  One of my favorite books on programming is /Structure and Interpretation of Computer Programs/ by Hal Abelson, Gerald Jay Sussman and Julie Sussman.  This book is usually referred to by its initials (SICP, pronounced “sick pea”).  It's old; the first edition came out in 1984 and the second in 1996.  It's also one of the great classics of computer science.  (You can read it online in its entirety [[https://shorturl.at/swNW1][here]].)
+
+  It's hard to summarize the book, because it covers so much ground, but here goes.
+#+end_quote

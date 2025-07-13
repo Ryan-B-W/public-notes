@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       2c2f8bb0-cf70-4090-8dcd-98d8d2c80eba
+:ROAM_REFS: https://en.wikipedia.org/wiki/Sawfish_(window_manager)
+:END:
+#+title: (en.wikipedia.org) Sawfish (window manager) - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  *Sawfish* is a [[https://en.wikipedia.org/wiki/Window_manager][window manager]] for the [[https://en.wikipedia.org/wiki/X_Window_System][X Window System]].  It aims to manage windows in the most flexible and attractive manner possible.  It is able to match a window by multiple criteria such as application, size or role, and based on this, can change the window's position, appearance, or behavior.  This allows for highly customized window handling such as [[https://en.wikipedia.org/wiki/Web_browser][web browser]] windows opening full-screen without borders on a secondary [[https://en.wikipedia.org/wiki/Computer_monitor][monitor]], a default [[https://en.wikipedia.org/wiki/Terminal_emulator][terminal emulator]] window displaying full-screen at the desktop level, and all [[https://en.wikipedia.org/wiki/Dialog_box][dialog box]] windows under a certain size opening on the lower right corner of the main monitor while larger ones are centered.
+
+  Sawfish uses a [[https://en.wikipedia.org/wiki/Lisp_(programming_language)][Lisp]]-like [[https://en.wikipedia.org/wiki/Scripting_language][scripting language]], *rep*, for all of its code and configuration, making it particularly easy to customize, or program many kinds of behavior, responding to window creation, deletion, or any other changes.  There is a [[https://en.wikipedia.org/wiki/GUI][GUI]] configuration utility for users who do not wish to edit configuration files directly.
+#+end_quote

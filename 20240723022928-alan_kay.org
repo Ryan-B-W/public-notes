@@ -5,5 +5,12 @@
 #+filetags: :person:
 
 American computer scientist known for work on windowed [[id:88db686f-0d77-4ecc-a9d6-43017ef7440f][graphical user interfaces (GUI)]], [[id:1a857a79-1bc3-42c2-92ee-897a864b10de][object-oriented programming]], the [[id:c00306de-35c9-4f91-9f4f-23c2462435ea][Smalltalk]] [[id:b24601aa-09df-41e1-aa7e-25ead342db34][programming language]], and the [[id:540146f4-c0ef-423f-8598-9a9dc4e3a4df][Dynabook]] concept.
-* See Also
- - [[https://en.wikipedia.org/wiki/Alan_Kay][Alan Kay - Wikipedia]]
+* (en.wikipedia.org) Alan Kay - Wikipedia                           :website:
+:PROPERTIES:
+:ID:       690b61d2-4bd1-4eb3-869c-7f52017fa50e
+:ROAM_REFS: https://en.wikipedia.org/wiki/Alan_Kay
+:END:
+
+#+begin_quote
+  *Alan Curtis Kay* (born May 17, 1940) is an American [[https://en.wikipedia.org/wiki/Computer_scientist][computer scientist]] who pioneered work on [[https://en.wikipedia.org/wiki/Object-oriented_programming][object-oriented programming]] and [[https://en.wikipedia.org/wiki/Window_(computing)][windowing]] [[https://en.wikipedia.org/wiki/Graphical_user_interface][graphical user interface]] (GUI) design.  At [[https://en.wikipedia.org/wiki/Xerox][Xerox]] [[https://en.wikipedia.org/wiki/PARC_(company)][PARC]] he led the design and development of the first modern windowed [[https://en.wikipedia.org/wiki/Desktop_metaphor][computer desktop]] interface.  There he also led the development of the influential [[https://en.wikipedia.org/wiki/Object-oriented_programming][object-oriented]] [[https://en.wikipedia.org/wiki/Programming_language][programming language]] [[https://en.wikipedia.org/wiki/Smalltalk][Smalltalk]], both personally designing most of the early versions of the language and coining the term "object-oriented."  He has been elected a Fellow of the [[https://en.wikipedia.org/wiki/American_Academy_of_Arts_and_Sciences][American Academy of Arts and Sciences]], the [[https://en.wikipedia.org/wiki/National_Academy_of_Engineering][National Academy of Engineering]], and the [[https://en.wikipedia.org/wiki/Royal_Society_of_Arts][Royal Society of Arts]].  He received the [[https://en.wikipedia.org/wiki/Turing_Award][Turing Award]] in 2003.
+#+end_quote

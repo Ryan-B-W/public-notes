@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       7b202c9e-96c6-4a1e-b638-06f9f040b79c
+:ROAM_REFS: https://users.cms.caltech.edu/~mvanier/courses/
+:END:
+#+title: (users.cms.caltech.edu) Courses | Mike Vanier's home page
+#+filetags: :education_resource:website:

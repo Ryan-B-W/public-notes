@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       d58ea1f3-20c6-414d-8095-8e4fe45cf0d5
+:ROAM_REFS: https://www.cambridge.org/us/universitypress/subjects/computer-science/programming-languages-and-applied-logic/building-high-integrity-applications-spark https://www.cambridge.org/us/universitypress/subjects/computer-science/programming-languages-and-applied-logic/building-high-integrity-applications-spark?format=PB&isbn=9781107656840
+:END:
+#+title: (www.cambridge.org) Building High Integrity Applications with SPARK | Cambridge University Press & Assessment
+#+filetags: :computer_science:books:website:
