@@ -80,12 +80,12 @@ Hosted online on the Code and Coffee [[id:d2412b09-9507-42f7-a674-512b4c18b680][
 ****** [[id:5edf24bc-eeaa-465f-b90f-8565edbb600b][(en.wikipedia.org) Curry–Howard correspondence - Wikipedia]]
 ****** [[id:5503edd7-c9b7-4428-a2ec-bf05a61a8ed7][(writings.stephenwolfram.com) Combinators and the Story of Computation—Stephen Wolfram Writings]]
 ***** [[id:130c4aa4-c318-4a59-904f-e9ebc429c18c][(physbuzz.github.io) 02-23-2025.md]]
-**** Session One, [2025-03-02 Sun 15:00-16:00]
+**** Session 1, [2025-03-02 Sun 15:00-16:00]
 ***** Current section [[id:b85b9acb-443c-4d3f-842b-1f663c99ef18][(sarabander.github.io) Structure and Interpretation of Computer Programs, 2e: 1.1]]
 ***** [[id:250b2e70-00fa-426e-b8b2-730ee1d4b960][(physbuzz.github.io) notes-ch1-1.md]]
 ***** [[id:5edf24bc-eeaa-465f-b90f-8565edbb600b][(en.wikipedia.org) Curry–Howard correspondence - Wikipedia]]
 ***** [[id:5509c95a-ba92-4a76-ae77-5c3a2b1368ba][(en.wikipedia.org) Fixed-point combinator - Wikipedia]]
-**** Session Two, [2025-03-16 Sun 15:00-16:25]
+**** Session 2, [2025-03-16 Sun 15:00-16:25]
 ***** Current section [[id:d4e8ce6b-05bb-4338-b3ff-1bb12c109dea][(sarabander.github.io) Structure and Interpretation of Computer Programs, 2e: 1.2]]
 ***** [[id:51594a7b-3ca6-4bc2-a5fc-b983660cb475][(physbuzz.github.io) notes-ch1-2.md]]
 ***** [[id:aa79adc9-3e6a-4056-9bd8-6fe00a1ccf12][(en.wikipedia.org) Extended Euclidean algorithm - Wikipedia]]
@@ -111,7 +111,7 @@ Hosted online on the Code and Coffee [[id:d2412b09-9507-42f7-a674-512b4c18b680][
 ****** [[id:11438879-fe1a-4e45-b25b-3a7563627422][Ronald L. Rivest]]
 ******* [[id:7cf931f8-5095-4473-8010-b94ed35b914d][Adi Shamir]]
 ******* [[id:6edcb9e7-8f35-4796-854c-b216873ee148][Leonard M. Adleman]]
-**** Session Three, [2025-03-23 Sun 15:00-16:00]
+**** Session 3, [2025-03-23 Sun 15:00-16:00]
 ***** Current section [[id:10ed2665-130f-4398-8efa-ce9795584da0][(sarabander.github.io) Structure and Interpretation of Computer Programs, 2e: 1.3]]
 ***** Next: [[id:4e6b6934-89b2-4125-b046-9628e20427e8][SICP Chapter 2 (intro)]] and [[id:6d5c6805-fb40-49d9-9a91-93733bde2818][SICP Section 2.1]]
 ***** Java's usage of the word "body" was brought up
@@ -138,7 +138,7 @@ A comparison was made between the substitution model of application (see [[https
 ***** [[id:f1ccd506-3a34-48b8-aa11-2e3cbf6dde42][(www.wired.com) One Genius' Lonely Crusade to Teach a Computer Common Sense | WIRED]]
 ***** [[id:f07d1118-83d6-428f-beb8-081d6966f661][(www.wired.com) CYC-O | WIRED]]
 ***** [[id:760b78b3-1c9a-44a2-b0cf-d2ad0381dc79][IBM 704]]
-**** Session Four, [2025-03-30 Sun 15:00-16:00]
+**** Session 4, [2025-03-30 Sun 15:00-16:00]
 ***** Current chapter [[id:4e6b6934-89b2-4125-b046-9628e20427e8][(sarabander.github.io) SICP, 2e: Chapter 2 Building Abstractions with Data]]
 ***** Current section [[id:6d5c6805-fb40-49d9-9a91-93733bde2818][(sarabander.github.io) SICP, 2e: 2.1 Introduction to Data Abstraction]]
 ***** [[id:54ca1727-d685-4343-a0e3-3f07a815ea58][(sarabander.github.io) SICP, 2e: References]]
@@ -166,7 +166,7 @@ A comparison was made between the substitution model of application (see [[https
 ***** [[id:5d8b7f8f-1b32-411b-a63f-628cfa0c4205][(hackernewsbooks.com) Hacker News Books]]
 ***** [[id:0a177b13-aecb-4f33-a45b-30b0b090614b][(www.oreilly.com) Designing Data-Intensive Applications, 2nd Edition[Book]​]]
 ***** Next time, [[id:183c1aa8-f3cb-4712-9a69-c218be056654][(sarabander.github.io) SICP, 2e: 2.2 Hierarchical Data and the Closure Property]]
-**** Session Five, [2025-04-06 Sun 15:00-16:00]
+**** Session 5, [2025-04-06 Sun 15:00-16:00]
 ***** Current section [[id:183c1aa8-f3cb-4712-9a69-c218be056654][(sarabander.github.io) SICP, 2e: 2.2 Hierarchical Data and the Closure Property]]
 ***** Examples of different Lisp structures using lists and cons cells
 #+begin_src scheme
@@ -201,10 +201,10 @@ A comparison was made between the substitution model of application (see [[https
 ***** [[id:2f8a5c51-c94f-492f-8049-458e7fadc4b5][(lispcookbook.github.io) Data structures]]
 **** Study Session [2025-04-13 Sun 15:00-16:00]
 Study session prior to §2.3 to allow more time to read and give extra time to discussing exercises.  Not streamed or recorded.  No host present.
-**** Session Six, [2025-04-20 Sun 15:00-16:00]
+**** Session 6, [2025-04-20 Sun 15:00-16:00]
 Session recorded by an attendee, but not streamed.  No host present due to multiple schedule conflicts and last-minute obligations.
 ***** Current section [[id:e45e5e54-2625-4d00-9e48-0d1cb002d2e6][(sarabander.github.io) SICP, 2e: 2.3 Symbolic Data]]
-**** Session Seven, [2025-04-27 Sun 15:00-16:00]
+**** Session 7, [2025-04-27 Sun 15:00-16:00]
 ***** Current section [[id:b66aedcd-6879-4a7f-856f-4de22a9a7bcd][(sarabander.github.io) SICP, 2e: 2.4 Multiple Representations for Abstract Data]]
 ***** Property lists
 ***** Association lists
@@ -239,7 +239,7 @@ Session recorded by an attendee, but not streamed.  No host present due to multi
 ****** [[id:b436fdf8-1290-484f-becf-c369142a0b80][Essentials of Programming Languages]]
 ****** [[id:79183f27-34a0-4541-a761-de494362b19c][The Art of the Metaobject Protocol]]
 ****** [[id:c2d9b1d2-004e-447c-aea6-c979572806d7][Concepts, Techniques, and Models of Computer Programming]]
-**** Session Eight, [2025-05-04 Sun 15:00-16:00]
+**** Session 8, [2025-05-04 Sun 15:00-16:00]
 ***** Current section [[id:597e2dfe-3c20-4137-b005-390b5d614509][(sarabander.github.io) SICP, 2e: 2.5 Systems with Generic Operations]]
 ***** Native number types in Racket causing issues in implementing the examples in SICP
 Racket has native fractions which messes with implementing some of the examples in SICP §2.5.
@@ -263,7 +263,7 @@ Seems to a mutation of Rich Hickey's
 which people seem to like quoting but not citing.
 ***** [[https://juliacon.org/2025/][JuliaCon 2025]]
 ***** [[id:eba3acf1-4582-49c4-b2af-4b66ac11437f][(sarabander.github.io) SICP, 2e: 2.5: Footnote #118]]
-**** Session Nine, [2025-05-11 Sun 15:00-16:00]
+**** Session 9, [2025-05-11 Sun 15:00-16:00]
 ***** Current section [[id:c4efd117-2a1c-4066-844a-c7b6aaa13ac8][(sarabander.github.io) SICP, 2e: 3.1 Assignment and Local State]]
 ***** [[id:5eac4aa2-ab1e-44ae-bfd8-498e800d9a14][(sarabander.github.io) SICP, 2e: Term Index]]
 ***** [[id:acf32411-d75c-4303-8993-feaecc3d7429][(mathoverflow.net) algorithms - What is this modified arithmetico-geometric mean function? - MathOverflow]]
@@ -277,7 +277,7 @@ which people seem to like quoting but not citing.
 ***** [[id:c85ec26d-5b42-4c3f-b5a7-16c53860025e][(elixirschool.com) Pipe Operator · Elixir School]]
 ***** [[id:91f3fe45-71ac-4d92-926e-c0058429763a][Crafting Interpreters by Robert Nystrom]]
 ***** [[id:f019fda3-5133-4cdb-b1c2-3361bbdd6782][(cacm.acm.org) A Programmable Programming Language – Communications of the ACM]]
-**** Session Ten, [2025-05-18 Sun 15:00-16:00]
+**** Session 10, [2025-05-18 Sun 15:00-16:00]
 ***** Current section [[id:45d86aec-1cbf-4562-b350-6787585091e7][(sarabander.github.io) SICP, 2e: 3.2 The Environment Model of Evaluation]]
 ***** [[id:8e72da0e-d883-46e3-bd1b-96dd985fe8ca][(www.youtube.com) Lecture 5A | MIT 6.001 Structure and Interpretation, 1986 - YouTube]]
 ***** [[id:feca9603-fe83-4e16-bfab-d323bb06bc2e][(www.youtube.com) L21 Assignment and State | UC Berkeley Cs 61A, Spring 2010 - YouTube]]
@@ -285,7 +285,7 @@ which people seem to like quoting but not citing.
 ***** Diagramming parallel vs series frames and environments
 Was attempting to draw a diagram of parallel vs. series frames when defining nested and non-nested functions and when calling said functions.
 ***** [[id:87ce890e-e647-45c9-825f-c98c030d44af][Build Your Own Lisp]]
-**** Session Eleven, [2025-05-25 Sun 15:00-16:00]
+**** Session 11, [2025-05-25 Sun 15:00-16:00]
 ***** Current section [[id:29b23078-07a0-470c-a8f9-ba522c99f0ff][(sarabander.github.io) SICP, 2e: 3.3 Modeling with Mutable Data]]
 ***** [[id:e74c4133-755a-428a-9067-5e35a5f6d836][(www.youtube.com) 6.001 SICP: Structure and Interpretation of Computer Programs (2004) - YouTube]]
 ****** In particular, Grant recommended [[id:9e601c08-6e33-4307-841b-09c372d7d04f][(www.youtube.com) 13. Environment Model - 6.001 Sicp (2004) - YouTube]] at 43 minutes in
@@ -293,7 +293,7 @@ Was attempting to draw a diagram of parallel vs. series frames when defining nes
 ***** [[id:0bb30c6d-d5f2-45a8-8e23-17f3c9afec57][(con.racket-lang.org) RacketCon]]
 ***** [[id:bc09874a-eb5d-4791-83b9-a87ca32f5371][(www.youtube.com) From Here to Lambda and Back Again - Douglas Crockford - RacketCon 2023 - YouTube]] at 8 minutes was shared by Grant
 ***** Next time, still covering [[id:29b23078-07a0-470c-a8f9-ba522c99f0ff][(sarabander.github.io) SICP, 2e: 3.3 Modeling with Mutable Data]]
-**** Session Twelve, [2025-06-01 Sun 15:00-16:00]
+**** Session 12, [2025-06-01 Sun 15:00-16:00]
 ***** Current section [[id:29b23078-07a0-470c-a8f9-ba522c99f0ff][(sarabander.github.io) SICP, 2e: 3.3 Modeling with Mutable Data]]
 ***** Grant's example of =add-to-agenda!=
 #+begin_src scheme
@@ -370,7 +370,7 @@ Looking for the implementation of =assoc= in [[id:2ce20b11-e9e9-48b0-ab32-de7f41
 ***** [[id:8858e904-2bb2-402f-aca1-ad2d254806f2][(en.wikipedia.org) Semaphore (programming) - Wikipedia]]
 ***** Favorite footnote: [[id:a28f0383-3559-47db-8823-b329b017c2f0][(sarabander.github.io) SICP, 2e: 3.3, Footnote 148]]
 ***** Next time [[id:3d0e4610-7589-43ae-9c35-ecac837c09fb][(sarabander.github.io) SICP, 2e: 3.4 Concurrency: Time Is of the Essence]]
-**** Session Thirteen, [2025-06-08 Sun 15:00-16:00]
+**** Session 13, [2025-06-08 Sun 15:00-16:00]
 ***** Current section [[id:3d0e4610-7589-43ae-9c35-ecac837c09fb][(sarabander.github.io) SICP, 2e: 3.4 Concurrency: Time Is of the Essence]]
 ***** [[https://physbuzz.github.io/sicp/ch3/notes-ch3-4.html#exercise-338][notes-ch3-4.md exercise 3.38]] from [[id:92730db7-8386-4e0d-b194-3ed27f545f74][(physbuzz.github.io) notes-ch3-4.md]]
 ***** [[id:118cbc2f-fd50-4360-940e-707594df0f8e][(pages.lip6.fr) Semantics of Combinations in Scheme (orleans.pdf)]]
@@ -385,7 +385,7 @@ Looking for the implementation of =assoc= in [[id:2ce20b11-e9e9-48b0-ab32-de7f41
 ***** [[id:9fa5a52c-1cc5-4267-81b9-dbd9175a8041][(www.cs.utexas.edu) E.W.Dijkstra Archive: Cooperating sequential processes (EWD 123)]]
 ***** [[id:01ace579-2c80-46ab-bddd-bba1ab0acadd][(dl.acm.org) Time, clocks, and the ordering of events in a distributed system | Communications of the ACM]]
 ***** [[id:519be27b-6c91-407a-b933-f6eca06436d2][(dl.acm.org) The structure of the “THE”-multiprogramming system | Communications of the ACM]]
-**** Session Fourteen, [2025-06-15 Sun 15:00-16:00]
+**** Session 14, [2025-06-15 Sun 15:00-16:00]
 ***** Current section [[id:54d70486-2673-4a0e-81a4-0e31bd047b13][(sarabander.github.io) SICP, 2e: 3.5 Streams]]
 ***** [[id:967104a4-5ff5-4b21-a1a2-40cedc60c8f8][(en.wikipedia.org) Apache Kafka - Wikipedia]]
 ***** [[id:477e7509-7f43-4114-b8e9-9af784f748db][(spark.apache.org) Apache Spark™ - Unified Engine for large-scale data analytics]]
@@ -393,7 +393,7 @@ Looking for the implementation of =assoc= in [[id:2ce20b11-e9e9-48b0-ab32-de7f41
 ***** [[id:c575f411-8c6f-40f7-a507-bfef7a9ca42c][(en.wikipedia.org) Farey sequence - Wikipedia]]
 ***** [[id:b0cc674c-8490-4af4-a228-cd41e051a100][(sarabander.github.io) SICP, 2e: 3.5, Footnote 186]]
 ***** Next session, continuing [[id:54d70486-2673-4a0e-81a4-0e31bd047b13][(sarabander.github.io) SICP, 2e: 3.5 Streams]]
-**** Session Fifteen, [2025-06-22 Sun 15:00-16:00]
+**** Session 15, [2025-06-22 Sun 15:00-16:00]
 ***** Current section, continuing [[id:54d70486-2673-4a0e-81a4-0e31bd047b13][(sarabander.github.io) SICP, 2e: 3.5 Streams]]
 ***** [[id:f23ccb01-9834-4270-9157-e6892a892293][(sarabander.github.io) SICP, 2e: 3.5, Footnote 200]]
 ***** [[id:8d97c9f0-dbd7-479c-aa43-625a81d41f68][(en.wikipedia.org) Continuation-passing style - Wikipedia]]
@@ -407,7 +407,7 @@ Looking for the implementation of =assoc= in [[id:2ce20b11-e9e9-48b0-ab32-de7f41
 ***** [[id:77a8ed9a-c63c-4f59-b1eb-71bdcf057070][(sarabander.github.io) SICP, 2e: 3.5, Footnote 204]]
 ***** [[id:4ce14cbe-3b40-41af-bf7c-b4677450f635][(www.youtube.com) Oopsla Conference: Growing a Language - YouTube]]
 ***** Next session, [[id:bf2fb2a1-46ab-4e61-9224-5e92d399cb97][(sarabander.github.io) SICP, 2e: 4.1 The Metacircular Evaluator]]
-**** Session Sixteen, [2025-06-29 Sun 15:00-16:00]
+**** Session 16, [2025-06-29 Sun 15:00-16:00]
 ***** Current section [[id:bf2fb2a1-46ab-4e61-9224-5e92d399cb97][(sarabander.github.io) SICP, 2e: 4.1 The Metacircular Evaluator]]
 ***** [[id:8b8e0774-c8b6-406d-b1a1-45e81546179b][(standards.scheme.org) r4rs.dvi - r4rs.pdf]]
 ***** [[id:80b2a783-0c85-451c-bed8-3370b933e222][(en.wikipedia.org) Model-driven engineering - Wikipedia]]
@@ -430,7 +430,7 @@ Looking for the implementation of =assoc= in [[id:2ce20b11-e9e9-48b0-ab32-de7f41
 ***** [[id:cf030a97-abaa-4a87-abc0-6305374b5166][(sarabander.github.io) SICP, 2e: 4.1, Footnote 228]]
 ***** [[id:8dcad8c9-1dd2-49b8-9ca7-97fe8a246529][(sarabander.github.io) SICP, 2e: 4.1, Footnote 232]]
 ***** Next session, [[id:b01f3776-c3ea-430a-8df3-723db559fa6b][(sarabander.github.io) SICP, 2e: 4.2 Variations on a Scheme — Lazy Evaluation]]
-**** Session seventeen, [2025-07-06 Sun 15:00-16:00]
+**** Session 17, [2025-07-06 Sun 15:00-16:00]
 ***** Current section [[id:b01f3776-c3ea-430a-8df3-723db559fa6b][(sarabander.github.io) SICP, 2e: 4.2 Variations on a Scheme — Lazy Evaluation]]
 ****** Terminology glossary (courtesy of [[id:e3186266-5969-4f6d-9de7-0007b1220135][Grant]])
 4.2.1:
