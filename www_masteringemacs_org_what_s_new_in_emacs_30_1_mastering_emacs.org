@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       62af54e1-2474-4beb-a90c-e2f6351e8bb1
+:ROAM_REFS: https://www.masteringemacs.org/article/whats-new-in-emacs-301
+:END:
+#+title: (www.masteringemacs.org) What's New in Emacs 30.1? - Mastering Emacs
+#+filetags: :emacs:blog_post:website:
+
+Some especially interesting take-aways:
+ - remote-file-name-access-timeout
+   - [[https://www.gnu.org/software/emacs/manual/html_node/elisp/Testing-Accessibility.html][Testing Accessibility (GNU Emacs Lisp Reference Manual)]]
+ - dictionary-tooltip-mode
+   - [[https://www.gnu.org/software/emacs/manual/html_node/emacs/Word-Search.html][Word Search (GNU Emacs Manual)]]
+ - eldoc-echo-area-use-multiline-p
+   - [[https://www.gnu.org/software/emacs/manual/html_node/emacs/Programming-Language-Doc.html][Programming Language Doc (GNU Emacs Manual)]]

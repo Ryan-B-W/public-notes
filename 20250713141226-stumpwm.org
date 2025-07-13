@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       db9ec952-d3aa-4523-a357-6c6b5a812008
+:ROAM_ALIASES: "Stump Window Manager"
+:END:
+#+title: StumpWM
+#+filetags: :common_lisp:lisp:open_source:linux:desktop_environment:software:
+
+[[id:a3c19488-876c-4b17-81c0-67b9c7fc64ee][Open-source]] tree window manager (similar to a tiling window manager) for [[id:647e2253-df22-4f90-9b9a-9752ce5d0efa][X11]] written in [[id:b5fb5c4b-d10f-4bca-91e1-a5e946ef0c83][Common Lisp]].
+* (stumpwm.github.io) Stump Window Manager                          :website:
+:PROPERTIES:
+:ID:       114d8607-fb5e-41e5-8b04-5bd86924cdbc
+:ROAM_REFS: https://stumpwm.github.io/
+:END:
+
+#+begin_quote
+  * Stump Window Manager
+
+  ** Welcome!
+
+  StumpWM is a tiling, keyboard driven X11 Window Manager written entirely in Common Lisp.
+
+  If you're tired of flipping through themes like channel-surfing, and going from one perfect-except-for-just-one-thing window manager to another even-more-broken-in-some-other-way then perhaps StumpWM can help.
+
+  StumpWM attempts to be customizable yet visually minimal.  There are no window decorations, no icons, and no buttons.  It does have various hooks to attach your personal customizations, and variables to tweak.
+
+  - Hack the good hack
+  - Debug your good hack
+  - Customize your window manager
+
+  *While it's running* That's right.  With a 100% Common Lisp window manager there's no stopping the hacks.  Just re-eval and GO!
+#+end_quote
