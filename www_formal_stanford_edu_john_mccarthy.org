@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       af5a3b31-df45-43b6-8186-7dcac610aafc
+:ROAM_REFS: https://www-formal.stanford.edu/jmc/
+:END:
+#+title: (www-formal.stanford.edu) John McCarthy
+#+filetags: :website:
+
+#+begin_quote
+  John McCarthy's Home Page
+#+end_quote
+* (www-formal.stanford.edu) A Basis for a Mathematical Theory of Computation ( 4-Jun-1996)
+:PROPERTIES:
+:ID:       11b682f5-6450-4767-a8ae-519c43f544fa
+:ROAM_REFS: http://www-formal.stanford.edu/jmc/basis.html
+:END:
+
+** (www-formal.stanford.edu) A BASIS FOR A MATHEMATICAL THEORY OF COMPUTATION
+:PROPERTIES:
+:ID:       db0c8151-b485-4060-890c-10a326d93a47
+:ROAM_REFS: https://www-formal.stanford.edu/jmc/basis1/basis1.html
+:END:
+
+#+begin_quote
+  * A BASIS FOR A MATHEMATICAL THEORY OF COMPUTATION
+
+  *JOHN McCARTHY*
+
+  *1961-1963*
+
+  This 1963 paper was included in /Computer Programming and Formal Systems/, edited by P. Braffort and D. Hirshberg and published by North-Holland.  An earlier version was published in 1961 in the /Proceedings of the Western Joint Computer Conference.
+#+end_quote
+** (www-formal.stanford.edu) A Basis for a Mathematical Theory of Computation (basis1.pdf) :mime_type_application_pdf:
+:PROPERTIES:
+:ID:       a9d504e6-0bda-448c-89a0-983ec1b14232
+:ROAM_REFS: http://www-formal.stanford.edu/jmc/basis1.pdf
+:END:
+* (www-formal.stanford.edu) TOWARDS A MATHEMATICAL SCIENCE OF COMPUTATION (23-Jun-1997)
+:PROPERTIES:
+:ID:       ca12f9fc-fcf1-41fc-84fb-21d9f2bde567
+:ROAM_REFS: http://www-formal.stanford.edu/jmc/towards.html
+:END:
+** (www-formal.stanford.edu) Towards a Mathematical Science of Computation
+:PROPERTIES:
+:ID:       12485f83-5a6a-4b22-8fe4-7cd1a9bcbdb7
+:ROAM_REFS: http://www-formal.stanford.edu/jmc/towards/towards.html
+:END:

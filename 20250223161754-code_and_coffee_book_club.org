@@ -554,3 +554,64 @@ From 4.2.3:
 #+end_src
 **** Session 18, [2025-07-13 Sun 15:00-16:00]
 ***** Current section [[id:da4c3b80-24fe-4817-8443-87a1ccee7910][(sarabander.github.io) SICP, 2e: 4.3 Variations on a Scheme — Nondeterministic Computing]]
+***** [[id:db0c8151-b485-4060-890c-10a326d93a47][(www-formal.stanford.edu) A BASIS FOR A MATHEMATICAL THEORY OF COMPUTATION]]
+***** [[id:2158c20e-613e-4da6-8cd4-0d5571362249][(www.paulgraham.com) On Lisp]]
+***** [[id:c5dfdf39-fe95-4f63-b443-778c67652aa7][Satisfiability modulo theories - Wikipedia]]
+****** [[id:587195e0-05b2-4d98-8fc0-83002892bbf4][(en.wikipedia.org) Z3 Theorem Prover - Wikipedia]]
+***** [[id:406eca58-06a4-4a4f-bf29-28ec8c17c224][(github.com) aimacode/aima-lisp: Common Lisp implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"]]
+***** From [[id:e3186266-5969-4f6d-9de7-0007b1220135][Grant]], "actually, here is some code example of search in On Lisp in a nondeterministic style."
+#+caption: Fig 22.1 from On Lisp: Deterministic tree search.
+#+begin_src lisp
+  (define (descent n1 n2)
+      (if (eq? n1 n2)
+          (list n2)
+          (let ((p (try-paths (kids n1) n2)))
+            (if p (cons n1 p) #f))))
+
+  (define (try-paths ns n2)
+      (if (null? ns)
+          #f
+          (or (descent (car ns) n2)
+              (try-paths (cdr ns) n2))))
+#+end_src
+
+#+caption: Fig 22.2 from On Lisp: Nondeterministic tree search.
+#+begin_src lisp
+  (define (descent n1 n2)
+      (cond ((eq? n1 n2) (list n2))
+            ((null? (kids n1)) (fail))
+            (else (cons n1 (descent (choose (kids n1)) n2)))))
+#+end_src
+***** From [[id:e3186266-5969-4f6d-9de7-0007b1220135][Grant]], "here are his implementations of choose and fail. (there seem to be some formatting errors -- there were some issues in getting the book converted to PDF as the original manuscript was lost iirc)"
+#+caption: Fig 22.4 from On Lisp: Scheme implementation of /choose/ and /fail/.
+#+begin_src lisp
+  (define *paths* ())
+  (define failsym '@)
+
+  (define (choose choices)
+      (if (null? choices)
+          (fail)
+          (call-with-current-continuation
+           (lambda (cc)
+             (set! *paths*
+                   (cons (lambda ()
+                           (cc (choose (cdr choices))))
+                         ,*paths*))
+             (car choices)))))
+
+  (define fail)
+
+  (call-with-current-continuation
+   (lambda (cc)
+     (set! fail
+           (lambda ()
+             (if (null? *paths*)
+                 (cc failsym)
+                 (let ((p1 (car *paths*)))
+                   (set! *paths* (cdr *paths*))
+                   (p1)))))))
+#+end_src
+***** [[id:106ba304-23e6-4e4f-8d39-ef9b2d048991][(www.youtube.com) Zoom into 1/Phi - YouTube]]
+***** [[https://www-formal.stanford.edu/jmc/basis1/node7.html#SECTION00025000000000000000][Ambiguous Functions]] from [[id:db0c8151-b485-4060-890c-10a326d93a47][(www-formal.stanford.edu) A BASIS FOR A MATHEMATICAL THEORY OF COMPUTATION]]
+***** [[https://cs61c.org/su25/][Home | CS 61C Summer 2025]] from [[id:34e4ecb5-ef41-42cf-af05-2c7231998105][(cs61a.org) CS 61A Spring 2025]]
+***** [[id:d99ccdca-d940-4e4d-8536-88425b8a01ed][(sp25.datastructur.es) Home | CS 61B Spring 2025]]

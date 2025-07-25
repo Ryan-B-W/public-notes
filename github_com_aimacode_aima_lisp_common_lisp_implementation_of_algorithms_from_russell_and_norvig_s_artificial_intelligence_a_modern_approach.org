@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       406eca58-06a4-4a4f-bf29-28ec8c17c224
+:ROAM_REFS: https://github.com/aimacode/aima-lisp
+:END:
+#+title: (github.com) aimacode/aima-lisp: Common Lisp implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"
+#+filetags: :website:
+
+#+begin_quote
+  * aima-lisp
+
+  Common Lisp implementation of algorithms from Russell And Norvig's book /Artificial Intelligence - A Modern Approach./
+
+  This repository was the original code base, back in 1995.  Since then, the Java and Python versions have become more popular, and this Lisp version is no longer up-to-date.  But it is here for whatever use you want to make of it.
+#+end_quote

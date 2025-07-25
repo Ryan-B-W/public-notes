@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       2158c20e-613e-4da6-8cd4-0d5571362249
+:ROAM_REFS: https://www.paulgraham.com/onlisp.html
+:END:
+#+title: (www.paulgraham.com) On Lisp
+#+filetags: :website:
+
+#+begin_quote
+  * On Lisp
+
+  /On Lisp/ is a comprehensive study of advanced Lisp techniques, with bottom-up programming as the unifying theme.  It gives the first complete description of macros and macro applications.  The book also covers important subjects related to bottom-up programming, including functional programming, rapid prototyping, interactive development, and embedded languages.  The final chapter takes a deeper look at object-oriented programming than previous Lisp books, showing the step-by-step construction of a working model of the Common Lisp Object System (CLOS).
+
+  As well as an indispensable reference, /On Lisp/ is a source of software.  Its examples form a library of functions and macros that readers will be able to use in their own Lisp programs.
+
+  Prentice Hall, 1993, 432 pages, paperback.  ISBN 0130305529.
+
+  *New:* [[https://www.paulgraham.com/onlisptext.html][Download]] it for free.
+#+end_quote

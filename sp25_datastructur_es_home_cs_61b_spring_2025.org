@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       d99ccdca-d940-4e4d-8536-88425b8a01ed
+:ROAM_REFS: https://sp25.datastructur.es/
+:END:
+#+title: (sp25.datastructur.es) Home | CS 61B Spring 2025
+#+filetags: :website:
