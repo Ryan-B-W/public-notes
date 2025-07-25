@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       69a18027-5115-4206-9ff9-fbd09a48ec76
+:ROAM_REFS: https://en.wikipedia.org/wiki/Mnesia
+:END:
+#+title: (en.wikipedia.org) Mnesia - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  *Mnesia* is a [[https://en.wikipedia.org/wiki/Distributed_computing][distributed]], [[https://en.wikipedia.org/wiki/Real-time_computing][soft real-time]] [[https://en.wikipedia.org/wiki/Database_management_system][database management system]] written in the [[https://en.wikipedia.org/wiki/Erlang_(programming_language)][Erlang programming language]].  It is distributed as part of the [[https://en.wikipedia.org/wiki/Open_Telecom_Platform][Open Telecom Platform]].
+#+end_quote

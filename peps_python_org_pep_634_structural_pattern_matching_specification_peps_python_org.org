@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       8fd95bf2-8ff8-404a-8c4d-9068d24d3cb5
+:ROAM_REFS: https://peps.python.org/pep-0634/
+:END:
+#+title: (peps.python.org) PEP 634 – Structural Pattern Matching: Specification | peps.python.org
+#+filetags: :website:
+
+#+begin_quote
+  This PEP provides the technical specification for the match statement.  It replaces [[https://peps.python.org/pep-0622/][PEP 622]], which is hereby split in three parts:
+
+  - [[https://peps.python.org/pep-0634/][PEP 634]]: Specification
+  - [[https://peps.python.org/pep-0635/][PEP 635]]: Motivation and Rationale
+  - [[https://peps.python.org/pep-0636/][PEP 636]]: Tutorial
+
+  This PEP is intentionally devoid of commentary; the motivation and all explanations of our design choices are in [[https://peps.python.org/pep-0635/][PEP 635]].  First-time readers are encouraged to start with [[https://peps.python.org/pep-0636/][PEP 636]], which provides a gentler introduction to the concepts, syntax and semantics of patterns.
+#+end_quote

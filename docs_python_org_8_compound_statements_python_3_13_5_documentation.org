@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       a286cc44-f062-4331-942a-4cfecc5aa4ce
+:ROAM_REFS: https://docs.python.org/3/reference/compound_stmts.html
+:END:
+#+title: (docs.python.org) 8. Compound statements — Python 3.13.5 documentation
+#+filetags: :specification:python_lang:documentation:website:
+
+#+begin_quote
+  * 8. Compound statements
+
+  Compound statements contain (groups of) other statements; they affect or control the execution of those other statements in some way.  In general, compound statements span multiple lines, although in simple incarnations a whole compound statement may be contained in one line.
+#+end_quote
+* (docs.python.org) 8.6: The =match= statement
+:PROPERTIES:
+:ID:       37754f52-27a9-4a8f-85c3-d8e4c897ab2a
+:ROAM_REFS: https://docs.python.org/3/reference/compound_stmts.html#match
+:END:
+#+begin_quote
+  ** 8.6. The =match= statement
+
+  Added in version 3.10.
+
+  The match statement is used for pattern matching.  Syntax:
+
+  #+begin_example
+  match_stmt   ::= 'match' subject_expr ":" NEWLINE INDENT case_block+ DEDENT
+  subject_expr ::= star_named_expression "," star_named_expressions?
+                   | named_expression
+  case_block   ::= 'case' patterns [guard] ":" block
+  #+end_example
+
+  Note
+
+  This section uses single quotes to denote [[https://docs.python.org/3/reference/lexical_analysis.html#soft-keywords][soft keywords]].
+
+  Pattern matching takes a pattern as input (following =case=) and a subject value (following =match=).  The pattern (which may contain subpatterns) is matched against the subject value.  The outcomes are:
+
+  - A match success or failure (also termed a pattern success or failure).
+
+  - Possible binding of matched values to a name.  The prerequisites for this are further discussed below.
+
+  The =match= and =case= keywords are [[https://docs.python.org/3/reference/lexical_analysis.html#soft-keywords][soft keywords]].
+
+  See also
+
+  - [[https://peps.python.org/pep-0634/][*PEP 634*]] -- Structural Pattern Matching: Specification
+
+  - [[https://peps.python.org/pep-0636/][*PEP 636*]] -- Structural Pattern Matching: Tutorial
+#+end_quote

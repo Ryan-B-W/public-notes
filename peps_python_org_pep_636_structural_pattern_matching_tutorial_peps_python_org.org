@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       1f967e65-c783-4a7b-9a6c-51efdee4d0be
+:ROAM_REFS: https://peps.python.org/pep-0636/
+:END:
+#+title: (peps.python.org) PEP 636 – Structural Pattern Matching: Tutorial | peps.python.org
+#+filetags: :website:
+
+#+begin_quote
+  This PEP is a tutorial for the pattern matching introduced by [[https://peps.python.org/pep-0634/][PEP 634]].
+
+  [[https://peps.python.org/pep-0622/][PEP 622]] proposed syntax for pattern matching, which received detailed discussion both from the community and the Steering Council.  A frequent concern was about how easy it would be to explain (and learn) this feature.  This PEP addresses that concern providing the kind of document which developers could use to learn about pattern matching in Python.
+
+  This is considered supporting material for [[https://peps.python.org/pep-0634/][PEP 634]] (the technical specification for pattern matching) and [[https://peps.python.org/pep-0635/][PEP 635]] (the motivation and rationale for having pattern matching and design considerations).
+
+  For readers who are looking more for a quick review than for a tutorial, see [[https://peps.python.org/pep-0636/#pep-636-appendix-a][Appendix A]].
+#+end_quote

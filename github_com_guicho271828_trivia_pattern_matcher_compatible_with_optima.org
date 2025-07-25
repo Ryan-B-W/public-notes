@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       607fd56b-7a94-4a30-9489-a66ec3e9a0a9
+:ROAM_REFS: https://github.com/guicho271828/trivia
+:END:
+#+title: (github.com) guicho271828/trivia: Pattern Matcher Compatible with Optima
+#+filetags: :software:common_lisp:lisp:website:
+
+#+begin_quote
+  * Trivia : Trivial Pattern Matching Compiler
+
+  Trivia is a pattern matching compiler that is *compatible with Optima*.  It shares the same testing code with Optima and acts as a drop-in replacement for 99% usage.  For the basic usage, consult [[https://github.com/guicho271828/trivia/wiki][our wiki]].  *Known differences between Optima and Trivia, which are bug, are [[https://github.com/guicho271828/trivia/wiki/Known-Differences][described here]] (7/31/2016)*
+
+  #+begin_src lisp
+    (defpackage :playwithit
+      (:use :cl
+    -       :optima))
+    +       :trivia))
+    (in-package :playwithit)
+
+    (match '(something #(0 1 2))
+      ((list a (vector 0 _ b))
+       (values a b)))
+    ;; --> SOMETHING, 2
+  #+end_src
+
+  Patterns compiled with Trivia runs *[[https://github.com/guicho271828/trivia/wiki/Benchmarking-Results][faster than Optima]]*.
+
+  | runtime [sec] | [[https://github.com/guicho271828/trivia/blob/master/bench/definitions.lisp#L11][fibonacci]] | [[https://github.com/guicho271828/trivia/blob/master/bench/definitions.lisp#L40][gomoku]] | [[https://github.com/guicho271828/trivia/blob/master/bench/definitions.lisp#L214][string-match]] |
+  | optima        | 11.5      | 39.8   | 82.5         |
+  | trivia [1]    | *9.68*    | *37.4* | *1.57*       |
+
+  [1]: trivia is using :balland2006 optimiizer
+
+  ... and Trivia is *more extensible*.  In fact, Trivia's =defpattern= is able to implement all of [[https://github.com/m2ym/optima#constructor-pattern][unmodifiable, core pattern language]] in Optima within itself.
+
+  #+begin_src lisp
+    (defpattern cons (a b)
+      (with-gensyms (it)
+        `(guard1 (,it :type cons) (consp ,it) (car ,it) ,a (cdr ,it) ,b)))
+  #+end_src
+
+  Detailed documentation is in [[https://github.com/guicho271828/trivia/wiki][github wiki]].
+#+end_quote
