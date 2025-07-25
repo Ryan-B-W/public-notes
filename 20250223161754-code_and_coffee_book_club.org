@@ -552,3 +552,5 @@ From 4.2.3:
   ;;; L-Eval value:
   ;2.716924
 #+end_src
+**** Session 18, [2025-07-13 Sun 15:00-16:00]
+***** Current section [[id:da4c3b80-24fe-4817-8443-87a1ccee7910][(sarabander.github.io) SICP, 2e: 4.3 Variations on a Scheme — Nondeterministic Computing]]

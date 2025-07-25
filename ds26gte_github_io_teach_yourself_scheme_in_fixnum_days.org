@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       8b0c61e0-f59a-4cc2-835d-dd09efaecdea
+:ROAM_REFS: https://ds26gte.github.io/tyscheme/index.html
+:END:
+#+title: (ds26gte.github.io) Teach Yourself Scheme in Fixnum Days
+#+filetags: :website:

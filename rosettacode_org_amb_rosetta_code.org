@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       150567ef-44b5-4704-9600-4d03d7a9ce0b
+:ROAM_REFS: https://rosettacode.org/wiki/Amb
+:END:
+#+title: (rosettacode.org) Amb - Rosetta Code
+#+filetags: :website:

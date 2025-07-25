@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       317986fc-68d6-4a39-952c-3604f16653de
+:ROAM_REFS: https://thesmartnik.com/solving-pazzles-wth-amb.html
+:END:
+#+title: (thesmartnik.com) Solving Puzzles with Amb | Write-only tech blog
+#+filetags: :blog_post:website:

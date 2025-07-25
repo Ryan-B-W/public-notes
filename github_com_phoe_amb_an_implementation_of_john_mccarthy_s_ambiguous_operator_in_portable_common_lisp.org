@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       2f8c2901-0457-49b8-8819-155ab6a8febe
+:ROAM_REFS: https://github.com/phoe/amb
+:END:
+#+title: (github.com) phoe/amb: An implementation of John McCarthy's ambiguous operator in portable Common Lisp.
+#+filetags: :website:
+
+#+begin_quote
+  * AMB
+
+  This is an implementation of John McCarthy's ambiguous operator written in portable Common Lisp.
+
+  The =amb= operator implements a system which is capable of automatically searching for a set of values for variables (henceforth called /ambiguous variables/) for which a set of constraints is satisfied.  The operator and its example use are described in detail in [[https://sarabander.github.io/sicp/html/4_002e3.xhtml#g_t4_002e3][Structure and Interpretation of Computer Programs Chapter 4.3 (Nondeterministic Computing)]].
+
+  See the [[https://github.com/phoe/amb/blob/main/doc/MANUAL.md][manual]] and the [[https://github.com/phoe/amb/blob/main/t/test-sicp.lisp][SICP test cases]] for examples.
+#+end_quote

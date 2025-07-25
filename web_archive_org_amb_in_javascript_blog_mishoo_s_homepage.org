@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       0e1aa0c4-b320-4f58-a6b2-c3422e7cb681
+:ROAM_REFS: https://web.archive.org/web/20110412003241/http:/mihai.bazon.net/blog/amb-in-javascript
+:END:
+#+title: (web.archive.org) Amb() in JavaScript / Blog / Mishoo's homepage
+#+filetags: :archive_org:blog_post:website:

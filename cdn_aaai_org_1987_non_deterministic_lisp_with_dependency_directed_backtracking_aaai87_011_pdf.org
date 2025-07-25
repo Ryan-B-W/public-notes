@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       634e757a-14c1-48b5-a195-5dbc0a998676
+:ROAM_REFS: https://cdn.aaai.org/AAAI/1987/AAAI87-011.pdf
+:END:
+#+title: (cdn.aaai.org) 1987-Non-Deterministic Lisp with Dependency-directed Backtracking - AAAI87-011.pdf
+#+filetags: :mime_type_application_pdf:website:
+
+#+begin_quote
+  * Non-Deterministic Lisp with Dependency-Directed Backtracking
+
+  Ramin Zabiht, David McAllester and David Chapman \\
+  Artificial Intelligence Laboratory \\
+  Massachusetts Institute of Technology
+
+  *Abstract*
+
+  Extending functional Lisp with McCarthy's non-deterministic operator AHFJyields a language which can concisely express search problems.  Dependency-directed backtracking is a powerful search strategy.  We describe a non-deterministic Lisp dialect called SCHEMER and show that it can provide automatic dependency-directed backtracking.  The resulting language provides a convenient interface to this efficient backtracking strategy.
+
+  Many problems in Artificial Intelligence involve search.  SCHEMER is a Lisp-like language with non-determinism which provides a natural way to express sea.rch problems.  Dependency-directed backtracking is a powerful strategy for solving search problems.  We describe how to use dependency-directed backtracking to interpret SCHEMER.  This provides SCHEMER programs with the benefits of dependency-directed backtracking automatically.
+
+  We begin by describing the SCHEMER language.  We next provide an overview of dependency-directed backtracking and list its requirements.  We then show how to meet these requirements in interpreting SCHEMER.  Finally, we argue that SCHEMER with automatic dependency-directed backtracking would be a useful tool for Artificial Intelligence by comparing it with current methods for obtaining dependency-directed backtracking.
+#+end_quote
