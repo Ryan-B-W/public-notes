@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       1ab65fc1-7758-496b-8062-c2161dc2ecc1
+:ROAM_REFS: https://courses.cs.northwestern.edu/325/readings/graham/graham-notes.html
+:END:
+#+title: (courses.cs.northwestern.edu) Notes on Graham's ANSI Common Lisp
+#+filetags: :website:

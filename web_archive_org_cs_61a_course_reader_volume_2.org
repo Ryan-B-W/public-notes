@@ -1,0 +1,82 @@
+:PROPERTIES:
+:ID:       a843ece5-0fe5-4519-9f49-2cf0385a97ac
+:ROAM_REFS: https://web.archive.org/web/20091015045116/http:/inst.eecs.berkeley.edu/~cs61a/reader/vol2.html
+:END:
+#+title: (web.archive.org) CS 61A Course Reader, Volume 2
+#+filetags: :website:
+
+#+begin_quote
+  * CS61A: Structure and Interpretation of Computer Programs
+
+  *** Course Reader, Volume 2: Reference Documents
+
+  *These documents are here for online reference!  Please do not print these on the printers in Berkeley computer labs.  Lab printers are for your homework and project solutions, not for reference documents.  Thank you.*
+
+  For many years I resisted the trend to putting course materials online, but I've been convinced because of the increasing numbers of people who aren't at Berkeley but use the [[http://wla.berkeley.edu/main.php?course=cs61a][online lectures]] to study SICP.  Welcome, visitors!
+
+  - [[http://inst.eecs.berkeley.edu/~cs61a/reader/aboveline.pdf][Object-Oriented Programming: Above the Line View]]
+  - [[http://inst.eecs.berkeley.edu/~cs61a/reader/ref-man.pdf][Reference Manual for the OOP Language]]
+  - [[http://inst.eecs.berkeley.edu/~cs61a/reader/belowline.pdf][Object-Oriented Programming: Below the Line View]]
+  - [[http://inst.eecs.berkeley.edu/~cs61a/reader/gnuemacs.pdf][Highlights of GNU Emacs]]^{*}
+  - [[http://inst.eecs.berkeley.edu/~cs61a/reader/quick.pdf][Emacs Quick Reference Guide]]^{*}
+  - [[http://inst.eecs.berkeley.edu/~cs61a/reader/exit.pdf][Exit Information (Read at end of semester!)]]
+  - [[http://inst.eecs.berkeley.edu/~cs61a/reader/Therac-25.pdf][An Investigation of the Therac-25 Accidents]]^{**}
+  - [[http://inst.eecs.berkeley.edu/~cs61a/reader/r5rs.pdf][Revised^{5} Report on Scheme]]^{***}
+  - Sample Exams:
+    - *Please read this:*
+
+      These exams are made up of actual past exam questions, but reorganized to make each sample more comprehensive and to choose the best possible questions.  Some of the exams are a little longer (by one question) than actual exams, but they're in the right ballpark.
+
+      Since the questions within a sample are taken from different semesters, don't try to compare the number of points between problems.  The solutions include scoring information only to give you an idea of how part credit is awarded within each problem.
+
+    - Midterm 1
+      - [[http://inst.eecs.berkeley.edu/~cs61a/reader/mt1-1.pdf][Sample exam 1]]
+      - [[http://inst.eecs.berkeley.edu/~cs61a/reader/mt1-1.soln.txt][Solutions to sample exam 1]]
+      - [[http://inst.eecs.berkeley.edu/~cs61a/reader/mt1-2.pdf][Sample exam 2]]
+      - [[http://inst.eecs.berkeley.edu/~cs61a/reader/mt1-2.soln.txt][Solutions to sample exam 2]]
+      - [[http://inst.eecs.berkeley.edu/~cs61a/reader/mt1-3.pdf][Sample exam 3]]
+      - [[http://inst.eecs.berkeley.edu/~cs61a/reader/mt1-3.soln.txt][Solutions to sample exam 3]]
+
+    - Midterm 2
+      - [[http://inst.eecs.berkeley.edu/~cs61a/reader/mt2-1.pdf][Sample exam 1]]
+      - [[http://inst.eecs.berkeley.edu/~cs61a/reader/mt2-1.soln.txt][Solutions to sample exam 1]]
+      - [[http://inst.eecs.berkeley.edu/~cs61a/reader/mt2-2.pdf][Sample exam 2]]
+      - [[http://inst.eecs.berkeley.edu/~cs61a/reader/mt2-2.soln.txt][Solutions to sample exam 2]]
+      - [[http://inst.eecs.berkeley.edu/~cs61a/reader/mt2-3.pdf][Sample exam 3]]
+      - [[http://inst.eecs.berkeley.edu/~cs61a/reader/mt2-3.soln.txt][Solutions to sample exam 3]]
+
+    - Midterm 3
+      - [[http://inst.eecs.berkeley.edu/~cs61a/reader/mt3-1.pdf][Sample exam 1]]
+      - [[http://inst.eecs.berkeley.edu/~cs61a/reader/mt3-1.soln.txt][Solutions to sample exam 1]]
+      - [[http://inst.eecs.berkeley.edu/~cs61a/reader/mt3-2.pdf][Sample exam 2]]
+      - [[http://inst.eecs.berkeley.edu/~cs61a/reader/mt3-2.soln.txt][Solutions to sample exam 2]]
+      - [[http://inst.eecs.berkeley.edu/~cs61a/reader/mt3-3.pdf][Sample exam 3]]
+      - [[http://inst.eecs.berkeley.edu/~cs61a/reader/mt3-3.soln.txt][Solutions to sample exam 3]]
+
+    - Final exam
+      - [[http://inst.eecs.berkeley.edu/~cs61a/reader/f-1.pdf][Sample exam 1]]
+      - [[http://inst.eecs.berkeley.edu/~cs61a/reader/f-1.soln.txt][Solutions to sample exam 1]]
+      - [[http://inst.eecs.berkeley.edu/~cs61a/reader/f-2.pdf][Sample exam 2]]
+      - [[http://inst.eecs.berkeley.edu/~cs61a/reader/f-2.soln.txt][Solutions to sample exam 2]]
+      - [[http://inst.eecs.berkeley.edu/~cs61a/reader/f-3.pdf][Sample exam 3]]
+      - [[http://inst.eecs.berkeley.edu/~cs61a/reader/f-3.soln.txt][Solutions to sample exam 3]]
+  - [[http://inst.eecs.berkeley.edu/~cs61a/reader/mapreduce-osdi04.pdf][Mapreduce: Simplified Data Processing on Large Clusters]]^{****}
+  - [[http://inst.eecs.berkeley.edu/~cs61a/reader/notes.pdf][Lecture Notes]]
+  - [[http://inst.eecs.berkeley.edu/~cs61a/reader/sicp-errata.txt4D][SICP Errata]]^{*****}
+  - [[http://inst.eecs.berkeley.edu/~cs61a/reader/word.txt][Berkeley Word/Sentence Functions]]
+  - Ergonomic Information (external links):
+    - [[http://www.cdc.gov/od/ohs/Ergonomics/compergo.htm][Computer Workstation Ergonomics (CDC)]]
+    - [[http://dohs.ors.od.nih.gov/ergo_computers.htm][Ergonomics for Computer Workstations (NIH DOHS)]]
+
+  *: Prof. Paul Hilfinger, UCB EECS\\
+  **: Nancy G. Leveson, Clark S. Turner. IEEE Computer, July 1993\\
+  ***: Richard Kelsey, William Clinger, Jonathan Rees (Editors), et al., 1998\\
+  ****: Jeffrey Dean, Sanjay Ghemawat, Google, Inc., OSDI 2004\\
+  *****: Harold Abelson, Gerald Jay Sussman, Julie Sussman, 1999
+
+  [[http://inst.eecs.berkeley.edu/~cs61a/reader/vol2.html][Volume 2]]
+
+  [[http://inst.eecs.berkeley.edu/~cs61a][Back to class web page]]
+
+  [[http://wla.berkeley.edu/cs61a][Weiner Lecture Archives]]
+#+end_quote

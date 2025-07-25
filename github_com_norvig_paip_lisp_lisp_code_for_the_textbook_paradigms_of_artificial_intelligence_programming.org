@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9a933b00-0c16-4abb-99ba-c3988ac86d32
+:ROAM_REFS: https://github.com/norvig/paip-lisp
+:END:
+#+title: (github.com) norvig/paip-lisp: Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
+#+filetags: :website:
+
+#+begin_quote
+  This is an open-source repository for the book /Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp/ by Peter Norvig (1992), and the code contained therein.  The copyright has reverted to the author, who has shared it here under MIT license.  On the list of [[https://github.com/cs-books/influential-cs-books][most influential books for programmers]].  As seen on [[https://norvig.com/paip-tv.html][TV]].  See also: [[https://norvig.com/paip-errata.html][errata]], [[https://norvig.com/paip-comments.html][comments]], [[https://norvig.com/Lisp-retro.html][retrospective]].
+
+  The book is available in these formats:
+
+  - we're generating ebooks - epub and pdf - from the markdown files, see [[https://github.com/norvig/paip-lisp/releases][Releases]]
+  - [[https://github.com/norvig/paip-lisp/releases/tag/v1.3][scanned pdfs]]
+    - 4th edition, 1998: higher resolution, better OCR, smaller file thanks to better compression
+    - 6th edition, 2001: newer printing
+  - text: [[https://github.com/norvig/paip-lisp/blob/master/PAIP.txt][PAIP.txt]] (from OCR'ing the scanned pdf, containing many errors)
+  - a source epub: [[https://github.com/norvig/paip-lisp/releases/tag/1.1][see releases]] for a cleaned up version downloaded from Safari (much cleaner than the scanned versions)
+  - and =chapter?.md= markdown files:
+#+end_quote

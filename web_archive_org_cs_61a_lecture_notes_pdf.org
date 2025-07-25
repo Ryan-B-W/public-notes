@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       1f21a764-a14d-4cdb-b987-393de42504bc
+:ROAM_REFS: https://web.archive.org/web/20091127212630/http:/inst.eecs.berkeley.edu/~cs61a/reader/notes.pdf
+:END:
+#+title: (web.archive.org) CS 61A Lecture Notes (PDF)
+#+filetags: :mime_type_application_pdf:website:
