@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       9ed5c7c0-c180-4dfb-91a8-c7164aed0529
+:ROAM_REFS: https://gitlab.com/barry.allison/wizard-book-solutions
+:END:
+#+title: (gitlab.com) Barry Allison / wizard-book-solutions · GitLab
+#+filetags: :website:
+
+#+begin_quote
+  * YASICP
+
+  Yes another SICP solutions repository.
+
+  These solutions use [[http://racket-lang.org/][Racket]] but any more recent version should work.  Some of the exercises use other libraries - notably [[http://docs.racket-lang.org/sicp-manual/index.html][the SICP language]] I've tried to check that all exercises actually run - wherever it's appropriate.
+
+  Caveat developor!
+#+end_quote
