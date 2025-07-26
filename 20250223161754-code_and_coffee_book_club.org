@@ -561,7 +561,7 @@ From 4.2.3:
 ***** [[id:406eca58-06a4-4a4f-bf29-28ec8c17c224][(github.com) aimacode/aima-lisp: Common Lisp implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"]]
 ***** From [[id:e3186266-5969-4f6d-9de7-0007b1220135][Grant]], "actually, here is some code example of search in On Lisp in a nondeterministic style."
 #+caption: Fig 22.1 from On Lisp: Deterministic tree search.
-#+begin_src lisp
+#+begin_src scheme
   (define (descent n1 n2)
       (if (eq? n1 n2)
           (list n2)
@@ -576,7 +576,7 @@ From 4.2.3:
 #+end_src
 
 #+caption: Fig 22.2 from On Lisp: Nondeterministic tree search.
-#+begin_src lisp
+#+begin_src scheme
   (define (descent n1 n2)
       (cond ((eq? n1 n2) (list n2))
             ((null? (kids n1)) (fail))
@@ -584,7 +584,7 @@ From 4.2.3:
 #+end_src
 ***** From [[id:e3186266-5969-4f6d-9de7-0007b1220135][Grant]], "here are his implementations of choose and fail. (there seem to be some formatting errors -- there were some issues in getting the book converted to PDF as the original manuscript was lost iirc)"
 #+caption: Fig 22.4 from On Lisp: Scheme implementation of /choose/ and /fail/.
-#+begin_src lisp
+#+begin_src scheme
   (define *paths* ())
   (define failsym '@)
 
