@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       447f18af-8533-4ba9-8baa-aa0ca2bfdcaa
+:ROAM_REFS: https://en.wikipedia.org/wiki/Fifth_Generation_Computer_Systems
+:END:
+#+title: (en.wikipedia.org) Fifth Generation Computer Systems - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  The *Fifth Generation Computer Systems* (*FGCS*; [[https://en.wikipedia.org/wiki/Japanese_language][Japanese]]: 第五世代コンピュータ, [[https://en.wikipedia.org/wiki/Romanization_of_Japanese][romanized]]: /daigosedai konpyūta/) was a 10-year initiative launched in 1982 by Japan's [[https://en.wikipedia.org/wiki/Ministry_of_International_Trade_and_Industry][Ministry of International Trade and Industry]] (MITI) to develop computers based on [[https://en.wikipedia.org/wiki/Massively_parallel_computing][massively parallel computing]] and [[https://en.wikipedia.org/wiki/Logic_programming][logic programming]].  The project aimed to create an "epoch-making computer" with supercomputer-like performance and to establish a platform for future advancements in [[https://en.wikipedia.org/wiki/Artificial_intelligence][artificial intelligence]].  Although FGCS was ahead of its time, its ambitious goals ultimately led to commercial failure.  However, on a theoretical level, the project significantly contributed to the development of [[https://en.wikipedia.org/wiki/Concurrent_logic_programming][concurrent logic programming]].
+
+  The term "fifth generation" was chosen to emphasize the system's advanced nature.  In the [[https://en.wikipedia.org/wiki/History_of_computing_hardware][history of computing hardware]], there had been four prior "generations" of computers: the first generation utilized [[https://en.wikipedia.org/wiki/Vacuum_tube][vacuum tubes]]; the second, [[https://en.wikipedia.org/wiki/Transistor][transistors]] and [[https://en.wikipedia.org/wiki/Diode][diodes]]; the third, [[https://en.wikipedia.org/wiki/Integrated_circuit][integrated circuits]]; and the fourth, [[https://en.wikipedia.org/wiki/Microprocessor][microprocessors]].  While earlier generations focused on increasing the number of logic elements within a single CPU, it was widely believed at the time that the fifth generation would achieve enhanced performance through the use of massive numbers of CPUs.
+#+end_quote

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       81b7380f-754d-4632-a066-a1810997db89
+:ROAM_REFS: https://en.wikipedia.org/wiki/System_F
+:END:
+#+title: (en.wikipedia.org) System F - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  *System F* (also *polymorphic lambda calculus* or *second-order lambda calculus*) is a [[https://en.wikipedia.org/wiki/Typed_lambda_calculus][typed lambda calculus]] that introduces, to [[https://en.wikipedia.org/wiki/Simply_typed_lambda_calculus][simply typed lambda calculus]], a mechanism of [[https://en.wikipedia.org/wiki/Universal_quantification][universal quantification]] over types.  System F formalizes [[https://en.wikipedia.org/wiki/Parametric_polymorphism][parametric polymorphism]] in [[https://en.wikipedia.org/wiki/Programming_language][programming languages]], thus forming a theoretical basis for languages such as [[https://en.wikipedia.org/wiki/Haskell_(programming_language)][Haskell]] and [[https://en.wikipedia.org/wiki/ML_(programming_language)][ML]].  It was discovered independently by [[https://en.wikipedia.org/wiki/Logician][logician]] [[https://en.wikipedia.org/wiki/Jean-Yves_Girard][Jean-Yves Girard]] (1972) and [[https://en.wikipedia.org/wiki/Computer_scientist][computer scientist]] [[https://en.wikipedia.org/wiki/John_C._Reynolds][John C. Reynolds]].
+
+  Whereas [[https://en.wikipedia.org/wiki/Simply_typed_lambda_calculus][simply typed lambda calculus]] has variables ranging over terms, and binders for them, System F additionally has variables ranging over /types/, and binders for them.  As an example, the fact that the identity function can have any type of the form /A/ → /A/ would be formalized in System F as the judgement
+
+  \(\vdash \Lambda\alpha.\lambda x^{\alpha}.x:\forall\alpha.\alpha\rightarrow\alpha\)
+
+  where \(\alpha\) is a [[https://en.wikipedia.org/wiki/Type_variable][type variable]].  The upper-case \(\Lambda\) is traditionally used to denote type-level functions, as opposed to the lower-case \(\lambda\) which is used for value-level functions.  (The superscripted \(\alpha\) means that the bound variable /x/ is of type \(\alpha\); the expression after the colon is the type of the lambda expression preceding it.)
+
+  As a [[https://en.wikipedia.org/wiki/Term_rewriting_system][term rewriting system]], System F is [[https://en.wikipedia.org/wiki/Normalization_property_(lambda-calculus)][strongly normalizing]].  However, [[https://en.wikipedia.org/wiki/Type_inference][type inference]] in System F (without explicit type annotations) is undecidable.  Under the [[https://en.wikipedia.org/wiki/Curry–Howard_isomorphism][Curry--Howard isomorphism]], System F corresponds to the fragment of second-order [[https://en.wikipedia.org/wiki/Intuitionistic_logic][intuitionistic logic]] that uses only universal quantification.  System F can be seen as part of the [[https://en.wikipedia.org/wiki/Lambda_cube][lambda cube]], together with even more expressive typed lambda calculi, including those with [[https://en.wikipedia.org/wiki/Dependent_types][dependent types]].
+
+  According to Girard, the "F" in /System F/ was picked by chance.
+#+end_quote

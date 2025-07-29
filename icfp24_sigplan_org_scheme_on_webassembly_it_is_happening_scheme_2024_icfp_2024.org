@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       b5524cba-de16-4d67-8fd4-d3ceefcab44c
+:ROAM_REFS: https://icfp24.sigplan.org/details/scheme-2024-papers/6/Scheme-on-WebAssembly-It-is-happening-
+:END:
+#+title: (icfp24.sigplan.org) Scheme on WebAssembly: It is happening! (Scheme 2024) - ICFP 2024
+#+filetags: :presentation:website:
+
+#+begin_quote
+  ** Scheme on WebAssembly: It is happening!
+
+  *** Track
+
+  [[https://icfp24.sigplan.org/home/scheme-2024][Scheme 2024]]
+
+  *** When
+
+  *Sat 7 Sep 2024 09:00 - 10:00 at [[https://icfp24.sigplan.org/room/icfp-2024-venue-meeting-4][Meeting 4]]* - [[https://icfp24.sigplan.org/home/scheme-2024#program][Session 1]] Chair(s): [[https://icfp24.sigplan.org/profile/maxnew][Max S. New]]
+
+  *** Abstract
+
+  What would it be like if you could write a program in Scheme and then let anyone on the planet run it?  With the advent of new standards in web browsers, this day is finally here: the world is our oyster.
+
+  In this talk, Andy presents [[https://spritely.institute/hoot/][Hoot]], a new implementation of [[https://gnu.org/s/guile][Guile]] that targets WebAssembly.  Hoot is on the cutting edge of Wasm language run-times, using the newly-exposed built-in garbage collection and tail-call capabilities of web browsers.  These facilities allow users to program the browser in a Scheme that really feels like a Scheme.
+
+  The talk will go deep into the details of what the new Wasm capabilities are, what affordances and obstacles they pose to the kinds of features that Schemers want, how the Hoot implementation works, and a vision for future directions.  Hoot's choices aren't the only ones possible, and we as a community should explore the possibilities as broadly as we can!
+#+end_quote

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       0ab5defe-f477-466a-b645-20223c8aae70
+:ROAM_REFS: https://cs61c.org/su25/
+:END:
+#+title: (cs61c.org) Home | CS 61C Summer 2025
+#+filetags: :education_resource:website:
+
+#+begin_quote
+  Great Ideas in Computer Architecture (Machine Structures)
+#+end_quote

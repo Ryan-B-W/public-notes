@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e6ef43cd-9ac3-4f9d-83ed-765755d6a017
+:ROAM_REFS: https://codeberg.org/ashton314/microKanren
+:END:
+#+title: (codeberg.org) ashton314/microKanren - Codeberg.org
+#+filetags: :website:
+
+#+begin_quote
+  * Notes on μKanren
+
+  Mirrored at [[https://github.com/ashton314/muKanren_reading][ashton314 on GitHub]].
+
+  Main repository at [[https://git.sr.ht/~ashton314/microKanren][~ashton314 on SourceHut]]; issue tracker also on SourceHut [[https://todo.sr.ht/~ashton314/microKanren_issues][here]].  Mailing list for this repository [[https://lists.sr.ht/~ashton314/microKanren_updates][here]].
+
+  ** Synopsis
+
+  I wanted to understand how [[http://webyrd.net/scheme-2013/papers/HemannMuKanren2013.pdf][μKanren]] works.  This is an annotated journey through implementing the code from that paper.
+
+  ** Description
+
+  μKanren is a very small implementation in the Kanren family: essentially these are little embedded Prolog implementations. μKanren is particularly interesting because its implementation is less than 40 lines of Scheme code, and makes no use of exotic language features.  Indeed, if your language has closures, you can make yourself a μKanren.
+#+end_quote

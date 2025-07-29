@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       bda2016b-beeb-4980-a828-0ff70aec4ff5
+:ROAM_REFS: https://wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us
+:END:
+#+title: (wingolog.org) a world to win: webassembly for the rest of us — wingolog
+#+filetags: :blog_post:website:
+
+#+begin_quote
+  ** a world to win: webassembly for the rest of us
+
+  20 March 2023 9:06 AM
+
+  Good day, comrades!
+
+  Today I'd like to share the good news that WebAssembly is finally coming for the rest of us weirdos.
+
+  : * A world to win
+  :
+  : WebAssembly for the rest of us
+  :
+  : 17 Mar 2023 -- BOB 2023
+  :
+  : Andy Wingo
+  :
+  : Igalia, S.L.
+
+  This is a transcript-alike of a talk that I gave last week at [[https://bobkonf.de/2023/en/program.html][BOB 2023]], a gathering in Berlin of people that are using “technologies beyond the mainstream” to get things done: Haskell, Clojure, Elixir, and so on.  PDF slides [[https://wingolog.org/pub/2023-bobkonf-wasm-for-the-rest-of-us-slides.pdf][here]], and I'll link the video too when it becomes available.
+#+end_quote

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6c7b4ebb-09a5-4de2-a7e5-1e1a0da45721
+:ROAM_REFS: https://minikanren.org/
+:END:
+#+title: (minikanren.org) miniKanren.org
+#+filetags: :website:
+
+#+begin_quote
+  ** What is miniKanren?
+
+  miniKanren is a family of Domain Specific Languages for logic programming.
+
+  The name /kanren/ comes from a Japanese word (関連) meaning "relation".
+
+  The core miniKanren language is very simple, with only three logical operators and one interface operator.  The core language, using Scheme as the host language, is described in this [[http://io.livecode.ch/learn/webyrd/webmk][short, interactive tutorial]].
+
+  miniKanren has been implemented in a growing number of [[https://minikanren.org/#implementations][host languages]], including Scheme, Racket, Clojure, Haskell, Python, JavaScript, Scala, Ruby, OCaml, and PHP, among many other languages.
+
+  miniKanren is designed to be easily modified and extended; extensions include Constraint Logic Programming, probabilistic logic programming, nominal logic programming, and tabling.
+
+  A detailed discussion of the differences between miniKanren and Prolog [[https://minikanren.org/minikanren-and-prolog.html][can be found here]].
+#+end_quote

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       bd06ed04-35a8-4857-bc7f-275dc1c03eab
+:ROAM_REFS: https://en.wikipedia.org/wiki/Nondeterministic_finite_automaton
+:END:
+#+title: (en.wikipedia.org) Nondeterministic finite automaton - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Automata_theory][automata theory]], a [[https://en.wikipedia.org/wiki/Finite-state_machine][finite-state machine]] is called a [[https://en.wikipedia.org/wiki/Deterministic_finite_automaton][deterministic finite automaton]] (DFA), if
+
+  - each of its transitions is /uniquely/ determined by its source state and input symbol, and
+  - reading an input symbol is required for each state transition.
+
+  A *nondeterministic finite automaton* (*NFA*), or *nondeterministic finite-state machine*, does not need to obey these restrictions.  In particular, every DFA is also an NFA.  Sometimes the term *NFA* is used in a narrower sense, referring to an NFA that is /not/ a DFA, but not in this article.
+
+  Using the [[https://en.wikipedia.org/wiki/Subset_construction_algorithm][subset construction algorithm]], each NFA can be translated to an equivalent DFA; i.e., a DFA recognizing the same [[https://en.wikipedia.org/wiki/Formal_language][formal language]].  Like DFAs, NFAs only recognize [[https://en.wikipedia.org/wiki/Regular_language][regular languages]].
+
+  NFAs were introduced in 1959 by [[https://en.wikipedia.org/wiki/Michael_O._Rabin][Michael O. Rabin]] and [[https://en.wikipedia.org/wiki/Dana_Scott][Dana Scott]], who also showed their equivalence to DFAs.  NFAs are used in the implementation of [[https://en.wikipedia.org/wiki/Regular_expression][regular expressions]]: [[https://en.wikipedia.org/wiki/Thompson's_construction][Thompson's construction]] is an algorithm for compiling a regular expression to an NFA that can efficiently perform pattern matching on strings.  Conversely, [[https://en.wikipedia.org/wiki/Kleene's_algorithm][Kleene's algorithm]] can be used to convert an NFA into a regular expression (whose size is generally exponential in the input automaton).
+
+  NFAs have been generalized in multiple ways, e.g., [[https://en.wikipedia.org/wiki/Nondeterministic_finite_automaton#NFA_with_ε-moves][nondeterministic finite automata with ε-moves]], [[https://en.wikipedia.org/wiki/Finite-state_transducer][finite-state transducers]], [[https://en.wikipedia.org/wiki/Pushdown_automaton][pushdown automata]], [[https://en.wikipedia.org/wiki/Alternating_finite_automaton][alternating automata]], [[https://en.wikipedia.org/wiki/Ω-automaton][ω-automata]], and [[https://en.wikipedia.org/wiki/Probabilistic_automaton][probabilistic automata]].  Besides the DFAs, other known special cases of NFAs are [[https://en.wikipedia.org/wiki/Unambiguous_finite_automaton][unambiguous finite automata]] (UFA) and [[https://en.wikipedia.org/wiki/Self-verifying_finite_automaton][self-verifying finite automata]] (SVFA).
+#+end_quote

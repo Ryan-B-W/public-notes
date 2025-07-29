@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       8b6b43c1-3e5e-4a23-927d-de0281f822ff
+:ROAM_REFS: https://www.youtube.com/playlist?list=PLoyEIY-nZq_uipRkxG79uzAgfqDuHzot-
+:END:
+#+title: (www.youtube.com) Type systems: Lambda calculus to Hindley-Milner - YouTube
+#+filetags: :video:playlist:website:

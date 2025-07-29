@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       2a012554-a33a-4132-87c2-1ff9f6ffb809
+:ROAM_REFS: https://webassembly.org/
+:END:
+#+title: (webassembly.org) WebAssembly
+#+filetags: :website:
+
+#+begin_quote
+  WebAssembly (abbreviated /Wasm/) is a binary instruction format for a stack-based virtual machine.  Wasm is designed as a portable compilation target for programming languages, enabling deployment on the web for client and server applications.
+
+  Developer reference documentation for Wasm can be found on [[https://developer.mozilla.org/en-US/docs/WebAssembly][MDN's WebAssembly pages]].  The open standards for WebAssembly are developed in a [[https://www.w3.org/community/webassembly/][W3C Community Group]] (that includes representatives from all major browsers) as well as a [[https://www.w3.org/wasm/][W3C Working Group]].
+
+  *** Efficient and fast
+
+  The Wasm [[https://webassembly.github.io/spec/core/exec/index.html][stack machine]] is designed to be encoded in a size- and load-time-efficient [[https://webassembly.github.io/spec/core/binary/index.html][binary format]].  WebAssembly aims to execute at native speed by taking advantage of [[https://webassembly.org/docs/portability/#assumptions-for-efficient-execution][common hardware capabilities]] available on a wide range of platforms.
+
+  *** Safe
+
+  WebAssembly describes a memory-safe, sandboxed [[https://webassembly.github.io/spec/core/exec/index.html#linear-memory][execution environment]] that may even be implemented inside existing JavaScript virtual machines.  When [[https://webassembly.org/docs/web/][embedded in the web]], WebAssembly will enforce the same-origin and permissions security policies of the browser.
+
+  *** Open and debuggable
+
+  WebAssembly is designed to be pretty-printed in a [[https://webassembly.github.io/spec/core/text/index.html][textual format]] for debugging, testing, experimenting, optimizing, learning, teaching, and writing programs by hand.  The textual format will be used when [[https://webassembly.org/docs/faq/#will-webassembly-support-view-source-on-the-web][viewing the source]] of Wasm modules on the web.
+
+  *** Part of the open web platform
+
+  WebAssembly is designed to maintain the versionless, feature-tested, and backwards-compatible [[https://webassembly.org/docs/web/][nature of the web]].  WebAssembly modules will be able to call into and out of the JavaScript context and access browser functionality through the same Web APIs accessible from JavaScript.  WebAssembly also supports [[https://webassembly.org/docs/non-web/][non-web]] embeddings.
+#+end_quote

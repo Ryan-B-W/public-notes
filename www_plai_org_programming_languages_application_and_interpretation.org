@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       0de738e6-6e3e-4ce5-b477-8de451dafdca
+:ROAM_REFS: https://www.plai.org/
+:END:
+#+title: (www.plai.org) Programming Languages: Application and Interpretation
+#+filetags: :website:
+
+#+begin_quote
+  * Programming Languages:
+
+  * Application and Interpretation
+
+  This is the Web site for /Programming Languages: Application and Interpretation/, often referred to by its initials as PLAI (pronounce it like “play”).  Over the years well over fifty academic institutions (that I know of) have used PLAI.
+
+  PLAI is designed for upper-level courses that introduce the main ideas of programming languages.  In the US, it is designed for students in their second- through fourth-years of college, as well as starting graduate students.  However, PLAI has been used with students much younger, including in a few select high school classes.
+#+end_quote
+* (www.plai.org) PLAI Version 3.2.2 - PLAI Version 3.2.2 electronic.pdf :mime_type_application_pdf:
+:PROPERTIES:
+:ID:       376d3d68-2a89-4462-a017-762d026d49b7
+:ROAM_REFS: "https://www.plai.org/3/2/PLAI Version 3.2.2 electronic.pdf"
+:END:
+
+#+begin_quote
+  Programming Languages: Application and Interpretation
+
+  Shriram Krishnamurthi\\
+  Brown University
+
+  Version 3.2.2, , © Shriram Krishnamurthi, CC-BY-NC-SA 4.0.2023-02-26
+#+end_quote

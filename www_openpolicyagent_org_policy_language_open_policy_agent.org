@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       e34910ff-0f17-4c2c-9b41-89a709c8598c
+:ROAM_REFS: https://www.openpolicyagent.org/docs/policy-language
+:END:
+#+title: (www.openpolicyagent.org) Policy Language | Open Policy Agent
+#+filetags: :documentation:website:
+
+#+begin_quote
+  * Policy Language
+
+  OPA is purpose built for reasoning about information represented in structured documents.  The data that your service and its users publish can be inspected and transformed using OPA's native query language Rego.
+
+  ** What is Rego?
+
+  Rego was inspired by [[https://en.wikipedia.org/wiki/Datalog][Datalog]], which is a well understood, decades old query language.  Rego extends Datalog to support structured document models such as JSON.
+
+  Rego queries are assertions on data stored in OPA.  These queries can be used to define policies that enumerate instances of data that violate the expected state of the system.
+
+  ** Why use Rego?
+
+  Use Rego for defining policy that is easy to read and write.
+
+  Rego focuses on providing powerful support for referencing nested documents and ensuring that queries are correct and unambiguous.
+
+  Rego is declarative so policy authors can focus on what queries should return rather than how queries should be executed.  These queries are simpler and more concise than the equivalent in an imperative language.
+
+  Like other applications which support declarative query languages, OPA is able to optimize queries to improve performance.
+
+  ** Learning Rego
+
+  While reviewing the examples below, you might find it helpful to follow along using the online [[http://play.openpolicyagent.org/][OPA playground]].  The playground also allows sharing of examples via URL which can be helpful when asking questions on the [[https://slack.openpolicyagent.org/][OPA Slack]].  In addition to these official resources, you may also be interested to check out the [[https://www.openpolicyagent.org/ecosystem/by-feature/learning-rego][community learning materials and tools (8 projects)]].
+#+end_quote

@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ID:       254784c3-afa9-41db-8241-9cfc8c32d814
+:ROAM_REFS: https://blogit.michelin.io/an-introduction-to-datalog/
+:END:
+#+title: (blogit.michelin.io) An introduction to Datalog
+#+filetags: :blog_post:website:
+
+#+begin_quote
+  * An introduction to Datalog
+
+  A rule-based data query language that thinks differently
+
+  [[https://blogit.michelin.io/author/fabien/][Fabien Alberi]]
+
+  23 Dec 2022
+
+  Modern IT systems manage an increasing amount of data, sometimes bound by sophisticated models, that require specific representations of the same information in order to perform translation between various software layers
+
+  As consequence, software developers have to provide descriptions in data and constraints/relations of these systems, this is what we call data-models
+
+  [[https://blogit.azureedge.net/images/2022/12/152330_person-cities-restaurants-tables.png]]
+
+  Not all the data-models are the same, one criteria we can use to differentiate them is the kind of relationships between the objects
+
+  - Models with one-to-many relationship ( aka "tree-like" )
+  - Models with many-to-many relationship ( aka "graph-like" )
+
+  The one-to-many relationship can be modelled using a tree structure which can be easily represented using the JSON data language
+
+  On the other hand, representing many-to-many relationships leads to design decisions in how to represent the data : in other words, a conditional expression of some edges and vertices.
+
+  #+caption: Tree vs Graph
+  [[https://blogit.azureedge.net/images/2022/12/7934_tree-vs-graph.jpg]]
+
+  Thus, the technical choices made on the data modelling aspect of software design will affect the system behaviour, its overall performances, as well as the efficiency of the tools that support it.
+
+  : We have different needs to view the same data, with relationships expressed in different ways
+
+  Therefore, it becomes essential to leverage methods to provide different views of the same data model depending on the need, whether for visualisations at the presentation layer or for specific business processes use-cases.
+
+  Additionally, it is often required to express these views in the declarative form of a Data Query Language (DQL) in order to make it user-friendly and later adaptable (as opposed to hard-coded functions).
+
+  This is where the datalog programming language comes into play.
+#+end_quote

@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       abf34c33-f828-452d-8a2c-4acc8adf69e9
+:ROAM_REFS: https://curry-lang.org/
+:END:
+#+title: (curry-lang.org) Curry Programming Language
+#+filetags: :website:
+
+#+begin_quote
+  * Curry
+
+  A Truly Integrated Functional Logic Programming Language
+
+  #+begin_src curry
+    -- Returns the last number of a list.
+    last :: [Int] -> Int
+    last (_ ++ [x]) = x
+
+    -- Returns some permutation of a list.
+    perm :: [a] -> [a]
+    perm []     = []
+    perm (x:xs) = insert (perm xs)
+     where insert ys     = x : ys
+           insert (y:ys) = y : insert ys
+  #+end_src
+
+  Curry is a declarative multi-paradigm programming language which combines in a seamless way features from functional programming (nested expressions, higher-order functions, strong typing, lazy evaluation) and logic programming (non-determinism, built-in search, free variables, partial data structures).  Compared to the single programming paradigms, Curry provides additional features, like optimal evaluation for logic-oriented computations and flexible, non-deterministic pattern matching with user-defined functions.
+#+end_quote
