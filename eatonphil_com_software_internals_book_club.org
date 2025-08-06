@@ -1,0 +1,73 @@
+:PROPERTIES:
+:ID:       0c027cb4-aeb0-4c5d-b099-7a1bfb615e62
+:ROAM_REFS: https://eatonphil.com/bookclub.html
+:END:
+#+title: (eatonphil.com) Software Internals Book Club
+#+filetags: :website:
+
+#+begin_quote
+  * Software Internals Book Club
+
+  I run a little email book club reading the highest-caliber books that we might otherwise be intimidated to read on our own; typically covering topics in databases, distributed systems, and software performance.
+
+  There are over 2,100 members from around the world and between 300-800 join for any given book.  Members include undergrads, grad students, early-career programmers, experienced programmers, founders, and everyone in between.  Everyone who is interested is welcome to join.
+
+  I try to always find interesting and experienced discussion leaders of diverse backgrounds that help make the discussions the most valuable part of the club, even beyond the books themselves.
+
+  We're currently reading [[https://eatonphil.com/2025-art-of-multiprocessor-programming.html][The Art of Multiprocessor Programming]].
+
+  *Sign up [[https://forms.gle/xbBRN2Q2UFK9muXN6][here]] to stay in the loop.*
+
+  *** How it works
+
+  All discussion is via a Google Group.  There will be no Zoom or Google Hangout, it will purely be over text email.
+
+  Each weekend, one person will send out an email recapping the chapter or asking questions to start discussion.  It can be as short as a paragraph or two just to get discussion going.  Anyone else can chime in afterward.
+
+  I will solicit these chapter discussion leaders before we start each new book.
+
+  *** Loose criteria
+
+  The focus is on books that would be interesting and useful to senior+ developers (whatever that means to you), though anyone is welcome.
+
+  - Between 350-550 pages
+  - Focused on a specific software topic, not on philosophy of software in general
+  - Generally not textbooks
+  - Completable in around 3 months reading 1-2 chapters per week
+
+  *** Potential future books
+
+  - [[https://www.oreilly.com/library/view/the-garbage-collection/9781000883688/][The Garbage Collection Handbook]] (2nd Edition)
+  - [[https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/][Designing Data Intensive Applications]] (2nd Edition)
+  - [[https://www.sciencedirect.com/book/9780124159501/the-art-of-multiprocessor-programming][The Art of Multiprocessor Programming]]
+  - [[https://www.oreilly.com/library/view/high-performance-browser/9781449344757/][High Performance Browser Networking]]
+  - [[https://dl.acm.org/doi/book/10.1145/3335772][Concurrency: The Works of Leslie Lamport]]
+  - [[https://link.springer.com/book/10.1007/978-1-4614-2113-9][Fault Tolerant Design]]
+  - [[https://dl.acm.org/doi/book/10.5555/2172338][Replication: Theory and Practice]]
+  - [[https://dl.acm.org/doi/book/10.5555/2172338][The Art of Computer Systems Performance Analysis]]
+  - [[https://www.sciencedirect.com/book/9781558609105/virtual-machines][Virtual Machines]]
+  - [[https://link.springer.com/book/10.1007/978-3-031-01873-2][On Transactional Concurrency Control]]
+  - [[https://www.oreilly.com/library/view/feedback-control-for/9781449362638/][Feedback Control for Computer Systems]]
+  - [[https://www.oreilly.com/library/view/hackers-delight-second/9780133084993/][Hacker's Delight]] (2nd Edition)
+
+  Have a book that fits the above criteria?  [[mailto://phil@eatonphil.com][Let me know]]!
+
+  *** Promising but probably not good fits
+
+  Primarily because they are too large and I worry about asking people to commit for too long a time period.
+
+  - [[https://dl.acm.org/doi/10.5555/573304][Transaction Processing]]
+  - [[https://www.sciencedirect.com/book/9780123797513/memory-systems][Memory Systems: Cache, DRAM, Disk]]
+  - [[https://pages.cs.wisc.edu/~remzi/OSTEP/][Operating Systems: Three Easy Pieces]]
+  - [[https://nostarch.com/building-a-debugger][Building a Debugger]]
+  - [[http://www.redbook.io/][Readings in Database Systems]]
+
+  *** In the past we've read
+
+  - [[https://eatonphil.com/2025-concurrency-control-and-recovery-in-database-systems.html][Concurrency Control and Recovery in Database Systems]]
+  - [[https://eatonphil.com/2025-writing-for-developers.html][Writing for Developers]]
+  - [[https://eatonphil.com/2024-database-design-and-implementation.html][Database Design and Implementation]]
+  - [[https://eatonphil.com/2024-understanding-software-dynamics.html][Understanding Software Dynamics]]
+  - [[https://eatonphil.com/2024-systems-performance.html][Systems Performance]]
+  - [[https://eatonphil.com/2023-database-internals.html][Database Internals]]
+#+end_quote

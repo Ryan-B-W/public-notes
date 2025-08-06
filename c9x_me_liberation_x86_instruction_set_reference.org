@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       578c3005-7e60-4b7a-b71a-5583892a4e59
+:ROAM_REFS: https://c9x.me/x86/html/file_module_x86_id_35.html
+:END:
+#+title: (c9x.me) Liberation: x86 Instruction Set Reference
+#+filetags: :website:

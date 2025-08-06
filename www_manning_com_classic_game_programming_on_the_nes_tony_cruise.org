@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       8d3c54dd-97f8-4e36-aed9-90fe71c5d5be
+:ROAM_REFS: https://www.manning.com/books/classic-game-programming-on-the-nes
+:END:
+#+title: (www.manning.com) Classic Game Programming on the NES - Tony Cruise
+#+filetags: :website:

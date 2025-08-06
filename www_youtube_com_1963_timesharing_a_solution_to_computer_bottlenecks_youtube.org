@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       be91c8e3-7d0b-4414-9cd9-9ef866023f8b
+:ROAM_REFS: https://www.youtube.com/watch?v=Q07PhW5sCEk
+:END:
+#+title: (www.youtube.com) 1963 Timesharing: A Solution to Computer Bottlenecks - YouTube
+#+filetags: :video:website:
