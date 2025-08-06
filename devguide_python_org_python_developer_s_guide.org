@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       fc81ccf2-c34c-40ca-a374-9b7918440efa
+:ROAM_REFS: https://devguide.python.org/
+:END:
+#+title: (devguide.python.org) Python Developer’s Guide
+#+filetags: :python_lang:documentation:website:
+
+#+begin_quote
+  Python Developer's Guide
+
+  This guide is a comprehensive resource for [[https://devguide.python.org/#contributing][contributing]] to [[https://www.python.org/][Python]] -- for both new and experienced contributors.  It is [[https://devguide.python.org/documentation/devguide/#devguide][maintained]] by the same community that maintains Python.  We welcome your contributions to Python!
+#+end_quote
