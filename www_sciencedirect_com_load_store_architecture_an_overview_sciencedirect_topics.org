@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       ff7285c7-55a8-44e1-9974-077d10c35621
+:ROAM_REFS: https://www.sciencedirect.com/topics/computer-science/load-store-architecture
+:END:
+#+title: (www.sciencedirect.com) Load-Store Architecture - an overview | ScienceDirect Topics
+#+filetags: :website:

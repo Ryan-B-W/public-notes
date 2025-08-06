@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a01898e3-1cc3-4009-8b99-81e0ff018caa
+:ROAM_REFS: https://diveintosystems.org/
+:END:
+#+title: (diveintosystems.org) Dive into Systems
+#+filetags: :computer_architecture:computer_science:textbooks:books:website:
+
+#+begin_quote
+  * Dive into Systems
+
+  [[https://diveintosystems.org/DisFish.png]] [[http://www.suzannejmatthews.com/][Suzanne J. Matthews]], West Point\\
+  [[https://www.cs.swarthmore.edu/~newhall/][Tia Newhall]], Swarthmore College\\
+  [[https://www.cs.swarthmore.edu/~kwebb/][Kevin C. Webb]], Swarthmore College
+
+  The Dive into Systems project develops and evaluates teaching resources specifically for introductory computer systems, computer organization, and parallel computing courses. Our primary projects include:
+
+  - /Dive into Systems/: our free, online textbook (also available is a low cost print version from No Starch Press).
+
+  - Interactive, online learning tools.
+
+  - Interactive, online exercises.
+#+end_quote

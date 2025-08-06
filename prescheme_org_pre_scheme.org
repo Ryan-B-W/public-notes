@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       0bd9eb3d-8711-4b08-a88e-9ced9cee5964
+:ROAM_REFS: https://prescheme.org/
+:END:
+#+title: (prescheme.org) Pre-Scheme
+#+filetags: :website:
+
+#+begin_quote
+  * [[https://prescheme.org/][Pre-Scheme]]
+
+  Pre-Scheme is a statically typed dialect of the [[https://www.scheme.org/][Scheme]] programming language, combining the flexibility of Scheme with the efficiency and low-level machine access of C. The compiler uses type inference, partial evaluation, and other correctness-preserving transformations to compile a subset of Scheme into C with no additional runtime overhead.  This makes Pre-Scheme a viable alternative to C for programming /virtual machines/, /operating systems/, and /embedded systems/ where the runtime overhead of a complete Scheme implementation is not desirable.
+
+  ** Status
+
+  Thanks to an [[https://www.ngi.eu/ngi-projects/ngi-zero/][NGI Zero]] grant facilitated by the [[https://nlnet.nl/][NLnet Foundation]], the Pre-Scheme Restoration project is now underway!  A high-level overview of the project is available in the [[https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html][announcement post]], and the latest progress is detailed in the [[https://prescheme.org/posts/first-report-on-the-pre-scheme-restoration.html][first progress report]].
+
+  ** History
+
+  Pre-Scheme was originally developed by Richard Kelsey and Jonathan Rees in 1986 as the implementation language for the [[https://s48.org/][Scheme 48]] virtual machine.  In the following years, Richard developed the compiler for Pre-Scheme based on his dissertation work on the "Transformational Compiler".  The compiler remains part of the Scheme 48 project and is used to compile its virtual machine and garbage collector(s) to native code.
+
+  ** Features
+
+  Compared to C, Pre-Scheme offers the following features:
+
+  - *Scheme semantics:* Pre-Scheme code is Scheme code.  With a small compatibility library, Pre-Scheme code can run directly in a Scheme interpreter, allowing for interactive development and debugging using the same tools used for Scheme.
+  - *Scheme macros:* Scheme's powerful macro system allows language extension by writing procedures which manipulate source-code as a data structure.  These can be used to write new control-flow operators, implement domain-specific languages, and eliminate boilerplate.
+  - *Compile-time evaluation:* The top-level of a Pre-Scheme program is evaluated at compile time, allowing complex data-structures and procedures to be built up incrementally, and then treated as static during the rest of the compilation process.
+  - *Type inference and polymorphism:* Pre-Scheme uses type inference to model Scheme's dynamic typing as accurately as possible.  The compiler uses a modified Hindley/Milner algorithm to choose a specific machine representation for every variable, and can make copies of procedures to support polymorphism.
+  - *Efficient tail recursion:* Pre-Scheme guarantees that local tail-recursive procedures run in constant space, so iterative processes can be safely implemented with recursion.  In C, this kind of optimization is not guaranteed, so it's normal to use constructs like for loops or while loops which fundamentally depend on mutation.
+
+  Compared to Scheme, Pre-Scheme has the following restrictions:
+
+  - *No garbage collector:* As with C, Pre-Scheme requires the programmer to manually manage memory.  Calls like =make-vector= and =make-string= are compiled down to a =malloc=, and that memory will be leaked unless it's explicitly deallocated at some point in the future.
+  - *No runtime closures:* Lambda expressions which capture locally-bound variables in a way that would require dynamic allocation of a closure are not supported, and will result in a compilation error.  This restriction doesn't apply to code which is evaluated at compile-time.
+  - *Limited tail recursion:* Pre-Scheme doesn't provide Scheme's universal guarantees for tail-call optimization.  Only cases which can be handled efficiently, such as local recursion using =let= or =letrec=, are optimized automatically.
+  - *Strict static typing:* Type information is fully resolved at compile-time, so there's no built-in support for Scheme's runtime type-checking predicates like =number?= and =string?=.  As in C, any runtime type systems need to be implemented in application code.
+  - *Limited first-class data types:* Pre-Scheme only supports data-types which are supported natively by C. There are no lists, no first-class continuations, and only fixed-size numeric types.  As in C, more complex data-types need to be implemented using record types in application code.
+#+end_quote

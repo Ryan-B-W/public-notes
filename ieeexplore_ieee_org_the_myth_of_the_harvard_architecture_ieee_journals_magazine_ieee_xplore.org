@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       f7baaf85-3eb4-497d-b854-1c9f0075b297
+:ROAM_REFS: https://ieeexplore.ieee.org/document/9779481
+:END:
+#+title: (ieeexplore.ieee.org) The Myth of the Harvard Architecture | IEEE Journals & Magazine | IEEE Xplore
+#+filetags: :computer_architecture:computer_science:science_paper:website:
+
+#+begin_quote
+  ** Abstract:
+
+  The label “Harvard architecture” has been applied to various computing devices where instructions and data are stored in separate memories.  In the Harvard Mark III/IV the decision to separate the stores was motivated by a desire to optimize each form of storage, not by Aiken's oft-quoted antagonism toward “self-modifying code,” which was anyway not justified even at the time, and would become a liability with the emergence of operating systems.  The term “Harvard architecture” was coined decades later, in the context of microcontroller design, retrospectively applied to the Harvard machines, and subsequently applied to RISC microprocessors with separated caches.  The so-called “Harvard” and “von Neumann” architectures are often portrayed as a dichotomy, but the various devices labeled as the former have far more in common with the latter than they do with each other.
+#+end_quote
