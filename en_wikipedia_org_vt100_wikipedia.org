@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       575b786e-a004-49b8-8128-00c326a35dc3
+:ROAM_REFS: https://en.wikipedia.org/wiki/VT100
+:END:
+#+title: (en.wikipedia.org) VT100 - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  The *VT100* is a video [[https://en.wikipedia.org/wiki/Computer_terminal][terminal]], introduced in August 1978 by [[https://en.wikipedia.org/wiki/Digital_Equipment_Corporation][Digital Equipment Corporation]] (DEC).  It was one of the first terminals to support [[https://en.wikipedia.org/wiki/ANSI_escape_code][ANSI escape codes]] for cursor control and other tasks, and added a number of extended codes for special features like controlling the status lights on the keyboard.  This led to rapid uptake of the ANSI standard, which became the [[https://en.wikipedia.org/wiki/De_facto_standard][de facto standard]] for hardware video terminals and later [[https://en.wikipedia.org/wiki/Terminal_emulator][terminal emulators]].
+
+  The VT100 series, especially the VT102, was extremely successful in the market, and made DEC the leading terminal vendor at the time.  The VT100 series was replaced by the [[https://en.wikipedia.org/wiki/VT220][VT200 series]] starting in 1983, which proved equally successful.  Ultimately, over six million terminals in the VT series were sold, based largely on the success of the VT100.
+#+end_quote

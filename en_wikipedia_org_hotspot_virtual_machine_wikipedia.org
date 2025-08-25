@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       7969f9f5-030e-4cae-9557-29581a82bbd5
+:ROAM_REFS: https://en.wikipedia.org/wiki/HotSpot_(virtual_machine)
+:END:
+#+title: (en.wikipedia.org) HotSpot (virtual machine) - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  *HotSpot*, released as *Java HotSpot Performance Engine*, is a [[https://en.wikipedia.org/wiki/Java_virtual_machine][Java virtual machine]] for [[https://en.wikipedia.org/wiki/Desktop_computer][desktop]] and [[https://en.wikipedia.org/wiki/Server_(computing)][server]] computers, developed by [[https://en.wikipedia.org/wiki/Sun_Microsystems][Sun Microsystems]] which was purchased by and became a division of [[https://en.wikipedia.org/wiki/Oracle_Corporation][Oracle Corporation]] in 2010.  Its features improved performance via methods such as [[https://en.wikipedia.org/wiki/Just-in-time_compilation][just-in-time compilation]] and [[https://en.wikipedia.org/wiki/Adaptive_optimization][adaptive optimization]].  It is the de facto Java Virtual Machine, serving as the reference implementation of the [[https://en.wikipedia.org/wiki/Java_programming_language][Java programming language]].
+#+end_quote

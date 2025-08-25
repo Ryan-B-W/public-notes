@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       209b18c4-3f7e-4735-8b35-62dedf7dc196
+:ROAM_REFS: https://icm.museum/
+:END:
+#+title: (icm.museum) The Interim Computer Museum
+#+filetags: :website:
+
+#+begin_quote
+  Welcome to ...
+
+  The Interim Computer Museum
+
+  [[https://icm.museum/][About]] [[https://icm.museum/?events][Events]] [[https://icm.museum/?collections][Collections]] [[https://icm.museum/?recollections][Recollections]] [[https://icm.museum/?donate][Donate]] [[https://icm.museum/?join][Join]] [[https://icm.museum/?visit][Visit]] [[https://icm.museum/blog][Blog]]
+
+  ** Welcome to the Interim Computer Museum Online!
+
+  The Interim Computer Museum (ICM) strives to preserve and share the history of computing through interactive exhibits using vintage hardware with modern enhancements.  Our exhibits provide a hands-on experience that bridges the past and the present, allowing visitors to explore the evolution of computing technology.
+
+  We are a 501(c)(3) non-profit charity in partnership with the membership organization [[https://sdf.org/][SDF Public Access UNIX System, Inc. 501(c)(7)]].  Membership is crucial to our mission, supporting the museum's activities with community events and artifact preservation.
+
+  Please click on [[https://icm.museum/?visit][Visit]] for contact and booking information.
+
+  To support our efforts, consider [[https://icm.museum/?donate][Donating]] or [[https://icm.museum/?join][Joining]] us today.
+
+  -\+- [[https://icm.museum/?faq][Why /Interim/?]] -\+-
+#+end_quote
