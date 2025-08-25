@@ -668,3 +668,34 @@ The Rego programming language used for specifying policies for Open Policy Agent
 ***** [[id:3c1c82c0-b70c-422e-9af9-38295dcfe9f0][(opengoal.dev) OpenGOAL | OpenGOAL]]
 ***** [[id:e0d2ff16-269d-4954-9a76-25d6a0e15868][(franz.com) Franz Inc Customer Applications: Naughty Dog Software]]
 ***** [[id:0bd9eb3d-8711-4b08-a88e-9ced9cee5964][(prescheme.org) Pre-Scheme]]
+**** Session 22, [2025-08-17 Sun 15:00-16:00]
+**** Session 23, [2025-08-24 Sun 15:00-16:00]
+***** Current section [[id:fa25c4ee-3b19-4cbb-89d4-ef50b05f01f2][(sarabander.github.io) SICP, 2e: 5.2 A Register-Machine Simulator]]
+***** [[id:31f0b6f6-9f94-4e39-9519-6f218b5cd840][(slime.common-lisp.dev) SLIME: The Superior Lisp Interaction Mode for Emacs]]
+***** [[id:a6446018-f5cd-4b47-b593-96ec2e537d20][(archive.org) Computer Science 61A, 001 - Spring 2011 : Free Movies : Free Download, Borrow and Streaming : Internet Archive]]
+***** [[id:6d5c6805-fb40-49d9-9a91-93733bde2818][(sarabander.github.io) SICP, 2e: 2.1 Introduction to Data Abstraction]], §2.1.1: Example: Arithmetic Operations for Rational Numbers
+Wishful thinking:
+#+begin_quote
+  We are using here a powerful strategy of synthesis: /wishful thinking/.  We haven't yet said how a rational number is represented, or how the procedures =numer=, =denom=, and =make-rat= should be implemented.  Even so, if we did have these three procedures, we could then add, subtract, multiply, divide, and test equality by using the following relations:
+  \[\begin{matrix}
+    {\frac{n_{1}}{d_{1}} + \frac{n_{2}}{d_{2}}} & = & {\frac{n_{1}d_{2} + n_{2}d_{1}}{d_{1}d_{2}},} \\
+    {\frac{n_{1}}{d_{1}} - \frac{n_{2}}{d_{2}}} & = & {\frac{n_{1}d_{2} - n_{2}d_{1}}{d_{1}d_{2}},} \\
+    {\frac{n_{1}}{d_{1}} \times \frac{n_{2}}{d_{2}}} & = & {\frac{n_{1}n_{2}}{d_{1}d_{2}},} \\
+    \frac{n_{1}\,/\, d_{1}}{n_{2}\,/\, d_{2}} & = & {\frac{n_{1}d_{2}}{d_{1}n_{2}},} \\
+    \frac{n_{1}}{d_{1}} & = & {\frac{n_{2}}{d_{2}}\quad{\ if\ and\ only\ if\quad}n_{1}d_{2} = n_{2}d_{1}.}
+  \end{matrix}\]
+#+end_quote
+***** [[id:8b8e0774-c8b6-406d-b1a1-45e81546179b][(standards.scheme.org) r4rs.dvi - r4rs.pdf]]
+Latent vs manifest types:
+#+begin_quote
+  Scheme has latent as opposed to manifest types.  Types are associated with values (also called objects) rather than with variables.  (Some authors refer to languages with latent types as weakly typed or dynamically typed languages.)  Other languages with latent types are APL, Snobol, and other dialects of Lisp.  Languages with manifest types (sometimes referred to as strongly typed or statically typed languages) include Algol 60, Pascal, and C.
+#+end_quote
+***** [[id:494d72f3-4d9f-46d2-975a-b21bc543b599][(sarabander.github.io) SICP, 2e: 5.1: Figure 5.11: A recursive factorial machine.]]
+***** [[id:4ead5528-8859-449a-8cd0-9dea20bdadcd][(turingcomplete.game) Turing Complete]]
+***** [[id:813fe83b-6aa1-46a8-a578-022e5ab8081a][(sarabander.github.io) SICP, 2e: 5.2, Footnote 289]]
+***** [[id:daafcba2-4eb9-4ffc-9b35-8ab4d0ca8e83][(www.scheme.com) Control Operations: Section 5.6: Continuations]]
+***** [[id:6e4aafba-d8b5-47f4-8e59-ba4b69525463][(mitpress.mit.edu) Software Design for Flexibility]]
+***** [[id:b85b9acb-443c-4d3f-842b-1f663c99ef18][(sarabander.github.io) SICP, 2e: 1.1 The Elements of Programming]], §1.1.8: Procedures as Black-Box Abstractions
+#+begin_quote
+  For example, when we define the =good-enough?= procedure in terms of =square=, we are able to regard the =square= procedure as a "black box."  We are not at that moment concerned with /how/ the procedure computes its result, only with the fact that it computes the square.  The details of how the square is computed can be suppressed, to be considered at a later time.  Indeed, as far as the =good-enough?= procedure is concerned, =square= is not quite a procedure but rather an abstraction of a procedure, a so-called /procedural abstraction/.  At this level of abstraction, any procedure that computes the square is equally good.
+#+end_quote

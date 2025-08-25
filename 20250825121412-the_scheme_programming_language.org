@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       649a5906-c0b3-41b9-9cb9-2f3285082ce8
+:END:
+#+title: The Scheme Programming Language
+#+filetags: :scheme:lisp:computer_science:books:
+
+* (www.scheme.com) The Scheme Programming Language, 4th Edition     :website:
+:PROPERTIES:
+:ID:       5cde4ecb-1f01-40eb-b2d3-b430a7f6f82e
+:ROAM_REFS: https://www.scheme.com/tspl4/
+:END:
+
+** (www.scheme.com) Control Operations
+:PROPERTIES:
+:ID:       036765ab-793b-4df6-b77f-d64466805ed4
+:ROAM_REFS: https://www.scheme.com/tspl4/control.html
+:END:
+
+#+begin_quote
+  * Chapter 5. Control Operations
+
+  This chapter introduces the syntactic forms and procedures that serve as control structures for Scheme programs, The first section covers the most basic control structure, procedure application, and the remaining sections cover sequencing, conditional evaluation, recursion, mapping, continuations, delayed evaluation, multiple values, and evaluation of programs constructed at run time.
+#+end_quote
+*** (www.scheme.com) Control Operations: Section 5.6: Continuations
+:PROPERTIES:
+:ID:       daafcba2-4eb9-4ffc-9b35-8ab4d0ca8e83
+:ROAM_REFS: https://www.scheme.com/tspl4/control.html#./control:h6
+:END:
+
+#+begin_quote
+  *** Section 5.6. Continuations
+
+  Continuations in Scheme are procedures that represent the remainder of a computation from a given point in the computation.  They may be obtained with =call-with-current-continuation=, which can be abbreviated to =call/cc=.
+#+end_quote
+* (www.amazon.com) The Scheme Programming Language, fourth edition: 9780262512985: Computer Science Books @ Amazon.com :website:
+:PROPERTIES:
+:ID:       b02c76f8-cc82-4470-bc57-f34cf4c590dd
+:ROAM_REFS: https://www.amazon.com/dp/026251298X
+:END:
+
+#+begin_quote
+  A thoroughly updated and expanded edition brings this popular introductory text and reference up to date with the current Scheme standard, the Revised6 Report on Scheme.
+
+  Scheme is a general-purpose programming language, descended from Algol and Lisp, widely used in computing education and research and a broad range of industrial applications.  This thoroughly updated edition of The Scheme Programming Language provides an introduction to Scheme and a definitive reference for standard Scheme, presented in a clear and concise manner.  Written for professionals and students with some prior programming experience, it begins by leading the programmer gently through the basics of Scheme and continues with an introduction to some of the more advanced features of the language.  The fourth edition has been substantially revised and expanded to bring the content up to date with the current Scheme standard, the Revised6 Report on Scheme.  All parts of the book were updated and three new chapters were added, covering the language's new library, exception handling, and record-definition features.  The book offers three chapters of introductory material with numerous examples, eight chapters of reference material, and one chapter of extended examples and additional exercises.  All of the examples can be entered directly from the keyboard into an interactive Scheme session.  Answers to many of the exercises, a complete formal syntax of Scheme, and a summary of forms and procedures are provided in appendixes.  The Scheme Programming Language is the only book available that serves both as an introductory text in a variety of courses and as an essential reference for Scheme programmers.
+#+end_quote

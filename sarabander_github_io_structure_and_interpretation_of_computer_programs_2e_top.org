@@ -252,6 +252,57 @@ Main node: [[id:69d3e2e7-62dc-414f-90ee-86f4b4abbcb0][(sarabander.github.io) Str
 :ID:       fa25c4ee-3b19-4cbb-89d4-ef50b05f01f2
 :ROAM_REFS: https://sarabander.github.io/sicp/html/5_002e2.xhtml
 :END:
+*** (sarabander.github.io) SICP, 2e: 5.2, Footnote 289
+:PROPERTIES:
+:ID:       813fe83b-6aa1-46a8-a578-022e5ab8081a
+:ROAM_REFS: https://sarabander.github.io/sicp/html/5_002e2.xhtml#FOOT289
+:END:
+
+#+begin_quote
+  Using the =receive= procedure here is a way to get =extract-labels= to effectively return two values---=labels= and =insts=---without explicitly making a compound data structure to hold them.  An alternative implementation, which returns an explicit pair of values, is
+
+  #+begin_src scheme
+    (define (extract-labels text)
+      (if (null? text)
+          (cons '() '())
+          (let ((result
+                 (extract-labels (cdr text))))
+            (let ((insts (car result))
+                  (labels (cdr result)))
+              (let ((next-inst (car text)))
+                (if (symbol? next-inst)
+                    (cons
+                     insts
+                     (cons
+                      (make-label-entry
+                       next-inst insts)
+                      labels))
+                    (cons
+                     (cons
+                      (make-instruction next-inst)
+                      insts)
+                     labels)))))))
+  #+end_src
+
+  which would be called by =assemble= as follows:
+
+  #+begin_src scheme
+    (define (assemble controller-text machine)
+      (let ((result
+             (extract-labels controller-text)))
+        (let ((insts (car result))
+              (labels (cdr result)))
+          (update-insts! insts labels machine)
+          insts)))
+  #+end_src
+
+  You can consider our use of =receive= as demonstrating an elegant way to return multiple values, or simply an excuse to show off a programming trick.  An argument like =receive= that is the next procedure to be invoked is called a “continuation.”  Recall that we also used continuations to implement the backtracking control structure in the =amb= evaluator in [[https://sarabander.github.io/sicp/html/4_002e3.xhtml#g_t4_002e3_002e3][4.3.3]].
+#+end_quote
+*** (sarabander.github.io) SICP, 2e: 5.1: Figure 5.11: A recursive factorial machine.
+:PROPERTIES:
+:ID:       494d72f3-4d9f-46d2-975a-b21bc543b599
+:ROAM_REFS: https://sarabander.github.io/sicp/html/5_002e1.xhtml#Figure-5_002e11
+:END:
 ** (sarabander.github.io) SICP, 2e: 5.3 Storage Allocation and Garbage Collection
 :PROPERTIES:
 :ID:       cf76bb72-62a0-4942-97df-4b70582e7c52
