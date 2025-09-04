@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       c35059ba-cf79-45e8-847d-97108eb2341b
+:ROAM_REFS: https://www.memorymanagement.org/
+:END:
+#+title: (www.memorymanagement.org) Home — Memory Management Reference 4.0 documentation
+#+filetags: :website:
+
+#+begin_quote
+  * Memory Management Reference
+
+  * Home
+
+  Welcome to the *Memory Management Reference*!  This is a resource for programmers and computer scientists interested in [[https://www.memorymanagement.org/glossary/m.html#term-memory-management][memory management]] and [[https://www.memorymanagement.org/glossary/g.html#term-garbage-collection][garbage collection]].
+#+end_quote

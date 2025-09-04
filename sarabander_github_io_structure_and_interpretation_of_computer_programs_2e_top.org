@@ -308,6 +308,37 @@ Main node: [[id:69d3e2e7-62dc-414f-90ee-86f4b4abbcb0][(sarabander.github.io) Str
 :ID:       cf76bb72-62a0-4942-97df-4b70582e7c52
 :ROAM_REFS: https://sarabander.github.io/sicp/html/5_002e3.xhtml
 :END:
+*** (sarabander.github.io) SICP, 2e: 5.3, Footnote 293
+:PROPERTIES:
+:ID:       6f27112a-5dca-4aa6-8970-fbdf008addd5
+:ROAM_REFS: https://sarabander.github.io/sicp/html/5_002e3.xhtml#FOOT293
+:END:
+
+#+begin_quote
+  Type information may be encoded in a variety of ways, depending on the details of the machine on which the Lisp system is to be implemented.  The execution efficiency of Lisp programs will be strongly dependent on how cleverly this choice is made, but it is difficult to formulate general design rules for good choices.  The most straightforward way to implement typed pointers is to allocate a fixed set of bits in each pointer to be a /type field/ that encodes the data type.  Important questions to be addressed in designing such a representation include the following: How many type bits are required?  How large must the vector indices be?  How efficiently can the primitive machine instructions be used to manipulate the type fields of pointers?  Machines that include special hardware for the efficient handling of type fields are said to have /tagged architectures/.
+#+end_quote
+*** (sarabander.github.io) SICP, 2e: 5.3, Footnote 295
+:PROPERTIES:
+:ID:       59be6eec-2cb1-48e6-8d53-4ef5fbb16ca4
+:ROAM_REFS: https://sarabander.github.io/sicp/html/5_002e3.xhtml#FOOT295
+:END:
+
+#+begin_quote
+  There are other ways of finding free storage.  For example, we could link together all the unused pairs into a /free list/.  Our free locations are consecutive (and hence can be accessed by incrementing a pointer) because we are using a compacting garbage collector, as we will see in [[https://sarabander.github.io/sicp/html/5_002e3.xhtml#g_t5_002e3_002e2][5.3.2]].
+#+end_quote
+*** (sarabander.github.io) SICP, 2e: 5.3, Footnote 300
+:PROPERTIES:
+:ID:       7c56e2f1-9200-438b-aee9-4f30f7c518ff
+:ROAM_REFS: https://sarabander.github.io/sicp/html/5_002e3.xhtml#FOOT300
+:END:
+
+#+begin_quote
+  This idea was invented and first implemented by Minsky, as part of the implementation of Lisp for the PDP-1 at the MIT Research Laboratory of Electronics.  It was further developed by [[https://sarabander.github.io/sicp/html/References.xhtml#Fenichel-and-Yochelson-_00281969_0029][Fenichel and Yochelson (1969)]] for use in the Lisp implementation for the Multics time-sharing system.  Later, [[https://sarabander.github.io/sicp/html/References.xhtml#Baker-_00281978_0029][Baker (1978)]] developed a “real-time” version of the method, which does not require the computation to stop during garbage collection.  Baker's idea was extended by Hewitt, Lieberman, and Moon (see [[https://sarabander.github.io/sicp/html/References.xhtml#Lieberman-and-Hewitt-1983][Lieberman and Hewitt 1983]]) to take advantage of the fact that some structure is more volatile and other structure is more permanent.
+
+  An alternative commonly used garbage-collection technique is the /mark-sweep/ method.  This consists of tracing all the structure accessible from the machine registers and marking each pair we reach.  We then scan all of memory, and any location that is unmarked is “swept up” as garbage and made available for reuse.  A full discussion of the mark-sweep method can be found in [[https://sarabander.github.io/sicp/html/References.xhtml#Allen-1978][Allen 1978]].
+
+  The Minsky-Fenichel-Yochelson algorithm is the dominant algorithm in use for large-memory systems because it examines only the useful part of memory.  This is in contrast to mark-sweep, in which the sweep phase must check all of memory.  A second advantage of stop-and-copy is that it is a /compacting/ garbage collector.  That is, at the end of the garbage-collection phase the useful data will have been moved to consecutive memory locations, with all garbage pairs compressed out.  This can be an extremely important performance consideration in machines with virtual memory, in which accesses to widely separated memory addresses may require extra paging operations.
+#+end_quote
 ** (sarabander.github.io) SICP, 2e: 5.4 The Explicit-Control Evaluator
 :PROPERTIES:
 :ID:       1c11db84-5c96-4df9-b4b9-79de9b0e42e1

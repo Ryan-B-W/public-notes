@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       3aca916a-05ca-4eb6-9cad-adadace63147
+:ROAM_REFS: https://www.cs.tufts.edu/~nr/cs257/archive/guy-steele/ultimate-goto.pdf
+:END:
+#+title: (www.cs.tufts.edu) (AIM 443) Debunking the "Expensive Procedure Call" Myth or, Procedure Call Implementations Considered Harmful or, Lambda: The Ultimate GOTO (AIM-443.0023 - ultimate-goto.pdf)
+#+filetags: :mime_type_application_pdf:website:
+
+Alternate of [[id:dda98204-b868-4a6c-9811-358c5a1c2087][(apps.dtic.mil) (AIM 443) Debunking the "Expensive Procedure Call" Myth or, Procedure Call Implementations Considered Harmful or, Lambda: The Ultimate GOTO (ADA062381.pdf)]].

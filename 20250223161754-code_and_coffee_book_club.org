@@ -699,3 +699,16 @@ Latent vs manifest types:
 #+begin_quote
   For example, when we define the =good-enough?= procedure in terms of =square=, we are able to regard the =square= procedure as a "black box."  We are not at that moment concerned with /how/ the procedure computes its result, only with the fact that it computes the square.  The details of how the square is computed can be suppressed, to be considered at a later time.  Indeed, as far as the =good-enough?= procedure is concerned, =square= is not quite a procedure but rather an abstraction of a procedure, a so-called /procedural abstraction/.  At this level of abstraction, any procedure that computes the square is equally good.
 #+end_quote
+**** Session 24, [2025-08-31 Sun 15:00-16:00]
+***** Current section [[id:cf76bb72-62a0-4942-97df-4b70582e7c52][(sarabander.github.io) SICP, 2e: 5.3 Storage Allocation and Garbage Collection]]
+***** [[id:59be6eec-2cb1-48e6-8d53-4ef5fbb16ca4][(sarabander.github.io) SICP, 2e: 5.3, Footnote 295]]
+***** [[id:c35059ba-cf79-45e8-847d-97108eb2341b][(www.memorymanagement.org) Home — Memory Management Reference 4.0 documentation]]
+***** [[id:f05b8335-5d22-4c6a-a8ba-5d6745b005d9][(spin.atomicobject.com) Visualizing Garbage Collection Algorithms]]
+***** [[id:5818c465-70e6-4370-97d6-a1c14e299ba3][(tinytapeout.com) Tiny Tapeout :: Quicker, easier and cheaper to make your own chip!]]
+***** [[id:85daf22a-694b-400a-9457-bdfff47c90ec][(gchandbook.org) The Garbage Collection Handbook]]
+***** [[id:8cbe5736-ec41-47a4-9c47-8691b8f4d47c][(en.wikipedia.org) Language support - Tail call - Wikipedia]]
+***** [[id:3aca916a-05ca-4eb6-9cad-adadace63147][(www.cs.tufts.edu) (AIM 443) Debunking the "Expensive Procedure Call" Myth or, Procedure Call Implementations Considered Harmful or, Lambda: The Ultimate GOTO (AIM-443.0023 - ultimate-goto.pdf)]]
+***** [[id:59af449a-11bf-47ff-8608-fd6977dc3648][(research.scheme.org) Lambda Papers]]
+****** [[id:dda98204-b868-4a6c-9811-358c5a1c2087][(apps.dtic.mil) (AIM 443) Debunking the "Expensive Procedure Call" Myth or, Procedure Call Implementations Considered Harmful or, Lambda: The Ultimate GOTO (ADA062381.pdf)]]
+***** [[id:6f27112a-5dca-4aa6-8970-fbdf008addd5][(sarabander.github.io) SICP, 2e: 5.3, Footnote 293]]
+***** [[id:7c56e2f1-9200-438b-aee9-4f30f7c518ff][(sarabander.github.io) SICP, 2e: 5.3, Footnote 300]]

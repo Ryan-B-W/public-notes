@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       dda98204-b868-4a6c-9811-358c5a1c2087
+:ROAM_REFS: https://apps.dtic.mil/sti/pdfs/ADA062381.pdf
+:ROAM_ALIASES: "AIM 443" "Debunking the \"Expensive Procedure Call\" Myth or, Procedure Call Implementations Considered Harmful or, Lambda: The Ultimate GOTO by Guy Lewis Steele Jr." "Debunking the \"Expensive Procedure Call\" Myth or, Procedure Call Implementations Considered Harmful or, Lambda: The Ultimate GOTO"
+:END:
+#+title: (apps.dtic.mil) (AIM 443) Debunking the "Expensive Procedure Call" Myth or, Procedure Call Implementations Considered Harmful or, Lambda: The Ultimate GOTO (ADA062381.pdf)
+#+filetags: :mime_type_application_pdf:website:

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       8e295562-12b3-4770-a530-61a0e517384b
+:ROAM_REFS: https://en.wikipedia.org/wiki/Tail_call
+:END:
+#+title: (en.wikipedia.org) Tail call - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Computer_science][computer science]], a *tail call* is a [[https://en.wikipedia.org/wiki/Subroutine][subroutine]] call performed as the final action of a procedure.  If the target of a tail is the same subroutine, the subroutine is said to be *tail recursive*, which is a special case of direct [[https://en.wikipedia.org/wiki/Recursion_(computer_science)][recursion]].  *Tail recursion* (or *tail-end recursion*) is particularly useful, and is often easy to optimize in implementations.
+
+  Tail calls can be implemented without adding a new [[https://en.wikipedia.org/wiki/Stack_frame][stack frame]] to the [[https://en.wikipedia.org/wiki/Call_stack][call stack]].  Most of the frame of the current procedure is no longer needed, and can be replaced by the frame of the tail call, modified as appropriate (similar to [[https://en.wikipedia.org/wiki/Exec_(system_call)][overlay]] for processes, but for function calls).  The program can then [[https://en.wikipedia.org/wiki/Jump_(computer_science)][jump]] to the called subroutine.  Producing such code instead of a standard call sequence is called *tail-call elimination* or *tail-call optimization.*  Tail-call elimination allows procedure calls in tail position to be implemented as efficiently as [[https://en.wikipedia.org/wiki/Goto][goto]] statements, thus allowing efficient [[https://en.wikipedia.org/wiki/Structured_programming][structured programming]].  In the words of [[https://en.wikipedia.org/wiki/Guy_L._Steele][Guy L. Steele]], "in general, procedure calls may be usefully thought of as GOTO statements which also pass parameters, and can be uniformly coded as [machine code] JUMP instructions."
+
+  Not all programming languages require tail-call elimination.  However, in [[https://en.wikipedia.org/wiki/Functional_programming_language][functional programming languages]], tail-call elimination is often guaranteed by the [[https://en.wikipedia.org/wiki/Programming_language_specification][language standard]], allowing tail recursion to use a similar amount of memory as an equivalent [[https://en.wikipedia.org/wiki/Loop_(computing)][loop]].  The special case of tail-recursive calls, when a function calls itself, may be more amenable to call elimination than general tail calls.  When the language semantics do not explicitly support general tail calls, a compiler can often still optimize *sibling calls*, or tail calls to functions which take and return the same types as the caller.
+#+end_quote
+* (en.wikipedia.org) Language support - Tail call - Wikipedia
+:PROPERTIES:
+:ID:       8cbe5736-ec41-47a4-9c47-8691b8f4d47c
+:ROAM_REFS: https://en.wikipedia.org/wiki/Tail_call#Language_support
+:END:
