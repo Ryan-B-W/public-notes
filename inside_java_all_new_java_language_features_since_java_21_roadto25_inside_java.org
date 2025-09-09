@@ -1,0 +1,68 @@
+:PROPERTIES:
+:ID:       83126add-06fb-4bb4-a796-50a3fd5d2786
+:ROAM_REFS: https://inside.java/2025/08/31/roadto25-java-language/
+:END:
+#+title: (inside.java) All New Java Language Features Since Java 21 #RoadTo25 – Inside.java
+#+filetags: :video:java_lang:blog_post:website:
+
+#+begin_quote
+  * All New Java Language Features Since Java 21 #RoadTo25
+
+  [[https://inside.java/u/JosePaumard][José Paumard]] on August 31, 2025
+
+  /Java 25 ships with a number of new language features, many of which fit under the umbrella of data-oriented programming, on-ramping new developers, and making Java more viable as a scripting language for easy automation.  Join Jose as he explores these features./
+#+end_quote
+* (www.youtube.com) All New Java Language Features Since Java 21 #RoadTo25 - YouTube :java_lang:video:
+:PROPERTIES:
+:ID:       3eb7dee4-804f-4ca3-95ea-b03a30958dc1
+:ROAM_REFS: https://www.youtube.com/watch?v=X0-TGhktFnE
+:END:
+
+#+begin_quote
+  Java 25 ships with a number of new language features, many of which fit under the umbrella of data-oriented programming, on-ramping new developers, and making Java more viable as a scripting language for easy automation.  Join Jose as he explores these features.
+
+  ACME Soft's Road to 25: [[https://www.youtube.com/playlist?list=PLX8CzqL3ArzXJ2_0FIGleUisXuUm4AESE][• Road to 25]]
+
+  [[https://www.youtube.com/watch?v=X0-TGhktFnE][0:00]] Intro
+  [[https://www.youtube.com/watch?v=X0-TGhktFnE&t=81s][1:21]] Data Oriented Programming
+  [[https://www.youtube.com/watch?v=X0-TGhktFnE&t=123s][2:03]] Switching on a sealed type using pattern matching
+  [[https://www.youtube.com/watch?v=X0-TGhktFnE&t=263s][4:23]] Simplifying patterns with unnamed variables
+  [[https://www.youtube.com/watch?v=X0-TGhktFnE&t=443s][7:23]] Analyzing the use of unnamed variables in record patterns
+  [[https://www.youtube.com/watch?v=X0-TGhktFnE&t=507s][8:27]] Using unnamed variables in type patterns
+  [[https://www.youtube.com/watch?v=X0-TGhktFnE&t=534s][8:54]] Using unnamed variables when catching exceptions
+  [[https://www.youtube.com/watch?v=X0-TGhktFnE&t=575s][9:35]] Using unnamed variables in lambda expressions
+  [[https://www.youtube.com/watch?v=X0-TGhktFnE&t=688s][11:28]] Using unnamed variables in other places
+  [[https://www.youtube.com/watch?v=X0-TGhktFnE&t=835s][13:55]] Extending Pattern Matching with primitive types
+  [[https://www.youtube.com/watch?v=X0-TGhktFnE&t=904s][15:04]] Analyzing the status of an HTTP response with switch on primitive patterns
+  [[https://www.youtube.com/watch?v=X0-TGhktFnE&t=989s][16:29]] Switching on booleans
+  [[https://www.youtube.com/watch?v=X0-TGhktFnE&t=1035s][17:15]] Safe JSON data analysis with primitive patterns
+  [[https://www.youtube.com/watch?v=X0-TGhktFnE&t=1233s][20:33]] Simplifying the writing of Java applications
+  [[https://www.youtube.com/watch?v=X0-TGhktFnE&t=1334s][22:14]] Using IO.println() to print messages
+  [[https://www.youtube.com/watch?v=X0-TGhktFnE&t=1361s][22:41]] Running some Java code without calling the compiler
+  [[https://www.youtube.com/watch?v=X0-TGhktFnE&t=1420s][23:40]] Running multi-file source-code programs
+  [[https://www.youtube.com/watch?v=X0-TGhktFnE&t=1480s][24:40]] Importing modules in Java classes
+  [[https://www.youtube.com/watch?v=X0-TGhktFnE&t=1562s][26:02]] Wrapping up simplified Java applications
+  [[https://www.youtube.com/watch?v=X0-TGhktFnE&t=1626s][27:06]] Using Markdown to write your JavaDoc
+  [[https://www.youtube.com/watch?v=X0-TGhktFnE&t=1717s][28:37]] Constructing object to manage null values and constants properly
+  [[https://www.youtube.com/watch?v=X0-TGhktFnE&t=1859s][30:59]] Analyzing the construction of objects
+  [[https://www.youtube.com/watch?v=X0-TGhktFnE&t=1949s][32:29]] Introducing Stable Values to create real constants
+  [[https://www.youtube.com/watch?v=X0-TGhktFnE&t=2008s][33:28]] Revising object construction with Flexible Constructor Bodies
+
+  JEP 395: Records: [[https://openjdk.org/jeps/395][https://openjdk.org/jeps/395]]
+  JEP 440: Record Patterns: [[https://openjdk.org/jeps/440][https://openjdk.org/jeps/440]]
+  JEP 394: Pattern Matching for Instanceof: [[https://openjdk.org/jeps/394][https://openjdk.org/jeps/394]]
+  JEP 441: Pattern Matching for Switch: [[https://openjdk.org/jeps/441][https://openjdk.org/jeps/441]]
+  JEP 409: Sealed Classes: [[https://openjdk.org/jeps/409][https://openjdk.org/jeps/409]]
+  JEP 361: Switch Expressions: [[https://openjdk.org/jeps/361][https://openjdk.org/jeps/361]]
+  JEP 456: Unnamed Variables & Patterns: [[https://openjdk.org/jeps/456][https://openjdk.org/jeps/456]]
+  JEP 507: Primitive Types in Patterns, instanceof and switch (Third Preview): [[https://openjdk.org/jeps/507][https://openjdk.org/jeps/507]]
+  JEP 512: Compact Source Files and Instance Main Methods: [[https://openjdk.org/jeps/512][https://openjdk.org/jeps/512]]
+  JEP 458: Launch Multi-File Source-Code Programs: [[https://openjdk.org/jeps/458][https://openjdk.org/jeps/458]]
+  JEP 511: Module Import Declarations: [[https://openjdk.org/jeps/511][https://openjdk.org/jeps/511]]
+  JEP 502: Stable Values (Preview): [[https://openjdk.org/jeps/502][https://openjdk.org/jeps/502]]
+  JEP 513: Flexible Constructor Bodies: [[https://openjdk.org/jeps/513][https://openjdk.org/jeps/513]]
+
+  Amber mailing list: [[https://mail.openjdk.org/mailman/listinfo/amber-dev][https://mail.openjdk.org/mailman/list...]]
+
+  Tags: [[https://www.youtube.com/hashtag/java][#Java]] [[https://www.youtube.com/hashtag/java25][#Java25]] [[https://www.youtube.com/hashtag/openjdk][#OpenJDK]]
+#+end_quote

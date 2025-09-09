@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       a4b3597c-e2f0-42bf-b0ef-57fcbc9072c7
+:ROAM_REFS: https://www.cs.princeton.edu/~appel/modern/
+:END:
+#+title: (www.cs.princeton.edu) Modern Compiler Implementation
+#+filetags: :compilers:computer_science:books:website:
