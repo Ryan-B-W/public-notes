@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       222658e9-0efa-444f-92ec-f21e706f4d6e
+:ROAM_REFS: https://books.google.com/books?id=mFeUzQEACAAJ
+:END:
+#+title: (books.google.com) The Common Lisp Condition System: Beyond Exception Handling with Control ... - Michał "phoe" Herda - Google Books
+#+filetags: :common_lisp:lisp:books:website:
+
+#+begin_quote
+  Discover the functioning and example uses of the Common Lisp condition system.  This book supplements already existing material for studying Common Lisp as a language by providing detailed information about the Lisp condition system and its control flow mechanisms; it also describes an example ANSI-conformant implementation of the condition system.
+
+  In part 1 of /The Common Lisp Condition System/, the author introduces the condition system using a bottom-up approach, constructing it piece by piece.  He uses a storytelling approach to convey the foundation of the condition system, dynamically providing code to alter the behavior of an existing program.  Later, in part 2, you'll implement a full and complete ANSI-conformant condition system while examining and testing each piece of code that you write.
+
+  Throughout, the author demonstrates how to extend Lisp using Lisp itself by using the condition system as an example.  This is done while paying proper attention to the CL restart subsystem, giving it attention on a par with the handler subsystem.  After reading and using this book, you'll have learned about the inner functioning of the condition system, how to use it in your own Common Lisp coding and applications, and how to implement it from scratch, should such a need arise.
+
+  *What You Will Learn*
+
+  - Examine the condition system and see why it is important in Common Lisp
+  - Construct the condition system from scratch using foundational mechanisms provided by Common Lisp
+  - Program the condition system and its control flow mechanisms to achieve practical results
+  - Implement all parts of a condition system: conditions, restarts, handler- and restart-binding macros, signalling mechanisms, assertions, a debugger, and more
+
+  *Who This Book Is For*
+
+  Beginning and intermediate Lisp programmers, as well as intermediate programmers of other programming languages.
+#+end_quote

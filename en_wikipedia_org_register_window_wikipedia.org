@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       b822b263-0340-41ed-aee0-f37f3062f17e
+:ROAM_REFS: https://en.wikipedia.org/wiki/Register_window
+:END:
+#+title: (en.wikipedia.org) Register window - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Computer_engineering][computer engineering]], *register windows* are a feature which dedicates registers to a subroutine by dynamically aliasing a subset of internal registers to fixed, programmer-visible registers.  Register windows are implemented to improve the performance of a processor by reducing the number of [[https://en.wikipedia.org/wiki/Stack_(abstract_data_type)][stack]] operations required for function calls and returns.  One of the most influential features of the [[https://en.wikipedia.org/wiki/Berkeley_RISC][Berkeley RISC]] design, they were later implemented in [[https://en.wikipedia.org/wiki/Instruction_set_architectures][instruction set architectures]] such as [[https://en.wikipedia.org/wiki/AMD_Am29000][AMD Am29000]], [[https://en.wikipedia.org/wiki/Intel_i960][Intel i960]], [[https://en.wikipedia.org/wiki/Sun_Microsystems][Sun Microsystems]] [[https://en.wikipedia.org/wiki/SPARC][SPARC]], and Intel [[https://en.wikipedia.org/wiki/IA-64][Itanium]].
+#+end_quote

@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       486a11d7-b92e-4ba0-86d9-c1c51503608f
+:ROAM_REFS: https://www.amazon.com/dp/156592312X
+:END:
+#+title: (www.amazon.com) High Performance Computing (RISC Architectures, Optimization & Benchmarks): Severance, Charles, Dowd, Kevin: 9781565923126: Amazon.com: Books
+#+filetags: :books:website:
+
+#+begin_quote
+  The computing power that's available on the average desktop has exploded in the past few years.  A typical PC has performance exceeding that of a multi-million dollar supercomputer a mere decade ago.  To some people, that might mean that it's time to sit back and watch computers get faster: performance is no longer an issue, we'll let hardware do the work.  But if you're looking at this book, you're not one of them.  Performance is always an issue.  Even with the fastest computers, there's a need to harness the processing power and get more work done in a limited amount of time.
+
+  If you're a software developer, you probably know that getting the most out of a modern workstation or PC can be tricky.  Paying closer attention to memory reference patterns and loop structure can have a huge payoff.  High Performance Computing discusses how modern workstations get their performance and how you can write code that makes optimal use of your hardware.  You'll learn what the newest buzzwords really mean, how caching and other memory design features affect the way your software behaves, and where the newest "post-RISC" architectures are headed.
+
+  If you're involved with purchasing or evaluating workstations, this book will help you make intelligent comparisons.  You'll learn how to interpret the commonly quoted industry benchmarks, what vendors do to show their machines in the best possible light, and how to run your own benchmarks.
+
+  Whether you're using the latest Pentium PC or a highly specialized multiprocessor, you'll find High Performance Computing an indispensable guide.  Topics covered include:
+
+  - CPU and memory architecture for RISC microprocessors and their successors
+  - Optimizing compilers
+  - Timing and profiling programs
+  - Understanding parallelism
+  - Loop and memory reference optimizations
+  - Benchmarking
+  - Parallel Computing and Multiprocessing
+#+end_quote

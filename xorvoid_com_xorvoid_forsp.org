@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       e1713d34-3367-4b02-aa53-8fa1e7b370a5
+:ROAM_REFS: https://xorvoid.com/forsp.html
+:END:
+#+title: (xorvoid.com) Forsp: A Forth+Lisp Hybrid Lambda Calculus Language - xorvoid
+#+filetags: :lisp:blog_post:website:
+
+#+begin_quote
+  * Forsp: A Forth+Lisp Hybrid Lambda Calculus Language
+
+  Recently I've discovered a very interesting language / realization of the Lambda Calculus.  I was unable to find any other language like it, which I find quite surprising.  In hindsight, the language seems obvious and natural.  And the language keeps surprising me.  I say "discovered" in the same sense that Paul Graham says that McCarthy "discovered Lisp" [[https://xorvoid.com/jmc.pdf][(link)]].
+
+  It's a hybrid language combining Forth and Lisp, so naturally it's called Forsp ([[https://github.com/xorvoid/forsp/tree/main][code]])!
+
+  Forsp has:
+
+  - An S-Expression syntax like Lisp
+  - Function abstraction like Lisp
+  - Function application like Forth
+  - An environment structure like Lisp
+  - Lexically-scoped closures like Lisp (Scheme)
+  - Cons-cells / lists / atoms like Lisp
+  - A value/operand stack like Forth
+  - An ability to express the Lambda Calculus
+  - A Call-By-Push-Value evaluation order
+  - Only 3 syntax special forms: ' ^ $
+  - Only 1 eval-time special form: quote
+  - Only 10 primitive functions need to self-implement
+  - Ability to self-implement in very little code
+
+  It's evaluator is very simple.  I suspect simpler than a McCarthy Lisp /eval()/ function, but I haven't defined a "simplicity function", so you can be the judge.
+
+  In contrast to Lisp, /apply()/ is trivial in Forsp, and instead we have a core function called /compute()/
+#+end_quote

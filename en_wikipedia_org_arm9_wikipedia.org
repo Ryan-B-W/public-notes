@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       d0d1a8a7-02a4-4a31-9ea5-23686ff1371d
+:ROAM_REFS: https://en.wikipedia.org/wiki/ARM9
+:END:
+#+title: (en.wikipedia.org) ARM9 - Wikipedia
+#+filetags: :electronics:microcontroller:processor:website:
+
+[[id:34a6d6d5-128a-483e-8d57-8b8f01f2c1ad][ARM]] processor core family implementing the ARMv4T, ARMv5TE, or ARMv5TEJ [[id:c980a340-2564-437e-a79f-388122a206ad][ISA]] for use in microcontrollers.
+
+#+begin_quote
+  *ARM9* is a group of [[https://en.wikipedia.org/wiki/32-bit][32-bit]] [[https://en.wikipedia.org/wiki/Reduced_instruction_set_computer][RISC]] [[https://en.wikipedia.org/wiki/ARM_architecture][ARM]] processor cores licensed by [[https://en.wikipedia.org/wiki/ARM_Holdings][ARM Holdings]] for [[https://en.wikipedia.org/wiki/Microcontroller][microcontroller]] use.  The ARM9 core family consists of ARM9TDMI, ARM940T, ARM9E-S, ARM966E-S, ARM920T, ARM922T, ARM946E-S, ARM9EJ-S, ARM926EJ-S, ARM968E-S, ARM996HS.  ARM9 cores were released from *1998* to *2006*, and no longer recommended for new IC designs; newer alternatives are [[https://en.wikipedia.org/wiki/ARM_Cortex-M][ARM Cortex-M]] cores.
+#+end_quote
+* (en.wikipedia.org) ARM9E-S and ARM9EJ-S - ARM9 - Wikipedia
+:PROPERTIES:
+:ID:       5343b1db-2c89-485d-b1a0-76546eb3a2e5
+:ROAM_REFS: https://en.wikipedia.org/wiki/ARM9#ARM9E
+:END:

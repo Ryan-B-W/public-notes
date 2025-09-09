@@ -344,6 +344,42 @@ Main node: [[id:69d3e2e7-62dc-414f-90ee-86f4b4abbcb0][(sarabander.github.io) Str
 :ID:       1c11db84-5c96-4df9-b4b9-79de9b0e42e1
 :ROAM_REFS: https://sarabander.github.io/sicp/html/5_002e4.xhtml
 :END:
+*** (sarabander.github.io) SICP, 2e: 5.4, Footnote 305
+:PROPERTIES:
+:ID:       61e391c5-a7ac-425c-b4b3-656034f08a1e
+:ROAM_REFS: https://sarabander.github.io/sicp/html/5_002e4.xhtml#FOOT305
+:END:
+
+#+begin_quote
+  In our controller, the dispatch is written as a sequence of =test= and =branch= instructions.  Alternatively, it could have been written in a data-directed style (and in a real system it probably would have been) to avoid the need to perform sequential tests and to facilitate the definition of new expression types.  A machine designed to run Lisp would probably include a =dispatch-on-type= instruction that would efficiently execute such data-directed dispatches.
+#+end_quote
+*** (sarabander.github.io) SICP, 2e: 5.4, Footnote 306
+:PROPERTIES:
+:ID:       e332adfd-dd0f-46b6-8e5d-6375c41cc59c
+:ROAM_REFS: https://sarabander.github.io/sicp/html/5_002e4.xhtml#FOOT306
+:END:
+
+#+begin_quote
+  This is an important but subtle point in translating algorithms from a procedural language, such as Lisp, to a register-machine language.  As an alternative to saving only what is needed, we could save all the registers (except =val=) before each recursive call.  This is called a /framed-stack/ discipline.  This would work but might save more registers than necessary; this could be an important consideration in a system where stack operations are expensive.  Saving registers whose contents will not be needed later may also hold onto useless data that could otherwise be garbage-collected, freeing space to be reused.
+#+end_quote
+*** (sarabander.github.io) SICP, 2e: 5.4, Footnote 308
+:PROPERTIES:
+:ID:       c8e8d519-ddb9-40ee-aa13-6527475c0665
+:ROAM_REFS: https://sarabander.github.io/sicp/html/5_002e4.xhtml#FOOT308
+:END:
+
+#+begin_quote
+  The optimization of treating the last operand specially is known as /evlis tail recursion/ (see [[https://sarabander.github.io/sicp/html/References.xhtml#Wand-1980][Wand 1980]]).  We could be somewhat more efficient in the argument evaluation loop if we made evaluation of the first operand a special case too.  This would permit us to postpone initializing =argl= until after evaluating the first operand, so as to avoid saving =argl= in this case.  The compiler in [[https://sarabander.github.io/sicp/html/5_002e5.xhtml#g_t5_002e5][5.5]] performs this optimization.  (Compare the =construct-arglist= procedure of [[https://sarabander.github.io/sicp/html/5_002e5.xhtml#g_t5_002e5_002e3][5.5.3]].)
+#+end_quote
+*** (sarabander.github.io) SICP, 2e: 5.4, Footnote 309
+:PROPERTIES:
+:ID:       3e3d1128-f6b6-4d35-b1b4-cb632f084a2b
+:ROAM_REFS: https://sarabander.github.io/sicp/html/5_002e4.xhtml#FOOT309
+:END:
+
+#+begin_quote
+  The order of operand evaluation in the metacircular evaluator is determined by the order of evaluation of the arguments to =cons= in the procedure =list-of-values= of [[https://sarabander.github.io/sicp/html/4_002e1.xhtml#g_t4_002e1_002e1][4.1.1]] (see [[https://sarabander.github.io/sicp/html/4_002e1.xhtml#Exercise-4_002e1][Exercise 4.1]]).
+#+end_quote
 ** (sarabander.github.io) SICP, 2e: 5.5 Compilation
 :PROPERTIES:
 :ID:       eecde4f8-9302-4eb7-a09b-6ee1217b3414
@@ -354,6 +390,24 @@ Main node: [[id:69d3e2e7-62dc-414f-90ee-86f4b4abbcb0][(sarabander.github.io) Str
 :ID:       54ca1727-d685-4343-a0e3-3f07a815ea58
 :ROAM_REFS: https://sarabander.github.io/sicp/html/References.xhtml
 :END:
+** (sarabander.github.io) SICP, 2e: References, Batali et al. 1982
+:PROPERTIES:
+:ID:       c22ddfdc-da44-448b-b370-959f9e309809
+:ROAM_REFS: https://sarabander.github.io/sicp/html/References.xhtml#Batali-et-al_002e-1982
+:END:
+
+#+begin_quote
+  Batali, John, Neil Mayle, Howard Shrobe, Gerald Jay Sussman, and Daniel Weise.  1982.  The Scheme-81 architecture---System and chip.  In Proceedings of the MIT Conference on Advanced Research in VLSI, edited by Paul Penfield, Jr. Dedham, MA: Artech House.
+#+end_quote
+** (sarabander.github.io) SICP, 2e: References, Wand 1980
+:PROPERTIES:
+:ID:       120c4907-1fda-45e5-b10a-35d9e5728eaf
+:ROAM_REFS: https://sarabander.github.io/sicp/html/References.xhtml#Wand-1980
+:END:
+
+#+begin_quote
+  Wand, Mitchell. 1980. Continuation-based program transformation strategies. Journal of the ACM 27(1): 164-180. [[http://www.diku.dk/OLD/undervisning/2005e/224/papers/Wand80.pdf][--›]]
+#+end_quote
 * (sarabander.github.io) SICP, 2e: Term Index
 :PROPERTIES:
 :ID:       5eac4aa2-ab1e-44ae-bfd8-498e800d9a14

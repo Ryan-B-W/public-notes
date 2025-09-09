@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       6c7ecced-588d-42e3-8b87-290c79bd3ff9
+:ROAM_REFS: https://archive.org/details/zenofassemblylan0001abra
+:END:
+#+title: (archive.org) Zen of assembly language : Abrash, Michael : Free Download, Borrow, and Streaming : Internet Archive
+#+filetags: :archive_org:books:website:

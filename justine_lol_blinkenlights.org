@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       6dec0f61-7a01-4937-84ab-1a3394877989
+:ROAM_REFS: https://justine.lol/blinkenlights/
+:END:
+#+title: (justine.lol) Blinkenlights
+#+filetags: :x86:computer_architecture:computer_science:emulator:simulation:software:website:
+
+#+begin_quote
+  Blinkenlights is a command line debugger that focuses on visualizing how software changes memory.  It's able to emulate statically linked i8086 and x86_64-pc-linux-gnu programs on the Linux, Mac, Windows, FreeBSD, NetBSD, and OpenBSD platforms.
+
+  Computers once had operator panels that provided an intimate overview of the machine's internal state at any given moment.  The blinking lights would communicate the personality of each piece of software.  Since our minds are great at spotting patterns, developers would intuitively understand based on which way the LEDs were flashing, if a program was sorting data, collating, caught in an infinite loop, etc.  This is an aspect of the computing experience that modern machines haven't done a good job at recreating, until now.
+#+end_quote
+* (justine.lol) Source Code | Blinkenlights
+:PROPERTIES:
+:ID:       9eba3b44-9130-4012-81a3-b18f4ce61b10
+:ROAM_REFS: https://justine.lol/blinkenlights/sources.html
+:END:
+** (github.com) GitHub - jart/blink: tiniest x86-64-linux emulator
+:PROPERTIES:
+:ID:       e181268c-7443-4ded-b4bd-9820b77e82e0
+:ROAM_REFS: https://github.com/jart/blink
+:END:
+
+#+begin_quote
+  * Blinkenlights
+
+  This project contains two programs:
+
+  =blink= is a virtual machine that runs x86-64-linux programs on different operating systems and hardware architectures.  It's designed to do the same thing as the =qemu-x86_64= command, except that
+
+  1. Blink is 221kb in size (115kb with optional features disabled), whereas qemu-x86_64 is a 4mb binary.
+
+  2. Blink will run your Linux binaries on any POSIX system, whereas qemu-x86_64 only supports Linux.
+
+  3. Blink goes 2x faster than qemu-x86_64 on some benchmarks, such as SSE integer / floating point math.  Blink is also much faster at running ephemeral programs such as compilers.
+
+  [[https://justine.lol/blinkenlights][=blinkenlights=]] is a terminal user interface that may be used for debugging x86_64-linux or i8086 programs across platforms.  Unlike GDB, Blinkenlights focuses on visualizing program execution.  It uses UNICODE IBM Code Page 437 characters to display binary memory panels, which change as you step through your program's assembly code.  These memory panels may be scrolled and zoomed using your mouse wheel.  Blinkenlights also permits reverse debugging, where scroll wheeling over the assembly display allows the rewinding of execution history.
+#+end_quote

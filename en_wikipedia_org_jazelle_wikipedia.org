@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       6b8c32a3-e217-4cc1-8e64-effde462b8d3
+:ROAM_REFS: https://en.wikipedia.org/wiki/Jazelle
+:END:
+#+title: (en.wikipedia.org) Jazelle - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  *Jazelle DBX* (direct bytecode execution) is an extension that allows some [[https://en.wikipedia.org/wiki/ARM_architecture][ARM]] processors to execute [[https://en.wikipedia.org/wiki/Java_bytecode][Java bytecode]] in [[https://en.wikipedia.org/wiki/Computer_hardware][hardware]] as a third execution state alongside the existing ARM and [[https://en.wikipedia.org/wiki/ARM_architecture#Thumb][Thumb]] modes.  Jazelle functionality was specified in the ARMv5TEJ architecture and the first processor with Jazelle technology was the [[https://en.wikipedia.org/wiki/ARM9][ARM926EJ-S]].  Jazelle is denoted by a "J" appended to the CPU name, except for post-v5 cores where it is required (albeit only in trivial form) for architecture conformance.
+
+  [[https://en.wikipedia.org/wiki/Jazelle_RCT][Jazelle RCT]] (Runtime Compilation Target) is a different technology based on ThumbEE mode; it supports [[https://en.wikipedia.org/wiki/Ahead-of-time_compilation][ahead-of-time]] (AOT) and [[https://en.wikipedia.org/wiki/Just-in-time_compilation][just-in-time]] (JIT) compilation with Java and other execution environments.
+
+  The most prominent use of Jazelle DBX is by manufacturers of mobile phones to increase the execution speed of [[https://en.wikipedia.org/wiki/Java_ME][Java ME]] games and applications.  A Jazelle-aware [[https://en.wikipedia.org/wiki/Java_virtual_machine][Java virtual machine]] (JVM) will attempt to run Java bytecode in hardware, while returning to the software for more complicated, or lesser-used bytecode operations.  ARM claims that approximately 95% of bytecode in typical program usage ends up being directly processed in the hardware.
+
+  The published specifications are very incomplete, being only sufficient for writing [[https://en.wikipedia.org/wiki/Operating_system][operating system]] code that can support a JVM that uses Jazelle.  The declared intent is that only the JVM software needs to (or is allowed to) depend on the hardware interface details.  This tight binding facilitates the hardware and JVM evolving together without affecting other software.  In effect, this gives [[https://en.wikipedia.org/wiki/ARM_Holdings][ARM Holdings]] considerable control over which JVMs are able to exploit Jazelle.  It also prevents open source JVMs from using Jazelle.  These issues do not apply to the ARMv7 ThumbEE environment, the nominal successor to Jazelle DBX.
+#+end_quote

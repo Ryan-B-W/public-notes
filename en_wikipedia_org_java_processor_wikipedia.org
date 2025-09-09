@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       835fc461-1168-44b8-b00b-1c585d4bc258
+:ROAM_REFS: https://en.wikipedia.org/wiki/Java_processor
+:END:
+#+title: (en.wikipedia.org) Java processor - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  A *Java processor* is the implementation of the [[https://en.wikipedia.org/wiki/Java_virtual_machine][Java virtual machine]] (JVM) in hardware.  In other words, the [[https://en.wikipedia.org/wiki/Java_bytecode][Java bytecode]] that makes up the instruction set of the abstract machine becomes the instruction set of a concrete machine.  These were the most popular form of a [[https://en.wikipedia.org/wiki/High-level_language_computer_architecture][high-level language computer architecture]], and were "an attractive choice for building embedded and real-time systems that are programmed in Java".  However, as of 2017, embedded Java is no longer common and no realtime Java chip vendors exist.
+#+end_quote

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       3ae25846-f636-4604-bc4d-7b614125bb4a
+:ROAM_REFS: https://danielmangum.com/posts/retrospective-sparc-register-windows/
+:END:
+#+title: (danielmangum.com) A Brief Retrospective on SPARC Register Windows · Daniel Mangum
+#+filetags: :blog_post:website:
+
+#+begin_quote
+  As I work on [[https://github.com/mosscomp/moss][=moss=]] and research modern processor design patterns and techniques, I am also looking for patterns and techniques from the past that, for one reason or another, have not persisted into our modern machines.  While on a run this week, I was listening to an old [[https://oxide.computer/podcasts/oxide-and-friends/838550][Oxide and Friends episode]] where Bryan, Adam, and crew were reminiscing on the [[https://en.wikipedia.org/wiki/SPARC][SPARC]] instruction set architecture (ISA).  SPARC is a reduced instruction set computer (RISC) architecture originally developed by [[https://en.wikipedia.org/wiki/Sun_Microsystems][Sun Microsystems]], with the first machine, the [[https://en.wikipedia.org/wiki/SPARCstation_1][SPARCstation1]] (a.k.a. Sun 4/60, a.k.a Campus), being delivered in 1987.  It was heavily influenced by the early RISC designs from [[https://en.wikipedia.org/wiki/David_Patterson_(computer_scientist)][David Patterson]] and team at Berkeley in the 1970s and 1980s, which is the same lineage from which [[https://riscv.org/][RISC-V]] has evolved.  Given the [[https://danielmangum.com/posts/why-create-new-isa/][decision]] to base =moss= on the RISC-V =RV64I= ISA, I was interested to learn more about the history and finer details of SPARC.
+
+  The episode discusses a number of interesting attributes of the architecture, as well as [[https://www.filibeto.org/sun/lib/hardware/enterprise_4500/BP_Ecache_10-16-01.pdf][some issues in specific implementations]], but one in particular stuck out to me: [[https://en.wikipedia.org/wiki/Register_window][register windows]].  As it turns out, register windows were not an innovation of SPARC, but rather a feature inherited from those early Berkeley RISC designs.  In fact, the very first design, [[https://dl.acm.org/doi/pdf/10.1145/285930.285981][RISC I]], describes register windows as a prominent component of making the simplified processor design feasible for legitimate computation.
+
+  : “It would appear that such constraints would result in a machine with substantially poorer code density or poorer performance or both.  In spite of these constraints, the resulting architecture competes favorably with other state-of-the-art machines such as VAX 11/780.  *This is largely because of an innovative new scheme of register organization we call overlapped register windows.*”
+  /---David A. Patterson and Carlo H. Sequin.  1998.  RISC I: a reduced instruction set VLSI computer.  (Page 217)/
+#+end_quote
