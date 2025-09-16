@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       7552890f-362e-4e66-a398-be2066aece7e
+:ROAM_REFS: https://www.ccs.neu.edu/home/shivers/papers/scmparse.pdf
+:END:
+#+title: (www.ccs.neu.edu) Lexer and Parser Generators in Scheme (scmparse.pdf)
+#+filetags: :parsers:scheme:lisp:computer_science:science_paper:mime_type_application_pdf:website:
+
+#+begin_quote
+  * Lexer and Parser Generators in Scheme
+
+  Scott Owens, Matthew Flatt, Olin Shivers, Benjamin McMullan
+
+  ** Abstract
+
+  The implementation of a basic LEX-style lexer generator or YACC-style parser generator requires only textbook knowledge.  The implementation of practical and useful generators that cooperate well with a specific language, however, requires more comprehensive design effort.  We discuss the design of lexer and parser generators for Scheme, based on our experience building two systems.  Our discussion mostly centers on the effect of Scheme syntax and macros on the designs, but we also cover various side topics, such as an often-overlooked DFA compilation algorithm.
+#+end_quote

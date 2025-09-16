@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       40759654-023b-4d8a-8901-922f0d1ae9ef
+:ROAM_REFS: https://wiki.c2.com/?EventsAreNotCallBacks
+:END:
+#+title: (wiki.c2.com) Events Are Not Call Backs
+#+filetags: :programming:computer_science:website:
+
+#+begin_quote
+  * Events Are Not Call Backs
+
+  A CallBack function or method is a piece of code that is provided from outside a component to provide information needed for the component's job.  Typical example is the Java Comparator that must be provided to the [[https://wiki.c2.com/?BinaryTree][BinaryTree]] constructor.  When the [[https://wiki.c2.com/?BinaryTree][BinaryTree]] calls the /compare/ method on the Comparator instance, it wants the result now, not later.  The completion of the CallBack is needed before further processing can be done.  Therefore, CallBack//s are synchronous.
+
+  An event function or method is a piece of code that is provided from outside a component that should be called by this component when something specific happens.  Typical example is any [[https://wiki.c2.com/?ModelViewController][ModelViewController]] flavor.  When the event condition occurs, the component typically scans through all registered event listeners to call the appropriate method or function.  If this call is performed synchronously, several problems can occur:
+
+  - If the listener throws an exception, the error must be handled by the component, while the problem has typically nothing to do with its internal logic
+  - The listener can unregister itself from the list, leading to the concurrent collection modification problem (the listener list gets modified while it is being iterated).
+
+  Therefore, Events are asynchronous: you should always dispatch events through an event queue and not process then synchronously.  Events should be processed by [[https://wiki.c2.com/?EventQueue][EventQueue]], or by some [[https://wiki.c2.com/?GuiThread][GuiThread]].
+#+end_quote

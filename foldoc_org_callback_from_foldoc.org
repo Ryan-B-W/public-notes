@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       c0074cfd-adf3-4fb6-80aa-a38dbb0f8fb7
+:ROAM_REFS: https://foldoc.org/callback
+:END:
+#+title: (foldoc.org) callback from FOLDOC
+#+filetags: :dictionary:website:

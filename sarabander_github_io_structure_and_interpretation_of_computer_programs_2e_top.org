@@ -385,6 +385,39 @@ Main node: [[id:69d3e2e7-62dc-414f-90ee-86f4b4abbcb0][(sarabander.github.io) Str
 :ID:       eecde4f8-9302-4eb7-a09b-6ee1217b3414
 :ROAM_REFS: https://sarabander.github.io/sicp/html/5_002e5.xhtml
 :END:
+*** (sarabander.github.io) SICP, 2e: 5.5, Footnote 321
+:PROPERTIES:
+:ID:       8ac67c01-5578-4ca2-bf86-df0b0210667b
+:ROAM_REFS: https://sarabander.github.io/sicp/html/5_002e5.xhtml#FOOT321
+:END:
+
+#+begin_quote
+  This procedure uses a feature of Lisp called /backquote/ (or /quasiquote/) that is handy for constructing lists.  Preceding a list with a backquote symbol is much like quoting it, except that anything in the list that is flagged with a comma is evaluated.
+
+  For example, if the value of =linkage= is the symbol =branch25=, then the expression
+
+  #+begin_src scheme
+    `((goto (label ,linkage)))
+  #+end_src
+
+  evaluates to the list
+
+  #+begin_src scheme
+    ((goto (label branch25)))
+  #+end_src
+
+  Similarly, if the value of =x= is the list =(a b c)=, then
+
+  #+begin_src scheme
+    `(1 2 ,(car x))
+  #+end_src
+
+  evaluates to the list
+
+  #+begin_src scheme
+    (1 2 a)
+  #+end_src
+#+end_quote
 * (sarabander.github.io) SICP, 2e: References
 :PROPERTIES:
 :ID:       54ca1727-d685-4343-a0e3-3f07a815ea58

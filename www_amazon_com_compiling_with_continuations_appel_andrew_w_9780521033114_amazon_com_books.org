@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       773cc4e7-7069-4e3a-9fc7-6896b1cda802
+:ROAM_REFS: https://www.amazon.com/dp/052103311X
+:END:
+#+title: (www.amazon.com) Compiling with Continuations: Appel, Andrew W.: 9780521033114: Amazon.com: Books
+#+filetags: :books:website:
+
+#+begin_quote
+  This book shows how continuation-passing style is used as an intermediate representation to perform optimizations and program transformations.  Continuations can be used to compile most programming languages.  The method is illustrated in a compiler for the programming language Standard ML.  Prior knowledge of ML, however, is not necessary, as the author carefully explains each concept as it arises.  This is the first book to show how concepts from the theory of programming languages can be applied to the production of practical optimizing compilers for modern languages like ML.  All the details of compiling are covered, including the interface to a runtime system and garbage collector.
+#+end_quote

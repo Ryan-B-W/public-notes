@@ -741,3 +741,16 @@ Latent vs manifest types:
 ***** [[id:222658e9-0efa-444f-92ec-f21e706f4d6e][(books.google.com) The Common Lisp Condition System: Beyond Exception Handling with Control ... - Michał "phoe" Herda - Google Books]]
 ***** [[id:f7154976-514f-47f5-901b-731c540eada2][(lispcookbook.github.io) The Common Lisp Cookbook]]
 ****** [[https://lispcookbook.github.io/cl-cookbook/files.html][Files and Directories]]
+**** Session 26, [2025-09-14 Sun 15:00-16:00]
+***** Current section [[id:eecde4f8-9302-4eb7-a09b-6ee1217b3414][(sarabander.github.io) SICP, 2e: 5.5 Compilation]]
+***** [[id:773cc4e7-7069-4e3a-9fc7-6896b1cda802][(www.amazon.com) Compiling with Continuations: Appel, Andrew W.: 9780521033114: Amazon.com: Books]]
+***** [[id:8ac67c01-5578-4ca2-bf86-df0b0210667b][(sarabander.github.io) SICP, 2e: 5.5, Footnote 321]]
+***** [[id:da4c3b80-24fe-4817-8443-87a1ccee7910][(sarabander.github.io) SICP, 2e: 4.3 Variations on a Scheme — Nondeterministic Computing]], [[https://sarabander.github.io/sicp/html/4_002e3.xhtml#Execution-procedures-and-continuations][4.3.3, Implementing the Amb Evaluator: Execution procedures and continuations]]
+Introduces /continuation procedures/.
+***** [[id:40759654-023b-4d8a-8901-922f0d1ae9ef][(wiki.c2.com) Events Are Not Call Backs]]
+***** [[https://www.gnu.org/software/emacs/manual/html_node/emacs/Hooks.html][Hooks (GNU Emacs Manual)]] from [[id:dfc03017-bfd1-489b-9e12-d538cdbdbe08][(www.gnu.org) Top (GNU Emacs Manual)]]
+#+begin_quote
+  Hooks are an important mechanism for customizing Emacs.  A hook is a Lisp variable which holds a list of functions, to be called on some well-defined occasion.  (This is called running the hook.)  The individual functions in the list are called the hook functions of the hook.  For example, the hook kill-emacs-hook runs just before exiting Emacs (see Exiting Emacs).
+#+end_quote
+***** [[id:c0074cfd-adf3-4fb6-80aa-a38dbb0f8fb7][(foldoc.org) callback from FOLDOC]]
+***** [[id:7552890f-362e-4e66-a398-be2066aece7e][(www.ccs.neu.edu) Lexer and Parser Generators in Scheme (scmparse.pdf)]]
