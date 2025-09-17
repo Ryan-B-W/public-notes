@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       cb9755e0-b11c-4971-bdfe-103bc27a6f74
+:ROAM_REFS: https://en.wikipedia.org/wiki/Interrupt_vector_table
+:END:
+#+title: (en.wikipedia.org) Interrupt vector table - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  An *interrupt vector table* (*IVT*) is a [[https://en.wikipedia.org/wiki/Data_structure][data structure]] that associates a list of [[https://en.wikipedia.org/wiki/Interrupt_handler][interrupt handlers]] with a list of [[https://en.wikipedia.org/wiki/Interrupt_request][interrupt requests]] in a table of interrupt vectors.  Each entry of the interrupt vector table, called an interrupt vector, is the address of an interrupt handler (also known as [[https://en.wikipedia.org/wiki/Interrupt_handler][ISR]]).  While the concept is common across processor architectures, IVTs may be implemented in architecture-specific fashions.  For example, a [[https://en.wikipedia.org/wiki/Dispatch_table][dispatch table]] is one method of implementing an interrupt vector table.
+#+end_quote

@@ -1,9 +1,31 @@
 :PROPERTIES:
+:ID:       b75c340b-8f56-42df-a8bd-2cdaab4a530d
+:END:
+#+title: Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+#+filetags: :databases:distributed_software:software_development:computer_science:books:
+
+* (dataintensive.net) Designing Data-Intensive Applications (DDIA) — an O’Reilly book by Martin Kleppmann (The Wild Boar Book) :website:
+:PROPERTIES:
+:ID:       36103797-4511-4c24-b19d-e96e95f3b007
+:ROAM_REFS: https://dataintensive.net/
+:END:
+
+#+begin_quote
+  * Don't just hack it together
+
+  NoSQL... Big Data... Scalability... CAP Theorem... Eventual Consistency... Sharding...
+
+  Nice buzzwords, but how does the stuff actually /work/?
+
+  As software engineers, we need to build applications that are reliable, scalable and maintainable in the long run.  We need to understand the range of available tools and their trade-offs.  For that, we have to dig deeper than buzzwords.
+
+  This book will help you navigate the diverse and fast-changing landscape of technologies for storing and processing data.  We compare a broad variety of tools and approaches, so that you can see the strengths and weaknesses of each, and decide what's best for your application.
+#+end_quote
+* (www.oreilly.com) Designing Data-Intensive Applications, 2nd Edition[Book] :website:
+:PROPERTIES:
 :ID:       0a177b13-aecb-4f33-a45b-30b0b090614b
 :ROAM_REFS: https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/
 :END:
-#+title: (www.oreilly.com) Designing Data-Intensive Applications, 2nd Edition[Book]
-#+filetags: :databases:computer_science:books:website:
 
 #+begin_quote
   * Designing Data-Intensive Applications, 2nd Edition

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       e26781ae-3472-4d0b-92b0-0141ec7b9e75
+:END:
+#+title: Operating Systems: Three Easy Pieces
+#+filetags: :operating_systems:computer_science:textbooks:books:
+
+* (pages.cs.wisc.edu) Operating Systems: Three Easy Pieces          :website:
+:PROPERTIES:
+:ID:       5c768efc-931e-4283-b460-f1c0967d5efe
+:ROAM_REFS: https://pages.cs.wisc.edu/~remzi/OSTEP/
+:END:
+
+#+begin_quote
+  ** Operating Systems: Three Easy Pieces
+
+  Welcome to *Operating Systems: Three Easy Pieces* (now *version 1.10* -- see [[https://pages.cs.wisc.edu/~remzi/OSTEP/combined.html][book news]] for details), a free online operating systems book!  The book is centered around three conceptual pieces that are fundamental to operating systems: *virtualization,* *concurrency,* and *persistence.*  In understanding the conceptual, you will also learn the practical, including how an operating system does things like schedule the CPU, manage memory, and store files persistently.  Lots of fun stuff!  Or [[https://pic4.zhimg.com/v2-522ded6304485cdac723f25d03c012dd_1200x500.jpg][maybe not]] so fun?
+#+end_quote

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       af8ec954-2d6b-4346-8eb7-120ea2e2624d
+:ROAM_REFS: https://guides.rubyonrails.org/
+:END:
+#+title: (guides.rubyonrails.org) Ruby on Rails Guides
+#+filetags: :ruby_on_rails:ruby_lang:documentation:website:

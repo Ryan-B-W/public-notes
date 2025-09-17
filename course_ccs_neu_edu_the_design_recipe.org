@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e30d8885-685c-4770-8fbc-1e4c68cfff9e
+:ROAM_REFS: https://course.ccs.neu.edu/cs2500f18/design_recipe.html
+:END:
+#+title: (course.ccs.neu.edu) The Design Recipe
+#+filetags: :website:
+
+#+begin_quote
+  *** The Design Recipe
+
+  **** How To Use The Design Recipe
+
+  The design recipe is here to help you design programs properly.  When beginning to solve a new problem, the first question to ask yourself is: do I need a new type of data?  If so, follow the steps in the Data column for every new type of data you need.  When writing functions, follow the steps in the Function column for every function you write.
+
+  Note that "do I need a new type of data?" can often be answered with the question "can I write the signature of the function I want to write?"
+#+end_quote
+* Links to
+** [[id:6eea8619-b048-4587-bdeb-e68e12638cfa][(course.khoury.northeastern.edu) Fundamentals 1]]
+Which has a more current version of The Design Recipe at [[id:8d9b2771-cd88-4796-a645-f8463581292c][(course.khoury.northeastern.edu) The Design Recipe]].

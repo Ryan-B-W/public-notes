@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       084e3a94-14d3-44fd-a322-1eb5eb071f09
+:ROAM_REFS: https://en.wikipedia.org/wiki/Iterative_method
+:END:
+#+title: (en.wikipedia.org) Iterative method - Wikipedia
+#+filetags: :mathematics:computer_science:website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Computational_mathematics][computational mathematics]], an *iterative method* is a [[https://en.wikipedia.org/wiki/Algorithm][mathematical procedure]] that uses an initial value to generate a sequence of improving approximate solutions for a class of problems, in which the /i/-th approximation (called an "iterate") is derived from the previous ones.
+
+  A specific implementation with [[https://en.wikipedia.org/wiki/Algorithm#Termination][termination]] criteria for a given iterative method like [[https://en.wikipedia.org/wiki/Gradient_descent][gradient descent]], [[https://en.wikipedia.org/wiki/Hill_climbing][hill climbing]], [[https://en.wikipedia.org/wiki/Newton's_method][Newton's method]], or [[https://en.wikipedia.org/wiki/Quasi-Newton_method][quasi-Newton methods]] like [[https://en.wikipedia.org/wiki/Broyden–Fletcher–Goldfarb–Shanno_algorithm][BFGS]], is an [[https://en.wikipedia.org/wiki/Algorithm][algorithm]] of an iterative method or a *method of successive approximation*.  An iterative method is called /[[https://en.wikipedia.org/wiki/Convergent_series][convergent]]/ if the corresponding sequence converges for given initial approximations.  A mathematically rigorous convergence analysis of an iterative method is usually performed; however, [[https://en.wikipedia.org/wiki/Heuristic][heuristic]]-based iterative methods are also common.
+
+  In contrast, *direct methods* attempt to solve the problem by a finite sequence of operations.  In the absence of [[https://en.wikipedia.org/wiki/Rounding_error][rounding errors]], direct methods would deliver an exact solution (for example, solving a linear system of equations \(A\mathbf{x} = \mathbf{b}\) by [[https://en.wikipedia.org/wiki/Gaussian_elimination][Gaussian elimination]]).  Iterative methods are often the only choice for [[https://en.wikipedia.org/wiki/Nonlinear_equation][nonlinear equations]].  However, iterative methods are often useful even for linear problems involving many variables (sometimes on the order of millions), where direct methods would be prohibitively expensive (and in some cases impossible) even with the best available computing power.
+#+end_quote

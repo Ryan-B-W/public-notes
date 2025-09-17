@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       6eea8619-b048-4587-bdeb-e68e12638cfa
+:ROAM_REFS: https://course.khoury.northeastern.edu/cs2500/
+:END:
+#+title: (course.khoury.northeastern.edu) Fundamentals 1
+#+filetags: :computer_science:education_resource:website:
+
+#+begin_quote
+  ** Fundamentals 1
+
+  Welcome to Fundamentals of Computer Science 1 ("Fundies 1") at Northeastern University's Khoury College.
+
+  This course is an introduction to computing and programming.  Its major goal is to introduce students to the principles of systematic problem solving through programming, and the basic rules of computation.
+
+  By the end of the course, students will have a sense for the differences between a programmer and a well-trained software developer, as well as a sense of the complexities involved in developing solid software.  In addition, they will be able to use the principles of programming to solve many non-computational problems in a systematic manner.
+
+  The course does not assume any prior programming experience.  It is therefore suitable for all students---majors and non-majors alike---who wish to explore the intellectual ideas of the discipline.  The course does assume familiarity with (high school) arithmetic and algebra, and it demands curiosity, self-discipline, and willingness to work with others.
+#+end_quote
+* (course.khoury.northeastern.edu) The Design Recipe
+:PROPERTIES:
+:ID:       8d9b2771-cd88-4796-a645-f8463581292c
+:ROAM_REFS: https://course.khoury.northeastern.edu/cs2500/design_recipe.html
+:END:
+
+#+begin_quote
+  *** The Design Recipe
+
+  **** How To Use The Design Recipe
+
+  The design recipe is here to help you design programs properly.  When beginning to solve a new problem, the first question to ask yourself is: do I need a new type of data?  If so, follow the steps in the Data column for every new type of data you need.  When writing functions, follow the steps in the Function column for every function you write.
+
+  Note that "do I need a new type of data?" can often be answered by considering the question, "can I write the signature of the function I want to write?"
+#+end_quote

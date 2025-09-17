@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       1fe77431-361f-4568-8729-d13b008b4e8f
+:ROAM_REFS: https://github.com/cellularmitosis/SICPChapterBooklets
+:END:
+#+title: (github.com) GitHub - cellularmitosis/SICPChapterBooklets: SICP, split into chapters, impositioned into booklets (PDF format).
+#+filetags: :scheme:lisp:books:website:
+
+[[id:bc4f5e4a-5bb9-47f7-8086-d12236fe793f][Structure and Interpretation of Computer Programs]] formatted as PDFs for printing as booklets.

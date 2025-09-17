@@ -4,3 +4,19 @@
 :END:
 #+title: (www.cs.princeton.edu) Modern Compiler Implementation
 #+filetags: :compilers:computer_science:books:website:
+
+* (www.cs.princeton.edu) Modern Compiler Implementation in Java
+:PROPERTIES:
+:ID:       c5da0c9c-af63-4975-ae65-d871ad6c0397
+:ROAM_REFS: https://www.cs.princeton.edu/~appel/modern/java/
+:END:
+* (www.cs.princeton.edu) Modern Compiler Implementation in ML
+:PROPERTIES:
+:ID:       cd091a91-cb38-448b-9ce7-90ed45451a3b
+:ROAM_REFS: https://www.cs.princeton.edu/~appel/modern/ml/
+:END:
+* (www.cs.princeton.edu) Modern Compiler Implementation in C
+:PROPERTIES:
+:ID:       b2751693-4c6f-4df6-8527-eff408391a46
+:ROAM_REFS: https://www.cs.princeton.edu/~appel/modern/c/
+:END:

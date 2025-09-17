@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       0a3c9400-94a4-45e0-b61c-b852739f23f6
+:ROAM_REFS: https://tldp.org/LDP/Linux-Dictionary/html/index.html
+:END:
+#+title: (tldp.org) Linux Dictionary
+#+filetags: :dictionary:website:

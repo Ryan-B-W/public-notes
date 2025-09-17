@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       43b62428-a50c-47a8-bfdb-e032a4ffbeb0
+:ROAM_REFS: https://en.wikipedia.org/wiki/Callback_(computer_programming)
+:END:
+#+title: (en.wikipedia.org) Callback (computer programming) - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Computer_programming][computer programming]], a *callback* is [[https://en.wikipedia.org/wiki/Programming_pattern][programming pattern]] in which a [[https://en.wikipedia.org/wiki/Function_(computer_programming)][function]] [[https://en.wikipedia.org/wiki/Reference_(computer_science)][reference]] is passed from one context (consumer) to another (provider) such that the provider can call the function.  If the function accesses [[https://en.wikipedia.org/wiki/State_(computer_science)][state]] or [[https://en.wikipedia.org/wiki/Function_(computer_programming)][functionality]] of the consumer, then the call is /back/ to the consumer; backwards compared to the normal [[https://en.wikipedia.org/wiki/Flow_of_control][flow of control]] in which a consumer calls a provider.
+
+  A function that accepts a callback [[https://en.wikipedia.org/wiki/Parameter_(computer_programming)][parameter]] may be designed to call back before [[https://en.wikipedia.org/wiki/Return_statement][returning]] to its caller.  But, more typically, a callback reference is stored by the provider so that it can call the function later; as /deferred/.  If the provider invokes the callback on the same [[https://en.wikipedia.org/wiki/Thread_(computer_programming)][thread]] as the consumer, then the call is /blocking/, a.k.a. /[[https://en.wikipedia.org/wiki/Synchronization_(computer_science)][synchronous]]/.  If instead, the provider invokes the callback on a different thread, then the call is /[[https://en.wikipedia.org/wiki/Non-blocking_algorithm][non-blocking]]/, a.k.a. /asynchronous/.
+
+  A callback can be likened to leaving instructions with a tailor for what to do when a suit is ready, such as calling a specific phone number or delivering it to a given address.  These instructions represent a callback: a function provided in advance to be executed later, often by a different part of the system and not necessarily by the one that received it.
+
+  The difference between a general function reference and a callback can be subtle, and some use the terms interchangeably but distinction generally depends on programming intent.  If the intent is like the [[https://en.wikipedia.org/wiki/Callback_(telecommunications)][telephone callback]] -- that the original [[https://en.wikipedia.org/wiki/Called_party][called party]] communicates back to the original [[https://en.wikipedia.org/wiki/Calling_party][caller]] -- then it's a callback.
+#+end_quote

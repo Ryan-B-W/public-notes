@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       33234af9-7e2e-461e-81ea-c24aa3eb4463
+:ROAM_REFS: https://books.google.com/books?id=-fziMZ3ZdEIC
+:END:
+#+title: (books.google.com) Writing GNU Emacs Extensions: Editor Customizations and Creations with Lisp - Bob Glickstein - Google Books
+#+filetags: :emacs:books:website:
+
+#+begin_quote
+  Yes, it is possible to be all things to all people, if you're talking about the Emacs editor.  As a user, you can make any kind of customization you want, from choosing the keystrokes that invoke your favorite commands to creating a whole new work environment that looks like nothing ever developed before.  It's all in Emacs Lisp -- and in this short but fast-paced book.  GNU Emacs is more than an editor; it's a programming environment, a communications package, and many other things.  To provide such a broad range of functions, it offers a full version of the Lisp programming language -- something much more powerful than the little macro languages provided in other editors (including older versions of Emacs).  GNU Emacs is a framework in which you can create whole new kinds of editors or just alter aspects of the many functions it already provides.  In this book, Bob Glickstein delves deep into the features that permit far-reaching Emacs customizations.  He teaches you the Lisp language and discusses Emacs topics (such as syntax tables and macro templates) in easy-to-digest portions.  Examples progress in complexity from simple customizations to extensive major modes.  You will learn how to write interactive commands, use hooks and advice, perform error recovery, manipulate windows, buffers, and keymaps, exploit and alter Emacs's main loop, and more.  Each topic is explored through realistic examples and a series of successive refinements that illustrate not only the Emacs Lisp language, but the development process as well, making learning pleasant and natural.
+#+end_quote

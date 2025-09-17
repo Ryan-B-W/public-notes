@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       0666a9ba-8274-4943-9bd9-ee9327ff5f60
+:ROAM_REFS: https://en.wikipedia.org/wiki/The_Last_Question
+:END:
+#+title: (en.wikipedia.org) The Last Question - Wikipedia
+#+filetags: :genre_science_fiction:fiction:short_story:website:
+
+#+begin_quote
+  "*The Last Question*" is a [[https://en.wikipedia.org/wiki/Science_fiction][science fiction]] [[https://en.wikipedia.org/wiki/Short_story][short story]] by American writer [[https://en.wikipedia.org/wiki/Isaac_Asimov][Isaac Asimov]].  It first appeared in the November 1956 issue of /[[https://en.wikipedia.org/wiki/Science_Fiction_Quarterly][Science Fiction Quarterly]]/; and in the [[https://en.wikipedia.org/wiki/Anthologies][anthologies]] in the collections /[[https://en.wikipedia.org/wiki/Nine_Tomorrows][Nine Tomorrows]]/ (1959), /[[https://en.wikipedia.org/wiki/The_Best_of_Isaac_Asimov][The Best of Isaac Asimov]]/ (1973), /[[https://en.wikipedia.org/wiki/Robot_Dreams_(short_story_collection)][Robot Dreams]]/ (1986), /[[https://en.wikipedia.org/wiki/The_Best_Science_Fiction_of_Isaac_Asimov][The Best Science Fiction of Isaac Asimov]]/ (1986), the retrospective /[[https://en.wikipedia.org/wiki/Opus_100][Opus 100]]/ (1969), and /[[https://en.wikipedia.org/wiki/The_Complete_Stories_(Asimov)][Isaac Asimov: The Complete Stories, Vol. 1]]/ (1990).  While he also considered it one of his best works, "The Last Question" was Asimov's favorite short story of his own authorship, and is one of a loosely connected series of stories concerning a fictional [[https://en.wikipedia.org/wiki/Computer][computer]] called [[https://en.wikipedia.org/wiki/Multivac][Multivac]].  Through successive generations, humanity questions Multivac on the subject of [[https://en.wikipedia.org/wiki/Entropy][entropy]].
+
+  The story blends science fiction, [[https://en.wikipedia.org/wiki/Theology][theology]], and [[https://en.wikipedia.org/wiki/Philosophy][philosophy]].  It has been recognized as a counterpoint to [[https://en.wikipedia.org/wiki/Fredric_Brown][Fredric Brown]]'s [[https://en.wikipedia.org/wiki/Short_short_story][short short story]] "Answer", published two years earlier.
+#+end_quote

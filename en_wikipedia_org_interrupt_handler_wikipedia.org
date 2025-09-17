@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       081cc43a-0dae-4553-9933-3b8bab78c02c
+:ROAM_REFS: https://en.wikipedia.org/wiki/Interrupt_handler
+:END:
+#+title: (en.wikipedia.org) Interrupt handler - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  In computer [[https://en.wikipedia.org/wiki/Systems_programming][systems programming]], an *interrupt handler*, also known as an *interrupt service routine* (*ISR*), is a special block of code associated with a specific [[https://en.wikipedia.org/wiki/Interrupt][interrupt]] condition.  Interrupt handlers are initiated by hardware interrupts, software interrupt instructions, or software [[https://en.wikipedia.org/wiki/Exception_handling][exceptions]], and are used for implementing [[https://en.wikipedia.org/wiki/Device_driver][device drivers]] or transitions between protected modes of operation, such as [[https://en.wikipedia.org/wiki/System_call][system calls]].
+
+  The traditional form of interrupt handler is the hardware interrupt handler.  Hardware interrupts arise from electrical conditions or low-level protocols implemented in [[https://en.wikipedia.org/wiki/Digital_logic][digital logic]], are usually dispatched via a hard-coded table of interrupt vectors, asynchronously to the normal execution stream (as interrupt masking levels permit), often using a separate stack, and automatically entering into a different execution context (privilege level) for the duration of the interrupt handler's execution.  In general, hardware interrupts and their handlers are used to handle high-priority conditions that require the interruption of the current code the [[https://en.wikipedia.org/wiki/Central_processing_unit][processor]] is executing.
+
+  Later it was found convenient for software to be able to trigger the same mechanism by means of a software interrupt (a form of synchronous interrupt).  Rather than using a hard-coded interrupt dispatch table at the hardware level, software interrupts are often implemented at the [[https://en.wikipedia.org/wiki/Operating_system][operating system]] level as a form of [[https://en.wikipedia.org/wiki/Callback_(computer_programming)][callback function]].
+
+  Interrupt handlers have a multitude of functions, which vary based on what triggered the interrupt and the speed at which the interrupt handler completes its task.  For example, pressing a key on a [[https://en.wikipedia.org/wiki/Computer_keyboard][computer keyboard]], or moving the [[https://en.wikipedia.org/wiki/Computer_mouse][mouse]], triggers interrupts that call interrupt handlers which read the key, or the mouse's position, and copy the associated information into the computer's memory.
+
+  An interrupt handler is a low-level counterpart of [[https://en.wikipedia.org/wiki/Event_handler][event handlers]].  However, interrupt handlers have an unusual execution context, many harsh constraints in time and space, and their intrinsically asynchronous nature makes them notoriously difficult to debug by standard practice (reproducible test cases generally don't exist), thus demanding a specialized skillset---an important subset of [[https://en.wikipedia.org/wiki/System_programming][system programming]]---of software engineers who engage at the hardware interrupt layer.
+#+end_quote

@@ -78,6 +78,11 @@ Newest version edited by [[id:745de98a-8445-4622-9020-877901f1a7cf][Guy L. Steel
 
   On 23 October 2003, the Jargon File achieved the dubious honor of being cited in the SCO-vs.-IBM lawsuit.  See the [[http://www.catb.org/~esr/jargon/html/F/FUD.html][FUD]] entry for details.
 #+end_quote
+** (www.catb.org) The Jargon File
+:PROPERTIES:
+:ID:       5abc20c3-cab2-4eea-a8d1-4ddb50aefb87
+:ROAM_REFS: http://www.catb.org/~esr/jargon/html/index.html
+:END:
 * (web.archive.org) The Newer Hacker's Dictionary                   :website:
 :PROPERTIES:
 :ID:       8a39feb5-2cdb-4ba3-a20f-6ed7ce0714b3

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       7bad143d-26a9-40b7-ad66-e7e0191fb88e
+:ROAM_REFS: https://dreamsongs.com/Files/WhyOfY.pdf
+:END:
+#+title: (dreamsongs.com) WhyOfY.fm - WhyOfY.pdf
+#+filetags: :scheme:lisp:computer_science:mime_type_application_pdf:website:
+
+#+begin_quote
+  * The Why of Y
+
+  Richard P. Gabriel; Lucid, Inc. and Stanford University
+
+  Did you ever wonder how Y works and how anyone could ever have thought of it?  In this note I'll try to explain to you not only how it works, but how someone could have invented it.  I'll use Scheme notation because it is easier to understand when functions passed as arguments are being applied.
+#+end_quote

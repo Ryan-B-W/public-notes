@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       bd2572f2-50fc-4434-a06d-2f9f51ef6791
+:ROAM_REFS: https://en.wikipedia.org/wiki/Hooking
+:END:
+#+title: (en.wikipedia.org) Hooking - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Computer_programming][computer programming]], *hooking* is a range of techniques used to alter or augment the behaviour of an [[https://en.wikipedia.org/wiki/Operating_system][operating system]], of [[https://en.wikipedia.org/wiki/Application_software][applications]], or of other software components by intercepting [[https://en.wikipedia.org/wiki/Function_call][function calls]] or [[https://en.wikipedia.org/wiki/Message_passing][messages]] or [[https://en.wikipedia.org/wiki/Event_(computing)][events]] passed between [[https://en.wikipedia.org/wiki/Modular_programming][software components]].  Code that handles such intercepted function calls, events or messages is called a *hook*.
+
+  Hook methods are of particular importance in the [[https://en.wikipedia.org/wiki/Template_method_pattern][template method pattern]] where common code in an [[https://en.wikipedia.org/wiki/Abstract_type][abstract class]] can be augmented by custom code in a subclass.  In this case each hook method is defined in the abstract class with an empty implementation which then allows a different implementation to be supplied in each concrete subclass.
+
+  Hooking is used for many purposes, including [[https://en.wikipedia.org/wiki/Debugging][debugging]] and extending functionality.  Examples might include intercepting keyboard or mouse event messages before they reach an application, or intercepting operating system calls in order to monitor behavior or modify the function of an application or other component.  It is also widely used in benchmarking programs, for example [[https://en.wikipedia.org/wiki/Frame_rate][frame rate]] measuring in 3D games, where the output and input is done through hooking.
+
+  Hooking can also be used by malicious code.  For example, [[https://en.wikipedia.org/wiki/Rootkit][rootkits]], pieces of software that try to make themselves invisible by faking the output of [[https://en.wikipedia.org/wiki/API][API]] calls that would otherwise reveal their existence, often use hooking techniques.
+#+end_quote

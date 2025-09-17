@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       1ad35d39-9264-478a-b8cb-bdf6d2da08e5
+:ROAM_REFS: http://adam.chlipala.net/cpdt/
+:END:
+#+title: (adam.chlipala.net) Certified Programming with Dependent Types
+#+filetags: :mathematics:computer_science:textbooks:books:website:
+
+#+begin_quote
+  This is the web site for a textbook about practical engineering with [[http://coq.inria.fr/][the Coq proof assistant]].  The focus is on building programs with proofs of correctness, using dependent types and scripted proof automation.
+
+  I'm following an unusual philosophy in this book, so it may be of interest even to long-time Coq users.  At the same time, I hope that it provides an easier introduction for newcomers, since short and automated proofs are the starting point, rather than an advanced topic.
+
+  Interested in using this book in a course you're teaching?  Please [[mailto://adamc@csail.mit.edu][drop me a line]]!
+
+  A traditional hardcopy version is available from [[http://mitpress.mit.edu/][MIT Press]], who have graciously agreed to allow distribution of free versions online indefinitely, minus the benefits of the Press' copy editing!
+#+end_quote

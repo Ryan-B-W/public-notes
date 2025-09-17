@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       3ca36ab1-2214-42ca-976b-16eacbbe6e41
+:ROAM_REFS: https://en.wikipedia.org/wiki/Webhook
+:END:
+#+title: (en.wikipedia.org) Webhook - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Web_development][web development]], a *webhook* is a method of augmenting or altering the behavior of a [[https://en.wikipedia.org/wiki/Web_page][web page]] or [[https://en.wikipedia.org/wiki/Web_application][web application]] with custom [[https://en.wikipedia.org/wiki/Callback_(computer_programming)][callbacks]].  These callbacks may be maintained, modified, and managed by third-party users who need not be affiliated with the originating website or application.  In 2007, [[https://en.wikipedia.org/w/index.php?title=Jeff_Lindsay_(computer_programmer)&action=edit&redlink=1][Jeff Lindsay]] coined the term /webhook/ from the computer programming term /[[https://en.wikipedia.org/wiki/Hooking][hook]]/.
+#+end_quote

@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       e2646cce-4a18-45ee-a923-0c42d6fd6b3c
+:END:
+#+title: The Little Schemer
+#+filetags: :programming:education_resource:scheme:lisp:computer_science:textbooks:books:
+
+* (mitpress.mit.edu) The Little Schemer                             :website:
+:PROPERTIES:
+:ID:       c07d6ee3-5a5d-4bae-ba41-e72989c8ba86
+:ROAM_REFS: https://mitpress.mit.edu/9780262560993/ https://mitpress.mit.edu/9780262560993/the-little-schemer/
+:END:
+
+#+begin_quote
+  ** Description
+
+  The notion that "thinking about computing is one of the most exciting things the human mind can do" sets both /The Little Schemer/ (formerly known as /The Little LISPer/) and its new companion volume, /The Seasoned Schemer/, apart from other books on LISP.  The authors' enthusiasm for their subject is compelling as they present abstract concepts in a humorous and easy-to-grasp fashion.  Together, these books will open new doors of thought to anyone who wants to find out what computing is really about. /The Little Schemer/ introduces computing as an extension of arithmetic and algebra; things that everyone studies in grade school and high school.  It introduces programs as recursive functions and briefly discusses the limits of what computers can do.  The authors use the programming language Scheme, and interesting foods to illustrate these abstract ideas. /The Seasoned Schemer/ informs the reader about additional dimensions of computing: functions as values, change of state, and exceptional cases. /The Little LISPer/ has been a popular introduction to LISP for many years.  It had appeared in French and Japanese. /The Little Schemer/ and /The Seasoned Schemer/ are worthy successors and will prove equally popular as textbooks for Scheme courses as well as companion texts for any complete introductory course in Computer Science.
+#+end_quote
+* (www.amazon.com) The Little Schemer - 4th Edition: Daniel P. Friedman, Matthias Felleisen, Duane Bibby, Gerald J. Sussman: 8601300171425: Amazon.com: Books :website:
+:PROPERTIES:
+:ID:       575c9076-3a8d-41a4-abb2-5d080943227f
+:ROAM_REFS: https://www.amazon.com/dp/0262560992/
+:END:
+
+#+begin_quote
+  The notion that "thinking about computing is one of the most exciting things the human mind can do" sets both The Little Schemer (formerly known as The Little LISPer) and its new companion volume, The Seasoned Schemer, apart from other books on LISP.  The authors' enthusiasm for their subject is compelling as they present abstract concepts in a humorous and easy-to-grasp fashion.  Together, these books will open new doors of thought to anyone who wants to find out what computing is really about.  The Little Schemer introduces computing as an extension of arithmetic and algebra; things that everyone studies in grade school and high school.  It introduces programs as recursive functions and briefly discusses the limits of what computers can do.  The authors use the programming language Scheme, and interesting foods to illustrate these abstract ideas.  The Seasoned Schemer informs the reader about additional dimensions of computing: functions as values, change of state, and exceptional cases.  The Little LISPer has been a popular introduction to LISP for many years.  It had appeared in French and Japanese.  The Little Schemer and The Seasoned Schemer are worthy successors and will prove equally popular as textbooks for Scheme courses as well as companion texts for any complete introductory course in Computer Science.
+#+end_quote
