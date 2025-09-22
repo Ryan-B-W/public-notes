@@ -754,3 +754,25 @@ Introduces /continuation procedures/.
 #+end_quote
 ***** [[id:c0074cfd-adf3-4fb6-80aa-a38dbb0f8fb7][(foldoc.org) callback from FOLDOC]]
 ***** [[id:7552890f-362e-4e66-a398-be2066aece7e][(www.ccs.neu.edu) Lexer and Parser Generators in Scheme (scmparse.pdf)]]
+**** Session 27, [2025-09-21 Sun 15:00-16:00]
+***** Current section [[id:eecde4f8-9302-4eb7-a09b-6ee1217b3414][(sarabander.github.io) SICP, 2e: 5.5 Compilation]]
+***** [[id:8a3da5f5-02f0-4779-ac71-7cc89c3053fe][(sarabander.github.io) SICP, 2e: 5.5, Footnote 319]]
+***** [[id:8ac67c01-5578-4ca2-bf86-df0b0210667b][(sarabander.github.io) SICP, 2e: 5.5, Footnote 321]]
+***** [[id:d9915b4f-989f-4f64-95db-d96fff9d5687][(sarabander.github.io) SICP, 2e: 5.5, Footnote 325]]
+***** [[id:60cefeb2-1cfb-4222-95be-a50389e5cfb3][(sarabander.github.io) SICP, 2e: 5.5, Footnote 329]]
+***** [[id:81e74713-e685-43d3-a29a-4d70234e4576][(sarabander.github.io) SICP, 2e: 5.5, Footnote 337]]
+***** [[id:c16fc576-4669-4afc-8842-7b7d2c302345][(en.wikipedia.org) Rope (data structure) - Wikipedia]]
+***** [[id:7c23b51b-d60a-4d2e-90b4-9c95743f2bfc][(en.wikipedia.org) Late binding - Wikipedia]]
+***** [[https://docs.scheme.org/schintro/schintro_133.html#SEC209][An Introduction to Scheme and its Implementation - Records and Object Orientation - Simple Uses of OOP Objects - Late Binding]] from [[id:0027e55d-f7a5-4b05-bdd4-9f015ba72bad][(docs.scheme.org) An Introduction to Scheme and its Implementation - Table of Contents]]
+***** [[https://standards.scheme.org/corrected-r5rs/r5rs-Z-H-4.html][Revised^5 Report on the Algorithmic Language Scheme - Chapter 1: Overview of Scheme]] from [[id:7e993f6e-28c9-4afe-8906-2542f13cd5c1][(standards.scheme.org) Revised^5 Report on the Algorithmic Language Scheme]]
+Again, for the definition of latent vs. manifest types.
+***** [[id:465976e9-5be6-4062-bcb6-25ea0cb0ebfc][(en.wikipedia.org) Ada (programming language) - Wikipedia]]
+***** [[id:86ed610a-56b0-4f67-92a4-17d214742a08][(en.wikipedia.org) SPARK (programming language) - Wikipedia]]
+***** [[id:5dfe39dc-7d6c-47b9-ae2c-23e72e78ac2c][(en.wikipedia.org) Rice–Shapiro theorem - Wikipedia]]
+***** [[id:c5d685f1-c146-4cc4-a8ce-0b552c1f199c][(austral-lang.org) Introduction to Linear Types]]
+***** [[https://ada-lang.io/docs/arm/AA-3/AA-3.2/][3.2. Types and Subtypes | ada-lang.io, an Ada community site]] from [[id:0f070022-adfb-41f3-ac0d-8834f1b6cb1d][(ada-lang.io) Annotated Ada Reference Manual | ada-lang.io, an Ada community site]]
+From the looks of this documentation, [[id:0d2ef242-5322-4982-ac3b-e35af271ded1][Ada]] uses latent types, like [[id:6246f8d4-6cd4-489d-b19f-9c1142b51b60][Scheme]] or [[id:84541e39-06cb-47bb-b71d-a298944d2764][Python]], rather than manifest types like [[id:c46eea5e-e2d2-4a21-bafe-74b6751292d2][C]] or [[id:e68f44a7-29bb-4d02-a5d9-a94ba0e757e4][Java]]:
+#+begin_quote
+  A type is characterized by a set of values, and a set of primitive operations which implement the fundamental aspects of its semantics.  An object of a given type is a run-time entity that contains (has) a value of the type.
+#+end_quote
+***** [[id:033793dd-a066-4f92-9834-c403720b2b0a][(www.infoq.com) Null References: The Billion Dollar Mistake - InfoQ]]

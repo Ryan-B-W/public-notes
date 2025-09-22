@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       5bda6cb0-ed30-4899-8367-6addb24e659f
+:END:
+#+title: Pascal
+#+filetags: :pascal:programming:programming_language:computer_science:
+
+An imperative [[id:b24601aa-09df-41e1-aa7e-25ead342db34][programming language]] with very ridged structured programming semantics.

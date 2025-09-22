@@ -2,9 +2,10 @@
 :ID:       6246f8d4-6cd4-489d-b19f-9c1142b51b60
 :END:
 #+title: Scheme
+#+filetags: :scheme:lisp:programming:programming_language:computer_science:
 
-A dialect of the [[id:84ae6e85-a6a2-4133-bc53-274238081c2d][Lisp]] family of [[id:b24601aa-09df-41e1-aa7e-25ead342db34][Programming Language]].  A Lisp-1 with a single symbol namespace.  Various version of Scheme have been published as a series of academic publications starting in 1975.  Features include lexical scope, guaranteed tail-call optimization, and lazy evaluation.  Generally known for being very minimalist.
-* (www.scheme.org) The Scheme Programming Language :scheme:lisp:programming_language:programming:computer_science:website:
+A dialect of the [[id:84ae6e85-a6a2-4133-bc53-274238081c2d][Lisp]] family of [[id:b24601aa-09df-41e1-aa7e-25ead342db34][Programming Languages]].  A Lisp-1 with a single symbol namespace.  Various versions of Scheme have been published as a series of academic publications starting in 1975.  Features include lexical scope, guaranteed tail-call optimization, and lazy evaluation.  Generally known for being very minimalist.
+* (www.scheme.org) The Scheme Programming Language                  :website:
 :PROPERTIES:
 :ID:       18a1ad86-a00c-437a-b253-ba0d24299574
 :ROAM_REFS: https://www.scheme.org/ https://www.scheme.org/schemers/
@@ -100,7 +101,7 @@ The new [[id:6246f8d4-6cd4-489d-b19f-9c1142b51b60][Scheme]] community site that 
 
   The second pane is the editor area.  It allows creating and editing files that are local to the browser and accessible to Scheme code as files in the root directory, i.e. "*=/=*".  The files will persist in the browser between sessions.  Use the "*=+=*" tab in the editor area to create new files and open existing files.
 #+end_quote
-** (conservatory.scheme.org) Welcome to schemers.org!               :website:
+** (conservatory.scheme.org) Welcome to schemers.org!
 :PROPERTIES:
 :ID:       20ee7228-6436-4610-9fd1-10e8a00070e9
 :ROAM_REFS: https://conservatory.scheme.org/schemers/

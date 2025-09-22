@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       be30c17c-7565-42b3-a883-c64dda819bcc
+:ROAM_ALIASES: "Design by Contract" "Design-by-Contract Programming" "Programming by Contract" "Contract Programming"
+:END:
+#+title: Design by Contract (DbC)
+#+filetags: :software_development:programming:computer_science:
+
+* (en.wikipedia.org) Design by contract - Wikipedia                 :website:
+:PROPERTIES:
+:ID:       0798b109-f9b7-43a7-8660-c081468daafa
+:ROAM_REFS: https://en.wikipedia.org/wiki/Design_by_contract
+:END:
+
+#+begin_quote
+  *Design by contract* (*DbC*), also known as *contract programming*, *programming by contract* and *design-by-contract programming*, is an approach for [[https://en.wikipedia.org/wiki/Software_design][designing software]].
+
+  It prescribes that software designers should define [[https://en.wikipedia.org/wiki/Formal_methods][formal]], precise and verifiable interface specifications for [[https://en.wikipedia.org/wiki/Component-based_software_engineering#Software_component][software components]], which extend the ordinary definition of [[https://en.wikipedia.org/wiki/Abstract_data_type][abstract data types]] with [[https://en.wikipedia.org/wiki/Precondition][preconditions]], [[https://en.wikipedia.org/wiki/Postcondition][postconditions]] and [[https://en.wikipedia.org/wiki/Invariant_(computer_science)][invariants]].  These specifications are referred to as "contracts", in accordance with a [[https://en.wikipedia.org/wiki/Conceptual_metaphor][conceptual metaphor]] with the conditions and obligations of business contracts.
+
+  The DbC approach [[https://en.wikipedia.org/wiki/Offensive_programming][assumes]] all /client components/ that invoke an operation on a /server component/ will meet the preconditions specified as required for that operation.
+
+  Where this assumption is considered too risky (as in multi-channel or [[https://en.wikipedia.org/wiki/Distributed_computing][distributed computing]]), the [[https://en.wikipedia.org/wiki/Defensive_programming][inverse approach]] is taken, meaning that the /server component/ tests that all relevant preconditions hold true (before, or while, processing the /client component'/s request) and replies with a suitable error message if not.
+#+end_quote

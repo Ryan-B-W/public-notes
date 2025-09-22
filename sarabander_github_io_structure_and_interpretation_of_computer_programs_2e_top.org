@@ -385,6 +385,15 @@ Main node: [[id:69d3e2e7-62dc-414f-90ee-86f4b4abbcb0][(sarabander.github.io) Str
 :ID:       eecde4f8-9302-4eb7-a09b-6ee1217b3414
 :ROAM_REFS: https://sarabander.github.io/sicp/html/5_002e5.xhtml
 :END:
+*** (sarabander.github.io) SICP, 2e: 5.5, Footnote 319
+:PROPERTIES:
+:ID:       8a3da5f5-02f0-4779-ac71-7cc89c3053fe
+:ROAM_REFS: https://sarabander.github.io/sicp/html/5_002e5.xhtml#FOOT319
+:END:
+
+#+begin_quote
+  Actually, the machine that runs compiled code can be simpler than the interpreter machine, because we won't use the =exp= and =unev= registers.  The interpreter used these to hold pieces of unevaluated expressions.  With the compiler, however, these expressions get built into the compiled code that the register machine will run.  For the same reason, we don't need the machine operations that deal with expression syntax.  But compiled code will use a few additional machine operations (to represent compiled procedure objects) that didn't appear in the explicit-control evaluator machine.
+#+end_quote
 *** (sarabander.github.io) SICP, 2e: 5.5, Footnote 321
 :PROPERTIES:
 :ID:       8ac67c01-5578-4ca2-bf86-df0b0210667b
@@ -417,6 +426,35 @@ Main node: [[id:69d3e2e7-62dc-414f-90ee-86f4b4abbcb0][(sarabander.github.io) Str
   #+begin_src scheme
     (1 2 a)
   #+end_src
+#+end_quote
+*** (sarabander.github.io) SICP, 2e: 5.5, Footnote 325
+:PROPERTIES:
+:ID:       d9915b4f-989f-4f64-95db-d96fff9d5687
+:ROAM_REFS: https://sarabander.github.io/sicp/html/5_002e5.xhtml#FOOT325
+:END:
+
+#+begin_quote
+  Making a compiler generate tail-recursive code might seem like a straightforward idea.  But most compilers for common languages, including C and Pascal, do not do this, and therefore these languages cannot represent iterative processes in terms of procedure call alone.  The difficulty with tail recursion in these languages is that their implementations use the stack to store procedure arguments and local variables as well as return addresses.  The Scheme implementations described in this book store arguments and variables in memory to be garbage-collected.  The reason for using the stack for variables and arguments is that it avoids the need for garbage collection in languages that would not otherwise require it, and is generally believed to be more efficient.  Sophisticated Lisp compilers can, in fact, use the stack for arguments without destroying tail recursion.  (See [[https://sarabander.github.io/sicp/html/References.xhtml#Hanson-1990][Hanson 1990]] for a description.)  There is also some debate about whether stack allocation is actually more efficient than garbage collection in the first place, but the details seem to hinge on fine points of computer architecture.  (See [[https://sarabander.github.io/sicp/html/References.xhtml#Appel-1987][Appel 1987]] and [[https://sarabander.github.io/sicp/html/References.xhtml#Miller-and-Rozas-1994][Miller and Rozas 1994]] for opposing views on this issue.)
+#+end_quote
+*** (sarabander.github.io) SICP, 2e: 5.5, Footnote 329
+:PROPERTIES:
+:ID:       60cefeb2-1cfb-4222-95be-a50389e5cfb3
+:ROAM_REFS: https://sarabander.github.io/sicp/html/5_002e5.xhtml#FOOT329
+:END:
+
+#+begin_quote
+  Making the primitives into reserved words is in general a bad idea, since a user cannot then rebind these names to different procedures.  Moreover, if we add reserved words to a compiler that is in use, existing programs that define procedures with these names will stop working.  See [[https://sarabander.github.io/sicp/html/5_002e5.xhtml#Exercise-5_002e44][Exercise 5.44]] for ideas on how to avoid this problem.
+#+end_quote
+*** (sarabander.github.io) SICP, 2e: 5.5, Footnote 337
+:PROPERTIES:
+:ID:       81e74713-e685-43d3-a29a-4d70234e4576
+:ROAM_REFS: https://sarabander.github.io/sicp/html/5_002e5.xhtml#FOOT337
+:END:
+
+#+begin_quote
+  Independent of the strategy of execution, we incur significant overhead if we insist that errors encountered in execution of a user program be detected and signaled, rather than being allowed to kill the system or produce wrong answers.  For example, an out-of-bounds array reference can be detected by checking the validity of the reference before performing it.  The overhead of checking, however, can be many times the cost of the array reference itself, and a programmer should weigh speed against safety in determining whether such a check is desirable.  A good compiler should be able to produce code with such checks, should avoid redundant checks, and should allow programmers to control the extent and type of error checking in the compiled code.
+
+  Compilers for popular languages, such as C and C++, put hardly any error-checking operations into running code, so as to make things run as fast as possible.  As a result, it falls to programmers to explicitly provide error checking.  Unfortunately, people often neglect to do this, even in critical applications where speed is not a constraint.  Their programs lead fast and dangerous lives.  For example, the notorious “Worm” that paralyzed the Internet in 1988 exploited the UNIX(tm) operating system's failure to check whether the input buffer has overflowed in the finger daemon.  (See [[https://sarabander.github.io/sicp/html/References.xhtml#Spafford-1989][Spafford 1989]].)
 #+end_quote
 * (sarabander.github.io) SICP, 2e: References
 :PROPERTIES:

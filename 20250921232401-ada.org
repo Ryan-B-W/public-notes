@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       0d2ef242-5322-4982-ac3b-e35af271ded1
+:END:
+#+title: Ada
+#+filetags: :ada_lang:programming:programming_language:computer_science:
+
+A standardized, [[id:d7560e61-28f8-406d-933f-95ca750f0112][statically typed]] [[id:b24601aa-09df-41e1-aa7e-25ead342db34][programming language]] that has robust [[id:be30c17c-7565-42b3-a883-c64dda819bcc][design-by-contract]] and static analysis tooling as an application of [[id:3fabaf38-9777-40ac-a957-0d2e47b96a4a][formal methods]] for creating software with more robust guarantees about safety and correctness.  Inspired, in part, by [[id:5bda6cb0-ed30-4899-8367-6addb24e659f][Pascal]].

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       3fabaf38-9777-40ac-a957-0d2e47b96a4a
+:END:
+#+title: Formal Methods
+#+filetags: :static_analysis:mathematics:computer_science:
+
+A set of mathematically rigorous techniques, theories, and systems for verifying the correctness of computer software and hardware systems.
+* (en.wikipedia.org) Formal methods - Wikipedia                     :website:
+:PROPERTIES:
+:ID:       656b64b7-078f-48b6-bf1c-7dee9b3eeeba
+:ROAM_REFS: https://en.wikipedia.org/wiki/Formal_methods
+:END:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Computer_science][computer science]], *formal methods* are [[https://en.wikipedia.org/wiki/Mathematics][mathematically]] rigorous techniques for the [[https://en.wikipedia.org/wiki/Formal_specification][specification]], development, [[https://en.wikipedia.org/wiki/Program_analysis][analysis]], and [[https://en.wikipedia.org/wiki/Formal_verification][verification]] of [[https://en.wikipedia.org/wiki/Software][software]] and [[https://en.wikipedia.org/wiki/Computer_hardware][hardware]] systems.  The use of formal methods for software and hardware design is motivated by the expectation that, as in other engineering disciplines, performing appropriate mathematical analysis can contribute to the reliability and robustness of a design.
+
+  Formal methods employ a variety of [[https://en.wikipedia.org/wiki/Theoretical_computer_science][theoretical computer science]] fundamentals, including [[https://en.wikipedia.org/wiki/Logic_in_computer_science][logic]] calculi, [[https://en.wikipedia.org/wiki/Formal_language][formal languages]], [[https://en.wikipedia.org/wiki/Automata_theory][automata theory]], [[https://en.wikipedia.org/wiki/Control_theory][control theory]], [[https://en.wikipedia.org/wiki/Program_semantics][program semantics]], [[https://en.wikipedia.org/wiki/Type_systems][type systems]], and [[https://en.wikipedia.org/wiki/Type_theory][type theory]].
+#+end_quote

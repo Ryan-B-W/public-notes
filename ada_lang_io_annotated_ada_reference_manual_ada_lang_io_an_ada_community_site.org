@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       0f070022-adfb-41f3-ac0d-8834f1b6cb1d
+:ROAM_REFS: https://ada-lang.io/docs/arm/
+:END:
+#+title: (ada-lang.io) Annotated Ada Reference Manual | ada-lang.io, an Ada community site
+#+filetags: :ada_lang:programming_language:programming:computer_science:documentation:website:

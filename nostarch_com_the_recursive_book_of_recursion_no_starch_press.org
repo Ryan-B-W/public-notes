@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9c2984d2-af96-4726-ab68-a746c7667bbf
+:ROAM_REFS: https://nostarch.com/recursive-book-recursion
+:END:
+#+title: (nostarch.com) The Recursive Book of Recursion | No Starch Press
+#+filetags: :computer_science:books:website:
+
+#+begin_quote
+  Recursion has an intimidating reputation: it's considered to be an advanced computer science topic frequently brought up in coding interviews.  But there's nothing magical about recursion.
+
+  /The Recursive Book of Recursion/ uses Python and JavaScript examples to teach the basics of recursion, exposing the ways that it's often poorly taught and clarifying the fundamental principles of all recursive algorithms.  You'll learn when to use recursive functions (and, most importantly, when not to use them), how to implement the classic recursive algorithms often brought up in job interviews, and how recursive techniques can help solve countless problems involving tree traversal, combinatorics, and other tricky topics.
+
+  This project-based guide contains complete, runnable programs to help you learn:
+
+  - How recursive functions make use of the call stack, a critical data structure almost never discussed in lessons on recursion
+  - How the head-tail and “leap of faith” techniques can simplify writing recursive functions
+  - How to use recursion to write custom search scripts for your filesystem, draw fractal art, create mazes, and more
+  - How optimization and memoization make recursive algorithms more efficient
+
+  Al Sweigart has built a career explaining programming concepts in a fun, approachable manner.  If you've shied away from learning recursion but want to add this technique to your programming toolkit, or if you're racing to prepare for your next job interview, this book is for you.
+#+end_quote

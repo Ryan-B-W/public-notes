@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       c16fc576-4669-4afc-8842-7b7d2c302345
+:ROAM_REFS: https://en.wikipedia.org/wiki/Rope_(data_structure)
+:END:
+#+title: (en.wikipedia.org) Rope (data structure) - Wikipedia
+#+filetags: :data_structures:computer_science:website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Computer_programming][computer programming]], a *rope*, or *cord*, is a [[https://en.wikipedia.org/wiki/Data_structure][data structure]] composed of smaller [[https://en.wikipedia.org/wiki/String_(computer_science)][strings]] that is used to efficiently store and manipulate longer strings or entire texts.  For example, a [[https://en.wikipedia.org/wiki/Text_editing][text editing]] program may use a rope to represent the text being edited, so that operations such as insertion, deletion, and random access can be done efficiently.
+
+  ** Description
+
+  A rope is a type of [[https://en.wikipedia.org/wiki/Binary_tree][binary tree]] where each leaf (end node) holds a string of manageable size and length (also known as a /weight/), and each node further up the tree holds the sum of the lengths of all the leaves in its left [[https://en.wikipedia.org/wiki/Subtree][subtree]].  A node with two children thus divides the whole string into two parts: the left subtree stores the first part of the string, the right subtree stores the second part of the string, and a node's weight is the length of the first part.
+
+  For rope operations, the strings stored in nodes are assumed to be constant [[https://en.wikipedia.org/wiki/Immutable_object][immutable objects]] in the typical nondestructive case, allowing for some [[https://en.wikipedia.org/wiki/Copy-on-write][copy-on-write]] behavior.  Leaf nodes are usually implemented as [[https://en.wikipedia.org/wiki/String_(computer_science)][basic fixed-length strings]] with a [[https://en.wikipedia.org/wiki/Reference_counting][reference count]] attached for deallocation when no longer needed, although other [[https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)][garbage collection]] methods can be used as well.
+#+end_quote

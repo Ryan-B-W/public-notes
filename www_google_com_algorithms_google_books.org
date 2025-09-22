@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       23aff46f-3740-44fa-a42f-cca87c60a4db
+:ROAM_REFS: https://www.google.com/books/edition/Algorithms/DJSUCgAAQBAJ
+:END:
+#+title: (www.google.com) Algorithms - Google Books
+#+filetags: :books:website:
+
+#+begin_quote
+  This text, extensively class-tested over a decade at UC Berkeley and UC San Diego, explains the fundamentals of algorithms in a story line that makes the material enjoyable and easy to digest.  Emphasis is placed on understanding the crisp mathematical idea behind each algorithm, in a manner that is intuitive and rigorous without being unduly formal.  Features include:The use of boxes to strengthen the narrative: pieces that provide historical context, descriptions of how the algorithms are used in practice, and excursions for the mathematically sophisticated.  Carefully chosen advanced topics that can be skipped in a standard one-semester course but can be covered in an advanced algorithms course or in a more leisurely two-semester sequence.
+
+  An accessible treatment of linear programming introduces students to one of the greatest achievements in algorithms.  An optional chapter on the quantum algorithm for factoring provides a unique peephole into this exciting topic.  In addition to the text DasGupta also offers a Solutions Manual which is available on the Online Learning Center.
+
+  "Algorithms is an outstanding undergraduate text equally informed by the historical roots and contemporary applications of its subject.  Like a captivating novel it is a joy to read."
+  --- Tim Roughgarden Stanford University
+#+end_quote

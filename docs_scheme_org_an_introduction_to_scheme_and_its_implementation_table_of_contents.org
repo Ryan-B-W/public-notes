@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       0027e55d-f7a5-4b05-bdd4-9f015ba72bad
+:ROAM_REFS: https://docs.scheme.org/schintro/
+:END:
+#+title: (docs.scheme.org) An Introduction to Scheme and its Implementation - Table of Contents
+#+filetags: :programming:programming_language:scheme:lisp:computer_science:web_books:books:documentation:website:

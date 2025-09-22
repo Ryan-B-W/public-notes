@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       c5d685f1-c146-4cc4-a8ce-0b552c1f199c
+:ROAM_REFS: https://austral-lang.org/linear-types
+:END:
+#+title: (austral-lang.org) Introduction to Linear Types
+#+filetags: :programming_language_design:programming_type_systems:computer_science:website:
+
+#+begin_quote
+  In the physical world, an object occupies a single point in space, and objects can move from one place to the other.  Copying an object, however, is impossible.  Computers invert this: copying is the primitive operation.  While an object in memory resides in a single place, /references/ or pointers to that object can be copied any number of times, and passed around through threads.
+
+  This brings a number of security and correctness problems:
+
+  1. *Double-Free Errors*: the memory used to store an object can be deallocated by calling =free()= on a pointer to the object.  The code might try to call =free()= on another copy of the pointer elsewhere, leading to a [[https://cwe.mitre.org/data/definitions/415.html][double-free error]].  This can cause [[https://owasp.org/www-community/vulnerabilities/Doubly_freeing_memory][security vulnerabilities]].
+
+  2. *Use-After-Free Errors*: when the memory used to store an object has been deallocated by a call to =free()=, other code that holds a pointer to the same memory might try to read or write to that block of memory, causing a crash.  This is a [[https://cwe.mitre.org/data/definitions/416.html][use-after-free error]], and it can also cause [[https://owasp.org/www-community/vulnerabilities/Using_freed_memory][security vulnerabilities]].
+
+  3. *Concurrency Errors:* when multiple concurrent threads have references to the same block of memory, errors caused by the ordering of reads and writes can introduce security vulnerabilities and be impossible to debug.
+
+  This generalizes beyond memory: any value that has a strict lifecycle of “create, use, dispose”, such as file handles, database handles, heap-allocated memory, sockets, is called a /resource/ and is subject to this kind of errors.  For example, in C, calling [[https://man7.org/linux/man-pages/man3/fclose.3.html][=fclose=]] on a file handle that has already been closed is undefined behaviour.
+
+  Linear types fix this.  Simply put: a value of a linear type is a value that can only be used once.  This sounds useless, but it isn't.  Let's see what a linear API for database access looks like.
+
+  : For the first time in 50 years of computer science, a metaphor of programming has been proposed that most people can relate to---objects have true identity, and /objects are conserved/.  As in the real world, /an object cannot be copied or destroyed/ without first filling out a lot of forms, but on the other hand, /the transmission of objects is relatively painless/.  An object is localized in space, and can move from place to place.  (Only computer-literate people must be told that the transmission of these objects does not create copies.)  Linear logic finally makes precise the high school notion that a function is like a box into which one puts argument values and receives result values, and that a truly “functional” box does not remember its previous arguments or results.
+  --- Henry G. Baker, [[https://www.plover.com/~mjd/misc/hbaker-archive/ForthStack.html][“Linear Logic and Permutation Stacks---The Forth Shall Be First”]]
+#+end_quote
