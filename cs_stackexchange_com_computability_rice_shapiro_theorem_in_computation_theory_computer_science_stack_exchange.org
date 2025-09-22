@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       c0f16be1-fb4e-40e7-a978-169438467750
+:ROAM_REFS: https://cs.stackexchange.com/questions/67722/rice-shapiro-theorem-in-computation-theory
+:END:
+#+title: (cs.stackexchange.com) computability - Rice–Shapiro theorem in computation theory - Computer Science Stack Exchange
+#+filetags: :mathematics:computer_science:forums:website:
+
+#+begin_quote
+  I am trying to learn the [[https://en.wikipedia.org/wiki/Rice–Shapiro_theorem][Rice--Shapiro theorem]] on my own.  Here is the theorem:
+
+  #+begin_example
+    Let \(Γ\) be a set of computable functions such that the set \(R_Γ\) is recursively enumerable.  We have \(f ∈ Γ\) if and only if there exists a finite function \(θ ∈ Γ\) such that \(θ ⊆ f\).
+  #+end_example
+
+  I will appreciate if anybody helps me to make the theorem crystal clear.  I just want to know what it really means and how I can use it to say that a set is not r.e., for example the set Empty or TOT.
+#+end_quote
+
+* computability - Rice–Shapiro theorem in computation theory - answer by chi
+:PROPERTIES:
+:ID:       ad78d726-a178-4b76-95ce-50c80d3172ad
+:ROAM_REFS: https://cs.stackexchange.com/a/67726 https://cs.stackexchange.com/questions/67722/rice-shapiro-theorem-in-computation-theory/67726#67726
+:END:
+
+#+begin_quote
+  Rice-Shapiro greatly helps in proving that a set is not RE, for some sets of the form \(R_\Gamma\).
+
+  E.g. take \(A = \{ n |{ f\dom}(\phi_n)\mbox{\finite}\}\). We have \(A=R_\Gamma\) with \(\Gamma = \{\phi_n | { f\dom}(\phi_n)\mbox{\finite}\}\). If \(A\) were RE, since e.g. the always undefined function belongs to \(\Gamma\), then by Rice-Shapiro any recursive extension of that would be long to \(\Gamma\) as well -- but this is false, since e.g. the identity function \(\otin\Gamma\). Hence \(A\) is not RE.
+
+  The above one is a typical use, where you reach a contradiction by extending a function inside \(\Gamma\) to one recursive function outside.
+
+  We can also use it in the other direction: we reach a contradiction if we can take any function inside \(\Gamma\) whose finite restrictions are all outside \(\Gamma\). For instance, take \(B = \{n |\forall k\in\mathbb{N}.\phi_n(2k)=5\}\). Clearly \(B=R_\Gamma\) with \(Gamma = \{\phi_n |\forall k\in\mathbb{N}.\phi_n(2k)=5\}\). The function \(f(x)=5\) is inside \(\Gamma\), but any finite restriction of \(f\) can not evaluate to \(5\) on all even numbers, hence it must be found outside \(\Gamma\). If \(B\) were RE, by Rice-Shapiro one such restriction should instead be found inside \(\Gamma\). We conclude that \(B\) can not be RE.
+
+  I find Rice-Shapiro easier to use if I think about it as two separate results:
+
+  One is a /monotonicity/ result, telling us that if \(f \in \Gamma\) and \(f \subseteq g\) with \(g\) partial recursive, then \(g \in \Gamma\). I.e. recursive extensions of functions in \(\Gamma\) must belong to \(\Gamma\) -- otherwise, \(R_\Gamma\) is not RE.
+
+  The other is a /compactness/ result. For any function in \(\Gamma\), there must be a finite restriction of it inside \(\Gamma\) -- otherwise, \(R_\Gamma\) is not RE.
+
+  Many, many common examples of non-RE sets violate one of these two conditions, making it simple to prove they are not RE. For instance, consider \(C = \{n|\phi_n(3) \neq 4 \land \phi_n(5)=2 \}\), where the notation \(phi_n(3) \neq 4\) is meant to be true when \(\phi_n(3)\) is undefined. This immediately violates monotonicity, since I can always extend a (recursive) function which is undefined on \(3\) so that it evaluates to \(4\) on that point (and still get a recursive function). So \(C\) is not RE.
+#+end_quote

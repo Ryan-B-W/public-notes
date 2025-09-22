@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       829e3705-6aad-4bf1-871f-c98bd4fb6ce0
+:ROAM_REFS: https://github.com/rust-lang/miri
+:END:
+#+title: (github.com) GitHub - rust-lang/miri: An interpreter for Rust's mid-level intermediate representation
+#+filetags: :rust_lang:website:
+
+#+begin_quote
+  * Miri
+
+  Miri is an [[https://doc.rust-lang.org/reference/behavior-considered-undefined.html][Undefined Behavior]] detection tool for Rust.  It can run binaries and test suites of cargo projects and detect unsafe code that fails to uphold its safety requirements.  For instance:
+
+  - Out-of-bounds memory accesses and use-after-free
+  - Invalid use of uninitialized data
+  - Violation of intrinsic preconditions (an [[https://doc.rust-lang.org/stable/std/hint/fn.unreachable_unchecked.html][=unreachable_unchecked=]] being reached, calling [[https://doc.rust-lang.org/stable/std/ptr/fn.copy_nonoverlapping.html][=copy_nonoverlapping=]] with overlapping ranges, ...)
+  - Not sufficiently aligned memory accesses and references
+  - Violation of basic type invariants (a =bool= that is not 0 or 1, for example, or an invalid enum discriminant)
+  - Data races and emulation of /some/ weak memory effects, i.e., atomic reads can return outdated values
+  - *Experimental*: Violations of the [[https://github.com/rust-lang/unsafe-code-guidelines/blob/master/wip/stacked-borrows.md][Stacked Borrows]] rules governing aliasing for reference types
+  - *Experimental*: Violations of the [[https://perso.crans.org/vanille/treebor/][Tree Borrows]] aliasing rules, as an optional alternative to [[https://github.com/rust-lang/unsafe-code-guidelines/blob/master/wip/stacked-borrows.md][Stacked Borrows]]
+
+  On top of that, Miri will also tell you about memory leaks: when there is memory still allocated at the end of the execution, and that memory is not reachable from a global =static=, Miri will raise an error.
+
+  You can use Miri to emulate programs on other targets, e.g. to ensure that byte-level data manipulation works correctly both on little-endian and big-endian systems.  See [[https://github.com/rust-lang/miri#cross-interpretation-running-for-different-targets][cross-interpretation]] below.
+
+  Miri has already discovered many [[https://github.com/rust-lang/miri#bugs-found-by-miri][real-world bugs]].  If you found a bug with Miri, we'd appreciate if you tell us and we'll add it to the list!
+#+end_quote

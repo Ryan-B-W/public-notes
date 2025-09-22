@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       f9b8bdad-3de2-49a4-90be-1242088a29de
+:ROAM_REFS: https://users.rust-lang.org/t/math-behind-borrow-checker/37079
+:END:
+#+title: (users.rust-lang.org) Math behind borrow checker - help - The Rust Programming Language Forum
+#+filetags: :rust_lang:mathematics:computer_science:forums:website:

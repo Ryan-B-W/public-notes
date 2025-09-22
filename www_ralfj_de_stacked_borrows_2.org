@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       837fa375-013b-410b-8b97-b231be3baf01
+:ROAM_REFS: https://www.ralfj.de/blog/2019/04/30/stacked-borrows-2.html
+:END:
+#+title: (www.ralfj.de) Stacked Borrows 2
+#+filetags: :static_analysis:programming_language_design:rust_lang:blog_post:website:
+
+#+begin_quote
+  * Stacked Borrows 2
+
+  Recently, I have [[https://github.com/rust-lang/miri/pull/695][significantly updated]] Stacked Borrows in order to fix some issues with the handling of shared references that were uncovered in the previous version.  In this post, I will describe what the new version looks like and how it differs from [[https://www.ralfj.de/blog/2018/11/16/stacked-borrows-implementation.html][Stacked Borrows 1]].  I assume some familiarity with the prior version and will not explain everything from scratch.
+#+end_quote

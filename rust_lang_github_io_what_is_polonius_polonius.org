@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       e14aebd4-4b13-41bb-b29d-068d8fc1d2c6
+:ROAM_REFS: https://rust-lang.github.io/polonius/
+:END:
+#+title: (rust-lang.github.io) What is Polonius? - Polonius
+#+filetags: :static_analysis:rust_lang:website:
+
+#+begin_quote
+  * [[https://rust-lang.github.io/polonius/#what-is-polonius][What is polonius?]]
+
+  This is a core library that models the borrow check.  It implements the analysis [[http://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/][described in this blogpost]].
+
+  ** [[https://rust-lang.github.io/polonius/#why-the-name-polonius][Why the name "Polonius"?]]
+
+  The name comes from the famous quote [[https://literarydevices.net/neither-a-borrower-nor-a-lender-be/]["Neither borrower nor lender be"]], which comes from the character Polonius in Shakespeare's /Hamlet/.
+#+end_quote

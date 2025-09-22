@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       c087a12d-f8f9-4e5c-909e-ab6b8823dd6f
+:ROAM_REFS: https://github.com/rust-lang/polonius
+:END:
+#+title: (github.com) GitHub - rust-lang/polonius: Defines the Rust borrow checker.
+#+filetags: :static_analysis:rust_lang:website:
+
+#+begin_quote
+  This is a core library that models the borrow check.  It implements the analysis described in this [[http://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/][blogpost]] and in this [[https://youtu.be/_agDeiWek8w][talk]].  Details are [[https://rust-lang.github.io/polonius/][in the Polonius book]].
+#+end_quote

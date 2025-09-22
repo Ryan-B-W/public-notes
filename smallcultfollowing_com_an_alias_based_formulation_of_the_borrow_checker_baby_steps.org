@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       a555b617-823b-4e5c-9013-227c45201209
+:ROAM_REFS: https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/
+:END:
+#+title: (smallcultfollowing.com) An alias-based formulation of the borrow checker · baby steps
+#+filetags: :static_analysis:programming_language_design:rust_lang:computer_science:blog_post:website:
+
+#+begin_quote
+  Ever since the Rust All Hands, I've been experimenting with an alternative formulation of the Rust borrow checker.  The goal is to find a formulation that overcomes some shortcomings of the current proposal while hopefully also being faster to compute.  I have implemented a prototype for this analysis.  It passes the full NLL test suite and also handles a few cases -- such as [[https://github.com/rust-lang/rust/issues/47680#issuecomment-363131420][#47680]] -- that the current NLL analysis cannot handle.  However, the performance has a long way to go (it is currently slower than existing analysis).  That said, I haven't even begun to optimize yet, and I know I am doing some naive and inefficient things that can definitely be done better; so I am still optimistic we'll be able to make big strides there.
+
+  Also, it was pointed out to me that yesterday, April 26, is the sixth “birthday” of the borrow check -- it's fun to look at [[https://github.com/rust-lang/rust/commit/50a3dd40ae8ae6494e55d5cfc29eafdb4172af52][my commit from that time]], gives a good picture of what Rust was like then.^{[[https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/#fn:1][1]][[https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/#fn:2][2]]}
+#+end_quote
