@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       09e8b292-2670-4667-ac5b-00ccb46221b0
+:ROAM_REFS: https://web.archive.org/web/20200709203859/http:/citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.369.3459&rep=rep1&type=pdf
+:END:
+#+title: (web.archive.org) A new paradigm for component-based development (10.1.1.369.3459.pdf)
+#+filetags: :programming_type_systems:computer_science:science_paper:archive_org:mime_type_application_pdf:website:
+
+#+begin_quote
+  * A new paradigm for component-based development
+
+  Johan G. Granström
+
+  /Abstract/​—Hancock and Setzer describe how Haskell’s monolithic IO monad can be decomposed into worlds when working in a dependently typed language, like Martin-Löf’s type theory.
+
+  This paper introduces the notion of world map and shows that worlds and world maps form a category with arbitrary products.  The construction of the category is carried out entirely in type theory and directly implementable in dependently typed programming languages.
+
+  If we let the notion of world replace the standard notion of interface, and the notion of world map replace the standard notion of component, we get a rigorous paradigm for component-based development.  This new paradigm is investigated and several applications are given.  For example, the problem of session state is given a very clean solution.
+#+end_quote

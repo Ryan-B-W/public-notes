@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       a99e1eec-6c84-428a-a7bf-64378d2c1b73
+:ROAM_REFS: https://link.springer.com/book/10.1007/978-94-007-1736-7
+:END:
+#+title: (link.springer.com) Treatise on Intuitionistic Type Theory | SpringerLink
+#+filetags: :programming_type_systems:computer_science:books:website:
+
+#+begin_quote
+  Intuitionistic type theory can be described, somewhat boldly, as a partial fulfillment of the dream of a universal language for science.  This book expounds several aspects of intuitionistic type theory, such as the notion of set, reference vs. computation, assumption, and substitution.  Moreover, the book includes philosophically relevant sections on the principle of compositionality, lingua characteristica, epistemology, propositional logic, intuitionism, and the law of excluded middle.  Ample historical references are given throughout the book.
+#+end_quote

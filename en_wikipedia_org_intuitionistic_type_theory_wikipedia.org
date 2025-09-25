@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       f09fb1ad-26d4-4c4a-9cce-4241c4eba7cf
+:ROAM_REFS: https://en.wikipedia.org/wiki/Intuitionistic_type_theory
+:END:
+#+title: (en.wikipedia.org) Intuitionistic type theory - Wikipedia
+#+filetags: :mathematics:programming_type_systems:computer_science:website:
+
+#+begin_quote
+  *Intuitionistic type theory* (also known as *constructive type theory*, or *Martin-Löf type theory* (*MLTT*)) is a [[https://en.wikipedia.org/wiki/Type_theory][type theory]] and an alternative [[https://en.wikipedia.org/wiki/Foundations_of_mathematics][foundation of mathematics]].  Intuitionistic type theory was created by [[https://en.wikipedia.org/wiki/Per_Martin-Löf][Per Martin-Löf]], a [[https://en.wikipedia.org/wiki/Sweden][Swedish]] [[https://en.wikipedia.org/wiki/Mathematician][mathematician]] and [[https://en.wikipedia.org/wiki/Philosopher][philosopher]], who first published it in 1972.  There are multiple versions of the type theory: Martin-Löf proposed both [[https://en.wikipedia.org/wiki/Intensional_logic][intensional]] and [[https://en.wikipedia.org/wiki/Extensionality][extensional]] variants of the theory and early [[https://en.wikipedia.org/wiki/Impredicative][impredicative]] versions, shown to be inconsistent by [[https://en.wikipedia.org/wiki/Girard's_paradox][Girard's paradox]], gave way to [[https://en.wikipedia.org/wiki/Impredicativity][predicative]] versions.  However, all versions keep the core design of constructive logic using [[https://en.wikipedia.org/wiki/Dependent_types][dependent types]].
+#+end_quote

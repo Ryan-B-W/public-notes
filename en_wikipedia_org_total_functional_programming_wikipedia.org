@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7ce74d01-4819-452a-b54f-35647720f0b7
+:ROAM_REFS: https://en.wikipedia.org/wiki/Total_functional_programming
+:END:
+#+title: (en.wikipedia.org) Total functional programming - Wikipedia
+#+filetags: :mathematics:computer_science:website:
+
+#+begin_quote
+  *Total functional programming* (also known as *strong functional programming*, to be contrasted with ordinary, or /weak/ [[https://en.wikipedia.org/wiki/Functional_programming][functional programming]]) is a [[https://en.wikipedia.org/wiki/Computer_programming][programming]] paradigm that restricts the range of programs to those that are [[https://en.wikipedia.org/wiki/Machine_that_always_halts][provably terminating]].
+
+  ** Restrictions
+
+  Termination is guaranteed by the following restrictions:
+
+  1. A restricted form of [[https://en.wikipedia.org/wiki/Recursion][recursion]], which operates only upon 'reduced' forms of its arguments, such as [[https://en.wikipedia.org/wiki/Walther_recursion][Walther recursion]], [[https://en.wikipedia.org/wiki/Substructural_recursion][substructural recursion]], or "strongly normalizing" as proven by [[https://en.wikipedia.org/wiki/Abstract_interpretation][abstract interpretation]] of code.
+  2. Every function must be a total (as opposed to [[https://en.wikipedia.org/wiki/Partial_function][partial]]) function.  That is, it must have a definition for everything inside its domain.
+     - There are several possible ways to extend commonly used partial functions such as division to be total: choosing an arbitrary result for inputs on which the function is normally undefined (such as \(\forall x \in \mathbb{N}.x \div 0 = 0\) for division); adding another argument to specify the result for those inputs; or excluding them by use of type system features such as [[https://en.wikipedia.org/wiki/Refinement_type][refinement types]].
+
+  These restrictions mean that total functional programming is not [[https://en.wikipedia.org/wiki/Turing-complete][Turing-complete]].  However, the set of algorithms that can be used is still huge.  For example, any algorithm for which an [[https://en.wikipedia.org/wiki/Upper_bound][asymptotic upper bound]] can be calculated (by a program that itself only uses Walther recursion) can be trivially transformed into a provably-terminating function by using the upper bound as an extra argument decremented on each iteration or recursion.
+#+end_quote

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5cf09dc4-13c2-4271-b5d0-16f6e623b24b
+:ROAM_REFS: https://www.jucs.org/jucs_6_4/ensuring_termination_in_esfp/Telford_A.pdf
+:END:
+#+title: (www.jucs.org) Ensuring Termination in ESFP (bctcs2.dvi - Telford_A.pdf)
+#+filetags: :mathematics:static_analysis:programming_type_systems:computer_science:mime_type_application_pdf:website:
+
+#+begin_quote
+  * Ensuring Termination in ESFP
+
+  Alastair Telford\\
+  (The Computing Lab oratory, The University,\\
+  Canterbury, Kent, CT2 7NF, UK\\
+  A.J.Telford@ukc.ac.uk)
+
+  David Turner\\
+  (The Computing Lab oratory, The University,\\
+  Canterbury, Kent, CT2 7NF, UK)
+
+  *Abstract*: In previous papers we have proposed an elementary discipline of /strong/ functional programming (ESFP), in which all computations terminate.  A key feature of the discipline is that we introduce a type distinction between /data/ which is known to be finite, and /codata/ which is (potentially) infinite.  To ensure termination, recursion over data must be well-founded, and corecursion (the definition schema for codata) must be productive, and both of these restrictions must be enforced automatically by the compiler.  In our previous work we used abstract interpretation to establish the productivity of corecursive definitions in an elementary strong functional language.  We show here that similar ideas can be applied in the dual case to check whether recursive function definitions are strongly normalising.  We thus exhibit a powerful termination analysis technique which we demonstrate can be extended to partial functions.
+#+end_quote

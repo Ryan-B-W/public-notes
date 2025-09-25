@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       1abb7e50-8a9a-4dfa-8c6c-25389fc4c10d
+:ROAM_REFS: https://en.wikipedia.org/wiki/Calculus_of_constructions
+:END:
+#+title: (en.wikipedia.org) Calculus of constructions - Wikipedia
+#+filetags: :programming_type_systems:mathematics:computer_science:website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Mathematical_logic][mathematical logic]] and [[https://en.wikipedia.org/wiki/Computer_science][computer science]], the *calculus of constructions* (*CoC*) is a [[https://en.wikipedia.org/wiki/Type_theory][type theory]] created by [[https://en.wikipedia.org/wiki/Thierry_Coquand][Thierry Coquand]].  It can serve as both a [[https://en.wikipedia.org/wiki/Type_system][typed]] [[https://en.wikipedia.org/wiki/Programming_language][programming language]] and as [[https://en.wikipedia.org/wiki/Constructivism_(mathematics)][constructive]] [[https://en.wikipedia.org/wiki/Foundations_of_mathematics][foundation for mathematics]].  For this second reason, the CoC and its variants have been the basis for [[https://en.wikipedia.org/wiki/Coq_(software)][Rocq]] and other [[https://en.wikipedia.org/wiki/Proof_assistant][proof assistants]].
+
+  Some of its variants include the calculus of inductive constructions (which adds inductive types), the calculus of (co)inductive constructions (which adds coinduction), and the predicative calculus of inductive constructions (which removes some impredicativity).
+#+end_quote

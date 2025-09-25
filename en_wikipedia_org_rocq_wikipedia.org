@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       dc83f1e2-fa81-4f8e-8772-72662a960c6c
+:ROAM_REFS: https://en.wikipedia.org/wiki/Rocq
+:END:
+#+title: (en.wikipedia.org) Rocq - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  The *Rocq Prover* (formerly named *Coq*) is an [[https://en.wikipedia.org/wiki/Proof_assistant][interactive theorem prover]] first released in 1989.  It allows the expression of mathematical assertions, mechanical checking of proofs of these assertions, assists in finding [[https://en.wikipedia.org/wiki/Formal_proof][formal proofs]] using proof automation routines and extraction of a certified program from the [[https://en.wikipedia.org/wiki/Constructive_proof][constructive proof]] of its [[https://en.wikipedia.org/wiki/Formal_specification][formal specification]].
+
+  Rocq works within the theory of the /calculus of inductive constructions/, a derivative of the /[[https://en.wikipedia.org/wiki/Calculus_of_constructions][calculus of constructions]]/.  Rocq is not an [[https://en.wikipedia.org/wiki/Automated_theorem_prover][automated theorem prover]] but includes automatic theorem proving tactics ([[https://en.wikipedia.org/wiki/Subroutine][procedures]]) and various [[https://en.wikipedia.org/wiki/Decidability_(logic)][decision]] procedures.
+
+  The [[https://en.wikipedia.org/wiki/Association_for_Computing_Machinery][Association for Computing Machinery]] awarded [[https://en.wikipedia.org/wiki/Thierry_Coquand][Thierry Coquand]], [[https://en.wikipedia.org/wiki/Gérard_Huet][Gérard Huet]], [[https://en.wikipedia.org/wiki/Christine_Paulin-Mohring][Christine Paulin-Mohring]], Bruno Barras, Jean-Christophe Filliâtre, Hugo Herbelin, Chetan Murthy, Yves Bertot, and Pierre Castéran with the 2013 [[https://en.wikipedia.org/wiki/ACM_Software_System_Award][ACM Software System Award]] for Rocq (when it was named Coq).
+#+end_quote

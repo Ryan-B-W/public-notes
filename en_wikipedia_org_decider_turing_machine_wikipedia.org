@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       4ef0ce90-bfd9-4ef2-bc56-03910385ac82
+:ROAM_REFS: https://en.wikipedia.org/wiki/Decider_(Turing_machine)
+:END:
+#+title: (en.wikipedia.org) Decider (Turing machine) - Wikipedia
+#+filetags: :computer_science:website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Computability_theory][computability theory]], a *decider* is a [[https://en.wikipedia.org/wiki/Turing_machine][Turing machine]] that halts for every input.  A decider is also called a *total Turing machine* as it represents a [[https://en.wikipedia.org/wiki/Total_function][total function]].
+
+  Because it always halts, such a machine is able to decide whether a given string is a member of a [[https://en.wikipedia.org/wiki/Formal_language][formal language]].  The class of languages which can be decided by such machines is the set of [[https://en.wikipedia.org/wiki/Recursive_language][recursive languages]].
+
+  Given an arbitrary Turing machine, determining whether it is a decider is an [[https://en.wikipedia.org/wiki/Undecidable_problem][undecidable problem]].  This is a variant of the [[https://en.wikipedia.org/wiki/Halting_problem][halting problem]], which asks for whether a Turing machine halts on a specific input.
+#+end_quote

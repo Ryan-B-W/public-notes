@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       192643d9-63cd-4a5d-b846-91561a40d41a
+:ROAM_REFS: https://en.wikipedia.org/wiki/Termination_analysis
+:END:
+#+title: (en.wikipedia.org) Termination analysis - Wikipedia
+#+filetags: :mathematics:static_analysis:computer_science:website:
+
+#+begin_quote
+  In [[https://en.wikipedia.org/wiki/Computer_science][computer science]], *termination analysis* is [[https://en.wikipedia.org/wiki/Program_analysis][program analysis]] which attempts to determine whether the evaluation of a given [[https://en.wikipedia.org/wiki/Computer_program][program]] halts for /each/ input.  This means to determine whether the input program computes a /total/ function.
+
+  It is closely related to the [[https://en.wikipedia.org/wiki/Halting_problem][halting problem]], which is to determine whether a given program halts for a /given/ input and which is [[https://en.wikipedia.org/wiki/Undecidable_problem][undecidable]].  The termination analysis is even more difficult than the halting problem: the termination analysis in the model of [[https://en.wikipedia.org/wiki/Turing_machine][Turing machines]] as the model of programs implementing computable functions would have the goal of deciding whether a given Turing machine is a [[https://en.wikipedia.org/wiki/Total_Turing_machine][total Turing machine]], and this problem is at level \(\Pi_{2}^{0}\) of the [[https://en.wikipedia.org/wiki/Arithmetical_hierarchy][arithmetical hierarchy]] and thus is strictly more difficult than the halting problem.
+
+  Now as the question whether a computable function is total is not [[https://en.wikipedia.org/wiki/Decidability_(logic)][semi-decidable]], each /sound/ termination analyzer (i.e. an affirmative answer is never given for a non-terminating program) is /incomplete/, i.e. must fail in determining termination for infinitely many terminating programs, either by running forever or halting with an indefinite answer.
+
+  ** Termination proof
+
+  A /termination proof/ is a type of [[https://en.wikipedia.org/wiki/Mathematical_proof][mathematical proof]] that plays a critical role in [[https://en.wikipedia.org/wiki/Formal_verification][formal verification]] because [[https://en.wikipedia.org/wiki/Total_correctness][total correctness]] of an [[https://en.wikipedia.org/wiki/Algorithm][algorithm]] depends on termination.
+
+  A simple, general method for constructing termination proofs involves associating a *measure* with each step of an algorithm.  The measure is taken from the domain of a [[https://en.wikipedia.org/wiki/Well-founded_relation][well-founded relation]], such as from the [[https://en.wikipedia.org/wiki/Ordinal_number][ordinal numbers]].  If the measure "decreases" according to the relation along every possible step of the algorithm, it must terminate, because there are no [[https://en.wikipedia.org/wiki/Infinite_descending_chains][infinite descending chains]] with respect to a well-founded relation.
+
+  Some types of termination analysis can automatically generate or imply the existence of a termination proof.
+#+end_quote
