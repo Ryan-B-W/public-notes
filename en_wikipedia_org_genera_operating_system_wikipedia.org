@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       30b3ab47-b07c-48f8-9ca3-e280d9d63aea
+:ROAM_REFS: https://en.wikipedia.org/wiki/Genera_(operating_system)
+:END:
+#+title: (en.wikipedia.org) Genera (operating system) - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  *Genera* is a [[https://en.wikipedia.org/wiki/Commercial_software][commercial]] [[https://en.wikipedia.org/wiki/Operating_system][operating system]] and [[https://en.wikipedia.org/wiki/Integrated_development_environment][integrated development environment]] for [[https://en.wikipedia.org/wiki/Lisp_machine][Lisp machines]] created by [[https://en.wikipedia.org/wiki/Symbolics][Symbolics]].  It is essentially a [[https://en.wikipedia.org/wiki/Fork_(software_development)][fork]] of an earlier operating system originating on the [[https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology][Massachusetts Institute of Technology]] (MIT) [[https://en.wikipedia.org/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory][AI Lab's]] [[https://en.wikipedia.org/wiki/Lisp_machine][Lisp machines]] which Symbolics had used in common with [[https://en.wikipedia.org/wiki/Lisp_Machines][Lisp Machines]], Inc. (LMI), and [[https://en.wikipedia.org/wiki/Texas_Instruments][Texas Instruments]] (TI).  Genera was also sold by Symbolics as *Open Genera*, which runs Genera on computers based on a [[https://en.wikipedia.org/wiki/Digital_Equipment_Corporation][Digital Equipment Corporation]] (DEC) [[https://en.wikipedia.org/wiki/DEC_Alpha][Alpha]] processor using [[https://en.wikipedia.org/wiki/Tru64_UNIX][Tru64 UNIX]].  In 2021 a new version was released as *Portable Genera* which runs on Tru64 UNIX on Alpha, [[https://en.wikipedia.org/wiki/Linux][Linux]] on [[https://en.wikipedia.org/wiki/X86-64][x86-64]] and [[https://en.wikipedia.org/wiki/Arm64][Arm64]] [[https://en.wikipedia.org/wiki/Linux][Linux]], and [[https://en.wikipedia.org/wiki/MacOS][macOS]] on x86-64 and Arm64 ([[https://en.wikipedia.org/wiki/Apple_silicon#M_series][Apple Silicon M Series]]).  It is released and [[https://en.wikipedia.org/wiki/Software_license][licensed]] as [[https://en.wikipedia.org/wiki/Proprietary_software][proprietary software]].
+
+  Genera is an example of an [[https://en.wikipedia.org/wiki/Object-oriented_operating_system][object-oriented operating system]] based on the programming language [[https://en.wikipedia.org/wiki/Lisp_(programming_language)][Lisp]].
+
+  Genera supports incremental and interactive development of complex software using a mix of programming styles with extensive support for [[https://en.wikipedia.org/wiki/Object-oriented_programming][object-oriented programming]].
+#+end_quote

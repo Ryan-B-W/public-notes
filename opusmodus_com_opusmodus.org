@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       6f7c4a6b-6212-47f0-9131-3fa161e932b0
+:ROAM_REFS: https://opusmodus.com/
+:END:
+#+title: (opusmodus.com) Opusmodus
+#+filetags: :website:
+
+#+begin_quote
+  Opusmodus is aimed at composers of all kinds -- of art music, concert music, choral music, film music, jazz, electroacoustic music, music for games and new media, and songwriters.  Opusmodus is a comprehensive computer-aided environment for the whole work of music composition, a virtual space where a composer can develop ideas and experiments for projects large and small.  It is the first application to successfully provide what IRCAM has termed the "Composing Continuum": from first thoughts to the finished score.  The Opusmodus workspace consists of five integrated panels, each dedicated to a specific purpose.  Opusmodus speaks fluently to MusicXML and MIDI files to enable your work to be prepared to meet the needs of professional performance and publishing.  Together the panels make up a most exciting and flexible workspace for musical creativity.  How the composer will use the Opusmodus interface with its many features and possibilities will always be a matter of experiment and personal choice.  One of the objectives around the design of Opusmodus is to respond to the many and various approaches composers have to make in particular projects and circumstances.  In such a powerful environment as Opusmodus, there are so many things that are not just useful but necessary.
+#+end_quote

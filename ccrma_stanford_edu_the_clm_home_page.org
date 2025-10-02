@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       feb7b6a4-2f95-4763-947a-b53737a1ff1e
+:ROAM_REFS: https://ccrma.stanford.edu/software/clm/
+:END:
+#+title: (ccrma.stanford.edu) The CLM Home Page
+#+filetags: :music:common_lisp:lisp:software:website:
+
+#+begin_quote
+  * CLM
+
+  Common Lisp Music is a music synthesis and signal processing package in the Music V family.  It runs in a number of lisps or as a part of Snd (using Scheme or Ruby).  The file README.clm has current status info for the Common Lisp versions.  The mailing list for clm news is cmdist@ccrma.stanford.edu.  Common Music, CMN, and the Snd editor also use this list.
+#+end_quote

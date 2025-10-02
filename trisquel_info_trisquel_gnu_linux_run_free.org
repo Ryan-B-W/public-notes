@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       2066a577-18be-4edf-9ca4-5325b571fc8a
+:ROAM_REFS: https://trisquel.info/
+:END:
+#+title: (trisquel.info) Trisquel GNU/Linux - Run free!
+#+filetags: :website:
+
+#+begin_quote
+  ** What is Trisquel?
+
+  Trisquel GNU/Linux is a fully free operating system for home users, small enterprises and educational centers.
+#+end_quote

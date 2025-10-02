@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       1206c676-ddbc-4830-b7e4-ceba73d1e3d8
+:ROAM_REFS: https://github.com/3b1b/manim
+:END:
+#+title: (github.com) GitHub - 3b1b/manim: Animation engine for explanatory math videos
+#+filetags: :animation:mathematics:software:website:
+
+#+begin_quote
+  Manim is an engine for precise programmatic animations, designed for creating explanatory math videos.
+
+  Note, there are two versions of manim.  This repository began as a personal project by the author of [[https://www.3blue1brown.com/][3Blue1Brown]] for the purpose of animating those videos, with video-specific code available [[https://github.com/3b1b/videos][here]].  In 2020 a group of developers forked it into what is now the [[https://github.com/ManimCommunity/manim/][community edition]], with a goal of being more stable, better tested, quicker to respond to community contributions, and all around friendlier to get started with.  See [[https://docs.manim.community/en/stable/faq/installation.html#different-versions][this page]] for more details.
+#+end_quote

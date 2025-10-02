@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       9b57a672-0441-40de-a20b-ee106ac9703f
+:ROAM_REFS: https://en.wikipedia.org/wiki/Erlang_(programming_language)
+:END:
+#+title: (en.wikipedia.org) Erlang (programming language) - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  *Erlang* ([[https://en.wikipedia.org/wiki/Help:IPA/English][/ˈɜːrlæŋ/]] [[https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key][/UR-lang/]]) is a [[https://en.wikipedia.org/wiki/General-purpose_programming_language][general-purpose]], [[https://en.wikipedia.org/wiki/Concurrent_computing][concurrent]], [[https://en.wikipedia.org/wiki/Functional_programming][functional]] [[https://en.wikipedia.org/wiki/High-level_programming_language][high-level]] [[https://en.wikipedia.org/wiki/Programming_language][programming language]], and a [[https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)][garbage-collected]] [[https://en.wikipedia.org/wiki/Runtime_system][runtime system]].  The term Erlang is used interchangeably with Erlang/OTP, or [[https://en.wikipedia.org/wiki/Open_Telecom_Platform][Open Telecom Platform]] (OTP), which consists of the Erlang [[https://en.wikipedia.org/wiki/Runtime_system][runtime system]], several ready-to-use components (OTP) mainly written in Erlang, and a set of [[https://en.wikipedia.org/wiki/Systems_architecture][design principles]] for Erlang programs.
+
+  The Erlang [[https://en.wikipedia.org/wiki/Runtime_system][runtime system]] is designed for systems with these traits:
+
+  - [[https://en.wikipedia.org/wiki/Distributed_computing][Distributed]]
+  - [[https://en.wikipedia.org/wiki/Fault_tolerance][Fault-tolerant]]
+  - [[https://en.wikipedia.org/wiki/Soft_real-time][Soft real-time]]
+  - [[https://en.wikipedia.org/wiki/High_availability][Highly available]], [[https://en.wikipedia.org/wiki/Uptime][non-stop]] applications
+  - [[https://en.wikipedia.org/wiki/Hot_swapping#Software][Hot swapping]], where code can be changed without stopping a system.
+
+  The Erlang [[https://en.wikipedia.org/wiki/Programming_language][programming language]] has data, [[https://en.wikipedia.org/wiki/Pattern_matching][pattern matching]], and [[https://en.wikipedia.org/wiki/Functional_programming][functional programming]].  The sequential subset of the Erlang language supports [[https://en.wikipedia.org/wiki/Eager_evaluation][eager evaluation]], [[https://en.wikipedia.org/wiki/Single_assignment][single assignment]], and [[https://en.wikipedia.org/wiki/Dynamic_typing][dynamic typing]].
+
+  A normal Erlang application is built out of hundreds of small Erlang processes.
+
+  It was originally [[https://en.wikipedia.org/wiki/Proprietary_software][proprietary software]] within [[https://en.wikipedia.org/wiki/Ericsson][Ericsson]], developed by [[https://en.wikipedia.org/wiki/Joe_Armstrong_(programmer)][Joe Armstrong]], Robert Virding, and Mike Williams in 1986, but was released as [[https://en.wikipedia.org/wiki/Free_and_open-source_software][free and open-source software]] in 1998.  Erlang/OTP is supported and maintained by the Open Telecom Platform (OTP) product unit at [[https://en.wikipedia.org/wiki/Ericsson][Ericsson]].
+#+end_quote

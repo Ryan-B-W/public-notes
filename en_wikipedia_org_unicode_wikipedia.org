@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       8a0d3af1-e301-4838-8a01-bde1603246e0
+:ROAM_REFS: https://en.wikipedia.org/wiki/Unicode
+:END:
+#+title: (en.wikipedia.org) Unicode - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  *Unicode* (also known as /*The Unicode Standard*/ and *TUS*) is a [[https://en.wikipedia.org/wiki/Character_encoding][character encoding]] standard maintained by the [[https://en.wikipedia.org/wiki/Unicode_Consortium][Unicode Consortium]] designed to support the use of text in all of the world's [[https://en.wikipedia.org/wiki/Writing_system][writing systems]] that can be digitized.  Version 17.0 defines 159,801 [[https://en.wikipedia.org/wiki/Character_(computing)][characters]] and 172 [[https://en.wikipedia.org/wiki/Script_(Unicode)][scripts]] used in various ordinary, literary, academic, and technical contexts.
+
+  Unicode has largely supplanted the previous environment of myriad incompatible [[https://en.wikipedia.org/wiki/Character_sets][character sets]] used within different locales and on different computer architectures.  The entire repertoire of these sets, plus many additional characters, were merged into the single Unicode set.  Unicode is used to encode the vast majority of text on the Internet, including most [[https://en.wikipedia.org/wiki/Web_pages][web pages]], and relevant Unicode support has become a common consideration in contemporary software development.  Unicode is ultimately capable of encoding more than 1.1 million characters.
+
+  The Unicode [[https://en.wikipedia.org/wiki/Character_repertoire][character repertoire]] is synchronized with [[https://en.wikipedia.org/wiki/Universal_Coded_Character_Set][ISO/IEC 10646]], each being code-for-code identical with one another.  However, /The Unicode Standard/ is more than just a repertoire within which characters are assigned.  To aid developers and designers, the standard also provides charts and reference data, as well as annexes explaining concepts germane to various scripts, providing guidance for their implementation.  Topics covered by these annexes include [[https://en.wikipedia.org/wiki/Unicode_equivalence#Normalization][character normalization]], [[https://en.wikipedia.org/wiki/Combining_character][character composition]] and decomposition, [[https://en.wikipedia.org/wiki/Unicode_collation_algorithm][collation]], and [[https://en.wikipedia.org/wiki/Bidirectional_text#Unicode_bidi_support][directionality]].
+
+  Unicode encodes 3,790 [[https://en.wikipedia.org/wiki/Emoji][emoji]], with the continued development thereof conducted by the Consortium as a part of the standard.  The widespread adoption of Unicode was in large part responsible for the initial popularization of emoji outside of Japan.
+
+  Unicode text is processed and stored as binary data [[https://en.wikipedia.org/wiki/Comparison_of_Unicode_encodings][using one of several encodings]], which define how to translate the standard's abstracted codes for characters into sequences of bytes.  /The Unicode Standard/ itself defines three encodings: [[https://en.wikipedia.org/wiki/UTF-8][UTF-8]], [[https://en.wikipedia.org/wiki/UTF-16][UTF-16]], and [[https://en.wikipedia.org/wiki/UTF-32][UTF-32]], though several others exist.  UTF-8 is the most widely used by a large margin, in part due to its backwards-compatibility with [[https://en.wikipedia.org/wiki/ASCII][ASCII]].
+#+end_quote

@@ -4,3 +4,19 @@
 :END:
 #+title: (archives.loomcom.com) Running Open Genera 2.0 on Linux
 #+filetags: :software:operating_systems:lisp:website:
+
+#+begin_quote
+  ** 2. Introduction
+
+  From the early 1980s to the early 1990s, Symbolics, Inc. produced a line of workstations designed to run a highly advanced Lisp environment called “Genera”.  What made these Lisp Machines so special was the combination of the powerful software running on top of very specialized hardware.  The hardware, for example, performed array bounds checking and operated on data as types rather than as flat fields of bits the way other general-purpose computers did (and still do).  The Genera environment, in turn, provided workstation-level functionality with a large, high resolution bitmapped graphics display, overlapping windows, and mouse control.  In the early 1980s, before even the Macintosh, this was truly advanced stuff.
+
+  In the early 1990s, Symbolics took a bold step by releasing the Genera software environment, renamed “Open Genera”, on Digital Equipment Corporation's Alpha workstations.  To make this happen, they created a “Virtual Lisp Machine” (VLM) that ran under OSF/1 (later, Digital UNIX) and emulated the full Symbolics Lisp Machine architecture.
+
+  The source code for VLM was written in Lisp, which when executed would generate Alpha assembly instructions.  In the early 2000s, Brad Parker had the brilliant idea to see if he could tweak the Alpha assembly generator to emit snippets of C code instead.  It worked, and the results were compiled for 64-bit Linux.
+
+  And here we reach a grey area.  Symbolics was dissolved in the mid 1990s, and the current state of its intellectual property is muddled.  The rights holders of VLM and Genera itself are scattered.  There is no longer any “Symbolics, Inc.”
+
+  With that in mind...
+
+  This document is meant to guide you through installing the VLM and Symbolics Open Genera on a modern 64-bit Linux system.  If you choose to do so, please be aware that you may or may not be violating someone's copyrights.  Have fun and play safe!
+#+end_quote

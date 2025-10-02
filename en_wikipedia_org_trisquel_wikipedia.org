@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       0ae8af6d-637d-4f34-a0b9-10b4f98c704a
+:ROAM_REFS: https://en.wikipedia.org/wiki/Trisquel
+:END:
+#+title: (en.wikipedia.org) Trisquel - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  *Trisquel* (full name *Trisquel GNU/Linux*) is a computer [[https://en.wikipedia.org/wiki/Operating_system][operating system]], a [[https://en.wikipedia.org/wiki/Linux_distribution][Linux distribution]], derived from another distribution, [[https://en.wikipedia.org/wiki/Ubuntu][Ubuntu]].  The project aims for a fully [[https://en.wikipedia.org/wiki/Free_software][free software]] system without [[https://en.wikipedia.org/wiki/Proprietary_software][proprietary software]] or [[https://en.wikipedia.org/wiki/Firmware][firmware]] and uses a version of Ubuntu's modified kernel, with the non-free code ([[https://en.wikipedia.org/wiki/Binary_blob][binary blobs]]) removed.  Trisquel relies on user donations, as a non-profit group.  Its logo is a [[https://en.wikipedia.org/wiki/Triskelion][triskelion]], a [[https://en.wikipedia.org/wiki/Celts][Celtic]] symbol.  Trisquel is listed by the [[https://en.wikipedia.org/wiki/Free_Software_Foundation][Free Software Foundation]] as a distribution that contains only free software.
+#+end_quote
