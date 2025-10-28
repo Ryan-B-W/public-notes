@@ -12,8 +12,11 @@
 Links to:
  - [[https://dspace.mit.edu/bitstream/handle/1721.1/5794/AIM-349.pdf]]
  - [[https://apps.dtic.mil/sti/pdfs/ADA030751.pdf]]
+   - Alt: https://dspace.mit.edu/bitstream/handle/1721.1/5790/AIM-353.pdf
  - [[https://apps.dtic.mil/sti/pdfs/ADA034090.pdf]]
+   - Alt: https://dspace.mit.edu/bitstream/handle/1721.1/6091/AIM-379.pdf
  - [[https://apps.dtic.mil/sti/pdfs/ADA062381.pdf]]
+   - Alt: https://dspace.mit.edu/bitstream/handle/1721.1/5753/AIM-443.pdf
  - [[https://dspace.mit.edu/bitstream/handle/1721.1/6094/AIM-453.pdf]]
  - [[https://dspace.mit.edu/bitstream/handle/1721.1/6913/AITR-474.pdf]]
  - [[https://dspace.mit.edu/bitstream/handle/1721.1/5731/AIM-514.pdf]]

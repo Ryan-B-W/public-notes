@@ -37,3 +37,4 @@
 :ID:       1123e3d6-6f9f-4fa8-b001-1a39b23fc4ed
 :ROAM_REFS: https://dspace.mit.edu/bitstream/handle/1721.1/5794/AIM-349.pdf
 :END:
+* [[id:2de597bc-c02c-441d-b058-9f34bf7971c9][(en.wikisource.org) Scheme: An Interpreter for Extended Lambda Calculus/Whole text - Wikisource, the free online library]]

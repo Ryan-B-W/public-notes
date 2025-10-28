@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       ff923f45-7d02-483c-ac4a-26e93647e080
+:ROAM_REFS: https://en.wikisource.org/wiki/Lambda_Papers
+:END:
+#+title: (en.wikisource.org) Lambda Papers - Wikisource, the free online library
+#+filetags: :website:
+
+* (en.wikisource.org) Scheme: An Interpreter for Extended Lambda Calculus - Wikisource, the free online library
+:PROPERTIES:
+:ID:       db07fce0-3feb-4878-9fd2-8cbc6b5e998c
+:ROAM_REFS: https://en.wikisource.org/wiki/Scheme:_An_Interpreter_for_Extended_Lambda_Calculus
+:END:
+** (en.wikisource.org) Scheme: An Interpreter for Extended Lambda Calculus/Whole text - Wikisource, the free online library
+:PROPERTIES:
+:ID:       2de597bc-c02c-441d-b058-9f34bf7971c9
+:ROAM_REFS: https://en.wikisource.org/wiki/Scheme:_An_Interpreter_for_Extended_Lambda_Calculus/Whole_text
+:END:
