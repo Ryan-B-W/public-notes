@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       a41d9d91-ca31-4d67-965f-5f4266a7a943
+:ROAM_REFS: https://www.youtube.com/watch?v=Zda7yMbbW7s
+:END:
+#+title: (www.youtube.com) Def Con 31 - Backdoor in the Core - Altering Intel X86 Instruction Set at Runtime - Krog, Skovsende - YouTube
+#+filetags: :security:x86:computer_architecture:computer_science:presentation:video:website:
+
+#+begin_quote
+  In this work, we present the novel results of our research on Intel CPU microcode.  Building upon prior research on Intel Goldmont CPUs, we have reverse-engineered the implementations of complex x86 instructions, leading to the discovery of hidden microcode which serves to prevent the persistence of any changes made.  Using this knowledge, we were able to patch those discovered sections, allowing us to make persistent microcode changes from userspace on Linux.  We have developed and improved microcode tracing tools, giving us deeper insight into Intel Atom microcode than was previously possible, by allowing more dynamic analysis of the ROM.
+
+  Along with this presentation, we provide a C library for making microcode changes and documentation on the reverse-engineered microcode.
+
+  We show that vendor updates to the microcode, which cannot be verified by the user, impose a security risk by demonstrating how a Linux system can be compromised through a backdoor within a CPU core's microcode.
+#+end_quote

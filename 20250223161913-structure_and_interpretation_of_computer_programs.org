@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       bc4f5e4a-5bb9-47f7-8086-d12236fe793f
+:ROAM_ALIASES: SICP SICP2e
 :END:
 #+title: Structure and Interpretation of Computer Programs
 #+filetags: :software_development:programming:lisp:scheme:textbooks:education_resource:computer_science:books:

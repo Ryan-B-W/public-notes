@@ -1,9 +1,15 @@
 :PROPERTIES:
+:ID:       bbb9249f-c536-41e0-9b48-7046483b9295
+:ROAM_ALIASES: AIM-349
+:END:
+#+title: Scheme: An Interpreter for Extended Lambda Calculus
+#+filetags: :scheme:lisp:computer_science:science_paper:
+
+* (dspace.mit.edu) SCHEME: An Interpreter for Extended Lambda Calculus :website:
+:PROPERTIES:
 :ID:       f9becc17-636b-4671-b28c-5ae6fe8bb5fa
 :ROAM_REFS: https://dspace.mit.edu/handle/1721.1/5794
 :END:
-#+title: (dspace.mit.edu) SCHEME: An Interpreter for Extended Lambda Calculus
-#+filetags: :website:
 
 #+begin_quote
   ** SCHEME: An Interpreter for Extended Lambda Calculus
@@ -32,9 +38,10 @@
 
   AIM-349
 #+end_quote
-* (dspace.mit.edu) SCHEME: An Interpreter for Extended Lambda Calculus (AIM-349.pdf) :mime_type_application_pdf:
+** (dspace.mit.edu) SCHEME: An Interpreter for Extended Lambda Calculus (AIM-349.pdf) :mime_type_application_pdf:
 :PROPERTIES:
 :ID:       1123e3d6-6f9f-4fa8-b001-1a39b23fc4ed
 :ROAM_REFS: https://dspace.mit.edu/bitstream/handle/1721.1/5794/AIM-349.pdf
 :END:
-* [[id:2de597bc-c02c-441d-b058-9f34bf7971c9][(en.wikisource.org) Scheme: An Interpreter for Extended Lambda Calculus/Whole text - Wikisource, the free online library]]
+* [[id:db07fce0-3feb-4878-9fd2-8cbc6b5e998c][(en.wikisource.org) Scheme: An Interpreter for Extended Lambda Calculus - Wikisource, the free online library]]
+** [[id:2de597bc-c02c-441d-b058-9f34bf7971c9][(en.wikisource.org) Scheme: An Interpreter for Extended Lambda Calculus/Whole text - Wikisource, the free online library]]

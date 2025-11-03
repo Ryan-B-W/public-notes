@@ -9,6 +9,46 @@
   [[https://texdraft.github.io/lisp-compiler/listing.html][Lisp compiler source code]]
   [[https://texdraft.github.io/lisp-compiler/internals.html][Lisp compiler internals]]
 #+end_quote
+* (texdraft.github.io) Lisp Compiler
+:PROPERTIES:
+:ID:       8e828444-d654-43f9-8430-1314204ced46
+:ROAM_REFS: https://texdraft.github.io/lisp-compiler/internals.html
+:END:
+
+#+begin_quote
+  * The First Lisp Compiler
+
+  ** By Asher Olsen
+
+  ** [[https://texdraft.github.io/lisp-compiler/internals.html#introduction][Introduction]]
+
+  This page examines the earliest surviving Lisp compiler, written by Timothy Hart and Michael Levin around 1961.  To avoid repetition of phrases like “the compiler”, we will use the abbreviation “HLC” (for “Hart--Levin Compiler”) to refer to it.  The HLC was introduced in [[ftp://publications.ai.mit.edu/ai-publications/pdf/AIM-039.pdf][M.I.T. AIM-039]] and documented more fully in the [[http://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf][LISP 1.5 Programmer's Manual]] by McCarthy et al.
+
+  For information about the timeline of Lisp compilers, I refer you to the ques­tion “[[https://retrocomputing.stackexchange.com/a/12279][What was the first Lisp compiler]]” on the [[https://retrocomputing.stackexchange.com/][Retrocomputing Stack­Exchange site]]; the answer there gives an excellent overview.  We will be focusing on implementation details.  It should be mentioned, however, that al­though the title of this page is “The /First/ Lisp Compiler”, the HLC is really the /second/ Lisp compiler.  A more correct title would be “The First Good Lisp Com­piler” or “The First Lisp Compiler Whose Source Code is Available”.
+
+  In order to understand the HLC, a decent amount of prequisite knowledge is required, about the machine LISP 1.5 ran on and about LISP 1.5 itself.  If you aren't already familiar, I recommend reading the [[http://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf][LISP 1.5 Programmer's Manual]] linked above and checking out Jack Harper's [[https://web.archive.org/web/20200630102054/http://www.frobenius.com/7090.htm][site on the IBM 7090]].  You might also be interested in [[https://github.com/munificent/craftinginterpreters/issues/906][a GitHub issue I wrote a little while ago]].
+
+  ** [[https://texdraft.github.io/lisp-compiler/internals.html#the-source][The source]]
+
+  The source code of the HLC comes from [[https://github.com/rcornwell/ctss][an archive of CTSS source code]], namely [[https://github.com/rcornwell/ctss/blob/master/extra/lisp/lispset.job#L278][lines 278--592 of file ctss/lispset.job]].  Reading the code in its original form is quite difficult, since there is virtually no indentation or meaningful spacing.  Occasionally atoms will start on one line/card and end on the next!  And of course all-uppercase text is not known for being especially readable.  Therefore I have prepared a [[https://texdraft.github.io/lisp-compiler/listing.html][formatted and cross-referenced version of the code]] for easy viewing.
+
+  Even though the code looks pretty, I still find it hard to follow.  All destruc­turing is done with compositions of car and cdr. (I'm not criticizing the authors here, since it's not like LISP 1.5 gave them anything better to work with.  But it feels like a step down when compared to Common Lisp, where we have [[http://www.lispworks.com/documentation/lw50/CLHS/Body/03_d.htm][fancy lambda lists]] and [[http://www.lispworks.com/documentation/lw50/CLHS/Body/m_destru.htm#destructuring-bind][destructuring-bind]].) An additional obscurity lies in the choices of function and variable names.  For example, the name [[https://texdraft.github.io/lisp-compiler/listing.html#definition-pi2][pi2]] provides no clue as to its purpose (which is to construct a setq form).  I think this is an assembly language convention.
+
+  To run the code, you could try [[http://www.softwarepreservation.org/projects/LISP/lisp15_family#LISP_I_and_LISP_1.5_for_IBM_704,_709,_7090_][simulating the LISP 1.5 system]], or you can use [[https://gist.github.com/texdraft/5570f5e7a9b71f245d8eb1f442c9c47c][my translation to Common Lisp]].  Note: This translation does the bare mini­mum to get it running.  I make no attempt to use any high-level Common Lisp constructs; the aim was to leave the code as unchanged as possible except to add indentation.  To compile the compiler, uncomment the lines at the bottom.
+
+  The source code of an earlier version of the HLC also exists, in a document titled “[[http://www.softwarepreservation.org/projects/LISP/lisp1.5/LISP_LIBRARY_NOVEMBER_1963.pdf][LISP LIBRARY NOVEMBER 1963]]”.
+#+end_quote
+* (texdraft.github.io) Lisp compiler source
+:PROPERTIES:
+:ID:       7c937363-9ca9-4492-b2d6-5f7a18348633
+:ROAM_REFS: https://texdraft.github.io/lisp-compiler/listing.html
+:END:
+
+#+begin_quote
+  Here is a pretty-printed listing of the first Lisp compiler's source code.  Click on a reference to a function to be taken to its definition.  Prog tags are also hyperlinked.  The entry point is the [[https://texdraft.github.io/lisp-compiler/listing.html#definition-compile][compile]] function.
+
+  See [[https://texdraft.github.io/lisp-compiler/listing.html#formatting-notes][below]], after the listing, for notes on the formatting.
+#+end_quote
 * (texdraft.github.io) LISP 1.5 Source
 :PROPERTIES:
 :ID:       859eefb6-e694-4907-a5f8-bb5168627b62
@@ -59,35 +99,6 @@
   When you click on a symbol in the variable field, you'll be taken to that symbol's point of definition.  Hover over integers to see their magnitude in octal and decimal.
 
   Good luck!
-#+end_quote
-* (texdraft.github.io) Lisp Compiler
-:PROPERTIES:
-:ID:       8e828444-d654-43f9-8430-1314204ced46
-:ROAM_REFS: https://texdraft.github.io/lisp-compiler/internals.html
-:END:
-
-#+begin_quote
-  * The First Lisp Compiler
-
-  ** By Asher Olsen
-
-  ** [[https://texdraft.github.io/lisp-compiler/internals.html#introduction][Introduction]]
-
-  This page examines the earliest surviving Lisp compiler, written by Timothy Hart and Michael Levin around 1961.  To avoid repetition of phrases like “the compiler”, we will use the abbreviation “HLC” (for “Hart--Levin Compiler”) to refer to it.  The HLC was introduced in [[ftp://publications.ai.mit.edu/ai-publications/pdf/AIM-039.pdf][M.I.T. AIM-039]] and documented more fully in the [[http://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf][LISP 1.5 Programmer's Manual]] by McCarthy et al.
-
-  For information about the timeline of Lisp compilers, I refer you to the ques­tion “[[https://retrocomputing.stackexchange.com/a/12279][What was the first Lisp compiler]]” on the [[https://retrocomputing.stackexchange.com/][Retrocomputing Stack­Exchange site]]; the answer there gives an excellent overview.  We will be focusing on implementation details.  It should be mentioned, however, that al­though the title of this page is “The /First/ Lisp Compiler”, the HLC is really the /second/ Lisp compiler.  A more correct title would be “The First Good Lisp Com­piler” or “The First Lisp Compiler Whose Source Code is Available”.
-
-  In order to understand the HLC, a decent amount of prequisite knowledge is required, about the machine LISP 1.5 ran on and about LISP 1.5 itself.  If you aren't already familiar, I recommend reading the [[http://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf][LISP 1.5 Programmer's Manual]] linked above and checking out Jack Harper's [[https://web.archive.org/web/20200630102054/http://www.frobenius.com/7090.htm][site on the IBM 7090]].  You might also be interested in [[https://github.com/munificent/craftinginterpreters/issues/906][a GitHub issue I wrote a little while ago]].
-
-  ** [[https://texdraft.github.io/lisp-compiler/internals.html#the-source][The source]]
-
-  The source code of the HLC comes from [[https://github.com/rcornwell/ctss][an archive of CTSS source code]], namely [[https://github.com/rcornwell/ctss/blob/master/extra/lisp/lispset.job#L278][lines 278--592 of file ctss/lispset.job]].  Reading the code in its original form is quite difficult, since there is virtually no indentation or meaningful spacing.  Occasionally atoms will start on one line/card and end on the next!  And of course all-uppercase text is not known for being especially readable.  Therefore I have prepared a [[https://texdraft.github.io/lisp-compiler/listing.html][formatted and cross-referenced version of the code]] for easy viewing.
-
-  Even though the code looks pretty, I still find it hard to follow.  All destruc­turing is done with compositions of car and cdr. (I'm not criticizing the authors here, since it's not like LISP 1.5 gave them anything better to work with.  But it feels like a step down when compared to Common Lisp, where we have [[http://www.lispworks.com/documentation/lw50/CLHS/Body/03_d.htm][fancy lambda lists]] and [[http://www.lispworks.com/documentation/lw50/CLHS/Body/m_destru.htm#destructuring-bind][destructuring-bind]].) An additional obscurity lies in the choices of function and variable names.  For example, the name [[https://texdraft.github.io/lisp-compiler/listing.html#definition-pi2][pi2]] provides no clue as to its purpose (which is to construct a setq form).  I think this is an assembly language convention.
-
-  To run the code, you could try [[http://www.softwarepreservation.org/projects/LISP/lisp15_family#LISP_I_and_LISP_1.5_for_IBM_704,_709,_7090_][simulating the LISP 1.5 system]], or you can use [[https://gist.github.com/texdraft/5570f5e7a9b71f245d8eb1f442c9c47c][my translation to Common Lisp]].  Note: This translation does the bare mini­mum to get it running.  I make no attempt to use any high-level Common Lisp constructs; the aim was to leave the code as unchanged as possible except to add indentation.  To compile the compiler, uncomment the lines at the bottom.
-
-  The source code of an earlier version of the HLC also exists, in a document titled “[[http://www.softwarepreservation.org/projects/LISP/lisp1.5/LISP_LIBRARY_NOVEMBER_1963.pdf][LISP LIBRARY NOVEMBER 1963]]”.
 #+end_quote
 * See Also
 ** [[id:ff9fbc90-85a8-4b34-a759-a9cc19b9ed15][(www.softwarepreservation.org) LISP 1.5 Programmer's Manual - LISP 1.5 Programmers Manual.pdf]]

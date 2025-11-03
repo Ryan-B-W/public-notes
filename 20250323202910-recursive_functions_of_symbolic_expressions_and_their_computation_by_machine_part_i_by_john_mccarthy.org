@@ -1,7 +1,8 @@
 :PROPERTIES:
 :ID:       be8b671a-2bb0-4e85-8116-70e1ace8641c
+:ROAM_ALIASES: "Recursive Functions of Symbolic Expressions and Their Computation by Machine" "Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I by John McCarthy"
 :END:
-#+title: Recursive functions of symbolic expressions and their computation by machine, Part I by John McCarthy
+#+title: Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I
 #+filetags: :science_paper:article:programming:lisp:mathematics:computer_science:
 
 The original [[id:84ae6e85-a6a2-4133-bc53-274238081c2d][Lisp]] paper by [[id:9c394806-9d31-4312-a2cf-ae0d0935f7b1][John McCarthy]].

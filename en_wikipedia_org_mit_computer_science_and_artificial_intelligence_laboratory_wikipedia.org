@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       73952436-c1a6-4cf4-8d6b-93eac0fc3e0d
+:ROAM_REFS: https://en.wikipedia.org/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory
+:END:
+#+title: (en.wikipedia.org) MIT Computer Science and Artificial Intelligence Laboratory - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  *Computer Science and Artificial Intelligence Laboratory* (*CSAIL*) is a [[https://en.wikipedia.org/wiki/Research_institute][research institute]] at the [[https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology][Massachusetts Institute of Technology]] (MIT) formed by the 2003 merger of the Laboratory for Computer Science (LCS) and the Artificial Intelligence Laboratory (AI Lab).  Housed within the [[https://en.wikipedia.org/wiki/Ray_and_Maria_Stata_Center][Ray and Maria Stata Center]], CSAIL is the largest on-campus laboratory as measured by research scope and membership.  It is part of the [[https://en.wikipedia.org/wiki/Schwarzman_College_of_Computing][Schwarzman College of Computing]] but is also overseen by the MIT Vice President of Research.
+#+end_quote
+
+* (en.wikipedia.org) Project MAC - History - MIT Computer Science and Artificial Intelligence Laboratory - Wikipedia
+:PROPERTIES:
+:ID:       b344089a-745e-4116-93d2-3ff12a48ed47
+:ROAM_REFS: https://en.wikipedia.org/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory#Project_MAC
+:END:
+#+begin_quote
+  *** Project MAC
+
+  On July 1, 1963, Project MAC (the Project on Mathematics and Computation, later [[https://en.wikipedia.org/wiki/Backronym][backronymed]] to Multiple Access Computer, Machine Aided Cognitions, or Man and Computer) was launched with a $2 million grant from the [[https://en.wikipedia.org/wiki/DARPA][Defense Advanced Research Projects Agency]] (DARPA).  Project MAC's original director was [[https://en.wikipedia.org/wiki/Robert_Fano][Robert Fano]] of MIT's Research Laboratory of Electronics (RLE).  Fano decided to call MAC a "project" rather than a "laboratory" for reasons of internal MIT politics -- if MAC had been called a laboratory, then it would have been more difficult to raid other MIT departments for research staff.  The program manager responsible for the DARPA grant was [[https://en.wikipedia.org/wiki/J._C._R._Licklider][J. C. R. Licklider]], who had previously been at MIT conducting research in RLE, and would later succeed Fano as director of Project MAC.
+
+  Project MAC would become famous for groundbreaking research in [[https://en.wikipedia.org/wiki/Operating_system][operating systems]], [[https://en.wikipedia.org/wiki/Artificial_intelligence][artificial intelligence]], and the [[https://en.wikipedia.org/wiki/Theory_of_computation][theory of computation]].  Its contemporaries included [[https://en.wikipedia.org/wiki/Project_Genie][Project Genie]] at [[https://en.wikipedia.org/wiki/University_of_California,_Berkeley][Berkeley]], the [[https://en.wikipedia.org/wiki/Stanford_University_centers_and_institutes#Stanford_Artificial_Intelligence_Laboratory][Stanford Artificial Intelligence Laboratory]], and (somewhat later) [[https://en.wikipedia.org/wiki/University_of_Southern_California][University of Southern California]]'s (USC's) [[https://en.wikipedia.org/wiki/Information_Sciences_Institute][Information Sciences Institute]].
+
+  An "AI Group" including [[https://en.wikipedia.org/wiki/Marvin_Minsky][Marvin Minsky]] (the director), [[https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)][John McCarthy]] (inventor of [[https://en.wikipedia.org/wiki/Lisp_(programming_language)][Lisp]]), and a talented community of computer programmers were incorporated into Project MAC.  They were interested principally in the problems of vision, mechanical motion and manipulation, and language, which they view as the keys to more intelligent machines.  In the 1960s and 1970s the AI Group developed a [[https://en.wikipedia.org/wiki/Time-sharing][time-sharing]] operating system called [[https://en.wikipedia.org/wiki/Incompatible_Timesharing_System][Incompatible Timesharing System]] (ITS) which ran on [[https://en.wikipedia.org/wiki/PDP-6][PDP-6]] and later [[https://en.wikipedia.org/wiki/PDP-10][PDP-10]] computers.
+
+  The early Project MAC community included Fano, Minsky, Licklider, [[https://en.wikipedia.org/wiki/Fernando_J._Corbató][Fernando J. Corbató]], and a community of computer programmers and [[https://en.wikipedia.org/wiki/Tech_Model_Railroad_Club][enthusiasts]] among others who drew their inspiration from former colleague John McCarthy.  These founders envisioned the creation of a [[https://en.wikipedia.org/wiki/Utility_computing][computer utility]] whose computational power would be as reliable as an electric utility.  To this end, Corbató brought the first computer [[https://en.wikipedia.org/wiki/Time-sharing][time-sharing]] system, [[https://en.wikipedia.org/wiki/Compatible_Time-Sharing_System][Compatible Time-Sharing System]] (CTSS), with him from the MIT Computation Center, using the DARPA funding to purchase an [[https://en.wikipedia.org/wiki/IBM_7090#IBM_7094][IBM 7094]] for research use.  One of the early focuses of Project MAC would be the development of a successor to CTSS, [[https://en.wikipedia.org/wiki/Multics][Multics]], which was to be the first [[https://en.wikipedia.org/wiki/High_availability][high availability]] computer system, developed as a part of an industry consortium including [[https://en.wikipedia.org/wiki/General_Electric][General Electric]] and [[https://en.wikipedia.org/wiki/Bell_Labs][Bell Laboratories]].
+#+end_quote

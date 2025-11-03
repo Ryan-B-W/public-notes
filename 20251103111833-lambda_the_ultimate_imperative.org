@@ -1,0 +1,55 @@
+:PROPERTIES:
+:ID:       463d922c-d592-474d-a064-a803f58a55d0
+:ROAM_ALIASES: AIM-353
+:END:
+#+title: Lambda: The Ultimate Imperative
+#+filetags: :scheme:lisp:computer_science:science_paper:
+
+* (dspace.mit.edu) Lambda: The Ultimate Imperative                  :website:
+:PROPERTIES:
+:ID:       06d89c6d-598a-464a-8f0b-f8fc632d8c24
+:ROAM_REFS: https://dspace.mit.edu/handle/1721.1/5790
+:END:
+
+#+begin_quote
+  ** Lambda: The Ultimate Imperative
+
+  ***** Author(s)
+
+  Steele, Guy Lewis, Jr.; Sussman, Gerald Jay
+
+  ***** Abstract
+
+  We demonstrate how to model the following common programmingsconstructs in terms of an applicative order language similar to LISP: Simple Recursion, Iteration, Compound Statements and Expressions, GO TO and Assignment, Continuation-Passing, Escape Expressions, Fluid Variables, Call by Name, Call by Need, and Call by Reference.  The models require only (possibly self-referent) lambda application, conditionals, and (rarely) assignment.  No complex data structures such as stacks are used.  The models are transparent, involving only local syntactic transformations.  This paper is partly tutorial in intent, gathering all the models together for purposes of context.
+
+  ***** Date issued
+
+  1976-03-01
+
+  ***** URI
+
+  [[http://hdl.handle.net/1721.1/5790]]
+
+  ***** Other identifiers
+
+  AIM-353
+
+  ***** Series/Report no.
+
+  AIM-353
+#+end_quote
+** (dspace.mit.edu) Lambda: The Ultimate Imperative (AIM-353.pdf) :mime_type_application_pdf:
+:PROPERTIES:
+:ID:       e51924f3-9d5c-41e6-9914-12578a505eb5
+:ROAM_REFS: https://dspace.mit.edu/bitstream/handle/1721.1/5790/AIM-353.pdf
+:END:
+* (en.wikisource.org) Lambda: The Ultimate Imperative - Wikisource, the free online library :website:
+:PROPERTIES:
+:ID:       47b5d442-2c2e-4d51-acc0-80ac2dc57e9b
+:ROAM_REFS: https://en.wikisource.org/wiki/Lambda:_The_Ultimate_Imperative
+:END:
+* (apps.dtic.mil) Lambda: The Ultimate Imperative (ADA030751.pdf) :mime_type_application_pdf:
+:PROPERTIES:
+:ID:       5d380ab7-a0db-4db7-90e1-f2e6c86357f5
+:ROAM_REFS: https://apps.dtic.mil/sti/pdfs/ADA030751.pdf
+:END:

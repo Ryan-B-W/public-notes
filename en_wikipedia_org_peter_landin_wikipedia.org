@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       08fd057d-88a6-49f2-a39e-a44d8503ba82
+:ROAM_REFS: https://en.wikipedia.org/wiki/Peter_Landin
+:END:
+#+title: (en.wikipedia.org) Peter Landin - Wikipedia
+#+filetags: :people:website:
+
+#+begin_quote
+  *Peter John Landin* (5 June 1930 -- 3 June 2009) was a British [[https://en.wikipedia.org/wiki/Computer_scientist][computer scientist]].  He was one of the first to realise that the [[https://en.wikipedia.org/wiki/Lambda_calculus][lambda calculus]] could be used to model a [[https://en.wikipedia.org/wiki/Programming_language][programming language]], an insight that is essential to the development of both [[https://en.wikipedia.org/wiki/Functional_programming][functional programming]] and [[https://en.wikipedia.org/wiki/Denotational_semantics][denotational semantics]].
+#+end_quote

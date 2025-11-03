@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       a9d1cdf8-12df-46e4-8b8d-d29ca70ded53
+:ROAM_REFS: https://en.wikipedia.org/wiki/ISWIM
+:END:
+#+title: (en.wikipedia.org) ISWIM - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  *ISWIM* (*If You See What I Mean*) is an abstract computer [[https://en.wikipedia.org/wiki/Programming_language][programming language]] (or a family of languages) devised by [[https://en.wikipedia.org/wiki/Peter_Landin][Peter Landin]] and first described in his article "The Next 700 Programming Languages", published in the /[[https://en.wikipedia.org/wiki/Communications_of_the_ACM][Communications of the ACM]]/ in 1966.
+
+  Although not implemented, it has proved very influential in the development of programming languages, especially [[https://en.wikipedia.org/wiki/Functional_programming][functional programming]] languages such as [[https://en.wikipedia.org/wiki/SASL_(programming_language)][SASL]], [[https://en.wikipedia.org/wiki/Miranda_(programming_language)][Miranda]], [[https://en.wikipedia.org/wiki/ML_(programming_language)][ML]], [[https://en.wikipedia.org/wiki/Haskell][Haskell]] and their successors, and [[https://en.wikipedia.org/wiki/Dataflow_programming][dataflow programming]] languages like [[https://en.wikipedia.org/wiki/Lucid_(programming_language)][Lucid]].
+#+end_quote

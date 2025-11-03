@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       88f292a5-2e0a-4ae0-b713-a87550568a9a
+:ROAM_REFS: https://en.wikipedia.org/wiki/Maclisp
+:END:
+#+title: (en.wikipedia.org) Maclisp - Wikipedia
+#+filetags: :website:
+
+#+begin_quote
+  *Maclisp* (or *MACLISP*, sometimes styled *MacLisp* or *MacLISP*) is a [[https://en.wikipedia.org/wiki/Programming_language][programming language]], a [[https://en.wikipedia.org/wiki/Dialect_(computing)][dialect]] of the language [[https://en.wikipedia.org/wiki/Lisp_(programming_language)][Lisp]].  It originated at the [[https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology][Massachusetts Institute of Technology]]'s (MIT) [[https://en.wikipedia.org/wiki/Project_MAC][Project MAC]] (from which it derived its prefix) in the late 1960s and was based on Lisp 1.5. [[https://en.wikipedia.org/wiki/Richard_Greenblatt_(programmer)][Richard Greenblatt]] was the main developer of the original codebase for the [[https://en.wikipedia.org/wiki/PDP-6][PDP-6]]; Jon L. White was responsible for its later maintenance and development.  The name /Maclisp/ began being used in the early 1970s to distinguish it from other [[https://en.wikipedia.org/wiki/Fork_(software_development)][forks]] of PDP-6 Lisp, notably [[https://en.wikipedia.org/wiki/BBN_Lisp][BBN Lisp]].
+#+end_quote
